@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">responsable de site de traitement des déchets</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe/me déplacer souvent/préserver l'environnement</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction encadrement - coordination</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur environnement/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">gestion des déchets/traitement des déchets industriels</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE nettoyage assainissement environnement sécurité</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100589</lien_onisep>
+<ROME Level="1B" csRelFld="100589">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="517" csRelFld="517">
+<CSLABELFLD label="">K2306</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Propreté et environnement urbain</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K2306</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Supervision d'exploitation éco-industrielle</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100589">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1506" csRelFld="1506">
+<CSLABELFLD label="">chef d'exploitation d'usine d'incinération</CSLABELFLD>
+<MET_ID label="Identifiant">100589</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">24/10/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1506</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chef/fe d'exploitation d'usine d'incinération</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1506">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1509" csRelFld="1509">
+<CSLABELFLD label="">responsable de centre d'enfouissement</CSLABELFLD>
+<MET_ID label="Identifiant">100589</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">24/10/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1509</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">responsable de centre d'enfouissement</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1509">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1508" csRelFld="1508">
+<CSLABELFLD label="">responsable de déchetterie</CSLABELFLD>
+<MET_ID label="Identifiant">100589</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">24/10/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1508</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">responsable de déchetterie</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1508">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1510" csRelFld="1510">
+<CSLABELFLD label="">responsable de plate-forme de recyclage ou de centre de tri</CSLABELFLD>
+<MET_ID label="Identifiant">100589</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">24/10/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1510</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">responsable de plate-forme de recyclage ou de centre de tri</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1510">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1507" csRelFld="1507">
+<CSLABELFLD label="">responsable d'unité de valorisation énergétique</CSLABELFLD>
+<MET_ID label="Identifiant">100589</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">24/10/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1507</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">responsable d'unité de valorisation énergétique</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1507">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="55528" csRelFld="55528">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55528</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100589</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Coordonner le recyclage</inter>
+<p>Les déchets ménagers sont recyclés (36 % contre 26 % en 2000), brûlés (30 %) ou stockés (cette part diminue), selon une étude de l'Ademe (Agence de l'environnement et de la maîtrise de l'énergie). Les déchets sont devenus une matière première et le responsable de site de traitement des déchets est un acteur majeur de cette évolution. Papiers, cartons, plastiques, gravats, bois et palettes... à chacun sa filière de recyclage. </p>
+<p>Le responsable de site de traitement des déchets coordonne les différentes unités de traitement et de valorisation des déchets dont il a la charge. Il organise les opérations en fonction de la nature des déchets recueillis : enfouissement, incinération, compostage, transformation... Il est chargé de mettre au point des technologies propres et d'apporter son expertise technique lors de la conception des sites.</p>
+<inter>Superviser les équipes techniques</inter>
+<p>Il est le garant du bon fonctionnement quotidien de l'usine d'incinération ou de la plate-forme de recyclage. Il contrôle les procédures techniques, s'assure de la sécurité du personnel et encadre l'activité des chefs d'équipe. Il veille au respect de la réglementation ainsi qu'à la protection de l'environnement, en faisant par exemple analyser des prélèvements effectués sur des sites à risques.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55532" csRelFld="55532">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55532</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100589</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Un bac + 2 (BTS métiers des services à l'environnement, bioanalyses et contrôles, métiers de la chimie ; DUT génie biologique option génie de l'environnement), avec une certaine expérience, permet d'occuper un poste de technicien et de diriger des équipes. Mais la formation peut être complétée à bac + 3 ou au-delà. En effet, pour un site de traitement important, il est préférable d'être titulaire d'un bac + 5 (master ou diplôme d'ingénieur).</p>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence pro chimie analytique, contrôle, qualité, environnement</itsimp>
+<itsimp>Licence pro génie des procédés pour l'environnement</itsimp>
+<itsimp>Licence pro métiers de la protection et de la gestion de l'environnement</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master orienté en ingénierie des déchets, valorisation et gestion durable des déchets et de l'énergie, microbiologie de l'environnement...</itsimp>
+<itsimp>Diplôme d'ingénieur en électricité, automatismes, thermique, travaux publics, génie civil, hydraulique, chimie...</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 6</tete>
+<itsimp>Mastère orienté en gestion, traitement et valorisation des déchets </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55530" csRelFld="55530">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55530</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100589</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Au sein d'une PME/PMI du recyclage </inter>
+<p>Il existe des emplois dans de nombreuses PME/PMI (petites et moyennes entreprises/industries) spécialisées dans le recyclage des déchets ménagers et/ou industriels et dans le stockage des déchets ultimes (la part qui reste après toutes les phases de recyclage et qui ne peut plus être réduite). Ces entreprises proposent, par exemple, des solutions (de la collecte à la valorisation) aux entreprises du bâtiment, dont les activités produisent des gravats qui représentent des tonnages très importants. </p>
+<inter>Dans un grand groupe industriel</inter>
+<p>Le responsable de traitement des déchets peut aussi être employé par de grands groupes industriels spécialisés dans le traitement des déchets : Veolia (Onyx, Sarp), Suez Environnement (Novergie), etc. Il peut alors évoluer au sein du groupe en devenant directeur de site, en dirigeant des équipes plus importantes ou en étant muté géographiquement. Par ailleurs, certaines industries d'autres secteurs ont mis en place leurs propres installations de dépollution.</p>
+<inter>En collectivité locale</inter>
+<p>Il peut aussi travailler dans le secteur public : lorsqu'une usine d'incinération ou un centre de tri est géré en régie directe par une collectivité. L'évolution de carrière dépend alors de la réussite à des concours internes. </p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1515</sal> euros brut par mois (pour un technicien de la fonction publique territoriale).</p>
+<p>2500 euros brut par mois (pour un ingénieur dans le secteur privé).</p>
+<postit>
+<p>Sources : grille indiciaire territoriale, 2014 ; Apec (Association pour l'emploi des cadres), 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,328 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Administrateur / Administratrice judiciaire",
+            "priorisation": "1",
+            "libelle": "Administrateur / Administratrice judiciaire",
+            "code_ogr": "10312"
+        },
+        {
+            "libelle_court": "Commissaire-priseur / Commissaire-priseure",
+            "priorisation": "1",
+            "libelle": "Commissaire-priseur / Commissaire-priseure",
+            "code_ogr": "12775"
+        },
+        {
+            "libelle_court": "Commissaire-priseur / Commissaire-priseuse judiciaire",
+            "priorisation": "1",
+            "libelle": "Commissaire-priseur / Commissaire-priseuse judiciaire",
+            "code_ogr": "12776"
+        },
+        {
+            "libelle_court": "Conciliateur / Conciliatrice de justice",
+            "priorisation": "1",
+            "libelle": "Conciliateur / Conciliatrice de justice",
+            "code_ogr": "12847"
+        },
+        {
+            "libelle_court": "Huissier / Huissi\u00e8re de justice",
+            "priorisation": "1",
+            "libelle": "Huissier / Huissi\u00e8re de justice",
+            "code_ogr": "15495"
+        },
+        {
+            "libelle_court": "Huissier / Huissi\u00e8re du tr\u00e9sor public",
+            "priorisation": "1",
+            "libelle": "Huissier / Huissi\u00e8re du tr\u00e9sor public",
+            "code_ogr": "15496"
+        },
+        {
+            "libelle_court": "Mandataire de justice",
+            "priorisation": "1",
+            "libelle": "Mandataire de justice",
+            "code_ogr": "16340"
+        },
+        {
+            "libelle_court": "Mandataire liquidateur / liquidatrice",
+            "priorisation": "1",
+            "libelle": "Mandataire liquidateur / liquidatrice",
+            "code_ogr": "16342"
+        },
+        {
+            "libelle_court": "M\u00e9diateur / M\u00e9diatrice judiciaire",
+            "priorisation": "1",
+            "libelle": "M\u00e9diateur / M\u00e9diatrice judiciaire",
+            "code_ogr": "16606"
+        },
+        {
+            "libelle_court": "M\u00e9diateur / M\u00e9diatrice p\u00e9nal",
+            "priorisation": "1",
+            "libelle": "M\u00e9diateur / M\u00e9diatrice p\u00e9nal",
+            "code_ogr": "16607"
+        },
+        {
+            "libelle_court": "Notaire",
+            "priorisation": "1",
+            "libelle": "Notaire",
+            "code_ogr": "16995"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Informer et conseiller les clients sur des questions d'ordre juridique",
+            "code_ogr": "2187",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contractualiser avec le client l'action \u00e0 mener et le montant des honoraires",
+            "code_ogr": "1001",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir les contrats, constats, attestations d'authenticit\u00e9 \u00e0 valeur d'actes juridiques",
+            "code_ogr": "1876",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accomplir les formalit\u00e9s n\u00e9cessaires aux proc\u00e9dures juridiques aupr\u00e8s des services comp\u00e9tents",
+            "code_ogr": "552",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "K1902",
+            "libelle_rome_cible": "Collaboration juridique"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible \u00e0 partir d'un niveau bac+4 (IUP, M1, ...) en droit, compl\u00e9t\u00e9 par une exp\u00e9rience professionnelle (stage d'au moins deux ann\u00e9es chez un professionnel).\nUne formation sp\u00e9cifique (histoire de l'art, ...) peut \u00eatre demand\u00e9e pour les postes de commissaires-priseurs.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Conf\u00e9rer l'authenticit\u00e9 d'actes (contrat de mariage, r\u00e8glement de succession, ...) par apposition du sceau de l'Etat et les conserver pour archivage",
+            "code_ogr": "4127",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Recevoir un mandat de gestion des affaires de clients (encaissement de loyers, repr\u00e9sentation juridique, n\u00e9gociation, ...)",
+            "code_ogr": "9440",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Signifier et ex\u00e9cuter des d\u00e9cisions de justice et des actes notari\u00e9s (assignation devant un tribunal, saisie, ...)",
+            "code_ogr": "9676",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Inventorier, expertiser et vendre aux ench\u00e8res publiques divers biens (meubles, machines, ...)",
+            "code_ogr": "7286",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Repr\u00e9senter les cr\u00e9anciers d'une soci\u00e9t\u00e9 lors d'une proc\u00e9dure de redressement judiciaire",
+            "code_ogr": "9601",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Assister ou remplacer des chefs d'entreprise dans le cadre de proc\u00e9dures de redressement judiciaire",
+            "code_ogr": "3835",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Veiller au d\u00e9roulement des audiences judiciaires (appel et placement des t\u00e9moins, v\u00e9rification des identit\u00e9s, ...)",
+            "code_ogr": "10144",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Arr\u00eater une solution de compromis dans une m\u00e9diation sur une d\u00e9gradation mobili\u00e8re, un non paiement de pension alimentaire, ...",
+            "code_ogr": "9448",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'une charge, d'une \u00e9tude ou d'une juridiction en relation avec diff\u00e9rents intervenants (tribunal, minist\u00e8re, acheteurs, entreprises, ...).\nElle peut impliquer des d\u00e9placements (huissier).\nElle varie selon la sp\u00e9cialisation (conseil, expertise, ...), la structure (soci\u00e9t\u00e9 commerciale, ...), la fonction (officier minist\u00e9riel, officier public, ...).\nElle peut s'exercer les fins de semaine, jours f\u00e9ri\u00e9s, de nuit et \u00eatre soumise \u00e0 des astreintes.\nLa r\u00e9mun\u00e9ration peut \u00eatre constitu\u00e9e d'un fixe, de commissions, d'\u00e9moluments fixes ou proportionnels, d'honoraires.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement de proc\u00e8s-verbaux",
+            "code_ogr": "20887",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Etude de commissaire-priseur",
+            "code_ogr": "23926",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etude d'huissier",
+            "code_ogr": "23927",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etude notariale",
+            "code_ogr": "23928",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Juridiction (tribunal de commerce, ...)",
+            "code_ogr": "23980",
+            "code_type_section_env": "1"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Droit civil",
+            "code_ogr": "21793",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Droit commercial",
+            "code_ogr": "21794",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Droit du travail",
+            "code_ogr": "21807",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Droit notarial",
+            "code_ogr": "21813",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Fiscalit\u00e9",
+            "code_ogr": "21947",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Droit europ\u00e9en",
+            "code_ogr": "21809",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Comptabilit\u00e9 g\u00e9n\u00e9rale",
+            "code_ogr": "21738",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestion financi\u00e8re",
+            "code_ogr": "22002",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arch\u00e9ologie",
+            "code_ogr": "21511",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Histoire de l'art et des styles",
+            "code_ogr": "22023",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de pr\u00e9vention et de gestion de conflits",
+            "code_ogr": "23058",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nInforme et conseille des personnes physiques ou morales sur des questions d'ordre juridique. Produit des actes \u00e0 valeur juridique, authentique, incontestable.\nPeut ester (plaider, d\u00e9fendre, ...) en justice pour le compte de clients. Peut organiser des ventes aux ench\u00e8res.\nPeut se substituer \u00e0 des dirigeants pour redresser ou liquider des entreprises en difficult\u00e9.\n",
+    "intitule": "Aide et m\u00e9diation judiciaire",
+    "code_ogr": "400",
+    "code_rome": "K1901",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "C1503",
+            "libelle_rome_cible": "Management de projet immobilier"
+        },
+        {
+            "code_rome_cible": "K1102",
+            "libelle_rome_cible": "Aide aux b\u00e9n\u00e9ficiaires d'une mesure de protection juridique"
+        },
+        {
+            "code_rome_cible": "K1903",
+            "libelle_rome_cible": "D\u00e9fense et conseil juridique"
+        }
+    ]
+}

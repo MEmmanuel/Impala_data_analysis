@@ -1,0 +1,665 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Adjoint(e) au responsable laboratoire d'analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Adjoint / Adjointe au responsable de laboratoire d'analyse industrielle",
+            "code_ogr": "10276"
+        },
+        {
+            "libelle_court": "Adjoint(e) au responsable de laboratoire de contr\u00f4le en ind",
+            "priorisation": "1",
+            "libelle": "Adjoint / Adjointe au responsable de laboratoire de contr\u00f4le en industrie",
+            "code_ogr": "10277"
+        },
+        {
+            "libelle_court": "Adjoint/Adjointe chef de laboratoire d'analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Adjoint / Adjointe chef de laboratoire d'analyse industrielle",
+            "code_ogr": "10288"
+        },
+        {
+            "libelle_court": "Adjoint / Adjointe de laboratoire d'analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Adjoint / Adjointe de laboratoire d'analyse industrielle",
+            "code_ogr": "10292"
+        },
+        {
+            "libelle_court": "Agent(e) de ma\u00eetrise de laboratoire d'analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de ma\u00eetrise de laboratoire d'analyse industrielle",
+            "code_ogr": "10509"
+        },
+        {
+            "libelle_court": "Chef de groupe laboratoire d'analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Chef de groupe laboratoire d'analyse industrielle",
+            "code_ogr": "12166"
+        },
+        {
+            "libelle_court": "Chef de laboratoire d'analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Chef de laboratoire d'analyse industrielle",
+            "code_ogr": "12178"
+        },
+        {
+            "libelle_court": "Chef de quart laboratoire d'analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Chef de quart laboratoire d'analyse industrielle",
+            "code_ogr": "12272"
+        },
+        {
+            "libelle_court": "Chef de service contr\u00f4le laboratoire en industrie",
+            "priorisation": "1",
+            "libelle": "Chef de service contr\u00f4le laboratoire en industrie",
+            "code_ogr": "12344"
+        },
+        {
+            "libelle_court": "Chef de service laboratoire d'analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Chef de service laboratoire d'analyse industrielle",
+            "code_ogr": "12359"
+        },
+        {
+            "libelle_court": "Directeur / Directrice de laboratoire d'analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Directeur / Directrice de laboratoire d'analyse industrielle",
+            "code_ogr": "14277"
+        },
+        {
+            "libelle_court": "Directeur / Directrice de laboratoire v\u00e9t\u00e9rinaire",
+            "priorisation": "1",
+            "libelle": "Directeur / Directrice de laboratoire v\u00e9t\u00e9rinaire",
+            "code_ogr": "14281"
+        },
+        {
+            "libelle_court": "Ing\u00e9nieur / Ing\u00e9nieure contr\u00f4le du bruit",
+            "priorisation": "1",
+            "libelle": "Ing\u00e9nieur / Ing\u00e9nieure contr\u00f4le du bruit",
+            "code_ogr": "15618"
+        },
+        {
+            "libelle_court": "Ing\u00e9nieur / Ing\u00e9nieure d'analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Ing\u00e9nieur / Ing\u00e9nieure d'analyse industrielle",
+            "code_ogr": "15625"
+        },
+        {
+            "libelle_court": "Ing\u00e9nieur / Ing\u00e9nieure en analyses de l'eau et de l'air",
+            "priorisation": "1",
+            "libelle": "Ing\u00e9nieur / Ing\u00e9nieure en analyses de l'eau et de l'air",
+            "code_ogr": "15739"
+        },
+        {
+            "libelle_court": "Ing\u00e9nieur / Ing\u00e9nieure en g\u00e9nie sanitaire des eaux",
+            "priorisation": "1",
+            "libelle": "Ing\u00e9nieur / Ing\u00e9nieure en g\u00e9nie sanitaire des eaux",
+            "code_ogr": "15763"
+        },
+        {
+            "libelle_court": "Ing\u00e9nieur / Ing\u00e9nieure pollution atmosph\u00e9rique",
+            "priorisation": "1",
+            "libelle": "Ing\u00e9nieur / Ing\u00e9nieure pollution atmosph\u00e9rique",
+            "code_ogr": "15858"
+        },
+        {
+            "libelle_court": "Ing\u00e9nieur / Ing\u00e9nieure qualit\u00e9 de l'air",
+            "priorisation": "1",
+            "libelle": "Ing\u00e9nieur / Ing\u00e9nieure qualit\u00e9 de l'air",
+            "code_ogr": "15868"
+        },
+        {
+            "libelle_court": "Ing\u00e9nieur / Ing\u00e9nieure qualit\u00e9 de l'eau",
+            "priorisation": "1",
+            "libelle": "Ing\u00e9nieur / Ing\u00e9nieure qualit\u00e9 de l'eau",
+            "code_ogr": "15869"
+        },
+        {
+            "libelle_court": "Ing\u00e9nieur / Ing\u00e9nieure sanitaire des eaux",
+            "priorisation": "1",
+            "libelle": "Ing\u00e9nieur / Ing\u00e9nieure sanitaire des eaux",
+            "code_ogr": "15880"
+        },
+        {
+            "libelle_court": "Ing\u00e9nieur-analyste / Ing\u00e9nieure-analyste de l'air",
+            "priorisation": "1",
+            "libelle": "Ing\u00e9nieur-analyste / Ing\u00e9nieure-analyste de l'air",
+            "code_ogr": "15912"
+        },
+        {
+            "libelle_court": "Responsable de laboratoire d'analyse des eaux",
+            "priorisation": "1",
+            "libelle": "Responsable de laboratoire d'analyse des eaux",
+            "code_ogr": "18758"
+        },
+        {
+            "libelle_court": "Responsable de laboratoire d'analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Responsable de laboratoire d'analyse industrielle",
+            "code_ogr": "18759"
+        },
+        {
+            "libelle_court": "Responsable de laboratoire de contr\u00f4le en ind pharmaceutique",
+            "priorisation": "1",
+            "libelle": "Responsable de laboratoire de contr\u00f4le en industrie pharmaceutique",
+            "code_ogr": "18760"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Contr\u00f4ler la conformit\u00e9 d'\u00e9talonnage et de fonctionnement des appareils de mesures et d'analyses (chromatographie, spectrographie, ...)",
+            "code_ogr": "1040",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Planifier et suivre la r\u00e9alisation des mesures et analyses et l'interpr\u00e9tation des r\u00e9sultats",
+            "code_ogr": "2502",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Analyser les r\u00e9sultats de mesures et d'analyses, identifier les non-conformit\u00e9s et mettre en place les actions correctives",
+            "code_ogr": "677",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Valider les r\u00e9sultats de mesures et d'analyses et les communiquer aux services qualit\u00e9, production, aux clients, aux \u00e9lus, ...",
+            "code_ogr": "3387",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer et r\u00e9diger les protocoles de mesures et d'analyses et le r\u00e9f\u00e9rentiel hygi\u00e8ne, s\u00e9curit\u00e9, environnement, qualit\u00e9",
+            "code_ogr": "1712",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et mettre \u00e0 jour l'information technique, \u00e9conomique, r\u00e8glementaire, ...",
+            "code_ogr": "3611",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler l'application des proc\u00e9dures et r\u00e8gles d'hygi\u00e8ne, s\u00e9curit\u00e9, qualit\u00e9 et environnement",
+            "code_ogr": "3514",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "H1302",
+            "libelle_rome_cible": "Management et ing\u00e9nierie Hygi\u00e8ne S\u00e9curit\u00e9 Environnement -HSE- industriels"
+        },
+        {
+            "code_rome_cible": "H1502",
+            "libelle_rome_cible": "Management et ing\u00e9nierie qualit\u00e9 industrielle"
+        },
+        {
+            "code_rome_cible": "H2502",
+            "libelle_rome_cible": "Management et ing\u00e9nierie de production"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible \u00e0 partir d'un dipl\u00f4me de niveau Bac+5 (Master, Ecoles d'ing\u00e9nieur, ...) dans un secteur technique (m\u00e9tallurgie, ...) ou scientifique (chimie, biologie, physique, ...).\nIl est \u00e9galement accessible avec un dipl\u00f4me de niveau Bac+2 (BTS, DUT, L2) dans les m\u00eames secteurs, compl\u00e9t\u00e9 par une exp\u00e9rience professionnelle en industrie.\nDes habilitations sp\u00e9cifiques (radiochimique, ...) ou des vaccinations particuli\u00e8res (h\u00e9patite, leptospirose, ...) peuvent \u00eatre requises selon la nature des analyses effectu\u00e9es.\nLa pratique de l'anglais (vocabulaire technique) peut \u00eatre exig\u00e9e.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Intervenir dans un domaine :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chimie, biochimie",
+            "code_ogr": "6430",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bact\u00e9riologie",
+            "code_ogr": "6414",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Biologie, microbiologie",
+            "code_ogr": "6422",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Biochimie",
+            "code_ogr": "6419",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Physique, physique nucl\u00e9aire",
+            "code_ogr": "6608",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Radiochimie, dosim\u00e9trie et m\u00e9trologique des rayonnements",
+            "code_ogr": "6635",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chromatographie",
+            "code_ogr": "6433",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Acoustique",
+            "code_ogr": "6384",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mat\u00e9riaux, m\u00e9tallurgie",
+            "code_ogr": "6567",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9senter et d\u00e9cliner des \u00e9volutions de protocoles d'analyse, de formulations, de proc\u00e9dures ou de r\u00e8gles",
+            "code_ogr": "8047",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Planifier et suivre des op\u00e9rations de maintenance du laboratoire",
+            "code_ogr": "7832",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9terminer et organiser le traitement de d\u00e9chets et effluents (recyclage, \u00e9vacuation, \u00e9limination, ...)",
+            "code_ogr": "4656",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre les besoins en \u00e9quipements, mat\u00e9riels et consommables (achats, investissements, ...)",
+            "code_ogr": "9730",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Organiser et suivre le conditionnement et le stockage de produits, mati\u00e8res, outillages, ...",
+            "code_ogr": "7712",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9lectionner des fournisseurs/prestataires, n\u00e9gocier les conditions du contrat et contr\u00f4ler la r\u00e9alisation de l'intervention, des produits, ...",
+            "code_ogr": "3606",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Communiquer un diagnostic sur des risques environnementaux ou sanitaires aux \u00e9lus, institutionnels, organismes et leur apporter un appui technique",
+            "code_ogr": "3815",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9finir et d\u00e9cliner les orientations strat\u00e9giques d'une structure",
+            "code_ogr": "3522",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe ou diriger une structure",
+            "code_ogr": "4326",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce en laboratoire au sein d'entreprises industrielles, d'organismes de recherche, de contr\u00f4le, de collectivit\u00e9s territoriales, de services de l'Etat, ... en relation avec diff\u00e9rents services et intervenants (production, exploitation, qualit\u00e9, clients, fournisseurs, ...).\nElle varie selon le secteur (chimie, \u00e9co-industrie, alimentaire, ...) et le type de produits\nElle peut \u00eatre soumise \u00e0 des astreintes.\nElle peut s'effectuer en zone \u00e0 atmosph\u00e8re contr\u00f4l\u00e9e.\nLe port d'Equipements de Protection Individuelle -EPI- (gants, masque, blouse, ...) peut \u00eatre exig\u00e9.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de Progiciels de Gestion Int\u00e9gr\u00e9e",
+            "code_ogr": "21369",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils de st\u00e9rilisation",
+            "code_ogr": "21161",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Gestion de Maintenance Assist\u00e9e par Ordinateur -GMAO-",
+            "code_ogr": "21256",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement/organisme de recherche",
+            "code_ogr": "23925",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Laboratoire d'analyses",
+            "code_ogr": "23984",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisme de contr\u00f4le et de certification",
+            "code_ogr": "24017",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Administration / Services de l'Etat",
+            "code_ogr": "23388",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Agriculture",
+            "code_ogr": "23394",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Alimentaire",
+            "code_ogr": "23395",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chimie",
+            "code_ogr": "23436",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chimie fine",
+            "code_ogr": "23437",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Eco-industrie",
+            "code_ogr": "23469",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Energie, nucl\u00e9aire, fluide",
+            "code_ogr": "23480",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Environnement",
+            "code_ogr": "23485",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie cosm\u00e9tique",
+            "code_ogr": "23530",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie du papier, carton",
+            "code_ogr": "23531",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9tallurgie, sid\u00e9rurgie",
+            "code_ogr": "23558",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Parachimie",
+            "code_ogr": "23573",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "P\u00e9trochimie",
+            "code_ogr": "23582",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Plasturgie, caoutchouc, composites",
+            "code_ogr": "23585",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Verre, mat\u00e9riaux de construction",
+            "code_ogr": "23673",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Normes qualit\u00e9",
+            "code_ogr": "22233",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Bonnes Pratiques de Laboratoire -BPL-",
+            "code_ogr": "21532",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation en Hygi\u00e8ne, S\u00e9curit\u00e9, Environnement -HSE-",
+            "code_ogr": "22567",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes environnementales",
+            "code_ogr": "22230",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9trologie",
+            "code_ogr": "22153",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9thodes de r\u00e9solution de probl\u00e8mes",
+            "code_ogr": "22138",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'analyse physico-chimique (chromatographie, spectrom\u00e9trie, ...)",
+            "code_ogr": "22766",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'audit",
+            "code_ogr": "22805",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Analyse statistique",
+            "code_ogr": "22721",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Mesures physiques",
+            "code_ogr": "22108",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de management",
+            "code_ogr": "22956",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestion budg\u00e9taire",
+            "code_ogr": "21994",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nOrganise et supervise les activit\u00e9s de mesure et d'analyse de conformit\u00e9 et de qualit\u00e9 (analyse biologique, chimique ou physique de mati\u00e8re ou de produit). Intervient selon un protocole de contr\u00f4le et les r\u00e8gles d'hygi\u00e8ne, s\u00e9curit\u00e9, environnement.\nPeut coordonner une \u00e9quipe ou diriger un service et en g\u00e9rer le budget.\n",
+    "intitule": "Direction de laboratoire d'analyse industrielle",
+    "code_ogr": "229",
+    "code_rome": "H1501",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "H1206",
+            "libelle_rome_cible": "Management et ing\u00e9nierie \u00e9tudes, recherche et d\u00e9veloppement industriel"
+        },
+        {
+            "code_rome_cible": "K2402",
+            "libelle_rome_cible": "Recherche en sciences de l'univers, de la mati\u00e8re et du vivant"
+        }
+    ]
+}

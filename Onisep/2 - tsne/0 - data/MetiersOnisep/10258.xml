@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">accompagnateur/trice de tourisme équestre</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">travailler en contact avec la nature/faire du sport/travailler dehors/m'occuper d'animaux/animer des activités culturelles, ludiques ou éducatives</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/saisonnier/indépendant</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction animation</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur du tourisme/secteur des sports</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">animation tourisme/animation sportive</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE hôtellerie restauration tourisme loisirs/accompagnateur de tourisme équestre</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10258</lien_onisep>
+<ROME Level="1B" csRelFld="10258">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="220" csRelFld="220">
+<CSLABELFLD label="">G1201</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Animation d'activités de loisirs</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">G1201</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Accompagnement de voyages, d'activités culturelles ou sportives</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10258">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18155" csRelFld="18155">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18155</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10258</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Organiser des sorties </inter>
+<p>L'ATE (accompagnateur de tourisme équestre) encadre un groupe de cavaliers amateurs durant un ou plusieurs jours. Avant le départ, il choisit un itinéraire bien identifié, celui qui sera le plus adapté au niveau du groupe. Puis il prévoit les étapes et le rangement du matériel sur place. En cas de sortie sur plusieurs jours, il peut gérer l'hébergement des cavaliers et de leurs montures.</p>
+<inter>Miser sur le bon cheval </inter>
+<p>L'ATE sélectionne les chevaux en fonction du profil des cavaliers et les prépare. Puis il vérifie et règle le matériel (harnachement, selles...). Il constitue les trousses de secours, indispensables en cas d'accident. En route, il tient compte des difficultés éventuelles des cavaliers et des chevaux, tout en respectant les consignes de sécurité propres aux sorties équestres.</p>
+<inter>Faire découvrir la nature </inter>
+<p>En plus de sa passion du cheval, ce guide est l'animateur idéal pour découvrir à son rythme les régions traversées. Pédagogue et à l'écoute du groupe, il parle aussi bien de la faune, de la flore que du climat, de l'architecture, de la culture ou de l'économie locale. Entre les randonnées, l'ATE participe à l'entretien des écuries et aux soins des chevaux.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18156" csRelFld="18156">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18156</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10258</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Plusieurs voies d'accès existent <accr_p>pour devenir accompagnateur de tourisme équestre. Le BAPAAT (brevet d'aptitude professionnelle d'assistant animateur technicien) support randonnée équestre et le CQP (certificat de qualification professionnelle) animateur soigneur assistant mention tourisme équestre ne permettent pas un exercice autonome. Leurs titulaires doivent travailler sous la direction d'un guide doté du titre d'accompagnateur de tourisme équestre de la FFE (Fédération française d'équitation), ou du BPJEPS (</accr_p>
+<em>brevet professionnel</em>de la jeunesse, de l'éducation populaire et du sport) <accr_p>activités équestres, ou encore du CQP organisateur de randonnées équestres.</accr_p>
+</p>
+<liste>
+<tete>Après la 3<exp>e</exp>
+</tete>
+<itsimp>Titre d'accompagnateur de tourisme équestre de la FFE</itsimp>
+<itsimp>CQP animateur soigneur assistant mention tourisme équestre </itsimp>
+<itsimp>CQP organisateur de randonnées équestres</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>BPJEPS spécialité activités équestres mention tourisme équestre</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18159" csRelFld="18159">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18159</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10258</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Le secteur a le vent en poupe</inter>
+<p>Le tourisme équestre connaît une expansion lente, mais sûre. Aussi, le nombre d'accompagnateurs de tourisme équestre ou de guides croît.</p>
+<inter>Le secteur se féminise</inter>
+<p>Autrefois monopolisée par les hommes, la profession d'ATE s'est largement ouverte aux femmes, au point qu'elles représentent aujourd'hui pas moins des deux tiers des professionnels sur le terrain. À considérer comme un revenu d'appoint, plutôt que le salaire principal du foyer, en raison de la saisonnalité de l'exercice.</p>
+<inter>Le secteur permet d'évoluer</inter>
+<p>Après avoir exercé en tant qu'accompagnateur, ce professionnel peut devenir instructeur ou professeur d'équitation, maître randonneur, formateur de futurs professionnels... Dans tous les cas, il doit passer le diplôme correspondant à l'activité souhaitée et justifier d'une certaine expérience.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>A partir du <sal>Smic</sal>.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

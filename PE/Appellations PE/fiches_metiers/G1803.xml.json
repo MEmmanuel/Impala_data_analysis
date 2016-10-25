@@ -1,0 +1,452 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Chef de rang",
+            "priorisation": "1",
+            "libelle": "Chef de rang",
+            "code_ogr": "12274"
+        },
+        {
+            "libelle_court": "Chef de rang de room service",
+            "priorisation": "1",
+            "libelle": "Chef de rang de room service",
+            "code_ogr": "38581"
+        },
+        {
+            "libelle_court": "Commis / Commise de restaurant",
+            "priorisation": "1",
+            "libelle": "Commis / Commise de restaurant",
+            "code_ogr": "12760"
+        },
+        {
+            "libelle_court": "Commis / Commise de room service",
+            "priorisation": "1",
+            "libelle": "Commis / Commise de room service",
+            "code_ogr": "38582"
+        },
+        {
+            "libelle_court": "Commis / Commise de salle",
+            "priorisation": "1",
+            "libelle": "Commis / Commise de salle",
+            "code_ogr": "12761"
+        },
+        {
+            "libelle_court": "Commis / Commise de salle runner",
+            "priorisation": "1",
+            "libelle": "Commis / Commise de salle runner",
+            "code_ogr": "38900"
+        },
+        {
+            "libelle_court": "Commis de salle tournant / Commise de salle tournante",
+            "priorisation": "1",
+            "libelle": "Commis de salle tournant / Commise de salle tournante",
+            "code_ogr": "38901"
+        },
+        {
+            "libelle_court": "Demi-chef de rang",
+            "priorisation": "1",
+            "libelle": "Demi-chef de rang",
+            "code_ogr": "13951"
+        },
+        {
+            "libelle_court": "Gar\u00e7on / Serveuse de restaurant",
+            "priorisation": "1",
+            "libelle": "Gar\u00e7on / Serveuse de restaurant",
+            "code_ogr": "15191"
+        },
+        {
+            "libelle_court": "H\u00f4te / H\u00f4tesse de salle",
+            "priorisation": "1",
+            "libelle": "H\u00f4te / H\u00f4tesse de salle",
+            "code_ogr": "15491"
+        },
+        {
+            "libelle_court": "Serveur / Serveuse de banquet",
+            "priorisation": "1",
+            "libelle": "Serveur / Serveuse de banquet",
+            "code_ogr": "19424"
+        },
+        {
+            "libelle_court": "Serveur / Serveuse de restaurant",
+            "priorisation": "1",
+            "libelle": "Serveur / Serveuse de restaurant",
+            "code_ogr": "19427"
+        },
+        {
+            "libelle_court": "Serveur / Serveuse de room service",
+            "priorisation": "1",
+            "libelle": "Serveur / Serveuse de room service",
+            "code_ogr": "19428"
+        },
+        {
+            "libelle_court": "Serveur / Serveuse en restauration",
+            "priorisation": "1",
+            "libelle": "Serveur / Serveuse en restauration",
+            "code_ogr": "19430"
+        },
+        {
+            "libelle_court": "Serveur / Serveuse petit d\u00e9jeuner",
+            "priorisation": "1",
+            "libelle": "Serveur / Serveuse petit d\u00e9jeuner",
+            "code_ogr": "38899"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Effectuer la mise en place de la salle et de l'office et dresser les tables pour le service",
+            "code_ogr": "1523",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accueillir le client \u00e0 son arriv\u00e9e au restaurant, l'installer \u00e0 une table et lui pr\u00e9senter la carte",
+            "code_ogr": "561",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conseiller le client dans ses choix de plats selon ses go\u00fbts, les suggestions du jour et prendre sa commande",
+            "code_ogr": "960",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "3",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der \u00e0 l'encaissement des consommations",
+            "code_ogr": "2695",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9barrasser les tables et nettoyer la salle de restaurant",
+            "code_ogr": "1221",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le service des plats en salle",
+            "code_ogr": "5355",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "G1603",
+            "libelle_rome_cible": "Personnel polyvalent en restauration"
+        },
+        {
+            "code_rome_cible": "G1801",
+            "libelle_rome_cible": "Caf\u00e9, bar brasserie"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac (Bac professionnel, technologique, ...) en services h\u00f4teliers et dans les m\u00e9tiers de la restauration et de l'h\u00f4tellerie.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans les m\u00eames secteurs sans dipl\u00f4me particulier.\nLes recrutements peuvent \u00eatre ouverts sur contrats de travail saisonniers ou de tr\u00e8s courte dur\u00e9e (extra).\nLa pratique d'une ou plusieurs langue(s) \u00e9trang\u00e8re(s), en particulier l'anglais, peut \u00eatre requise.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Effectuer un service de plats :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "A l'anglaise",
+            "code_ogr": "5462",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "A l'assiette",
+            "code_ogr": "5463",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "A la fran\u00e7aise",
+            "code_ogr": "5460",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "A la russe (au gu\u00e9ridon)",
+            "code_ogr": "5461",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cloch\u00e9",
+            "code_ogr": "5464",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la pr\u00e9paration de plats simples (salades, assiette de crudit\u00e9s, de fromages, desserts, ...)",
+            "code_ogr": "3536",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer des boissons chaudes ou froides et effectuer le service du bar",
+            "code_ogr": "7920",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien des verres et des couverts (\u00e0 la vapeur, au vinaigre, ...) et le rangement de la vaisselle",
+            "code_ogr": "5399",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9senter la carte des vins, conseiller les clients et prendre la commande",
+            "code_ogr": "2649",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de restaurants (traditionnels, gastronomiques, ...) ou d'h\u00f4tels (room service) en contact avec la client\u00e8le, le personnel de cuisine, le ma\u00eetre d'h\u00f4tel, le directeur de restaurant.\nElle peut s'exercer en horaires fractionn\u00e9s, les fins de semaine, jours f\u00e9ri\u00e9s, en soir\u00e9e et est soumise \u00e0 des pics d'activit\u00e9 (\u00ab coup de feu \u00bb).\nLa r\u00e9mun\u00e9ration est constitu\u00e9e d'un fixe parfois associ\u00e9 \u00e0 des pourboires ou des avantages (repas, logement, ...).\nL'activit\u00e9 implique le port et la manipulation de plats chauds et la station debout prolong\u00e9e.\nLe port d'un uniforme peut \u00eatre requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan de salle",
+            "code_ogr": "20948",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9morisation des commandes (plats, boissons)",
+            "code_ogr": "20993",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Saisie de commande sur informatique",
+            "code_ogr": "21091",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Comptage",
+            "code_ogr": "20820",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de bar (machine \u00e0 caf\u00e9, pompe \u00e0 bi\u00e8re, ...)",
+            "code_ogr": "21319",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement de restauration mobile (bateau de croisi\u00e8re, train, ...)",
+            "code_ogr": "23917",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tel",
+            "code_ogr": "23957",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Mess (Arm\u00e9e)",
+            "code_ogr": "24006",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Restaurant \u00e0 th\u00e8me",
+            "code_ogr": "24053",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Restaurant gastronomique",
+            "code_ogr": "24055",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Restaurant traditionnel",
+            "code_ogr": "24056",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ev\u00e8nementiel",
+            "code_ogr": "23487",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en extra",
+            "code_ogr": "38056",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Modalit\u00e9s d'accueil",
+            "code_ogr": "22161",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en production culinaire",
+            "code_ogr": "21907",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de service des plats",
+            "code_ogr": "23120",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaire",
+            "code_ogr": "22649",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'encaissement",
+            "code_ogr": "22454",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de dressage de table",
+            "code_ogr": "24836",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Types d'alcools",
+            "code_ogr": "23304",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en sommellerie",
+            "code_ogr": "21920",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en oenologie",
+            "code_ogr": "21893",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nEffectue les op\u00e9rations de service des plats (dressage des tables, accueil des clients, prise de commandes, ...) au sein d'un \u00e9tablissement de restauration selon la charte qualit\u00e9 de l'\u00e9tablissement et les r\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaires.\nPeut effectuer la pr\u00e9paration de plats simples.\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "Service en restauration",
+    "code_ogr": "208",
+    "code_rome": "G1803",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "G1401",
+            "libelle_rome_cible": "Assistance de direction d'h\u00f4tel-restaurant"
+        },
+        {
+            "code_rome_cible": "G1402",
+            "libelle_rome_cible": "Management d'h\u00f4tel-restaurant"
+        },
+        {
+            "code_rome_cible": "G1403",
+            "libelle_rome_cible": "Gestion de structure de loisirs ou d'h\u00e9bergement touristique"
+        },
+        {
+            "code_rome_cible": "G1802",
+            "libelle_rome_cible": "Management du service en restauration"
+        },
+        {
+            "code_rome_cible": "G1804",
+            "libelle_rome_cible": "Sommellerie"
+        }
+    ]
+}

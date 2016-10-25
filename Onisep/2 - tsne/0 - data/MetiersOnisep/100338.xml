@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e aromaticien/ne</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire de la recherche</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conception </MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie agroalimentaire</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">chimie/parfumerie cosmétologie arôme/analyse sensorielle</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE production alimentaire /aromaticien</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100338</lien_onisep>
+<ROME Level="1B" csRelFld="100338">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="284" csRelFld="284">
+<CSLABELFLD label="">H1505</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Qualité et analyses industrielles</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H1505</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Intervention technique en formulation et analyse sensorielle</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100338">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="31312" csRelFld="31312">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31312</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100338</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Imiter la nature </inter>
+<p>L'odeur, la couleur et le goût de certains laitages aux fruits sont rarement d'origine naturelle. Le plus souvent, ils ont été créés en laboratoire par un ingénieur aromaticien. Pour cela, ce professionnel élabore de véritables recettes d'arômes, en fonction des souhaits du client (une marque du secteur agroalimentaire, dans la majorité des cas). Dosage de différents ingrédients, mélanges, filtration, concentration... autant d'étapes nécessaires pour obtenir un échantillon qui s'approchera le plus possible de l'arôme commandé. </p>
+<inter>Faire travailler ses sens </inter>
+<p>Dans son laboratoire, l'ingénieur aromaticien compose les arômes à partir de molécules naturelles ou de synthèse. S'il décèle les différents composants à l'aide d'appareils automatisés, son palais et son nez sont importants pour acquérir une véritable mémoire sensorielle. Car, après analyse de l'arôme au moyen d'un appareil répertoriant les molécules, l'ingénieur aromaticien sent et goûte sa création. </p>
+<inter>Connaître les produits alimentaires </inter>
+<p>L'ingénieur aromaticien doit bien connaître les denrées alimentaires et les contraintes de chaque type de produit. Ainsi, la recette d'un arôme de fraise pour une crème glacée sera différente de celle d'un lait aromatisé. À lui de déterminer le dosage le plus judicieux. Souvent, de nombreux essais sont nécessaires. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="31316" csRelFld="31316">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31316</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100338</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Plusieurs formations de niveau bac +5 mènent au métier d'ingénieur aromaticien.</p>
+<liste>
+<tete>Niveau bac + 5 </tete>
+<itsimp>Master de chimie ou de sciences et technologies spécialisé dans les arômes ou l'analyse sensorielle </itsimp>
+<itsimp>Diplôme d'ingénieur en agroalimentaire </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="31314" csRelFld="31314">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31314</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100338</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Dans l'industrie agroalimentaire </inter>
+<p>La grande majorité des ingénieurs aromaticiens travaille dans l'agroalimentaire, qui reste le premier secteur industriel français. Selon l'Ania (Association nationale des industries alimentaires), les quelque 12 000 entreprises du secteur employaient près de 493 000 personnes en 2013. La Bretagne et les Pays de la Loire concentrent près de 30 % des effectifs. </p>
+<inter>Peu d'élus </inter>
+<p>L'ingénieur aromaticien intègre les départements de recherche et développement. Pour séduire les consommateurs, l'industrie agroalimentaire doit sans arrêt créer de nouveaux produits (près de 2 000 par an). La recherche de goûts originaux incombe notamment à l'ingénieur aromaticien. Toutefois, la plupart des entreprises agroalimentaires sont de petite taille (70 % ont moins de 20 salariés) et ne comptent pas plus de 1 à 2 aromaticiens. </p>
+<p>L'ingénieur aromaticien peut aussi travailler dans un laboratoire indépendant qui sous-traite pour le compte de l'industrie agroalimentaire, ou encore au sein d'un grand groupe industriel tel que Nestlé ou Danone. </p>
+<inter>Des passerelles </inter>
+<p>Les métiers d'ingénieur recherche et développement, de formulateur de produits alimentaires ou de préparateur de recettes sont accessibles à un ingénieur aromaticien qui définit alors les formulations pour la composition des produits, à partir d'un cahier des charges de recettes. </p>
+<remun>
+<inter>Salaire du débutant </inter>
+<p>À partir de <sal>2500</sal> euros brut par mois. </p>
+<postit>
+<p>Source : Apec (Association pour l'emploi des cadres), 2014. </p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

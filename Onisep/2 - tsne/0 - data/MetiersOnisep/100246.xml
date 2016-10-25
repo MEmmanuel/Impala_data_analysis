@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e électricien/ne</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire de la recherche/coordonner l'activité d'une équipe/concevoir, utiliser des technologies industrielles de pointe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction études développement industriel /fonction conduite de projet/fonction recherche appliquée/fonction essais/fonction organisation de la production industrielle/fonction méthodes industrialisation/fonction technico commercial</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur construction électrique/secteur construction automobile/secteur recherche/secteur transports ferroviaires/secteur sociétés d'ingénierie et d'études techniques/secteur maintenance/secteur énergie</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">ingénierie électrique/énergie électrique/électrotechnique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE électricité électrotechnique électronique/ingénieur électricien</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100246</lien_onisep>
+<ROME Level="1B" csRelFld="100246">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="320" csRelFld="320">
+<CSLABELFLD label="">H2502</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Direction, encadrement et pilotage de fabrication et production industrielles</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2502</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie de production</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="265" csRelFld="265">
+<CSLABELFLD label="">H1206</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception, recherche, études et développement</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H1206</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie études, recherche et développement industriel</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100246">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16996" csRelFld="16996">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16996</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100246</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Recherche et développement</inter>
+<p>Dans un service R &amp; D (recherche et développement), l'ingénieur électricien met au point des composants avec des matériaux possédant des propriétés physiques remarquables, participe à la conception de véhicules électriques, par exemple. Chez un constructeur de matériel électrique, il développe des produits, comme des transformateurs de puissance.</p>
+<inter>Ingénierie de réseau</inter>
+<p>Les réseaux de transport et de distribution de l'électricité évoluent en permanence. L'ingénieur électricien développe de nouvelles " portions ", raccorde des producteurs d'énergies renouvelables ou des clients du réseau traditionnel. Il peut réaliser des études afin de renouveler ou de renforcer les ouvrages des réseaux, comme les lignes aériennes ou les liaisons souterraines à haute et très haute tension, les postes électriques, les systèmes de surveillance du réseau...</p>
+<inter>Installations électriques</inter>
+<p>L'ingénieur électricien peut aussi concevoir des installations électriques pour des immeubles de bureaux, des usines, des hôpitaux... Il définit une architecture correspondant aux besoins du client, dimensionne l'installation et décrit les solutions qu'il a choisies pour sécuriser les apports en énergies. Il lui revient d'établir les plans et les schémas électriques du projet, puis de suivre l'exécution des travaux.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17368" csRelFld="17368">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17368</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100246</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Les écoles d'ingénieurs demeurent la voie classique de formation, mais il est aussi possible de se préparer à ce métier dans le cadre d'un master universitaire.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur généraliste ou comportant une spécialisation ou une option en électrotechnique, génie électrique</itsimp>
+<itsimp>Master mention électronique, énergie électrique, automatique</itsimp>
+<itsimp>Master spécialisé en électrotechnique, génie électrique</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17889" csRelFld="17889">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17889</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100246</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Dans les grands groupes de l'énergie</inter>
+<p>Le secteur de l'énergie est un débouché de premier plan pour les ingénieurs électriciens. RTE (Réseau de transport d'électricité) et ERDF (Électricité Réseau Distribution France) les recrutent pour moderniser leurs réseaux. Les opérateurs et les équipementiers de l'électricité et de l'électronucléaire (EDF, Areva, Alstom...) ont besoin d'eux pour concevoir des centrales et des installations. Les constructeurs de matériels électriques et les intégrateurs de solutions et services sont d'autres employeurs possibles, tout comme l'aéronautique, les industries ferroviaire, automobile et navale.</p>
+<inter>Au sein de bureaux d'études</inter>
+<p>Un grand nombre de bureaux d'études techniques, de sociétés de conseil ou d'ingénierie recrutent des ingénieurs ou des chargés d'affaires en électricité pour concevoir et suivre les projets de leurs clients. Ceux-ci peuvent être des industriels ou des collectivités territoriales.</p>
+<inter>Début de carrière intéressant</inter>
+<p>Les jeunes diplômés sont recherchés. Ils débutent généralement comme chargés d'études ou ingénieurs commerciaux. Progressivement, ils se voient confier des projets plus importants. Dans les grands groupes, l'évolution professionnelle permet d'accéder à des fonctions d'encadrement ou de changer de branche.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Environ <sal>3200 </sal>euros brut par mois. </p>
+<postit>
+<p>Source : www.ingénieurs.com, janvier 2013. </p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">opérateur/trice et technicien/ne en traitement des matériaux</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">travailler un matériau</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction fabrication industrielle/fonction essais/fonction maintenance</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur construction automobile/secteur construction aéronautique/secteur industrie du travail des métaux/secteur industrie de l'ameublement/secteur construction mécanique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">traitement de surface/mécanique des matériaux</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE matériaux laboratoire organisation industrielle/opérateur en traitements des matériaux/technicien en traitement des matériaux</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100258</lien_onisep>
+<ROME Level="1B" csRelFld="100258">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="366" csRelFld="366">
+<CSLABELFLD label="">H3402</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Traitements thermiques et traitements de surfaces</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H3402</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Conduite de traitement par dépôt de surface</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100258">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1779" csRelFld="1779">
+<CSLABELFLD label="">agent / agente de maîtrise de la ville de Paris (bâtiments - matériaux)</CSLABELFLD>
+<MET_ID label="Identifiant">100258</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1779</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">agent/e de maîtrise de la ville de Paris (bâtiments - matériaux)</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1779">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18690" csRelFld="18690">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18690</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100258</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+   <inter>Améliorer la nature d'un produit</inter>
+   <p>Le traitement d'un matériau (métal, plastique, verre, céramique...) utilisé pour fabriquer une bouteille, un emballage, un vitrage... améliore les performances dudit produit. Le traitement peut être thermique, pour offrir une meilleure résistance aux chocs et à l'usure ; de surface, pour lutter contre la corrosion ou donner un aspect précis au matériau (brillant, mat, creusé...). Pour le technicien en traitement de surface, il peut s'agir de plonger une pièce industrielle dans un bain de solution chimique ou électrolytique, pour y déposer une couche métallique (or, cuivre, argent, nickel...), ou bien d'appliquer une peinture. </p>
+   <inter>Réaliser le traitement de bout en bout</inter>
+   <p>L'opérateur calcule les volumes et les surfaces à traiter, prépare les produits nécessaires, procède aux réglages des équipements dont il assure la conduite et la surveillance. Il corrige les dérives éventuelles et entretient les installations. Les manipulations ne sont pas toujours simples : pour traiter une pale d'hélicoptère par exemple, la cuve d'un bain chimique a un volume de plusieurs mètres.</p>
+  </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17873" csRelFld="17873">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17873</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100258</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Pour exercer ce métier, des diplômes à 2 niveaux de qualification :</accr_p>
+</p>
+<inter>Niveau bac</inter>
+<liste>
+<itsimp>
+<em>Bac pro</em> traitements des matériaux ;</itsimp>
+<itsimp>
+<em>Bacs techno</em> STI2D (développement durable) ; STL (sciences physiques et chimiques en laboratoire).</itsimp>
+</liste>
+<inter>Niveau bac + 2</inter>
+<liste>
+<itsimp>
+<em>BTS</em> traitement des matériaux, options traitements thermiques ; traitements de surfaces.</itsimp>
+</liste>
+<p/>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18707" csRelFld="18707">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18707</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100258</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un domaine en plein essor</inter>
+<p>Le traitement de surface se porte bien. Les progrès de la recherche et l'exigence de qualité des entreprises ont engendré un boom spectaculaire du métier. Toutes les entreprises cherchent désormais à optimiser les produits dès leur conception. Les besoins sont importants dans de nombreux secteurs : travail des métaux, industries mécaniques (fabrication de machines), automobile, aéronautique, équipement ménager, ameublement et matériel de bureau, optique-lunetterie... car le traitement des matériaux concerne quasiment tous les secteurs industriels.</p>
+<inter>Besoin de spécialistes</inter>
+<p>Les entreprises recherchent des spécialistes capables de rendre leurs produits plus performants. Elles recrutent de jeunes diplômés rompus aux nouvelles technologies afin de gagner des marchés. Environ 1000 postes par an sont à pourvoir, selon la Fédération des industries mécaniques.</p>
+<inter>Évolution possible</inter>
+<p>Avec le temps, l'opérateur peut accéder à des postes d'encadrement (chef d'atelier, par exemple) ou de technicien des méthodes (en préparation de la fabrication notamment). Avec l'expérience, un technicien d'atelier peut aussi devenir responsable production.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1500</sal> euros brut par mois.</p>
+<postit>
+<p>Source : FIM (Fédération des industries mécaniques), 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

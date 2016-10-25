@@ -1,0 +1,563 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Accastilleur-gr\u00e9eur / Accastilleuse-gr\u00e9euse",
+            "priorisation": "1",
+            "libelle": "Accastilleur-gr\u00e9eur / Accastilleuse-gr\u00e9euse",
+            "code_ogr": "10201"
+        },
+        {
+            "libelle_court": "Accastilleur(se)-monteur(se) \u00e9lectronique de marine",
+            "priorisation": "1",
+            "libelle": "Accastilleur-monteur / Accastilleuse-monteuse \u00e9lectronique de marine",
+            "code_ogr": "10202"
+        },
+        {
+            "libelle_court": "Gr\u00e9eur / Gr\u00e9euse manutentionnaire de voiliers et vedettes",
+            "priorisation": "1",
+            "libelle": "Gr\u00e9eur / Gr\u00e9euse manutentionnaire de voiliers et vedettes",
+            "code_ogr": "15420"
+        },
+        {
+            "libelle_court": "Gr\u00e9eur / Gr\u00e9euse voilier",
+            "priorisation": "1",
+            "libelle": "Gr\u00e9eur / Gr\u00e9euse voilier",
+            "code_ogr": "15422"
+        },
+        {
+            "libelle_court": "Gr\u00e9eur mateloteur / Gr\u00e9euse mateloteuse",
+            "priorisation": "1",
+            "libelle": "Gr\u00e9eur mateloteur / Gr\u00e9euse mateloteuse",
+            "code_ogr": "15421"
+        },
+        {
+            "libelle_court": "Maintenicien(ne) plaisance polyvalent(e)",
+            "priorisation": "1",
+            "libelle": "Maintenicien plaisance polyvalent / Maintenicienne plaisance polyvalente",
+            "code_ogr": "16294"
+        },
+        {
+            "libelle_court": "Monteur accastilleur / Monteuse accastilleuse",
+            "priorisation": "1",
+            "libelle": "Monteur accastilleur / Monteuse accastilleuse",
+            "code_ogr": "16753"
+        },
+        {
+            "libelle_court": "Pr\u00e9parateur / Pr\u00e9paratrice de bateau",
+            "priorisation": "1",
+            "libelle": "Pr\u00e9parateur / Pr\u00e9paratrice de bateau",
+            "code_ogr": "17990"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne de gr\u00e9ement",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de gr\u00e9ement",
+            "code_ogr": "19776"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne de maintenance du nautisme",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de maintenance du nautisme",
+            "code_ogr": "19832"
+        },
+        {
+            "libelle_court": "Technicien gr\u00e9eur / Technicienne gr\u00e9euse",
+            "priorisation": "1",
+            "libelle": "Technicien gr\u00e9eur / Technicienne gr\u00e9euse",
+            "code_ogr": "20164"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier les besoins du client (r\u00e9paration, installation, modification, ...) et les contraintes dimensionnelles, fonctionnelles et physiques de l'embarcation",
+            "code_ogr": "2083",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser le montage, l'installation ou l'entretien d'\u00e9l\u00e9ments d'agencement, de balcons, de hublots, de fili\u00e8res, ...",
+            "code_ogr": "2753",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la pose ou l'entretien de l'accastillage et du mat\u00e9riel de navigation",
+            "code_ogr": "1528",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Entretenir les m\u00e2ts, gr\u00e9ements, cordages, \u00e9lingues et les adapter \u00e0 l'embarcation",
+            "code_ogr": "1812",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier l'\u00e9tat des \u00e9quipements et des mat\u00e9riels de s\u00e9curit\u00e9 et leur conformit\u00e9 \u00e0 la navigation",
+            "code_ogr": "3486",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Informer et conseiller les clients et les utilisateurs sur l'utilisation et l'entretien des \u00e9quipements",
+            "code_ogr": "2188",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1211",
+            "libelle_rome_cible": "Vente en articles de sport et loisirs"
+        },
+        {
+            "code_rome_cible": "D1213",
+            "libelle_rome_cible": "Vente en gros de mat\u00e9riel et \u00e9quipement"
+        },
+        {
+            "code_rome_cible": "H2206",
+            "libelle_rome_cible": "R\u00e9alisation de menuiserie bois et tonnellerie"
+        },
+        {
+            "code_rome_cible": "I1605",
+            "libelle_rome_cible": "M\u00e9canique de marine"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP en maintenance des industries de plaisance, maintenance.\nIl est \u00e9galement accessible avec un CAP/BEP en m\u00e9canique ou menuiserie.\nUn ou plusieurs Certificat(s) d'Aptitude \u00e0 la Conduite En S\u00e9curit\u00e9 -CACES- conditionn\u00e9(s) par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement peu(ven)t \u00eatre exig\u00e9(s).\nDes permis sp\u00e9cifiques (c\u00f4tier, hauturier, carte mer, ...) peuvent \u00eatre exig\u00e9s.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Effectuer une navigation n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Carte mer",
+            "code_ogr": "5529",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Permis c\u00f4tier",
+            "code_ogr": "5535",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Permis hauturier",
+            "code_ogr": "5537",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Intervenir sur des :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bateaux de comp\u00e9tition",
+            "code_ogr": "7155",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bateaux de s\u00e9rie",
+            "code_ogr": "7156",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bateaux traditionnels",
+            "code_ogr": "7157",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Embarcations \u00e0 moteur, \u00e0 rames",
+            "code_ogr": "7158",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 318 (ponts roulants)",
+            "code_ogr": "10100",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-3 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 inf\u00e9rieure ou \u00e9gale \u00e0 6000 kg)",
+            "code_ogr": "10124",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-4 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 sup\u00e9rieure \u00e0 6000 kg)",
+            "code_ogr": "10125",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 390 (Grues auxiliaires de chargement de v\u00e9hicules)",
+            "code_ogr": "10128",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la vente de mat\u00e9riels et \u00e9quipements de navigation et de manoeuvre, quincaillerie de marine, accastillage, \u00e9lectronique, ...",
+            "code_ogr": "5231",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9finir des besoins en approvisionnement et effectuer des commandes",
+            "code_ogr": "4485",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Entretenir ou r\u00e9gler des appareils \u00e9lectroniques de navigation (sondeur, radar, radio, ...)",
+            "code_ogr": "5787",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Entretenir et effectuer la pose et le raccordement du circuit et des \u00e9quipements \u00e9lectriques de bord",
+            "code_ogr": "5784",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien et la maintenance d'\u00e9l\u00e9ments en bois non structurel",
+            "code_ogr": "5401",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9parer et entretenir des coques polyester (car\u00e9nage, peinture, vernis, ...)",
+            "code_ogr": "9572",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la maintenance de premier niveau de moteurs marins de petite cylindr\u00e9e",
+            "code_ogr": "5150",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de chantiers navals, d'entreprises sp\u00e9cialis\u00e9es en nautisme (vente, location, ...), de la Marine Nationale en relation avec diff\u00e9rents intervenants (clients, \u00e9lectriciens, m\u00e9caniciens moteur, architectes, fournisseurs, ...). Elle peut impliquer des d\u00e9placements.\nElle varie selon le type d'embarcation (bateau traditionnel, de s\u00e9rie, de comp\u00e9tition, \u00e0 moteur, ...) et le type d'intervention (accastillage, voile, \u00e9lectronique, ...).\nElle peut s'exercer en horaires d\u00e9cal\u00e9s, les fins de semaine, jours f\u00e9ri\u00e9s et \u00eatre soumise \u00e0 des variations saisonni\u00e8res.\nElle peut s'effectuer en hauteur et impliquer le port de charges.\nLe port d'\u00e9quipements de protection (harnais, gants, ...) peut \u00eatre requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan",
+            "code_ogr": "20946",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outillages \u00e9lectroportatifs (scie \u00e9lectrique, ponceuse, ...)",
+            "code_ogr": "21464",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outillage m\u00e9canique",
+            "code_ogr": "21462",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Mise de voiles",
+            "code_ogr": "20997",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de nettoyage",
+            "code_ogr": "21330",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Association",
+            "code_ogr": "23706",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de location de v\u00e9hicules",
+            "code_ogr": "23881",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Construction navale",
+            "code_ogr": "23453",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Marine Nationale",
+            "code_ogr": "23548",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Normes de s\u00e9curit\u00e9",
+            "code_ogr": "22221",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes qualit\u00e9",
+            "code_ogr": "22233",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de construction navale",
+            "code_ogr": "22851",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des bois et d\u00e9riv\u00e9s du bois",
+            "code_ogr": "21560",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des mat\u00e9riaux composites",
+            "code_ogr": "21605",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Propri\u00e9t\u00e9s des m\u00e9taux",
+            "code_ogr": "22493",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des cordages",
+            "code_ogr": "21568",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des voiles",
+            "code_ogr": "21674",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Hydraulique",
+            "code_ogr": "22035",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9d\u00e9s d'\u00e9tanch\u00e9it\u00e9",
+            "code_ogr": "22367",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Plomberie",
+            "code_ogr": "22299",
+            "position_item": "11",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9canique marine",
+            "code_ogr": "22102",
+            "position_item": "12",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de matelotage",
+            "code_ogr": "22973",
+            "position_item": "13",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electronique",
+            "code_ogr": "21833",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electricit\u00e9",
+            "code_ogr": "21825",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de stratification",
+            "code_ogr": "23130",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Traitements de coques",
+            "code_ogr": "23298",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes de fonctionnement d'un moteur diesel",
+            "code_ogr": "22318",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes de fonctionnement d'un moteur",
+            "code_ogr": "22316",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise l'installation et la maintenance de mat\u00e9riels et \u00e9quipements sp\u00e9cifiques embarqu\u00e9s, dans un objectif d'am\u00e9lioration, de mise et de maintien en \u00e9tat et en conformit\u00e9 des embarcations, pour la navigation et la plaisance, selon la r\u00e9glementation, les normes et besoins du client.\n",
+    "intitule": "Installation et maintenance en nautisme",
+    "code_ogr": "325",
+    "code_rome": "I1601",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1204",
+            "libelle_rome_cible": "Location de v\u00e9hicules ou de mat\u00e9riel de loisirs"
+        },
+        {
+            "code_rome_cible": "H3203",
+            "libelle_rome_cible": "Fabrication de pi\u00e8ces en mat\u00e9riaux composites"
+        }
+    ]
+}

@@ -1,0 +1,368 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Bosco",
+            "priorisation": "1",
+            "libelle": "Bosco",
+            "code_ogr": "11559"
+        },
+        {
+            "libelle_court": "Go\u00e9monier / Go\u00e9moni\u00e8re",
+            "priorisation": "1",
+            "libelle": "Go\u00e9monier / Go\u00e9moni\u00e8re",
+            "code_ogr": "15379"
+        },
+        {
+            "libelle_court": "Ma\u00eetre / Ma\u00eetresse d'\u00e9quipage \u00e0 la p\u00eache",
+            "priorisation": "1",
+            "libelle": "Ma\u00eetre / Ma\u00eetresse d'\u00e9quipage \u00e0 la p\u00eache",
+            "code_ogr": "16310"
+        },
+        {
+            "libelle_court": "Marin calier",
+            "priorisation": "1",
+            "libelle": "Marin calier",
+            "code_ogr": "16397"
+        },
+        {
+            "libelle_court": "Marin fileyeur",
+            "priorisation": "1",
+            "libelle": "Marin fileyeur",
+            "code_ogr": "16402"
+        },
+        {
+            "libelle_court": "Marin glaceur",
+            "priorisation": "1",
+            "libelle": "Marin glaceur",
+            "code_ogr": "16403"
+        },
+        {
+            "libelle_court": "Marin grande p\u00eache",
+            "priorisation": "1",
+            "libelle": "Marin grande p\u00eache",
+            "code_ogr": "16404"
+        },
+        {
+            "libelle_court": "Marin-p\u00eacheur",
+            "priorisation": "1",
+            "libelle": "Marin-p\u00eacheur",
+            "code_ogr": "16406"
+        },
+        {
+            "libelle_court": "Marin-trancheur",
+            "priorisation": "1",
+            "libelle": "Marin-trancheur",
+            "code_ogr": "16408"
+        },
+        {
+            "libelle_court": "P\u00eacheur / P\u00eacheuse \u00e0 pied",
+            "priorisation": "1",
+            "libelle": "P\u00eacheur / P\u00eacheuse \u00e0 pied",
+            "code_ogr": "17600"
+        },
+        {
+            "libelle_court": "Ramendeur / Ramendeuse",
+            "priorisation": "1",
+            "libelle": "Ramendeur / Ramendeuse",
+            "code_ogr": "18284"
+        },
+        {
+            "libelle_court": "Timonier / Timoni\u00e8re",
+            "priorisation": "1",
+            "libelle": "Timonier / Timoni\u00e8re",
+            "code_ogr": "20326"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Mettre \u00e0 l'eau et surveiller le d\u00e9ploiement des outils de p\u00eache (filets, chaluts, casiers, ...)",
+            "code_ogr": "2308",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Remonter les captures et les trier manuellement selon les esp\u00e8ces, tailles, cat\u00e9gories et leur destination",
+            "code_ogr": "3010",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les op\u00e9rations de pr\u00e9paration du poisson \u00e0 la conservation et le conditionner",
+            "code_ogr": "1642",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier l'\u00e9tat des filets, chaluts, bou\u00e9es, attaches, ... et effectuer les r\u00e9parations n\u00e9cessaires",
+            "code_ogr": "3483",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien du bateau et proc\u00e9der \u00e0 la maintenance des \u00e9quipements",
+            "code_ogr": "1591",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller l'\u00e9tat de l'embarcation pendant la navigation, d\u00e9tecter les anomalies (avaries, ...) et en informer le ma\u00eetre d'\u00e9quipage ou l'officier de quart",
+            "code_ogr": "3348",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les manoeuvres d'accostage ou d'appareillage du bateau",
+            "code_ogr": "1624",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "N3102",
+            "libelle_rome_cible": "Equipage de la navigation maritime"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un CAP de Matelot, un BEP en p\u00eache ou en machines marines.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans le secteur de la p\u00eache sans dipl\u00f4me particulier.\nLe Certificat d'Initiation Nautique -CIN- peut en faciliter l'acc\u00e8s.\nUne bonne condition physique est requise.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Surveiller la route d'un bateau en fonction de la direction, la vitesse, ... et informer le ma\u00eetre d'\u00e9quipage ou l'officier des \u00e9carts",
+            "code_ogr": "9885",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ajuster les param\u00e8tres de navigation d'un bateau en fonction des \u00e9carts et risques potentiels",
+            "code_ogr": "3696",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9tecter les lieux de p\u00eache envisageables (\u00e9tat de la mer, pr\u00e9sence d'oiseaux, ...) et informer le cadre de quart sur les potentialit\u00e9s de p\u00eache",
+            "code_ogr": "4643",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Former des employ\u00e9s aux techniques du m\u00e9tier",
+            "code_ogr": "4764",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'un \u00e9quipage de p\u00eache. Elle peut impliquer un \u00e9loignement du domicile de plusieurs jours, semaines ou mois.\nElle varie selon le type de p\u00eache pratiqu\u00e9e (petite p\u00eache, p\u00eache c\u00f4ti\u00e8re, p\u00eache au large, grande p\u00eache, ...) et le type d'armement de p\u00eache (bateau usine, chalutier, ...).\nElle s'exerce par roulement, les fins de semaine et peut \u00eatre soumise \u00e0 des astreintes.\nLa r\u00e9mun\u00e9ration est calcul\u00e9e \u00ab \u00e0 la part \u00bb ou est constitu\u00e9e d'un fixe pouvant \u00eatre associ\u00e9 \u00e0 des parts.\nL'activit\u00e9 s'effectue parfois dans la cale, en zone frigorifique et peut impliquer la manipulation de charges.\nLe port d'une tenue professionnelle (cir\u00e9, bottes, harnais, ...) peut \u00eatre requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de carte marine",
+            "code_ogr": "20932",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Remaillage de filets",
+            "code_ogr": "21082",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Manoeuvre du skiff",
+            "code_ogr": "20987",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de nettoyage",
+            "code_ogr": "21330",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'\u00e9quipement de secours et de sauvetage",
+            "code_ogr": "21425",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de navigation (GPS, VHF, radar, ...)",
+            "code_ogr": "21329",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Grande p\u00eache",
+            "code_ogr": "23512",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "P\u00eache au large",
+            "code_ogr": "23578",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "P\u00eache c\u00f4ti\u00e8re",
+            "code_ogr": "23579",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Typologie des navires",
+            "code_ogr": "23352",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de p\u00eache",
+            "code_ogr": "23023",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de traitement du poisson \u00e0 bord",
+            "code_ogr": "23155",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de matelotage",
+            "code_ogr": "22973",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Droit maritime",
+            "code_ogr": "21812",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation de la p\u00eache",
+            "code_ogr": "22534",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9 maritime",
+            "code_ogr": "22635",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de secourisme/sauvetage",
+            "code_ogr": "23114",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de gestion de stocks",
+            "code_ogr": "22609",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise les op\u00e9rations de p\u00eache c\u00f4ti\u00e8re ou de pleine mer (capture et conditionnement des prises, entretien et nettoyage du navire et des \u00e9quipements, ...) selon les r\u00e8gles de s\u00e9curit\u00e9 et les objectifs d'exploitation (commerciaux, qualitatifs, ...).\nPeut coordonner un \u00e9quipage.\n",
+    "intitule": "Equipage de la p\u00eache",
+    "code_ogr": "29",
+    "code_rome": "A1415",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "A1404",
+            "libelle_rome_cible": "Aquaculture"
+        },
+        {
+            "code_rome_cible": "A1406",
+            "libelle_rome_cible": "Encadrement \u00e9quipage de la p\u00eache"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        },
+        {
+            "code_rome_cible": "N3103",
+            "libelle_rome_cible": "Navigation fluviale"
+        }
+    ]
+}

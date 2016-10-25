@@ -1,0 +1,658 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente de r\u00e9cup\u00e9ration et de recyclage",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de r\u00e9cup\u00e9ration et de recyclage",
+            "code_ogr": "10582"
+        },
+        {
+            "libelle_court": "Agent / Agente de traitement des d\u00e9chets",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de traitement des d\u00e9chets",
+            "code_ogr": "10629"
+        },
+        {
+            "libelle_court": "Agent(e) de tri d\u00e9chets  - DEEE",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de tri d\u00e9chets d'\u00e9quipements \u00e9lectriques et \u00e9lectroniques - DEEE",
+            "code_ogr": "38506"
+        },
+        {
+            "libelle_court": "Agent / Agente de tri des d\u00e9chets",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de tri des d\u00e9chets",
+            "code_ogr": "10638"
+        },
+        {
+            "libelle_court": "Agent / Agente de tri des mat\u00e9riaux",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de tri des mat\u00e9riaux",
+            "code_ogr": "10639"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur(trice) de tri en r\u00e9cup\u00e9ration et revalorisation",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de tri en r\u00e9cup\u00e9ration et revalorisation",
+            "code_ogr": "17175"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur(trice) de tri, r\u00e9cup\u00e9ration et recyclage de VHU",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de tri, r\u00e9cup\u00e9ration et recyclage de v\u00e9hicules hors d'usage - VHU",
+            "code_ogr": "38860"
+        },
+        {
+            "libelle_court": "Ouvrier / Ouvri\u00e8re de recyclage \u00e9lectrom\u00e9nager",
+            "priorisation": "1",
+            "libelle": "Ouvrier / Ouvri\u00e8re de recyclage \u00e9lectrom\u00e9nager",
+            "code_ogr": "17460"
+        },
+        {
+            "libelle_court": "R\u00e9cup\u00e9rateur / R\u00e9cup\u00e9ratrice",
+            "priorisation": "1",
+            "libelle": "R\u00e9cup\u00e9rateur / R\u00e9cup\u00e9ratrice",
+            "code_ogr": "18341"
+        },
+        {
+            "libelle_court": "R\u00e9cup\u00e9rateur / R\u00e9cup\u00e9ratrice de m\u00e9taux",
+            "priorisation": "1",
+            "libelle": "R\u00e9cup\u00e9rateur / R\u00e9cup\u00e9ratrice de m\u00e9taux",
+            "code_ogr": "18342"
+        },
+        {
+            "libelle_court": "Recycleur / Recycleuse",
+            "priorisation": "1",
+            "libelle": "Recycleur / Recycleuse",
+            "code_ogr": "18343"
+        },
+        {
+            "libelle_court": "Ressourcier / Ressourci\u00e8re",
+            "priorisation": "1",
+            "libelle": "Ressourcier / Ressourci\u00e8re",
+            "code_ogr": "19214"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne r\u00e9utilisation recyclage",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne r\u00e9utilisation recyclage",
+            "code_ogr": "38507"
+        },
+        {
+            "libelle_court": "Trieur / Trieuse de linges",
+            "priorisation": "1",
+            "libelle": "Trieur / Trieuse de linges",
+            "code_ogr": "20445"
+        },
+        {
+            "libelle_court": "Trieur / Trieuse de m\u00e9taux",
+            "priorisation": "1",
+            "libelle": "Trieur / Trieuse de m\u00e9taux",
+            "code_ogr": "20446"
+        },
+        {
+            "libelle_court": "Trieur / Trieuse de palettes",
+            "priorisation": "1",
+            "libelle": "Trieur / Trieuse de palettes",
+            "code_ogr": "20447"
+        },
+        {
+            "libelle_court": "Trieur / Trieuse de textiles usag\u00e9s",
+            "priorisation": "1",
+            "libelle": "Trieur / Trieuse de textiles usag\u00e9s",
+            "code_ogr": "20450"
+        },
+        {
+            "libelle_court": "Valoriste",
+            "priorisation": "1",
+            "libelle": "Valoriste",
+            "code_ogr": "20503"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Collecter et r\u00e9cup\u00e9rer les \u00e9quipements, produits et mat\u00e9riaux en fin de vie",
+            "code_ogr": "834",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Trier les produits, pi\u00e8ces, mat\u00e9riaux et les orienter vers les fili\u00e8res de valorisation ou d'\u00e9limination",
+            "code_ogr": "3146",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Stocker les \u00e9quipements, produits et mat\u00e9riaux tri\u00e9s",
+            "code_ogr": "3206",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conditionner les produits selon leurs caract\u00e9ristiques, les commandes et le mode de transport",
+            "code_ogr": "3509",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer et ranger la zone de travail (mat\u00e9riel, accessoires, ...)",
+            "code_ogr": "2412",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "H2415",
+            "libelle_rome_cible": "Contr\u00f4le en industrie du cuir et du textile"
+        },
+        {
+            "code_rome_cible": "H3302",
+            "libelle_rome_cible": "Op\u00e9rations manuelles d'assemblage, tri ou emballage"
+        },
+        {
+            "code_rome_cible": "K2201",
+            "libelle_rome_cible": "Blanchisserie industrielle"
+        },
+        {
+            "code_rome_cible": "K2204",
+            "libelle_rome_cible": "Nettoyage de locaux"
+        },
+        {
+            "code_rome_cible": "K2303",
+            "libelle_rome_cible": "Nettoyage des espaces urbains"
+        },
+        {
+            "code_rome_cible": "K2305",
+            "libelle_rome_cible": "Salubrit\u00e9 et traitement de nuisibles"
+        },
+        {
+            "code_rome_cible": "N1103",
+            "libelle_rome_cible": "Magasinage et pr\u00e9paration de commandes"
+        },
+        {
+            "code_rome_cible": "N1105",
+            "libelle_rome_cible": "Manutention manuelle de charges"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle.\nUn ou plusieurs Certificat(s) d'Aptitude \u00e0 la Conduite En S\u00e9curit\u00e9 -CACES- conditionn\u00e9(s) par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement peu(ven)t \u00eatre requis.\nDes vaccinations sp\u00e9cifiques (leptospirose, h\u00e9patite, ...) peuvent \u00eatre requises selon le secteur d'activit\u00e9.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Intervenir sur des produits et mat\u00e9riaux :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bois, palettes",
+            "code_ogr": "7121",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Electrom\u00e9nager",
+            "code_ogr": "7123",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "M\u00e9taux",
+            "code_ogr": "7126",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Papier, carton, plastique, caoutchouc, verre, ...",
+            "code_ogr": "7127",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Textiles",
+            "code_ogr": "7128",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cartouches d'encre",
+            "code_ogr": "7122",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Hospitaliers",
+            "code_ogr": "7124",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Informatiques",
+            "code_ogr": "7125",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Solvants",
+            "code_ogr": "38867",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9hicules hors d'usage - VHU",
+            "code_ogr": "38868",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "10",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Remettre en \u00e9tat des produits par des op\u00e9rations de :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyage",
+            "code_ogr": "9532",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9g\u00e9n\u00e9ration",
+            "code_ogr": "9534",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9paration",
+            "code_ogr": "9535",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Reconditionnement",
+            "code_ogr": "9533",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-1 (Transpalettes \u00e0 conducteur port\u00e9 et pr\u00e9parateurs de commandes au sol)",
+            "code_ogr": "10122",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-3 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 inf\u00e9rieure ou \u00e9gale \u00e0 6000 kg)",
+            "code_ogr": "10124",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des interventions n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Attestation d'aptitude \u00e0 la manipulation des fluides frigorig\u00e8nes",
+            "code_ogr": "38682",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Vidanger, r\u00e9cup\u00e9rer et conditionner des produits, fluides et substances toxiques",
+            "code_ogr": "10198",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Trier des composants et fluides r\u00e9cup\u00e9r\u00e9s (batterie, hydrocarbure, lubrifiants, ...) et les orienter vers les zones de traitement ou de stockage",
+            "code_ogr": "10055",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la vente d'\u00e9quipements, d'objets, de produits collect\u00e9s",
+            "code_ogr": "5289",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des livraisons de commandes aupr\u00e8s des clients",
+            "code_ogr": "3531",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sensibiliser des usagers aux conditions de collecte, de tri et de recyclage de d\u00e9chets, et aux r\u00e8gles de propret\u00e9 et d'hygi\u00e8ne sur la voie publique",
+            "code_ogr": "6161",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports de suivi d'activit\u00e9 et transmettre les informations au service concern\u00e9",
+            "code_ogr": "3600",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de soci\u00e9t\u00e9s de services, d'associations, de collectivit\u00e9s territoriales, d'entreprises industrielles en contact avec diff\u00e9rents intervenants (particuliers, conducteurs d'engins, ...).\nElle varie selon le lieu d'intervention et le type de produits collect\u00e9s.\nElle peut impliquer le port de charges.\nLe port d'\u00e9quipements de protection (gants, combinaison, ...) peut \u00eatre requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de fiche technique",
+            "code_ogr": "20943",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outillages manuels (cl\u00e9, pince, scie, ...)",
+            "code_ogr": "21465",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'un compacteur de d\u00e9chets",
+            "code_ogr": "38545",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de machines \u00e0 bois",
+            "code_ogr": "21307",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Association",
+            "code_ogr": "23706",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Centre V\u00e9hicules hors d'usage - VHU",
+            "code_ogr": "38863",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "D\u00e9chetterie",
+            "code_ogr": "23844",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ressourcerie",
+            "code_ogr": "38546",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de collecte et de traitement des d\u00e9chets",
+            "code_ogr": "24080",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Recyclage",
+            "code_ogr": "38313",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de propret\u00e9",
+            "code_ogr": "22647",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9",
+            "code_ogr": "22621",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Crit\u00e8res de tri s\u00e9lectif",
+            "code_ogr": "21767",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des composants \u00e9lectroniques",
+            "code_ogr": "21567",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des m\u00e9taux ferreux (aciers, fonte, ...)",
+            "code_ogr": "21616",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des m\u00e9taux non ferreux (aluminium, cuivre, ...)",
+            "code_ogr": "21617",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9canique g\u00e9n\u00e9rale",
+            "code_ogr": "21882",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en \u00e9lectricit\u00e9",
+            "code_ogr": "21859",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en menuiserie",
+            "code_ogr": "21885",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sp\u00e9cificit\u00e9s des fluides frigorig\u00e8nes",
+            "code_ogr": "22710",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation en Hygi\u00e8ne, S\u00e9curit\u00e9, Environnement -HSE-",
+            "code_ogr": "22567",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise des op\u00e9rations de tri de d\u00e9chets et produits industriels en fin de vie (textiles, plastiques, verres, composants, ...) selon les r\u00e8gles de s\u00e9curit\u00e9, d'environnement et les imp\u00e9ratifs de r\u00e9cup\u00e9ration (qualit\u00e9, cadence, ...).\nPeut reconditionner des produits industriels pour valorisation par r\u00e9utilisation ou recyclage.\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "Revalorisation de produits industriels",
+    "code_ogr": "423",
+    "code_rome": "K2304",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "H2201",
+            "libelle_rome_cible": "Assemblage d'ouvrages en bois"
+        },
+        {
+            "code_rome_cible": "H2906",
+            "libelle_rome_cible": "Conduite d'installation automatis\u00e9e ou robotis\u00e9e de fabrication m\u00e9canique"
+        },
+        {
+            "code_rome_cible": "H2909",
+            "libelle_rome_cible": "Montage-assemblage m\u00e9canique"
+        },
+        {
+            "code_rome_cible": "K1203",
+            "libelle_rome_cible": "Encadrement technique en insertion professionnelle"
+        },
+        {
+            "code_rome_cible": "K2501",
+            "libelle_rome_cible": "Gardiennage de locaux"
+        },
+        {
+            "code_rome_cible": "N1101",
+            "libelle_rome_cible": "Conduite d'engins de d\u00e9placement des charges"
+        },
+        {
+            "code_rome_cible": "N1102",
+            "libelle_rome_cible": "D\u00e9m\u00e9nagement"
+        },
+        {
+            "code_rome_cible": "N4105",
+            "libelle_rome_cible": "Conduite et livraison par tourn\u00e9es sur courte distance"
+        }
+    ]
+}

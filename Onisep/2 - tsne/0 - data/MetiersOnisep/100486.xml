@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">chargé/e de production</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe/me déplacer souvent/manier les chiffres</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">intermittent du spectacle</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction gestion financière et comptable/fonction gestion des ressources humaines</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur de l'audiovisuel</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">production audiovisuelle</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques de la communication média/chargé de production</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100486</lien_onisep>
+<ROME Level="1B" csRelFld="100486">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="541" csRelFld="541">
+<CSLABELFLD label="">L1302</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception et production de spectacles</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">L1302</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Production et administration spectacle, cinéma et audiovisuel</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100486">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="37748" csRelFld="37748">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37748</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100486</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Veiller au budget</inter>
+<p>Le chargé de production gère l'argent nécessaire à la réalisation d'un projet de film, de spectacle. Il évalue les coûts et établit un devis pour maintenir l'équilibre budgétaire. Son objectif : dégager une marge bénéficiaire pour le producteur qui l'emploie, afin de faire vivre la structure et de financer de nouveaux projets.</p>
+<inter>Gérer l'administratif</inter>
+<p>La gestion administrative, humaine, artistique et juridique du projet est un autre aspect important de l'activité du chargé de production. Il lui revient de recruter l'équipe technique (cameramen, ingénieurs du son, monteurs, etc.) et d'établir leurs contrats. Il s'assure également du respect du planning et des enjeux artistiques, en lien étroit avec le producteur.</p>
+<inter>Organiser et négocier</inter>
+<p>Ce professionnel prend également en charge l'organisation et la logistique des tournages : location de voiture, réservation de billets d'avion ou de chambres d'hôtel, commande d'un repas pour toute l'équipe, etc. En relation avec les fournisseurs, il choisit les prestations (location d'un studio, de caméras, d'éclairages) et négocie d'éventuelles réductions. Sur tous les fronts, le chargé de production ne doit oublier aucun détail pratique.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="37752" csRelFld="37752">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37752</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100486</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Plusieurs voies d'accès sont possibles : BTS audiovisuel en lycée ou en école, licences pro et masters à l'université, ou école spécialisée en audiovisuel. </accr_p>
+</p>
+<inter>Niveau bac + 2/3</inter>
+<liste>
+<itsimp>
+<em>BTS</em> métiers de l'audiovisuel option gestion de production</itsimp>
+<itsimp>
+<em>Licences pro </em>en production audiovisuelle</itsimp>
+<itsimp>
+<em>Certificat d'école privée </em>: Chargé de production en audiovisuel de 3iS (Institut international de l'image et du son)</itsimp>
+</liste>
+<inter>Niveau bac + 4/5</inter>
+<liste>
+<itsimp>
+<em>Masters</em>  en conception et production audiovisuelle ; métiers de la production audiovisuelle, film, vidéo multimédia, conception, production écriture audiovisuelle et multimédia</itsimp>
+<itsimp>
+<em>Diplômes d'écoles publiques </em>d'audiovisuel : Ensmis (École nationale supérieure des métiers de l'image et du son), Ina Sup (Institut national de l'audiovisuel)</itsimp>
+<itsimp>
+<em>Diplômes d'écoles privées </em>spécialisées en audiovisuel : Esra (École supérieure de réalisation audiovisuelle), Iscpa (Institut supérieur de la communication, de la presse et de l'audiovisuel)</itsimp>
+<itsimp>
+<em>Diplômes d'écoles supérieures de commerce</em>
+</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="37750" csRelFld="37750">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37750</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100486</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des débuts difficiles</inter>
+<p>Les milieux de l'audiovisuel et du spectacle vivant font rêver, mais les débuts sont difficiles. La majorité des professionnels doit faire face à la précarité, à des budgets en baisse et à l'intermittence des contrats. Une implication personnelle et une forte motivation sont donc indispensables en début de carrière.</p>
+<inter>Sociétés de production, compagnies, chaînes de télévision</inter>
+<p>Le métier peut s'exercer au sein de sociétés de production, de chaînes de télévision, de compagnies pour le spectacle vivant... La majorité des recrutements se fait par le bouche-à-oreille et la cooptation. On débute souvent comme assistant de production avant d'évoluer, selon ses capacités, vers un poste de chargé de production.</p>
+<inter>Une mutation vers Internet</inter>
+<p>Le développement d'Internet crée de nouveaux modes de consommation des oeuvres audiovisuelles, avec des financements et des formats exclusifs. Progressivement, l'environnement interactif du Web développe des marchés pour l'audiovisuel numérique, avec des perspectives professionnelles nouvelles, y compris dans la production.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>855</sal> à <sal>977</sal>euros brut par semaine.</p>
+<postit>
+<p>Source : site web de l'Association des directeurs de production, grille des salaires minima de la production audiovisuelle au 1<exp>er</exp> juillet 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

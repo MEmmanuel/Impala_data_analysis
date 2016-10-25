@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">professeur/e de musique et de danse</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">enseigner, éduquer/m'occuper d'enfants ou d'adolescents/exercer un métier artistique ou créatif/faire du sport/animer des activités culturelles, ludiques ou éducatives</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction enseignement - éducation</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur de l'éducation/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">enseignement - formation/danse/musique classique/musique/musique contemporaine/interprétation musicale/composition musicale/chant/sport</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit/professeur de musique et de danse</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10208</lien_onisep>
+<ROME Level="1B" csRelFld="10208">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="498" csRelFld="498">
+<CSLABELFLD label="">K2105</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Formation initiale et continue</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K2105</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Enseignement artistique</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10208">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16561" csRelFld="16561">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16561</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10208</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Éveiller la sensibilité artistique</inter>
+<p>Le professeur de musique et de danse éveille la sensibilité artistique des élèves en faisant preuve d'imagination pour rendre son cours vivant et attractif. Il effectue des choix pédagogiques en fonction de ses classes afin de développer leur curiosité.</p>
+<inter>Pratique et évaluation</inter>
+<p>Au lycée, les élèves qui font de la musique ou de la danse préparent un bac L ou un bac TMD (techniques de la musique et de la danse). Ils commencent à maîtriser leur pratique artistique, et envisagent de s'orienter vers des études de musicologie ou de danse. Le professeur veille donc à l'équilibre, la variété et la cohérence de ses cours, ainsi qu'à la progression de ses élèves. Il les conseille et les accompagne dans leurs choix d'orientation.</p>
+<inter>Discipline et ouverture</inter>
+<p>Le professeur de danse commence ses cours par un échauffement, et continue par un travail technique et chorégraphique visant à développer le goût de l'effort chez ses élèves. De même, le professeur de musique transmet le sens de la discipline. Tous deux mettent en oeuvre des actions pour faire découvrir leur art : ils organisent des concerts ou des spectacles, des échanges entre élèves, professionnels et public, etc.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16553" csRelFld="16553">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16553</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10208</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>L'obtention d'un diplôme est obligatoire pour enseigner, en plus d'une maîtrise parfaite de sa discipline artistique (musique ou danse).</p>
+<p>Pour les professeurs d'enseignement artistique spécialité musique et danse qui exercent leurs fonctions dans les conservatoires classés par l'Etat, il faut un certificat d'aptitude aux fonctions de professeur de musique ou de danse.</p>
+<p>Pour les professeurs d'éducation musicale intervenant dans les écoles élémentaires de la ville de Paris, il faut avoir validé un master.</p>
+<p>Les professeurs d'éducation musicale et chant choral dans les collèges et lycées sont recrutés sur concours en 1ère année de master métier de l'enseignement, de l'éducation et de la formation 2d degré. Une fois le concours réussi, les professeurs stagiaires suivent une formation en alternance en 2ème année de master qui se déroule à temps partiel dans un établissement. La titularisation est soumise à la réussite du M2.</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>DE (diplôme d'État) de professeur de musique/danse </itsimp>
+<itsimp>DUMI (diplôme universitaire de musicien intervenant en milieu scolaire)</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>CA (certificat d'aptitude) aux fonctions de professeur de musique/danse </itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme de pédagogie et formation à l'enseignement de la musique du Conservatoire de Paris (chant, musicologie, analyse musicale, instruments, jazz)</itsimp>
+<itsimp>CAPES (certificat d'aptitude au professorat dans l'enseignement du second degré) </itsimp>
+<itsimp>CAFEP (certificat d'aptitude aux fonctions d'enseignement dans les établissements d'enseignement privé sous contrat)</itsimp>
+<itsimp>Masters de musique et musicologie</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16566" csRelFld="16566">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16566</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10208</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des postes en nombre variable</inter>
+<p>Le nombre de postes mis au concours dans l'enseignement public varie d'une année à l'autre. Dans les conservatoires, qui dépendent de la fonction publique territoriale, on recense 8 500 postes d'enseignants en musique et seulement 638 en danse.</p>
+<inter>Un succès grandissant</inter>
+<p>Le développement de l'enseignement artistique résulte de l'évolution des pratiques de la population et du développement des nouvelles technologies qui facilitent l'accès à l'art en général. Les professeurs d'enseignement artistique doivent donc s'ouvrir à un public de plus en plus large et diversifié.</p>
+<inter>Évolutions de carrière</inter>
+<p>Les professeurs de musique et de danse peuvent évoluer en animant des activités périscolaires ou en créant du matériel pédagogique. Ils peuvent également passer les concours de l'Éducation nationale pour devenir chefs d'établissement ou inspecteurs.</p>
+<remun>
+<inter>Salaire du débutant</inter> A partir de <sal>2000</sal> euros brut par mois pour les professeurs certifiés. </remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

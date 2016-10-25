@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">cadreur/euse</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un métier artistique ou créatif/me déplacer souvent/travailler à l'étranger</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">intermittent du spectacle/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction création artistique/fonction information - communication</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur de l'audiovisuel</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">image/réalisation audiovisuelle/journalisme de radio télévision</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques de la communication média/cadreur</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10178</lien_onisep>
+<ROME Level="1B" csRelFld="10178">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="551" csRelFld="551">
+<CSLABELFLD label="">L1505</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Techniciens du spectacle</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">L1505</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Image cinématographique et télévisuelle</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10178">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17791" csRelFld="17791">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17791</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10178</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+   <inter>Régler la caméra et filmer</inter>
+   <p>Au cinéma, le cadreur exerce sous la conduite du réalisateur et du directeur de la photographie. Il met en marche et arrête la caméra, mais il doit aussi trouver les meilleurs angles de prise de vues. Pendant le tournage, le cadreur est responsable de la netteté de l'image et de la mobilité de la caméra. Il doit aussi anticiper les déplacements des comédiens. Certains réalisateurs cadrent eux-mêmes pour mieux diriger ces derniers. Mais, le plus souvent, ils donnent leurs instructions plan par plan aux cadreurs, via un story-board.</p>
+   <inter>Suivre les consignes de la régie</inter>
+   <p>Sur un plateau de télévision, plusieurs cadreurs filment simultanément sous des angles différents. Leurs images apparaissent alternativement à l'antenne. Munis d'un casque, ils reçoivent les consignes du réalisateur, en régie, pour faire, par exemple, un plan large ou un gros plan. </p>
+   <inter>Varier les prises de vues</inter>
+   <p>En reportage, le cadreur se déplace généralement avec un ingénieur du son et un journaliste (ou un réalisateur). Il a alors davantage de liberté pour travailler la lumière ou varier les prises de vues. </p>
+  </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18889" csRelFld="18889">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18889</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10178</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Il est indispensable de suivre une formation pour devenir cadreur. Seules deux écoles sont reconnues par le comité de la carte du Centre national du cinéma (CNC) : l'École nationale supérieure des métiers de l'image et du son (ENSMIS ex-FEMIS) et l'École nationale supérieure Louis Lumière</accr_p>
+<accr_p>. </accr_p>Très sélectifs, ces établissements ne sont accessibles qu'à une poignée de candidats.</p>
+<p>Par ailleurs, hormis le BTS qui permet d'avoir une vision d'ensemble des métiers de l'audiovisuel, il existe une multitude d'écoles privées, assurant des formations en 2 ou 3 ans après le bac. Toutefois, elles sont très onéreuses et de qualité inégale.</p>
+<inter>Niveau bac + 2</inter>
+<liste>
+<itsimp>
+<em>BTS</em> métiers de l'audiovisuel, option métiers de l'image ;</itsimp>
+</liste>
+<inter>Niveau bac + 3</inter>
+<liste>
+<itsimp>
+<em>Licences pro</em>  du son et de l'image ;</itsimp>
+<itsimp>
+<em>Certificats d'écoles spécialisées</em> : ESRA, 3IS...</itsimp>
+</liste>
+<inter>Niveau bac + 5</inter>
+<liste>
+<itsimp>
+<em>Diplôme</em> l'Ecole nationale supérieure Louis Lumière section cinéma ;</itsimp>
+<itsimp>
+<em>Diplôme</em> de la FEMIS spécialisation image ;</itsimp>
+<itsimp>
+<em>Diplôme </em>de l'Institut national supérieur des arts du spectacle et techniques de diffusion (INSAS à Bruxelles).</itsimp>
+<itsimp>
+<em>Masters </em>mention cinéma et audiovisuel ;</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17785" csRelFld="17785">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17785</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10178</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>88 jours de travail par an</inter>
+<p>Le statut d'intermittent du spectacle est majoritaire dans la profession : les cadreurs sont rémunérés selon le temps de travail effectué (par exemple, à l'heure, à la demi-journée ou encore à la journée). La précarité touche des effectifs qui augmentent plus rapidement que le volume de travail disponible. Les télévisions publiques sont les seules à proposer des CDI (contrats à durée indéterminée).</p>
+<p>On estime à environ 1 000 le nombre de cadreurs, et à 1 500 celui de techniciens opérateurs, l'ensemble ne travaillant en moyenne que 88 jours par an, selon la Caisse des congés du spectacle.</p>
+<inter>Intégrer une " famille "</inter>
+<p>Les sociétés de production audiovisuelle (cinéma, télévision et institutionnelles) sont les plus grosses pourvoyeuses d'emploi. Deux tiers d'entre elles se trouvent en Ile-de-France. Le secteur, qui fonctionne beaucoup par cooptation, exige de se constituer un carnet d'adresses le plus tôt possible. En effet, dans ce milieu, les professionnels ont tendance à se regrouper par " famille " de projet en projet.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1822</sal> euros brut par semaine.</p>
+<postit>
+<p> Source : SNTPCT (Syndicat national des techniciens et travailleurs de la production cinématographique et de télévision), 2014.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e textile</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe/faire de la recherche</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction méthodes industrialisation/fonction études développement industriel /fonction commerciale</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur construction aéronautique/secteur construction automobile/secteur textile habillement</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">textile/ennoblissement textile/tissage</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE textile habillement cuir/ingénieur textile</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100455</lien_onisep>
+<ROME Level="1B" csRelFld="100455">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="265" csRelFld="265">
+<CSLABELFLD label="">H1206</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception, recherche, études et développement</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H1206</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie études, recherche et développement industriel</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100455">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="37390" csRelFld="37390">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37390</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100455</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Créer des textiles innovants</inter>
+<p>En relation avec les services vente, marketing, production, l'ingénieur textile est chargé de concevoir des tissus innovants : anti-bactériens, anti-taches, anti-transpirants, parfumés, thermorégulateurs, anti-UV... Ses compétences intéressent tous les secteurs : l'habillement (soutien-gorge remodelant, collant amincissant...), mais aussi les transports (textiles qui absorbent le son), la santé (sangles, masques...), le bâtiment (voilages antiflammes...). </p>
+<inter>De la R &amp; D aux achats</inter>
+<p>L'ingénieur textile peut occuper plusieurs postes : responsable de production, responsable ou ingénieur qualité, responsable logistique/approvisionnement. Il peut aussi travailler au sein de services de recherche et développement (R&amp;D) en tant qu'ingénieur chef de projet, ingénieur d'études... C'est dans ce domaine que les ingénieurs textiles exercent le plus. Autre possibilité : être responsable du " <etranger>sourcing</etranger> ", c'est-à-dire de l'achat des matières premières, conformément au cahier des charges établi par le bureau de style. Son rôle est alors davantage technico-commercial, dans la mesure où il est aussi chargé d'évaluer les fournisseurs en termes de prix, de qualité et de délais. Dans la grande distribution, il est chargé d'assurer les visites auprès des usines de fabrication dans les pays étrangers. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="37394" csRelFld="37394">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37394</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100455</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Pour accéder à ce métier, un bac + 5 est nécessaire. Seules 4 écoles d'ingénieurs ont investi le créneau du textile : l'Institut textile et chimique de Lyon (ITECH), l'École nationale supérieure des arts et industries textiles de Roubaix (ENSAIT), l'École nationale supérieure d'ingénieurs Sud Alsace (ENSISA) et l'École des hautes études d'ingénieur (HEI). Mais ce n'est pas la seule voie d'accès possible : il existe aussi des maters universitaires.</p>
+<p>À noter : 10 à 15 % des recrutements concernent les titulaires d'un bac + 2. L'expérience professionnelle et la promotion interne permettent ensuite d'évoluer.</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS innovation textile option structures ou option traitements </itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur</itsimp>
+<itsimp>Master des métiers de la mode et du textile </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="37392" csRelFld="37392">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37392</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100455</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des statistiques encourageantes</inter>
+<p>Le secteur des textiles techniques est porteur : en France, il représente désormais 40 % de la production textile, et regroupe près de 370 entreprises. Le développement de la recherche et de l'innovation, en particulier vers les textiles composites, permet un certain optimisme. Les statistiques fournies par les écoles sont encourageantes. Ainsi, 30 % des diplômés de l'Institut textile et chimique de Lyon (ITECH) ont trouvé un emploi avant même d'avoir décroché leur diplôme (dont 20 % en moins de 2 mois).</p>
+<inter>Des débouchés dans le vêtement de sport</inter>
+<p>D'après le suivi effectué par les écoles sur leurs précédentes promotions, la distribution spécialisée dans les vêtements de sport recrute régulièrement des ingénieurs textile. L'une des premières enseignes systématiquement citées : Décathlon. Les ingénieurs textiles qui y travaillent développent, par exemple, des matériaux susceptibles de protéger des températures très élevées ou très basses. Des vêtements dédiés en particulier aux sports extrêmes. </p>
+<inter>Vers des postes de manager</inter>
+<p>Après avoir assuré la responsabilité d'un service (fabrication, contrôle qualité, distribution...) ou d'un projet, l'ingénieur textile peut, avec de l'expérience, accéder à un poste de responsable d'unité de production ou d'usine.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2500</sal> euros brut par mois.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

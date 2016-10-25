@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">formateur/trice en informatique</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">enseigner, éduquer/animer des activités culturelles, ludiques ou éducatives</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/indépendant</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction enseignement - éducation</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur sociétés de service et de conseil en informatique/secteur de l'éducation</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">informatique/enseignement - formation</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé/formateur en informatique</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100362</lien_onisep>
+<ROME Level="1B" csRelFld="100362">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="504" csRelFld="504">
+<CSLABELFLD label="">K2111</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Formation initiale et continue</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K2111</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Formation professionnelle</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100362">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="31993" csRelFld="31993">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31993</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100362</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Transmission des savoirs</inter>
+<p>L'objectif du formateur en informatique : permettre aux utilisateurs d'acquérir ou d'actualiser des compétences directement utilisables dans leur travail. Et ce, du simple utilisateur de micro-informatique qui se sert de logiciels de bureautique et de messagerie, aux ingénieurs et aux développeurs experts dans un champ d'application.</p>
+<inter>Animation de stages</inter>
+<p>La transmission des savoirs et savoir-faire est effectuée en fonction d'objectifs précis et définis à l'avance. Au formateur de concevoir et de réaliser un plan de formation, de prévoir les supports, de définir la progression, d'animer les groupes de stages... En aval, il évalue les stagiaires et réajuste le contenu de ses interventions en fonction de leur niveau.</p>
+<inter>Autour de la formation</inter>
+<p>Il assure également le suivi des formés, qui peuvent le contacter pour des précisions. Rédiger de la documentation et des manuels pour les utilisateurs, effectuer des tests de connaissances des stagiaires, assurer des missions de conseil : autant de tâches qu'il est amené à remplir.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="31997" csRelFld="31997">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31997</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100362</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Nombre de formateurs sont des professionnels en poste, sans véritable formation pédagogique. Selon le type et la complexité des formations, le niveau d'études varie fortement : de bac + 2 pour des formations dédiées aux outils bureautiques à bac + 5 pour des formations plus pointues ou pour créer des outils de formation. Voire plus, pour des expertises internationales par exemple. </p>
+<liste>
+<tete>Niveau bac + 3 : après un DUT ou BTS en informatique :  </tete>
+<itsimp>Licence pro mention métiers de la GRH : formation, compétences et emploi </itsimp>
+<itsimp>Licence pro mention métiers de la médiation scientifique et technique</itsimp>
+<itsimp>Licence pro mention métiers de l'informatique</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master dans le domaine informatique</itsimp>
+<itsimp>Diplôme d'école d'ingénieurs avec une spécialisation en informatique </itsimp>
+<itsimp>Diplôme d'école spécialisée en informatique</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="31995" csRelFld="31995">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31995</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100362</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Une forte demande</inter>
+<p>Changement de logiciels, de technique, de qualification, de service... La formation des personnels représente un enjeu de taille pour les entreprises. Dans le secteur privé, la demande est forte. Dans le cadre associatif et territorial, elle est parfois relayée par les responsables du parc informatique. À envisager : les temps partiels et les vacations. </p>
+<inter>Une activité complémentaire</inter>
+<p>Dans ce secteur, le formateur a besoin d'être en prise directe avec la réalité du terrain. Aussi, la formation constitue souvent un passage dans une carrière ou s'inscrit en complément d'une autre activité. Il n'est pas rare que des experts ou des membres de l'équipe d'un projet animent des missions ponctuelles. Une expérience professionnelle est la bienvenue.</p>
+<inter>Pas d'évolution type</inter>
+<p>Les perspectives d'évolution de carrière ne sont pas toutes tracées. En gagnant en expérience, le formateur peut devenir responsable ou ingénieur de formation. Évoluer vers les ressources humaines ou le commercial est une autre option. Ou encore retourner à une fonction technique.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>1675</sal> à 1985 euros brut par mois.</p>
+<postit>
+<p>Source : convention collective des organismes de formation, 2011.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

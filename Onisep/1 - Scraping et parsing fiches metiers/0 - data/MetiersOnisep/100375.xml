@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">hydraulicien/ne</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">préserver l'environnement/me déplacer souvent/coordonner l'activité d'une équipe/contrôler la qualité, expertiser</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction contrôle/fonction encadrement - coordination</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique/secteur sociétés d'ingénierie et d'études techniques/secteur du traitement et de la distribution des eaux/secteur énergie</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">hydraulique/hydrogéologie/mécanique des fluides/génie civil</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit/hydraulicien</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100375</lien_onisep>
+<ROME Level="1B" csRelFld="100375">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="11" csRelFld="11">
+<CSLABELFLD label="">A1301</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Etudes et assistance technique</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">A1301</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Conseil et assistance technique en agriculture</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100375">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1037" csRelFld="1037">
+<CSLABELFLD label="">responsable de l'exploitation de sites hydrauliques</CSLABELFLD>
+<MET_ID label="Identifiant">100375</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">03/01/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1037</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">responsable de l'exploitation de sites hydrauliques</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1037">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1038" csRelFld="1038">
+<CSLABELFLD label="">responsable d'un service d'ingénierie hydraulique</CSLABELFLD>
+<MET_ID label="Identifiant">100375</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">03/01/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1038</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">responsable d'un service d'ingénierie hydraulique</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1038">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="32468" csRelFld="32468">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">32468</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100375</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Contrôle</inter>
+<p>L'hydraulicien intervient sur les systèmes d'assainissement de l'eau où il est chargé de contrôler l'efficacité des stations d'épuration et de planifier le curage préventif du réseau des eaux fluviales et usées.</p>
+<inter>Conception</inter>
+<p>Dans le domaine de l'alimentation en eau potable, il organise le service de distribution de façon à répondre 24 heures sur 24 aux besoins de la population. Son rôle : concevoir et suivre la réalisation des réseaux d'approvisionnement (depuis la station de pompage jusqu'au robinet des usagers) ; prévoir le comportement de l'eau dans un réseau de distribution ; calculer les débits, les pressions et le temps de séjour de l'eau dans ce réseau. </p>
+<inter>Surveillance du réseau</inter>
+<p>L'hydraulicien est par ailleurs responsable du bon état du réseau, ce qui l'amène à réaliser des travaux dans le cadre de branchements neufs, qu'il s'agisse de la production, du traitement et de la distribution d'eau potable ou de la récupération des eaux usées.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="32472" csRelFld="32472">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">32472</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100375</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Hydraulique, hydrogéologie, génie sanitaire, mécanique des fluides ou génie civil...</accr_p>la palette des disciplines pour accéder à la profession d'hydraulicien est vaste, à condition de poursuivre les études jusqu'au niveau bac + 5. Sans le titre d'ingénieur, point de salut ! Les écoles d'ingénieurs proposent l'aménagement hydraulique comme option ou spécialisation, souvent en dernière année d'études. L'une d'elles est spécialisée sur les questions d'hydraulique : l'Ense3 (École nationale supérieure de l'énergie, l'eau et l'environnement) de Grenoble.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="32470" csRelFld="32470">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">32470</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100375</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un secteur dynamique</inter>
+<p>La gestion de l'eau est un domaine dont l'importance croît avec l'émergence des problématiques environnementales. Avec pour résultat la création d'emplois stables dans le privé. On recense en France environ 112 000 emplois dans le secteur de l'eau : surveillance et entretien des réseaux, gestion de la ressource ou épuration des eaux usées. En Ile-de-France, le secteur de l'eau, qui va du captage à l'assainissement en passant par la distribution, emploie 18 600 salariés. </p>
+<inter>Les pays en développement </inter>
+<p>Le marché étant devenu international, des déplacements ou des carrières à l'étranger sont possibles. La mise en place de réseaux d'eau potable dans les pays en développement offre aussi des possibilités aux hydrauliciens.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2500</sal> à 3000 euros brut par mois. </p>
+<postit>
+<p>Source : Pôle emploi.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">éducateur/trice de la protection judiciaire de la jeunesse</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">m'occuper d'enfants ou d'adolescents/aider, conseiller/enseigner, éduquer</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction enseignement - éducation</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">protection judiciaire de la jeunesse</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE médical paramédical travail social soins personnels/éducateur de la protection judiciaire de la jeunesse</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100450</lien_onisep>
+<ROME Level="1B" csRelFld="100450">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="455" csRelFld="455">
+<CSLABELFLD label="">K1207</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Action sociale, socio-éducative et socio-culturelle</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K1207</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Intervention socioéducative</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100450">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="36789" csRelFld="36789">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36789</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100450</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Au service des jeunes en danger</inter>
+<p>L'éducateur de la PJJ (protection judiciaire de la jeunesse) intervient sur décision judiciaire, principalement auprès de jeunes âgés de 10 à 18 ans, mis en danger par leur situation familiale ou par un parcours de vie chaotique. Il peut également travailler auprès de mineurs poursuivis ou condamnés par la justice.</p>
+<inter>Trouver des solutions</inter>
+<p>Ce professionnel participe aux enquêtes ordonnées par les juges des enfants. D'abord, il évalue l'environnement du jeune et son rapport à sa famille et à son milieu scolaire. Puis il élabore des solutions éducatives. En lien avec l'assistant de service social, le psychologue, le psychiatre..., il prépare ainsi les décisions des magistrats.</p>
+<inter>Initier un projet de vie</inter>
+<p>Si le jeune est maintenu dans son cadre familial (milieu ouvert), il faut le protéger tout en restaurant le rôle éducatif des parents. S'il est placé dans un centre d'éducation ou incarcéré (milieu fermé), l'éducateur l'accompagne vers un projet de vie. Il s'intéresse à sa santé, à sa scolarité, à sa future insertion professionnelle. Il l'aide à se construire, en lui fixant des repères et des objectifs.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36793" csRelFld="36793">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36793</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100450</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>L'éducateur de la PJJ peut être recruté par le biais d'un concours sur titres - s'il est déjà titulaire du DE (diplôme d'État) d'éducateur spécialisé - ou via un concours sur épreuves - s'il justifie d'un niveau bac + 2 (DUT - diplôme universitaire de technologie carrières sociales, par exemple). </p>
+<p>Après réussite au concours, le candidat suit une formation rémunérée (environ 1160 euros net mensuels) de 2 ans en alternance (cours à l'ENPJJ - École nationale de protection judiciaire de la jeunesse de Roubaix, et stages pratiques au sein de différents services de la DPJJ - Direction de la protection judiciaire de la jeunesse). À l'issue de sa formation, le stagiaire est titularisé et reçoit son affectation. Il s'engage à servir l'État pendant au moins 5 ans.</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>Concours d'éducateur de la protection judiciaire de la jeunesse </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36791" csRelFld="36791">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36791</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100450</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des concours sélectifs</inter>
+<p>On compte actuellement quelque 4 200 éducateurs de la PJJ en France. Fonctionnaires d'État, ils sont recrutés sur concours (sur titres ou sur épreuves). Le concours sur épreuves, très sélectif (de 3 à 6 % d'admis), propose moins d'une centaine de postes chaque année. Le concours sur titres offre 20 à 35 postes, et compte 40 à 50 % d'admis. Une fois diplômé, l'éducateur de la PJJ suit une formation de 2 ans, avant d'être affecté. La majorité des postes se situe dans les grands centres urbains (60 % en Ile-de-France, suivi de près par le département du Nord). </p>
+<inter>Débuts en « milieu fermé »</inter>
+<p>L'éducateur débute souvent en centre de placement. Après 4 années d'exercice, il peut accéder par concours interne au corps des directeurs des services de la PJJ. Après 10 ans de service public (dont 8 en tant qu'éducateur), il peut devenir cadre (chef de service éducatif, directeur d'établissement...) par concours ou promotion internes.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1950</sal> euros brut par mois.</p>
+<postit>
+<p>Source : ministère de la Justice, 2014.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

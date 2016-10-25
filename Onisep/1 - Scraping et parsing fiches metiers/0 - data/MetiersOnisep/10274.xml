@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">officier/ère de marine</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">défendre, secourir, surveiller/me déplacer souvent/avoir des sensations fortes/décider/coordonner l'activité d'une équipe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">militaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction sécurité, protection, défense/fonction encadrement - coordination</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique/secteur Défense</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">marine nationale/sécurité des biens et des personnes/sécurité publique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE nettoyage assainissement environnement sécurité/officier de marine</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10274</lien_onisep>
+<ROME Level="1B" csRelFld="10274">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="480" csRelFld="480">
+<CSLABELFLD label="">K1703</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Défense, sécurité publique et secours</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K1703</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Direction opérationnelle de la défense</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10274">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18046" csRelFld="18046">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18046</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10274</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Conduite des opérations</inter>
+<p>Sur un bâtiment ou dans un sous-marin, l'officier peut être chef de quart passerelle (gestion des manoeuvres courantes et des exercices militaires). Dans la flotte aérienne de la Marine, on trouve des pilotes d'avion de chasse, de patrouille maritime ou d'hélicoptère. L'officier peut aussi diriger l'action de fusiliers marins chargés de mener des opérations de commando...</p>
+<inter>Soutien opérationnel</inter>
+<p>D'autres officiers interviennent en soutien opérationnel. Ainsi, l'officier énergie-propulsion veille sur les installations et la production électrique des bâtiments et des sous-marins, le contrôleur des opérations aériennes prépare et suit les missions aériennes, celui de circulation aérienne gère le trafic des aéronefs...</p>
+<inter>Administration et technique</inter>
+<p>Certains officiers sont commissaires de la marine. Ce sont les conseillers du commandement en matière logistique, administrative, financière et juridique. On trouve aussi des officiers informaticiens, psychologues, spécialistes de la communication, chercheurs scientifiques, chimistes, traducteurs...</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18045" csRelFld="18045">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18045</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10274</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<titre>De bac à bac + 5</titre>
+<liste>
+<tete>
+<accr_p>Il existe différentes voies pour devenir officier de marine : </accr_p>
+</tete>
+<itsimp>Les officiers de carrière intègrent l'École navale de Brest sur concours. Conditions d'admission en 1<exp>re</exp> année : avoir moins de 22 ans et sortir d'une prépa MP, PC et PSI. La scolarité dure 4 ans. En 2<exp>e</exp> année : sur titre niveau bac + 4 ou en 3<exp>e</exp> année niveau bac + 5.</itsimp>
+<itsimp>Les officiers sous contrat ont deux possibilités. Les titulaires d'un bac + 3 ou les sortants d'une classe prépa, âgés de 21 à moins de 27 ans, peuvent postuler un contrat de 8 ans. Recrutés sur dossier et entretien, ils ont une formation de 7 mois à l'École navale, puis un stage dans la filière choisie. Les bac + 4 ou + 5 âgés de moins de 30 ans peuvent viser un contrat de 3 ans en état-major (informatique, gestion, communication...). Recrutés sur dossier et entretien, ils suivent 3 semaines de formation à l'École navale.</itsimp>
+<itsimp>Les élèves officiers pilotes de l'aéronautique navale (EOPAN) sont majoritairement sous contrat. La durée maximale du contrat est de 20 ans. Les EOPAN de carrière sont passés par l'Ecole navale. Les EOPAN sous contrat sont recrutés via les CIRFA : dossier, entretien, tests médicaux, sportifs et psychologique. Attention la sélection est rude, il faut être motivé. Conditions : titulaire du bac minimum, être âgés de 17 à moins de 23 ans, avoir un bon niveau d'anglais. Les études durent 3 ou 4 ans selon la spécialité (pilote de chasse, pilote multimoteur, pilote de guet aérien, pilote d'hélicoptère).</itsimp>
+<itsimp>Les futurs commissaires de la Marine passent un concours commun aux trois armées (mer, air, terre). Conditions : avoir moins de 25 ans, posséder un bac + 3. 2 ans de formation à l'École du commissariat de la marine.</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16604" csRelFld="16604">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16604</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10274</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un petit effectif</inter>
+<p>Sur 53 000 militaires et civils, la Marine nationale compte dans ses rangs 5 300 officiers soit 10%. En 2012, elle en recrute 150. Les femmes ont accès à tous les grades et emplois, à l'exception des affectations à bord des sous-marins. </p>
+<inter>Officiers de carrière et sous contrat</inter>
+<p>Les officiers de carrière ont fait quatre ans d'études à l'École navale de Brest. Les officiers sous contrat signent un contrat initial soit de 8 ans dans la branche opération navales éventuellement renouvelable jusqu'à 20 ans de service, soit de 3 ans dans la branche état-major, renouvelable en fonction des besoins de la Marine et la qualité des services rendus. Les officiers pilotes de l'aéronautique navale signent un contrat de 10 ans. Les officiers sous contrat peuvent devenir officiers de carrière par voie de concours interne ou sur dossier.</p>
+<inter>Volontaires officiers aspirants</inter>
+<p>Les volontaires officiers aspirants ont choisi d'enrichir leur formation supérieure lors d'un stage d'un an (éventuellement renouvelable) dans la Marine sous statut militaire. Spécialités : chef de quart, fusilier, ressources humaines, chimie, informatique, qualité, psychologie, énergie, logistique et commissariat.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1648</sal> euros brut par mois pour le grade d'enseigne de vaisseau 2e classe</p>
+<postit>
+<p>Source : D n°2011-1234 modifiant le décret n° 2009-21</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

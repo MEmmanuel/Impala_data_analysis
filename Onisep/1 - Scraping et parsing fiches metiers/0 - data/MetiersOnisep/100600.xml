@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">chargé/e des méthodes outils et qualité en informatique</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">contrôler la qualité, expertiser</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction qualité</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur sociétés de service et de conseil en informatique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">qualité/informatique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100600</lien_onisep>
+<ROME Level="1B" csRelFld="100600">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="603" csRelFld="603">
+<CSLABELFLD label="">M1805</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Systèmes d'information et de télécommunication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1805</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Études et développement informatique</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100600">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="55605" csRelFld="55605">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55605</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100600</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Élever la qualité</inter>
+<p>Le rôle du chargé des méthodes outils et qualité en informatique est de s'assurer que les salariés respectent les normes légales lors de leur travail, tout en prenant en compte les objectifs qualité de l'entreprise. Pour cela, il commence par travailler sur les procédures et définit les méthodes à mettre en place. Il part de l'existant et l'adapte, à chaque fois que cela est nécessaire, pour se rapprocher des normes souhaitées. Dans le secteur informatique, les normes de base sont ISO, ITIL ou encore CMMI, de plus en plus indispensables.</p>
+<inter>Faire respecter les normes</inter>
+<p>Le chargé des méthodes outils et qualité en informatique vérifie ensuite que les nouvelles normes sont réellement utilisées. Pour cela, il réalise régulièrement des audits et met en place des tests. Il s'agit d'une phase très importante qui permet de détecter les non-conformités au sein de l'entreprise, tout au long de la chaîne de production informatique, et garantit le niveau de qualité.</p>
+<inter>Accompagner le changement</inter>
+<p>Comme son activité implique généralement des changements plus ou moins importants au sein de l'entreprise, le chargé des méthodes outils et qualité en informatique assure aussi un rôle d'assistance à la conduite du changement via des informations, des formations et une aide technique et organisationnelle sur toute la période de mise en place et d'appropriation.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55609" csRelFld="55609">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55609</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100600</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le métier de chargé des méthodes outils et qualité en informatique s'adresse aux diplômés (le plus souvent un bac + 5) avec expérience.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur en informatique</itsimp>
+<itsimp>Master mention informatique</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55607" csRelFld="55607">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55607</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100600</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>La qualité est partout</inter>
+<p>La qualité est une obsession pour beaucoup d'entreprises du secteur de l'informatique. En effet, l'obtention de certifications peut souvent faire partie des conditions pour remporter un appel d'offres, par exemple. Les normes qualité et réglementaires évoluant rapidement, cela fournit du travail régulier au chargé des méthodes outils et qualité, qui doit faire évoluer son entreprise au rythme de ces nouveautés, de la manière la plus harmonieuse et efficace possible.</p>
+<inter>Expérience souhaitée</inter>
+<p>Le poste de chargé des méthodes outils et qualité en informatique est rarement proposé à des débutants, car il exige une expérience et une expertise large. Il s'exerce au sein des entreprises utilisatrices ou chez un prestataire de services : constructeur, éditeur de logiciels, société de services et d'ingénierie, etc.</p>
+<inter>Vers plus de responsabilités</inter>
+<p>En fonction de son expérience dans le poste, le chargé des méthodes outils et qualité en informatique peut évoluer vers des fonctions d'encadrement en prenant la direction d'une équipe. Il peut également s'orienter vers les postes de chef de projet informatique, responsable production ou d'exploitation, directeur technique, etc.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>3234</sal> euros brut par mois en moyenne.</p>
+<postit>
+<p>Source : cabinet Expectra, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

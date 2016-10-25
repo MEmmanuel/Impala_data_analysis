@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e hydroécologue</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">préserver l'environnement</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/indépendant/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur sociétés d'ingénierie et d'études techniques/secteur environnement/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">hydrologie/écologie/gestion de l'eau</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE nettoyage assainissement environnement sécurité</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100577</lien_onisep>
+<ROME Level="1B" csRelFld="100577">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100577">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="55444" csRelFld="55444">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55444</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100577</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>La phytoépuration</inter>
+<p>L'ingénieur hydroécologue utilise des plantes aquatiques, " macrophytes ", pour assainir l'eau. Ces plantes se nourrissent des substances polluantes contenues dans les déchets que l'homme rejette au quotidien dans l'eau (shampooing ou lessive, par exemple). C'est la phytoépuration ou l'épuration par les plantes, favorisant la réhabilitation des rivières. Ces végétaux étonnants ont aussi la faculté d'extraire du métal de l'eau, comme le plomb.</p>
+<inter>Un diagnostic environnemental</inter>
+<p>L'ingénieur hydroécologue établit d'abord un diagnostic de la pollution. Il doit avant tout appréhender les liens entre les différents paramètres que sont l'eau, le sol (son inclinaison), la faune et la flore. En étudiant le terrain, il peut évaluer la pollution du milieu et penser des solutions d'assainissement durable. </p>
+<inter>Une solution 100 % naturelle</inter>
+<p>Puis il choisit le système d'épuration à mettre en place. Le choix des plantes est déterminé par leur capacité d'adaptation au milieu naturel et leur efficacité face à tel ou tel polluant. Les plantes sont introduites dans deux bassins composés l'un de graviers, l'autre de roche, qui servent de filtres pour séparer les polluants de l'eau. L'hydroécologue opère ensuite un suivi régulier de l'installation, pour ajuster au mieux la filtration biologique.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55448" csRelFld="55448">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55448</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100577</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Il est possible de préparer une licence pro puis un master à l'université dans le domaine des sciences de la Terre. Très peu d'écoles sont spécialisées dans ce domaine, plutôt généraliste. Tout en restant en contact avec le monde de la recherche, l'apprentissage sur le terrain représente toujours la formation essentielle. Même issu d'une autre formation, paysagiste par exemple, on peut se spécialiser en hydroécologie par la pratique.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master dans le domaine des sciences de l'eau et des sciences de la terre </itsimp>
+<itsimp>Diplôme d'ingénieur avec une spécialité en génie de l'eau</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55446" csRelFld="55446">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55446</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100577</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un métier d'avenir</inter>
+<p>S'il existe encore peu d'ingénieurs hydroécologues en France, le métier a beaucoup d'avenir. Baignade naturelle pour un hôtel, traitement des résidus de pesticides dans les eaux usées sur une exploitation agricole, installation d'un système d'assainissement sur la propriété d'un particulier, élimination de dépôts d'hydrocarbure dans les effluents industriels... les applications sont diverses. Les perspectives d'emploi sont grandes dans le domaine de l'eau, notamment dans le secteur privé, où de plus en plus d'entreprises adoptent une démarche durable. L'ingénieur hydroécologue peut travailler dans un bureau d'études, occuper un poste de fonctionnaire territorial ou créer sa propre société. Il peut devenir responsable de bureau d'études ou diriger un département recherche et développement spécialisé.</p>
+<inter>Des pistes à l'international</inter>
+<p>Utilisant toujours les ressources végétales environnantes, les techniques de phytoépuration s'exportent également dans les pays en voie de développement lorsque les sols et les rivières sont pollués. Certaines ONG (organisations non gouvernementales) utilisent déjà cette méthode pour favoriser l'accès à l'eau potable.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>1950</sal> à 3900 euros brut par mois, pour un ingénieur. Environ 1600 euros brut par mois pour un chargé de mission dans un parc régional naturel (cadre A de la fonction publique territoriale ).</p>
+<postit>
+<p>Source : Apec (Association pour l'emploi des cadres) et CNFPT (Centre national de la fonction publique territoriale), 2014.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

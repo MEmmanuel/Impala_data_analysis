@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">psychologue</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">soigner/aider, conseiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire/salarié/libéral</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur santé/secteur social/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">psychologie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit/psychologue</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10300</lien_onisep>
+<ROME Level="1B" csRelFld="10300">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="505" csRelFld="505">
+<CSLABELFLD label="">K2112</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Formation initiale et continue</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K2112</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Orientation scolaire et professionnelle</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="447" csRelFld="447">
+<CSLABELFLD label="">K1104</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Accompagnement de la personne</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K1104</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Psychologie</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10300">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1074" csRelFld="1074">
+<CSLABELFLD label="">psychologue clinicien / clinicienne</CSLABELFLD>
+<MET_ID label="Identifiant">10300</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">03/01/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1074</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">psychologue clinicien/ne</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1074">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1075" csRelFld="1075">
+<CSLABELFLD label="">psychologue du travail</CSLABELFLD>
+<MET_ID label="Identifiant">10300</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">03/01/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1075</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">psychologue du travail</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1075">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1076" csRelFld="1076">
+<CSLABELFLD label="">psychologue scolaire</CSLABELFLD>
+<MET_ID label="Identifiant">10300</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">03/01/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1076</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">psychologue scolaire</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1076">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17161" csRelFld="17161">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17161</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10300</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Conseiller et accompagner</inter>
+<p>Dans son cabinet ou au sein d'une institution, le psychologue écoute et accompagne des patients en souffrance morale : enfants, adolescents, adultes, handicapés, prisonniers... Son intervention va du simple entretien en vue d'un conseil à un accompagnement plus complexe et au long cours.</p>
+<inter>Aider les professionnels</inter>
+<p>Il est aussi amené à soutenir des professionnels (cadres déprimés, gardiens de prison, personnel soignant, enseignants, pompiers, employés dans le milieu de la banque ou de la finance...) soumis à une certaine pression ou exposés à la violence.</p>
+<p>Dans la fonction publique territoriale, il accompagne les travailleurs sociaux et le personnel des crèches dans leur travail au quotidien.</p>
+<p>Dans une entreprise, le psychologue du travail s'occupe du recrutement, de la gestion de carrière, de la mobilité professionnelle, de la formation continue, des bilans de compétences...</p>
+<inter>Prévenir les troubles</inter>
+<p>Il dépiste d'éventuels troubles chez les enfants qui fréquentent les centres de PMI (protection maternelle et infantile) et les crèches. Dans les quartiers difficiles, il lutte contre la marginalisation et participe à l'insertion des publics défavorisés.</p> </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17166" csRelFld="17166">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17166</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10300</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Le titre de psychologue est accordé aux titulaires d'un master (bac + 5) en psychologie, d'un diplôme d'État de psychologue scolaire ou d'un diplôme d'État de conseiller d'orientation-psychologue (COP).</accr_p> Il est également décerné aux étudiants qui sortent de l'EPP (École de psychologues praticiens, à Paris et à Lyon). Le diplôme de psychologue du travail est, quant à lui, délivré par le Cnam (Centre national des arts et métiers).</p>
+<p>Les études commencent par une licence de psychologie, suivie d'un master accompagné d'un stage professionnel, indispensable pour obtenir le titre de psychologue.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master mentions : psychologie ; psychologie : psychopathologie clinique, psychopathologie et psychologie de la santé ; psychologie : psychopathologie clinique psychanalytique ; psychologie de l'éducation et de la formation ; psychologie sociale, du travail et des organisations  </itsimp>
+<itsimp>Diplôme de l'École de psychologues praticiens (EPP)</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17151" csRelFld="17151">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17151</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10300</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Insertion difficile</inter>
+<p>L'insertion professionnelle des jeunes diplômés est difficile. S'ils veulent s'en sortir, ils doivent envoyer des candidatures spontanées et ne pas se contenter de répondre aux petites annonces.</p>
+<p>Les jeunes cliniciens doivent souvent multiplier les stages et les vacations, voire cumuler plusieurs temps partiels, avant de décrocher un emploi stable. Quant aux postes de psychologues du travail, ils sont plutôt rares. </p>
+<inter>Des perspectives</inter>
+<p>Si ce secteur offre actuellement peu de débouchés, il devrait, dans les années à venir, connaître une embellie liée à une forte demande sociale et à une vague de départs à la retraite.</p>
+<p>Des créations d'emplois sont à prévoir du côté des maisons de retraite, des municipalités, des associations de lutte contre la drogue ou la délinquance, ou encore des services d'aide à domicile... </p>
+<inter>Peu de postes aux concours</inter>
+<p>Quelques concours sont organisés : psychologue de la fonction publique hospitalière, psychologue de la PJJ (protection judiciaire de la jeunesse), psychologue de l'AP-HP (Assistance publique-Hôpitaux de Paris), psychologue du département de Paris, psychologue territorial. Attention : ces concours offrent un faible nombre de postes.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>1500</sal> à 1850 euros brut par mois en équivalent temps plein.</p>
+<postit>
+<p>source : Apec, ces montants sont obtenus par le cumul de contrats à temps partiel dans différents établissements</p>
+</postit>
+<p>1615 euros brut par mois selon la grille de salaire de la fonction publique hospitalière, territoriale et d'État (source : Syndicat national des psychologues).</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

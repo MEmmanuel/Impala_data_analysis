@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">traducteur/trice technique</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">pratiquer les langues vivantes</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">libéral/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction information - communication</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur services aux entreprises/secteur industrie</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">traduction scientifique et technique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques de la communication média</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100650</lien_onisep>
+<ROME Level="1B" csRelFld="100650">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="150" csRelFld="150">
+<CSLABELFLD label="">E1108</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Edition et communication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">E1108</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Traduction, interprétariat</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100650">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56539" csRelFld="56539">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56539</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100650</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter> Traduire les notices </inter>
+<p> Imaginez toutes les notices écrites en anglais... La complexité de certains termes techniques nous empêcherait d'accéder à toutes les fonctionnalités de nos appareils. C'est là que le traducteur technique intervient. Il assure le transfert d'informations d'une langue source, une langue étrangère acquise, à une langue cible, généralement sa langue maternelle. Il traduit ainsi la documentation technique d'un produit fabriqué à l'étranger, un rapport médical, le mode d'emploi d'un logiciel... </p>
+<inter> Maîtriser un vocabulaire technique </inter>
+<p> Spécialisé dans un domaine précis : le commerce, l'industrie, le juridique, la médecine, les sciences, les technologies de l'information, l'automobile... il en connaît toutes les nuances linguistiques et le vocabulaire technique, et sait rédiger correctement. Comparé à un traducteur littéraire, il dispose d'une liberté lexicale moindre, car les documents à traduire (souvent des consignes ou des procédures) obéissent à une phraséologie particulière, comme un rapport médical, un logiciel informatique ou un guide d'utilisation.</p>
+<inter> Se documenter</inter>
+<p> Quelles que soient ses connaissances, il fait constamment des recherches sur Internet, lit des ouvrages spécialisés, voire consulte des spécialistes, pour suivre de près l'évolution de son secteur. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56543" csRelFld="56543">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56543</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100650</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p> La traduction technique étant une activité non réglementée, les parcours vers ce métier sont multiples. Le niveau de formation se situe souvent à bac + 5. Parallèlement aux études, il faut avoir fait plusieurs séjours à l'étranger pour s'imprégner de la langue cible. Les doubles compétences sont recherchées : environnement, finance, électronique, sciences pour l'ingénieur... À titre d'exemples : </p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme de traducteur, de traduction spécialisée </itsimp>
+<itsimp>DU traduction spécialisé</itsimp>
+<itsimp>Masters Traduction et interprétation voire Masters en sciences (mathématiques, biologie, informatique, ingénierie, etc.)</itsimp>
+<itsimp>Diplôme d'ingénieur (pour un bilingue spécialisé) </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56541" csRelFld="56541">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56541</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100650</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter> Des débuts difficiles</inter>
+<p> Le traducteur doit fidéliser sa clientèle. Travailler en indépendant signifie qu'il faut savoir se vendre. Les débuts dans le métier sont donc parfois difficiles. Ce qui fera la différence : le savoir-faire et la constance. C'est un métier où les périodes de chômage alternent avec des périodes de travail demandant beaucoup d'implication. Gare aux désillusions ! </p>
+<inter> Cultiver ses atouts </inter>
+<p> L'anglais est bien sûr indispensable mais la maîtrise du russe ou du chinois fera grimper les enchères. Ingénierie, médecine, biologie, droit, finance, informatique, communication, ressources humaines... toutes ces spécialités sont des créneaux porteurs pour le traducteur technique. De nouveaux métiers sont en train de se développer avec l'explosion des NTIC (nouvelles technologies de l'information et de la communication) : sous-titrage, doublage, traduction de SMS, de sites web... Sur Internet, le localisateur traduit, mais intervient également sur l'outil lui-même, ce qui exige des compétences spécifiques en informatique. </p>
+<inter> Des besoins en hausse </inter>
+<p> Avec l'internationalisation des échanges, les besoins sont en hausse et touchent des entreprises exportatrices, des organismes scientifiques, des laboratoires médicaux, des compagnies d'assurances, des cabinets d'avocats... </p>
+<remun>
+<inter> Salaire du débutant</inter>
+<p>Salaire variable en fonction du lieu d'exercice et du type d'entreprise. </p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

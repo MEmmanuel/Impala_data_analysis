@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">hot liner</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur sociétés de service et de conseil en informatique/secteur des télécommunications</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">informatique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé/hot liner</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100363</lien_onisep>
+<ROME Level="1B" csRelFld="100363">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="390" csRelFld="390">
+<CSLABELFLD label="">I1401</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Equipements domestiques et informatique</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">I1401</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Maintenance informatique et bureautique</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100363">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="950" csRelFld="950">
+<CSLABELFLD label="">ingénieur / ingénieure de téléassistance </CSLABELFLD>
+<MET_ID label="Identifiant">100363</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">950</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">ingénieur/e de téléassistance</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="950">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="951" csRelFld="951">
+<CSLABELFLD label="">technicien / technicienne de maintenance </CSLABELFLD>
+<MET_ID label="Identifiant">100363</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">951</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">technicien/ne de maintenance</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="951">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="952" csRelFld="952">
+<CSLABELFLD label="">technicien / technicienne support</CSLABELFLD>
+<MET_ID label="Identifiant">100363</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">952</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">technicien/ne support</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="952">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="31999" csRelFld="31999">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31999</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100363</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Établir un diagnostic</inter>
+<p>Chaque prise d'appel répond à un rituel immuable. Lorsqu'un utilisateur lance un SOS, première étape pour le hot liner : dresser un constat. Des questions filtres lui permettent de se faire décrire précisément le matériel utilisé et le problème rencontré. À lui d'éliminer les causes les plus simples. Pour plus d'efficacité, il dispose d'une base de données qui recense les pannes les plus fréquentes et les moyens d'y remédier.</p>
+<inter>Résoudre le problème</inter>
+<p>Selon la faisabilité technique, il guide point par point l'utilisateur dans les manoeuvres à effectuer. Parfois, il est amené à « prendre la main », c'est-à-dire à se connecter sur l'ordinateur de l'utilisateur pour y effectuer directement les opérations nécessaires.</p>
+<inter>Passer le relais</inter>
+<p>Un problème dépasse ses compétences ? Pas de panique ! Le hot liner fait alors appel à un spécialiste : technicien de maintenance, ingénieur de téléassistance, administrateur de bases de données... Chargé de l'intervention technique de premier niveau, il peut jouer les courroies de transmission entre les utilisateurs et le technicien spécialiste.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="32003" csRelFld="32003">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">32003</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100363</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Longtemps ouverte aux autodidactes, la profession tend à recruter des techniciens avec un diplôme de niveau bac + 2 en informatique.</accr_p> Les BTS, les DUT, voire les DEUST, plus pointus, sont appréciés. Cependant, les autres formations ont leur chance... à condition de maîtriser un type de matériel ou de logiciel. À noter que certaines entreprises recrutent au niveau bac. Une formation en interne est en général apportée sur un ou plusieurs produits spécifiques (logiciels, matériel...). Pour les interventions plus complexes, ou pour certains postes, un profil d'ingénieur peut être exigé : une école d'ingénieurs avec une filière informatique complète ou une école spécialisée en informatique.</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>DUT informatique</itsimp>
+<itsimp>DUT réseaux et télécommunications </itsimp>
+<itsimp>BTS systèmes numériques option A informatique et réseaux</itsimp>
+<itsimp>BTS services informatiques aux organisations (SIO)</itsimp>
+<itsimp>DEUST maintenance et infrastructure de réseaux</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="32001" csRelFld="32001">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">32001</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100363</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un rôle stratégique</inter>
+<p>Avec la diffusion croissante, la complexification et le renouvellement des systèmes et matériels informatiques, les services d'aide aux utilisateurs sont appelés à se renforcer. En première ligne, la hot line joue un rôle stratégique dans la représentation des entreprises, en termes d'image et de rapport au public. L'enjeu ? Une meilleure fidélisation des clients, de plus en plus demandeurs.</p>
+<inter>Des effectifs stables</inter>
+<p>Pour autant, en raison des mouvements internes et de la mise en commun des compétences, le secteur n'explose pas. Il se caractérise par une population plutôt jeune et mobile, désireuse d'évoluer pour éviter les impasses et le travail répétitif.</p>
+<inter>De futurs responsables</inter>
+<p>Le métier est formateur et les perspectives d'évolution de carrière pour ces téléconseillers très spécialisés sont bonnes. Nombreux sont ceux qui accèdent, après une formation, à des postes à responsabilités, que ce soit à la conception de nouveaux produits ou services ou dans l'administration des ressources : chef d'équipe, superviseur...</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1500</sal> euros brut par mois.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

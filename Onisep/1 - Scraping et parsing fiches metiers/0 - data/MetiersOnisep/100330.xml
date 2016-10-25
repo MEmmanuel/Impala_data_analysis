@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">domoticien/ne</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">concevoir, utiliser des technologies industrielles de pointe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction installation</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur second oeuvre bâtiment/secteur maintenance</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">domotique/équipement technique du bâtiment/électronique de sécurité/énergétique/électronique de puissance</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE bâtiment équipements et finitions/domoticien</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100330</lien_onisep>
+<ROME Level="1B" csRelFld="100330">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100330">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="30746" csRelFld="30746">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30746</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100330</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Au service de l'habitat intelligent</inter>
+<p>Le rôle de la domotique est de faire communiquer en réseau les équipements d'une maison. C'est une centrale qui va faire fonctionner automatiquement à distance l'éclairage, le chauffage, la vidéosurveillance, etc. Pour cela, le domoticien installe des objets techniques (sondes, circuits électriques, programmes informatiques, équipements de télécommunications) qui captent et transmettent des informations.</p>
+<inter>Conseil et suivi auprès du client</inter>
+<p>Après avoir cerné les besoins du client (porte automatique, système d'alarme, volets), le domoticien lui propose des solutions techniques. Il supervise ensuite l'installation du matériel et procède en général lui-même à sa mise en service. Il assure également un suivi auprès de l'utilisateur. Au moindre dysfonctionnement, il envoie sur place des agents de maintenance. Dans les cas les plus complexes, il se déplace lui-même pour effectuer un diagnostic.</p>
+<inter>Plus rarement, concevoir</inter>
+<p>La plupart du temps, le domoticien se contente de prescrire du matériel et de surveiller sa mise en place. Cependant, il lui arrive parfois de participer à sa conception. Il travaille alors dans un bureau d'études, chez un constructeur ou sous l'autorité d'ingénieurs.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="30750" csRelFld="30750">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30750</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100330</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<inter>Un BTS, voire plus</inter>
+<p>Le métier de domoticien est accessible directement après un BTS, mais les étudiants peuvent poursuivre en licence pro ou en master pour accroître leurs compétences techniques, voire aller jusqu'au diplôme d'ingénieur.</p>
+<liste>
+<itsimp>Le BTS fluides, énergies, domotique option domotique et bâtiments communicants est le plus adéquat, on note aussi le BTS électrotechnique</itsimp>
+<itsimp>Licence pro domotique ou métiers de l'électronique </itsimp>
+<itsimp>Master mention électronique, énergie électrique, automatique (domotique et réseaux intérieurs) ou énergétique, thermique</itsimp>
+<itsimp>Diplôme d'école d'ingénieurs pour rejoindre une filière en relation avec la domotique ou l'immotique, soit en génie climatique et énergétique, soit en génie thermique, soit en télécommunications</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="30748" csRelFld="30748">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30748</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100330</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>La fin du gadget</inter>
+<p>Jusqu'ici cantonné à quelques projets expérimentaux et réservé aux milliardaires à la recherche du dernier gadget à la mode, le marché de la domotique est en train de se démocratiser. De plus en plus de municipalités font par exemple appel au domoticien pour faciliter le maintien à domicile ou dans des résidences médicalisées de personnes âgées ou en situation de handicap (prévention et détection des chutes, fauteuil déambulateur intelligent, etc.).</p>
+<inter>Un avenir sécurisé</inter>
+<p>Avec une formation adéquate en domotique, trouver un emploi est quasi automatique. La demande est en forte croissance, d'autant plus que les évolutions technologiques sont exponentielles, et le marché en effervescence.</p>
+<inter>L'essor de l'immotique</inter>
+<p>L'immotique, c'est-à-dire l'application de la domotique à des immeubles entiers, semble aussi promise à un bel avenir, tout comme l'urbatique (ville entièrement mise en réseau), un autre secteur novateur. Les professionnels parlent aussi de GTB (gestion technique du bâtiment) ou de GTC (gestion technique centralisée). Une activité promise à un bel avenir, qui marie haute technologie et souci d'économies (d'énergie, notamment).</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir de <sal>1600</sal> euros brut par mois pour un bac + 2.</p>
+<postit>
+<p>Source : Orientation pour tous, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

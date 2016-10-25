@@ -1,0 +1,458 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente de ma\u00eetrise d'exploitation foresti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de ma\u00eetrise d'exploitation foresti\u00e8re",
+            "code_ogr": "10514"
+        },
+        {
+            "libelle_court": "Agent technique forestier / Agente technique foresti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Agent technique forestier / Agente technique foresti\u00e8re",
+            "code_ogr": "10795"
+        },
+        {
+            "libelle_court": "Chef de district forestier",
+            "priorisation": "1",
+            "libelle": "Chef de district forestier",
+            "code_ogr": "12136"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe de travaux forestiers",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe de travaux forestiers",
+            "code_ogr": "38438"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de travaux forestiers",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de travaux forestiers",
+            "code_ogr": "38439"
+        },
+        {
+            "libelle_court": "Contrema\u00eetre / Contrema\u00eetresse d'exploitation foresti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Contrema\u00eetre / Contrema\u00eetresse d'exploitation foresti\u00e8re",
+            "code_ogr": "13572"
+        },
+        {
+            "libelle_court": "Exploitant forestier / Exploitante foresti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Exploitant forestier / Exploitante foresti\u00e8re",
+            "code_ogr": "15010"
+        },
+        {
+            "libelle_court": "Forestier / Foresti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Forestier / Foresti\u00e8re",
+            "code_ogr": "15109"
+        },
+        {
+            "libelle_court": "Manoeuvre forestier / foresti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Manoeuvre forestier / foresti\u00e8re",
+            "code_ogr": "16353"
+        },
+        {
+            "libelle_court": "Ouvrier forestier / Ouvri\u00e8re foresti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Ouvrier forestier / Ouvri\u00e8re foresti\u00e8re",
+            "code_ogr": "17502"
+        },
+        {
+            "libelle_court": "Ouvrier sylvicole / Ouvri\u00e8re sylvicole",
+            "priorisation": "1",
+            "libelle": "Ouvrier sylvicole / Ouvri\u00e8re sylvicole",
+            "code_ogr": "17536"
+        },
+        {
+            "libelle_court": "Ouvrier sylviculteur / Ouvri\u00e8re sylvicutrice",
+            "priorisation": "1",
+            "libelle": "Ouvrier sylviculteur / Ouvri\u00e8re sylvicultrice",
+            "code_ogr": "17537"
+        },
+        {
+            "libelle_court": "Populiculteur / Populicultrice",
+            "priorisation": "1",
+            "libelle": "Populiculteur / Populicultrice",
+            "code_ogr": "17889"
+        },
+        {
+            "libelle_court": "Sylviculteur / Sylvicultrice",
+            "priorisation": "1",
+            "libelle": "Sylviculteur / Sylvicultrice",
+            "code_ogr": "19606"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier le type et le lieu d'intervention \u00e0 partir du planning, pr\u00e9parer et param\u00e9trer le mat\u00e9riel",
+            "code_ogr": "2072",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser les op\u00e9rations de plantation (positionnement, espacement, fertilisation, ...) des jeunes arbres selon l'esp\u00e8ce et la densit\u00e9 d\u00e9finie",
+            "code_ogr": "2854",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Installer les tuteurs de croissance, les \u00e9quipements de protection des arbustes et les cl\u00f4tures de d\u00e9limitation des parcelles",
+            "code_ogr": "2251",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler l'enherbement, d\u00e9broussailler la plantation, les chemins d'acc\u00e8s et pratiquer des \u00e9claircies",
+            "code_ogr": "1119",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tailler les arbres selon l'orientation de croissance ou la forme recherch\u00e9e et supprimer les branches ind\u00e9sirables",
+            "code_ogr": "3356",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller la croissance, l'\u00e9tat sanitaire des arbres et rep\u00e9rer les causes d'anomalies (maladies, pollutions, pr\u00e9dateurs, ...)",
+            "code_ogr": "3325",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Recenser et classer les arbres des diff\u00e9rents sites d'exploitation selon leurs vari\u00e9t\u00e9s, leurs dimensions",
+            "code_ogr": "2902",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la maintenance pr\u00e9ventive/curative de premier niveau des \u00e9quipements",
+            "code_ogr": "3534",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "A1101",
+            "libelle_rome_cible": "Conduite d'engins agricoles et forestiers"
+        },
+        {
+            "code_rome_cible": "A1201",
+            "libelle_rome_cible": "B\u00fbcheronnage et \u00e9lagage"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un CAP/BEP Agricole en travaux forestiers et sylviculture.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans le m\u00eame secteur sans dipl\u00f4me particulier.\nUn dipl\u00f4me de niveau Bac (Bac Professionnel, Brevet de Technicien Agricole) \u00e0 Bac+2 (BTS Agricole) en gestion et conduite de travaux forestiers peut \u00eatre demand\u00e9 pour les fonctions d'encadrement.\nDes vaccinations sp\u00e9cifiques (anti-rabique, ...) peuvent \u00eatre requises.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Pr\u00e9parer les sols (nivellement, labour, application phytosanitaire, ...) pour la mise en place de plantations",
+            "code_ogr": "7993",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des travaux d'am\u00e9nagement (creusement, drainage de foss\u00e9s, ...) ou d'\u00e9quipement (enclos, pont, ...) de for\u00eat et de routes foresti\u00e8res",
+            "code_ogr": "5090",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9finir et planifier les op\u00e9rations de semis, traitement, r\u00e9colte d'un site d'exploitation",
+            "code_ogr": "4518",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Diagnostiquer des maladies, des carences sur des arbres et d\u00e9terminer les traitements appropri\u00e9s",
+            "code_ogr": "5847",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la gestion comptable et administrative d'une structure",
+            "code_ogr": "3533",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de p\u00e9pini\u00e8res ou d'exploitations foresti\u00e8res priv\u00e9es ou publiques (Office National des For\u00eats -ONF-).\nElle varie selon le degr\u00e9 de m\u00e9canisation des \u00e9quipements, les caract\u00e9ristiques des sites forestiers (superficie, effectif, ...) et les saisons.\nElle peut s'exercer les fins de semaine et \u00eatre soumise \u00e0 des astreintes.\nLa r\u00e9mun\u00e9ration est g\u00e9n\u00e9ralement constitu\u00e9e d'un fixe ou s'effectue au rendement.\nL'activit\u00e9 peut s'effectuer en hauteur, en altitude et impliquer le port de charges.\nLe port d'\u00e9quipements de protection (casque anti-bruit, lunettes, chaussures de s\u00e9curit\u00e9, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de carte",
+            "code_ogr": "20930",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Marquage",
+            "code_ogr": "20990",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Comptage",
+            "code_ogr": "20820",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Elagage",
+            "code_ogr": "20876",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils de taille (s\u00e9cateur, tron\u00e7onneuse, ...)",
+            "code_ogr": "21473",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'engins agricoles",
+            "code_ogr": "21413",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils de planification",
+            "code_ogr": "21471",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion de stocks",
+            "code_ogr": "21259",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Coop\u00e9rative foresti\u00e8re",
+            "code_ogr": "23834",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Exploitation foresti\u00e8re",
+            "code_ogr": "23932",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Office National des For\u00eats",
+            "code_ogr": "24011",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "P\u00e9pini\u00e8re",
+            "code_ogr": "24033",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Sp\u00e9cificit\u00e9s des parasites animaux et v\u00e9g\u00e9taux",
+            "code_ogr": "22716",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des \u00e9cosyst\u00e8mes",
+            "code_ogr": "21572",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de taille de v\u00e9g\u00e9taux",
+            "code_ogr": "23133",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes environnementales",
+            "code_ogr": "22230",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Droit forestier",
+            "code_ogr": "21810",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Droit rural",
+            "code_ogr": "21817",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9",
+            "code_ogr": "22621",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des v\u00e9g\u00e9taux",
+            "code_ogr": "21666",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de cubage",
+            "code_ogr": "22867",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Agronomie",
+            "code_ogr": "21499",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pathologies v\u00e9g\u00e9tales",
+            "code_ogr": "22280",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de gestion de stocks",
+            "code_ogr": "22609",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nMet en oeuvre les op\u00e9rations sylvicoles sur des parcelles foresti\u00e8res (d\u00e9pressage, \u00e9claircies, plantation, \u00e9lagage sylvicole, ...) selon les r\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9, les objectifs d'exploitation (commerciaux, qualitatifs, ...) et les normes environnementales.\nPeut effectuer des travaux d'am\u00e9nagement de la for\u00eat et des voies foresti\u00e8res.\nPeut coordonner une \u00e9quipe ou diriger une exploitation foresti\u00e8re.\n",
+    "intitule": "Sylviculture",
+    "code_ogr": "11",
+    "code_rome": "A1205",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "A1203",
+            "libelle_rome_cible": "Entretien des espaces verts"
+        },
+        {
+            "code_rome_cible": "A1301",
+            "libelle_rome_cible": "Conseil et assistance technique en agriculture"
+        },
+        {
+            "code_rome_cible": "A1302",
+            "libelle_rome_cible": "Contr\u00f4le et diagnostic technique en agriculture"
+        },
+        {
+            "code_rome_cible": "A1405",
+            "libelle_rome_cible": "Arboriculture et viticulture"
+        },
+        {
+            "code_rome_cible": "A1414",
+            "libelle_rome_cible": "Horticulture et mara\u00eechage"
+        },
+        {
+            "code_rome_cible": "A1416",
+            "libelle_rome_cible": "Polyculture, \u00e9levage"
+        }
+    ]
+}

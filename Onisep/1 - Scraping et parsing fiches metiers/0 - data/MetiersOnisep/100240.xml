@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">cordiste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">avoir des sensations fortes/faire du sport/me déplacer souvent/travailler dehors</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction maintenance/fonction nettoyage, assainissement</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur gros oeuvre bâtiment/secteur second oeuvre bâtiment/secteur travaux publics/secteur sociétés de nettoyage</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">bâtiment - second oeuvre/maintenance</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE bâtiment équipements et finitions/cordiste</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100240</lien_onisep>
+<ROME Level="1B" csRelFld="100240">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="393" csRelFld="393">
+<CSLABELFLD label="">I1501</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Travaux d'accès difficile</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">I1501</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Intervention en grande hauteur</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100240">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17897" csRelFld="17897">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17897</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100240</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>À l'origine, des pros de l'escalade</inter>
+<p>Les alpinistes, recrutés pour leur aisance en escalade, ont inauguré le métier de cordiste pour effectuer des travaux d'entretien sur les surfaces en verre des buildings et sur les monuments historiques. Désormais, une compétence dans certaines techniques du bâtiment s'impose.</p>
+<inter>Entretien de tours et pose de pylônes</inter>
+<p>Les domaines d'intervention du cordiste sont variés : nettoyage et maintenance d'équipements (dont les vitres, cheminées d'usines, silos...) et d'engins en hauteur comme les grues ; restauration de bâtiments, rénovation de toitures, peintures et soudures ; construction en accès difficile ; montage et maintenance de câbles électriques, de structures métalliques, d'antennes, de pylônes et de haubans ; élagage et abattage d'arbres dangereux ; installation de filets de protection le long des falaises ; manipulation d'explosifs...</p>
+<inter>Un travail en hauteur</inter>
+<p>Le quotidien du cordiste est fait de défis. Par exemple, lorsqu'il installe l'illumination de la tour Eiffel (qui culmine à 324 m), qu'il participe à la construction du viaduc de Millau (343 m) ou encore quand il nettoie les vitres pentues de la pyramide du Louvre...</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17896" csRelFld="17896">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17896</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100240</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Si les premiers cordistes étaient alpinistes, la profession s'est organisée au fil des ans et a créé ses formations. Aujourd'hui, il est vivement conseillé d'obtenir d'abord un diplôme du secteur du BTP (CAP, bac pro), puis une spécialisation de cordiste. Deux diplômes de formation continue - le CQP (certificat de qualification professionnelle) de cordiste et le certificat d'"Agent technique cordiste" - permettent d'acquérir les techniques de déplacement sur cordes et de maîtriser les règles de sécurité et de prévention des risques d'accidents. Les exercices pratiques en conditions réelles représentent une grande partie des enseignements. À noter aussi : la FCIL (formation complémentaire d'initiative locale)  "techniques de travaux de bâtiment sur cordes" proposée en alternance, permet de préparer le CQP.</p>
+<liste>
+<tete>Après la 3<exp>e</exp>
+</tete>
+<itsimp>CQP cordiste</itsimp>
+<itsimp>Certificat d'"Agent technique cordiste"</itsimp>
+<itsimp>FCIL techniques de travaux de bâtiment sur cordes</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17895" csRelFld="17895">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17895</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100240</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>BTP, industrie et spectacles </inter>
+<p>Dès que le travail à réaliser se trouve en hauteur ou dans une zone difficile d'accès, les compétences du cordiste deviennent indispensables. D'autant plus qu'il possède aussi des qualifications pour exercer dans des domaines très variés : bâtiment et travaux publics, industrie, rénovation et restauration de monuments historiques, milieu de l'événementiel et du spectacle.</p>
+<inter>De plus en plus de demandes</inter>
+<p>Les cordistes sont de plus en plus demandés. On dénombre 1 000 salariés en CDI (contrat à durée indéterminée) et 4 000 en intérim.</p>
+<p>Depuis 10 ans, le chiffre d'affaires des entreprises spécialisées dans les travaux en hauteur est en hausse constante (en moyenne de 30 % par an). Ce marché à fort potentiel concerne plus de 250 sociétés, des micro-entreprises pour la plupart, sachant que ces dernières n'exercent pas de façon régulière.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir du <sal>Smic</sal>.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

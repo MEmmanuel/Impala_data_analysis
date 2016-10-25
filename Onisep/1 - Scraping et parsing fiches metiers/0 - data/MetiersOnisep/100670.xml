@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e en imagerie médicale</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">programmer, créer du contenu numérique</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction études développement informatique</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur santé/secteur recherche/secteur sociétés de service et de conseil en informatique/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">imagerie médicale</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE médical paramédical travail social soins personnels</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100670</lien_onisep>
+<ROME Level="1B" csRelFld="100670">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="411" csRelFld="411">
+<CSLABELFLD label="">J1201</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Praticiens médico-techniques</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">J1201</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Biologie médicale</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100670">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1556" csRelFld="1556">
+<CSLABELFLD label=""> ingénieur / ingénieure d'application en imagerie médicale</CSLABELFLD>
+<MET_ID label="Identifiant">100670</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/02/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1556</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">ingénieur/e d'application en imagerie médicale</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1556">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1557" csRelFld="1557">
+<CSLABELFLD label=""> ingénieur / ingénieure maintenance en imagerie médicale </CSLABELFLD>
+<MET_ID label="Identifiant">100670</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/02/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1557</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">ingénieur/e maintenance en imagerie médicale</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1557">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1558" csRelFld="1558">
+<CSLABELFLD label=""> ingénieur / ingénieure qualité en imagerie médicale </CSLABELFLD>
+<MET_ID label="Identifiant">100670</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/02/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1558</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">ingénieur/e qualité en imagerie médicale</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1558">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56714" csRelFld="56714">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56714</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100670</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter> Concevoir et développer des logiciels </inter>
+<p> Il développe des logiciels pour permettre aux appareils d'imagerie de traiter des informations de manière intelligente. Il crée des algorithmes de reconnaissance des formes, de reconstruction, de rendu, afin de permettre aux médecins qui les utilisent de visualiser les organes, les os, les flux sanguins...</p>
+<inter>À partir de l'expérience </inter>
+<p> Pour concevoir un appareil de détection des veines, sur des images de la rétine par exemple, sa méthode est très expérimentale. Après avoir acquis avec un médecin spécialiste une expertise dans la détection visuelle de ces structures, il combine les différentes méthodes d'échantillonnage et de seuillage par ordinateur, afin d'obtenir sur un ensemble d'images des résultats probants. </p>
+<inter> Reconstruire en 3D</inter>
+<p> La plupart des techniques d'imagerie recueillent des images en 2D correspondant à des coupes qui intéressent le médecin. Se représenter un organe dans sa globalité à partir de ces coupes n'est pas aisé. Grâce aux techniques de modélisation, il lui est possible de reconstruire des modèles en 3D.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56718" csRelFld="56718">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56718</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100670</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p> Le niveau de formation se situe à bac + 5 dans le domaine de la biologie humaine, doublé d'une formation solide en informatique et en électronique appliquée à l'image. </p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp> Master en imagerie médicale, biotechnologie et biomédecine, biotechnologie et informatique...</itsimp>
+<itsimp> Diplôme d'ingénieur en imagerie médicale, informatique pour l'industrie, électronique... </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56716" csRelFld="56716">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56716</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100670</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter> Dans la recherche </inter>
+<p> L'ingénieur en imagerie médicale peut exercer dans les établissements de santé (hôpitaux et cliniques), les laboratoires universitaires ou les grands organismes de recherche (Inserm-Institut national de la santé et de la recherche médicale, CEA-Commissariat à l'énergie atomique et aux énergies alternatives...) et de la santé. Il peut aussi travailler en tant qu'enseignant-chercheur à l'université ou en école d'ingénieurs. </p>
+<inter> Dans l'industrie </inter>
+<p> Dans le secteur privé, il peut travailler chez les grands éditeurs de solutions d'imagerie médicale comme General Electrics, Phillips... Il peut aussi intégrer une PME (petite et moyenne entreprise) spécialisée en imagerie ou une ESN (entreprise de services du numérique). Il exerce dans les bureaux d'études ou de R &amp; D (recherche et développement), dans les départements marketing et commercial, parfois dans les services de maintenance.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2000</sal> euros brut par mois. </p>
+<postit>
+<p> Source : Apec (Association pour l'emploi des cadres), 2014 (pour un ingénieur de recherche junior). </p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">régisseur/euse de spectacles</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">intermittent du spectacle</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur des arts du spectacle</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">arts du spectacle/administration de spectacle</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">régisseur/GFE arts appliqués arts du spectacle</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100303</lien_onisep>
+<ROME Level="1B" csRelFld="100303">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="555" csRelFld="555">
+<CSLABELFLD label="">L1509</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Techniciens du spectacle</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">L1509</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Régie générale</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100303">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1186" csRelFld="1186">
+<CSLABELFLD label="">directeur / directrice de production</CSLABELFLD>
+<MET_ID label="Identifiant">100303</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">21/04/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1186</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">directeur/trice de production</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1186">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="36177" csRelFld="36177">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36177</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100303</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Préparer le terrain</inter>
+<p>Des commandes de matériels aux réglages techniques en passant par le recrutement de techniciens, le régisseur de spectacles est le grand organisateur des représentations artistiques. Son rôle consiste à étudier le projet, puis à définir et mettre en place les moyens techniques et humains nécessaires à sa réalisation. Son objectif : que tout soit prêt pour la représentation, bien avant l'arrivée des artistes.</p>
+<inter>Programmer les plannings</inter>
+<p>Le régisseur de spectacles ne travaille pas seul mais en étroite collaboration avec une équipe pluridisciplinaire : metteur en scène, comédiens, techniciens, etc. Véritable chef d'orchestre de cette troupe, il gère le personnel et les plannings. Il organise les déplacements, l'hébergement et la restauration des équipes, et transmet chaque soir une feuille de route pour le lendemain. En cas de changement, il en informe les personnes concernées.</p>
+<inter>Gérer le quotidien</inter>
+<p>Au quotidien, il s'occupe des questions et problèmes d'ordres divers : acheminer le matériel technique, effectuer des réglages son et lumière, réserver des places de stationnement, monter les décors, accueillir les comédiens, recruter et payer les figurants... Face aux imprévus, il se doit d'être réactif, calme et efficace.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36181" csRelFld="36181">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36181</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100303</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>La plupart des professionnels sont issus des métiers techniques du spectacle (éclairage, son, machinerie) pour lesquels ils ont suivi une formation adaptée. Deux écoles d'art dramatique, l'Esad de Strasbourg et l'Ensatt de Lyon, proposent des spécialisations en régie du spectacle pour la première, en réalisation son ou lumière pour la seconde.</accr_p>
+</p>
+<liste>
+<tete>
+<accr_p>Niveau bac + 2</accr_p>
+</tete>
+<itsimp>
+<accr_p>Formations à la régie spécialisée du spectacle, options son, lumière, plateau au CFPTS (Centre de formation professionnelle aux techniques du spectacle) de Bagnolet</accr_p>
+</itsimp>
+<itsimp>
+<accr_p>DEUST théâtre</accr_p>
+</itsimp>
+<itsimp>
+<accr_p>DMA régie de spectacles option lumière</accr_p>
+</itsimp>
+</liste>
+<liste>
+<tete>
+<accr_p>Niveau bac + 3</accr_p>
+</tete>
+<itsimp>
+<accr_p>Diplôme de régisseur technicien de l'Esad (École supérieure d'art dramatique) de Strasbourg</accr_p>
+</itsimp>
+</liste>
+<liste>
+<tete>
+<accr_p>Niveau bac + 5</accr_p>
+</tete>
+<itsimp>
+<accr_p>Diplôme arts et techniques du théâtre parcours administrateur du spectacle vivant de l'Ensatt (École nationale supérieure des arts et techniques du théâtre) de Lyon</accr_p>
+</itsimp>
+<itsimp>
+<accr_p>Master pro</accr_p>
+</itsimp>
+</liste>
+<liste>
+<tete>
+<accr_p>Niveau bac + 6</accr_p>
+</tete>
+<itsimp>
+<accr_p>Mastère spécialisé directeur technique du spectacle vivant de l'Ensatt (École nationale supérieure des arts et techniques du théâtre) de Lyon</accr_p>
+</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36179" csRelFld="36179">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36179</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100303</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un apprentissage sur le terrain</inter>
+<p>On ne devient pas régisseur de spectacles du jour au lendemain : bien qu'il existe des écoles et des diplômes dans ce domaine, l'apprentissage du métier se fait essentiellement sur le terrain. Aussi, pour pouvoir prétendre à ce poste, faut-il multiplier les expériences dans des métiers techniques du spectacle. Les régisseurs sont souvent passés par des postes de stagiaire, d'assistant ou de technicien avant d'accéder à leur statut.</p>
+<inter>Travail intermittent</inter>
+<p>Il est très difficile de s'insérer dans la vie active d'une manière stable. La plupart des régisseurs sont des intermittents du spectacle pour qui des périodes d'activité alternent avec des périodes de chômage. Très peu ont la chance d'appartenir à une grande structure qui les emploie à l'année. La fonction publique territoriale peut recruter des régisseurs, le nombre de postes est cependant réduit.</p>
+<inter>Vers la direction de production</inter>
+<p>La régie est souvent un métier de transition à cause des nombreuses contraintes d'exercice. Parmi les évolutions possibles, la direction de production offre une activité plus stable, moins fatigante et plus rémunératrice.</p>
+<remun>
+<p>Variable en fonction du spectacle et de l'organisme concerné.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

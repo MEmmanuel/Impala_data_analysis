@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e en métrologie</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe/faire de la recherche/concevoir, utiliser des technologies industrielles de pointe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction encadrement - coordination/fonction conception </MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur construction aéronautique/secteur construction automobile/secteur sociétés de service et de conseil en informatique/secteur industrie pharmaceutique/secteur industrie métallurgique et fonderie/secteur industrie agroalimentaire/secteur industrie chimique/secteur environnement/secteur énergie</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">mesures physiques/métrologie/instrumentation scientifique/mesure instrumentation électronique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit/ingénieur en métrologie</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100369</lien_onisep>
+<ROME Level="1B" csRelFld="100369">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="265" csRelFld="265">
+<CSLABELFLD label="">H1206</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception, recherche, études et développement</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H1206</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie études, recherche et développement industriel</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100369">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="32427" csRelFld="32427">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">32427</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100369</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Gérer un parc de machines</inter>
+<p>Dans une grande entreprise industrielle ou un laboratoire spécialisé, l'ingénieur en métrologie gère le parc des machines. Il se tient au courant des innovations technologiques, rencontre des prestataires et des fabricants... Lorsqu'il est employé par une ESN (entreprise de services du numérique), il peut également avoir une fonction commerciale. Il doit alors démarcher des entreprises afin d'élargir le portefeuille de clients à qui offrir les services de son unité.</p>
+<inter>Encadrer une équipe</inter>
+<p>Dans une grande entreprise, l'ingénieur en métrologie exerce le plus souvent des fonctions d'encadrement au sein d'une unité dédiée à la métrologie. Souvent proche du service qualité et de la recherche-développement, son rôle consiste à optimiser les instruments de mesure et à participer à la création de nouveaux logiciels pour assurer une plus grande rentabilité. L'ingénieur en métrologie dirige une équipe composée de techniciens spécialisés entre lesquels il répartit le travail.</p>
+<inter>Faire avancer la recherche</inter>
+<p>S'il n'exerce pas des fonctions d'encadrement, l'ingénieur est chargé, par exemple, de développer et de maintenir les étalons nationaux de référence. Ses activités s'apparentent alors à de la recherche. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="32431" csRelFld="32431">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">32431</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100369</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Seulement quelques écoles d'ingénieurs disposent d'une spécialisation en métrologie. Il est également possible de se spécialiser à l'université, via un master. </p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur en instrumentation et métrologie</itsimp>
+<itsimp>Diplôme du Cnam en instrumentation-mesure option contrôle industriel</itsimp>
+<itsimp>Master sciences de l'ingénieur spécialité capteurs, mesures et instrumentation ; mesures, instrumentations, procédés spécialité instrumentation, mesure, qualité...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="32429" csRelFld="32429">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">32429</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100369</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Une demande accrue</inter>
+<p>Selon l'INM (Institut national de métrologie) du Cnam (Conservatoire national des arts et métiers), l'évolution fulgurante actuelle des sciences et techniques de l'analyse et de la mesure a créé une demande accrue d' ingénieurs spécialisés en instrumentation, analyse, mesure et qualité, de la part des industriels et du monde académique. Les secteurs demandeurs sont très divers : santé, sécurité, environnement, métallurgie, chimie, agroalimentaire, énergie... </p>
+<inter>Plutôt au sein des grands groupes </inter>
+<p>On trouve en général l'ingénieur métrologue dans les groupes qui ont à gérer des laboratoires importants de métrologie, comme Essilor pour les verres optiques. Les PME (petites et moyennes entreprises) peuvent faire appel à des ESN (entreprises de services du numérique) pour des missions ponctuelles. Par exemple, un processus d'automatisation de la production.</p>
+<inter>Le public également</inter>
+<p>Le LNE (Laboratoire national de métrologie et d'essais) emploie plus de 250 ingénieurs et techniciens en métrologie et a plus de 5500 clients en France et à l'étranger dans toutes les branches industrielles. Il intervient notamment dans les domaines de la santé, de l'alimentation ou de l'environnement, qui requièrent des mesures fiables et performantes. Il est également chargé de délivrer les certificats pour les instruments de mesure qui arrivent sur le marché.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Entre <sal>2000</sal> et 3000 euros brut par mois. Compter 25 à 30 % de plus en région parisienne. </p>
+<postit>
+<p>Source : www.ingenieurs.com, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

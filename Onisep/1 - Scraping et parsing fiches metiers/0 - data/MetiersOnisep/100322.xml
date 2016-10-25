@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">biologiste en environnement</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire de la recherche/préserver l'environnement</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction recherche</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique/secteur recherche/secteur agriculture/secteur environnement</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">environnement/biologie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE nettoyage assainissement environnement sécurité/biologiste en environnement</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100322</lien_onisep>
+<ROME Level="1B" csRelFld="100322">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100322">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="986" csRelFld="986">
+<CSLABELFLD label="">écotoxicologue</CSLABELFLD>
+<MET_ID label="Identifiant">100322</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">986</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">écotoxicologue</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="986">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="985" csRelFld="985">
+<CSLABELFLD label="">hydrobiologiste</CSLABELFLD>
+<MET_ID label="Identifiant">100322</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">985</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">hydrobiologiste</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="985">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="30635" csRelFld="30635">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30635</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100322</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Des recherches ciblées</inter>
+<p>Spécialiste du vivant sous toutes ses formes, le biologiste en environnement effectue des recherches spécialisées en écologie. Son but est de préserver et de tirer partie des ressources naturelles et industrielles dans les secteurs de la santé, de l'agriculture, de l'habitat...</p>
+<inter>Diverses spécialités</inter>
+<p>Tandis que l'hydrobiologiste s'intéresse à la qualité des eaux (rivières, mers, étangs...) et à la vie de leurs occupants (espèces animales et végétales), l'écotoxicologue étudie les effets du bruit, des fumées chimiques, des colorants alimentaires, des organismes génétiquement modifiés (OGM) sur la santé de l'homme et l'environnement.</p>
+<inter>Former des écocitoyens</inter>
+<p>Le développement durable fait partie de ses préoccupations. Objectif ? Améliorer les situations économiques, sociales et écologiques en vue de laisser un monde « propre » aux générations futures. Comment ? En protégeant la nature et en gérant au mieux les ressources naturelles. Ce qui signifie : anticiper les pollutions et les risques industriels, trouver des parades, aménager les cadres de vie... En d'autres termes participer à l'éducation des écocitoyens du XXIe siècle.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="30639" csRelFld="30639">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30639</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100322</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Master universitaire en biologie ou en biologie-biochimie ou diplôme d'ingénieur spécialisé en biologie : c'est le minimum requis pour devenir biologiste en environnement.</accr_p> D'ailleurs, il est souvent titulaire d'un doctorat (bac + 8), voire d'un diplôme d'État en pharmacie. C'est le cas des écotoxicologues, par exemple. En outre, les titulaires d'un diplôme de niveau bac + 5 en économie, droit, chimie peuvent suivre une dernière année de spécialisation dans le domaine de la biologie environnementale. Ce double profil est très apprécié des employeurs. Mais il demande de sérieuses bases scientifiques au départ.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master en biologie cellulaire et moléculaire, génétique, pharmacologie, biologie végétale ou animale...</itsimp>
+<itsimp>Diplôme d'ingénieur spécialisé en biologie</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 8</tete>
+<itsimp>Doctorat en biologie, toxicologie...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="30637" csRelFld="30637">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30637</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100322</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Trop de diplômés</inter>
+<p>Le marché de l'environnement se développe de façon régulière. Mais il existe un décalage entre le nombre de postes offerts et les diplômés. Ainsi, il y a pléthore de diplômés en protection de la nature et en gestion des espaces naturels, alors que ces deux secteurs sont peu recruteurs, et que 75 % des emplois concernent la gestion de l'eau et celle des déchets !</p>
+<inter>Double compétence : la combinaison gagnante</inter>
+<p>Aujourd'hui, le secteur de l'environnement a acquis ses lettres de noblesse. Les compétences dans ce domaine sont reconnues et appréciées des employeurs (entreprises, collectivités locales ou territoriales, bureaux d'études, associations écologiques). En particulier, les cursus liés à l'environnement ou les spécialisations en dernière année d'étude d'un cursus classique (économie, droit, chimie...).</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2000</sal> (dans le secteur public) à 2220 euros (dans le secteur privé) brut par mois.</p>
+<postit>
+<p>Source : salaire Vocasciences</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

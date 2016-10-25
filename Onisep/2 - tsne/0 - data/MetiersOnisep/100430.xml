@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">bottier/ère</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un métier artistique ou créatif/travailler un matériau/fabriquer, construire/exercer un travail manuel</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">artisan/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction fabrication artisanale</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur cuir chaussure/secteur textile habillement/secteur artisanat d'art</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">chaussure/fabrication habillement/artisanat d'art</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE textile habillement cuir/bottier</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100430</lien_onisep>
+<ROME Level="1B" csRelFld="100430">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="60" csRelFld="60">
+<CSLABELFLD label="">B1802</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Tissu et cuirs</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">B1802</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Réalisation d'articles en cuir et matériaux souples (hors vêtement)</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100430">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1496" csRelFld="1496">
+<CSLABELFLD label="">cordonnier / cordonnière</CSLABELFLD>
+<MET_ID label="Identifiant">100430</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">17/10/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1496</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">cordonnier/ère</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1496">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="36403" csRelFld="36403">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36403</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100430</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Créer des chaussures uniques</inter>
+<p>L'artisan bottier définit avec le client un modèle de chaussures. Il choisit le style, la forme, la couleur, la hauteur du talon, les accessoires... en vue de créer une paire de souliers unique, réalisée sur mesure et durable. Il peut fabriquer une chaussure de A à Z mais, en général, il est spécialisé dans une ou plusieurs étapes et est alors appelé patronnier-coupeur, monteur ou encore " bichonneur ".</p>
+<inter>Réaliser une forme et un patron</inter>
+<p>La première étape est la réalisation de la forme, c'est-à-dire la reproduction du pied du client en bois, après en avoir pris les mesures. Le bottier dessine ensuite sur le papier tous les éléments du modèle choisi par le client et prépare le patron. Puis il sélectionne le cuir dans lequel sera fabriquée la chaussure et découpe les pièces en suivant le patron.</p>
+<inter>Assembler, monter et " bichonner "</inter>
+<p>Le bottier assemble ensuite les différentes pièces et procède au piquage. Il galbe et moule la tige obtenue sur la forme en bois, puis la coud à la semelle sur laquelle il appose le talon. Enfin, il retire la forme. Il existe plusieurs types de montage : le cousu Norvégien, le cousu Goodyear, le soudé... Dernière étape avant la livraison au client : le " bichonnage " qui consiste à effectuer les opérations de finition sur la chaussure, comme la teinte du cuir, la patine... par exemple.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36407" csRelFld="36407">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36407</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100430</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le métier de bottier est essentiellement accessible avec un CAP. Premier diplôme de la filière artisanale, il peut être complété en cours d'emploi par le brevet de maîtrise (BM) pour parfaire ses connaissances. Néanmoins, ce sont surtout l'expérience et la pratique qui permettent de devenir un professionnel recherché et renommé. Le bac pro métiers du cuir prépare davantage à un emploi de monteur de chaussure ou de prototypiste qu'à la création de modèles. Lui faisant suite, le BTS métiers de la mode débouche, pour sa part, sur un emploi d'agent technique de bureau d'études et/ou de méthodes chargé par exemple d'élaborer une gamme de pointures.</p>
+<liste>
+<tete>Après la 3<exp>e</exp>
+</tete>
+<itsimp>CAP cordonnier-bottier ;sellerie générale</itsimp>
+<itsimp>Bac pro métiers du cuir, option chaussures</itsimp>
+<itsimp>BM cordonnier bottier</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS métiers de la mode, option chaussure et maroquinerie</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36405" csRelFld="36405">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36405</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100430</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un métier rare mais de la demande</inter>
+<p>Dans le secteur de la chaussure, même le haut de gamme est touché par la crise. Il ne reste, en effet, qu'une vingtaine de bottiers en France, essentiellement en Ile-de-France. Pour les professionnels du cuir, les débouchés se situent davantage dans les ateliers de montage ou de prototypage des enseignes de mode que dans le secteur artisanal.</p>
+<inter>Se faire un nom avant de s'installer</inter>
+<p>Pour obtenir des commandes, le nom et la renommée de l'entreprise est très important. Il faudra donc au bottier de longues années d'expérience auprès de bottiers reconnus, avant qu'il puisse envisager de s'installer à son compte. </p>
+<inter>Vers la podo-orthopédie ?</inter>
+<p>Après plusieurs années d'expérience, le bottier peut devenir chef d'équipe dans un atelier de fabrication et superviser une équipe d'ouvriers. Il peut aussi se spécialiser dans la chaussure orthopédique. Il conçoit et fabrique alors, sur mesure, des orthèses plantaires destinées à corriger un défaut ou une faiblesse des pieds.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir du <sal>Smic</sal>.</p>
+<p>Quand il est installé à son compte, le bottier est payé par ses clients pour chaque travail réalisé. Ses revenus sont donc variables et dépendent également de sa notoriété et des tarifs qu'il pratique.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

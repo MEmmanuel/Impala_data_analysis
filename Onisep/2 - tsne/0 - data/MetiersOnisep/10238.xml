@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">opticien/ne-lunetier/ère</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller/faire du commerce</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/artisan</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction fabrication artisanale/fonction vente</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur santé/secteur commerce</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">optique lunetterie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE médical paramédical travail social soins personnels/opticien</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10238</lien_onisep>
+<ROME Level="1B" csRelFld="10238">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="426" csRelFld="426">
+<CSLABELFLD label="">J1405</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Rééducation et appareillage</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">J1405</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Optique - lunetterie</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10238">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16878" csRelFld="16878">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16878</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10238</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Conseiller le client </inter>
+<p>L'opticien-lunetier guide le client dans le choix des verres (en plastique, incassables, antireflet...), des montures (légères, flexibles...) ou des lentilles (souples, rigides, jetables...). Il lui apprend les règles de maniement et d'entretien, lui donne des conseils pour une adaptation rapide. Depuis peu, il est autorisé (sous certaines conditions) à renouveler des verres correcteurs sans ordonnance médicale. </p>
+<inter>Monter et ajuster </inter>
+<p>L'opticien s'éclipse parfois dans l'atelier de l'arrière-boutique. Il y travaille alors en s'aidant de divers appareils permettant de centrer les verres, de les tailler ou de les insérer dans une monture. Il est en général aidé par un monteur. Il retourne ensuite dans le magasin pour ajuster les lunettes sur le nez du client et vérifier que le confort visuel obtenu est bien celui recherché. </p>
+<inter>Vendre et assurer un suivi </inter>
+<p>Comme tout commerçant, il cherche à séduire le client. Sa vitrine est attractive, sa boutique accueillante, ses articles bien rangés et mis en valeur. Pour arrondir son chiffre d'affaires, il propose des produits annexes : étuis, produits d'entretien... Il se plie volontiers à ses obligations de service après-vente : on peut toujours revenir chez lui pour faire nettoyer ses verres ou resserrer les branches de sa monture.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16893" csRelFld="16893">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16893</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10238</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Le BTS opticien-lunetier est obligatoire pour exercer et ouvrir un commerce.</accr_p> La sélection se fait sur dossier et entretien de motivation. Il est conseillé de se présenter avec un bac S (spécialité maths ou physique), STL (sciences et technologies de laboratoire) ou STI2D (sciences et technologies de l'industrie et du développement durable). </p>
+<p>Il est également possible de préparer dès la 3e, le bac pro "optique-lunetterie" qui forme des monteurs-vendeurs capables d'assister l'opticien dans la réalisation, le montage et la réparation des équipements optiques. Si ce diplôme a pour objectif l'insertion professionnelle, avec un très bon dossier ou une mention à l'examen, une poursuite d'études est envisageable en BTS.</p>
+<liste>
+<tete>Niveau bac + 2 </tete>
+<itsimp>BTS opticien-lunetier</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16881" csRelFld="16881">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16881</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10238</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Débuter comme salarié</inter>
+<p>Les jeunes diplômés n'ont pas de difficultés à trouver un premier emploi salarié et se voient rapidement proposer un contrat à durée indéterminée. On compte actuellement près de 12 000 points de vente. </p>
+<inter>Se mettre à son compte</inter>
+<p>Après quelques années d'expérience, un opticien peut ouvrir son propre point de vente. À condition de disposer d'un capital à investir et de ne pas craindre la concurrence. Les indépendants ont, en effet, de plus en plus de mal à faire le poids face aux grandes enseignes qui représentent, à elles seules, 75 % du chiffre d'affaires du secteur et qui sont à l'origine des innovations technologiques.</p>
+<inter>Vers une saturation du marché ?</inter>
+<p>Après dix années d'euphorie, la croissance des vente et du nombre de points de vente stagne. Les acteurs de l'optique revoient leur stratégie. Pour résister à la pression sur le prix, ils lancent des gammes de lunettes à petits prix et ciblent une clientèle plus modeste.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1690</sal>
+</p>
+<postit>
+<p>Source : Magazine VU, 2011 (enquête réalisée auprès de diplômés en 2009)</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

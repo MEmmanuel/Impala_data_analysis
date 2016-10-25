@@ -1,0 +1,916 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Adjoint(e) au responsable QSE en industrie",
+            "priorisation": "1",
+            "libelle": "Adjoint / Adjointe au responsable Qualit\u00e9 S\u00e9curit\u00e9 Environnement -QSE- en industrie",
+            "code_ogr": "38186"
+        },
+        {
+            "libelle_court": "Animateur / Animatrice qualit\u00e9 industrie",
+            "priorisation": "1",
+            "libelle": "Animateur / Animatrice qualit\u00e9 industrie",
+            "code_ogr": "11061"
+        },
+        {
+            "libelle_court": "Assistant / Assistante qualit\u00e9 en industrie",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante qualit\u00e9 en industrie",
+            "code_ogr": "38137"
+        },
+        {
+            "libelle_court": "Assureur / Assureuse qualit\u00e9 industrie",
+            "priorisation": "1",
+            "libelle": "Assureur / Assureuse qualit\u00e9 industrie",
+            "code_ogr": "11360"
+        },
+        {
+            "libelle_court": "Auditeur / Auditrice qualit\u00e9 en industrie",
+            "priorisation": "1",
+            "libelle": "Auditeur / Auditrice qualit\u00e9 en industrie",
+            "code_ogr": "11415"
+        },
+        {
+            "libelle_court": "Charg\u00e9(e) d'affaires r\u00e9glementaires qualit\u00e9 ind. cosm\u00e9tique",
+            "priorisation": "1",
+            "libelle": "Charg\u00e9 / Charg\u00e9e d'affaires r\u00e9glementaires et qualit\u00e9 en industrie cosm\u00e9tique",
+            "code_ogr": "38856"
+        },
+        {
+            "libelle_court": "Chef du service audit-qualit\u00e9 en industrie",
+            "priorisation": "1",
+            "libelle": "Chef du service audit-qualit\u00e9 en industrie",
+            "code_ogr": "12534"
+        },
+        {
+            "libelle_court": "Chef du service contr\u00f4le qualit\u00e9 en industrie",
+            "priorisation": "1",
+            "libelle": "Chef du service contr\u00f4le qualit\u00e9 en industrie",
+            "code_ogr": "12536"
+        },
+        {
+            "libelle_court": "Chef du service m\u00e9thodes de contr\u00f4le qualit\u00e9 en industrie",
+            "priorisation": "1",
+            "libelle": "Chef du service m\u00e9thodes de contr\u00f4le qualit\u00e9 en industrie",
+            "code_ogr": "12550"
+        },
+        {
+            "libelle_court": "Directeur / Directrice contr\u00f4le qualit\u00e9 en industrie",
+            "priorisation": "1",
+            "libelle": "Directeur / Directrice contr\u00f4le qualit\u00e9 en industrie",
+            "code_ogr": "14201"
+        },
+        {
+            "libelle_court": "Directeur / Directrice qualit\u00e9 en industrie",
+            "priorisation": "1",
+            "libelle": "Directeur / Directrice qualit\u00e9 en industrie",
+            "code_ogr": "14466"
+        },
+        {
+            "libelle_court": "Expert / Experte m\u00e9trologue",
+            "priorisation": "1",
+            "libelle": "Expert / Experte m\u00e9trologue",
+            "code_ogr": "14953"
+        },
+        {
+            "libelle_court": "Ing\u00e9nieur / Ing\u00e9nieure assurance qualit\u00e9 en industrie",
+            "priorisation": "1",
+            "libelle": "Ing\u00e9nieur / Ing\u00e9nieure assurance qualit\u00e9 en industrie",
+            "code_ogr": "15587"
+        },
+        {
+            "libelle_court": "Ing\u00e9nieur(e) assurance qualit\u00e9 fournisseurs en industrie",
+            "priorisation": "1",
+            "libelle": "Ing\u00e9nieur / Ing\u00e9nieure assurance qualit\u00e9 fournisseurs en industrie",
+            "code_ogr": "15588"
+        },
+        {
+            "libelle_court": "Ing\u00e9nieur / Ing\u00e9nieure contr\u00f4le qualit\u00e9 en industrie",
+            "priorisation": "1",
+            "libelle": "Ing\u00e9nieur / Ing\u00e9nieure contr\u00f4le qualit\u00e9 en industrie",
+            "code_ogr": "15619"
+        },
+        {
+            "libelle_court": "Ing\u00e9nieur / Ing\u00e9nieure contr\u00f4le qualit\u00e9 fabrication",
+            "priorisation": "1",
+            "libelle": "Ing\u00e9nieur / Ing\u00e9nieure contr\u00f4le qualit\u00e9 fabrication",
+            "code_ogr": "15620"
+        },
+        {
+            "libelle_court": "Ing\u00e9nieur / Ing\u00e9nieure fiabilit\u00e9 qualit\u00e9 en industrie",
+            "priorisation": "1",
+            "libelle": "Ing\u00e9nieur / Ing\u00e9nieure fiabilit\u00e9 qualit\u00e9 en industrie",
+            "code_ogr": "15802"
+        },
+        {
+            "libelle_court": "Ing\u00e9nieur / Ing\u00e9nieure m\u00e9thodes qualit\u00e9 industrie",
+            "priorisation": "1",
+            "libelle": "Ing\u00e9nieur / Ing\u00e9nieure m\u00e9thodes qualit\u00e9 industrie",
+            "code_ogr": "15840"
+        },
+        {
+            "libelle_court": "Ing\u00e9nieur / Ing\u00e9nieure qualit\u00e9 en industrie",
+            "priorisation": "1",
+            "libelle": "Ing\u00e9nieur / Ing\u00e9nieure qualit\u00e9 en industrie",
+            "code_ogr": "15870"
+        },
+        {
+            "libelle_court": "Ing\u00e9nieur(e) qualiticien(ne) management qualit\u00e9 en ind",
+            "priorisation": "1",
+            "libelle": "Ing\u00e9nieur qualiticien / Ing\u00e9nieure qualiticienne management de la qualit\u00e9 en industrie",
+            "code_ogr": "15871"
+        },
+        {
+            "libelle_court": "Pharmacien / Pharmacienne assurance qualit\u00e9 industrielle",
+            "priorisation": "1",
+            "libelle": "Pharmacien / Pharmacienne assurance qualit\u00e9 industrielle",
+            "code_ogr": "17678"
+        },
+        {
+            "libelle_court": "Pharmacien / Pharmacienne contr\u00f4le qualit\u00e9 industrielle",
+            "priorisation": "1",
+            "libelle": "Pharmacien / Pharmacienne contr\u00f4le qualit\u00e9 industrielle",
+            "code_ogr": "17682"
+        },
+        {
+            "libelle_court": "Pharmacien / Pharmacienne en pharmacovigilance",
+            "priorisation": "1",
+            "libelle": "Pharmacien / Pharmacienne en pharmacovigilance",
+            "code_ogr": "38187"
+        },
+        {
+            "libelle_court": "Pilote qualit\u00e9 en syst\u00e8me qualit\u00e9 en industrie",
+            "priorisation": "1",
+            "libelle": "Pilote qualit\u00e9 en syst\u00e8me qualit\u00e9 en industrie",
+            "code_ogr": "17788"
+        },
+        {
+            "libelle_court": "Qualiticien(ne) management de la qualit\u00e9 en industrie",
+            "priorisation": "1",
+            "libelle": "Qualiticien / Qualiticienne management de la qualit\u00e9 en industrie",
+            "code_ogr": "18259"
+        },
+        {
+            "libelle_court": "Responsable assurance qualit\u00e9 achats en industrie",
+            "priorisation": "1",
+            "libelle": "Responsable assurance qualit\u00e9 achats en industrie",
+            "code_ogr": "18582"
+        },
+        {
+            "libelle_court": "Responsable assurance qualit\u00e9 clients industrie",
+            "priorisation": "1",
+            "libelle": "Responsable assurance qualit\u00e9 clients industrie",
+            "code_ogr": "18583"
+        },
+        {
+            "libelle_court": "Responsable assurance qualit\u00e9 fournisseur en industrie",
+            "priorisation": "1",
+            "libelle": "Responsable assurance qualit\u00e9 fournisseur en industrie",
+            "code_ogr": "18584"
+        },
+        {
+            "libelle_court": "Responsable assurance qualit\u00e9 groupe en industrie",
+            "priorisation": "1",
+            "libelle": "Responsable assurance qualit\u00e9 groupe en industrie",
+            "code_ogr": "18585"
+        },
+        {
+            "libelle_court": "Responsable contr\u00f4le m\u00e9trologie en industrie",
+            "priorisation": "1",
+            "libelle": "Responsable contr\u00f4le m\u00e9trologie en industrie",
+            "code_ogr": "18603"
+        },
+        {
+            "libelle_court": "Responsable contr\u00f4le qualit\u00e9 en industrie",
+            "priorisation": "1",
+            "libelle": "Responsable contr\u00f4le qualit\u00e9 en industrie",
+            "code_ogr": "18604"
+        },
+        {
+            "libelle_court": "Responsable d'analyse et de contr\u00f4le qualit\u00e9 en industrie",
+            "priorisation": "1",
+            "libelle": "Responsable d'analyse et de contr\u00f4le qualit\u00e9 en industrie",
+            "code_ogr": "18621"
+        },
+        {
+            "libelle_court": "Responsable de contr\u00f4le de production en \u00e9lectronique",
+            "priorisation": "1",
+            "libelle": "Responsable de contr\u00f4le de production en \u00e9lectronique",
+            "code_ogr": "18696"
+        },
+        {
+            "libelle_court": "Responsable de contr\u00f4le non destructif en industrie",
+            "priorisation": "1",
+            "libelle": "Responsable de contr\u00f4le non destructif en industrie",
+            "code_ogr": "18697"
+        },
+        {
+            "libelle_court": "Responsable de validation qualit\u00e9 en industrie",
+            "priorisation": "1",
+            "libelle": "Responsable de validation qualit\u00e9 en industrie",
+            "code_ogr": "18891"
+        },
+        {
+            "libelle_court": "Responsable du service qualit\u00e9 en industrie",
+            "priorisation": "1",
+            "libelle": "Responsable du service qualit\u00e9 en industrie",
+            "code_ogr": "19030"
+        },
+        {
+            "libelle_court": "Responsable en qualit\u00e9 industrielle",
+            "priorisation": "1",
+            "libelle": "Responsable en qualit\u00e9 industrielle",
+            "code_ogr": "19066"
+        },
+        {
+            "libelle_court": "Responsable management de la qualit\u00e9 industrie",
+            "priorisation": "1",
+            "libelle": "Responsable management de la qualit\u00e9 industrie",
+            "code_ogr": "19120"
+        },
+        {
+            "libelle_court": "Responsable qualification qualit\u00e9 en industrie",
+            "priorisation": "1",
+            "libelle": "Responsable qualification qualit\u00e9 en industrie",
+            "code_ogr": "19160"
+        },
+        {
+            "libelle_court": "Responsable qualit\u00e9 conformit\u00e9 r\u00e9glementaire",
+            "priorisation": "1",
+            "libelle": "Responsable qualit\u00e9 conformit\u00e9 r\u00e9glementaire",
+            "code_ogr": "19161"
+        },
+        {
+            "libelle_court": "Responsable qualit\u00e9 en industrie",
+            "priorisation": "1",
+            "libelle": "Responsable qualit\u00e9 en industrie",
+            "code_ogr": "19162"
+        },
+        {
+            "libelle_court": "Responsable Qualit\u00e9 S\u00e9curit\u00e9 Environnement-QSE- en industrie",
+            "priorisation": "1",
+            "libelle": "Responsable Qualit\u00e9 S\u00e9curit\u00e9 Environnement -QSE- en industrie",
+            "code_ogr": "19163"
+        },
+        {
+            "libelle_court": "Responsable service qualit\u00e9 industrielle",
+            "priorisation": "1",
+            "libelle": "Responsable service qualit\u00e9 industrielle",
+            "code_ogr": "19190"
+        },
+        {
+            "libelle_court": "Responsable syst\u00e8me qualit\u00e9 industrie",
+            "priorisation": "1",
+            "libelle": "Responsable syst\u00e8me qualit\u00e9 industrie",
+            "code_ogr": "19197"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Concevoir et d\u00e9cliner le plan, les d\u00e9marches et les actions qualit\u00e9",
+            "code_ogr": "871",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer et faire \u00e9voluer des proc\u00e9dures qualit\u00e9 et contr\u00f4ler la conformit\u00e9 de leur application",
+            "code_ogr": "3549",
+            "code_type_activite": "3",
+            "riasec_majeur": "I",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sensibiliser et former les personnels \u00e0 la d\u00e9marche qualit\u00e9",
+            "code_ogr": "3607",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Analyser les non-conformit\u00e9s, d\u00e9finir et pr\u00e9coniser les actions correctives et contr\u00f4ler leur mise en oeuvre",
+            "code_ogr": "2016",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre, analyser les donn\u00e9es qualit\u00e9 et d\u00e9terminer les \u00e9volutions, am\u00e9liorations",
+            "code_ogr": "3276",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conseiller et apporter un appui technique aux services, aux clients (conception, \u00e9laboration, ...)",
+            "code_ogr": "940",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "H1302",
+            "libelle_rome_cible": "Management et ing\u00e9nierie Hygi\u00e8ne S\u00e9curit\u00e9 Environnement -HSE- industriels"
+        },
+        {
+            "code_rome_cible": "H1501",
+            "libelle_rome_cible": "Direction de laboratoire d'analyse industrielle"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un Master (Master recherche ou professionnel, dipl\u00f4me d'ing\u00e9nieur, ...) en qualit\u00e9 industrielle ou dans le secteur de l'entreprise (a\u00e9ronautique, \u00e9lectricit\u00e9, papier, ...).\nIl est \u00e9galement accessible avec un dipl\u00f4me de niveau Bac+2 (BTS, DUT) technique ou scientifique, compl\u00e9t\u00e9 par une exp\u00e9rience en industrie.\nUne habilitation peut \u00eatre requise pour la r\u00e9alisation d'audits.\nLa pratique de l'anglais est requise.\nLa ma\u00eetrise de l'outil informatique (outil bureautique, progiciels de gestion de donn\u00e9es li\u00e9es \u00e0 la production) peut \u00eatre demand\u00e9e.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Intervenir dans un domaine :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Syst\u00e8me de Management de la Qualit\u00e9 -SMQ-",
+            "code_ogr": "6674",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Assurance Qualit\u00e9",
+            "code_ogr": "6407",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4le Qualit\u00e9",
+            "code_ogr": "6452",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9marche d'am\u00e9lioration continue",
+            "code_ogr": "38174",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Syst\u00e8me de Management Environnement -SME-",
+            "code_ogr": "6675",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der \u00e0 un audit qualit\u00e9, fournisseur, environnement, ...",
+            "code_ogr": "8154",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Concevoir un dispositif de sensibilisation \u00e0 la qualit\u00e9 et le mettre en oeuvre",
+            "code_ogr": "3999",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Evaluer le co\u00fbt des non-conformit\u00e9s",
+            "code_ogr": "5873",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Superviser ou effectuer le contr\u00f4le qualit\u00e9 des produits entrants/sortants, en cours de fabrication, en conditionnement",
+            "code_ogr": "9787",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller et \u00e9valuer la s\u00e9curit\u00e9 d'emploi de m\u00e9dicaments (effets ind\u00e9sirables,...), transmettre les informations aux services concern\u00e9s (institut de veille sanitaire,...)",
+            "code_ogr": "38199",
+            "code_type_activite": "3",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Organiser et suivre la gestion d'une documentation, d'une veille documentaire",
+            "code_ogr": "7711",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la conformit\u00e9 de r\u00e9alisations de fournisseurs, sous-traitants, prestataires",
+            "code_ogr": "3513",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la validit\u00e9 de qualification de moyens et de personnes (habilitation, autorisation, agr\u00e9ment, ...) et la certification, la conformit\u00e9 d'outils de mesure et de contr\u00f4le",
+            "code_ogr": "4234",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Piloter un projet",
+            "code_ogr": "7814",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe ou diriger une structure",
+            "code_ogr": "4326",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises industrielles, de soci\u00e9t\u00e9s de services, ... en relation avec diff\u00e9rents intervenants (production, m\u00e9thodes, \u00e9tudes, clients, fournisseurs, auditeurs, sous-traitants, ...). Elle peut impliquer des d\u00e9placements.\nElle varie selon le secteur (a\u00e9ronautique, agroalimentaire, chimie, ...), le domaine (syst\u00e8me qualit\u00e9, assurance qualit\u00e9, contr\u00f4le qualit\u00e9, ...), les proc\u00e9d\u00e9s de fabrication et le type de produits fabriqu\u00e9s.\nElle peut s'effectuer les fins de semaine, jours f\u00e9ri\u00e9s et \u00eatre soumise \u00e0 des astreintes.\nLe port d'Equipements de Protection Individuelle -EPI- (blouse, gants, ...) peut \u00eatre exig\u00e9.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de Progiciels de Gestion Int\u00e9gr\u00e9e",
+            "code_ogr": "21369",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Technologie de Groupe Assist\u00e9e par Ordinateur -TGAO-",
+            "code_ogr": "21267",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Gestion de Production Assist\u00e9e Par Ordinateur -GPAO-",
+            "code_ogr": "21258",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Conception et de Dessin Assist\u00e9s par Ordinateur -CAO/DAO-",
+            "code_ogr": "21249",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Animation de formation",
+            "code_ogr": "20757",
+            "position_item": "6",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils de m\u00e9trologie",
+            "code_ogr": "21160",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareil d'analyse",
+            "code_ogr": "21135",
+            "position_item": "2",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Bureau d'\u00e9tudes et d'ing\u00e9nierie",
+            "code_ogr": "23735",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisme de contr\u00f4le et de certification",
+            "code_ogr": "24017",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Administration / Services de l'Etat",
+            "code_ogr": "23388",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "A\u00e9ronautique, spatial",
+            "code_ogr": "23391",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Alimentaire",
+            "code_ogr": "23395",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Armement",
+            "code_ogr": "23404",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Automobile",
+            "code_ogr": "23410",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Bois, ameublement",
+            "code_ogr": "23424",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chimie",
+            "code_ogr": "23436",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chimie fine",
+            "code_ogr": "23437",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Construction navale",
+            "code_ogr": "23453",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Eco-industrie",
+            "code_ogr": "23469",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electricit\u00e9",
+            "code_ogr": "23474",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electrom\u00e9nager",
+            "code_ogr": "23476",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electronique",
+            "code_ogr": "23477",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Energie, nucl\u00e9aire, fluide",
+            "code_ogr": "23480",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ferroviaire",
+            "code_ogr": "23498",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Habillement, cuir, textile",
+            "code_ogr": "23515",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie cosm\u00e9tique",
+            "code_ogr": "23530",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie du papier, carton",
+            "code_ogr": "23531",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Information et communication",
+            "code_ogr": "23534",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Machinisme",
+            "code_ogr": "23544",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9canique, travail des m\u00e9taux",
+            "code_ogr": "23552",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9tallurgie, sid\u00e9rurgie",
+            "code_ogr": "23558",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Nautisme",
+            "code_ogr": "23567",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Optique, optronique",
+            "code_ogr": "23568",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Parachimie",
+            "code_ogr": "23573",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "P\u00e9trochimie",
+            "code_ogr": "23582",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Plasturgie, caoutchouc, composites",
+            "code_ogr": "23585",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sport et loisirs",
+            "code_ogr": "23640",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Transport/logistique",
+            "code_ogr": "23659",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Verre, mat\u00e9riaux de construction",
+            "code_ogr": "23673",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Normes qualit\u00e9",
+            "code_ogr": "22233",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Dispositifs d'assurance-qualit\u00e9",
+            "code_ogr": "21785",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Dispositifs d'agr\u00e9ments et certification",
+            "code_ogr": "21784",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'audit",
+            "code_ogr": "22805",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9thodes de r\u00e9solution de probl\u00e8mes",
+            "code_ogr": "22138",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9trologie",
+            "code_ogr": "22153",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de laboratoire",
+            "code_ogr": "22942",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9canique",
+            "code_ogr": "22098",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electricit\u00e9",
+            "code_ogr": "21825",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chimie",
+            "code_ogr": "21706",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Analyse statistique",
+            "code_ogr": "22721",
+            "position_item": "11",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes environnementales",
+            "code_ogr": "22230",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation en Hygi\u00e8ne, S\u00e9curit\u00e9, Environnement -HSE-",
+            "code_ogr": "22567",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisation de la cha\u00eene logistique",
+            "code_ogr": "22249",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Types de Contr\u00f4les Non Destructifs",
+            "code_ogr": "23314",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Types de Contr\u00f4les Destructifs",
+            "code_ogr": "23313",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pharmacovigilance",
+            "code_ogr": "22283",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Conduite de projet",
+            "code_ogr": "21746",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de management",
+            "code_ogr": "22956",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestion budg\u00e9taire",
+            "code_ogr": "21994",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nOrganise et coordonne la mise en place de la qualit\u00e9 des produits et services, sur l'ensemble des process et structures de l'entreprise industrielle.\nCon\u00e7oit et met en oeuvre des m\u00e9thodes et outils \u00e0 disposition des services de l'entreprise pour le maintien et l'\u00e9volution de la qualit\u00e9.\nPeut intervenir sur la lib\u00e9ralisation de produits comportant des risques pour les personnes et les biens (agroalimentaire, chimie, a\u00e9ronautique, ...).\nPeut coordonner des d\u00e9marches hygi\u00e8ne, s\u00e9curit\u00e9 et environnement.\nPeut coordonner une \u00e9quipe ou diriger un service et en g\u00e9rer le budget.\n",
+    "intitule": "Management et ing\u00e9nierie qualit\u00e9 industrielle",
+    "code_ogr": "230",
+    "code_rome": "H1502",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "H2502",
+            "libelle_rome_cible": "Management et ing\u00e9nierie de production"
+        },
+        {
+            "code_rome_cible": "M1402",
+            "libelle_rome_cible": "Conseil en organisation et management d'entreprise"
+        }
+    ]
+}

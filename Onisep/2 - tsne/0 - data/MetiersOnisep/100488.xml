@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">intégrateur/trice web</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un métier artistique ou créatif/programmer, créer du contenu numérique</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction études développement informatique</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur sociétés de service et de conseil en informatique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">informatique/multimédia/internet intranet</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques de la communication média/intégrateur web</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100488</lien_onisep>
+<ROME Level="1B" csRelFld="100488">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="156" csRelFld="156">
+<CSLABELFLD label="">E1205</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Images et sons</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">E1205</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Réalisation de contenus multimédias</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100488">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="37760" csRelFld="37760">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37760</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100488</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Réunir les fichiers</inter>
+<p>L'intégrateur web a pour mission de réunir, puis d'assembler les différents éléments qui composent un site, de la mise en pages générale jusqu'aux animations graphiques et sonores. Son travail intervient donc après celui du webdesigner et avant celui du développeur.</p>
+<inter>Manipuler des technologies</inter>
+<p>Pour monter des pages web intégrant du texte, il peut effectuer de simples copier-coller, mais, pour y joindre des images ou des tableaux, il utilise différentes technologies de web dynamique et d'animation. Il établit aussi des liens hypertextes (zones cliquables renvoyant vers d'autres pages) et doit s'assurer de la compatibilité du site avec toutes les plates-formes (PC, portables, tablettes...). Pour cela, il effectue de nombreux tests et, le cas échéant, crée des correctifs.</p>
+<inter>S'approprier le projet</inter>
+<p>Souvent associé à la phase de réflexion qui précède le début du développement, il doit comprendre les besoins exprimés par le chef de projet, le directeur artistique ou le webmestre avant de proposer des solutions techniques. Il peut aussi être amené à assister les développeurs et les infographistes en les conseillant sur les formats, les tailles ou les compressions de fichiers.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="37764" csRelFld="37764">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37764</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100488</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>En plus d'une formation en informatique de niveau bac + 2 au minimum et la connaissance de différents langages informatiques, une bonne culture artistique et des compétences en graphisme sont appréciées. </p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS ou DUT du secteur informatique ou multimédia</itsimp>
+<itsimp>Formation en alternance de développeur-intégrateur de solutions intranet-internet (CCI)</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence pro en création et intégration numérique, en création numérique : image et son...</itsimp>
+<itsimp>Certificat ou diplôme d'école spécialisée</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="37762" csRelFld="37762">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37762</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100488</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Expérience et technicité exigées</inter>
+<p>En plus de l'expérience et du savoir-faire technique, les entreprises exigent une productivité élevée. Elles recherchent des profils réunissant polyvalence, rigueur et créativité. Elles ne recrutent pas sur titre mais selon la compétence technique démontrée (tests, réalisations...), les langages maîtrisés (XHTML, CSS3, JavaScript, mais aussi parfois New Framework J5+ et Responsiv Web Design) et la personnalité du candidat.</p>
+<inter>Différents employeurs</inter>
+<p>Les postes se trouvent en agence web ou en ESN (entreprises de services du numérique), mais l'intégrateur peut également choisir de travailler chez lui en tant qu'indépendant. Dans ce cas, il doit se rendre régulièrement en agence pour des réunions ou effectuer des missions dans les entreprises.</p>
+<inter>Un poste tremplin</inter>
+<p>Après quelques années d'expérience, il peut passer de la simple exécution à la conception de modèles de pages, intervenant alors sur l'ergonomie ou le design d'un site. Sa fonction technique peut aussi le conduire vers des postes proches du développement, du conseil ou de la production. Devenir webmaster est également une évolution possible.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2666</sal> à 2916 euros brut par mois.</p>
+<postit>
+<p>Source : étude salaires des professionnels du Web réalisée par le cabinet Urban Linker, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

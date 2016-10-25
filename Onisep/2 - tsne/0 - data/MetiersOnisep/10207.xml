@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">enseignant/e d'art</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">enseigner, éduquer/m'occuper d'enfants ou d'adolescents/exercer un métier artistique ou créatif/animer des activités culturelles, ludiques ou éducatives</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur de l'éducation/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">enseignement - formation/dessin/gravure/peinture</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10207</lien_onisep>
+<ROME Level="1B" csRelFld="10207">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10207">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16547" csRelFld="16547">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16547</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10207</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>De l'initiation au perfectionnement</inter>
+<p>L'enseignant d'art initie les jeunes aux arts plastiques ou appliqués. Il leur enseigne l'histoire de l'art, leur apprend à décrypter et situer dans le temps une oeuvre en identifiant les techniques employées, et leur permet de développer leur création par une méthodologie adaptée mêlant culture et pratique. À travers le dessin, le modelage, la peinture, la sculpture, la photographie ou les logiciels spécialisés (Illustrator, InDesign), les élèves découvrent, affinent ou perfectionnent leur personnalité artistique.</p>
+<inter>Accompagner et évaluer</inter>
+<p>L'enseignant d'art accompagne ses élèves dans leur progression, les conseille et les aide, mais organise également des contrôles de leurs connaissances théoriques et de leur pratique artistique. L'objectif est de les amener à exploiter au mieux leurs capacités.</p>
+<inter>Hors de l'école</inter>
+<p>Afin de développer la curiosité et la sensibilité artistique de ses élèves, l'enseignant d'art organise des visites dans des musées ou des expositions, et des rencontres avec des artistes ou des professionnels des arts appliqués (designers, graphistes). Il peut aussi animer un club de dessin, un atelier de photo. Féru de culture, il se documente et fait constamment des recherches afin de nourrir ses cours et de mettre à jour ses connaissances.</p> </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16545" csRelFld="16545">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16545</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10207</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<inter>Niveau bac + 3</inter>
+<p>Le professeur territorial d'enseignement artistique spécialité arts plastiques est recruté par voie de concours. </p>
+<liste>
+<itsimp>DNAP (diplôme national d'arts plastiques) option art</itsimp>
+<itsimp>Licence mention arts ; arts appliqués</itsimp>
+</liste>
+<inter>Niveau bac + 5</inter>
+<liste>
+<itsimp>Le professeur de collège ou de lycée doit être reçu au CAPES (certificat d'aptitude au professorat de l'enseignement du 2<exp>d</exp> degré) arts plastiques ainsi qu'au master MEEF (métiers de l'enseignement, de l'éducation et de la formation) 2<exp>d</exp> degré parcours arts plastiques, préparé dans les Espé (écoles supérieures du professorat et de l'éducation).</itsimp>
+<itsimp>Le professeur exerçant dans un établissement d'enseignement technologique ou un lycée professionnel doit être reçu au CAPET (certificat d'aptitude au professorat de l'enseignement technique) ou au CAPLP (certificat d'aptitude au professorat de lycée professionnel) arts appliqués (2 options : design et métiers d'arts) ainsi qu'au master MEEF 2<exp>d</exp> degré parcours arts appliqués, préparé dans les Espé.</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16552" csRelFld="16552">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16552</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10207</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Fonctionnaire</inter>
+<p>Pour être fonctionnaires de l'État, les enseignants d'art doivent passer un concours. Du ministère de l'Éducation nationale (CAPES : certificat d'aptitude au professorat de l'enseignement du 2<exp>d</exp> degré ; CAPET : certificat d'aptitude au professorat de l'enseignement technique ; ou CAPLP : certificat d'aptitude au professorat de lycée professionnel ; agrégation) pour exercer en collège, lycée et à l'université. Du ministère de la Culture et de la Communication, pour enseigner dans les écoles d'art nationales. </p>
+<p>Quand ils exercent dans un établissement à rayonnement régional, départemental ou communal, comme un conservatoire, ils sont fonctionnaires territoriaux.</p>
+<inter>Peu de postes</inter>
+<p>Le nombre de postes ouverts au concours dans l'enseignement public varie d'une année à l'autre, mais les besoins sont moins importants dans les disciplines artistiques.</p>
+<inter>Vers plus de responsabilités</inter>
+<p>Les fonctions de direction et d'inspection sont accessibles aux professeurs dépendant de l'État. Les professeurs territoriaux peuvent, eux, devenir directeurs d'établissement par voie de concours.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir de <sal>1768</sal> euros brut par mois pour les professeurs territoriaux d'enseignement artistique et 2000 euros brut par mois pour les professeurs de l'Éducation nationale.</p>
+<postit>
+<p>Source : grilles de salaires indiciaires de l'Éducation nationale et de la fonction publique territoriale, 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">économiste de la construction</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">manier les chiffres</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur gros oeuvre bâtiment/secteur second oeuvre bâtiment/secteur travaux publics/secteur sociétés d'ingénierie et d'études techniques</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">conduite de chantier/métré/bureau d'études btp</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE bâtiment gros oeuvre génie civil/économiste de la construction</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10015</lien_onisep>
+<ROME Level="1B" csRelFld="10015">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="178" csRelFld="178">
+<CSLABELFLD label="">F1108</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception et études</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">F1108</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Métré de la construction</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10015">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1539" csRelFld="1539">
+<CSLABELFLD label="">chef métreur / chef métreuse</CSLABELFLD>
+<MET_ID label="Identifiant">10015</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">06/02/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1539</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chef/fe métreur/euse</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1539">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1540" csRelFld="1540">
+<CSLABELFLD label="">métreur-vérificateur/ métreuse-vérificatrice</CSLABELFLD>
+<MET_ID label="Identifiant">10015</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">06/02/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1540</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">métreur/euse-vérificateur/trice</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1540">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17907" csRelFld="17907">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17907</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10015</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Des missions variables</inter>
+<p>L'économiste de la construction garantit la faisabilité technique et financière d'un projet, ainsi que le respect du budget. Cependant, ses missions peuvent varier grandement, notamment en fonction de son lieu d'exercice. S'il travaille dans un cabinet extérieur, il est essentiellement chargé de décrire et de chiffrer la réalisation d'un ouvrage donné. Le cas échéant, il peut également conseiller et assister le maître d'oeuvre, surtout si celui-ci est un particulier, dans le choix des fournisseurs ou des matériaux par exemple.</p>
+<inter>Un suivi indispensable</inter>
+<p>Doté d'une vision globale et détaillée des coûts, il est aussi au fait des réglementations en vigueur qui peuvent avoir une incidence sur les choix de matériaux ou des techniques utilisés. Réactif, il doit être en mesure de proposer des solutions lorsque des difficultés techniques ou économiques surviennent.</p>
+<inter>Un rôle clé</inter>
+<p>S'il travaille au sein d'une entreprise du BTP (bâtiment et travaux publics) sa mission principale sera de répondre aux appels d'offres. Si son entreprise remporte le marché, il est alors chargé de mener la contre-étude technique et de s'assurer de la faisabilité du projet, compte tenu du budget et des délais impartis. Il a donc un rôle central et des relations avec de nombreux interlocuteurs.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17911" csRelFld="17911">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17911</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10015</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le bac pro technicien du bâtiment : études et économie est le premier niveau de diplôme en économie de la construction. Les recrutements se font davantage à bac + 2, + 3, voire à un niveau supérieur.</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS études et économie de la construction </itsimp>
+<itsimp>DUT génie civil - construction durable </itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence pro mention métiers du BTP</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master en énergétique, génie civil, ingénierie de la construction, urbanisme et aménagement...</itsimp>
+<itsimp>Diplôme d'ingénieur spécialisé dans le BTP...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17925" csRelFld="17925">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17925</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10015</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des débouchés certains</inter>
+<p>Les entreprises du BTP (bâtiment et des travaux publics) et les cabinets spécialisés indépendants s'arrachent les économistes de la construction qui sont actuellement au nombre de 2 500 en France. 45 % de l'activité se concentre dans la région Ile-de-France. Il est également possible de décrocher un poste dans le secteur public, au sein d'une collectivité territoriale, d'une préfecture ou d'un ministère. Dans ce cas, le candidat doit réussir un concours accessible sous certaines conditions (notamment en termes de niveau de formation).</p>
+<inter>En augmentation dans le privé</inter>
+<p>Selon l'Untec (Union nationale des techniciens économistes de la construction), 40 % des interventions des économistes se font dans le secteur privé, où la demande en conseil (en plus du chiffrage proprement dit) s'accroît. Cette évolution de la profession semble se généraliser.</p>
+<inter>S'installer ou diriger</inter>
+<p>Accessible aux jeunes diplômés, ce métier offre également des possibilités d'évolution. Au fil des années, on confiera au jeune économiste des projets de plus en plus importants et complexes. Il pourra envisager par la suite d'évoluer vers des postes de directeur technique du BTP, directeur de travaux, ingénieur commercial du BTP, ou choisir de s'installer en libéral.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Entre <sal>2300</sal> et 2900 euros brut par mois.</p>
+<postit>
+<p>Source : Apec, étude de rémunération nationale Hays, 2014.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

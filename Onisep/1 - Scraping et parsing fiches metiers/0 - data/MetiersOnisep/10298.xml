@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">démographe</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire de la recherche/enquêter, rechercher, analyser l'information/manier les chiffres/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur recherche/secteur fonction publique/secteur de l'éducation/secteur assurances/secteur banque/secteur audit conseil</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">démographie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit/démographe</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10298</lien_onisep>
+<ROME Level="1B" csRelFld="10298">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10298">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17174" csRelFld="17174">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17174</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10298</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+   <inter>Concevoir des enquêtes</inter>
+   <p>Le démographe conçoit des questionnaires pour recenser et collecter des données quantitatives et qualitatives sur les populations. Chaque enquête est précédée d'une réflexion sur la méthode à adopter et sur les critères à prendre en considération (répartition géographique de la population, structure par âge, par sexe, par revenu, situation de l'emploi, état civil, etc.).</p>
+   <inter>Collecter, analyser des données</inter>
+   <p>Il traite et analyse les informations recueillies sur le terrain et stockées dans une base de données pour décrire et expliquer les causes de certains faits démographiques (baisse de la natalité, vieillissement de la population, augmentation des familles monoparentales...). Il produit des calculs afin de vérifier des hypothèses.</p>
+   <inter>Diffuser les résultats</inter>
+   <p>Il diffuse ensuite ses résultats sous forme de synthèse et de tableaux graphiques détaillés auprès des responsables politiques et économiques. Son travail sert, par exemple, à planifier l'évolution du parc des logements ou des résidences de personnes âgées dans une ville, à analyser les besoins en personnels, en construction d'établissements dans le domaine scolaire, à élaborer des politiques régionales de santé, etc.</p>
+  </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17173" csRelFld="17173">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17173</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10298</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Pour devenir démographe, il faut être titulaire d'au moins un bac + 5. Les mentions de licences les plus appropriées : sociologie ou mathématiques et informatique appliquées aux sciences humaines et sociales... </accr_p>
+</p>
+<p>Les étudiants qui visent la recherche et l'enseignement supérieur poursuivront, après leur master, en thèse pour obtenir un doctorat.</p>
+<inter>Bac + 5 et plus</inter>
+<liste>
+<itsimp>
+<em>Master</em>  mention démographie ; mention sciences sociales</itsimp>
+<itsimp>
+<em>Diplôme</em> en démographie de l'École des hautes études en sciences sociales (EHESS) ;</itsimp>
+<itsimp>
+<em>Doctorat</em> en démographie ;</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17181" csRelFld="17181">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17181</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10298</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des débouchés restreints</inter>
+<p>Le nombre de postes est assez limité. Les emplois dans les établissements publics sont peu nombreux, et les bureaux spécialisés rares. On recherche surtout des chargés d'études et des chargés de mission dotés de qualités d'analyse, d'une capacité rédactionnelle et d'une bonne connaissance des statistiques.</p>
+<inter>Surtout au service de l'État</inter>
+<p>Le démographe peut exercer dans un ministère, un observatoire national, régional ou international, un institut de recherche public, comme le Céreq (Centre d'études et de recherche sur les qualifications), l'Ined (Institut national des études démographiques), l'Insee (Institut national de la statistique et des études économiques) ou un organisme gestionnaire (caisse de retraite, d'allocations familiales, office HLM...). Ces personnels sont alors fonctionnaires, recrutés sur concours, ou parfois contractuels au départ avec la possibilité de passer des concours.</p>
+<p>Dans l'enseignement et la recherche (qui recrutent sur concours), le démographe est enseignant-chercheur à l'université, ingénieur d'études et de recherche, assistant ingénieur...</p>
+<inter>Dans le privé</inter>
+<p>Le démographe peut également travailler dans les ressources humaines, une compagnie d'assurances, un cabinet d'architecture, un bureau d'études, un observatoire spécialisé...</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2370</sal> euros brut par mois en moyenne. Variable en fonction du statut et de l'employeur.</p>
+<postit>
+<p>Source : Idup (Institut de démographie de l'université Paris 1), 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

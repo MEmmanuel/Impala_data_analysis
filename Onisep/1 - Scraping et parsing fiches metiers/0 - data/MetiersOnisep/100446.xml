@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">collecteur/trice de fonds</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">pratiquer les langues vivantes/convaincre, négocier</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur social</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">marketing</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE médical paramédical travail social soins personnels/collecteur de fonds</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100446</lien_onisep>
+<ROME Level="1B" csRelFld="100446">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="595" csRelFld="595">
+<CSLABELFLD label="">M1705</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Stratégie commerciale, marketing et supervision des ventes</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1705</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Marketing</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100446">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="36765" csRelFld="36765">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36765</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100446</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Rechercher des donateurs</inter>
+<p>Le collecteur de fonds recherche en permanence de nouveaux donateurs qu'il doit ensuite fidéliser. Son travail de prospection et de suivi repose sur une base de contacts ou base de données. C'est lui qui constitue les fichiers des donateurs, les analyse et les enrichit constamment. À l'aide de méthodes spécifiques, il détermine le profil des donateurs et peut ainsi personnaliser ses demandes. </p>
+<inter>Définir la stratégie de communication</inter>
+<p>Pour mobiliser des donateurs, le collecteur de fonds définit une stratégie en accord avec sa direction. Il élabore les budgets, rédige les appels aux dons adressés aux particuliers ou aux entreprises par différentes voies : courrier, téléphone, e-mailing, relation directe, événementiel, etc. Le collecteur de fonds peut aussi solliciter la générosité publique en organisant des manifestations culturelles, des galas de variétés, des pièces de théâtre, des collectes dans la rue... </p>
+<inter>Rendre des comptes</inter>
+<p>Par souci de transparence, il rend des comptes et répond aux questions des donateurs sur l'utilisation des fonds : investissement sur le terrain, fonctionnement de l'association... Autant de renseignements qu'il obtient auprès des responsables de programmes et de la direction financière.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36769" csRelFld="36769">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36769</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100446</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Les recruteurs recherchent des diplômés de niveau bac + 5 : diplôme d'école supérieure de commerce, d'IEP (institut d'études politiques) ou master. En plus, les candidats doivent posséder une expérience en milieu associatif.</p>
+<inter>Niveau bac + 5</inter>
+<liste>
+<itsimp>
+<em>Diplôme</em> d'école supérieure de commerce</itsimp>
+<itsimp>
+<em>Diplôme</em> d'IEP</itsimp>
+<itsimp>
+<em>Diplôme</em> de l'École supérieure de commerce et développement (3A Lyon-Dakar)</itsimp>
+<itsimp>
+<em>Masters </em> en marketing, gestion, finance, communication, ...</itsimp>
+<itsimp>Diplôme de "Manager de projets de communication" option fundraising de l'IRCOM</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36767" csRelFld="36767">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36767</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100446</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Très souvent salarié</inter>
+<p>Le collecteur de fonds peut être salarié au sein d'associations ou de fondations des secteurs de la solidarité et de l'humanitaire (Médecins sans frontières, Action contre la faim, Secours catholique...). On le rencontre aussi dans les secteurs de la recherche médicale, de la culture à travers le mécénat (musée) ou de l'enseignement supérieur (grande école, université...). Au sein d'une agence de marketing et de communication spécialisée, son rôle consiste à conseiller les associations sur la collecte de fonds. </p>
+<inter>Un ou plusieurs postes</inter>
+<p>Dans les grosses structures, la collecte de fonds est répartie sur plusieurs postes : un administrateur de base de données, un responsable collecte de fonds particuliers, un responsable collecte de fonds entreprises, un responsable legs (possédant également des compétences juridiques), un responsable marketing. Dans les organisations moins importantes, une seule personne se charge de la collecte.</p>
+<inter>Une activité en développement</inter>
+<p>La collecte de fonds est en plein essor et doit s'adapter à un environnement en constante évolution. Depuis quelques années, le désengagement de l'État et la baisse des subventions, ainsi que la récente loi sur l'autonomie des universités ont contribué au développement de cette activité.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1500</sal> euros brut par mois (dans l'humanitaire).</p>
+<postit>
+<p>Source : Association française des fundraisers.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

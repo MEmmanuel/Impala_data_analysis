@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ambulancier/ère</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire/indépendant/artisan</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conduite de véhicules</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur santé/secteur transports routiers et urbains/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">assistance médicale technique/transport routier</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE médical paramédical travail social soins personnels/ambulancier</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10236</lien_onisep>
+<ROME Level="1B" csRelFld="10236">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="418" csRelFld="418">
+<CSLABELFLD label="">J1305</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Professionnels médico-techniques</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">J1305</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Conduite de véhicules sanitaires</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10236">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16891" csRelFld="16891">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16891</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10236</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Transporter en toute sécurité</inter>
+<p>L'ambulancier transporte les blessés, les malades, les personnes handicapées ou âgées vers les hôpitaux, les cliniques ou les maisons de retraite. Il doit veiller au confort du passager même s'il conduit à grande vitesse dans une situation d'urgence.</p>
+<inter>Connaître l'état du malade</inter>
+<p>Quelle que soit la structure pour laquelle il travaille (Samu, hôpital, ...), l'ambulancier s'informe des consignes auprès des médecins et des infirmières : degré d'urgence du transport à effectuer, type de blessures de la personne à prendre en charge...</p>
+<inter>Au service du malade </inter>
+<p>L'ambulancier aide le malade à monter dans l'ambulance, puis il l'installe. Durant le trajet, il veille à son confort et à son état de santé. Il peut intervenir en cas de besoin pour apporter les premiers secours (bouche-à-bouche, massage cardiaque...).</p>
+<inter>Un véhicule en parfait état</inter>
+<p>L'ambulancier est chargé de l'entretien de son véhicule et de la stérilisation du matériel (lavage, désinfection...). En parallèle, il peut effectuer des tâches administratives : facturation, encaissement...</p> </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16905" csRelFld="16905">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16905</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10236</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Le diplôme d'État d'ambulancier est indispensable pour exercer la profession.</accr_p> Ce diplôme peut être préparé sans condition de niveau d'étude. Il faut être titulaire du permis de conduire B depuis au moins 3 ans, ainsi que de la formation Prévention et secours civiques de niveau 1 (PSC1). Une attestation préfectorale d'aptitude à la conduite d'une ambulance et un certificat médical de vaccinations sont également exigés pour se présenter aux épreuves d'admission dans les établissements qui préparent au diplôme d'État. La sélection s'effectue sur tests et entretien. La formation dure 18 semaines et comporte un stage obligatoire en service ambulancier.</p>
+<liste>
+<tete>Après la 3<exp>e</exp>
+</tete>
+<itsimp>Diplôme d'État d'ambulancier</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16900" csRelFld="16900">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16900</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10236</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>En entreprise</inter>
+<p>La majorité des ambulanciers sont salariés dans de petites entreprises familiales ou artisanales. Leurs horaires sont irréguliers. Ils peuvent être appelés le jour, la nuit, le week-end ou les jours fériés. Dans un service d'urgence, la permanence s'effectue à plusieurs, par roulement, chaque équipe étant relevée toutes les 24 heures. </p>
+<inter>À son compte</inter>
+<p>Surtout en milieu rural, de nombreux ambulanciers travaillent à leur compte, sans auxiliaire. Pour s'installer en libéral, outre la possession de la qualification professionnelle, il faut préalablement obtenir un agrément auprès des services préfectoraux et investir dans l'achat d'un véhicule conforme aux normes.</p>
+<inter>Perspectives d'évolution</inter>
+<p>Un ambulancier peut, après plusieurs années de pratique professionnelle, devenir régulateur d'une structure de soins. Il est alors chargé de coordonner les déplacements d'une équipe, d'établir les emplois du temps, de gérer les demandes de prise en charge et les interventions.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>Smic</sal> .</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

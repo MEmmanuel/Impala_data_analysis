@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">scripte</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un métier artistique ou créatif/me déplacer souvent/travailler à l'étranger</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">intermittent du spectacle</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur de l'audiovisuel</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">script</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques de la communication média/scripte</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100293</lien_onisep>
+<ROME Level="1B" csRelFld="100293">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="543" csRelFld="543">
+<CSLABELFLD label="">L1304</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception et production de spectacles</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">L1304</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Réalisation cinématographique et audiovisuelle</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100293">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="19008" csRelFld="19008">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">19008</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100293</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Chronométrer les scènes</inter>
+<p>Les éléments d'une fiction sont filmés dans le désordre, puis assemblés au montage comme dans un puzzle. Le scripte contrôle le bon enchaînement des plans et des séquences jusqu'au document final. Il chronomètre scrupuleusement chaque scène pour transmettre le minutage utile au montage.</p>
+<inter>Se souvenir du moindre détail</inter>
+<p>Le scripte assure la continuité des scènes en veillant au moindre détail. Il peut répondre à n'importe quelle question concernant le tournage (par exemple : y a-t-il des bougies allumées dans cette scène ?). Ses indications, extrêmement précises, et ses photos permettront d'éviter des erreurs de raccord d'une séquence à l'autre.</p>
+<inter>Consigner la journée</inter>
+<p>En fin de journée, le scripte rédige 4 rapports. Le rapport de montage décrit chaque prise de vues et le jeu des acteurs. Le rapport image est destiné au laboratoire pour le tirage des photos. Le rapport journalier indique chronologiquement tout ce qui s'est passé dans la journée. Enfin, le rapport (ou " mouchard ") destiné à la production rend compte de l'avancement du tournage et des problèmes rencontrés.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="19012" csRelFld="19012">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">19012</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100293</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>La plupart des scriptes apprennent le métier sur le terrain. Les formations (de bac + 2 à bac + 5) sont plutôt rares.</p>
+<p>L'Ensmis (École nationale supérieure des métiers de l'image et du son, ex-Fémis), le CLCF (Conservatoire libre du cinéma français) et l'Insas (Institut national des arts du spectacle et des techniques de diffusion), à Bruxelles, recrutent sur concours.</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS métiers de l'audiovisuel </itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licences en cinéma audiovisuel</itsimp>
+<itsimp>Licences professionnelles en gestion de production audiovisuelle, techniques et pratiques audiovisuelles</itsimp>
+<itsimp>Diplômes d'écoles spécialisées (3IS, Conservatoire libre du cinéma français)</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Masters pro en cinéma et audiovisuel ; en arts et technologies de l'image virtuelle ; en réalisation et création</itsimp>
+<itsimp>Diplômes d'écoles spécialisées en audiovisuel (Fémis)</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="19011" csRelFld="19011">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">19011</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100293</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un travail précaire</inter>
+<p>Fortement féminisé, le métier de scripte souffre de débouchés extrêmement limités, comme pour la plupart des métiers du spectacle. Employés par des chaînes de télévision ou des sociétés de production, la plupart des scriptes relèvent du statut des intermittents du spectacle.</p>
+<p>Il est rare que les scriptes travaillent régulièrement, hormis les salariés du service public (France Télévisions). La précarité de leur statut les contraint parfois à changer de métier en cours de carrière.</p>
+<inter>Se réorienter</inter>
+<p>Les changements d'orientation professionnelle sont d'autant plus courants que le métier à strictement parler tend à disparaître : la tendance actuelle est en effet à la répartition des charges de travail entre les divers membres de l'équipe de tournage.</p>
+<inter>Des évolutions limitées</inter>
+<p>Les promotions sont rares. Néanmoins, des scriptes talentueux ayant su se constituer un solide réseau relationnel peuvent s'orienter vers les métiers d'assistant de réalisateur ou de chargé de production.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>856</sal> euros brut hebdomadaires (semaine de 35 heures) selon la grille de la production audiovisuelle.</p>
+<postit>
+<p>Source : SNTPCT (Syndicat national des techniciens et travailleurs de la production cinématographique et de la télévision), 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

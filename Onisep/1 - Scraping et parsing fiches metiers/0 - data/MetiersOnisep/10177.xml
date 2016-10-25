@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">chef/fe monteur/euse</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un métier artistique ou créatif</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">intermittent du spectacle/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction création artistique</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur de l'audiovisuel</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">montage audiovisuel</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques de la communication média/monteur (audiovisuel)</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10177</lien_onisep>
+<ROME Level="1B" csRelFld="10177">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="553" csRelFld="553">
+<CSLABELFLD label="">L1507</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Techniciens du spectacle</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">L1507</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Montage audiovisuel et post-production</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10177">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16171" csRelFld="16171">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16171</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10177</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Donner vie au film</inter>
+<p>C'est le monteur qui donne vie à un film. Principal collaborateur du réalisateur après le tournage, il participe à la 2e écriture d'une production audiovisuelle.</p>
+<p>Ensemble, ils font des choix, opèrent des rapprochements de plans pour donner à une oeuvre sa cohérence et son rythme. Un métier créatif, plus encore en documentaire qu'en fiction.</p>
+<inter>Sélectionner les prises</inter>
+<p>Le monteur commence par mettre les rushes (scènes coupées) dans l'ordre chronologique et sélectionne les meilleures prises.</p>
+<p>Ensuite, il cherche sur quelle image faire débuter et arrêter un plan, fixe la durée des séquences, en change l'ordre, crée le bon raccord...</p>
+<inter>Caler les sons sur les images</inter>
+<p>Enfin, il cale les sons et les dialogues (enregistrés lors du tournage) sur les images, en réglant leur niveau selon la scène.</p>
+<p>Il peut aussi, lorsqu'il assure lui-même le montage son, ajouter des ambiances sonores. Garant de la fidélité au projet initial, il garde un oeil sur le mixage et les trucages.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18871" csRelFld="18871">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18871</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10177</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Les écoles privées ouvertes aux bacheliers sont très nombreuses, mais toutes ne se valent pas. Quant aux grandes écoles de cinéma, elles sont accessibles après un bac + 3 et sont très sélectives.</accr_p>
+</p>
+<p>Le montage allie maîtrise de la technique et sens du langage cinématographique. Des qualités qui se développent dans des formations alliant travaux pratiques et culture de l'image. </p>
+<inter>Niveau bac + 2</inter>
+<liste>
+<itsimp>
+<em>BTS</em> métiers de l'audiovisuel, option montage et postproduction ou option métiers du son ;</itsimp>
+<itsimp>
+<em>Certificats d'écoles privées </em>: certificat supérieur de formation professionnelle de montage vidéo (MJM Graphic Design)</itsimp>
+</liste>
+<p/>
+<p>Niveau bac + 3</p>
+<liste>
+<itsimp>
+<em>Diplôme</em> d'études supérieures de réalisation (DESRA) option montage</itsimp>
+<itsimp>
+<em>Certificats d'écoles privées </em>: Monteur pour le cnéma et l'audiovisuel (3IS) ; Certificat de fin d'études de l'ESRA Bretagne option montage et effets spéciaux</itsimp>
+</liste>
+<inter>Niveau bac + 5</inter>
+<liste>
+<itsimp>
+<em>Diplôme</em> de l'Ecole nationale supérieure Louis Lumière section cinéma;</itsimp>
+<itsimp>
+<em>Diplôme </em>de la FEMIS spécialisation montage.</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18891" csRelFld="18891">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18891</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10177</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>2 700 monteurs en 2007</inter>
+<p>L'audiovisuel connaît depuis 10 ans un dynamisme sans précédent avec le développement du câble et du satellite. </p>
+<p>Revers de la médaille : moins de 100 jours d'activité annuelle.</p>
+<p>Cette moyenne dissimule des situations très contrastées. Les professionnels les plus confirmés appartiennent à un réseau et ont une activité régulière. D'autres ont plus de mal à percer...</p>
+<inter>Des opportunités à la TV</inter>
+<p>C'est la télévision qui offre le plus d'opportunités aux débutants.</p>
+<p>Les films d'entreprise constituent également un bon créneau. Des sociétés prestataires de services s'adressent alors à des intermittents avec des temps de montage très serrés. Ces derniers sont amenés à assurer eux-mêmes le montage son.</p>
+<inter>Le cinéma, très convoité</inter>
+<p>L'activité de monteur au cinéma est très réglementée : il faut posséder la carte professionnelle du Centre national du cinéma (CNC), accordée aux professionnels qui ont effectué un stage de 3 mois dans un laboratoire cinématographique ainsi que 3 stages de montage dans 3 longs-métrages français (seulement 2 pour les diplômés de l'ENSMIS et de Louis Lumière).</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>1300 euros brut par semaine.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

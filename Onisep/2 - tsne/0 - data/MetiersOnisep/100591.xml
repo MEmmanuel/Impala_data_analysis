@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">animateur/trice de bassin versant</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">préserver l'environnement</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique/secteur agriculture/secteur environnement</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">gestion de l'eau</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE nettoyage assainissement environnement sécurité</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100591</lien_onisep>
+<ROME Level="1B" csRelFld="100591">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100591">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="55542" csRelFld="55542">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55542</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100591</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Protéger la rivière</inter>
+<p>Le bassin versant désigne l'espace sur lequel toutes les eaux de pluie suivent une pente pour se rassembler dans une rivière ou un lac. L'animateur de bassin versant promeut une bonne gestion de l'eau au niveau local. À partir d'un état des lieux environnemental, il apporte son expertise et définit des actions à mener. Il participe aux décisions d'urbanisme (avis sur permis de construire, certificats d'urbanisme...). Il définit un programme d'action pour lutter contre les inondations, les ruissellements et l'érosion des sols. À cet aspect technique s'ajoute le suivi administratif, financier et juridique.</p>
+<inter>Impliquer les agriculteurs</inter>
+<p>L'animateur de bassin versant réalise des enquêtes sur le terrain, fait le bilan des actions réalisées, propose des mesures. Il prend en compte le diagnostic initial des exploitations du sous-bassin (mesure des effluents, des produits phytosanitaires, des odeurs...), et oriente les professionnels vers des solutions à la fois réalistes et innovantes. Il propose, par exemple, la remise aux normes des installations d'un éleveur laitier, l'étude de la récupération des eaux de lavage des machines à traire, l'adaptation des capacités de stockage des déjections animales suivant un calendrier d'épandage qui respecte les besoins des cultures. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55546" csRelFld="55546">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55546</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100591</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le métier est accessible avec un bac + 2. À bac + 3, il existe un diplôme spécifique. Certains postes dépendant d'une collectivité importante (un conseil régional, par exemple) sont plutôt attribués à des ingénieurs spécialistes de l'eau (bac + 5).</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS métiers de l'eau</itsimp>
+<itsimp>BTSA gestion et maîtrise de l'eau ; gestion et protection de la nature</itsimp>
+<itsimp>DUT génie biologique option génie de l'environnement</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence pro aménagement du territoire et urbanisme spécialité animateur technique de bassin versant</itsimp>
+<itsimp>Licence pro Sciences, technologies, santé mention métiers de la protection et de la gestion de l'environnement</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master Sciences, technologies, santé mention sciences de l'eau ; biodiversité, écologie, environnement, spécialité gestion des habitats et des bassins versants ; sciences de l'eau et de l'environnement, spécialité hydrosystèmes et bassins versants : diagnostic et risque environnemental...</itsimp>
+<itsimp>Diplôme d'ingénieur en sciences et technologies de l'eau, hydraulique, chimie...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55544" csRelFld="55544">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55544</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100591</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un métier récent</inter>
+<p>Les premiers postes d'animateur de bassin versant ont été créés en 1996 en Bretagne, une région particulièrement confrontée à la pollution d'origine agricole de l'eau. Rien que pour cette région, une trentaine d'animateurs exercent aujourd'hui au sein des chambres d'agriculture, et de nombreux autres sont employés par les collectivités locales.</p>
+<inter>L'impulsion de la loi sur l'eau</inter>
+<p>L'objectif, ambitieux, de la LEMA (loi sur l'eau et les milieux aquatiques) de 2006 est le retour à un bon état des eaux en 2015, au niveau national. Cette loi prévoit notamment que la modification de certaines pratiques agricoles peut être rendue obligatoire, en amont des zones de captage d'eau potable et de certaines zones à protéger. Elle conforte l'activité de l'animateur de bassin versant, qui n'a pas toujours un rôle facile sur le terrain.</p>
+<inter>En collectivité territoriale</inter>
+<p>L'animateur de bassin versant travaille souvent pour un syndicat intercommunal ou une agence de l'eau qui regroupe les différentes communes traversées par une même rivière. Il peut aussi être employé par une réserve naturelle ou une chambre d'agriculture. Il peut également exercer dans un cabinet d'études spécialisé ou encore pour le compte d'une association de pêche, de protection de la nature, etc.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>1486</sal> euros brut par mois (pour un technicien territorial) à 1615 euros brut par mois (pour un ingénieur territorial). </p>
+<p>De 1800 à 2300 euros brut par mois pour un ingénieur en chambre d'agriculture.</p>
+<p>À partir du Smic dans le secteur associatif.</p>
+<postit>
+<p>Sources : grille indiciaire collectivité territoriale ; APCA (Assemblée permanente des chambres d'agriculture), 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

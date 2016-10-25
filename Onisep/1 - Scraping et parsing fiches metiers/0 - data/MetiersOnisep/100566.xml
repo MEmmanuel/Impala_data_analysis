@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">spécialiste des affaires réglementaires en chimie</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">contrôler la qualité, expertiser</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie chimique/secteur industrie pharmaceutique/secteur industrie agroalimentaire</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">chimie/biologie/droit</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE matériaux laboratoire organisation industrielle</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100566</lien_onisep>
+<ROME Level="1B" csRelFld="100566">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="265" csRelFld="265">
+<CSLABELFLD label="">H1206</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception, recherche, études et développement</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H1206</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie études, recherche et développement industriel</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100566">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1427" csRelFld="1427">
+<CSLABELFLD label="">directeur / directrice des affaires pharmaceutiques et réglementaires</CSLABELFLD>
+<MET_ID label="Identifiant">100566</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">21/01/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1427</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">directeur/trice des affaires pharmaceutiques et réglementaires</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1427">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1428" csRelFld="1428">
+<CSLABELFLD label="">responsable des affaires pharmaceutiques</CSLABELFLD>
+<MET_ID label="Identifiant">100566</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">21/01/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1428</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">responsable des affaires pharmaceutiques</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1428">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="53679" csRelFld="53679">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53679</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100566</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter> Suivre les règles </inter>
+<p>La réglementation REACH (Registration, Evaluation and Authorisation of Chemicals : enregistrement, évaluation et autorisation des substances chimiques) impose aux industriels de la chimie d'enregistrer leurs substances auprès de l'ECHA (European Chemicals Agency, l'Agence européenne des produits chimiques). Le spécialiste des affaires réglementaires en chimie gère cet aspect légal. En cosmétique et parfumerie, il vérifie que les produits sont conformes aux référentiels internationaux, aux directives de l'industrie et aux cahiers des charges des clients.</p>
+<inter> Constituer un dossier... </inter>
+<p>Pour chaque produit, il constitue un dossier d'homologation. Il y détaille les composants, la formulation, les méthodes de fabrication, les contrôles qualité, les modes d'administration... et indique les données toxicologiques, évaluant les risques pour la santé et l'environnement.</p>
+<inter> ... pour obtenir l'AMM </inter>
+<p>Chaque dossier est soumis à l'ECHA ou à l'ANSM (Agence nationale de sécurité du médicament) qui valide et délivre l'AMM (autorisation de mise sur le marché). Le spécialiste des affaires réglementaires en chimie prépare également un RCP (résumé des caractéristiques du produit) : effets indésirables d'un médicament, contre-indications, etc. Il effectue aussi une veille réglementaire, scientifique et technologique internationale, pour être à jour sur les obligations de l'entreprise.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="53683" csRelFld="53683">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53683</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100566</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Selon le secteur d'activité, on accède au métier avec un diplôme d'ingénieur ou avec un master spécialisé en chimie, biologie, biochimie, pharmacie, toxicologie et/ou affaires réglementaires. Un doctorat en droit, complété par une formation scientifique spécialisée, est aussi envisageable. </p>
+<liste>
+<tete> Niveau bac + 5 </tete>
+<itsimp>Diplôme d'ingénieur en chimie, biologie...</itsimp>
+<itsimp>Master en chimie, biologie, affaires réglementaires des industries de santé, droit des produits de santé...</itsimp>
+</liste>
+<liste>
+<tete>Bac + 6 et plus </tete>
+<itsimp>Doctorat en chimie, biologie, affaires réglementaires des industries de santé, droit des produits de santé...</itsimp>
+<itsimp>Diplôme d'État de docteur en pharmacie</itsimp>
+<itsimp>Diplôme d'État de docteur en médecine</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="53681" csRelFld="53681">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53681</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100566</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter> De nombreux secteurs d'activité </inter>
+<p>Le spécialiste des affaires réglementaires en chimie exerce dans de nombreux secteurs d'activité : chimie, pharmacie, agrochimie, cosmétique, agroalimentaire... Ce spécialiste peut travailler au sein d'une entreprise, d'une société de services, d'un cabinet externe ou d'un organisme de réglementation (Agence française du médicament, Agence française de sécurité sanitaire des aliments, etc.). Depuis la mise en place de REACH (Registration, Evaluation and Authorisation of Chemicals : enregistrement, évaluation et autorisation des substances chimiques) en 2006, les services des affaires réglementaires se sont fortement développés. Les entreprises sortent de nouveaux produits en permanence, et toute nouvelle molécule doit faire l'objet d'un enregistrement.</p>
+<inter> Des évolutions de poste </inter>
+<p>Le spécialiste des affaires réglementaires en chimie qui excelle dans l'obtention d'approbations et possède des compétences en communication et en gestion, bénéficie de nombreuses opportunités : développement (chef de projet, planification du développement) ; relations extérieures avec les autorités locales, nationales ou européennes ; veille technologique... Une progression vers le poste de responsable des affaires réglementaires est envisageable après 5 à 10 ans d'expérience confirmée. Dans l'industrie pharmaceutique, des passerelles existent vers d'autres métiers, comme celui de responsable des études pharmaco-économiques.</p>
+<remun>
+<inter> Salaire du débutant </inter>
+<p>
+<sal>2900</sal> euros brut par mois.</p>
+<postit>
+<p>Source : Apec, 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

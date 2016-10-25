@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">pilote d'hélicoptère</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction pilotage, navigation</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique/secteur Défense</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">transport de voyageurs</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE transports conduite manutention magasinage</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100694</lien_onisep>
+<ROME Level="1B" csRelFld="100694">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="627" csRelFld="627">
+<CSLABELFLD label="">N2102</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Personnel navigant du transport aérien</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">N2102</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Pilotage et navigation technique aérienne</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100694">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="59095" csRelFld="59095">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59095</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100694</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Préparer son plan de vol</inter>
+<p>Le pilote d'hélicoptère transporte des passagers en garantissant leur sécurité. Il est également en charge des liaisons radio et est à l'affût de la moindre anomalie ou panne d'appareil. Avant tout départ, il prépare son plan de vol : traçage, vérification du carburant, contrôle de la météo... Il doit également être capable de poser son appareil n'importe où, voler à basse altitude ou en milieu montagneux.</p>
+<inter>Pilote dans l'armée</inter>
+<p>Quand il ne travaille pas dans le civil, le pilote d'hélicoptère est affecté au sein de l'armée (de terre, de l'air ou dans la Marine) où il effectue des missions de combat, de reconnaissance, de transport de troupes, d'appui aux combattants évoluant sur le sol.</p>
+<inter>Pilote dans la Gendarmerie ou la Sécurité civile</inter>
+<p>Au sein de la Gendarmerie nationale ou de la Sécurité civile, le pilote peut porter assistance aux personnes. La mission de police judiciaire concerne les arrestations de malfaiteurs, les renseignements pour la préparation d'une mission future pour les troupes au sol, ou la reconstitution des circonstances d'un accident de la route. La mission de police administrative consiste notamment en la prévention au niveau de la police de la route.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="59099" csRelFld="59099">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59099</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100694</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Un brevet de pilote est nécessaire. Beaucoup préféreront la voie militaire pour obtenir le diplôme d'hélicoptère car elle nécessite un moindre coût.</p>
+<p>Pour exercer dans l'une des 3 armées ou la gendarmerie, la filière d'officier sous contrat pilote est ouverte aux titulaires au minimum d'un bac. Le recrutement des pilotes se fait à la fois sur l'aptitude médicale, sur la réussite aux tests psychotechniques et sur un entretien psychologique et de motivation. Une fois ces tests réussis, les élèves suivent une formation dispensée par les écoles de l'aviation de l'armée de terre (ALAT). Pour être gendarme pilote, le candidat doit effectuer 2 autres journées de tests, d'entretiens psychologique et de motivation afin de déterminer son profil. La formation dure 24 mois (16 mois en école et 2 mois de stage) avec 50 heures de vol à valider.</p>
+<p>Pour exercer une activité rémunérée dans le transport aérien commercial ainsi que dans le travail aérien, le candidat doit obtenir la licence de pilote privé d'hélicoptère et la licence de pilote professionnel d'hélicoptère assurée par des écoles de pilotage privées. Pour les formations dans le domaine civil, il faut prévoir un budget de 30 000 euros au minimum.</p>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>Épreuves de sous-officier sous contrat de pilote après une formation spécifique</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="59097" csRelFld="59097">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59097</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100694</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des formations onéreuses : priorité à la voie militaire</inter>
+<p>La formation pour devenir pilote d'hélicoptère est très onéreuse puisqu'elle coûte environ 150 000 &#8364;. Cela explique que la plupart des pilotes professionnels sont issus de l'armée. En échange du financement de sa formation, le pilote d'hélicoptère s'engage, par exemple, à rester 8 ans gendarme.</p>
+<inter>Des évolutions dans le secteur civil</inter>
+<p>La reconversion des pilotes militaires se fait souvent dans le secteur civil, ce qui leur permet de travailler dans les secteurs de l'agriculture, du tourisme, etc.</p>
+<remun>
+<inter>Salaire du débutant </inter>
+<p>
+<sal>2300</sal> euros brut par mois dans la gendarmerie.</p>
+<postit>
+<p>Source : Gendarmerie nationale.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

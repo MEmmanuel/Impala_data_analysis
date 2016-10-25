@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">auteur/e-compositeur/trice interprète</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un métier artistique ou créatif/me déplacer souvent/travailler à l'étranger</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">intermittent du spectacle</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur des arts du spectacle</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">musique/chant</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE arts appliqués arts du spectacle/auteur compositeur interprète</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100499</lien_onisep>
+<ROME Level="1B" csRelFld="100499">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="536" csRelFld="536">
+<CSLABELFLD label="">L1202</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Artistes - interprètes du spectacle</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">L1202</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Musique et chant</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100499">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="47201" csRelFld="47201">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">47201</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100499</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Écrire les paroles</inter>
+<p>L'auteur-compositeur-interprète a plusieurs casquettes. Parolier,  il écrit les paroles de chansons commandées par d'autres artistes.. ou pour lui-même. Expériences personnelles, scènes de la vie, plaidoyers, hommages, oeuvres fictives... autant d'occasions pour trouver l'inspiration et le petit « truc » qui propulseront un simple texte en haut des hit-parades.</p>
+<inter>Composer la mélodie</inter>
+<p>Après avoir reçu des paroles ou les avoir écrites lui-même, l'auteur-compositeur-interprète compose la musique qui saura retranscrire l'ambiance du texte. Autre possibilités : créer une mélodie sans connaissance préalable des paroles.</p>
+<inter>Interpréter une oeuvre musicale</inter>
+<p>Quand paroles et musique ne font qu'un, vient le moment de l'interprétation. Dans un studio d'enregistrement, puis sur scène, en tournée... l'interprète donne de la consistance à l'oeuvre musicale, en transmettant des émotions au public.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="47205" csRelFld="47205">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">47205</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100499</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Si tous les auteurs-compositeurs-interprètes n'ont pas forcément suivi une formation musicale et/ou vocale, elle est néanmoins fort utile. Dès le collège, il est possible d'intégrer, sous conditions, des classes à horaires aménagés qui permettent aux élèves d'étudier tout en continuant d'apprendre la musique dans un conservatoire.</p>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>Bac technologique TMD (techniques de la musique et de la danse) option instrument</itsimp>
+<itsimp>DNOP (diplôme national d'orientation professionnelle) de musique</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>DNSPM (diplôme national supérieur professionnel de musicien) </itsimp>
+<itsimp>DEM (diplôme d'études musicales)</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme de formation supérieure de musique du conservatoire de Paris (chant, musicologie, analyse musicale, instruments, jazz)</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="47203" csRelFld="47203">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">47203</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100499</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Mettre en place un réseau influent</inter>
+<p>Pour débuter dans la musique et la chanson, rien de tel qu'un carnet d'adresses bien rempli et le bouche à oreille. Auditions, casting, répétitions communes... autant d'occasions pour rencontrer les professionnels : producteurs, maisons de disques, éditeurs musicaux, programmateurs de festivals... Tout est affaire de relations !</p>
+<inter>Des revenus aléatoires</inter>
+<p>L'industrie de la musique et du disque procure peu d'emplois stables. La plupart des auteurs-compositeurs-interprètes sont intermittents du spectacle. Leurs revenus proviennent essentiellement des cachets qu'ils touchent lors des représentations et qui peuvent être complétés par une rétribution au titre des droits d'auteur. Une activité annexe (enseignement, par exemple) est également possible pour compléter son salaire.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Variable en fonction de la réputation de l'auteur-compositeur-interprète et de sa production artistique.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

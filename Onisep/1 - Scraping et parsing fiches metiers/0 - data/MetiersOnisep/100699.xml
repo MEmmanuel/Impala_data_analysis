@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">responsable de production alimentaire</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">GFE production alimentaire /concevoir, utiliser des technologies industrielles de pointe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction organisation de la production industrielle</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie agroalimentaire</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">agroalimentaire</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE production alimentaire </MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100699</lien_onisep>
+<ROME Level="1B" csRelFld="100699">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="322" csRelFld="322">
+<CSLABELFLD label="">H2504</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Direction, encadrement et pilotage de fabrication et production industrielles</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2504</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Encadrement d'équipe en industrie de transformation</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100699">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1857" csRelFld="1857">
+<CSLABELFLD label="">directeur / directrice de site de production alimentaire</CSLABELFLD>
+<MET_ID label="Identifiant">100699</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">30/10/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1857</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">directeur/trice de site de production alimentaire</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1857">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="59224" csRelFld="59224">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59224</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100699</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Organisation de la production</inter>
+<p>Rattaché au directeur industriel ou à la direction générale, le responsable de production alimentaire établit le planning de la production agroalimentaire en termes de coûts, de délais, de quantités, de sécurité et de respect de l'environnement. Il prend en compte l'évolution des impératifs réglementaires et commerciaux.</p>
+<p>Il organise, suit, coordonne et optimise la fabrication selon un programme qui respecte les objectifs fixés par la direction. Il met en place des tableaux de bord de gestion, qui lui permettent de piloter son activité au travers d'indicateurs : rendement des matières, productivité, maîtrise des coûts, respect des délais.</p>
+<p>Garant de l'hygiène et de la qualité grâce à la mise en place d'outils de contrôle et de normes, il anticipe les évolutions techniques et industrielles.</p>
+<inter>Organisation des équipes</inter>
+<p>Interlocuteur direct des ressources humaines, il s'occupe des plannings, éventuellement des recrutements de saisonniers ou d'intérimaires, en fonction des pics de production. Il est le référent des opérateurs et des techniciens des lignes de production.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="59228" csRelFld="59228">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59228</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100699</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>En général, les entreprises demandent une formation de niveau bac + 5 ou bac + 2, + 3 avec quelques années d'expérience. Les ingénieurs agroalimentaires sont très prisés des employeurs. En effet, certains postes sont ouverts aux jeunes diplômés, à condition qu'ils soient passés par des stages ou qu'ils aient une première expérience dans une direction d'atelier. Il est souvent exigé une expérience de 5 ans dans les plus grandes structures. Tout dépend de la taille de l'entreprise et du niveau de formation du candidat.</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTSA sciences et technologies des aliments</itsimp>
+<itsimp>DUT génie biologique</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence pro du secteur agroalimentaire</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master du secteur agroalimentaire</itsimp>
+<itsimp>Diplôme d'ingénieur</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="59226" csRelFld="59226">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59226</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100699</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>De très nombreuses entreprises agroalimentaires</inter>
+<p>Avec 420 000 salariés en 2010, l'industrie agroalimentaire est le 2<exp>e</exp> employeur français après le secteur mécanique (automobile, etc.). Sur 11 000 entreprises, près de 9 sur 10 sont des PME (petites et moyennes entreprises) réparties sur tout le territoire. La production regroupe plus de 60 % des emplois du secteur agroalimentaire.</p>
+<inter>Évolution de carrière</inter>
+<p>Un jeune diplômé peut se voir confier les fonctions de responsable de production dans une PME, de niveau bac + 5 le plus souvent, avec un diplôme d'ingénieur en agroalimentaire. Dans une entreprise de grande taille, on lui demandera une expérience ou des stages significatifs dans une direction d'atelier comme chef de ligne, chef de fabrication ou technicien de maintenance avec plusieurs années de production ou en développement industriel. Les postes varient en fonction de la taille de l'entreprise, de l'autonomie accordée dans le cas d'une filiale de grand groupe, et de l'importance des équipes sous sa responsabilité.</p>
+<p>Le responsable de production peut évoluer vers un poste de responsable de site de production ou vers des fonctions connexes de la production : méthodes, qualité, logistique, achats.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2000</sal> à 2500 euros brut par mois.</p>
+<postit>
+<p>Source : Apec, 12/09/2009.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

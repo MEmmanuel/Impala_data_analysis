@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e forestier/ère</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">travailler en contact avec la nature/coordonner l'activité d'une équipe/préserver l'environnement/travailler dehors/me déplacer souvent/aider, conseiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction exploitation agricole</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur sylviculture et exploitation forestière/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">sylviculture/gestion forestière</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE agriculture/ingénieur forestier</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10124</lien_onisep>
+<ROME Level="1B" csRelFld="10124">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="13" csRelFld="13">
+<CSLABELFLD label="">A1303</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Etudes et assistance technique</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">A1303</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Ingénierie en agriculture et environnement naturel</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10124">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16287" csRelFld="16287">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16287</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10124</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Préserver et exploiter la forêt</inter>
+<p>L'ingénieur forestier décide des coupes et des plantations pour reboisement. Il veille aux milieux naturels en recensant la faune et la flore, en préservant une espèce d'arbre ou en créant une réserve biologique. Il gère aussi l'entretien de la forêt pour lutter, par exemple, contre les incendies, les inondations, les glissements de terrain, les bois morts...</p>
+<inter>Projeter la forêt dans l'avenir</inter>
+<p>Pour mener à bien ses missions, l'ingénieur forestier élabore des plans de gestion de la forêt sur 15 ou 20 ans. Pour cela, il organise le travail de ses équipiers sur le terrain et rencontre de nombreux partenaires (propriétaires, acheteurs, entrepreneurs, élus locaux...).</p>
+<inter>Sensibiliser le public</inter>
+<p>Pour accueillir, informer et sensibiliser le public, l'ingénieur forestier participe à de nombreux projets. Créer des sentiers thématiques pour valoriser la faune et la flore de la forêt, installer des aires de pique-nique ou des terrains de camping en harmonie avec l'environnement... Ou encore équiper la forêt en voies d'accès, de stationnement ou en fossés d'écoulement des eaux...</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16289" csRelFld="16289">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16289</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10124</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>La majorité des ingénieurs forestiers sont issus des écoles d'ingénieurs agronomiques qui comportent une spécialité ou majeure liée à la thématique forêt.</p> </MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16275" csRelFld="16275">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16275</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10124</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des emplois... mais limités</inter>
+<p>L'ingénierie forestière recrute peu. Dans le public, 60 % des ingénieurs travaillent pour l'Office national des forêts (ONF) et 20 % pour les directions départementales et régionales du ministère de l'Agriculture.</p>
+<inter>Métier d'évolution de carrière</inter>
+<p>Dans le public, avec 10 ans d'ancienneté, l'ingénieur forestier peut accéder au grade d'ingénieur divisionnaire des travaux.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Variable selon l'employeur public ou privé. À l'ONF, début à près de <sal>2465</sal> euros brut par mois (primes incluses).</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

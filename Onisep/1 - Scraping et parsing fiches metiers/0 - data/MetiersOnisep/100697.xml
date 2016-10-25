@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">écrivain/e</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">informer, communiquer/exercer un métier artistique ou créatif</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">indépendant</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur édition - presse</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">littérature/lettres classiques/lettres modernes</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques de la communication média</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100697</lien_onisep>
+<ROME Level="1B" csRelFld="100697">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="144" csRelFld="144">
+<CSLABELFLD label="">E1102</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Edition et communication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">E1102</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Ecriture d'ouvrages, de livres</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100697">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1856" csRelFld="1856">
+<CSLABELFLD label="">critique d'art</CSLABELFLD>
+<MET_ID label="Identifiant">100697</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">30/10/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1856</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">critique d'art</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1856">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1854" csRelFld="1854">
+<CSLABELFLD label="">écrivain public / écrivaine publique</CSLABELFLD>
+<MET_ID label="Identifiant">100697</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">30/10/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1854</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">écrivain/e public/ique</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1854">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1855" csRelFld="1855">
+<CSLABELFLD label="">scénariste</CSLABELFLD>
+<MET_ID label="Identifiant">100697</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">30/10/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1855</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">scénariste</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1855">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="59210" csRelFld="59210">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59210</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100697</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>De la fiction à la réalité</inter>
+<p>L'écrivain écrit des fictions ou relate des histoires réelles. Ses récits peuvent être narratifs, comme les romans (historiques, policiers, de science-fiction, etc.), les biographies ou les nouvelles. Ils peuvent aussi être théâtraux (tragédies, comédies), argumentatifs (essais, pamphlets) ou graphiques (bandes dessinées, mangas). Souvent, l'écrivain se spécialise dans un seul genre. Mais il peut aussi voguer d'un genre à l'autre et écrire à la fois romans policiers et de science-fiction par exemple, ou romans d'heroic fantasy et essais.</p>
+<inter>Se documenter</inter>
+<p>Une fois le sujet de son livre défini, l'écrivain se documente, réalise des interviews, mène des enquêtes, etc. Plus il fera de repérages sur place et se frottera au réel, plus son livre sera crédible et plus le lecteur pourra s'identifier aux personnages. En général, l'écrivain lit beaucoup : cela lui permet en même temps de perfectionner son style et de s'inspirer, sans pour autant plagier.</p>
+<inter>Écrire</inter>
+<p>Lorsque le cadre, le contexte, les personnages et tous les détails du livre sont maîtrisés par l'écrivain, place à l'écriture ! Il découpe son livre en chapitres et rédige, relit, corrige, reformule, réécrit jusqu'à ce qu'il soit satisfait de son manuscrit : il l'enverra alors à des maisons d'édition pour être publié.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="59214" csRelFld="59214">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59214</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100697</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Il n'existe pas de diplôme particulier pour devenir écrivain. Cependant, une formation en lettres (type classes prépa littéraires) peut aider à perfectionner un style ou une sensibilité littéraire naissante, tout comme les ateliers d'écriture de certaines universités ou écoles.</p>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence mention lettres, science politique, philosophie, etc.</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master mention création littéraire, lettres, journalisme, philosophie, etc...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="59212" csRelFld="59212">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59212</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100697</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un statut précaire</inter>
+<p>Tous les auteurs publiés résidant en France sont assujettis ou affiliés à l'Agessa (Association pour la gestion de la sécurité sociale des auteurs) sous le statut d'artiste-auteur. Ils sont également considérés comme salariés dès lors qu'ils signent un contrat d'édition avec un éditeur. Mais obtenir un contrat est difficile et les revenus qui en découlent dépendent des ventes réalisées : très peu d'écrivains vivent de leurs écrits. La majorité exerce donc une autre activité (enseignant, journaliste, traducteur).</p>
+<inter>Comment être publié ?</inter>
+<p>Un seul moyen : envoyer son manuscrit à un maximum d'éditeurs publiant des livres du même genre. Les maisons d'édition reçoivent en effet des dizaines de manuscrits par jour. Il est donc important de les cibler, en se renseignant sur leur catalogue et en s'informant sur les tendances du marché.</p>
+<inter>Vers l'auto-édition</inter>
+<p>Certains auteurs dont le manuscrit est refusé choisissent de le publier à compte d'auteur, c'est-à-dire qu'ils paient pour être édités. Une autre solution consiste à s'auto-éditer : l'écrivain est alors son propre éditeur et s'apparente à un chef d'entreprise. Cependant, si aucun éditeur n'est prêt à payer pour publier un manuscrit, son succès est loin d'être garanti.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Variable.</p>
+<p>L'écrivain reçoit un à-valoir au moment de la signature de son contrat d'édition. Il touche ensuite des droits d'auteur sur la vente de ses livres, calculés selon un pourcentage du prix de vente (10 % en moyenne). Lors de dédicaces ou de salons, l'écrivain peut également percevoir des honoraires.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

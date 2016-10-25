@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">anatomiste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire de la recherche</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction recherche</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur santé/secteur recherche/secteur fonction publique/secteur de l'éducation</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">médecine spécialisée/biologie cellulaire</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100615</lien_onisep>
+<ROME Level="1B" csRelFld="100615">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="411" csRelFld="411">
+<CSLABELFLD label="">J1201</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Praticiens médico-techniques</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">J1201</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Biologie médicale</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100615">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1525" csRelFld="1525">
+<CSLABELFLD label="">anatomo-pathologiste</CSLABELFLD>
+<MET_ID label="Identifiant">100615</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">24/11/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1525</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">anatomo-pathologiste</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1525">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1524" csRelFld="1524">
+<CSLABELFLD label=""> neuro-anatomiste</CSLABELFLD>
+<MET_ID label="Identifiant">100615</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">24/11/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1524</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">neuro-anatomiste</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1524">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56049" csRelFld="56049">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56049</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100615</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter> Étudier le corps humain ou animal...</inter>
+<p> L'anatomiste dirige des recherches médicales ou biomédicales sur la structure, la composition biochimique, la croissance et le fonctionnement des tissus et organes du corps humain ou animal. Il recoupe une somme d'informations abondantes et formule des hypothèses. Il étudie, par exemple, les réactions des tissus vivants après des interventions médicales ou biotechnologiques (greffes d'organes, fécondations in vitro, cultures cellulaires...). </p>
+<inter>... via certaines spécialités</inter>
+<p>Certains anatomistes sont spécialisés dans un domaine précis. Par exemple, le neuro-anatomiste s'intéresse à l'anatomie du cerveau ; l'anatomo-pathologiste, aux pathologies des tissus. Ce dernier interprète les prélèvements (biopsies et frottis) pour établir la nature d'un cancer éventuel et permettre le choix du meilleur traitement. Il est parfois sollicité pour faire des autopsies d'intérêt médical. </p>
+<inter>Faire avancer la science</inter>
+<p> Il participe aux progrès thérapeutiques, produit des connaissances et des savoirs nouveaux sur l'anatomie, diffuse ses résultats en rédigeant des articles. Les échanges scientifiques tiennent une place primordiale dans l'activité de ce chercheur : il participe régulièrement à des colloques nationaux et internationaux qui lui permettent de partager ses connaissances et de les étoffer. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56053" csRelFld="56053">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56053</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100615</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p> L'anatomiste est souvent titulaire d'un diplôme d'État (DE) de docteur en médecine, avec mention d'une spécialité. Généralement, il a fait 11 ans d'études médicales à l'université, l'anatomie étant une discipline de chirurgiens et de radiologues. S'il s'intéresse à l'anatomie animale, il a un diplôme d'État (DE) de vétérinaire, avec spécialité en anatomie vétérinaire. </p>
+<liste>
+<tete> Bac + 9 et plus </tete>
+<itsimp> DES (diplôme d'études spécialisées) anatomie et cytologie pathologiques ; chirurgie </itsimp>
+<itsimp> DESV (diplôme d'études spécialisées vétérinaires) anatomie pathologique vétérinaire </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56051" csRelFld="56051">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56051</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100615</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Collaborer avec d'autres spécialistes</inter>
+<p>L'expertise de l'anatomiste n'intéresse pas uniquement la médecine : il lui arrive parfois de collaborer avec des historiens pour interpréter, par exemple, les traces laissées sur les dents et les os des hommes préhistoriques afin de déterminer leur mode d'alimentation.</p>
+<inter>D'abord le salariat</inter>
+<p>Qu'il signifie exercice hospitalier, en clinique ou au sein des centres de santé gérés par les collectivités territoriales, le salariat apparaît moins précaire et est très largement plébiscité par les jeunes diplômés, d'autant que de nouvelles cliniques se créent et que l'on manque de personnels spécialisés dans les hôpitaux...</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir de <sal>2500</sal> euros brut par mois, variable selon le lieu d'exercice et le statut. </p>
+<postit>
+<p> Source : Inserm, 2014. </p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

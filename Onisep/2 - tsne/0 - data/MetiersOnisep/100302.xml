@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">technicien/ne en traitement des déchets</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">préserver l'environnement/contrôler la qualité, expertiser</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction mesure, analyse/fonction encadrement - coordination</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique/secteur assainissement et gestion des déchets</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">traitement des déchets industriels/gestion des déchets/valorisation des déchets</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE nettoyage assainissement environnement sécurité/technicien en traitement des déchets</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100302</lien_onisep>
+<ROME Level="1B" csRelFld="100302">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="517" csRelFld="517">
+<CSLABELFLD label="">K2306</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Propreté et environnement urbain</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K2306</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Supervision d'exploitation éco-industrielle</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100302">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="19049" csRelFld="19049">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">19049</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100302</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Tri et analyse</inter>
+<p>Le technicien s'assure du bon fonctionnement de l'ensemble du processus de traitement des déchets, de l'organisation de la collecte jusqu'à la valorisation, en passant par le transport et le traitement. Il est tout particulièrement chargé du tri et de l'analyse des déchets.</p>
+<inter>Valorisation</inter>
+<p>L'objectif du tri est d'éliminer les déchets ou de les valoriser. La valorisation recouvre aussi bien le réemploi (emballages consignés, par exemple), la réutilisation (nouvel emploi pour un usage différent), le recyclage que l'utilisation des déchets comme source d'énergie.</p>
+<inter>Surveillance</inter>
+<p>Le technicien effectue régulièrement des prélèvements et analyse ces échantillons pour vérifier le bon déroulement des opérations de traitement. Il s'occupe aussi de la caractérisation des déchets et synthétise l'ensemble des données recueillies.</p>
+<p>Le technicien peut également avoir à évaluer la capacité d'un site à recueillir des déchets toxiques et dangereux. Il peut participer à l'instauration d'un chantier (mise en place d'une collecte sélective des ordures, par exemple). Il doit également être capable d'évaluer le coût de traitement de tel ou tel type de déchets.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17217" csRelFld="17217">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17217</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100302</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Pour devenir technicien en traitement des déchets, il faut être titulaire d'un diplôme de niveau bac + 2 au minimum.</accr_p>
+</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS et DUT des secteurs de la chimie, biochimie, biologie, électromécanique, hydraulique ou plasturgie</itsimp>
+<itsimp>DEUST environnement et déchets</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence pro chimie analytique, contrôle, qualité, environnement</itsimp>
+<itsimp>Licence pro génie des procédés pour l'environnement</itsimp>
+<itsimp>Licence pro métiers de la protection et de la gestion de l'environnement</itsimp>
+<itsimp>Licence pro métiers de l'énergétique, de l'environnement et du génie climatique</itsimp>
+<itsimp>Licence pro qualité, hygiène, sécurité, santé, environnement</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="19051" csRelFld="19051">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">19051</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100302</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Privé et public</inter>
+<p>Le technicien en traitement des déchets est employé par une collectivité territoriale ou par une entreprise industrielle privée qui possède son propre système de retraitement. Cette dernière est le plus souvent sous contrat avec une commune, un département ou une région. Il peut aussi faire partie d'un bureau d'études. Les laboratoires, les décharges, les sociétés de collecte sont également des employeurs potentiels. Selon les cas, il peut animer une équipe d'agents, sous la responsabilité d'un ingénieur.</p>
+<inter>Des perspectives d'emploi </inter>
+<p>Aujourd'hui, le domaine de la collecte, du traitement et du recyclage des déchets est en plein essor avec la mise en place systématique du traitement des déchets. Les quantités n'ont cessé d'augmenter ; la nature des déchets à traiter est de plus en plus stricte. La tendance est à la progression des effectifs dans les entreprises privées au détriment des emplois publics.</p>
+<inter>Des évolutions de carrière</inter>
+<p>Après plusieurs années d'expérience, un technicien peut devenir responsable d'un service ou d'un site de traitement des déchets et prendre en charge sa gestion et son développement. Il est alors fréquemment en contact avec les élus locaux, les industriels et les associations.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Autour de <sal>1500</sal> euros brut/mois.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

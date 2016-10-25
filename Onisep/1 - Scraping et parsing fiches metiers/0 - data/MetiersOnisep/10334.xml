@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e chimiste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire de la recherche/coordonner l'activité d'une équipe/concevoir, utiliser des technologies industrielles de pointe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction recherche appliquée/fonction conduite de projet/fonction organisation de la production industrielle/fonction recherche fondamentale/fonction études développement industriel /fonction qualité/fonction technico commercial/fonction essais/fonction méthodes industrialisation</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie pharmaceutique/secteur industrie agroalimentaire/secteur transformation des matières plastiques/secteur textile habillement/secteur recherche/secteur industrie du verre/secteur environnement/secteur industrie chimique/secteur énergie</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">électrochimie/génie chimique/chimie physique/chimie organique/chimie moléculaire/chimie minérale/chimie analytique/parachimie/matériaux</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE matériaux laboratoire organisation industrielle/ingénieur chimiste</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10334</lien_onisep>
+<ROME Level="1B" csRelFld="10334">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="320" csRelFld="320">
+<CSLABELFLD label="">H2502</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Direction, encadrement et pilotage de fabrication et production industrielles</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2502</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie de production</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10334">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1156" csRelFld="1156">
+<CSLABELFLD label="">ingénieur / ingénieure de recherche en chimie</CSLABELFLD>
+<MET_ID label="Identifiant">10334</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">21/04/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1156</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">ingénieur/e de recherche en chimie</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1156">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18010" csRelFld="18010">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18010</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10334</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Concevoir et encadrer</inter>
+<p>L'ingénieur chimiste conçoit les matières et composants de notre quotidien (médicaments, cosmétiques, plastiques, textiles...). Il intervient à différentes étapes de la vie de ces produits : recherche et développement, production, contrôle qualité, technico-commercial... Dans un bureau d'études et de génie chimique, il conçoit les appareillages en vue de la fabrication de produits alimentaires, parfums... et définit des process. En laboratoire, il trouve des molécules, ou formule de nouveaux produits, analyse les matières premières et les produits finis. En production, il peut encadrer une équipe. Il a aussi un rôle important à jouer en sécurité, hygiène, assurance qualité, gestion de l'environnement.</p>
+<inter>Fabriquer des produits, créer des molécules</inter>
+<p>Dans la chimie lourde (ou de base), l'ingénieur chimiste fabrique des produits comme l'éthylène, le benzène, la soude. En chimie fine, il crée des molécules complexes comme les principes actifs des médicaments ou des produits phytosanitaires, colorants, arômes... En parachimie, il participe à l'élaboration de peintures, laques, résines...</p>
+<inter>Analyser, interpréter, diffuser</inter>
+<p>L'ingénieur chimiste analyse, interprète des résultats et rédige ensuite des notes techniques et des rapports, des protocoles d'utilisation des matériels. Il effectue également une veille scientifique.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18020" csRelFld="18020">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18020</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10334</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Si les universités offrent des cursus complets en chimie, l'industrie chimique semble privilégier l'embauche de jeunes ingénieurs. Une soixantaine d'écoles d'ingénieurs proposent soit des cursus complets, soit des enseignements de dernière année sous la forme d'options ou de spécialisations en chimie, génie chimique, biochimie ou dans un domaine proche de la chimie (génie alimentaire, textile, génie pharmaceutique...). On y accède le plus souvent sur concours après une classe préparatoire scientifique ou, pour certaines écoles ayant des cycles préparatoires intégrés, directement après le bac. Par ailleurs, il est possible d'intégrer une école après avoir validé une licence (mentions chimie, physique et chimie, sciences pour l'ingénieur), un DUT (diplôme universitaire de technologie chimie ; génie chimique) ou un BTS (brevet de technicien supérieur chimiste ; peinture, encres et adhésifs).</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master pro spécialités formulation et chimie industrielle ; chimie fine ; chimie et physico-chimie du médicament ; contrôle et analyse chimique ; analyses chimique et spectroscopique ; sciences de la matière ; pollution chimique ; électrochimie ; chimie et procédés...</itsimp>
+<itsimp>Diplôme d'école d'ingénieurs (Chimie Paris Tech, CPE Lyon, ECPM, Ensait, ENSCCF...)</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18012" csRelFld="18012">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18012</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10334</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Multiplier les stages</inter>
+<p>Rien de tel que les stages pour s'insérer dans le milieu de la chimie. En plus de ceux qui sont obligatoires, certaines écoles d'ingénieurs proposent à leurs élèves 1 an de césure entre la 2<exp>e</exp> et 3<exp>e</exp> année afin de développer leur expérience professionnelle. Ainsi, plus de 40 % des élèves ingénieurs trouvent un emploi avant la fin de leurs études, selon l'Unafic (Union nationale des associations françaises d'ingénieurs chimistes).</p>
+<inter>Des bassins d'emplois</inter>
+<p>Le secteur de la chimie compte 3230 entreprises dont 88 % de TPE-PME d'après l'UIC (Union des industries chimiques). Elles sont présentes sur tout le territoire français mais se concentrent en Ile-de-France, Rhône-Alpes, Provence-Alpes-Côte d'Azur, Nord-Pas-de-Calais et Aquitaine (source : Opic - Observatoire des industries chimiques). Du fait de la régionalisation des spécialités (chimie en Rhône-Alpes, agroalimentaire en Bretagne et Pays de la Loire...), les ingénieurs de la fonction production doivent être géographiquement mobiles.</p>
+<inter>Recherche et développement pour débuter</inter>
+<p>50 % des jeunes diplômés se tournent vers la recherche et développement, d'après la Fédération Gay-Lussac (la fédération regroupe 19 écoles d'ingénieurs spécialisées en chimie et en génie chimique). 20 % optent pour la production : ils peuvent alors encadrer une équipe. Avec l'expérience, un ingénieur chimiste acquiert des responsabilités en matière de sécurité, hygiène, qualité, etc. Il peut aussi se diriger vers le management ou le technico-commercial.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Dans le secteur privé : <sal>2800</sal> euros brut par mois.</p>
+<postit>
+<p>Source : convention collective nationale des industries chimiques (barème au 1<exp>er</exp> janvier 2012 pour 38 heures).</p>
+</postit>
+<p>Dans le secteur public : 1713 euros brut par mois pour un ingénieur d'études ; 1965 euros brut par mois pour un ingénieur de recherche.</p>
+<postit>
+<p>Source : grille indiciaire de salaire du CNRS.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

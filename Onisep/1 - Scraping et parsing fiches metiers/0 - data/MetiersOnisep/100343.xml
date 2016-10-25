@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">pilote de ligne automatisée (chimie - agroalimentaire - industrie pharmaceutique)</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">concevoir, utiliser des technologies industrielles de pointe/fabriquer, construire/coordonner l'activité d'une équipe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction fabrication industrielle</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie chimique/secteur industrie agroalimentaire/secteur industrie pharmaceutique/secteur transformation des matières plastiques</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">fonction production/fabrication/automatismes</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE matériaux laboratoire organisation industrielle/pilote de ligne automatisée</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100343</lien_onisep>
+<ROME Level="1B" csRelFld="100343">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="301" csRelFld="301">
+<CSLABELFLD label="">H2301</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Chimie et pharmacie</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2301</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Conduite d'équipement de production chimique ou pharmaceutique</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100343">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="31342" csRelFld="31342">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31342</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100343</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+   <inter>Fabriquer en continu</inter>
+   <p>Dans une usine de biscuits, de médicaments ou de plastiques, la fabrication du produit s'effectue en continu sur un ensemble de machines automatisées (les lignes de fabrication). Le pilote de ligne automatisée contrôle l'ensemble des opérations permettant de transformer les matières premières solides ou liquides en un produit fini.</p>
+   <inter>Commander les installations</inter>
+   <p>Chaque matin, le pilote consulte les consignes de production à respecter (quantités, cadences, normes de qualité...). Il intègre les données (température, débit, pression, etc.) dans le programme informatique qui gère le système. La production lancée, il surveille le déroulement des opérations sur un écran, effectue les contrôles de qualité en prélevant des échantillons à différentes étapes de la fabrication. Il peut identifier les anomalies en cours d'opération et les rectifier.</p>
+   <inter>Conditionner les produits</inter>
+   <p>Dans l'industrie pharmaceutique ou agroalimentaire, le même type d'opérations se répète pour le conditionnement : le pilote de ligne réceptionne des produits (gélules, biscuits, etc.) en vrac et assure leur mise sous emballage (papier cartonné, plastique...).</p>
+  </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="31346" csRelFld="31346">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31346</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100343</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Les pilotes débutent de plus en plus avec un bac professionnel. Automatisation oblige.</accr_p> Il est encore possible de débuter en tant qu'opérateur et de suivre, ensuite, une formation sanctionnée par un certificat de qualification professionnelle (CQP), reconnu par les branches professionnelles. À l'inverse, des diplômés de BTS et DUT du secteur industriel peuvent faire valoir leur niveau d'études pour évoluer plus facilement dans l'entreprise en tant que responsables d'atelier.</p>
+<inter>Niveau bac</inter>
+<liste>
+<itsimp>
+<em>Bac pro</em> pilotage de systèmes de production automatisée ; bio-industries de transformation ; industries de procédés.</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="31344" csRelFld="31344">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31344</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100343</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des recrutements dans l'agroalimentaire</inter>
+<p>Une grande part des offres recensées par l'Apecita (Association pour l'emploi des cadres ingénieurs et techniciens de l'agroalimentaire) concernent les métiers de process, dont plus de la moitié en production, dans les entreprises de l'agroalimentaire (13 400 entreprises en France, dont 4 500 dans l'Ouest). </p>
+<inter>Surtout des PME</inter>
+<p>Les industries de la chimie et de l'agroalimentaire font se côtoyer PME (petites et moyennes entreprises) et grands groupes. Par exemple, on compte plus de 3 000 entreprises dont 60 % de petites entreprises comptant moins de 10 salariés, selon l'Observatoire de la chimie, implantées surtout en Ile-de-France et dans la région Rhône-Alpes, mais aussi dans le Nord-Pas-de-Calais et les régions méridionales. </p>
+<inter>Des exigences à la hausse</inter>
+<p>L'automatisation des procédés de fabrication a accru les exigences à l'embauche. Les entreprises attendent de leurs techniciens une maîtrise des technologies de contrôle et de conduite. Après quelques années d'expérience et une formation, les pilotes de ligne automatisée peuvent évoluer vers des postes de chef d'équipe ou de responsable d'atelier de production.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir du <sal>Smic</sal> et jusqu'à 1500 euros brut par mois.</p>
+<p>Dans l'industrie laitière par exemple, au Smic s'ajoutent des primes de nuit et du dimanche.</p>
+<postit>
+<p>Source : Apecita, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

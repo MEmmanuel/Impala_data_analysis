@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">géologue modélisateur/trice</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe/faire de la recherche/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur recherche/secteur sociétés d'ingénierie et d'études techniques/secteur énergie/secteur environnement/secteur fonction publique/secteur de l'éducation/secteur bâtiment travaux publics</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">géologie appliquée</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100581</lien_onisep>
+<ROME Level="1B" csRelFld="100581">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100581">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="55472" csRelFld="55472">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55472</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100581</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>L'étude des données</inter>
+<p>Avant de procéder à la modélisation informatique, le géologue modélisateur analyse un grand nombre de données (relevés cartographiques, sondages, données sismiques, etc.) qu'il doit organiser dans une base de données avant de pouvoir les interpréter. Il se rend également sur le terrain pour relever des échantillons.</p>
+<inter>La simulation 3D</inter>
+<p>Après cette première étape, le géologue modélisateur reproduit et fait évoluer ce qu'il a pu observer, grâce à des logiciels 3D spécialisés. Selon le secteur d'activité dans lequel il travaille, il peut, par exemple, simuler les migrations d'un produit polluant dans le sol, reproduire une faille terrestre et étudier son évolution possible grâce à des calculs savants, réaliser un puits de forage en trois dimensions, ou encore modéliser les effets possibles d'une inondation.</p>
+<inter>Des résultats très concrets</inter>
+<p>Son travail permet de visualiser ce qui se passe sous la croûte terrestre, et ses applications sont multiples. Ainsi, dans le secteur minier, le géologue modélisateur aide à trouver des gisements et à rendre les forages plus sûrs. Dans le domaine de l'environnement, il contribue à la prévention des crues ou des pollutions.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55476" csRelFld="55476">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55476</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100581</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>La plupart des géologues modélisateurs sont titulaires d'un bac + 5 : master ou diplôme d'ingénieur (École des mines de Nancy, Eost de Strasbourg, Institut polytechnique LaSalle Beauvais, INP Bordeaux, etc.). Avec un bac + 2 (BTS géologie appliquée, par exemple), ils accèdent le plus souvent à des postes de technicien ou d'assistant.</p>
+<liste>
+<tete>Niveau bac + 5 </tete>
+<itsimp>Master dans le domaine des sciences de la Terre et de l'univers, des géosciences, ou de l'environnement avec spécialisation en géologie ou géologie appliquée </itsimp>
+<itsimp>Diplôme d'ingénieur spécialisé en géologie </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55474" csRelFld="55474">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55474</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100581</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Une carrière à l'international</inter>
+<p>L'industrie minière est un secteur porteur pour les modélisateurs, à condition qu'ils acceptent de s'expatrier dans les pays producteurs. Le Comité de main-d'oeuvre du secteur minier du Canada estime, par exemple, qu'il aura besoin de plusieurs centaines de géologues d'ici 2020. Mais des emplois se trouvent également en France, en bureau d'études, dans les centres de recherche ou les services décentralisés de l'État. Le BRGM (Bureau de recherches géologiques et minières) recrute plusieurs dizaines de salariés chaque année dans le domaine des géosciences.</p>
+<inter>Une évolution du métier</inter>
+<p>Si, jusque dans les années 1990, la modélisation portait essentiellement sur l'évaluation quantitative d'une ressource et l'optimisation de son exploitation, le métier s'est enrichi en englobant l'analyse de la qualité et les risques de pollution. Des secteurs qui, eux aussi, emploient des modélisateurs. Si la plupart des emplois en géologie se font à bac + 5, il est cependant possible de démarrer avec un bac + 2 spécialisé, en tant que technicien ou assistant.</p>
+<inter>Se former pour durer</inter>
+<p>La formation continue et la veille technologique sont indispensables pour rester informé et évoluer dans ce métier de pointe.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2000</sal> à 2900 euros brut par mois. Le secteur pétrolier et minier offre les salaires les plus avantageux, surtout pour les postes à l'étranger.</p>
+<postit>
+<p>Source : Société géologique de France, 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

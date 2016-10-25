@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">modéliste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un métier artistique ou créatif/exercer un travail manuel/travailler un matériau/fabriquer, construire</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/artisan</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction fabrication artisanale</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur textile habillement/secteur artisanat d'art</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">art de la mode/modélisme habillement/vêtement sur mesure/textile/industrie de l'habillement/fourrure pelleterie/cuirs et peaux</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE textile habillement cuir/modéliste</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10393</lien_onisep>
+<ROME Level="1B" csRelFld="10393">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="264" csRelFld="264">
+<CSLABELFLD label="">H1205</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception, recherche, études et développement</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H1205</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Études - modèles en industrie des matériaux souples</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10393">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1495" csRelFld="1495">
+<CSLABELFLD label="">toiliste</CSLABELFLD>
+<MET_ID label="Identifiant">10393</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">20/10/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1495</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">toiliste</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1495">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16462" csRelFld="16462">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16462</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10393</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Mettre le vêtement en forme</inter>
+<p>Muni de ciseaux et d'épingles, le modéliste commence par placer une toile en coton écrue sur un mannequin " en pied ". Il construit le modèle en volume et met au point les différentes pièces. La toile est ajustée, découpée, épinglée et drapée conformément au " tombé " souhaité par le styliste. Une fois l'habit monté, le modéliste trace les lignes qui serviront à dessiner le patron. Enfin, il détermine la place des coutures, de l'encolure, des plis, des emmanchures, des poches et des boutonnières.</p>
+<inter>Établir un patron</inter>
+<p>Le modéliste réalise ensuite le patron de papier avec les indications nécessaires à la réalisation du prototype (ou modèle) : lignes de poitrine, de hanche, largeurs de couture... Le patron doit être clair et logique pour faciliter le montage des pièces découpées dans le tissu. Tout cela peut être réalisé par transformation à plat sur papier, selon les principes du dessin industriel.</p>
+<inter>Procéder aux ajustements</inter>
+<p>Le prototype exécuté, le modéliste peut au besoin le modifier, l'ajuster, faire évoluer les formes... parfois directement sur ordinateur. Puis il rédige une fiche technique sur les caractéristiques du vêtement. La fabrication en série peut alors commencer. Ce travail varie de quelques heures à plusieurs jours selon la complexité du modèle.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16463" csRelFld="16463">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16463</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10393</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Si le bac pro constitue le niveau minimum requis, le BTS favorise l'accès à un emploi de modéliste. Il existe aussi de nombreuses écoles de stylisme-modélisme, dont le coût et la qualité sont variables. La plupart d'entre elles proposent une double formation en stylisme et modélisme. </p>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>Bac pro métiers de la mode-vêtements</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS métiers de la mode option vêtement</itsimp>
+<itsimp>Certificats d'écoles privées</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Certificats d'écoles privées</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16460" csRelFld="16460">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16460</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10393</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Qualification appréciée</inter>
+<p>Un modéliste qualifié est plus recherché qu'un styliste. Aussi, les débouchés ne manquent pas chez les façonniers, les maisons de haute couture, les grands magasins qui possèdent leur propre marque, et les bureaux de style indépendants. </p>
+<inter>Une persévérance payante</inter>
+<p>Le secteur de la mode suscite de nombreuses vocations. La concurrence se révèle rude, et les jeunes diplômés débutent souvent avec un poste d'assistant, les entreprises leur préférant des modélistes expérimentés. Le débutant commence donc très souvent comme tailleur, couturier ou dessinateur, avant d'obtenir un poste de modéliste. </p>
+<inter>Des perspectives d'évolution</inter>
+<p>Le modéliste construit sa carrière en intégrant des entreprises de plus en plus renommées ou en changeant de poste au sein d'une même structure. Il peut passer premier d'atelier et diriger une équipe de modélistes, de couturiers, de patronniers, de coupeurs, de mécaniciens modèle, ou bien devenir technicien produit. Avec de l'expérience, il peut aussi s'installer en indépendant. Il lui faudra alors assurer la gestion des clients, la comptabilité de l'entreprise et toutes les formalités administratives.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>Smic</sal>.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

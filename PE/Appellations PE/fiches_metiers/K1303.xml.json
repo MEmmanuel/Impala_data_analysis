@@ -1,0 +1,545 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Accueillant familial/Accueillante familiale aupr\u00e8s d'enfants",
+            "priorisation": "1",
+            "libelle": "Accueillant familial / Accueillante familiale aupr\u00e8s d'enfants",
+            "code_ogr": "10238"
+        },
+        {
+            "libelle_court": "Accueillant(e) familial(e) th\u00e9rapeutique aupr\u00e8s d'enfants",
+            "priorisation": "1",
+            "libelle": "Accueillant familial / Accueillante familiale th\u00e9rapeutique aupr\u00e8s d'enfants",
+            "code_ogr": "10240"
+        },
+        {
+            "libelle_court": "Agent sp\u00e9cialis\u00e9/Agente sp\u00e9cialis\u00e9e des \u00e9coles maternelles",
+            "priorisation": "1",
+            "libelle": "Agent sp\u00e9cialis\u00e9 / Agente sp\u00e9cialis\u00e9e des \u00e9coles maternelles -ASEM-",
+            "code_ogr": "10756"
+        },
+        {
+            "libelle_court": "Agent sp\u00e9cialis\u00e9 / Agente sp\u00e9cialis\u00e9e des \u00e9coles primaires",
+            "priorisation": "1",
+            "libelle": "Agent sp\u00e9cialis\u00e9 / Agente sp\u00e9cialis\u00e9e des \u00e9coles primaires",
+            "code_ogr": "10757"
+        },
+        {
+            "libelle_court": "Aide maternel / maternelle de cr\u00e8che - halte garderie",
+            "priorisation": "1",
+            "libelle": "Aide maternel / maternelle de cr\u00e8che - halte garderie",
+            "code_ogr": "38633"
+        },
+        {
+            "libelle_court": "Aide maternel / maternelle d'\u00e9cole",
+            "priorisation": "1",
+            "libelle": "Aide maternel / maternelle d'\u00e9cole",
+            "code_ogr": "10854"
+        },
+        {
+            "libelle_court": "Assistant / Assistante accueil petite enfance",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante accueil petite enfance",
+            "code_ogr": "11180"
+        },
+        {
+            "libelle_court": "Assistant  maternel agr\u00e9\u00e9 / Assistante maternelle agr\u00e9\u00e9e",
+            "priorisation": "1",
+            "libelle": "Assistant  maternel agr\u00e9\u00e9 / Assistante maternelle agr\u00e9\u00e9e",
+            "code_ogr": "38088"
+        },
+        {
+            "libelle_court": "Assistant familial / Assistante familiale",
+            "priorisation": "1",
+            "libelle": "Assistant familial / Assistante familiale",
+            "code_ogr": "11287"
+        },
+        {
+            "libelle_court": "Assistant maternel / Assistante maternelle",
+            "priorisation": "1",
+            "libelle": "Assistant maternel / Assistante maternelle",
+            "code_ogr": "11304"
+        },
+        {
+            "libelle_court": "Assistant maternel / Assistante maternelle \u00e0 domicile",
+            "priorisation": "1",
+            "libelle": "Assistant maternel / Assistante maternelle \u00e0 domicile",
+            "code_ogr": "11305"
+        },
+        {
+            "libelle_court": "Assistant(e) maternel(le) du particulier employeur",
+            "priorisation": "1",
+            "libelle": "Assistant maternel / Assistante maternelle du particulier employeur",
+            "code_ogr": "11306"
+        },
+        {
+            "libelle_court": "Assistant(e) maternel(le) en famille d'accueil",
+            "priorisation": "1",
+            "libelle": "Assistant maternel / Assistante maternelle en famille d'accueil",
+            "code_ogr": "11307"
+        },
+        {
+            "libelle_court": "Auxiliaire de vie sociale aupr\u00e8s d'enfants",
+            "priorisation": "1",
+            "libelle": "Auxiliaire de vie sociale aupr\u00e8s d'enfants",
+            "code_ogr": "11455"
+        },
+        {
+            "libelle_court": "Auxiliaire parental / parentale",
+            "priorisation": "1",
+            "libelle": "Auxiliaire parental / parentale",
+            "code_ogr": "11462"
+        },
+        {
+            "libelle_court": "Baby-sitter",
+            "priorisation": "1",
+            "libelle": "Baby-sitter",
+            "code_ogr": "11480"
+        },
+        {
+            "libelle_court": "Educateur familial / Educatrice familiale",
+            "priorisation": "1",
+            "libelle": "Educateur familial / Educatrice familiale",
+            "code_ogr": "14594"
+        },
+        {
+            "libelle_court": "Employ\u00e9 / Employ\u00e9e au pair",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 / Employ\u00e9e au pair",
+            "code_ogr": "14750"
+        },
+        {
+            "libelle_court": "Employ\u00e9 familial / Employ\u00e9e familiale aupr\u00e8s d'enfants",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 familial / Employ\u00e9e familiale aupr\u00e8s d'enfants",
+            "code_ogr": "14804"
+        },
+        {
+            "libelle_court": "Garde d'enfant \u00e0 domicile",
+            "priorisation": "1",
+            "libelle": "Garde d'enfant \u00e0 domicile",
+            "code_ogr": "15196"
+        },
+        {
+            "libelle_court": "Gouvernant / Gouvernante d'enfant \u00e0 domicile",
+            "priorisation": "1",
+            "libelle": "Gouvernant / Gouvernante d'enfant \u00e0 domicile",
+            "code_ogr": "15383"
+        },
+        {
+            "libelle_court": "Ma\u00eetre / Ma\u00eetresse de maison d'enfants",
+            "priorisation": "1",
+            "libelle": "Ma\u00eetre / Ma\u00eetresse de maison d'enfants",
+            "code_ogr": "16326"
+        },
+        {
+            "libelle_court": "Nourrice",
+            "priorisation": "1",
+            "libelle": "Nourrice",
+            "code_ogr": "16999"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Pr\u00e9parer et donner un repas, une boisson \u00e0 l'enfant",
+            "code_ogr": "2579",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Entretenir les espaces de vie et le linge de l'enfant",
+            "code_ogr": "1811",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der \u00e0 la toilette et aux soins de l'enfant",
+            "code_ogr": "2694",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Procurer \u00e0 l'enfant des \u00e9l\u00e9ments de confort, de r\u00e9confort (bercement, doudou, ...)",
+            "code_ogr": "2723",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accompagner l'enfant dans l'apprentissage des gestes de la vie quotidienne",
+            "code_ogr": "549",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Animer les activit\u00e9s ludiques ou aider l'enfant lors d'activit\u00e9s d'\u00e9veil et d'apprentissage",
+            "code_ogr": "690",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Observer le comportement et l'\u00e9volution de l'enfant et informer parents, familles, enseignants",
+            "code_ogr": "3001",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "7",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "J1301",
+            "libelle_rome_cible": "Personnel polyvalent des services hospitaliers"
+        },
+        {
+            "code_rome_cible": "K1302",
+            "libelle_rome_cible": "Assistance aupr\u00e8s d'adultes"
+        },
+        {
+            "code_rome_cible": "K1304",
+            "libelle_rome_cible": "Services domestiques"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP dans le secteur de l'aide sociale et familiale (petite enfance, carri\u00e8res sanitaires et sociales, ...).\nIl l'est \u00e9galement avec une exp\u00e9rience professionnelle aupr\u00e8s des enfants.\nUn agr\u00e9ment renouvelable d\u00e9livr\u00e9 par le Conseil G\u00e9n\u00e9ral du d\u00e9partement de r\u00e9sidence est requis pour le poste d'assistante maternelle agr\u00e9\u00e9e ou PMI.\nDes vaccinations sp\u00e9cifiques (H\u00e9patite B, DTPolio, ...) peuvent \u00eatre requises.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Intervenir aupr\u00e8s d'enfants :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nourrisson de 0 \u00e0 3 ans",
+            "code_ogr": "6296",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "de 3 \u00e0 6 ans",
+            "code_ogr": "6292",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "de 6 \u00e0 10 ans",
+            "code_ogr": "6293",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "de + de 10 ans",
+            "code_ogr": "6291",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "malades",
+            "code_ogr": "6294",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "maltrait\u00e9s",
+            "code_ogr": "6295",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "avec handicap (moteur, mental)",
+            "code_ogr": "6290",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Distribuer ou administrer des m\u00e9dicaments \u00e0 un enfant selon une prescription m\u00e9dicale",
+            "code_ogr": "4811",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accueillir l'enfant et le guider \u00e0 son arriv\u00e9e dans la structure",
+            "code_ogr": "3497",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller le d\u00e9roulement des devoirs d'un enfant scolaris\u00e9 ou apporter une aide",
+            "code_ogr": "9895",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mettre en oeuvre des exercices pour un enfant d\u00e9ficient selon un protocole th\u00e9rapeutique",
+            "code_ogr": "7443",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les documents de suivi de la personne et \u00e9changer des informations avec l'\u00e9quipe, la famille, l'administration, le personnel soignant, le magistrat",
+            "code_ogr": "3597",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Constituer et actualiser une documentation professionnelle \u00e0 destination d'enfants ou de parents",
+            "code_ogr": "4167",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au domicile de particuliers, au sein d'\u00e9tablissements (scolaires, collectivit\u00e9s territoriales, villages d'enfants), d'associations, ... en contact avec diff\u00e9rents intervenants (parents, personnel param\u00e9dical/social, enseignant, ...).\nElle s'exerce dans une relation d'aide et de services.\nElle peut varier selon la structure (particulier employeur, collectivit\u00e9, ...), le lieu (domicile des parents, domicile de l'assistante maternelle, \u00e9cole, \u00e9tablissement, ...), le type de garde (partag\u00e9e, simple, ...) et l'\u00e2ge des enfants.\nElle peut s'exercer les fins de semaine, jours f\u00e9ri\u00e9s, ou de nuit.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Relation \u00e0 l'enfant",
+            "code_ogr": "21079",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Manipulation de produits de nettoyage et d'entretien",
+            "code_ogr": "20975",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Accueil collectif de mineurs (ACM)",
+            "code_ogr": "23780",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Association",
+            "code_ogr": "23706",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Centre de Protection Maternelle et Infantile",
+            "code_ogr": "23774",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise",
+            "code_ogr": "23867",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement scolaire",
+            "code_ogr": "23924",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Particulier employeur",
+            "code_ogr": "38127",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Structure d'accueil petite enfance",
+            "code_ogr": "24109",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Education / Enseignement",
+            "code_ogr": "23473",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9dical",
+            "code_ogr": "23554",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9dicosocial",
+            "code_ogr": "23555",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Services \u00e0 la personne",
+            "code_ogr": "23637",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Au domicile de l'intervenant",
+            "code_ogr": "23374",
+            "code_type_section_env": "3"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Au domicile de particulier",
+            "code_ogr": "23375",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'\u00e9veil de l'enfant",
+            "code_ogr": "23205",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en psychologie de l'enfant",
+            "code_ogr": "21909",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pathologies de l'enfant",
+            "code_ogr": "22274",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Di\u00e9t\u00e9tique",
+            "code_ogr": "21781",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de propret\u00e9",
+            "code_ogr": "22647",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9 domestique",
+            "code_ogr": "22624",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes d'urgence et de secours",
+            "code_ogr": "21991",
+            "position_item": "7",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nAide les enfants dans la r\u00e9alisation des actes de la vie quotidienne (habillage, prise de repas...).\nM\u00e8ne avec eux des activit\u00e9s d'\u00e9veil (jeux, apprentissage de la vie collective...).\nPeut effectuer l'entretien du cadre de vie des enfants.\n",
+    "intitule": "Assistance aupr\u00e8s d'enfants",
+    "code_ogr": "377",
+    "code_rome": "K1303",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "G1203",
+            "libelle_rome_cible": "Animation de loisirs aupr\u00e8s d'enfants ou d'adolescents"
+        },
+        {
+            "code_rome_cible": "G1502",
+            "libelle_rome_cible": "Personnel polyvalent d'h\u00f4tellerie"
+        },
+        {
+            "code_rome_cible": "J1303",
+            "libelle_rome_cible": "Assistance m\u00e9dico-technique"
+        },
+        {
+            "code_rome_cible": "J1304",
+            "libelle_rome_cible": "Aide en pu\u00e9riculture"
+        },
+        {
+            "code_rome_cible": "J1501",
+            "libelle_rome_cible": "Soins d'hygi\u00e8ne, de confort du patient"
+        },
+        {
+            "code_rome_cible": "K1202",
+            "libelle_rome_cible": "\u00c9ducation de jeunes enfants"
+        }
+    ]
+}

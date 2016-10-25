@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">consultant/e en conduite de changement</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire/indépendant</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur audit conseil/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">informatique/gestion des ressources humaines/biologie/chimie/sciences économiques</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100647</lien_onisep>
+<ROME Level="1B" csRelFld="100647">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100647">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56518" csRelFld="56518">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56518</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100647</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter> Poser un diagnostic </inter>
+<p>Le consultant en conduite de changement diagnostique les insuffisances d'organisation au sein d'une entreprise. En fonction de la demande qui lui a été faite, il préconise les améliorations à apporter. </p>
+<p>Pour ce faire, il étudie d'abord la structure de l'entreprise, afin d'en comprendre l'organisation et de déterminer les compétences du personnel. Un processus de production, d'archivage, ou un système d'information par exemple, peuvent faire l'objet d'une étude systématique pour évaluer leur efficacité et identifier les problèmes potentiels. Le consultant relève les points faibles, les goulets d'étranglement et les procédures inadéquates, puis mesure l'impact des évolutions potentielles du système sur l'organisation et le travail des employés. </p>
+<inter> Accompagner le changement</inter>
+<p> Lorsque l'organisation est démontrée insatisfaisante, à lui de faire des propositions d'évolution, des systèmes utilisés aussi bien que des procédures et des méthodes de travail. Il définit les mesures à prendre en termes d'organisation du travail, de management, de communication, de recrutement, de formation ou de mobilité, et propose un plan d'accompagnement. </p>
+<p>Son objectif est d'obtenir une adéquation maximale entre les compétences humaines et les systèmes mis en place dans l'entreprise. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56522" csRelFld="56522">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56522</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100647</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p> Selon le domaine d'intervention, le niveau de formation se situe à bac + 5 dans l'informatique, la chimie, la biologie, la mécanique, l'économie ou encore les ressources humaines. Une solide formation informatique est généralement nécessaire. Quelques exemples de diplômes pertinents : </p>
+<liste>
+<tete> Niveau bac + 5 </tete>
+<itsimp> Diplôme d'ingénieur en chimie, biologie, informatique, mécanique... </itsimp>
+<itsimp> Diplôme d'école supérieure de commerce</itsimp>
+<itsimp>Master en aménagement, urbanisme et durabilité des territoires ; génie civil ; génie industriel ; ingénierie des matériaux et des procédés ; sciences du médicament ; gestion et pilotage de la production...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56520" csRelFld="56520">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56520</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100647</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter> En cabinet de conseil ou en ESN </inter>
+<p> On constate aujourd'hui une élévation générale des niveaux de qualité des procédures métiers, due notamment à la mondialisation. Appelées aussi procédures d'entreprise ou " business process ", elles désignent un enchaînement d'actions permettant la satisfaction d'une demande. Il y en a plusieurs types : par exemple, les procédures de remboursement de notes de frais, les procédures de commande des clients, d'envoi d'un colis... Bref, toutes ces procédures ou presque sont modélisables dans l'entreprise, le but étant de favoriser l'efficacité et les économies. De nombreux cabinets de conseil en organisation ou en qualité emploient donc des consultants en conduite de changement. Les ESN (entreprises de services du numérique), spécialistes des changements technologiques et informatiques (transformation de systèmes d'information), sont un autre employeur potentiel. </p>
+<inter> Dans la fonction publique </inter>
+<p> Les consultants en conduite de changement travaillant dans la fonction publique d'État sont recrutés sur concours. La fonction publique territoriale recrute, également sur concours, des conseillers en organisation amenés à accompagner la mise en oeuvre du changement. Il s'agit d'ingénieurs territoriaux de catégorie A. </p>
+<remun>
+<inter> Salaire du débutant </inter>
+<p>
+<sal>2916</sal> euros brut par mois dans le privé.</p>
+<postit>
+<p>Source: non communiquée.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

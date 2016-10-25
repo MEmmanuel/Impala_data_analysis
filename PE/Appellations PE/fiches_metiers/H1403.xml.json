@@ -1,0 +1,657 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente de lancement en industrie",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de lancement en industrie",
+            "code_ogr": "10470"
+        },
+        {
+            "libelle_court": "Agent / Agente de lancement-planification en industrie",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de lancement-planification en industrie",
+            "code_ogr": "10471"
+        },
+        {
+            "libelle_court": "Agent / Agente de planification en industrie",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de planification en industrie",
+            "code_ogr": "10544"
+        },
+        {
+            "libelle_court": "Agent / Agente de pr\u00e9paration en industrie",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de pr\u00e9paration en industrie",
+            "code_ogr": "10553"
+        },
+        {
+            "libelle_court": "Agent / Agente d'ordonnancement en industrie",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'ordonnancement en industrie",
+            "code_ogr": "10731"
+        },
+        {
+            "libelle_court": "Agent(e) d'ordonnancement et de planification en industrie",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'ordonnancement et de planification en industrie",
+            "code_ogr": "10732"
+        },
+        {
+            "libelle_court": "Agent / Agente d'ordonnancement-lancement en industrie",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'ordonnancement-lancement en industrie",
+            "code_ogr": "10733"
+        },
+        {
+            "libelle_court": "Agent(e) ordonnancement-lancement-planification en industrie",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'ordonnancement-lancement-planification en industrie",
+            "code_ogr": "10734"
+        },
+        {
+            "libelle_court": "Gestionnaire de flux de production",
+            "priorisation": "1",
+            "libelle": "Gestionnaire de flux de production",
+            "code_ogr": "15331"
+        },
+        {
+            "libelle_court": "Gestionnaire d'ordonnancement",
+            "priorisation": "1",
+            "libelle": "Gestionnaire d'ordonnancement",
+            "code_ogr": "15360"
+        },
+        {
+            "libelle_court": "Ordonnanceur-approvisionneur/Ordonnanceuse-approvisionneuse",
+            "priorisation": "1",
+            "libelle": "Ordonnanceur-approvisionneur / Ordonnanceuse-approvisionneuse",
+            "code_ogr": "17357"
+        },
+        {
+            "libelle_court": "Pr\u00e9parateur / Pr\u00e9paratrice de fabrication industrielle",
+            "priorisation": "1",
+            "libelle": "Pr\u00e9parateur / Pr\u00e9paratrice de fabrication industrielle",
+            "code_ogr": "17995"
+        },
+        {
+            "libelle_court": "Pr\u00e9parateur(trice)-planificateur(trice) prod industrielle",
+            "priorisation": "1",
+            "libelle": "Pr\u00e9parateur-planificateur / Pr\u00e9paratrice-planificatrice de production industrielle",
+            "code_ogr": "18041"
+        },
+        {
+            "libelle_court": "Technicien(ne) planif-lancement-ordonnancement prod ind",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de planification-lancement-ordonnancement de production industrielle",
+            "code_ogr": "19891"
+        },
+        {
+            "libelle_court": "Technicien(ne) d'ordonnancement de production industrielle",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne d'ordonnancement de production industrielle",
+            "code_ogr": "20018"
+        },
+        {
+            "libelle_court": "Technicien(ne) en gestion de production industrielle",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en gestion de production industrielle",
+            "code_ogr": "20069"
+        },
+        {
+            "libelle_court": "Technicien/Technicienne en gestion et production laboratoire",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en gestion et production laboratoire",
+            "code_ogr": "20070"
+        },
+        {
+            "libelle_court": "Technicien(ne) en logistique de production industrielle",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en logistique de production industrielle",
+            "code_ogr": "20082"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne en logistique industrielle",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en logistique industrielle",
+            "code_ogr": "20083"
+        },
+        {
+            "libelle_court": "Technicien(ne) en organisation production industrielle",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en organisation du travail de production industrielle",
+            "code_ogr": "20101"
+        },
+        {
+            "libelle_court": "Technicien(ne) ordonnancement-lancement product industrielle",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne ordonnancement-lancement de production industrielle",
+            "code_ogr": "20205"
+        },
+        {
+            "libelle_court": "Technicien(ne) planification de production industrielle",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne planification de production industrielle",
+            "code_ogr": "20211"
+        },
+        {
+            "libelle_court": "Technicien(ne) planning et gestion production industrielle",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne planning et gestion de production industrielle",
+            "code_ogr": "20212"
+        },
+        {
+            "libelle_court": "Technicien(ne) organisateur(trice) de gestion de production",
+            "priorisation": "1",
+            "libelle": "Technicien organisateur / Technicienne organisatrice de la gestion de production",
+            "code_ogr": "20206"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Planifier la fabrication en fonction des commandes, des imp\u00e9ratifs et des al\u00e9as",
+            "code_ogr": "2504",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le lancement des documents de production et suivre l'avancement des ordres de fabrication",
+            "code_ogr": "1550",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la r\u00e9alisation des op\u00e9rations de manutention, d'entreposage, de transport r\u00e9alis\u00e9es en interne et sous-trait\u00e9es",
+            "code_ogr": "1061",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Optimiser les donn\u00e9es de gestion des flux et mettre \u00e0 jour les syst\u00e8mes d'informations",
+            "code_ogr": "2430",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Apporter un appui technique \u00e0 la production, \u00e0 la logistique, ...",
+            "code_ogr": "729",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "H1404",
+            "libelle_rome_cible": "Intervention technique en m\u00e9thodes et industrialisation"
+        },
+        {
+            "code_rome_cible": "H2805",
+            "libelle_rome_cible": "Pilotage d'installation de production verri\u00e8re"
+        },
+        {
+            "code_rome_cible": "N1303",
+            "libelle_rome_cible": "Intervention technique d'exploitation logistique"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau Bac (Bac professionnel, Brevet Professionnel, ...) \u00e0 Bac+2 (BTS, DUT) en gestion de production, logistique, gestion de flux ou dans le secteur de l'entreprise.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans le secteur de l'entreprise ou de la logistique sans dipl\u00f4me particulier.\nLa ma\u00eetrise d'un ou plusieurs logiciels de Production Assist\u00e9e par Ordinateur -GPAO- et autres progiciels de gestion de production et de flux est requise.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Intervenir dans un domaine :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ordonnancement",
+            "code_ogr": "6595",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Planification",
+            "code_ogr": "6609",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Approvisionnement",
+            "code_ogr": "6400",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Gestion de flux, de cha\u00eene logistique (supply chain)",
+            "code_ogr": "6512",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "M\u00e9thodes - industrialisation",
+            "code_ogr": "6577",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer des dossiers de fabrication et de conditionnement",
+            "code_ogr": "7932",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier et proposer des \u00e9volutions d'une cha\u00eene logistique",
+            "code_ogr": "6128",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier des risques de rupture et d'approvisionnement de production, proposer des solutions et d\u00e9terminer des besoins en produits, en mati\u00e8res",
+            "code_ogr": "6118",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la conformit\u00e9 de r\u00e9alisation des commandes, des exp\u00e9ditions ou des r\u00e9ceptions",
+            "code_ogr": "4208",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Apporter un appui technique dans la s\u00e9lection de fournisseurs ou de sous-traitants",
+            "code_ogr": "3809",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Organiser des circuits d'exp\u00e9dition des produits aux clients et coordonner les diff\u00e9rentes interventions",
+            "code_ogr": "7664",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises industrielles, en relation avec diff\u00e9rents services et intervenants (production, achat, qualit\u00e9, fournisseurs, soci\u00e9t\u00e9s de transport, prestataires logistiques, ...).\nElle varie selon le mode d'organisation (flux tendu, supply chain, ...), les syst\u00e8mes d'informatisation et de communication (Progiciel de Gestion Int\u00e9gr\u00e9e -PGI-) et le type de production (petites s\u00e9ries, grandes s\u00e9ries, ...).\nElle peut s'effectuer les fins de semaine, jours f\u00e9ri\u00e9s et \u00eatre soumise \u00e0 des astreintes.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion de stocks",
+            "code_ogr": "21259",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Gestion de Production Assist\u00e9e Par Ordinateur -GPAO-",
+            "code_ogr": "21258",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de Progiciels de Gestion Int\u00e9gr\u00e9e",
+            "code_ogr": "21369",
+            "position_item": "4",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Bureau d'\u00e9tudes et d'ing\u00e9nierie",
+            "code_ogr": "23735",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "A\u00e9ronautique, spatial",
+            "code_ogr": "23391",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Alimentaire",
+            "code_ogr": "23395",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Armement",
+            "code_ogr": "23404",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Automobile",
+            "code_ogr": "23410",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Bois, ameublement",
+            "code_ogr": "23424",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chimie",
+            "code_ogr": "23436",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chimie fine",
+            "code_ogr": "23437",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Construction navale",
+            "code_ogr": "23453",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Eco-industrie",
+            "code_ogr": "23469",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electricit\u00e9",
+            "code_ogr": "23474",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electrom\u00e9nager",
+            "code_ogr": "23476",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electronique",
+            "code_ogr": "23477",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Energie, nucl\u00e9aire, fluide",
+            "code_ogr": "23480",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ferroviaire",
+            "code_ogr": "23498",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Habillement, cuir, textile",
+            "code_ogr": "23515",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie cosm\u00e9tique",
+            "code_ogr": "23530",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie du papier, carton",
+            "code_ogr": "23531",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Information et communication",
+            "code_ogr": "23534",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Machinisme",
+            "code_ogr": "23544",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9canique, travail des m\u00e9taux",
+            "code_ogr": "23552",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9tallurgie, sid\u00e9rurgie",
+            "code_ogr": "23558",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Nautisme",
+            "code_ogr": "23567",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Optique, optronique",
+            "code_ogr": "23568",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Parachimie",
+            "code_ogr": "23573",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "P\u00e9trochimie",
+            "code_ogr": "23582",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Plasturgie, caoutchouc, composites",
+            "code_ogr": "23585",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sport et loisirs",
+            "code_ogr": "23640",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Transport/logistique",
+            "code_ogr": "23659",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Verre, mat\u00e9riaux de construction",
+            "code_ogr": "23673",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9thodes de gestion de production",
+            "code_ogr": "22131",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ordonnancement",
+            "code_ogr": "22247",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de gestion de stocks",
+            "code_ogr": "22609",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9thodes de r\u00e9solution de probl\u00e8mes",
+            "code_ogr": "22138",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation du transport de marchandises",
+            "code_ogr": "22563",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation des douanes",
+            "code_ogr": "22541",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisation de la cha\u00eene logistique",
+            "code_ogr": "22249",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "E-procurement - Gestion \u00e9lectronique des achats",
+            "code_ogr": "38836",
+            "position_item": "8",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nPlanifie et g\u00e8re les flux d'approvisionnement et les d\u00e9lais de fabrication (mati\u00e8res premi\u00e8res, produits, informations, ...) amont et aval \u00e0 la production, en fonction des commandes et des imp\u00e9ratifs de l'entreprise.\nPeut coordonner une \u00e9quipe (approvisionnement, stock, manutention, ...).\nPeut coordonner les flux d'information interne et externe.\n",
+    "intitule": "Intervention technique en gestion industrielle et logistique",
+    "code_ogr": "227",
+    "code_rome": "H1403",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "H1401",
+            "libelle_rome_cible": "Management et ing\u00e9nierie gestion industrielle et logistique"
+        },
+        {
+            "code_rome_cible": "H2504",
+            "libelle_rome_cible": "Encadrement d'\u00e9quipe en industrie de transformation"
+        },
+        {
+            "code_rome_cible": "I1103",
+            "libelle_rome_cible": "Supervision d'entretien et gestion de v\u00e9hicules"
+        },
+        {
+            "code_rome_cible": "N1301",
+            "libelle_rome_cible": "Conception et organisation de la cha\u00eene logistique"
+        },
+        {
+            "code_rome_cible": "N1302",
+            "libelle_rome_cible": "Direction de site logistique"
+        }
+    ]
+}

@@ -1,0 +1,474 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente de fabrication de l'industrie du b\u00e9ton",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de fabrication de l'industrie du b\u00e9ton",
+            "code_ogr": "10446"
+        },
+        {
+            "libelle_court": "Agent / Agente de pr\u00e9contrainte de l'industrie du b\u00e9ton",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de pr\u00e9contrainte de l'industrie du b\u00e9ton",
+            "code_ogr": "10550"
+        },
+        {
+            "libelle_court": "Agent / Agente de pr\u00e9fabrication de l'industrie du b\u00e9ton",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de pr\u00e9fabrication de l'industrie du b\u00e9ton",
+            "code_ogr": "10551"
+        },
+        {
+            "libelle_court": "Armaturier / Armaturi\u00e8re de l'industrie du b\u00e9ton",
+            "priorisation": "1",
+            "libelle": "Armaturier / Armaturi\u00e8re de l'industrie du b\u00e9ton",
+            "code_ogr": "11140"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe de l'industrie du b\u00e9ton",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe de l'industrie du b\u00e9ton",
+            "code_ogr": "12414"
+        },
+        {
+            "libelle_court": "Finisseur / Finisseuse de l'industrie du b\u00e9ton",
+            "priorisation": "1",
+            "libelle": "Finisseur / Finisseuse de l'industrie du b\u00e9ton",
+            "code_ogr": "15090"
+        },
+        {
+            "libelle_court": "Mouleur / Mouleuse de l'industrie du b\u00e9ton",
+            "priorisation": "1",
+            "libelle": "Mouleur / Mouleuse de l'industrie du b\u00e9ton",
+            "code_ogr": "16919"
+        },
+        {
+            "libelle_court": "Pr\u00e9parateur(trice) monteur(se) de moules de l'ind du b\u00e9ton",
+            "priorisation": "1",
+            "libelle": "Pr\u00e9parateur monteur / Pr\u00e9paratrice monteuse de moules de l'industrie du b\u00e9ton",
+            "code_ogr": "18036"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier la configuration et le dimensionnement d'un moule, le type d'armatures, le mode de coulage et de d\u00e9moulage selon la pi\u00e8ce \u00e0 fabriquer",
+            "code_ogr": "2033",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer le mat\u00e9riel (coupe des fils et torons d'acier, ...) et la mati\u00e8re n\u00e9cessaire \u00e0 la r\u00e9alisation du produit (pr\u00e9contraint, pi\u00e8ce b\u00e9ton)",
+            "code_ogr": "2597",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Positionner dans le moule ou le banc de pr\u00e9contrainte les aciers, armatures, inserts, r\u00e9servations, ...",
+            "code_ogr": "2535",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser les \u00e9l\u00e9ments constitutifs d'un moule (sous ensemble m\u00e9tal, bois, pvc, armature) en vue du coulage du b\u00e9ton",
+            "code_ogr": "2823",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Couler le b\u00e9ton dans le moule ou le banc de pr\u00e9contrainte",
+            "code_ogr": "1206",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9coffrer la pi\u00e8ce et d\u00e9monter le moule",
+            "code_ogr": "1233",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la conformit\u00e9 d'aspect et dimensionnelle des pi\u00e8ces r\u00e9alis\u00e9es (plan\u00e9it\u00e9, perpendicularit\u00e9, ...) et pr\u00e9lever des \u00e9chantillons pour analyse",
+            "code_ogr": "1016",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer des machines, \u00e9quipements (extrudeuse, banc de pr\u00e9contrainte, ...), moule et outillage",
+            "code_ogr": "2398",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "F1701",
+            "libelle_rome_cible": "Construction en b\u00e9ton"
+        },
+        {
+            "code_rome_cible": "F1704",
+            "libelle_rome_cible": "Pr\u00e9paration du gros oeuvre et des travaux publics"
+        },
+        {
+            "code_rome_cible": "H2205",
+            "libelle_rome_cible": "Premi\u00e8re transformation de bois d'oeuvre"
+        },
+        {
+            "code_rome_cible": "H3302",
+            "libelle_rome_cible": "Op\u00e9rations manuelles d'assemblage, tri ou emballage"
+        },
+        {
+            "code_rome_cible": "H3303",
+            "libelle_rome_cible": "Pr\u00e9paration de mati\u00e8res et produits industriels (broyage, m\u00e9lange, ...)"
+        },
+        {
+            "code_rome_cible": "N1101",
+            "libelle_rome_cible": "Conduite d'engins de d\u00e9placement des charges"
+        },
+        {
+            "code_rome_cible": "N1105",
+            "libelle_rome_cible": "Manutention manuelle de charges"
+        },
+        {
+            "code_rome_cible": "N3203",
+            "libelle_rome_cible": "Manutention portuaire"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un CAP/BEP en menuiserie, ma\u00e7onnerie, soudage, ...\nIl est \u00e9galement accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle pour les postes de finisseur et d'agent de pr\u00e9contrainte.\nUn Bac professionnel en chaudronnerie peut \u00eatre demand\u00e9 pour les postes de pr\u00e9parateur monteur de moules.\nUn ou plusieurs Certificat(s) d'Aptitude \u00e0 la Conduite En S\u00e9curit\u00e9 -CACES- conditionn\u00e9(s) par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement peu(ven)t \u00eatre requis.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-1 (Transpalettes \u00e0 conducteur port\u00e9 et pr\u00e9parateurs de commandes au sol)",
+            "code_ogr": "10122",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-3 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 inf\u00e9rieure ou \u00e9gale \u00e0 6000 kg)",
+            "code_ogr": "10124",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-4 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 sup\u00e9rieure \u00e0 6000 kg)",
+            "code_ogr": "10125",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-5 (Chariots \u00e9l\u00e9vateurs \u00e0 m\u00e2t r\u00e9tractable)",
+            "code_ogr": "10126",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 318 (ponts roulants)",
+            "code_ogr": "10100",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des pi\u00e8ces de pr\u00e9contrainte au moyen de :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Banc de pr\u00e9contrainte (pr\u00e9-dalles, poutrelles, dalles alv\u00e9ol\u00e9es, pr\u00e9-linteaux)",
+            "code_ogr": "9000",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Moules (poutres droites, poutres I, I-pannes)",
+            "code_ogr": "9001",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des travaux de finition et de retouche de la pi\u00e8ce (r\u00e9fection des angles, bouchage des trous de douille, retrait des laitances...)",
+            "code_ogr": "5094",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des travaux de traitement des surfaces sur le moule (brossage, plissage, sablage, bouchardage, ragr\u00e9age)",
+            "code_ogr": "5102",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des armatures en acier",
+            "code_ogr": "8255",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier des produits par marquage, \u00e9tiquetage (r\u00e9f\u00e9rence, ...)",
+            "code_ogr": "6115",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir des commandes de b\u00e9ton ou d'\u00e9l\u00e9ments n\u00e9cessaires au fa\u00e7onnage de la pi\u00e8ce",
+            "code_ogr": "5795",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises de production de l'industrie du b\u00e9ton.\nL'activit\u00e9 s'effectue en atelier ou en ext\u00e9rieur. Elle implique le port de charges et de nombreuses op\u00e9rations de manutention (assemblage des armatures, \u00e9vacuation du surplus de remplissage...).\nIntervient \u00e0 partir d'un moule, \u00e0 l'aide d'outillage et \u00e9quipements manuels ou semi automatis\u00e9s selon les r\u00e8gles de s\u00e9curit\u00e9 et les imp\u00e9ratifs de production (d\u00e9lais, quantit\u00e9, qualit\u00e9, ...).\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan",
+            "code_ogr": "20946",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soudage MIG-MAG",
+            "code_ogr": "21102",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soudage",
+            "code_ogr": "21100",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils manuels (truelle, taloche, pelle ...)",
+            "code_ogr": "21478",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de plieuse",
+            "code_ogr": "21357",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de d\u00e9gauchisseuse",
+            "code_ogr": "21199",
+            "position_item": "6",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Mise en tension des aciers",
+            "code_ogr": "21000",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Conduite d'extrudeuse",
+            "code_ogr": "20823",
+            "position_item": "2",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e9ton (arm\u00e9, manufactur\u00e9, pr\u00e9-contraint)",
+            "code_ogr": "23421",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Propri\u00e9t\u00e9s du b\u00e9ton",
+            "code_ogr": "22497",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes de la pr\u00e9contrainte",
+            "code_ogr": "22322",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de moulage",
+            "code_ogr": "23005",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes qualit\u00e9",
+            "code_ogr": "22233",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles et consignes de s\u00e9curit\u00e9",
+            "code_ogr": "22656",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'\u00e9chantillonnage",
+            "code_ogr": "22450",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des armatures",
+            "code_ogr": "21557",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sp\u00e9cificit\u00e9s des coffrages",
+            "code_ogr": "22703",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de menuiserie",
+            "code_ogr": "22976",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chaudronnerie",
+            "code_ogr": "21705",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Plan de ferraillage",
+            "code_ogr": "22294",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise des produits en b\u00e9ton (panneaux, dalles, escaliers, murs, pi\u00e8ces sp\u00e9ciales pour r\u00e9seaux d'assainissement, ....) sur mesure ou en petites s\u00e9ries.\nIntervient \u00e0 partir d'un moule, \u00e0 l'aide d'outillage et \u00e9quipements manuels ou semi automatis\u00e9s, selon les r\u00e8gles de s\u00e9curit\u00e9 et les imp\u00e9ratifs de production (d\u00e9lais, quantit\u00e9, qualit\u00e9, ...).\nPeut r\u00e9aliser des armatures, transporter et d\u00e9placer les produits.\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "Pr\u00e9fabrication en b\u00e9ton industriel",
+    "code_ogr": "179",
+    "code_rome": "F1706",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "H2504",
+            "libelle_rome_cible": "Encadrement d'\u00e9quipe en industrie de transformation"
+        },
+        {
+            "code_rome_cible": "H2803",
+            "libelle_rome_cible": "Fa\u00e7onnage et \u00e9maillage en industrie c\u00e9ramique"
+        },
+        {
+            "code_rome_cible": "H2902",
+            "libelle_rome_cible": "Chaudronnerie - t\u00f4lerie"
+        },
+        {
+            "code_rome_cible": "H2911",
+            "libelle_rome_cible": "R\u00e9alisation de structures m\u00e9talliques"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">urbaniste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">enquêter, rechercher, analyser l'information/convaincre, négocier</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire/salarié/indépendant</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise/fonction conduite de projet</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique/secteur sociétés d'ingénierie et d'études techniques</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">urbanisme</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE nettoyage assainissement environnement sécurité/urbaniste</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10013</lien_onisep>
+<ROME Level="1B" csRelFld="10013">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="487" csRelFld="487">
+<CSLABELFLD label="">K1802</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Développement territorial et emploi</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K1802</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Développement local</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10013">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1581" csRelFld="1581">
+<CSLABELFLD label="">ingénieur / ingénieure de la Ville de Paris (urbanisme)</CSLABELFLD>
+<MET_ID label="Identifiant">10013</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1581</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">ingénieur/e de la Ville de Paris (urbanisme)</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1581">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1582" csRelFld="1582">
+<CSLABELFLD label="">ingénieur territorial / ingénieure territoriale (urbanisme)</CSLABELFLD>
+<MET_ID label="Identifiant">10013</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1582</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">ingénieur/e territorial/e (urbanisme)</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1582">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17882" csRelFld="17882">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17882</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10013</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Aider et préparer les politiques publiques de la ville</inter>
+<p>À l'échelle de la ville ou de la communauté d'agglomération, l'urbaniste analyse le fonctionnement du tissu urbain et planifie son évolution. Il imagine des scénarios pour organiser la ville dans l'espace, à partir d'un projet politique conçu par les élus.</p>
+<p>Il inscrit son action dans les politiques publiques et les réglementations : lois, droit de l'urbanisme, droit des sols... Il prépare et rédige des documents de planification urbaine : PLU (plan local d'urbanisme), PDU (plan de déplacements urbains), PADD (projet d'aménagement et de développement durable), PSMV (plan de sauvegarde et de mise en valeur du patrimoine). Il les présente aux élus, qui, en dernière analyse, décident.</p>
+<inter>Concevoir et mettre en oeuvre les projets urbains</inter>
+<p>Quand il construit un projet, l'urbaniste s'intéresse autant à sa globalité qu'au moindre de ses détails. Il doit articuler entre elles une multitude de thématiques : logement, emploi, déplacements, équipements publics, convivialité, environnement... Il doit répondre à un cahier des charges précis. Il rencontre les différents acteurs de la ville : élus, financeurs, commerçants, habitants. Fréquemment, il anime des réunions publiques pour présenter les projets d'aménagement des quartiers.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17887" csRelFld="17887">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17887</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10013</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Les études d'urbanisme se déroulent la plupart du temps à l'université - à laquelle sont rattachés les instituts d'urbanisme -, en IEP (instituts d'études politiques), en écoles d'ingénieurs ou encore en écoles d'architecture. La formation requise est le master à bac + 5. L'accès en master se fait après une licence (L3) de géographie, d'aménagement du territoire, de sociologie, de sciences politiques, de sciences de la vie et de la Terre... La plupart des formations en urbanisme délivrent un master reconnu par l'Aperau (Association pour la promotion de l'enseignement et de la recherche en aménagement et urbanisme), car elles respectent une charte internationale d'enseignement. Quelques débouchés sont aussi possibles pour des postes d'assistant après une licence professionnelle en 1 an après un bac + 2 (2<exp>e</exp> année de licence, BTS, DUT) .</p>
+<liste>
+<tete>Niveau bac + 5 et plus</tete>
+<itsimp>Master en architecture, en urbanisme ou en aménagement des territoires</itsimp>
+<itsimp>Diplôme d'ingénieur des Insa de Lyon et de Rennes</itsimp>
+<itsimp>Diplôme d'ingénieur de l'École des ingénieurs de la Ville de Paris</itsimp>
+<itsimp>Mastères spécialisés en aménagement des territoires</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17892" csRelFld="17892">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17892</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10013</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Dans les collectivités territoriales surtout</inter>
+<p>Selon la dernière enquête nationale, les jeunes urbanistes sortant de formation sont principalement embauchés dans des collectivités territoriales (33 %) et des cabinets de conseil ou des bureaux d'études (31 %). Le plus souvent, ils occupent des fonctions de chargé d'études et de chargé de mission en urbanisme. Dans les collectivités territoriales, le recrutement par concours se fait sur des postes d'attaché territorial. Cependant, la plupart des jeunes recrutés le sont sur des contrats de type CDD.</p>
+<p>La profession s'est féminisée, avec 64 % de femmes.</p>
+<inter>L'importance du stage professionnel</inter>
+<p>Le stage professionnel effectué dans le cadre de la formation constitue un tremplin pour l'insertion, puisque plus d'un quart des recrutements dans le domaine de l'urbanisme sont effectués par la structure où les diplômés ont effectué leur stage.</p>
+<postit>
+<p>(Source : Collectif national des jeunes urbanistes. Enquête nationale sur l'insertion professionnelle des jeunes urbanistes, novembre 2011.)</p>
+</postit>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>1500</sal> à 2700 euros brut par mois.</p>
+<postit>
+<p>Source : Collectif national des jeunes urbanistes. Enquête nationale sur l'insertion professionnelle des jeunes urbanistes, novembre 2011.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

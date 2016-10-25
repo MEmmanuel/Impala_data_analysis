@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">directeur/trice de restaurant</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">décider/coordonner l'activité d'une équipe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">indépendant/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction direction/fonction encadrement - coordination/fonction gestion financière et comptable</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur restauration/secteur hôtellerie</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">restauration/direction d'entreprise/gestion hôtel restaurant/gestion entreprise touristique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE hôtellerie restauration tourisme loisirs/directeur de restaurant</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10151</lien_onisep>
+<ROME Level="1B" csRelFld="10151">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="232" csRelFld="232">
+<CSLABELFLD label="">G1402</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Gestion et direction</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">G1402</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management d'hôtel-restaurant</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10151">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18999" csRelFld="18999">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18999</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10151</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Un gestionnaire d'entreprise</inter>
+<p>Véritable chef d'entreprise, le directeur de restaurant gère son établissement sur les plans humain, technique et administratif. Selon le type et la taille du restaurant, il supervise le travail en cuisine en relation avec le chef, organise le travail en salle, assure les relations avec la clientèle et les fournisseurs... </p>
+<inter>Un organisateur de réceptions</inter>
+<p>Le directeur de restaurant peut aussi négocier l'organisation de réceptions, de banquets et de cocktails, à l'intérieur ou à l'extérieur de son établissement. Dans ce cas, il veille à ce que les prestations soient conformes aux attentes des clients. Il accueille lui-même les groupes à leur arrivée. En cours de service, il coordonne le travail de la cuisine et de la salle, ainsi que celui des maîtres d'hôtel ou des commis de restaurant.</p>
+<inter>Un bon communicant</inter>
+<p>Le recrutement du personnel, permanent et saisonnier, est aussi de son ressort. Il l'encadre et participe, parfois, à sa formation, notamment en restauration de chaîne. C'est également lui qui organise les plannings de ses employés. Enfin, son sens aigu des relations publiques lui permet de faire connaître son établissement et de développer une nouvelle clientèle.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16104" csRelFld="16104">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16104</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10151</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Du CAP au BTS,</accr_p> la fonction de directeur de restaurant est ouverte aux autodidactes motivés, mais différents niveaux de diplôme coexistent pour en faciliter l'accès. A noter aussi qu'une expérience professionnelle d'une dizaine d'année dans la restauration s'avère souhaitable.</p>
+<liste>
+<tete>Niveau 3<exp>e</exp>
+</tete>
+<itsimp>CAP cuisine </itsimp>
+</liste>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>Bac pro cuisine </itsimp>
+<itsimp>Bac pro commercialisation et services en restauration</itsimp>
+<itsimp>Bac techno sciences et technologies de l'hôtellerie et de la restauration</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS hôtellerie-restauration option art culinaire, art de la table et du service</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16089" csRelFld="16089">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16089</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10151</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Développer son entreprise</inter>
+<p>En restauration indépendante, le directeur cherche à développer son entreprise, à améliorer la qualité des prestations fournies, voire à racheter d'autres établissements.</p>
+<inter>Diriger plusieurs services</inter>
+<p>En hôtellerie de chaîne, un professionnel motivé peut obtenir un poste de directeur de la restauration. Il devient alors responsable de tous les services de restauration : restaurant gastronomique, service des banquets, des bars... En restauration à thème, il peut devenir directeur de plusieurs unités. Il peut aussi se diriger vers la fonction commerciale, assurer la promotion de son unité et négocier les contrats.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De 1590 à 1770 euros brut par mois (selon la durée du temps de travail).</p>
+<postit>
+<p>Source : Convention collective nationale des hôtels, cafés, restaurants (HCR) du 30 avril 1997, classification des emplois, avenant salaires 2011.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

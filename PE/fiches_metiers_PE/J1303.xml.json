@@ -1,0 +1,415 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente des Cabinets en Imagerie M\u00e9dicale - ACIM -",
+            "priorisation": "1",
+            "libelle": "Agent / Agente des Cabinets en Imagerie M\u00e9dicale - ACIM -",
+            "code_ogr": "10694"
+        },
+        {
+            "libelle_court": "Aide de radiologie",
+            "priorisation": "1",
+            "libelle": "Aide de radiologie",
+            "code_ogr": "10830"
+        },
+        {
+            "libelle_court": "Aide dentaire",
+            "priorisation": "1",
+            "libelle": "Aide dentaire",
+            "code_ogr": "10842"
+        },
+        {
+            "libelle_court": "Aide manipulateur / manipulatrice en radiologie",
+            "priorisation": "1",
+            "libelle": "Aide manipulateur / manipulatrice en radiologie",
+            "code_ogr": "10852"
+        },
+        {
+            "libelle_court": "Assistant / Assistante audioproth\u00e9siste",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante audioproth\u00e9siste",
+            "code_ogr": "11193"
+        },
+        {
+            "libelle_court": "Assistant / Assistante dentaire",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante dentaire",
+            "code_ogr": "11265"
+        },
+        {
+            "libelle_court": "Assistant / Assistante en cabinet m\u00e9dical",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante en cabinet m\u00e9dical",
+            "code_ogr": "11281"
+        },
+        {
+            "libelle_court": "Assistant / Assistante m\u00e9dico-technique",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante m\u00e9dico-technique",
+            "code_ogr": "11309"
+        },
+        {
+            "libelle_court": "Assistant / Assistante m\u00e9dico-technique en audioproth\u00e8se",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante m\u00e9dico-technique en audioproth\u00e8se",
+            "code_ogr": "11359"
+        },
+        {
+            "libelle_court": "Assistant(e) technique installateur(trice) mat\u00e9riel m\u00e9dical",
+            "priorisation": "1",
+            "libelle": "Assistant technique installateur / Assistante technique installatrice de mat\u00e9riel m\u00e9dical",
+            "code_ogr": "38451"
+        },
+        {
+            "libelle_court": "Technicien(ne) intervention mat\u00e9riel assistance respiratoire",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne d'intervention sur mat\u00e9riels d'assistance respiratoire",
+            "code_ogr": "38858"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Accueillir et renseigner le patient sur les horaires de r\u00e9ception, les possibilit\u00e9s de rendez-vous, les documents \u00e0 apporter",
+            "code_ogr": "555",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Planifier les rendez-vous selon les besoins des patients, le type d'intervention, le degr\u00e9 d'urgence et informer le praticien",
+            "code_ogr": "2516",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cr\u00e9er ou compl\u00e9ter le dossier m\u00e9dico-administratif du patient et l'orienter vers la salle d'attente, de soins, d'examen, ...",
+            "code_ogr": "1213",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la d\u00e9contamination, l'identification, le conditionnement d'\u00e9l\u00e9ments m\u00e9dico-techniques (empreintes, \u00e9l\u00e9ments proth\u00e9tiques, ...) et les transmettre au service concern\u00e9",
+            "code_ogr": "1529",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9ceptionner les \u00e9l\u00e9ments m\u00e9dico-techniques et en informer le praticien, le patient en vue de l'intervention",
+            "code_ogr": "2925",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le suivi m\u00e9dico-administratif du dossier du patient",
+            "code_ogr": "3542",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier le fonctionnement des appareils et informer le service maintenance, le responsable en cas de dysfonctionnement",
+            "code_ogr": "3626",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks de produits, identifier les besoins en approvisionnement et transmettre la commande \u00e0 l'interlocuteur concern\u00e9",
+            "code_ogr": "3616",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "8",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1203",
+            "libelle_rome_cible": "Hydroth\u00e9rapie"
+        },
+        {
+            "code_rome_cible": "K2601",
+            "libelle_rome_cible": "Conduite d'op\u00e9rations fun\u00e9raires"
+        },
+        {
+            "code_rome_cible": "M1601",
+            "libelle_rome_cible": "Accueil et renseignements"
+        },
+        {
+            "code_rome_cible": "M1609",
+            "libelle_rome_cible": "Secr\u00e9tariat et assistanat m\u00e9dical ou m\u00e9dico-social"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible \u00e0 partir du brevet des coll\u00e8ges.\nLes emplois/m\u00e9tiers d'assistant dentaire et d'assistant audioproth\u00e9siste sont accessibles avec une formation s'effectuant en cours d'emploi.\nDes vaccinations pr\u00e9vues par le Code de Sant\u00e9 Publique sont exig\u00e9es.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Pr\u00e9parer le mat\u00e9riel, les produits selon les indications du praticien et la nature de l'intervention",
+            "code_ogr": "7982",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Assister le praticien dentaire (pr\u00e9sentation des instruments, ...) pendant l'intervention",
+            "code_ogr": "3834",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "St\u00e9riliser et conditionner du mat\u00e9riel et des instruments (composition de sets, ensachage, ...)",
+            "code_ogr": "9679",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sensibiliser et conseiller les patients sur l'hygi\u00e8ne bucco-dentaire et l'entretien des appareillages dentaires",
+            "code_ogr": "9670",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des tests de d\u00e9pistage visuels, auditifs, ... lors de visites m\u00e9dicales et transmettre les informations au m\u00e9decin de pr\u00e9vention",
+            "code_ogr": "9103",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conseiller un client sur des \u00e9quipements et accessoires auditifs et proc\u00e9der \u00e0 la vente",
+            "code_ogr": "4155",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Installer \u00e0 domicile des mat\u00e9riels et dispositifs m\u00e9dicaux (lit m\u00e9dicalis\u00e9, appareil d'assistance respiratoire, ...) et expliquer leur fonctionnement au patient",
+            "code_ogr": "38484",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer les accessoires de radiologie et proc\u00e9der au d\u00e9veloppement des clich\u00e9s",
+            "code_ogr": "7984",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de cabinets dentaires, de radiologie, de laboratoires d'audioproth\u00e8se, d'\u00e9tablissements de soins, ... en contact avec les patients.\nL'activit\u00e9 peut impliquer la manipulation de substances \u00e0 risque (agent infectieux, rayons X, ...).\nLe port d'\u00e9quipements de protection (masque, gants, tablier plomb\u00e9, ...) peut \u00eatre requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils de st\u00e9rilisation",
+            "code_ogr": "21161",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de dosim\u00e8tre",
+            "code_ogr": "21202",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Cabinet dentaire",
+            "code_ogr": "23744",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Centre de sant\u00e9",
+            "code_ogr": "23778",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Centre d'imagerie m\u00e9dicale",
+            "code_ogr": "23783",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement m\u00e9dical (h\u00f4pital, clinique, ...)",
+            "code_ogr": "23922",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Laboratoire d'analyses m\u00e9dicales",
+            "code_ogr": "23985",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Laboratoire d'audioproth\u00e8se",
+            "code_ogr": "23986",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Au domicile de particulier",
+            "code_ogr": "23375",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Terminologie m\u00e9dicale",
+            "code_ogr": "23279",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestion comptable et administrative",
+            "code_ogr": "21995",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Grille de codification S\u00e9curit\u00e9 Sociale",
+            "code_ogr": "22012",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9d\u00e9s de st\u00e9rilisation",
+            "code_ogr": "22361",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de bio-nettoyage",
+            "code_ogr": "22811",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et d'asepsie",
+            "code_ogr": "22646",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de retraitement des d\u00e9chets",
+            "code_ogr": "22430",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Protocoles de lutte contre les infections nosocomiales",
+            "code_ogr": "22501",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de soins dentaires",
+            "code_ogr": "23122",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pathologies auditives",
+            "code_ogr": "22272",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en soins d'orthodontie",
+            "code_ogr": "21919",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes d'urgence et de secours",
+            "code_ogr": "21991",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'assemblage d'\u00e9l\u00e9ments de proth\u00e8ses auditives",
+            "code_ogr": "22793",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nPr\u00e9pare les \u00e9l\u00e9ments m\u00e9dico-techniques en vue de la r\u00e9alisation des actes par le praticien et effectue le suivi m\u00e9dico administratif des dossiers des patients/clients.\nPeut apporter un appui technique au praticien dans la r\u00e9alisation des soins.\nPeut installer du mat\u00e9riel m\u00e9dical au domicile de particuliers (respirateur, pompe \u00e0 nutrition, ...).\nPeut effectuer la gestion administrative de la structure.\n",
+    "intitule": "Assistance m\u00e9dico-technique",
+    "code_ogr": "340",
+    "code_rome": "J1303",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "G1703",
+            "libelle_rome_cible": "R\u00e9ception en h\u00f4tellerie"
+        }
+    ]
+}

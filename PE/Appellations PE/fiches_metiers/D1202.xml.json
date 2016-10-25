@@ -1,0 +1,574 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Assistant / Assistante de coiffure",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante de coiffure",
+            "code_ogr": "11221"
+        },
+        {
+            "libelle_court": "Assistant coiffeur / Assistante coiffeuse",
+            "priorisation": "1",
+            "libelle": "Assistant coiffeur / Assistante coiffeuse",
+            "code_ogr": "11208"
+        },
+        {
+            "libelle_court": "Chef coiffeur / coiffeuse",
+            "priorisation": "1",
+            "libelle": "Chef coiffeur / coiffeuse",
+            "code_ogr": "12010"
+        },
+        {
+            "libelle_court": "Coiffeur / Coiffeuse",
+            "priorisation": "1",
+            "libelle": "Coiffeur / Coiffeuse",
+            "code_ogr": "12688"
+        },
+        {
+            "libelle_court": "Coiffeur / Coiffeuse \u00e0 domicile",
+            "priorisation": "1",
+            "libelle": "Coiffeur / Coiffeuse \u00e0 domicile",
+            "code_ogr": "12689"
+        },
+        {
+            "libelle_court": "Coiffeur / Coiffeuse dames",
+            "priorisation": "1",
+            "libelle": "Coiffeur / Coiffeuse dames",
+            "code_ogr": "12691"
+        },
+        {
+            "libelle_court": "Coiffeur / Coiffeuse messieurs",
+            "priorisation": "1",
+            "libelle": "Coiffeur / Coiffeuse messieurs",
+            "code_ogr": "12693"
+        },
+        {
+            "libelle_court": "Coiffeur / Coiffeuse mixte",
+            "priorisation": "1",
+            "libelle": "Coiffeur / Coiffeuse mixte",
+            "code_ogr": "12694"
+        },
+        {
+            "libelle_court": "Coiffeur / Coiffeuse styliste",
+            "priorisation": "1",
+            "libelle": "Coiffeur / Coiffeuse styliste",
+            "code_ogr": "12696"
+        },
+        {
+            "libelle_court": "Coiffeur / Coiffeuse visagiste",
+            "priorisation": "1",
+            "libelle": "Coiffeur / Coiffeuse visagiste",
+            "code_ogr": "12697"
+        },
+        {
+            "libelle_court": "Coiffeur barbier / Coiffeuse barbi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Coiffeur barbier / Coiffeuse barbi\u00e8re",
+            "code_ogr": "38654"
+        },
+        {
+            "libelle_court": "Coiffeur cr\u00e9ateur / Coiffeuse cr\u00e9atrice",
+            "priorisation": "1",
+            "libelle": "Coiffeur cr\u00e9ateur / Coiffeuse cr\u00e9atrice",
+            "code_ogr": "12690"
+        },
+        {
+            "libelle_court": "Coloriste permanentiste",
+            "priorisation": "1",
+            "libelle": "Coloriste permanentiste",
+            "code_ogr": "12719"
+        },
+        {
+            "libelle_court": "Formateur coiffeur / Formatrice coiffeuse",
+            "priorisation": "1",
+            "libelle": "Formateur coiffeur / Formatrice coiffeuse",
+            "code_ogr": "15125"
+        },
+        {
+            "libelle_court": "G\u00e9rant / G\u00e9rante salon de coiffure",
+            "priorisation": "1",
+            "libelle": "G\u00e9rant / G\u00e9rante salon de coiffure",
+            "code_ogr": "15309"
+        },
+        {
+            "libelle_court": "G\u00e9rant technicien/G\u00e9rante technicienne de salon de coiffure",
+            "priorisation": "1",
+            "libelle": "G\u00e9rant technicien / G\u00e9rante technicienne de salon de coiffure",
+            "code_ogr": "15310"
+        },
+        {
+            "libelle_court": "Posticheur / Posticheuse",
+            "priorisation": "1",
+            "libelle": "Posticheur / Posticheuse",
+            "code_ogr": "17951"
+        },
+        {
+            "libelle_court": "Responsable salon de coiffure",
+            "priorisation": "1",
+            "libelle": "Responsable salon de coiffure",
+            "code_ogr": "19172"
+        },
+        {
+            "libelle_court": "Styliste visagiste en coiffure",
+            "priorisation": "1",
+            "libelle": "Styliste visagiste en coiffure",
+            "code_ogr": "19552"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne en coloration",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en coloration",
+            "code_ogr": "20043"
+        },
+        {
+            "libelle_court": "Technicien coupeur / Technicienne coupeuse en coiffure",
+            "priorisation": "1",
+            "libelle": "Technicien coupeur / Technicienne coupeuse en coiffure",
+            "code_ogr": "19704"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Accueillir le client et l'installer",
+            "code_ogr": "565",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier la coiffure attendue (coupe, coloration, traitement, ...) et conseiller le client (morphologie, implantation des cheveux, ...)",
+            "code_ogr": "2029",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "2",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le diagnostic capillaire, les pr\u00e9parations du lavage et le shampoing",
+            "code_ogr": "1549",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Couper les cheveux (d\u00e9grad\u00e9s, effil\u00e9s, piquet\u00e9s, ...)",
+            "code_ogr": "2456",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der \u00e0 la mise en forme ou en volume des cheveux (enroulement, bouclage, brushing, ...), au coiffage, \u00e0 la fixation ou brillance (laque, gel, ...)",
+            "code_ogr": "2685",
+            "code_type_activite": "2",
+            "riasec_majeur": "A",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9senter au client sa coiffure sous diff\u00e9rents angles pour recueillir son avis",
+            "code_ogr": "2642",
+            "code_type_activite": "2",
+            "riasec_majeur": "A",
+            "position_item": "6",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer le salon, ranger le mat\u00e9riel et les outils et r\u00e9approvisionner les lin\u00e9aires et plans de travail",
+            "code_ogr": "2416",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1208",
+            "libelle_rome_cible": "Soins esth\u00e9tiques et corporels"
+        },
+        {
+            "code_rome_cible": "L1501",
+            "libelle_rome_cible": "Coiffure et maquillage spectacle"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un CAP/BEP ou un Brevet Professionnel en coiffure.\nUne ou plusieurs formation(s) compl\u00e9mentaire(s) (styliste visagiste, coloriste, permanentiste) peu(vent)t \u00eatre requise(s).\n",
+    "activite_specifique": [
+        {
+            "libelle": "Pr\u00e9parer et appliquer des produits colorants, d\u00e9colorants (m\u00e8ches, ...)",
+            "code_ogr": "7950",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Encaisser le montant d'une vente et renseigner les fiches clients",
+            "code_ogr": "5674",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9senter et conseiller \u00e0 un client des prestations, des produits et accessoires capillaires",
+            "code_ogr": "8046",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la promotion et la vente de prestations, soins, produits aupr\u00e8s de clients",
+            "code_ogr": "5190",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mettre en place des actions, s\u00e9ances de formation sur mod\u00e8les",
+            "code_ogr": "7480",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Former et sensibiliser le personnel aux techniques, consignes, gestes (coiffure, hygi\u00e8ne, s\u00e9curit\u00e9, ...)",
+            "code_ogr": "6057",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la gestion administrative d'une structure",
+            "code_ogr": "5126",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des prestations :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coiffure afro-antillaise",
+            "code_ogr": "38128",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Manucure",
+            "code_ogr": "5040",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Montage de chevelures de remplacement ou de postiches",
+            "code_ogr": "5041",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Montage de chignons",
+            "code_ogr": "5042",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Rasage et taille de moustaches et barbes",
+            "code_ogr": "5043",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tressage",
+            "code_ogr": "5044",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "6",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de salons de coiffure, instituts de beaut\u00e9, ... en contact avec des clients, fournisseurs.\nElle peut impliquer des d\u00e9placements (domicile, structure m\u00e9dicalis\u00e9e, maison de retraite, ...).\nElle varie selon le lieu de prestation (salon, domicile du client, structure m\u00e9dicale, maison de retraite, ...) et la client\u00e8le.\nElle peut s'exercer les fins de semaine.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Manipulation d'outil tranchant (ciseaux de coupe, cranteur, ...)",
+            "code_ogr": "20983",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Centre de formation pour adultes",
+            "code_ogr": "23771",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement m\u00e9dical (h\u00f4pital, clinique, ...)",
+            "code_ogr": "23922",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Institut de beaut\u00e9",
+            "code_ogr": "23974",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Salon de coiffure",
+            "code_ogr": "24061",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie cosm\u00e9tique",
+            "code_ogr": "23530",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Loisirs",
+            "code_ogr": "23543",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9dicosocial",
+            "code_ogr": "23555",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Mode",
+            "code_ogr": "23562",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Services \u00e0 la personne",
+            "code_ogr": "23637",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Spectacle",
+            "code_ogr": "23638",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Tourisme",
+            "code_ogr": "23652",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Au domicile de particulier",
+            "code_ogr": "23375",
+            "code_type_section_env": "3"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Diagnostic capillaire",
+            "code_ogr": "21779",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de coupes de cheveux",
+            "code_ogr": "24797",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de s\u00e9chage",
+            "code_ogr": "23113",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Coiffure enfant",
+            "code_ogr": "21731",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Coiffure femme",
+            "code_ogr": "21732",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Coiffure homme",
+            "code_ogr": "21733",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes de la relation client",
+            "code_ogr": "22323",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de d\u00e9coloration, de coloration de cheveux (contraste, ton sur ton, d'oxydation, ...)",
+            "code_ogr": "22874",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques p\u00e9dagogiques",
+            "code_ogr": "23253",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de raccord, de rajouts, d'extensions, ...",
+            "code_ogr": "23072",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de pose de perruques",
+            "code_ogr": "23044",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nEffectue des soins et traitements capillaires dans un but d'hygi\u00e8ne et d'esth\u00e9tique.\nConseille et aide au choix de coiffures, de coupes et coiffes en tenant compte de la mode, de la morphologie et du go\u00fbt du client.\nPeut r\u00e9aliser l'application de coloration temporaire ou durable.\nIntervient dans l'accueil des clients et la vente de produits (accessoires de coiffure, produits de traitement capillaire, produits de beaut\u00e9, ...).\nPeut coordonner une \u00e9quipe ou diriger un salon.\n",
+    "intitule": "Coiffure",
+    "code_ogr": "88",
+    "code_rome": "D1202",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1214",
+            "libelle_rome_cible": "Vente en habillement et accessoires de la personne"
+        },
+        {
+            "code_rome_cible": "D1301",
+            "libelle_rome_cible": "Management de magasin de d\u00e9tail"
+        },
+        {
+            "code_rome_cible": "D1402",
+            "libelle_rome_cible": "Relation commerciale grands comptes et entreprises"
+        },
+        {
+            "code_rome_cible": "D1403",
+            "libelle_rome_cible": "Relation commerciale aupr\u00e8s de particuliers"
+        }
+    ]
+}

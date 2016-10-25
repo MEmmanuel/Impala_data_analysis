@@ -1,0 +1,390 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent polyvalent / Agente polyvalente d'h\u00f4tellerie",
+            "priorisation": "1",
+            "libelle": "Agent polyvalent / Agente polyvalente d'h\u00f4tellerie",
+            "code_ogr": "10752"
+        },
+        {
+            "libelle_court": "Cafetier / Cafeti\u00e8re d'h\u00f4tel",
+            "priorisation": "1",
+            "libelle": "Cafetier / Cafeti\u00e8re d'h\u00f4tel",
+            "code_ogr": "38083"
+        },
+        {
+            "libelle_court": "Employ\u00e9 / Employ\u00e9e d'h\u00f4tel",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 / Employ\u00e9e d'h\u00f4tel",
+            "code_ogr": "14796"
+        },
+        {
+            "libelle_court": "Employ\u00e9 polyvalent / Employ\u00e9e polyvalente d'h\u00f4tellerie",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 polyvalent / Employ\u00e9e polyvalente d'h\u00f4tellerie",
+            "code_ogr": "14814"
+        },
+        {
+            "libelle_court": "Employ\u00e9(e) polyvalent(e) en \u00e9tablissement h\u00f4telier",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 polyvalent / Employ\u00e9e polyvalente en \u00e9tablissement h\u00f4telier",
+            "code_ogr": "14815"
+        },
+        {
+            "libelle_court": "Equipier / Equipi\u00e8re de banquet",
+            "priorisation": "1",
+            "libelle": "Equipier / Equipi\u00e8re de banquet",
+            "code_ogr": "38579"
+        },
+        {
+            "libelle_court": "Equipier / Equipi\u00e8re d'h\u00f4tel",
+            "priorisation": "1",
+            "libelle": "Equipier / Equipi\u00e8re d'h\u00f4tel",
+            "code_ogr": "14873"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Renseigner le client sur les prestations de l'\u00e9tablissement et les modalit\u00e9s de r\u00e9servation",
+            "code_ogr": "3025",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accueillir les clients \u00e0 leur arriv\u00e9e et effectuer les formalit\u00e9s administratives li\u00e9es \u00e0 leur s\u00e9jour",
+            "code_ogr": "3498",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la pr\u00e9paration et le service des petits-d\u00e9jeuners en salle, en chambre",
+            "code_ogr": "3537",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer, d\u00e9sinfecter et ranger la chambre et l'installation sanitaire",
+            "code_ogr": "3569",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien et le nettoyage des parties communes",
+            "code_ogr": "1607",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks du linge de lit, de toilette et en effectuer le lavage, repassage, rangement...",
+            "code_ogr": "3269",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "G1205",
+            "libelle_rome_cible": "Personnel d'attractions ou de structures de loisirs"
+        },
+        {
+            "code_rome_cible": "G1501",
+            "libelle_rome_cible": "Personnel d'\u00e9tage"
+        },
+        {
+            "code_rome_cible": "G1702",
+            "libelle_rome_cible": "Personnel du hall"
+        },
+        {
+            "code_rome_cible": "J1301",
+            "libelle_rome_cible": "Personnel polyvalent des services hospitaliers"
+        },
+        {
+            "code_rome_cible": "K1304",
+            "libelle_rome_cible": "Services domestiques"
+        },
+        {
+            "code_rome_cible": "K2204",
+            "libelle_rome_cible": "Nettoyage de locaux"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec une exp\u00e9rience professionnelle dans les secteurs de l'h\u00f4tellerie et de la restauration sans dipl\u00f4me particulier.\nUn dipl\u00f4me de niveau CAP/BEP \u00e0 Bac (Bac professionnel, Brevet professionnel -BP-, ...) dans les secteurs de l'h\u00f4tellerie et de la restauration peut en faciliter l'acc\u00e8s.\nUne bonne condition physique est requise.\nLes recrutements peuvent \u00eatre ouverts sur contrats de travail saisonniers.\nLa pratique d'une ou plusieurs langue(s) \u00e9trang\u00e8re(s), en particulier l'anglais, peut \u00eatre requise.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Effectuer la mise en place du mobilier, du mat\u00e9riel audio-visuel et informatique des salles de r\u00e9unions, de conf\u00e9rences",
+            "code_ogr": "5160",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le service en salle ou au bar pour le d\u00e9jeuner, le d\u00eener, dans la journ\u00e9e",
+            "code_ogr": "5356",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la plonge",
+            "code_ogr": "3535",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la maintenance de premier niveau des appareils et des \u00e9quipements de l'\u00e9tablissement/local",
+            "code_ogr": "5156",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir les factures li\u00e9es aux frais de s\u00e9jour, contr\u00f4ler les moyens de paiement et effectuer l'encaissement",
+            "code_ogr": "3555",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'h\u00f4tels, d'\u00e9tablissements d'h\u00e9bergement touristiques en relation avec diff\u00e9rents services (cuisine, salle, direction, ...), en contact avec les clients.\nElle peut s'exercer en horaires fractionn\u00e9s, les fins de semaine et jours f\u00e9ri\u00e9s.\nL'activit\u00e9 implique la manipulation de charges et la station debout prolong\u00e9e.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de r\u00e9servation",
+            "code_ogr": "21265",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de nettoyage",
+            "code_ogr": "21330",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Branchement et mise en service de mat\u00e9riel informatique, audiovisuel",
+            "code_ogr": "20796",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Plonge manuelle",
+            "code_ogr": "21026",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de machine de plonge automatis\u00e9e",
+            "code_ogr": "21297",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outillages manuels (cl\u00e9, pince, scie, ...)",
+            "code_ogr": "21465",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chiffrage/calcul de co\u00fbt",
+            "code_ogr": "20813",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tel \u00e9conomique",
+            "code_ogr": "23963",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tel non homologu\u00e9 ou non class\u00e9",
+            "code_ogr": "23964",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tel 1 \u00e9toile",
+            "code_ogr": "23958",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tel 2 \u00e9toiles",
+            "code_ogr": "23959",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tel 3 \u00e9toiles",
+            "code_ogr": "23960",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tel 4 \u00e9toiles",
+            "code_ogr": "23961",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tel 5 \u00e9toiles",
+            "code_ogr": "23962",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tellerie de plein air",
+            "code_ogr": "23965",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9sidence de tourisme",
+            "code_ogr": "24051",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9sidence h\u00f4teli\u00e8re",
+            "code_ogr": "24052",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Tourisme rural",
+            "code_ogr": "23653",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en extra",
+            "code_ogr": "38056",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Modalit\u00e9s d'accueil",
+            "code_ogr": "22161",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Typologie des clients/consommateurs",
+            "code_ogr": "23348",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Types de produits d'entretien",
+            "code_ogr": "23329",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9",
+            "code_ogr": "22648",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de gestion de stocks",
+            "code_ogr": "22609",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Codes et symboles d'entretien des textiles",
+            "code_ogr": "21730",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des produits d'entretien textile",
+            "code_ogr": "21644",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'encaissement",
+            "code_ogr": "22454",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise tout ou partie des activit\u00e9s d'un \u00e9tablissement h\u00f4telier ou de tourisme (accueil, services aux clients, entretien des chambres et des locaux, ...), selon la charte qualit\u00e9 de l'\u00e9tablissement et les r\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9.\nPeut effectuer le service en salle pour les repas.\n",
+    "intitule": "Personnel polyvalent d'h\u00f4tellerie",
+    "code_ogr": "196",
+    "code_rome": "G1502",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "G1503",
+            "libelle_rome_cible": "Management du personnel d'\u00e9tage"
+        },
+        {
+            "code_rome_cible": "G1701",
+            "libelle_rome_cible": "Conciergerie en h\u00f4tellerie"
+        },
+        {
+            "code_rome_cible": "G1703",
+            "libelle_rome_cible": "R\u00e9ception en h\u00f4tellerie"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e papetier/ère</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire de la recherche/concevoir, utiliser des technologies industrielles de pointe/coordonner l'activité d'une équipe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction organisation de la production industrielle</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie du papier carton</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<MET_GFE label="Descripteur thesaurus GFE">GFE matériaux laboratoire organisation industrielle/ingénieur papetier</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10338</lien_onisep>
+<ROME Level="1B" csRelFld="10338">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="265" csRelFld="265">
+<CSLABELFLD label="">H1206</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception, recherche, études et développement</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H1206</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie études, recherche et développement industriel</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10338">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17990" csRelFld="17990">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17990</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10338</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Diriger une unité de fabrication</inter>
+<p>Responsable d'une unité de fabrication qu'il dirige et anime, l'ingénieur papetier connaît parfaitement le papier, ses procédés de fabrication et de transformation. Son objectif : augmenter la productivité tout en maîtrisant les coûts. Grâce à la gestion des équipements par des systèmes informatiques perfectionnés, l'ingénieur papetier peut intervenir en cours de fabrication.</p>
+<inter>Gérer le contrôle qualité</inter>
+<p>L'ingénieur gère les investissements (matières premières, machines) et contrôle les flux de production (matières, énergie...). Il est également chargé du contrôle qualité et de la mise au point de nouveaux produits, sans oublier le suivi des impacts sur l'environnement, en application des normes européennes. </p>
+<inter>Faire de la recherche</inter>
+<p>Hors production, il peut être ingénieur de recherche-développement ou ingénieur d'affaires, mais il reste lié à la production.Avec une industrie papetière en perte de vitesse, la recherche constitue une alternative intéressante. Aujourd'hui, les ingénieurs ont des préoccupations écologiques beaucoup plus importantes. L'objectif visé est le recyclage.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17987" csRelFld="17987">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17987</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10338</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>L'École internationale du papier, de la communication imprimée et des biomatériaux-Institut polytechnique (Grenoble INP-Pagora) est le seul établissement en France à former des ingénieurs spécifiquement destinés aux industries papetières. La formation propose deux types de spécialisation : ingénierie de la fibre et des biomatériaux, ingénierie de la communication imprimée. Autre atout, la formation peut être suivie par la voie de l'apprentissage.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur de Grenoble INP-Pagora</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17985" csRelFld="17985">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17985</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10338</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des entreprises étrangères</inter>
+<p>Implantées surtout en Rhône-Alpes, en Ile-de-France, dans les Pays de la Loire, en Haute-Normandie, en Picardie, dans le Nord-Pas-de-Calais et en Lorraine, les trois quarts des entreprises papetières françaises sont intégrées à de puissantes sociétés étrangères, principalement scandinaves et nord-américaines. Cela ne les met pas à l'abri d'un marché très concurrentiel et assez imprévisible, marqué par de fortes variations de prix.</p>
+<inter>La production recrute</inter>
+<p>Si la révolution électronique (avec l'informatique, Internet...) est loin d'avoir marginalisé l'usage du papier, l'industrie papetière voit ses effectifs régulièrement baisser. Les entreprises recherchent cependant des ingénieurs diplômés pour accompagner la modernisation de leur outil de production et les changements liés à l'application des normes environnementales européennes. En revanche, les débouchés en recherche-développement sont très restreints.</p>
+<inter>Des opportunités à l'étranger</inter>
+<p>Les opportunités d'emploi pour l'ingénieur papetier se situent davantage en région qu'en Ile-de-France. Des postes sont également accessibles à l'étranger : en Allemagne et en Grande-Bretagne, pays dépourvus de formation d'ingénieur papetier. Avec une expérience de quelques années, l'ingénieur papetier peut accéder à des fonctions de direction (production, bureau d'études, usine), ainsi qu'au poste de technico-commercial.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2800</sal> euros brut par mois.</p>
+<postit>
+<p>Source : enquête Cnisf (Conseil national des ingénieurs et scientifiques de France)/La cellulose, 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

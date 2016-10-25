@@ -1,0 +1,495 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Chef de Bureau Op\u00e9ration - instruction",
+            "priorisation": "1",
+            "libelle": "Chef de Bureau Op\u00e9ration - instruction",
+            "code_ogr": "12074"
+        },
+        {
+            "libelle_court": "Chef de corps",
+            "priorisation": "1",
+            "libelle": "Chef de corps",
+            "code_ogr": "12108"
+        },
+        {
+            "libelle_court": "Chef de peloton de combat",
+            "priorisation": "1",
+            "libelle": "Chef de peloton de combat",
+            "code_ogr": "12205"
+        },
+        {
+            "libelle_court": "Chef de section de combat",
+            "priorisation": "1",
+            "libelle": "Chef de section de combat",
+            "code_ogr": "12333"
+        },
+        {
+            "libelle_court": "Commandant / Commandante de bataillon",
+            "priorisation": "1",
+            "libelle": "Commandant / Commandante de bataillon",
+            "code_ogr": "12727"
+        },
+        {
+            "libelle_court": "Commandant / Commandante de compagnie de combat",
+            "priorisation": "1",
+            "libelle": "Commandant / Commandante de compagnie de combat",
+            "code_ogr": "12730"
+        },
+        {
+            "libelle_court": "Commandant / Commandante d'unit\u00e9 de combat",
+            "priorisation": "1",
+            "libelle": "Commandant / Commandante d'unit\u00e9 de combat",
+            "code_ogr": "12736"
+        },
+        {
+            "libelle_court": "Officier(\u00e8re) commandement op\u00e9rationnel de l'arm\u00e9e de l'air",
+            "priorisation": "1",
+            "libelle": "Officier / Offici\u00e8re commandement op\u00e9rationnel de l'arm\u00e9e de l'air",
+            "code_ogr": "17014"
+        },
+        {
+            "libelle_court": "Officier(\u00e8re) commandement op\u00e9rationnel de l'arm\u00e9e de terre",
+            "priorisation": "1",
+            "libelle": "Officier / Offici\u00e8re commandement op\u00e9rationnel de l'arm\u00e9e de terre",
+            "code_ogr": "17015"
+        },
+        {
+            "libelle_court": "Officier / Offici\u00e8re des armes",
+            "priorisation": "1",
+            "libelle": "Officier / Offici\u00e8re des armes",
+            "code_ogr": "17025"
+        },
+        {
+            "libelle_court": "Officier / Offici\u00e8re des bases de l'air",
+            "priorisation": "1",
+            "libelle": "Officier / Offici\u00e8re des bases de l'air",
+            "code_ogr": "17026"
+        },
+        {
+            "libelle_court": "Officier / Offici\u00e8re d'Etat Major",
+            "priorisation": "1",
+            "libelle": "Officier / Offici\u00e8re d'Etat Major",
+            "code_ogr": "17027"
+        },
+        {
+            "libelle_court": "Officier / Offici\u00e8re marine nationale",
+            "priorisation": "1",
+            "libelle": "Officier / Offici\u00e8re marine nationale",
+            "code_ogr": "17030"
+        },
+        {
+            "libelle_court": "Officier / Offici\u00e8re reconnaissance",
+            "priorisation": "1",
+            "libelle": "Officier / Offici\u00e8re reconnaissance",
+            "code_ogr": "17039"
+        },
+        {
+            "libelle_court": "Officier observateur / Offici\u00e8re observatrice",
+            "priorisation": "1",
+            "libelle": "Officier observateur / Offici\u00e8re observatrice",
+            "code_ogr": "17034"
+        },
+        {
+            "libelle_court": "Responsable op\u00e9rationnel / op\u00e9rationnelle de la d\u00e9fense",
+            "priorisation": "1",
+            "libelle": "Responsable op\u00e9rationnel / op\u00e9rationnelle de la d\u00e9fense",
+            "code_ogr": "19141"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Analyser, \u00e9valuer les informations op\u00e9rationnelles et tactiques et d\u00e9terminer les actions \u00e0 engager",
+            "code_ogr": "685",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Diriger les actions et coordonner les moyens op\u00e9rationnels et les personnels",
+            "code_ogr": "1476",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "2",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler le d\u00e9roulement des actions, identifier les \u00e9volutions de la situation et d\u00e9terminer les mesures appropri\u00e9es",
+            "code_ogr": "1091",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et contr\u00f4ler la disponibilit\u00e9 et l'op\u00e9rationnalit\u00e9 des moyens humains et mat\u00e9riels",
+            "code_ogr": "3219",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler l'application des r\u00e8gles et l'ex\u00e9cution des consignes par des personnels militaires",
+            "code_ogr": "1082",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conseiller et apporter un appui technique \u00e0 la direction, aux pr\u00e9fets, aux \u00e9lus, ... en mati\u00e8re de pr\u00e9vention, en gestion des risques, ...",
+            "code_ogr": "936",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "F1202",
+            "libelle_rome_cible": "Direction de chantier du BTP"
+        },
+        {
+            "code_rome_cible": "K1702",
+            "libelle_rome_cible": "Direction de la s\u00e9curit\u00e9 civile et des secours"
+        },
+        {
+            "code_rome_cible": "N1302",
+            "libelle_rome_cible": "Direction de site logistique"
+        },
+        {
+            "code_rome_cible": "N2102",
+            "libelle_rome_cible": "Pilotage et navigation technique a\u00e9rienne"
+        },
+        {
+            "code_rome_cible": "N2202",
+            "libelle_rome_cible": "Contr\u00f4le de la navigation a\u00e9rienne"
+        },
+        {
+            "code_rome_cible": "N3101",
+            "libelle_rome_cible": "Encadrement de la navigation maritime"
+        },
+        {
+            "code_rome_cible": "N4201",
+            "libelle_rome_cible": "Direction d'exploitation des transports routiers de marchandises"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau Bac+2 (BTS, L2, ...) \u00e0 Master (Professionnel, dipl\u00f4me d'ing\u00e9nieur, ...).\nUne bonne condition physique est requise.\nLa pratique d'une langue \u00e9trang\u00e8re, en particulier l'anglais, peut \u00eatre exig\u00e9e.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Coordonner et commander des engagements (tirs, modes d'actions, mouvements, d\u00e9ploiements, ...)",
+            "code_ogr": "4313",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et coordonner des moyens d'information et de commandement (communication, transmission, renseignement, \u00e9coute, d\u00e9tection, ...)",
+            "code_ogr": "9704",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Diriger et coordonner des op\u00e9rations d'assistance et secours \u00e0 des personnels, populations, ressortissants (\u00e9vacuation, protection, ...)",
+            "code_ogr": "4741",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Former des personnels militaires \u00e0 des techniques de combat, de tactique, de protection, de secours, ...",
+            "code_ogr": "6021",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer des sc\u00e9narios de menaces potentielles et concevoir des op\u00e9rations pr\u00e9ventives/correctives",
+            "code_ogr": "5594",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proposer ou contr\u00f4ler des \u00e9volutions de mat\u00e9riels, syst\u00e8mes et \u00e9quipements (sp\u00e9cification, d\u00e9veloppement, test, essai, mode op\u00e9ratoire, ...)",
+            "code_ogr": "8199",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier et mettre en place des actions de gestion de ressources humaines",
+            "code_ogr": "3560",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein des arm\u00e9es (de terre, de l'air, marine nationale) en contact avec diff\u00e9rents intervenants (interarm\u00e9es, institutionnels, gendarmerie, services publics, ...). Elle implique des d\u00e9placements fr\u00e9quents, parfois un \u00e9loignement du domicile de plusieurs jours ou mois.\nElle varie selon l'arm\u00e9e (de terre, de l'air, marine), le secteur (infanterie, blind\u00e9, artillerie, ...), le grade, la taille (peloton, section, r\u00e9giment, ...), le type d'op\u00e9ration (combat, appui, soutien, ...).\nElle peut s'exercer les fins de semaine, jours f\u00e9ri\u00e9s, de nuit et est soumise \u00e0 des astreintes.\nLe port d'une tenue professionnelle (casque, pare-\u00e9clats, masque, uniforme, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Maniement d'arme",
+            "code_ogr": "20967",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de Syst\u00e8me d'Information G\u00e9ographique -SIG-",
+            "code_ogr": "21389",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "3",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Force navale et sous-marine",
+            "code_ogr": "23941",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "A\u00e9ronavale",
+            "code_ogr": "23392",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arme Blind\u00e9e",
+            "code_ogr": "23400",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e de l'air",
+            "code_ogr": "23402",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e de Terre",
+            "code_ogr": "23403",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Artillerie",
+            "code_ogr": "23405",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Fusilier marin / Fusilier commando",
+            "code_ogr": "23506",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "G\u00e9nie militaire",
+            "code_ogr": "23511",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "L\u00e9gion \u00e9trang\u00e8re",
+            "code_ogr": "23540",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Marine Nationale",
+            "code_ogr": "23548",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Renseignement",
+            "code_ogr": "23615",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Troupes parachutistes",
+            "code_ogr": "23661",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Electrom\u00e9canique",
+            "code_ogr": "21832",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Optronique",
+            "code_ogr": "22246",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation en pyrotechnie",
+            "code_ogr": "22568",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisation de la cha\u00eene logistique",
+            "code_ogr": "22249",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Topographie",
+            "code_ogr": "23284",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Risques Nucl\u00e9aire, Radiologique, Bact\u00e9riologique et Chimique -NRBC-",
+            "code_ogr": "22674",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de management",
+            "code_ogr": "22956",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sociologie",
+            "code_ogr": "22689",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de d\u00e9tection",
+            "code_ogr": "22890",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de transmissions (guerre \u00e9lectronique, ...)",
+            "code_ogr": "23163",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de secourisme/sauvetage",
+            "code_ogr": "23114",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de maintien de l'ordre",
+            "code_ogr": "22955",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques p\u00e9dagogiques",
+            "code_ogr": "23253",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nCommande, conduit l'instruction et l'action de combattants dans le cadre d'op\u00e9rations militaires de d\u00e9fense de la nation, des int\u00e9r\u00eats nationaux et de la souverainet\u00e9 nationale selon les ordres, les r\u00e8glements, la politique de d\u00e9fense nationale et les institutions.\nIntervient dans des domaines sp\u00e9cialis\u00e9s des arm\u00e9es et du combat.\n",
+    "intitule": "Direction op\u00e9rationnelle de la d\u00e9fense",
+    "code_ogr": "393",
+    "code_rome": "K1703",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "H1102",
+            "libelle_rome_cible": "Management et ing\u00e9nierie d'affaires"
+        },
+        {
+            "code_rome_cible": "H1302",
+            "libelle_rome_cible": "Management et ing\u00e9nierie Hygi\u00e8ne S\u00e9curit\u00e9 Environnement -HSE- industriels"
+        },
+        {
+            "code_rome_cible": "H1502",
+            "libelle_rome_cible": "Management et ing\u00e9nierie qualit\u00e9 industrielle"
+        },
+        {
+            "code_rome_cible": "H2502",
+            "libelle_rome_cible": "Management et ing\u00e9nierie de production"
+        },
+        {
+            "code_rome_cible": "I1102",
+            "libelle_rome_cible": "Management et ing\u00e9nierie de maintenance industrielle"
+        },
+        {
+            "code_rome_cible": "K2502",
+            "libelle_rome_cible": "Management de s\u00e9curit\u00e9 priv\u00e9e"
+        },
+        {
+            "code_rome_cible": "M1302",
+            "libelle_rome_cible": "Direction de petite ou moyenne entreprise"
+        },
+        {
+            "code_rome_cible": "M1402",
+            "libelle_rome_cible": "Conseil en organisation et management d'entreprise"
+        },
+        {
+            "code_rome_cible": "M1503",
+            "libelle_rome_cible": "Management des ressources humaines"
+        }
+    ]
+}

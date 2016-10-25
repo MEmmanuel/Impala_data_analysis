@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">chargé/e d'études en valorisation agricole des déchets</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">me déplacer souvent/préserver l'environnement</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur agriculture/secteur recherche/secteur sociétés d'ingénierie et d'études techniques</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">valorisation des déchets/agronomie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE nettoyage assainissement environnement sécurité</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100572</lien_onisep>
+<ROME Level="1B" csRelFld="100572">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100572">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1504" csRelFld="1504">
+<CSLABELFLD label="">ingénieur / ingénieure étude méthanisation</CSLABELFLD>
+<MET_ID label="Identifiant">100572</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">24/10/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1504</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">ingénieur/e étude méthanisation</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1504">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="55409" csRelFld="55409">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55409</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100572</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Identifier les déchets</inter>
+<p>Les boues des stations d'épuration urbaines ou industrielles, les déchets verts, les déchets des industries agroalimentaires et des élevages contiennent des éléments nutritifs et de la matière organique. Ces composants biodégradables sont utiles pour enrichir les sols à cultiver (à la place des engrais chimiques), à condition d'être traités correctement. </p>
+<inter>Analyser la matière première</inter>
+<p>Le chargé d'études en valorisation agricole des déchets établit d'abord l'inventaire des déchets qu'il a collectés auprès des producteurs. Puis il cherche des exploitations agricoles possédant des parcelles susceptibles de recevoir les épandages de ces déchets. Il analyse ces derniers pour vérifier leur innocuité et leur compatibilité avec les sols à fertiliser. Il peut proposer des solutions pour traiter ces boues avant de les épandre.</p>
+<inter>Faire un bilan de fertilisation</inter>
+<p>Le recyclage agricole nécessite un encadrement strict et rigoureux. Il faut vérifier qu'il n'y a pas pollution des sols et présenter un projet à l'administration. Une fois les autorisations obtenues, le chargé d'études réalise un suivi agronomique des épandages comprenant le conseil aux agriculteurs, des prélèvements de sols, la préparation du planning prévisionnel d'épandage et la rédaction du bilan de fertilisation.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55413" csRelFld="55413">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55413</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100572</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le chargé d'études en valorisation agricole des déchets doit avoir de solides connaissances en environnement (déchets et traitements) et en agriculture pour connaître les besoins des sols. C'est souvent un ingénieur agronome qui a suivi une spécialisation adaptée.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur agronome avec spécialisation environnement ou gestion des déchets</itsimp>
+<itsimp>Master en agrosciences ou en gestion, traitement et valorisation des déchets</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55411" csRelFld="55411">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55411</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100572</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un métier en développement</inter>
+<p>Dans le secteur de l'élevage, 300 millions de tonnes de déchets organiques sont produits chaque année, selon l'Irstea (Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture). Il faudrait d'ailleurs parler d'une ressource à valoriser. Pour l'Ademe (Agence de l'environnement et de la maîtrise de l'énergie), la France détient même l'un des plus gros potentiels de production de biogaz agricole en Europe. Le défi est de taille, et les chambres d'agriculture s'y sont attelées et emploient de plus en plus de conseillers spécialisés en valorisation. Elles promeuvent aussi le co-compostage à la ferme : le recyclage de proximité (traiter les déchets verts des collectivités au sein d'une exploitation agricole proche). L'expertise du chargé d'études est donc recherchée pour mettre en place une vraie transition des habitudes de la filière agricole.</p>
+<inter>Des perspectives d'évolution</inter>
+<p>Le chargé d'études en valorisation agricole des déchets travaille au sein d'une chambre d'agriculture (mais le nombre de poste reste limité). Il peut aussi travailler chez un industriel du biogaz, en bureau d'études, en cabinet de conseil ou dans un institut de recherche. Il peut ensuite devenir directeur de bureau d'études ou responsable de recherche.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>1800</sal> à 2300 euros brut par mois.</p>
+<postit>
+<p>Source : APCA (Assemblée permanente des chambres d'agriculture), 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

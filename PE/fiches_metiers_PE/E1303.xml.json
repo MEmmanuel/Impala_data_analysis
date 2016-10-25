@@ -1,0 +1,650 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente de ma\u00eetrise en industrie graphique",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de ma\u00eetrise en industrie graphique",
+            "code_ogr": "10516"
+        },
+        {
+            "libelle_court": "Agent / Agente d'encadrement en industrie graphique",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'encadrement en industrie graphique",
+            "code_ogr": "10652"
+        },
+        {
+            "libelle_court": "Chef d'atelier en industrie graphique",
+            "priorisation": "1",
+            "libelle": "Chef d'atelier en industrie graphique",
+            "code_ogr": "12055"
+        },
+        {
+            "libelle_court": "Chef de fabrication \u00e9dition",
+            "priorisation": "1",
+            "libelle": "Chef de fabrication \u00e9dition",
+            "code_ogr": "12141"
+        },
+        {
+            "libelle_court": "Chef de fabrication en industrie graphique",
+            "priorisation": "1",
+            "libelle": "Chef de fabrication en industrie graphique",
+            "code_ogr": "12145"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe en industrie graphique",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe en industrie graphique",
+            "code_ogr": "12459"
+        },
+        {
+            "libelle_court": "Responsable d'atelier de fa\u00e7onnage",
+            "priorisation": "1",
+            "libelle": "Responsable d'atelier de fa\u00e7onnage",
+            "code_ogr": "18634"
+        },
+        {
+            "libelle_court": "Responsable d'atelier de routage",
+            "priorisation": "1",
+            "libelle": "Responsable d'atelier de routage",
+            "code_ogr": "18646"
+        },
+        {
+            "libelle_court": "Responsable d'atelier d'impression",
+            "priorisation": "1",
+            "libelle": "Responsable d'atelier d'impression",
+            "code_ogr": "18650"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier les caract\u00e9ristiques du dossier de fabrication des produits et v\u00e9rifier la faisabilit\u00e9 de la production",
+            "code_ogr": "2094",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Planifier les \u00e9tapes de production, r\u00e9partir les activit\u00e9s entre les ateliers/\u00e9quipes et affecter le personnel sur les postes de travail",
+            "code_ogr": "2513",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9lectionner les machines et les outillages appropri\u00e9s \u00e0 la production, v\u00e9rifier leur conformit\u00e9",
+            "code_ogr": "3169",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier l'approvisionnement des ateliers, lignes de production, machines en consommables",
+            "code_ogr": "3434",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Analyser les donn\u00e9es d'activit\u00e9, les dysfonctionnements de la production et pr\u00e9coniser les actions correctives",
+            "code_ogr": "658",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et v\u00e9rifier les \u00e9l\u00e9ments d'activit\u00e9 et de gestion administrative du personnel",
+            "code_ogr": "3613",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler ou superviser les contr\u00f4les de conformit\u00e9 de la production et des produits fabriqu\u00e9s",
+            "code_ogr": "1179",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "8",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "E1308",
+            "libelle_rome_cible": "Intervention technique en industrie graphique"
+        },
+        {
+            "code_rome_cible": "H2504",
+            "libelle_rome_cible": "Encadrement d'\u00e9quipe en industrie de transformation"
+        },
+        {
+            "code_rome_cible": "H2505",
+            "libelle_rome_cible": "Encadrement d'\u00e9quipe ou d'atelier en mat\u00e9riaux souples"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau Bac \u00e0 Bac+2 (BTS, DUT, ...) en communication et industrie graphique, m\u00e9canique, \u00e9lectrotechnique, ... compl\u00e9t\u00e9 par une exp\u00e9rience professionnelle dans le m\u00eame secteur.\nLa ma\u00eetrise de l'outil informatique (logiciels de bureautique, de gestion de production, ...) peut \u00eatre requise.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Superviser des phases de fabrication :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Fa\u00e7onnage",
+            "code_ogr": "9752",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Impression",
+            "code_ogr": "9753",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Routage",
+            "code_ogr": "9754",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Utiliser des proc\u00e9d\u00e9s ou des techniques :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Flexographie",
+            "code_ogr": "7410",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "H\u00e9liogravure",
+            "code_ogr": "7411",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Lithographie",
+            "code_ogr": "7412",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Num\u00e9rique",
+            "code_ogr": "7413",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Offset",
+            "code_ogr": "7414",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9rigraphie",
+            "code_ogr": "7415",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Taille douce",
+            "code_ogr": "7416",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tampographie",
+            "code_ogr": "7417",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Typogravure",
+            "code_ogr": "7418",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Intervenir dans une structure \u00e9quip\u00e9e de machines et /ou d'\u00e9quipements d'impression :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "A feuilles",
+            "code_ogr": "6941",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Installation robotis\u00e9e",
+            "code_ogr": "6942",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Machine \u00e0 commande num\u00e9rique",
+            "code_ogr": "6946",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Machine 1 ou 2 couleurs",
+            "code_ogr": "6943",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Machine 3 couleurs",
+            "code_ogr": "6944",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Machine 4 couleurs et plus",
+            "code_ogr": "6945",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Machine automatis\u00e9e",
+            "code_ogr": "6947",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Machine complexe (fa\u00e7onnage incorpor\u00e9)",
+            "code_ogr": "6948",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Machine grand format",
+            "code_ogr": "6949",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Rotative monobobine",
+            "code_ogr": "6950",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "10",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Rotative multibobines",
+            "code_ogr": "6951",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "11",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la conformit\u00e9 de l'\u00e9preuve par rapport \u00e0 la commande et \u00e9tablir le Bon A Tirer",
+            "code_ogr": "3512",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer des solutions techniques et organisationnelles d'am\u00e9lioration de production",
+            "code_ogr": "5595",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer et faire \u00e9voluer des proc\u00e9dures qualit\u00e9 et contr\u00f4ler la conformit\u00e9 de leur application",
+            "code_ogr": "3549",
+            "code_type_activite": "3",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier l'application des consignes d'hygi\u00e8ne, de s\u00e9curit\u00e9 et de qualit\u00e9",
+            "code_ogr": "3625",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Former du personnel \u00e0 des proc\u00e9dures, techniques, proc\u00e9d\u00e9s de production, outils, consignes",
+            "code_ogr": "3559",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises d'impression (imprimerie de labeur, d'\u00e9dition, de presse, s\u00e9rigraphie, flexographie, ...) ou d'imprimeries int\u00e9gr\u00e9es aux entreprises, en relation avec diff\u00e9rents services (pr\u00e9presse, maintenance, qualit\u00e9, ...).\nElle varie selon le secteur (imprimerie de labeur, de presse, ...) et le degr\u00e9 d'automatisation du site.\nElle peut s'exercer par roulement, les fins de semaine, jours f\u00e9ri\u00e9s ou de nuit.\nL'activit\u00e9 s'effectue en atelier et peut impliquer le port de charges.\nLe port d'\u00e9quipements de protection (chaussures de s\u00e9curit\u00e9, protections anti-bruit, lunettes, ...) peut \u00eatre requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Gestion de Production Assist\u00e9e Par Ordinateur -GPAO-",
+            "code_ogr": "21258",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion de planning",
+            "code_ogr": "21257",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion de stocks",
+            "code_ogr": "21259",
+            "position_item": "4",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Atelier int\u00e9gr\u00e9",
+            "code_ogr": "23716",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Administration / Services de l'Etat",
+            "code_ogr": "23388",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Fa\u00e7onnage/routage",
+            "code_ogr": "23497",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Imprimerie",
+            "code_ogr": "23524",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Imprimerie de labeur",
+            "code_ogr": "23525",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Imprimerie de presse",
+            "code_ogr": "23526",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Imprimerie d'\u00e9dition",
+            "code_ogr": "23527",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie du papier, carton",
+            "code_ogr": "23531",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie graphique",
+            "code_ogr": "23532",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Papeterie",
+            "code_ogr": "23570",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Cha\u00eene graphique",
+            "code_ogr": "21702",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Colorim\u00e9trie",
+            "code_ogr": "21734",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sp\u00e9cificit\u00e9s des supports d'impression",
+            "code_ogr": "22718",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'impression",
+            "code_ogr": "23223",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes qualit\u00e9",
+            "code_ogr": "22233",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9canique g\u00e9n\u00e9rale",
+            "code_ogr": "21882",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en \u00e9lectricit\u00e9",
+            "code_ogr": "21859",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Programmation de machine \u00e0 commandes num\u00e9riques",
+            "code_ogr": "22486",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ordonnancement",
+            "code_ogr": "22247",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de finition/fa\u00e7onnage",
+            "code_ogr": "22910",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de routage",
+            "code_ogr": "22431",
+            "position_item": "11",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation en Hygi\u00e8ne, S\u00e9curit\u00e9, Environnement -HSE-",
+            "code_ogr": "22567",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques p\u00e9dagogiques",
+            "code_ogr": "23253",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nOrganise l'activit\u00e9 d'une ou de plusieurs \u00e9quipes d'op\u00e9rateurs et de conducteurs de machines d'impression, de fa\u00e7onnage, routage, ... de produits graphiques.\nEffectue le suivi de la fabrication selon les r\u00e8gles de s\u00e9curit\u00e9, la r\u00e9glementation et les imp\u00e9ratifs de production.\nPeut mettre en place ou pr\u00e9coniser des solutions d'optimisation de la production (\u00e9volution des modes op\u00e9ratoires, des \u00e9quipements, ...).\n",
+    "intitule": "Encadrement des industries graphiques",
+    "code_ogr": "134",
+    "code_rome": "E1303",
+    "mobilites_si_evolution": []
+}

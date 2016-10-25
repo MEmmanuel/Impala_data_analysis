@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">collaborateur/trice de notaire</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction administrative</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur juridique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">notariat</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit/clerc de notaire</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10305</lien_onisep>
+<ROME Level="1B" csRelFld="10305">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10305">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="19045" csRelFld="19045">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">19045</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10305</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Préparer et rédiger des actes</inter>
+<p>Mariage, Pacs, succession, adoption, vente et achat immobiliers : autant de contrats préparés et rédigés par le collaborateur de notaire. Sous la responsabilité de ce dernier, il assure le montage et le suivi des dossiers après avoir rassemblé les pièces administratives nécessaires.</p>
+<inter>Respecter la loi</inter>
+<p>Spécialisé en fiscalité immobilière, en droit de la famille, de l'urbanisme, des affaires ou encore des sociétés, il règle des situations concrètes, conformément à la législation. S'il joue un rôle essentiel dans le respect et l'application de la loi, il n'a pas de responsabilité juridique et n'est pas autorisé à signer les actes notariés.</p>
+<inter>Informer et conseiller</inter>
+<p>Ce professionnel travaille de concert avec ses collègues (secrétaires, comptables, formalistes...), mais aussi avec de nombreux interlocuteurs extérieurs (banquiers, propriétaires, agents immobiliers). </p>
+<p>Recevoir les clients de l'étude fait également partie de ses activités. Il les écoute, les conseille et prend le temps de leur expliquer les termes juridiques liés à l'affaire en cours.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17126" csRelFld="17126">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17126</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10305</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Le BTS notariat est préparé au sein des 18 instituts des métiers du notariat ainsi que dans plus de 25 lycées publics et une quarantaine d'établissements privés.</accr_p>La licence pro métiers du notariat est préparée dans certaines facultés et UFR de droit et dans ces mêmes instituts, en partenariat avec les universités. Au niveau supérieur, la formation conduisant au DIMN (diplôme de l'Institut des métiers du notariat) est ouverte aux titulaires de la licence professionnelle métiers du notariat. Elle se déroule sur 1 an, en alternance, dans un office de notaire.</p>
+<inter>Niveau bac + 2</inter>
+<liste>
+<itsimp>
+<em>BTS</em> notariat</itsimp>
+</liste>
+<inter>Niveau bac + 3</inter>
+<liste>
+<itsimp>
+<em>Licence pro</em> métiers du notariat</itsimp>
+</liste>
+<inter>Niveau bac + 4</inter>
+<liste>
+<itsimp>DIMN (d<em>iplôme</em>de l'Institut des métiers du notariat)</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17123" csRelFld="17123">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17123</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10305</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Différentes fonctions</inter>
+<p>Au fil de sa carrière, le collaborateur de notaire peut occuper diverses fonctions. </p>
+<p>
+<em>Assistant notarial</em>, il assure la collecte et une première analyse des pièces du dossier, et participe à la rédaction d'actes.</p>
+<p>
+<em>Formaliste</em>, il publie les actes reçus par le notaire. <em>Négociateur immobilier</em>, il met en relation l'acquéreur et le vendeur.</p>
+<inter>Plus ou moins de responsabilités</inter>
+<p>Le niveau de responsabilités du collaborateur varie en fonction de son diplôme, de ses connaissances en droit, de son expérience et de l'importance de l'étude qui l'emploie. Les opportunités d'évolution dépendent largement de la capacité d'autonomie et d'initiative dont il fait preuve dans son travail. D'abord « technicien », il peut parvenir à encadrer une équipe. Le collaborateur confirmé est en mesure de recevoir et de conseiller la clientèle.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1842</sal> euros brut par mois.</p>
+<postit>
+<p>Source : Institut des métiers du notariat de Clermont-Ferrand, 2011.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">responsable de la rémunération</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">manier les chiffres/coordonner l'activité d'une équipe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur ressources humaines</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">gestion des ressources humaines</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé/responsable de rémunération</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100357</lien_onisep>
+<ROME Level="1B" csRelFld="100357">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100357">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="31678" csRelFld="31678">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31678</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100357</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Suivre les indicateurs sociaux</inter>
+<p>Les courbes et les chiffres n'ont pas de secret pour lui. Le responsable rémunération supervise la préparation et le contrôle de la paie en encadrant une équipe de techniciens. Il est aussi chargé d'élaborer les tableaux de bord sociaux (suivi des salaires, accidents du travail...).</p>
+<inter>Une bonne gestion administrative</inter>
+<p>Garant d'une bonne gestion administrative du personnel, le responsable rémunération veille au respect de la législation du travail, à l'application des règles sociales et conventionnelles de l'entreprise. Il est également en relation avec les caisses de retraite et les mutuelles pour se tenir informé des changements de taux ou des propositions les plus avantageuses en matière de couverture sociale.</p>
+<inter>Fidéliser le personnel</inter>
+<p>Grâce aux outils informatiques de pilotage qu'il a mis en place, il contribue à l'orientation des ressources humaines de l'entreprise. En suivant ses indicateurs, il peut démontrer que le taux de rotation du personnel diminue avec une augmentation de salaire. Une fonction complexe avec le développement du temps partiel et l'internationalisation des entreprises. Car celles-ci gèrent la carrière de leurs expatriés dans des pays où les règles du jeu sont différentes (niveaux de vie, systèmes juridique et fiscal). </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="31682" csRelFld="31682">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31682</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100357</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<titre>Un éventail de diplômes de bac + 2 à bac + 5</titre>
+<p>
+<accr_p>Selon l'importance du service et le niveau de responsabilité, le niveau de formation peut varier de bac + 2 au bac + 5.</accr_p>
+</p>
+<liste>
+<tete>Plusieurs diplômes mènent à la fonction :</tete>
+<itsimp>Le DUT gestion et administration des entreprises (GEA) se prépare en 2 ans après le bac. Proposé dans toutes les régions, ce diplôme est assorti d'une option ressources humaines en 2e année dans une majorité d'établissements. Il peut également se préparer en apprentissage.</itsimp>
+<itsimp>Un grand nombre de licences professionnelles concerne le domaine de la gestion des entreprises. En particulier la licence pro management des organisations, préparée dans de nombreuses universités, convient bien à ce métier, notamment pour l'exercice en PME (Versailles, Toulon, Amiens, Paris 11...). Elle se prépare en un an après un bac + 2 dans le domaine de la gestion et de l'économie, en particulier après un DUT GEA. Là encore, certaines sont proposées en apprentissage.</itsimp>
+<itsimp>De nombreux masters professionnels en ressources humaines (bac + 5) sont accessibles après une licence en droit, gestion, économie... ou après un IEP (sciences politiques). Des formations sélectives recherchant des candidats motivés, ayant déjà effectué un stage en entreprise. </itsimp>
+<itsimp>Les écoles de commerce peuvent préparer elles aussi à cette fonction. En 3 ans après une classe prépa ou en 5 ans après le bac, certaines proposent même des spécialisations en ressources humaines.</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="31680" csRelFld="31680">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31680</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100357</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>La paie : un tremplin</inter>
+<p>C'est la fonction qui offre le plus d'emplois au sein des ressources humaines, même si les effectifs de gestion administrative ont tendance à se resserrer. De fait, pratiquement toutes les entreprises (à partir de 50 personnes) disposent d'une équipe (ou d'une personne) chargée de traiter les rémunérations. Malheureusement, c'est aussi la fonction qui attire le moins les diplômés, rebutés par les chiffres et la « paperasse ». Dommage, car la gestion des rémunérations constitue un tremplin pour accéder ensuite à des postes plus stratégiques, en tant que responsable des RH par exemple.</p>
+<inter>Place aux bac + 2</inter>
+<p>Autre avantage : à la différence des autres fonctions des ressources humaines (recrutant plutôt à bac + 5), celle-ci permet à des titulaires d'un DUT ou d'une licence pro de tirer leur épingle du jeu, à condition d'avoir acquis une première expérience de 2 ou 3 ans. À défaut, une formation en apprentissage ou un stage dans un service similaire peut faciliter l'insertion. </p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2500</sal> euros brut en moyenne</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

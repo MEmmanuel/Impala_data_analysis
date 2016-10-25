@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">professeur/e des écoles </MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">enseigner, éduquer/m'occuper d'enfants ou d'adolescents/animer des activités culturelles, ludiques ou éducatives</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur de l'éducation/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">enseignement - formation/éducation de jeunes enfants</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit/professeur des écoles</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10210</lien_onisep>
+<ROME Level="1B" csRelFld="10210">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="499" csRelFld="499">
+<CSLABELFLD label="">K2106</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Formation initiale et continue</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K2106</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Enseignement des écoles</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10210">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16781" csRelFld="16781">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16781</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10210</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Apprendre à lire, écrire, compter</inter>
+<p>Exerçant exclusivement en école maternelle ou élémentaire, le professeur des écoles travaille auprès d'enfants âgés de 3 à 11 ans. Son rôle : éveiller chez eux l'intérêt pour le monde qui les entoure, leur apprendre à lire, à écrire, à compter&#8230;</p>
+<inter>Suivre le programme, mais à sa façon</inter>
+<p>De la maternelle au primaire, le professeur des écoles suit un programme scolaire défini par le ministère de l'Éducation nationale. En maternelle, l'enfant est initié aux lettres et aux chiffres à travers le jeu. À l'école primaire, l'enseignant met l'accent sur les leçons de français et de calcul pour le préparer à l'entrée au collège. Cinq autres matières constituent les apprentissages de base : sciences et technologie, histoire-géographie, éducation civique, éducation artistique et éducation physique et sportive. Toutefois, le professeur dispose d'une certaine liberté pour organiser ses cours ainsi que les différentes activités intellectuelles, artistiques et sportives.</p>
+<inter>Un emploi du temps chargé</inter>
+<p>D'une école à l'autre, les emplois du temps sont variables. Toutefois, le professeur des écoles doit assurer chaque semaine 26 heures d'enseignement. En primaire, préparer les cours et corriger les devoirs demande beaucoup de temps, surtout quand on débute.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16783" csRelFld="16783">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16783</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10210</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>La première étape à franchir pour devenir professeur des écoles :  obtenir un master MEEF métiers de l'enseignement, de l'éducation et de la formation 1er degré. Et, il faut passer le CRPE (concours de recrutement de professeur des écoles). Une fois le concours réussi, les étudiants deviennent des fonctionnaires stagiaires en responsabilité. Ils suivent une formation en alternance en deuxième année de master qui se déroule à temps partiel dans une école. Attention : s'il est possible de se présenter au concours dès la fin du M1 (1re année de master), le recrutement définitif et la titularisation sont soumis à la validation du M2 (2e année de master)</p>
+<liste>
+<tete>Niveau bac + 5 </tete>
+<itsimp>Master MEEF métiers de l'enseignement, de l'éducation et de la formation 1<exp>er</exp> degré et CRPE</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16784" csRelFld="16784">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16784</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10210</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un secteur au beau fixe</inter>
+<p>De nombreux enseignants doivent être formés et embauchés dans les années à venir. Mais le nombre de postes ouverts au concours dépend du budget alloué. C'est pourquoi le volume des recrutements est ajusté chaque année. La session 2015 a proposé 11 122 postes en concours externe. À suivre !</p>
+<inter>Plusieurs voies d'évolution</inter>
+<p>Après plusieurs années d'enseignement et une formation complémentaire, il est possible de devenir enseignant spécialisé pour s'occuper d'enfants handicapés ou en difficulté, formateur de professeurs, conseiller pédagogique ou psychologue scolaire (à condition d'avoir suivi des études de psychologie). Des fonctions de direction sont également envisageables en tant que directeur d'école, directeur d'établissement spécialisé ou inspecteur de l'Éducation nationale premier degré.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2000</sal> euros brut par mois. </p>
+<postit>
+<p>Source : ministère de l'Éducation nationale, 2016.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

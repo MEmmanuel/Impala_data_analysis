@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">chargé/e d'affaires en génie climatique</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">convaincre, négocier/faire du commerce/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction vente</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur sociétés d'ingénierie et d'études techniques/secteur énergie/secteur second oeuvre bâtiment/secteur gros oeuvre bâtiment/secteur maintenance</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">chauffage/climatisation/équipement technique du bâtiment/énergie thermique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE bâtiment équipements et finitions</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100592</lien_onisep>
+<ROME Level="1B" csRelFld="100592">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="176" csRelFld="176">
+<CSLABELFLD label="">F1106</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception et études</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">F1106</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Ingénierie et études du BTP</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100592">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="55549" csRelFld="55549">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55549</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100592</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Démarche commerciale</inter>
+<p>Le chargé d'affaires en génie climatique répond aux dossiers d'appel d'offres, en tenant compte des contraintes et des demandes des clients (entreprises de bureaux, de logements, aéroports, hôpitaux, etc.) pour leur proposer des solutions techniques adaptées en matière de température et de qualité de l'air. Il analyse d'abord la demande, via un cahier des charges (un hôpital peut exiger une atmosphère stérile en bloc opératoire, par exemple). Avec l'aide des ingénieurs d'études en génie climatique, il élabore une série de propositions techniques.</p>
+<inter>Devis et négociations</inter>
+<p>Le chargé d'affaires en génie climatique établit un devis, puis entame les négociations avec le client. Une fois celui-ci convaincu, il élabore les contrats mentionnant les caractéristiques techniques, les prix et les délais de réalisation des projets. Il est garant des relations commerciales, et veille à la rentabilité et à la qualité des projets. </p>
+<inter>Conduite de projet</inter>
+<p>Après la signature du contrat, il suit la préparation des chantiers, supervise l'installation des équipements et assure le bon déroulement du projet (respect des coûts, de la qualité et des délais). Une fois les travaux terminés, il assure la mise en service de l'installation, en présence du client, et le service après-vente.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55553" csRelFld="55553">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55553</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100592</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Si certains postes sont ouverts aux titulaires de bac + 2/3 (pour vendre des produits de haute technologie), les recruteurs donneront la préférence aux titulaires d'un bac + 5 ayant de l'expérience dans la vente B to B (business to business) ou dans l'environnement du bâtiment. Le poste s'adresse surtout aux ingénieurs spécialisés en génie climatique. La fonction est aussi ouverte aux diplômés des écoles de commerce et de gestion ayant de bonnes connaissances en génie climatique.</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS fluides, énergies, domotique (1<exp>re</exp> session en 2016) ; management des unités commerciales (MUC) ; BTS négociation et relation client</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence pro mention métiers de l'énergétique, de l'environnement et du génie climatique ; mention métiers du BTP : performance énergétique et environnementale des bâtiments</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master sciences, mentions énergie ou énergétique, thermique</itsimp>
+<itsimp>Diplôme d'ingénieur en génie climatique ou thermique</itsimp>
+<itsimp>Diplôme d'école de commerce et de gestion avec spécialité en génie climatique ou thermique</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55551" csRelFld="55551">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55551</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100592</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Divers employeurs</inter>
+<p>Le chargé d'affaires en génie climatique travaille en bureau d'études, en bureau d'ingénierie ou de conseil spécialisé en génie climatique. Il peut également être employé par une grosse entreprise du secteur de l'énergie (comme GDF Suez), dont une filiale est spécialisée dans le génie climatique, ou encore dans une entreprise spécialisée sur un produit (une entreprise de parquets chauffants ou réfrigérants, par exemple).</p>
+<inter>De nouvelles perspectives</inter>
+<p>La généralisation des BBC (bâtiments basse consommation) et le développement des bâtiments à énergie positive (ils produisent plus d'énergie qu'ils n'en consomment) font évoluer le génie climatique. Le chargé d'affaires s'attaque à de nouveaux marchés et commence à vendre des systèmes qui utilisent les technologies numériques sur le réseau d'électricité privé, pour gérer plus efficacement les flux d'énergie de l'habitat individuel ou collectif (smart home).</p>
+<inter>Évolution possible</inter>
+<p>Avec le temps, le chargé d'affaires peut devenir responsable d'un bureau d'études. Avec de bonnes connaissances en gestion et en marketing, il peut aussi créer sa propre entreprise.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Entre <sal>2000</sal> et 3000 euros brut par mois.</p>
+<postit>
+<p>Source : Apec (Association pour l'emploi des cadres), 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

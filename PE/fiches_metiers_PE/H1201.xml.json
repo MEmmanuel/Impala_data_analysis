@@ -1,0 +1,486 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent/Agente de finissage couleurs et effets cuirs et peaux",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de finissage couleurs et effets cuirs et peaux",
+            "code_ogr": "10456"
+        },
+        {
+            "libelle_court": "Coloriste \u00e0 sec",
+            "priorisation": "1",
+            "libelle": "Coloriste \u00e0 sec",
+            "code_ogr": "12709"
+        },
+        {
+            "libelle_court": "Coloriste en finissage",
+            "priorisation": "1",
+            "libelle": "Coloriste en finissage",
+            "code_ogr": "12710"
+        },
+        {
+            "libelle_court": "Coloriste en impression textile",
+            "priorisation": "1",
+            "libelle": "Coloriste en impression textile",
+            "code_ogr": "12711"
+        },
+        {
+            "libelle_court": "Coloriste en industrie alimentaire",
+            "priorisation": "1",
+            "libelle": "Coloriste en industrie alimentaire",
+            "code_ogr": "12712"
+        },
+        {
+            "libelle_court": "Coloriste en industrie chimique",
+            "priorisation": "1",
+            "libelle": "Coloriste en industrie chimique",
+            "code_ogr": "12713"
+        },
+        {
+            "libelle_court": "Coloriste en industrie cosm\u00e9tique",
+            "priorisation": "1",
+            "libelle": "Coloriste en industrie cosm\u00e9tique",
+            "code_ogr": "12714"
+        },
+        {
+            "libelle_court": "Coloriste en peinture",
+            "priorisation": "1",
+            "libelle": "Coloriste en peinture",
+            "code_ogr": "12715"
+        },
+        {
+            "libelle_court": "Coloriste en tannerie-m\u00e9gisserie",
+            "priorisation": "1",
+            "libelle": "Coloriste en tannerie-m\u00e9gisserie",
+            "code_ogr": "12716"
+        },
+        {
+            "libelle_court": "Coloriste en teinture textile",
+            "priorisation": "1",
+            "libelle": "Coloriste en teinture textile",
+            "code_ogr": "12717"
+        },
+        {
+            "libelle_court": "Coloriste sur textiles",
+            "priorisation": "1",
+            "libelle": "Coloriste sur textiles",
+            "code_ogr": "12720"
+        },
+        {
+            "libelle_court": "Coloriste textile",
+            "priorisation": "1",
+            "libelle": "Coloriste textile",
+            "code_ogr": "12721"
+        },
+        {
+            "libelle_court": "Echantillonneur / Echantillonneuse en teinture",
+            "priorisation": "1",
+            "libelle": "Echantillonneur / Echantillonneuse en teinture",
+            "code_ogr": "14554"
+        },
+        {
+            "libelle_court": "Formulateur / Formulatrice coloriste en industrie cosm\u00e9tique",
+            "priorisation": "1",
+            "libelle": "Formulateur / Formulatrice coloriste en industrie cosm\u00e9tique",
+            "code_ogr": "15150"
+        },
+        {
+            "libelle_court": "Responsable de la teinte",
+            "priorisation": "1",
+            "libelle": "Responsable de la teinte",
+            "code_ogr": "18755"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne coloriste en industrie",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne coloriste en industrie",
+            "code_ogr": "19692"
+        },
+        {
+            "libelle_court": "Technicien(ne) coloriste en recherche et d\u00e9veloppement",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne coloriste en recherche et d\u00e9veloppement",
+            "code_ogr": "19693"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne finissage des peaux",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne finissage des peaux",
+            "code_ogr": "20146"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Analyser la couleur d'un \u00e9chantillon client et d\u00e9terminer les types et dosages de composants selon les caract\u00e9ristiques du produit",
+            "code_ogr": "633",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Fabriquer la teinte et r\u00e9aliser les essais de couleurs ou d'effets sur les mati\u00e8res",
+            "code_ogr": "1977",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir la formulation de la teinte et l'adapter en cas de modification des composants",
+            "code_ogr": "1843",
+            "code_type_activite": "2",
+            "riasec_majeur": "A",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9finir les quantit\u00e9s de teinture/coloration et les modalit\u00e9s de fabrication",
+            "code_ogr": "1322",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler les r\u00e9sultats de la teinture/coloration et apporter des ajustements",
+            "code_ogr": "1147",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mettre \u00e0 jour les fiches recettes des teintes pour la production",
+            "code_ogr": "821",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "H1210",
+            "libelle_rome_cible": "Intervention technique en \u00e9tudes, recherche et d\u00e9veloppement"
+        },
+        {
+            "code_rome_cible": "H1503",
+            "libelle_rome_cible": "Intervention technique en laboratoire d'analyse industrielle"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible \u00e0 partir d'un dipl\u00f4me de niveau Bac+2 (BTS) en chimie, ...\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle en colorim\u00e9trie sans dipl\u00f4me particulier.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Contr\u00f4ler le d\u00e9roulement des op\u00e9rations de pr\u00e9traitement/teinture et effectuer les ajustements",
+            "code_ogr": "4242",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser les op\u00e9rations de pr\u00e9traitement ou de teinte de mati\u00e8res",
+            "code_ogr": "9235",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des \u00e9chantillonnages d'impression sur des mati\u00e8res",
+            "code_ogr": "4871",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser l'\u00e9valuation chiffr\u00e9e d'une commande",
+            "code_ogr": "9250",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conseiller les clients, les conducteurs de machine de teinture, ... et leur apporter un appui technique",
+            "code_ogr": "4135",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'industries du textile et du cuir, d'industries chimiques, cosm\u00e9tiques, alimentaires, plasturgiques, ... en relation avec diff\u00e9rents services (teinture, laboratoire de recherche, ...).\nL'activit\u00e9 s'effectue en laboratoire, en atelier de production.\nLe port d'Equipements de Protection Individuelle -EPI- (masque, gant, lunettes, ...) peut \u00eatre requis selon la nature des produits manipul\u00e9s et l'environnement de travail.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Evaluation de nuances de couleurs",
+            "code_ogr": "20892",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Interpr\u00e9tation de r\u00e9sultat d'analyse",
+            "code_ogr": "20921",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de cuisine automatique",
+            "code_ogr": "21196",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outil de mesure (balances, spectrom\u00e8tre, colorim\u00e8tre, PH m\u00e8tre, ...)",
+            "code_ogr": "21451",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chiffrage/calcul de co\u00fbt",
+            "code_ogr": "20813",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Alimentaire",
+            "code_ogr": "23395",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Bois, ameublement",
+            "code_ogr": "23424",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chimie",
+            "code_ogr": "23436",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ennoblissement textile",
+            "code_ogr": "23481",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Fabrication de produits textiles (tricotage, tissage, nontiss\u00e9)",
+            "code_ogr": "23493",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie cosm\u00e9tique",
+            "code_ogr": "23530",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Plasturgie, caoutchouc, composites",
+            "code_ogr": "23585",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Tannerie, m\u00e9gisserie",
+            "code_ogr": "23646",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Principes de chimie organique et min\u00e9rale",
+            "code_ogr": "22311",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des teintures",
+            "code_ogr": "21659",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des pigments et colorants",
+            "code_ogr": "21636",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes d'interaction colorants/support",
+            "code_ogr": "22332",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Colorim\u00e9trie",
+            "code_ogr": "21734",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9d\u00e9s de pr\u00e9paration des m\u00e9langes (fiche recettes, ...)",
+            "code_ogr": "22357",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes environnementales",
+            "code_ogr": "22230",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes qualit\u00e9",
+            "code_ogr": "22233",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9",
+            "code_ogr": "22648",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Protocoles de tests et d'essais",
+            "code_ogr": "22507",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Fonctionnement des \u00e9quipements de production (machines de teintures, machine d'impression, ...)",
+            "code_ogr": "21957",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de coloration \u00e0 sec",
+            "code_ogr": "22838",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de coloration en humide",
+            "code_ogr": "22839",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Cycle de teinture",
+            "code_ogr": "21769",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'\u00e9chantillonnage",
+            "code_ogr": "22450",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de gestion de stocks",
+            "code_ogr": "22609",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nRecherche et met au point des teintes, g\u00e9n\u00e9ralement \u00e0 partir d'\u00e9chantillons clients, et \u00e9tablit les formules/recettes pour la r\u00e9alisation industrielle de teintures/colorations sur diverses mati\u00e8res (tissu, peaux, plastique, ...).\nIntervient selon les r\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9, les normes environnementales et les imp\u00e9ratifs de production (co\u00fbts, qualit\u00e9, d\u00e9lais, ...).\nPeut teindre les mati\u00e8res (peaux, ...), contr\u00f4ler les param\u00e8tres de teinture, r\u00e9aliser des tests d'impression et suivre l'\u00e9tat de stock des produits.\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "Expertise technique couleur en industrie",
+    "code_ogr": "212",
+    "code_rome": "H1201",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "B1805",
+            "libelle_rome_cible": "Stylisme"
+        },
+        {
+            "code_rome_cible": "H1206",
+            "libelle_rome_cible": "Management et ing\u00e9nierie \u00e9tudes, recherche et d\u00e9veloppement industriel"
+        },
+        {
+            "code_rome_cible": "H1404",
+            "libelle_rome_cible": "Intervention technique en m\u00e9thodes et industrialisation"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">chargé/e de communication interne</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">informer, communiquer</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction information - communication</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur de la publicité</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">communication interne</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques de la communication média/chargé de communciation interne</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100478</lien_onisep>
+<ROME Level="1B" csRelFld="100478">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="145" csRelFld="145">
+<CSLABELFLD label="">E1103</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Edition et communication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">E1103</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Communication</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100478">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1329" csRelFld="1329">
+<CSLABELFLD label="">consultant / consultante en communication</CSLABELFLD>
+<MET_ID label="Identifiant">100478</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">01/07/2013</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1329</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">consultant/e en communication</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1329">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="37656" csRelFld="37656">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37656</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100478</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Faire circuler l'information</inter>
+<p>Le chargé de communication interne fait circuler, de manière fluide, l'information dans l'entreprise, de la direction vers les salariés, des salariés vers la direction, et entre les services. Que ce soit sur l'actualité économique et sociale de l'entreprise, de nouveaux projets, un plan social&#8230; c'est le chargé de com' qui choisit les moyens de diffusion adaptés, en accord avec la direction : journal interne, flash d'informations, affichage, intranet, réunion d'information, assemblée générale, revue de presse, blog, réseaux sociaux... </p>
+<inter>Mener des enquêtes d'opinion</inter>
+<p>Il fait aussi remonter des informations vers la direction, grâce à des enquêtes d'opinion internes, des entretiens d'évaluation... </p>
+<p>Pour les nouveaux employés, il élabore un livret d'accueil, une vidéo, ou organise des séminaires d'intégration...</p>
+<inter>Optimiser la communication et améliorer la compétitivité</inter>
+<p>La communication interne s'inscrit dans une dynamique d'amélioration des performances de l'entreprise. L'information est stratégique et les technologies de l'information participent directement à l'amélioration de la compétitivité. Pour cela, il organise des actions de communication qui ont pour objectif de renforcer le sentiment d'appartenance à l'entreprise et d'en valoriser l'image. Il conçoit et réalise des documents (affiches, invitations, campagnes d'information&#8230;), organise des événements (soirées de gala, voyages, séminaires&#8230;). Il a un budget autonome à sa disposition.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="37660" csRelFld="37660">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37660</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100478</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Les titulaires d'un bac + 5 sont plus avantagés que les titulaires d'un bac + 2 ou + 3 pour occuper, plus rapidement, un poste à responsabilités. Deux voies sont possibles pour travailler dans ce secteur : une formation en communication (université ou école) ou une formation généraliste, complétée par un 2<exp>e</exp> ou un 3<exp>e</exp> cycle en communication.</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS communication</itsimp>
+<itsimp>DUT information-communication option communication des organisations </itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence information et communication </itsimp>
+<itsimp>Licence pro Métiers de la communication : chargé de communication ; Métiers de la communication : chef de projet communication</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'école supérieure de commerce</itsimp>
+<itsimp>Diplôme d'institut d'études politiques avec spécialisation en communication et ressources humaines </itsimp>
+<itsimp>Diplôme d'école spécialisée en communication : Celsa, Iscom, ISCPA, ISTC...</itsimp>
+<itsimp>Masters Information, communication, Communication des organisations, ... </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="37658" csRelFld="37658">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37658</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100478</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Dans le privé... et le public</inter>
+<p>Bien présente dans les grandes entreprises privées, la fonction intéresse désormais les entreprises de taille moyenne et se développe dans le secteur public (collectivités locales, associations...).</p>
+<p>Les profils varient en fonction des employeurs : un diplômé en communication pour les uns, un salarié expérimenté évoluant vers un poste de communication pour les autres... Plus de la moitié des postes sont en région Ile-de-France.</p>
+<inter>D'abord assistant</inter>
+<p>Le débutant commence en tant qu'assistant. Il peut passer d'une agence de communication à un service intégré dans une grande entreprise.</p>
+<p>Si les fonctions de directeur de communication ou de consultant ne sont accessibles qu'aux professionnels expérimentés, des évolutions sont possibles vers les ressources humaines, les postes de journaliste ou de producteur multimédia.</p>
+<inter>Peu de places</inter>
+<p>Le secteur de la communication attire beaucoup de candidats... qui ne trouvent pas toujours un emploi. En période de crise, les entreprises réduisent en premier les budgets attribués à la communication et gèlent les embauches.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2000</sal> euros brut par mois pour un débutant ayant un bac + 5</p>
+<postit>
+<p>(source : Apec, octobre 2011).</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

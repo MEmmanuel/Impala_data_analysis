@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">chef/fe de projet web/mobile</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe/programmer, créer du contenu numérique</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction études développement informatique</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur édition - presse/secteur sociétés de service et de conseil en informatique/secteur de la publicité/secteur audit conseil</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">internet intranet/informatique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100645</lien_onisep>
+<ROME Level="1B" csRelFld="100645">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="601" csRelFld="601">
+<CSLABELFLD label="">M1803</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Systèmes d'information et de télécommunication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1803</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Direction des systèmes d'information</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100645">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56476" csRelFld="56476">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56476</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100645</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Décrocher une mission</inter>
+<p>Le premier rôle du chef de projet web/mobile est de répondre aux appels d'offres lancés par des clients potentiels, afin de décrocher un contrat pour sa société de services. Il étudie la demande et les besoins exprimés (ou sous-entendus) avec précision avant de rédiger un cahier des charges fonctionnel et technique. S'il travaille chez le client, son travail commence à la réception du cahier des charges réalisé par un tiers. Il l'épluche avec soin pour en comprendre toutes les implications techniques et humaines et prévoir les ressources qu'il devra mobiliser.</p>
+<inter>Planifier le travail</inter>
+<p>Une fois le contrat signé, le chef de projet répartit les tâches entre les membres de l'équipe et définit le planning de chacun. Le cas échéant, il fait appel à des sous-traitants ou à des personnes extérieures.</p>
+<inter>Respecter les engagements</inter>
+<p>Souvent en réunion, il est le garant des délais et du budget. Son rôle est donc de les faire respecter grâce à un suivi régulier qui lui permet, si besoin est, d'ajuster son plan. Par exemple, en recrutant une personne supplémentaire. Meneur d'hommes, il veille à la motivation de l'équipe et à la bonne circulation des informations entre les différents acteurs. Il effectue une veille constante sur son domaine d'expertise et peut mener plusieurs projets de front.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56480" csRelFld="56480">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56480</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100645</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le chef de projet web/mobile peut venir d'horizons très divers et commence généralement par un autre métier, avant d'accéder à ce poste qui demande une certaine expérience préalable. </p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master uiversitaires contenus et projets Internet, Web mobile</itsimp>
+<itsimp>Diplôme d'école de commerce spécialisé en informatique mobile et Web</itsimp>
+<itsimp>Diplôme d'ingénieur avec une spécialisation en informatique, informatique mobile et Web</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56478" csRelFld="56478">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56478</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100645</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des employeurs variés</inter>
+<p>Le chef de projet web/mobile peut exercer chez les pure players ou sites d'e-commerce, dans une ESN (entreprise de services du numérique) ou une société de conseil, chez un éditeur de logiciels ou d'applications, en agence de communication, dans une grande entreprise... Son travail varie un peu selon son lieu d'exercice et la taille de sa société.</p>
+<inter>Directeur ou à son compte</inter>
+<p>Avec de l'expérience, le chef de projet web/mobile se verra confier des projets de plus en plus importants. Il peut également évoluer vers la fonction de directeur de projet digital, de directeur technique, directeur marketing... Il peut aussi envisager de créer sa propre agence interactive ou web agency.</p>
+<inter>De bons débouchés</inter>
+<p>Internet n'en finit pas de se développer et, avec l'apparition du Web collaboratif (Web 2.0) et la forte demande de nouvelles applications mobiles, les chefs de projet web/mobile ont de beaux jours devant eux. Selon l'Observatoire économique des services mobiles, les effectifs dans ce secteur devraient continuer à augmenter de 25 % d'ici à 2020. Cependant, une première expérience réussie est souvent demandée au moment du recrutement. </p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir de <sal>2900</sal> euros brut par mois.</p>
+<postit>
+<p>Source : Apec (Association pour l'emploi des cadres), référentiel des métiers cadres de l'Internet, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

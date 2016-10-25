@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">architecte des systèmes d'information</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">enquêter, rechercher, analyser l'information/programmer, créer du contenu numérique</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/indépendant</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction études développement informatique</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur audit conseil/secteur sociétés de service et de conseil en informatique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">informatique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100669</lien_onisep>
+<ROME Level="1B" csRelFld="100669">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="600" csRelFld="600">
+<CSLABELFLD label="">M1802</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Systèmes d'information et de télécommunication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1802</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Expertise et support en systèmes d'information</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100669">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56707" csRelFld="56707">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56707</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100669</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Identification de l'existant</inter>
+<p>L'architecte des SI (systèmes d'information) analyse les serveurs, systèmes d'exploitation, ordinateurs, logiciels, etc. en fonction, afin de les adapter aux besoins qu'il a identifiés en amont, ou en réponse à des problèmes précis qu'on lui demande de résoudre (optimiser la sécurité des données, par exemple). </p>
+<inter>Analyser et proposer des solutions</inter>
+<p>Son travail commence toujours par un audit de la situation actuelle. Il doit imaginer un système évolutif et flexible, dans le respect du budget alloué. L'ensemble de ses préconisations, qu'elles soient techniques, matérielles ou virtuelles, est transcrit dans un plan de développement et transmis au chef de projet qui, le cas échéant, fera appel à des spécialistes pour la mise en oeuvre (architecte cloud, développeur...).</p>
+<inter>Suivre l'exécution</inter>
+<p>L'architecte des SI suit la mise en place du plan informatique et contrôle les opérations à chaque étape pour veiller tant à la cohérence qu'à la performance de son système. Dans une société de conseil, il répond à la demande précise d'un client, alors que, s'il travaille au sein d'une grande entreprise, il est davantage impliqué dans le choix des solutions qu'il a préconisées et la recherche de prestataires pour leur mise en oeuvre.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56711" csRelFld="56711">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56711</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100669</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le métier d'architecte des SI est accessible aux titulaires d'un diplôme d'ingénieur ou d'un master axé informatique et SI (système d'information), après quelques années d'expérience.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur en informatique, télécoms...</itsimp>
+<itsimp>Master mention informatique ou mention réseaux et télécommunications</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56709" csRelFld="56709">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56709</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100669</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Une demande constante</inter>
+<p>Les infrastructures informatiques doivent être renouvelées en moyenne tous les 3 à 5 ans, une aubaine pour les architectes des SI spécialisés dans ce secteur, car ils bénéficient d'une demande stable. De même, dans le domaine des logiciels, les changements sont fréquents (exemple : la modification des taux de TVA qui engendre de nombreux ajustements dans un grand nombre d'outils comptables).</p>
+<inter>Des systèmes plus complexes</inter>
+<p>Les architectes des SI expérimentés se voient proposer des projets de plus en plus importants, impliquant de nombreux serveurs notamment. Les systèmes d'information se complexifiant, les experts sont très demandés. Ils peuvent ensuite évoluer vers la direction d'un service informatique, la direction d'études ou le management. Ils peuvent également se mettre à leur compte en tant que consultants.</p>
+<inter>Des secteurs qui recrutent</inter>
+<p>Les recrutements d'architectes des SI sont en augmentation, particulièrement dans l'industrie pétrolière, l'agriculture ou la défense, où ils sont notamment chargés d'intégrer la géolocalisation et les avancées technologiques des satellites aux infrastructures informatiques.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>3500</sal>euros brut par mois.</p>
+<postit>
+<p>Source : Apec (Association pour l'emploi des cadres), 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">relieur/euse-doreur/euse</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un travail manuel/exercer un métier artistique ou créatif</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire/artisan</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur artisanat d'art/secteur fonction publique/secteur culture et patrimoine/secteur bibliothèque, archives, documentation</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">finition - industries graphiques/reliure d'art</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques graphiques impression/relieur doreur</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100438</lien_onisep>
+<ROME Level="1B" csRelFld="100438">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="48" csRelFld="48">
+<CSLABELFLD label="">B1402</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Fibres et papier</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">B1402</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Reliure et restauration de livres et archives</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100438">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="36451" csRelFld="36451">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36451</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100438</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Démontage, collage et couture</inter>
+<p>Avec minutie et dextérité, le relieur démonte et remonte des livres pour les rénover et les réparer. Il dégage une à une les pages de leur reliure, les nettoie, puis les relie à nouveau en les collant ou en les cousant. De nos jours, cet artisan s'occupe surtout des livres récents comme, par exemple, des ouvrages de bibliothèque abîmés. Mais il prend aussi en charge des livres rares et précieux. Il les dore pour leur donner une apparence proche de l'origine. L'essentiel du travail se fait à la main, à la mode ancienne.</p>
+<inter>Réaliser des reliures courantes...</inter>
+<p>Le relieur peut se spécialiser en reliure courante, la plus pratiquée. Pour cela, il utilise essentiellement des matériaux sobres (toile ou cuir peu cher) pour habiller les livres, sans faire preuve de créativité particulière. Il travaille alors surtout pour les bibliothèques, les archives des ministères, les mairies, les collections de périodiques...</p>
+<inter>... ou des reliures prestigieuses</inter>
+<p>La reliure d'art concerne la restauration de livres anciens et précieux. La reliure de création s'applique à des éditions originales, souvent illustrées, auxquelles elle apporte une touche esthétique. Les clients sont des bibliophiles, des collectionneurs de livres rares, les bibliothèques historiques de grandes villes, les Archives nationales...</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36455" csRelFld="36455">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36455</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100438</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Le CAP arts de la reliure est le diplôme de base.</accr_p> Pour réaliser des travaux plus complexes sur des ouvrages anciens et de valeur, le BMA (brevet des métiers d'art) arts de la reliure et de la dorure, le DMA (diplôme des métiers d'art) arts graphiques option reliure-dorure, accessible avec le bac techno STD2A (sciences et technologie du design et des arts appliqués), ou une MANAA (classe de mise à niveau en arts appliqués) sont recommandés. </p>
+<liste>
+<tete>Après la 3<exp>e</exp>
+</tete>
+<itsimp>CAP arts de la reliure</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>BMA arts de la reliure et de la dorure </itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>DMA arts graphiques option reliure-dorure</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36453" csRelFld="36453">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36453</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100438</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>En atelier privé</inter>
+<p>Quelques librairies anciennes ou modernes de livres rares ou des ateliers privés de reliure d'art embauchent des débutants. Il existe près de 400 ateliers de reliure (semi-industrielle, industrielle et artisanale). La plupart ne comportent qu'un professionnel : 65 % des relieurs travaillent seuls. L'installation à son compte se fait après quelques années d'expérience dans un atelier ou un organisme d'État.</p>
+<inter>Dans l'industrie</inter>
+<p>La chambre syndicale de la reliure dénombre 1 800 emplois pour la reliure main (reliure courante, reliure soignée, reliure de très grande qualité), et 7 000 emplois pour la reliure industrielle.</p>
+<inter>En tant que fonctionnaire</inter>
+<p>La fonction publique ouvre des concours (maître ouvrier, technicien d'art, chef de travaux) pour exercer dans les musées nationaux, les bibliothèques, les manufactures nationales, ainsi qu'aux Archives nationales et au Mobilier national.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Smic.</p>
+<postit>
+<p>Source : Inma, 2011.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

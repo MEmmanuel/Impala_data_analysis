@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">antiquaire</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire du commerce/me déplacer souvent/exercer un métier artistique ou créatif</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">indépendant</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction vente/fonction gestion financière et comptable</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur commerce</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">administration des ventes/histoire de l'art/commerce de l'art</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE arts appliqués arts du spectacle/acheteur d'art</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10163</lien_onisep>
+<ROME Level="1B" csRelFld="10163">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="106" csRelFld="106">
+<CSLABELFLD label="">D1201</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Commerce non alimentaire et de prestations de confort</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">D1201</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Achat vente d'objets d'art, anciens ou d'occasion</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10163">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="925" csRelFld="925">
+<CSLABELFLD label="">galeriste</CSLABELFLD>
+<MET_ID label="Identifiant">10163</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">925</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">galeriste</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="925">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="926" csRelFld="926">
+<CSLABELFLD label="">restaurateur / restauratrice d'oeuvres d'art</CSLABELFLD>
+<MET_ID label="Identifiant">10163</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">926</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">restaurateur/trice d'oeuvres d'art</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="926">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16020" csRelFld="16020">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16020</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10163</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Rechercher des objets anciens</inter>
+<p>L'antiquaire consacre l'essentiel de son temps à rechercher des objets anciens, des pièces de collection, des vieux meubles qu'il revendra ensuite dans son magasin. Armes, porcelaine, instruments de musique, livres, meubles, monnaies, argenterie, sculptures, tableaux... Son « ;il » expert sait dénicher la perle rare.</p>
+<inter>Estimer et authentifier</inter>
+<p>L'antiquaire doit s'assurer de la valeur, de l'authenticité et de l'origine de ses futures acquisitions. En tant que connaisseur, il peut réaliser lui-même une estimation ou faire appel à un expert en art. Il saura alors renseigner ses clients sur les caractéristiques exactes de ses antiquités, c'est-à-dire leur style, leur époque et leur histoire en général. À noter : l'antiquaire est souvent spécialisé dans un domaine ou une époque particulière (argenterie, peinture, objets d'art du XVIIIe siècle, mobilier Napoléon III, photographies anciennes de collection, etc.).</p>
+<inter>Restaurer ou faire restaurer</inter>
+<p>Certains antiquaires possèdent un atelier de restauration pour remettre en état, si nécessaire, les pièces achetées (nettoyage, montage et petites réparations) avant la vente. Mais ils font généralement appel à un restaurateur d'art : doreur sur bois, lustrier, ébéniste, bronzier, restaurateur de tableaux...</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16016" csRelFld="16016">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16016</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10163</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Aucun diplôme n'est exigé pour être antiquaire.</accr_p> Cependant, il est difficile d'exercer ce métier de façon professionnelle sans avoir suivi les enseignements d'un antiquaire chevronné pendant quelques temps. En outre, une formation en histoire de l'art, de niveau bac + 3 à bac + 5, à l'université ou à l'École du Louvre semble essentielle pour envisager ce type de carrière. Plusieurs écoles privées proposent aussi des formations au commerce de l'art.</p>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Bachelor négociateur en objets d'art et de décoration de l'EAC</itsimp>
+<itsimp>Licences en histoire, histoire de l'art ou en histoire de l'art et archéologie </itsimp>
+<itsimp>Licence pro sciences humaines et sociales commerce spécialité commerce de l'art et des antiquités</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme de 2<exp>e</exp> cycle de l'École du Louvre</itsimp>
+<itsimp>Cycle supérieur expertise et marché de l'art - Ecole de Condé</itsimp>
+<itsimp>2e cycle Commercialisation et diffusion des oeuvres d'art - Institut d'études supérieures des arts (IESA)</itsimp>
+<itsimp>Master européen en marché et commerce international de l'art de l'Institut supérieur des carrières artistiques (ICART)</itsimp>
+<itsimp>MBA marché et commerce international (ICART)</itsimp>
+<itsimp>MBA manager du marché de l'art (EAC)</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16023" csRelFld="16023">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16023</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10163</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>S'installer</inter>
+<p>Pour se lancer dans le métier, une mise de fonds importante est nécessaire compte tenu de la valeur des objets mis en vente. La plupart des antiquaires démarrent donc leur carrière comme vendeurs chez un confrère ou comme brocanteurs, afin d'apprendre le métier et de constituer un stock. Certains choisissent de s'endetter pour acquérir leur stock et s'installer sans délai. Les autres bénéficient de fonds propres ou d'un héritage familial. De nombreux antiquaires ont établi leur réputation au fil des générations. </p>
+<inter>Sortir du lot</inter>
+<p>Selon une étude de 2009 du ministère de la Culture et de la Communication, 10 394 entreprises en France pratiquent la vente d'antiquités. Mais la majorité de ces entreprises n'emploient pas de salariés, les antiquaires étant souvent seuls à gérer leur commerce. La concurrence est rude : les antiquaires doivent être très pointus dans un domaine s'ils veulent sortir du lot. Par ailleurs la demande nationale faiblit : l'antiquaire doit donc se tourner vers la clientèle étrangère, ce qui est facilité par le développement des nouvelles technologies.</p>
+<inter>Tenter l'expertise</inter>
+<p>Les antiquaires peuvent effectuer des expertises pour le compte d'assureurs ou de collectionneurs particuliers après avoir été reconnus experts par une chambre des experts par exemple.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Le salaire d'un antiquaire dépend des ventes réalisées et des marges qu'il prend sur ces ventes.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

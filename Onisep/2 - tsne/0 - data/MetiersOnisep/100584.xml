@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e hydrogéomorphologue</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">travailler dehors/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique/secteur sociétés d'ingénierie et d'études techniques</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">hydrologie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100584</lien_onisep>
+<ROME Level="1B" csRelFld="100584">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="175" csRelFld="175">
+<CSLABELFLD label="">F1105</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception et études</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">F1105</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Études géologiques</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100584">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="55493" csRelFld="55493">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55493</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100584</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Reconnaissances de terrain</inter>
+<p>L'hydrogéomorphologie est une approche géographique appliquée, mise au point dans les années 1980 afin de diagnostiquer les zones inondables. L'ingénieur hydrogéomorphologue fait de nombreuses reconnaissances sur le terrain pour collecter des indices sur les talus mais aussi sur les différentes couches de sédiments et les traces d'inondations précédentes. Pour cela, il étudie aussi des photos aériennes dont il fera une première carte " minute " à la main.</p>
+<inter>Modélisations géographiques</inter>
+<p>Il croise ensuite les différentes données qu'il a récoltées sur le terrain mais également dans les archives, par exemple concernant des crues historiques, afin de réaliser des cartes numérisées. Ses études portent sur les cours d'eau, les vallées et l'érosion côtière.</p>
+<inter>Aide à la décision</inter>
+<p>La troisième étape de son travail est la transmission de ses résultats qui sont de vrais outils d'aide à la décision, notamment pour la construction ou non sur un terrain à proximité d'un cours d'eau. Il donne également une analyse qualitative de l'influence de l'occupation des sols sur les crues et l'intensité des phénomènes. Rapports écrits et réunions font donc partie de son travail de conseil aux autorités pour éviter les crues et réagir efficacement en cas de catastrophe naturelle.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55497" csRelFld="55497">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55497</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100584</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Un bac + 5 (master ou diplôme d'ingénieur) est nécessaire pour exercer cette profession très spécialisée. Un stage de terrain aidera au recrutement.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur spécialités eau et génie civil) ; ressources, aménagement et gestion des eaux ; génie de l'eau ; sciences et technologies de l'eau...</itsimp>
+<itsimp>Master en géosciences, environnement ou hydrologie</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55495" csRelFld="55495">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55495</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100584</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Une méthode reconnue</inter>
+<p>La cartographie hydrogéomorphologique est utilisée en France pour délimiter les zones inondables par les cours d'eau, notamment. Plusieurs milliers de kilomètres de cours d'eau ont ainsi été analysés, puis cartographiés, en réponse à la politique de prévention des risques d'inondation engagée par les ministères chargés de l'Équipement et de l'Environnement successifs depuis la loi Barnier de 1995. Mise en oeuvre à grande échelle au niveau national dans le cadre de la réalisation des AZI (atlas des zones inondables), elle est aujourd'hui recommandée pour la réalisation des PPRI (plans de prévention des risques d'inondation).</p>
+<inter>De petits effectifs</inter>
+<p>Les débouchés sont relativement réduits pour les ingénieurs hydrogéomorphologues. Cependant, comme la spécialité est encore jeune et le changement climatique une réalité qui s'accompagne de phénomènes de plus en plus extrêmes, ces ingénieurs pourraient trouver de nouveaux terrains d'application pour leur discipline.</p>
+<inter>Surtout dans les collectivités territoriales</inter>
+<p>En général, les ingénieurs hydrogéomorphologues exercent leur activité au sein des collectivités locales et des services décentralisés de l'État. Quelques bureaux d'études sont également intéressés par ces profils très spécialisés.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Salaire variable en fonction du lieu d'exercice et du type d'entreprise.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

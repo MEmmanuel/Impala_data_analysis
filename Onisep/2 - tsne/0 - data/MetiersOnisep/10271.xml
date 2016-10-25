@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">officier/ère de l'armée de l'air</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">défendre, secourir, surveiller/me déplacer souvent/avoir des sensations fortes/décider/coordonner l'activité d'une équipe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">militaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction sécurité, protection, défense</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique/secteur Défense</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">maintenance aéronautique/sécurité publique/sécurité des biens et des personnes/transport de marchandises/transport aérien/armée de l'air/transport de voyageurs</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE nettoyage assainissement environnement sécurité/officier de l'armée de l'air</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10271</lien_onisep>
+<ROME Level="1B" csRelFld="10271">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="480" csRelFld="480">
+<CSLABELFLD label="">K1703</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Défense, sécurité publique et secours</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K1703</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Direction opérationnelle de la défense</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10271">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18065" csRelFld="18065">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18065</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10271</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Les officiers navigants</inter>
+<p>Ce corps comprend les pilotes (de chasse, de transport, d'hélicoptère), les navigateurs officiers système d'armes qui calculent les itinéraires, donnent la direction à suivre tout au long du vol et gèrent les armements, et les convoyeurs de l'air qui exercent des fonctions d'infirmier et de personnel navigant de cabine au cours d'évacuations sanitaires, de missions humanitaires...</p>
+<inter>Les officiers mécaniciens</inter>
+<p>Ils sont chargés d'encadrer les mécaniciens spécialistes des outils électroniques de navigation, des réacteurs, des armements opérationnels, techniciens qui réparent et contrôlent les avions et les matériels au sol.</p>
+<inter>Les officiers de base aérienne</inter>
+<p>Ils constituent le corps le plus diversifié de l'armée de l'air. Ils dirigent des sous-officiers intervenant dans de nombreux domaines : contrôle de la circulation aérienne, protection et défense des installations de la base, renseignement, instruction et encadrement, informatique, gestion et administration, santé.</p>
+<inter>Les commissaires de l'air</inter>
+<p>Ce sont les administratifs des bases aériennes. Dans leurs attributions : le conseil juridique, les finances, le contrôle de gestion, les ressources humaines, la logistique, l'habillement du personnel, l'équipement des unités en matériel et restauration.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18066" csRelFld="18066">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18066</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10271</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Les officiers de l'armée de l'air sont officiers de carrière ou OSC (officiers sous contrat). Les niveaux de recrutement vont du bac à bac + 5.</accr_p>
+</p>
+<liste>
+<itsimp>Les officiers de carrière sont formés à <em>l'École de l'air </em> <em>de Salon-de-Provence</em> (13), après réussite à un concours sur épreuves, ouvert soit aux élèves issus d'une prépa MP, PC ou PSI, soit aux titulaires d'une licence, âgés de 22 ans au plus. Ils peuvent devenir officiers navigants, officiers mécaniciens de l'air ou officiers des bases de l'air, et suivent une scolarité de 3 ans. Certains, âgés de 25 ans au plus, entrent par concours sur titre avec un bac + 5. Ils suivent une scolarité de 1 an.</itsimp>
+<itsimp>Les officiers sous contrat sont recrutés à toute époque de l'année. Par exemple, en tant qu'élèves officiers navigants (avec le bac et âgés de 17 à moins de 24 ans, sélection sur tests) après une formation au pilotage d'une durée variable selon la spécialité (hélicoptère, transport, chasse). Ou en tant qu'élèves officiers non navigants des corps des mécaniciens ou des bases (avec un bac + 3 à bac + 5 et moins de 29 ans, sélection sur titre) après 11 semaines de formation militaire initiale, puis une formation professionnelle de durée variable selon la spécialisation choisie.</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18056" csRelFld="18056">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18056</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10271</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Réguliers mais restreints</inter>
+<p>Sur les quelque 52 000 militaires que compte l'armée de l'air, environ 7 400 sont officiers. Les postes les plus nombreux se situent au sol. Le recrutement annuel d'officiers est stable et limité : environ 80 postes d'officier de carrière et 100 postes d'officier sous contrat. Chaque année, une quinzaine d'emplois de commissaire se libèrent. Les femmes peuvent intégrer toutes les spécialités.</p>
+<inter>Des carrières différentes</inter>
+<p>Les officiers de carrière doivent en principe servir pendant 25 ans. Avec le grade de sous-lieutenant en début de carrière, ils sont appelés à tenir des postes d'exécution, puis de commandement jusqu'aux plus hautes responsabilités au sein de l'armée de l'air. Les officiers sous contrat commencent leur carrière avec le grade d'aspirant, puis de sous-lieutenant au bout de 6 mois. Ils peuvent servir sous contrats successifs pendant 20 ans au maximum. Ils ont accès aux mêmes spécialités que les officiers de carrière mais, contrairement à eux, ne peuvent poursuivre au-delà du grade de capitaine.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Smic (pour le grade de sous-lieutenant logé et nourri). La solde évolue en fonction du grade et de l'évolution professionnelle.</p>
+<postit>
+<p>Source : décret n° 2011-1234 modifiant le décret n° 2009-20.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

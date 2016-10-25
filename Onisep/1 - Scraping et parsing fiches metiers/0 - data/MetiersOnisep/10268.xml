@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">teinturier/ère et blanchisseur/euse</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire du commerce</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">artisan/salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction nettoyage, assainissement/fonction vente/fonction gestion financière et comptable</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur blanchisserie teinturerie/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">entretien et nettoyage/entretien des textiles/commerce distribution</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE textile habillement cuir/teinturier/blanchisseur</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10268</lien_onisep>
+<ROME Level="1B" csRelFld="10268">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10268">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18075" csRelFld="18075">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18075</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10268</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Du travail d'artisan...</inter>
+<p>Le teinturier travaille à la pièce (pantalon, manteau, mais aussi nappe, rideaux, tapis, couette...) et pratique le nettoyage à sec. Dans un pressing de quartier, il reçoit les clients, évalue le délai de réalisation, tarifie ses prestations. Il examine attentivement le vêtement, procède éventuellement au détachage, prébrosse systématiquement cols, poignets, poches, bas de pantalons. Il trie le linge selon les couleurs et les fibres textiles, avant de choisir la technique de nettoyage la plus appropriée, le produit de lavage et le programme de séchage les plus adaptés. Vient ensuite le repassage, étape la plus longue : il faut rendre au vêtement son aspect d'origine. L'utilisation d'un mannequin pour les habits aux coupes complexes comme les vestes facilite cette tâche délicate.</p>
+<inter>... à l'échelle industrielle</inter>
+<p>Le blanchisseur travaille au " tonnage et au mouillé ", comme on dit dans le métier, c'est-à-dire qu'il utilise des procédés de nettoyage à l'eau pour blanchir d'importantes quantités de linge (draps, serviettes, blouses...). Après lavage, les paquets de linge passent dans une presse pour l'essorage avant d'être envoyés vers les séchoirs, puis dans une calandre, qui les repasse. La plieuse, enfin, plie le linge aux dimensions voulues.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18082" csRelFld="18082">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18082</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10268</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Deux CAP (certificats d'aptitude professionnelle) ouvrent l'accès aux métiers de la teinturerie (artisanale) et de la blanchisserie (industrielle). Ils permettent de travailler en tant qu'ouvrier qualifié ou employé de pressing. Le BP (brevet professionnel) et le bac professionnel permettent de s'installer à son compte.</p>
+<liste>
+<tete>Après la 3<exp>e</exp>
+</tete>
+<itsimp>CAP métiers de la blanchisserie</itsimp>
+<itsimp>CAP métiers du pressing</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>Bac pro métiers du pressing et de la blanchisserie</itsimp>
+<itsimp>BP maintenance des articles textiles option pressing</itsimp>
+<itsimp>BP blanchisserie</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18078" csRelFld="18078">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18078</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10268</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Développement de chaînes</inter>
+<p>Le secteur se porte plutôt bien et est constamment à la recherche de personnes qualifiées. C'est dans les grandes villes et les stations touristiques que les besoins sont les plus importants. Commerces de proximité, les pressings sont souvent implantés en centre-ville et dans les galeries marchandes. Dans l'artisanat, ce sont les chaînes de magasins franchisés (5 à Sec, Bleu de France...) qui connaissent le plus fort taux de croissance.</p>
+<inter>Des blanchisseries mécanisées</inter>
+<p>Les blanchisseries industrielles emploient moins de personnel, essentiellement des conducteurs de machines, qui pourront évoluer vers des postes d'encadrement (contremaître, chef d'atelier ou de production).</p>
+<inter>Gestion d'un pressing</inter>
+<p>Après quelques années d'expérience, un employé peut évoluer vers la gérance d'un pressing. Ceux qui souhaitent se mettre à leur compte doivent savoir que l'investissement initial (matériel, équipement, agencement) varie de 90 000 à 120 000 &#8364; environ. Reprendre une entreprise peut donc constituer une bonne solution.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>Smic</sal>.</p>
+<postit>
+<p>Source : CFET, 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

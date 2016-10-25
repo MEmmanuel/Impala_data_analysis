@@ -1,0 +1,559 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Aide-conducteur(trice) de machine d'impression textile",
+            "priorisation": "1",
+            "libelle": "Aide-conducteur / Aide-conductrice de machine d'impression textile",
+            "code_ogr": "10874"
+        },
+        {
+            "libelle_court": "Chef de ligne chromo en industrie textile",
+            "priorisation": "1",
+            "libelle": "Chef de ligne chromo en industrie textile",
+            "code_ogr": "12183"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice chromo en industrie textile",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice chromo en industrie textile",
+            "code_ogr": "12857"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de machine d'impression textile",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de machine d'impression textile",
+            "code_ogr": "13046"
+        },
+        {
+            "libelle_court": "Conducteur(trice) de machines \u00e0 imprimer \u00e0 cadre rotatif",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de machines \u00e0 imprimer \u00e0 cadre rotatif",
+            "code_ogr": "13009"
+        },
+        {
+            "libelle_court": "Conducteur(trice) machines \u00e0 imprimer jet couleur, pulv\u00e9risa",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de machines \u00e0 imprimer par jet de couleur ou pulv\u00e9risation",
+            "code_ogr": "13010"
+        },
+        {
+            "libelle_court": "Conducteur(trice) de machines de flocage en ind textile",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de machines de flocage en industrie textile",
+            "code_ogr": "13031"
+        },
+        {
+            "libelle_court": "Conducteur(trice) de machines de s\u00e9rigraphie en ind textile",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de machines de s\u00e9rigraphie en industrie textile",
+            "code_ogr": "13037"
+        },
+        {
+            "libelle_court": "Imprimeur / Imprimeuse en industrie textile",
+            "priorisation": "1",
+            "libelle": "Imprimeur / Imprimeuse en industrie textile",
+            "code_ogr": "15520"
+        },
+        {
+            "libelle_court": "Imprimeur / Imprimeuse sur cadre plat",
+            "priorisation": "1",
+            "libelle": "Imprimeur / Imprimeuse sur cadre plat",
+            "code_ogr": "15526"
+        },
+        {
+            "libelle_court": "Imprimeur / Imprimeuse sur cadre rotatif",
+            "priorisation": "1",
+            "libelle": "Imprimeur / Imprimeuse sur cadre rotatif",
+            "code_ogr": "15527"
+        },
+        {
+            "libelle_court": "Imprimeur / Imprimeuse sur \u00e9toffes",
+            "priorisation": "1",
+            "libelle": "Imprimeur / Imprimeuse sur \u00e9toffes",
+            "code_ogr": "15528"
+        },
+        {
+            "libelle_court": "Imprimeur / Imprimeuse sur table en industrie textile",
+            "priorisation": "1",
+            "libelle": "Imprimeur / Imprimeuse sur table en industrie textile",
+            "code_ogr": "15529"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "S\u00e9lectionner les outillages (racles, rouleaux, ...) et les cadres d'impression et d\u00e9terminer les besoins en produits (couleurs, ...)",
+            "code_ogr": "3183",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Positionner et fixer les roules sur la machine, centrer le tissu et ajuster la tension lors de l'entra\u00eenement",
+            "code_ogr": "2542",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9gler et ajuster les machines (compensateurs, temp\u00e9rature de s\u00e9chage, ...) en fonction des caract\u00e9ristiques du tissu",
+            "code_ogr": "2979",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Monter /d\u00e9monter les cylindres, cadres, ... sur la machine \u00e0 imprimer, cadrer le motif et alimenter la machine en couleurs",
+            "code_ogr": "2367",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9gler les param\u00e8tres d'impression et ajuster selon les \u00e9carts",
+            "code_ogr": "2991",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller les donn\u00e9es de mesure de la machine au cours de l'impression",
+            "code_ogr": "3337",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler l'impression, les couleurs et effectuer des ajustements",
+            "code_ogr": "1174",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier l'enroulement du tissu sur le cylindre/rouleau et ajuster selon besoin",
+            "code_ogr": "3457",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "8",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "H2102",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de production alimentaire"
+        },
+        {
+            "code_rome_cible": "H2301",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de production chimique ou pharmaceutique"
+        },
+        {
+            "code_rome_cible": "H2403",
+            "libelle_rome_cible": "Conduite de machine de fabrication de produits textiles"
+        },
+        {
+            "code_rome_cible": "H2404",
+            "libelle_rome_cible": "Conduite de machine de production et transformation des fils"
+        },
+        {
+            "code_rome_cible": "H3201",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de formage des plastiques et caoutchoucs"
+        },
+        {
+            "code_rome_cible": "H3301",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de conditionnement"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac professionnel en textile, impression textile, conduite d'installation de production par proc\u00e9d\u00e9s, ...\nIl est \u00e9galement accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle.\nUn dipl\u00f4me de niveau Bac+2 (BTS/DUT) en productique textile, m\u00e9canique textile peut \u00eatre demand\u00e9.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Effectuer l'impression de motifs sur du ou des :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Fibres d'origine animale (soie, laine, ...)",
+            "code_ogr": "5424",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Fibres d'origine organique (polyamide, polyester, cellulosique, ...)",
+            "code_ogr": "5425",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Fibres d'origine v\u00e9g\u00e9tale (coton, lin)",
+            "code_ogr": "5426",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Fibres inorganiques ou min\u00e9rales (carbone, verre, ...)",
+            "code_ogr": "5427",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nontiss\u00e9",
+            "code_ogr": "5428",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tissu cha\u00eene et trame",
+            "code_ogr": "5429",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tissu maille",
+            "code_ogr": "5430",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'impression de motifs par :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Impression au cadre plat",
+            "code_ogr": "5418",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Impression au cadre rotatif",
+            "code_ogr": "5419",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Impression au motif plac\u00e9 (s\u00e9rigraphie, ...)",
+            "code_ogr": "5420",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Impression num\u00e9rique ou \u00e0 jet d'encre",
+            "code_ogr": "5421",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Impression par d\u00e9vorage, rongeage",
+            "code_ogr": "5422",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Impression par r\u00e9serve",
+            "code_ogr": "5423",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler l'\u00e9tat des pi\u00e8ces, des \u00e9quipements et effectuer la maintenance de premier niveau",
+            "code_ogr": "3516",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner et v\u00e9rifier les interventions de personnels sur les machines, la ligne ou la zone de travail et \u00e9tablir des rapports de production et d'incidents",
+            "code_ogr": "4317",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises de fabrication textile ou d'ennoblissement textile en relation avec diff\u00e9rents services (coloriste, pr\u00e9parateur de couleurs, qualit\u00e9, maintenance, ...).\nElle peut s'exercer par roulement, les fins de semaine, jours f\u00e9ri\u00e9s ou de nuit.\nL'activit\u00e9 s'effectue en atelier de production et peut impliquer des efforts physiques prolong\u00e9s (va-et-vient autour des machines de grande longueur, ...) et une attention visuelle permanente.\nLe port d'Equipements de Protection Individuelle -EPI- (tablier, gants, ...) peut \u00eatre requis selon l'environnement de travail et la nature des produits manipul\u00e9s.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Rep\u00e9rage d'anomalie, de d\u00e9faut de fabrication",
+            "code_ogr": "21085",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Prise de mesures",
+            "code_ogr": "21061",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de machine \u00e0 coudre le cuir",
+            "code_ogr": "21281",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Evaluation de nuances de couleurs",
+            "code_ogr": "20892",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'instruments de mesure (spectrom\u00e8tre, radioscope, ...)",
+            "code_ogr": "21443",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Interpr\u00e9tation de donn\u00e9es de contr\u00f4le (courbes, temp\u00e9ratures, ...)",
+            "code_ogr": "20918",
+            "position_item": "6",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de machine \u00e0 s\u00e9rigraphie",
+            "code_ogr": "21289",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de machine chrome jet",
+            "code_ogr": "21290",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Application manuelle de couleurs",
+            "code_ogr": "20766",
+            "position_item": "3",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de fabrication d'articles textiles",
+            "code_ogr": "23874",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ennoblissement textile",
+            "code_ogr": "23481",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Propri\u00e9t\u00e9s des fibres textiles (pouvoir absorbant, allongement, ...)",
+            "code_ogr": "22492",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des fibres (poids, coloris, solidit\u00e9, ...)",
+            "code_ogr": "21588",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des pigments et colorants",
+            "code_ogr": "21636",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des Produits Auxiliaires de Traitements Textiles (teinture, appr\u00eat, impression, ...)",
+            "code_ogr": "21639",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes de r\u00e9action des couleurs",
+            "code_ogr": "22326",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes qualit\u00e9",
+            "code_ogr": "22233",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9",
+            "code_ogr": "22621",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'\u00e9chantillonnage",
+            "code_ogr": "22450",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Traitement d'ennoblissement",
+            "code_ogr": "23291",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9canique g\u00e9n\u00e9rale",
+            "code_ogr": "21882",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en \u00e9lectricit\u00e9",
+            "code_ogr": "21859",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en hydraulique",
+            "code_ogr": "21875",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en pneumatique",
+            "code_ogr": "21905",
+            "position_item": "4",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nReproduit, au moyen de machines d'impression textile, des motifs de couleurs sur nappes textiles (tissu, tricot, nontiss\u00e9, ...) de diff\u00e9rentes fibres (coton, soie, viscose, polyester, polyamide, ...). Intervient selon les r\u00e8gles de s\u00e9curit\u00e9 et les imp\u00e9ratifs de production (optimisation de la mati\u00e8re, qualit\u00e9, d\u00e9lais, ...).\nR\u00e9alise les diagnostics en cas de non-conformit\u00e9 de l'impression et d\u00e9termine les ajustements. Peut effectuer la maintenance de premier niveau des \u00e9quipements.\nPeut coordonner une \u00e9quipe d'op\u00e9rateurs (aide-imprimeur, ...).\n",
+    "intitule": "Conduite de machine d'impression textile",
+    "code_ogr": "254",
+    "code_rome": "H2408",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "E1301",
+            "libelle_rome_cible": "Conduite de machines d'impression"
+        },
+        {
+            "code_rome_cible": "H1201",
+            "libelle_rome_cible": "Expertise technique couleur en industrie"
+        },
+        {
+            "code_rome_cible": "H2505",
+            "libelle_rome_cible": "Encadrement d'\u00e9quipe ou d'atelier en mat\u00e9riaux souples"
+        },
+        {
+            "code_rome_cible": "H2912",
+            "libelle_rome_cible": "R\u00e9glage d'\u00e9quipement de production industrielle"
+        },
+        {
+            "code_rome_cible": "I1310",
+            "libelle_rome_cible": "Maintenance m\u00e9canique industrielle"
+        }
+    ]
+}

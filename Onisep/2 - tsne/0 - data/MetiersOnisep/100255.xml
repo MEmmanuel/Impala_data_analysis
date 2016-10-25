@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">électricien/ne installateur/trice</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">réparer, entretenir, installer des équipements/me déplacer souvent/exercer un travail manuel</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/artisan</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction installation/fonction maintenance</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur second oeuvre bâtiment/secteur transports ferroviaires/secteur des télécommunications/secteur énergie</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">domotique/équipement technique du bâtiment/électricité du bâtiment/installation maintenance électrique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE électricité électrotechnique électronique/électricien d'installation</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100255</lien_onisep>
+<ROME Level="1B" csRelFld="100255">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="196" csRelFld="196">
+<CSLABELFLD label="">F1602</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Second oeuvre</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">F1602</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Électricité bâtiment</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100255">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1773" csRelFld="1773">
+<CSLABELFLD label="">ouvrier professionnel confirmé / ouvrière professionnelle confirmée en installation électrique</CSLABELFLD>
+<MET_ID label="Identifiant">100255</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1773</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">ouvrier/ère professionnel/le confirmé/e en installation électrique</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1773">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18703" csRelFld="18703">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18703</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100255</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Repérage des emplacements</inter>
+<p>L'électricien installateur commence par étudier les plans et les schémas qui lui sont utiles pour la pose des câbles. Il repère ensuite sur le chantier le futur emplacement des disjoncteurs, tableaux ou armoires électriques. Il vérifie enfin qu'il dispose bien des fournitures et outillages nécessaire à l'installation.</p>
+<inter>Installation et raccordements</inter>
+<p>L'électricien peut alors installer les canalisations et les supports, poser le réseau de câbles, implanter les divers matériels (interrupteurs, prises de courant, appareils de chauffage) et effectuer les raccordements nécessaires.</p>
+<inter>Mise en service</inter>
+<p>Une fois ces travaux achevés, il procède à une série de tests pour vérifier que l'installation est bien conforme aux plans et schémas fournis dès le départ. Il participe à la mise en service en présence du client et du chef de chantier.</p>
+<inter>Informatique et téléphone</inter>
+<p>Selon les chantiers, l'électricien peut assurer le câblage des liaisons informatiques ou de la téléphonie, installer et régler la vidéosurveillance, les systèmes d'alarme, la gestion du chauffage et de la climatisation.</p> </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18737" csRelFld="18737">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18737</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100255</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<titre>Commencer par un CAP mais préférer le baccalauréat professionnel</titre>
+<liste>
+<tete>Plusieurs diplômes permettent d'exercer la profession d'électricien installateur.</tete>
+<itsimp>Le CAP préparation et réalisation d'ouvrages électriques constitue un sésame et se prépare en 2 ans après la classe de 3<exp>e</exp> , dans un lycée professionnel ou par l'apprentissage.</itsimp>
+<itsimp>Plus polyvalent que le CAP, le bac pro électrotechnique, énergie, équipements communicants permet de bien maîtriser tous les domaines de l'installation et de la maintenance électrique (électricité du bâtiment, domotique, électricité industrielle). Après quelques années d'expérience professionnelle, le titulaire d'un bac pro peut facilement accéder à des fonctions d'encadrement.</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18736" csRelFld="18736">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18736</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100255</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un domaine porteur</inter>
+<p>Les électriciens sont très recherchés. Ils peuvent travailler dans une entreprise d'installations électriques, au service maintenance ou travaux neufs d'une grande entreprise (comme EDF ou la SNCF, dans l'industrie automobile, agroalimentaire...), dans une PME, dans le secteur des ascenseurs ou du génie climatique, dans un établissement public, etc. Les innovations techniques créent de nouveaux débouchés pour les électriciens : informatique, téléphonie, vidéosurveillance...</p>
+<inter>Avec le temps</inter>
+<p>Après quelques années de pratique, l'électricien installateur peut devenir chef d'équipe, puis chef de chantier. Il devra alors prendre en charge la préparation et l'organisation du chantier, l'animation des équipes, le suivi technique et financier. Il peut aussi se spécialiser : ascenseurs, électroménager, froid et climatisation, etc.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>A partir du <sal>Smic</sal> avec un CAP.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

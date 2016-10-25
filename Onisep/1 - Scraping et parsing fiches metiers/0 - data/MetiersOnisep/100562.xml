@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">pédologue</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">travailler en contact avec la nature/travailler dehors/me déplacer souvent/coordonner l'activité d'une équipe/aider, conseiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur recherche/secteur sociétés d'ingénierie et d'études techniques/secteur environnement/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">pédologie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100562</lien_onisep>
+<ROME Level="1B" csRelFld="100562">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="175" csRelFld="175">
+<CSLABELFLD label="">F1105</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception et études</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">F1105</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Études géologiques</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100562">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="53651" csRelFld="53651">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53651</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100562</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Mesurer et analyser</inter>
+<p>Une part importante de l'activité du pédologue consiste à examiner les sols à l'aide de fouilles, de sondages, de mesures et de prélèvements. Il analyse ensuite ces " tranches pédologiques " afin de connaître l'état du sol en profondeur et l'impact qu'auront sur lui les aménagements envisagés (cultures, équipements urbains...) ou de déterminer si une friche industrielle peut être réaménagée. Il est amené à représenter ses travaux sous forme de cartes 2D ou 3D.</p>
+<inter>Planifier et coordonner</inter>
+<p>L'ingénieur pédologue coordonne une équipe de travail pluridisciplinaire et doit établir le budget de ses travaux de terrain comme de laboratoire. </p>
+<inter>Conseil et aide à la décision</inter>
+<p>Le pédologue est consulté par les industriels pour savoir si le terrain sur lequel ils souhaitent construire une usine est sans danger, et si cela ne risque pas d'entraîner des pollutions. De même, pour un agriculteur qui envisage de cultiver une terre (épandage...) ou des urbanistes qui veulent connaître la capacité d'un secteur à absorber la pluie, par exemple. À côté de ce travail de diagnostic qu'il effectue pour l'État, les collectivités territoriales, les urbanistes ou les sociétés agronomiques, le pédologue peut conseiller ou avertir sur d'éventuels problèmes de pollution agricole ou industrielle.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="53655" csRelFld="53655">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53655</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100562</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le métier d'ingénieur pédologue est accessible avec un bac + 5 : master ou diplôme d'ingénieur.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master en sciences de la vie, spécialité géologie appliquée ; sciences du sol ; sciences de la Terre, spécialité hydrogéologie et sols...</itsimp>
+<itsimp>Diplôme d'ingénieur en agriculture, agronomie ou en techniques agricoles avec une spécialisation en pédologie</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="53653" csRelFld="53653">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53653</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100562</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>L'environnement en tête</inter>
+<p>Même si les volumes de recrutement de pédologues ne sont pas énormes, la nécessité de protéger les sols les rend de plus en plus indispensables. En effet, leurs travaux trouvent des applications dans de nombreux domaines tels que l'agriculture, l'horticulture, la sylviculture, l'hydrologie, la pollution des sols, l'archéologie, la construction, l'industrie minière...</p>
+<inter>Public ou privé</inter>
+<p>Les chambres d'agriculture ou l'Inra (Institut national de la recherche agronomique) recrutent des pédologues. Dans le privé, ils peuvent se tourner vers les cabinets et bureaux d'études spécialisés en agriculture et en environnement. De grands groupes positionnés sur la protection et la dépollution des sols, tels que Veolia ou Suez, sont également à considérer.</p>
+<inter>Évoluer vers l'encadrement</inter>
+<p>Après quelques années d'expérience et en ayant démontré des qualités managériales, le pédologue peut prendre la direction d'un service d'organisme agricole, par exemple, ou celle d'un bureau d'études.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir de <sal>2500 </sal>euros brut par mois.</p>
+<postit>
+<p>Source : cabinet Elatos, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

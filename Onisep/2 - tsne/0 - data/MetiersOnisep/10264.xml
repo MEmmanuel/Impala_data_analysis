@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">commissaire de police</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">défendre, secourir, surveiller/décider/coordonner l'activité d'une équipe/avoir des sensations fortes/enquêter, rechercher, analyser l'information/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction sécurité, protection, défense/fonction administrative/fonction encadrement - coordination</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique/secteur sécurité publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">sécurité des biens et des personnes/police nationale</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE nettoyage assainissement environnement sécurité/commissaire de police</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10264</lien_onisep>
+<ROME Level="1B" csRelFld="10264">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="481" csRelFld="481">
+<CSLABELFLD label="">K1704</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Défense, sécurité publique et secours</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K1704</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management de la sécurité publique</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10264">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1645" csRelFld="1645">
+<CSLABELFLD label="">officier / officière de police judiciaire </CSLABELFLD>
+<MET_ID label="Identifiant">10264</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1645</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">officier/ère de police judiciaire </METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1645">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18107" csRelFld="18107">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18107</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10264</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Diriger et gérer</inter>
+<p>Qu'il soit affecté à la sécurité publique ou à la police judiciaire, le commissaire est un homme de réflexion et de coordination. Son rôle : gérer un budget, diriger un service et des équipes de policiers, suivre le travail des enquêteurs, gérer des actions de sécurité.</p>
+<inter>Assurer la sécurité publique</inter>
+<p>La délinquance, les petites affaires criminelles, les troubles à l'ordre public, la sécurité des manifestations, la sécurité routière constituent son lot quotidien. Il encadre les officiers chargés de mener les enquêtes : il fixe les objectifs de travail avec ses équipes, répartit les moyens en hommes et en véhicules, suit l'avancée des recherches et des opérations.</p>
+<inter>Participer aux enquêtes</inter>
+<p>En police judiciaire, il dirige une équipe et participe aux enquêtes dont il a la charge (trafic de stupéfiants, d'armes ou d'oeuvres d'art, proxénétisme, escroqueries financières, cybercriminalité, terrorisme...).</p>
+<p>Au sein d'unités spécialisées, il peut rechercher des informations destinées au gouvernement, participer à la lutte contre l'espionnage ou l'immigration clandestine...</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18104" csRelFld="18104">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18104</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10264</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Pour être commissaire de police, il faut passer un concours. Ce dernier est ouvert aux candidats âgés de moins de 35 ans au 1<exp>er</exp> janvier de l'année du concours, et titulaires d'un bac + 5 (si possible en droit).</accr_p> Pour augmenter ses chances, il est possible de suivre une préparation, après un master, avec l'École nationale supérieure de police (ENSP) ou dans une dizaine d'instituts d'études judiciaires (IEJ).</p>
+<inter>Niveau bac + 5</inter>
+<liste>
+<itsimp>
+<em>Concours de commissaire de police :</em> après réussite aux épreuves, les candidats reçus suivent une formation rémunérée (d'une durée de 2 ans) à l'École nationale supérieure de la police de Saint-Cyr (69). La scolarité alterne cours et stages pratiques dans les différents services actifs de la police. En 2<exp>e</exp> année, les élèves sont nommés commissaires de police stagiaires pendant 1 an, avant d'être titularisés s'ils ont donné satisfaction. Ils s'engagent alors à servir l'État pendant 7 ans.</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16168" csRelFld="16168">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16168</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10264</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des recrutements limités</inter>
+<p>Sur les quelque 118 000 fonctionnaires actifs de la police, seuls un peu plus de 1 600 sont commissaires.Le recrutement s'effectue via un concours du ministère de l'Intérieur, accessible à partir d'un bac + 5, suivi de 2 ans de formation en école. Réputé sélectif, ce concours national est ouvert pour une trentaine de postes par an. Attention, on ne peut s'y présenter que trois fois.</p>
+<inter>En fonction de son classement</inter>
+<p>En fonction des besoins de la police et de son rang de classement à sa sortie d'école, le commissaire peut choisir un poste à la police judiciaire ou dans un service spécialisé (stupéfiants, criminelle, mineurs...). S'il n'obtient pas ces choix, il est affecté à la sécurité publique.Après 9 ans d'exercice, il peut être inscrit au tableau d'avancement pour le grade de commissaire divisionnaire.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1602</sal> euros net par mois (en école) et 2074 euros net par mois (stagiaire) en 2015.</p>
+<postit>
+<p>Source : DRCPN/SDFDC/DREC/DECPM, Division de l'égalité des chances et de la promotion des métiers, Section communication sur les métiers, Ministère de l'Intérieur, février 2016.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

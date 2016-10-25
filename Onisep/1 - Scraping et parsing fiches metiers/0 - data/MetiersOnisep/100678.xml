@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">consultant/e SaaS</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller/enquêter, rechercher, analyser l'information/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur audit conseil/secteur édition - presse</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">informatique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100678</lien_onisep>
+<ROME Level="1B" csRelFld="100678">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="604" csRelFld="604">
+<CSLABELFLD label="">M1806</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Systèmes d'information et de télécommunication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1806</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Conseil et maîtrise d'ouvrage en systèmes d'information</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100678">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56770" csRelFld="56770">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56770</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100678</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Étudier l'existant</inter>
+<p>Comme tout consultant, ce professionnel commence par analyser les besoins de l'entreprise ou du service qui a fait appel à lui. Il fait donc le diagnostic des matériels et logiciels existants, interroge les personnes concernées sous forme de questionnaires ou de réunions sur leurs besoins, observe leurs usages et mène une étude de faisabilité en mesurant les contraintes organisationnelles et technologiques spécifiques à l'entreprise.</p>
+<inter>Choisir une solution</inter>
+<p>Parallèlement, le consultant SaaS analyse et compare les solutions existant sur le marché du cloud. Une fois son choix arrêté, il devra le justifier auprès de l'entreprise cliente. Ensuite, il définit les spécifications des nouveaux outils et rédige le cahier des charges. Il établit également un planning de mise en place du projet de transfert de données et planifie les ressources financières, matérielles et humaines nécessaires.</p>
+<inter>Suivre son installation</inter>
+<p>Durant la phase de mise en oeuvre, il accompagne la migration des outils, fait les développements nécessaires, veille à la confidentialité et à la sécurité des données transférées en lien avec l'équipe projet, qu'il anime de bout en bout. Il peut également concevoir un plan de formation, rédiger la documentation pour les utilisateurs et les manuels techniques. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56774" csRelFld="56774">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56774</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100678</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>L'accès au métier de consultant SaaS demande généralement une première expérience en informatique avec un diplôme de niveau bac + 5.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur en informatique</itsimp>
+<itsimp>Master avec une spécialistion cloud computing et mobility, mention informatique...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56772" csRelFld="56772">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56772</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100678</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des employeurs variés</inter>
+<p>Le consultant SaaS peut, par exemple, travailler chez un éditeur de logiciels de style IBM ou Microsoft, dans un cabinet de conseil spécialisé ou encore dans une grande entreprise, en tant que conseiller interne.</p>
+<inter>Un poste qui demande de l'expérience</inter>
+<p>Une première expérience dans le domaine informatique est souvent demandée au futur consultant SaaS. Au fur et à mesure de l'avancée de sa carrière, il se verra confier des missions de plus en plus importantes avant de postuler, par exemple, pour un poste de chef de projet et encadrer une équipe.</p>
+<inter>Un marché en pleine croissance</inter>
+<p>Le cloud computing est l'avenir de l'informatique, et de plus en plus d'entreprises s'y intéressent, ce qui présage de beaux jours pour les consultants SaaS. Le rapport d'études sur les spécificités du marché du SaaS en France publié par l'Afdel (Association française des éditeurs de logiciels et solutions Internet) révèle que le chiffre d'affaires annuel du SaaS devrait passer de 735 millions d'euros en 2013 à 1,8 milliard d'euros en 2015.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir de <sal>2900</sal> euros brut par mois.</p>
+<postit>
+<p>Source : www.lesjeudis.com, 2014.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

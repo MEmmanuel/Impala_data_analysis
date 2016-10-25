@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">conducteur/trice de bus ou d'autocar</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conduite de véhicules</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur transports routiers et urbains</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">transport de voyageurs</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE transports conduite manutention magasinage/conducteur de transport en commun</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100337</lien_onisep>
+<ROME Level="1B" csRelFld="100337">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="647" csRelFld="647">
+<CSLABELFLD label="">N4103</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Personnel de conduite du transport routier</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">N4103</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Conduite de transport en commun sur route</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100337">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1805" csRelFld="1805">
+<CSLABELFLD label="">conducteur-receveur / conductrice-receveuse</CSLABELFLD>
+<MET_ID label="Identifiant">100337</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1805</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">conducteur/trice-receveur/euse</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1805">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="30982" csRelFld="30982">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30982</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100337</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Conduire des personnes à bon port</inter>
+<p>Transport scolaire, lignes régulières urbaines ou interurbaines, conduite de véhicules spécialisés ou d'autocars de (grand) tourisme... dans tous les cas, le conducteur de bus ou d'autocar doit assurer le transport des voyageurs en toute sécurité. Après les avoir accueillis à bord du véhicule, il les assiste, les conseille et les informe. Il anticipe et gère au mieux les incidents de parcours.</p>
+<inter>Rouler sous contrôle</inter>
+<p>Le conducteur dispose de toute une panoplie d'outils qui l'aide dans son itinéraire : chronotachygraphe numérique (compteur de temps et de distance parcourue), téléphone mobile, système de guidage par satellite... Il diagnostique les pannes de son véhicule, informe les passagers en temps réel, et réagit avec calme face à des situations inattendues ou d'urgence. Il connaît aussi les gestes qui permettent d'administrer les premiers secours.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="30984" csRelFld="30984">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30984</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100337</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<em>Le CAP agent d'accueil et de conduite routière, transport de voyageurs est le diplôme de référence dans la profession</em> , mais il n'est pas le seul. Pour exercer ce métier, il faut au moins avoir suivi une FIMO (formation initiale minimale obligatoire) de 140 heures et il est impératif de posséder le permis D (permis pour la conduite de véhicules transport en commun de plus de 9 places). Ce dernier ne peut être obtenus qu'à l'âge de 24 ans et sous condition d'avoir le permis B. La FIMO permet au conducteur d'exercer son métier dans le respect de la sécurité et de la réglementation professionnelle. <em>À noter : les titulaires d'un CAP ou d'un titre professionnel sont dispensés de la FIMO</em> . De même que l'âge requis pour <em>l'obtention des permis D ou DE est de 21 ans dans le cadre d'une formation professionnelle de conducteur routier</em> (exemple, préparation du CAP agent d'accueil et de conduite routière, transport de voyageurs)</p>
+<liste>
+<tete>Niveau CAP</tete>
+<itsimp>CAP agent d'accueil et de conduite routière, transport de voyageurs</itsimp>
+<itsimp>FIMO (formation initiale minimale obligatoire)</itsimp>
+<itsimp>Titre professionnel CTRIV (conducteur(trice) du transport routier interurbain de voyageurs) délivré par le ministère chargé de l'Emploi (niveau V)</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="30986" csRelFld="30986">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30986</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100337</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un secteur en développement</inter>
+<p>Avec un parc de 90 000 véhicules (bus et autocars) et 3 milliards de kilomètres parcourus par an, le transport routier de voyageurs ne cesse de se développer. Deux raisons à ce phénomène : d'une part, l'évolution des besoins des voyageurs ; d'autre part, l'engagement pour l'environnement (dans le cadre du " Grenelle 2 ") qui propose des alternatives à la route comme le développement des transports en commun dans la plupart des villes.</p>
+<inter>Un manque de candidats</inter>
+<p>Cependant, les employeurs ont des difficultés à embaucher. Les principales causes sont les contraintes horaires et leur impact sur la vie familiale. L'évolution des emplois à temps partiel notamment dans le secteur du transport scolaire est également un frein.</p>
+<inter>De nombreux départs à la retraite</inter>
+<p>Dans le secteur du transport routier, la grande majorité des salariés sont des conducteurs. Avec une moyenne d'âge de 46 ans, plus de 40 % des postes de conduite seront à pourvoir d'ici 2020. Des opportunités à saisir pour les femmes, de plus en plus nombreuses dans ce métier. Les débouchés sont importants aussi bien dans le secteur public que dans le secteur privé, en ville comme à la campagne.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir du <sal>Smic</sal> et jusqu'à 2100 euros brut par mois.</p>
+<postit>
+<p>Sources : Convention collective nationale des transports routiers et activités auxiliaires du transport du 21 décembre 1950 ; accord du 23 mars 2011 relatif à la revalorisation des rémunérations au 1<exp>er</exp> avril 2011.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

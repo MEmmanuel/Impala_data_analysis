@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e plasturgiste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire de la recherche/coordonner l'activité d'une équipe/concevoir, utiliser des technologies industrielles de pointe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conception /fonction conduite de projet/fonction organisation de la production industrielle/fonction recherche appliquée/fonction études développement industriel /fonction qualité/fonction technico commercial/fonction essais/fonction méthodes industrialisation</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur transformation des matières plastiques</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">plasturgie/matériaux composites/matière plastique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE matériaux laboratoire organisation industrielle/ingénieur plasturgiste</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10328</lien_onisep>
+<ROME Level="1B" csRelFld="10328">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="265" csRelFld="265">
+<CSLABELFLD label="">H1206</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception, recherche, études et développement</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H1206</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie études, recherche et développement industriel</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="320" csRelFld="320">
+<CSLABELFLD label="">H2502</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Direction, encadrement et pilotage de fabrication et production industrielles</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2502</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie de production</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10328">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18002" csRelFld="18002">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18002</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10328</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Conception et prototypage</inter>
+<p>L'ingénieur plasturgiste participe à la conception de produits en plastique servant à la fabrication d'éléments de carrosserie de voitures, d'appareils électroménagers, de lunettes de vue, d'emballages... Il dessine ces objets et effectue des simulations informatiques à partir d'un cahier des charges, pour mettre au point un produit en 3D. Il définit les données techniques, choisit les matières plastiques ou les matériaux composites. Il réalise ensuite un prototype, supervise les essais et les tests.</p>
+<inter>Process et commercialisation</inter>
+<p>Le procédé mis au point, l'ingénieur plasturgiste participe à l'organisation de la production : définition du process, prévision des approvisionnements en matières premières, organisation et suivi de la production. Il est également chargé de contrôler la qualité du produit fini. Dans le cadre d'une fonction technico-commerciale, il peut suivre les ventes.</p>
+<inter>Toujours innovant</inter>
+<p>Les qualités industrielles des plastiques sont indéniables : résistance, légèreté, recyclabilité, esthétique. L'ingénieur plasturgiste répond aux besoins de ses clients par des innovations alternatives aux métaux, performantes sur le plan économique et écologique, et proposant de nouveaux design.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17338" csRelFld="17338">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17338</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10328</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Un bac + 5 est nécessaire pour accéder au métier d'ingénieur plasturgiste. Deux voies de formation sont possibles : en préparant un diplôme d'ingénieur (Insa de Lyon et Strasbourg, Itech de Lyon, Ispa d'Alençon, Mines de Douai, de Nancy, ECPM de Strasbourg...) ou un master à l'université.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur en plasturgie...</itsimp>
+<itsimp>Masters en sciences et génie des matériaux, chimie et sciences des matériaux...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16960" csRelFld="16960">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16960</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10328</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>La plasturgie omniprésente</inter>
+<p>Placée au 5<exp>e</exp> rang mondial, la plasturgie française se compose de trois branches principales : l'emballage, le BTP et l'automobile. Mais elle est aussi présente dans le médical, les loisirs, l'ameublement, l'aéronautique, l'électronique et l'agriculture. Autant de débouchés possibles pour l'ingénieur plasturgiste...</p>
+<inter>Des emplois très qualifiés</inter>
+<p>La plasturgie est un secteur industriel qui se porte plutôt bien, grâce à des évolutions technologiques constantes. Elle offre de plus en plus d'emplois d'ingénieurs pour le développement de produits, la gestion de projet, la qualité, la production et le commercial. Les femmes y ont aussi leur place : elles représentent un tiers des effectifs du secteur.</p>
+<inter>Vers des postes de direction</inter>
+<p>Si les cadres expérimentés sont recherchés, les jeunes diplômés ont aussi leurs chances. L'évolution professionnelle peut s'effectuer au sein de petites entreprises, ou au sein d'un grand groupe dans le cadre d'une mutation au cours de laquelle l'ingénieur va prouver sa mobilité et son sens des responsabilités, par exemple. Après quelques années, l'ingénieur plasturgiste peut accéder à des postes de direction, notamment en développement, conception, contrôle qualité et production... et prendre en charge un projet important. </p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2300</sal> euros brut par mois.</p>
+<postit>
+<p>Source : Fédération de la plasturgie, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">technicien/ne de maintenance industrielle</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">concevoir, utiliser des technologies industrielles de pointe/réparer, entretenir, installer des équipements</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction service après vente</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur construction automobile/secteur industrie agroalimentaire/secteur industrie chimique/secteur industrie métallurgique et fonderie/secteur construction mécanique/secteur industrie pharmaceutique/secteur textile habillement/secteur maintenance/secteur industrie du papier carton/secteur construction électronique/secteur construction aéronautique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">maintenance industrielle/mécanique/automatismes/essai contrôle électronique/électronique de puissance/électronique industrielle/installation et maintenance électronique/installation maintenance électrique/électrotechnique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">technicien de maintenance industrielle/GFE mécanique automatismes</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100283</lien_onisep>
+<ROME Level="1B" csRelFld="100283">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="400" csRelFld="400">
+<CSLABELFLD label="">I1604</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Véhicules, engins, aéronefs</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">I1604</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Mécanique automobile et entretien de véhicules</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="380" csRelFld="380">
+<CSLABELFLD label="">I1302</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Equipements de production, équipements collectifs</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">I1302</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Installation et maintenance d'automatismes</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="382" csRelFld="382">
+<CSLABELFLD label="">I1304</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Equipements de production, équipements collectifs</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">I1304</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Installation et maintenance d'équipements industriels et d'exploitation</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100283">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1793" csRelFld="1793">
+<CSLABELFLD label="">agent / agente de maîtrise de la Ville de Paris (maintenance industrielle)</CSLABELFLD>
+<MET_ID label="Identifiant">100283</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1793</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">agent/e de maîtrise de la Ville de Paris (maintenance industrielle)</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1793">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1794" csRelFld="1794">
+<CSLABELFLD label="">chef / cheffe d'équipe de maintenance</CSLABELFLD>
+<MET_ID label="Identifiant">100283</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1794</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chef/fe d'équipe de maintenance</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1794">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1795" csRelFld="1795">
+<CSLABELFLD label="">contrôleur territorial / contrôleuse territoriale de travaux (imprimerie)</CSLABELFLD>
+<MET_ID label="Identifiant">100283</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1795</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">contrôleur/euse territorial/e de travaux (imprimerie)</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1795">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1796" csRelFld="1796">
+<CSLABELFLD label="">ingénieur / ingénieure de l'industrie et des mines (maintenance, entretien et travaux neufs)</CSLABELFLD>
+<MET_ID label="Identifiant">100283</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1796</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">ingénieur/e de l'industrie et des mines (maintenance, entretien et travaux neufs)</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1796">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1797" csRelFld="1797">
+<CSLABELFLD label="">mécanicien / mécanicienne en oléohydraulique et pneumatique</CSLABELFLD>
+<MET_ID label="Identifiant">100283</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1797</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">mécanicien/ne en oléohydraulique et pneumatique</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1797">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16422" csRelFld="16422">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16422</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100283</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+   <inter>Anticiper la panne</inter>
+   <p>Éviter la panne et l'interruption d'une production, c'est l'objectif prioritaire du technicien de maintenance industrielle, laquelle est essentiellement préventive. La moindre défaillance technique pouvant entraîner des coûts supplémentaires élevés, mieux vaut miser sur le contrôle, la surveillance et l'entretien régulier des équipements. </p>
+   <inter>Dépanner</inter>
+   <p>Si, malgré tout, une panne survient, il faut alors intervenir au plus vite. À l'aide de tests et de mesures, le technicien de maintenance établit un diagnostic et effectue les opérations qui s'imposent. C'est à lui que revient, le cas échéant, la tâche de changer une pièce défectueuse, de modifier des réglages, de corriger certaines données du programme informatique qui pilote les machines automatisées... et d'effectuer la remise en service. </p>
+   <inter>Optimiser l'outil de production</inter>
+   <p>Chercher à fiabiliser et améliorer l'outil de production : c'est aussi le rôle de ce technicien qui cherche par tous les moyens à réduire les coûts. Toujours à l'affût des évolutions technologiques, il conçoit et propose des solutions, en vue d'optimiser la sécurité et les performances des différents matériels et machines employés dans la chaîne de production.</p>
+  </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18965" csRelFld="18965">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18965</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100283</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<titre>Les études, toute une palette de diplômes</titre>
+<p>
+<accr_p>Les formations en maintenance industrielle couvrent une large gamme de domaines techniques : mécanique, électricité-électronique, électrotechnique, hydraulique...</accr_p> Tour d'horizon :</p>
+<p>
+<em>Bac pro </em>maintenance des équipements industriels (MEI) ou électrotechnique, énergie, équipements communicants . </p>
+<p>Après un bac S ou un bac techno STI2D (développement durable), préparer en deux ans, un <em>BTS</em> ou un <em>DUT</em> est un choix plébiscité par les recruteurs. Quelques exemples : BTS Conception et réalisation de systèmes automatiques, BTS Maintenance des systèmes option A systèmes de production, BTS électrotechnique, DUT génie industriel et maintenance, DUT génie électrique et informatique industrielle...</p>
+<p>Après un BTS ou un DUT, certaines <em>licences pro</em> sciences et technologies, orientées gestion de la production industrielle, permettent en un an, d'accéder à des postes de responsable en maintenance. </p>
+<p>À retenir : la moitié des techniciens débutants ont un bac + 2, 16 %, un bac pro ou techno. 19 % des diplômés en maintenance, ont été formés par le biais de l'apprentissage.</p> </MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17630" csRelFld="17630">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17630</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100283</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+   <inter>Des besoins croissants </inter>
+   <p>Indispensable dans tous les secteurs industriels (automobile, aéronautique, construction mécanique, transports, agroalimentaire, chimie, biomédical, nucléaire...), le domaine de la maintenance embauche. Les entreprises de production sont les principaux recruteurs, suivies des sociétés sous-traitantes. Près des deux tiers des offres sont en province. </p>
+   <inter>Un large éventail de postes </inter>
+   <p>Le technicien de maintenance peut occuper différents postes à l'intérieur d'une entreprise : responsable sécurité, responsable clientèle, études-développement, spécialiste en maintenance assistée par ordinateur... Certains secteurs (aéronautique, chaîne du froid) demandent des professionnels formés à des techniques spécifiques.</p>
+   <inter>Des possibilités d'évolution</inter>
+   <p>Deux impératifs pour évoluer dans la maintenance : être polyvalent et avoir acquis de l'expérience. Un technicien confirmé peut devenir chef d'équipe. Il peut aussi évoluer vers des postes de responsable en fabrication ou en qualité. Dans tous les cas, la formation continue est un atout de taille.</p>
+   <remun>
+    <inter>Salaire du débutant</inter>
+    <p>
+     <sal>2000</sal> euros brut par mois. </p>
+    <p>Source : Le Moniteur. Année : ???</p>
+   </remun>
+  </MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

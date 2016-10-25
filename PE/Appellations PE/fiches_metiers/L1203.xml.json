@@ -1,0 +1,642 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Acteur / Actrice",
+            "priorisation": "1",
+            "libelle": "Acteur / Actrice",
+            "code_ogr": "10263"
+        },
+        {
+            "libelle_court": "Acteur / Actrice de compl\u00e9ment",
+            "priorisation": "1",
+            "libelle": "Acteur / Actrice de compl\u00e9ment",
+            "code_ogr": "10264"
+        },
+        {
+            "libelle_court": "Acteur principal / Actrice principale",
+            "priorisation": "1",
+            "libelle": "Acteur principal / Actrice principale",
+            "code_ogr": "10265"
+        },
+        {
+            "libelle_court": "Artiste dramatique",
+            "priorisation": "1",
+            "libelle": "Artiste dramatique",
+            "code_ogr": "11157"
+        },
+        {
+            "libelle_court": "Com\u00e9dien / Com\u00e9dienne",
+            "priorisation": "1",
+            "libelle": "Com\u00e9dien / Com\u00e9dienne",
+            "code_ogr": "12724"
+        },
+        {
+            "libelle_court": "Conteur / Conteuse",
+            "priorisation": "1",
+            "libelle": "Conteur / Conteuse",
+            "code_ogr": "13555"
+        },
+        {
+            "libelle_court": "Doublure",
+            "priorisation": "1",
+            "libelle": "Doublure",
+            "code_ogr": "14527"
+        },
+        {
+            "libelle_court": "Doublure cascadeur / cascadeuse",
+            "priorisation": "1",
+            "libelle": "Doublure cascadeur / cascadeuse",
+            "code_ogr": "38823"
+        },
+        {
+            "libelle_court": "Figurant / Figurante",
+            "priorisation": "1",
+            "libelle": "Figurant / Figurante",
+            "code_ogr": "15078"
+        },
+        {
+            "libelle_court": "Personnage",
+            "priorisation": "1",
+            "libelle": "Personnage",
+            "code_ogr": "17667"
+        },
+        {
+            "libelle_court": "Personnage de No\u00ebl",
+            "priorisation": "1",
+            "libelle": "Personnage de No\u00ebl",
+            "code_ogr": "17668"
+        },
+        {
+            "libelle_court": "R\u00e9p\u00e9titeur / R\u00e9p\u00e9titrice de dialogues",
+            "priorisation": "1",
+            "libelle": "R\u00e9p\u00e9titeur / R\u00e9p\u00e9titrice de dialogues",
+            "code_ogr": "18548"
+        },
+        {
+            "libelle_court": "Silhouette",
+            "priorisation": "1",
+            "libelle": "Silhouette",
+            "code_ogr": "19433"
+        },
+        {
+            "libelle_court": "Voix off",
+            "priorisation": "1",
+            "libelle": "Voix off",
+            "code_ogr": "20718"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "D\u00e9fricher le texte, le sc\u00e9nario de la pi\u00e8ce, du film, ... et m\u00e9moriser les contenus (dialogues, encha\u00eenements, ...)",
+            "code_ogr": "1332",
+            "code_type_activite": "2",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'\u00e9chauffement corporel et vocal (vocalises, \u00e9tirements, ...) avant les r\u00e9p\u00e9titions, les repr\u00e9sentations, les tournages, ...",
+            "code_ogr": "1580",
+            "code_type_activite": "2",
+            "riasec_majeur": "A",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9p\u00e9ter le r\u00f4le pour le tournage, la pi\u00e8ce et proposer des axes d'interpr\u00e9tation au metteur en sc\u00e8ne, au r\u00e9alisateur, aux partenaires",
+            "code_ogr": "3108",
+            "code_type_activite": "2",
+            "riasec_majeur": "A",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Interpr\u00e9ter, seul ou avec des partenaires, le r\u00f4le devant le public, la cam\u00e9ra selon les indications du metteur en sc\u00e8ne, du r\u00e9alisateur",
+            "code_ogr": "3561",
+            "code_type_activite": "3",
+            "riasec_majeur": "A",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Modifier et perfectionner le jeu selon les r\u00e9actions du public, les indications du metteur en sc\u00e8ne ou du r\u00e9alisateur",
+            "code_ogr": "2363",
+            "code_type_activite": "2",
+            "riasec_majeur": "A",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accompagner la promotion, la diffusion aupr\u00e8s des m\u00e9dias et du public",
+            "code_ogr": "545",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "L1201",
+            "libelle_rome_cible": "Danse"
+        },
+        {
+            "code_rome_cible": "L1202",
+            "libelle_rome_cible": "Musique et chant"
+        },
+        {
+            "code_rome_cible": "L1204",
+            "libelle_rome_cible": "Arts du cirque et arts visuels"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi m\u00e9tier est accessible avec une formation en art dramatique (conservatoires, \u00e9coles nationales sup\u00e9rieures de th\u00e9\u00e2tre, cours priv\u00e9s).\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans ce secteur sans dipl\u00f4me particulier.\nDes d\u00e9marches actives (casting, auditions, ...) sont n\u00e9cessaires pour l'obtention de contrats.\nLes recrutements sont g\u00e9n\u00e9ralement ouverts sur contrats de travail \u00e0 dur\u00e9e d\u00e9termin\u00e9e d'usage.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Jouer et interpr\u00e9ter un r\u00f4le pour une oeuvre sp\u00e9cifique :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conte",
+            "code_ogr": "7289",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Feuilleton radiophonique",
+            "code_ogr": "7290",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Film \u00e9rotique, pornographique",
+            "code_ogr": "7292",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Film court m\u00e9trage",
+            "code_ogr": "7291",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Film institutionnel",
+            "code_ogr": "7293",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Film long m\u00e9trage",
+            "code_ogr": "7294",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Film publicitaire",
+            "code_ogr": "7295",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Lecture-spectacle / monologue",
+            "code_ogr": "7296",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9rie t\u00e9l\u00e9vis\u00e9e",
+            "code_ogr": "7297",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "T\u00e9l\u00e9film",
+            "code_ogr": "7298",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "10",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Th\u00e9\u00e2tre classique",
+            "code_ogr": "7299",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "11",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Th\u00e9\u00e2tre contemporain",
+            "code_ogr": "7300",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "12",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Th\u00e9\u00e2tre de boulevard",
+            "code_ogr": "7301",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "13",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des cascades :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Avec un engin a\u00e9rien (h\u00e9licopt\u00e8re, avion, ...)",
+            "code_ogr": "4860",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Avec un engin aquatique (jet-ski, bateau, ...)",
+            "code_ogr": "4861",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Avec un engin terrestre (moto, voiture, camion, ...)",
+            "code_ogr": "4862",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sans engin (chute dans l'escalier, duel, torche humaine, ...)",
+            "code_ogr": "4863",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Equestres",
+            "code_ogr": "38840",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Repr\u00e9senter un personnage, une situation en tant que silhouette ou figurant pour un tournage, une pi\u00e8ce de th\u00e9\u00e2tre, ...",
+            "code_ogr": "9602",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le doublage vocal de films, de t\u00e9l\u00e9films, de dessins anim\u00e9s, ...",
+            "code_ogr": "5337",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Intervenir en voix off (narration, commentaire, ...) pour un documentaire, une \u00e9mission de t\u00e9l\u00e9vision, une publicit\u00e9, un jingle, ...",
+            "code_ogr": "6961",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der \u00e0 sa pr\u00e9paration (maquillage, coiffure, costume, ...)",
+            "code_ogr": "3585",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener des r\u00e9p\u00e9titions et indiquer des particularit\u00e9s de diction aux acteurs, aux com\u00e9diens, ...",
+            "code_ogr": "7427",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce sur des lieux de tournage, de spectacle, en studio, en relation avec un metteur en sc\u00e8ne, un r\u00e9alisateur et des \u00e9quipes techniques (coiffure, maquillage, costume, ...).\nElle peut impliquer des d\u00e9placements et un \u00e9loignement du domicile de plusieurs jours ou semaines.\nL'activit\u00e9 est soumise au rythme de la programmation des spectacles et des tournages.\nLa r\u00e9mun\u00e9ration est g\u00e9n\u00e9ralement sous forme de cachet.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de moyen mn\u00e9motechnique",
+            "code_ogr": "21347",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pratique d'instrument de musique",
+            "code_ogr": "21051",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pratique de chant",
+            "code_ogr": "21036",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pratique de danse",
+            "code_ogr": "21043",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Appropriation d'espace sc\u00e9nique",
+            "code_ogr": "20785",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Placement de voix",
+            "code_ogr": "21025",
+            "position_item": "6",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Association culturelle ou de loisirs",
+            "code_ogr": "23708",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Compagnie artistique (th\u00e9\u00e2tre, danse, arts de la rue, ...)",
+            "code_ogr": "23821",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ecole d'enseignement artistique et conservatoire",
+            "code_ogr": "23854",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Parc de loisirs",
+            "code_ogr": "24029",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Salle de spectacles",
+            "code_ogr": "24059",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de post-production cin\u00e9matographique",
+            "code_ogr": "24085",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de production audiovisuelle, cin\u00e9matographique",
+            "code_ogr": "24086",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de production de spectacles",
+            "code_ogr": "24087",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Studio d'enregistrement radiophonique",
+            "code_ogr": "24114",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Cin\u00e9ma",
+            "code_ogr": "23441",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ev\u00e8nementiel",
+            "code_ogr": "23487",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Publicit\u00e9",
+            "code_ogr": "23603",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Radio",
+            "code_ogr": "23606",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Spectacle vivant",
+            "code_ogr": "23639",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "T\u00e9l\u00e9vision",
+            "code_ogr": "23648",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Histoire du cin\u00e9ma",
+            "code_ogr": "22030",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Histoire du th\u00e9\u00e2tre",
+            "code_ogr": "22032",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de relaxation",
+            "code_ogr": "23092",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques respiratoires",
+            "code_ogr": "23255",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de diction",
+            "code_ogr": "22891",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques gestuelles",
+            "code_ogr": "23251",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'expression corporelle",
+            "code_ogr": "23211",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'improvisation",
+            "code_ogr": "23224",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de cascades",
+            "code_ogr": "22826",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de doublage vocal",
+            "code_ogr": "22899",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de transformation de la voix",
+            "code_ogr": "23157",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de maquillage",
+            "code_ogr": "22962",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de coiffage",
+            "code_ogr": "22833",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nInterpr\u00e8te des r\u00f4les, des personnages dans des oeuvres cin\u00e9matographiques, des productions audiovisuelles (t\u00e9l\u00e9films, s\u00e9ries, feuilletons radiophoniques, films publicitaires, ...), des spectacles (pi\u00e8ces de th\u00e9\u00e2tre, com\u00e9dies musicales, ...), selon les intentions artistiques d'un metteur en sc\u00e8ne, d'un r\u00e9alisateur, ... et les imp\u00e9ratifs de tournage, de programmation.\nPeut intervenir en tant que figurant ou silhouette.\nPeut effectuer du doublage vocal.\n",
+    "intitule": "Art dramatique",
+    "code_ogr": "440",
+    "code_rome": "L1203",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "K2105",
+            "libelle_rome_cible": "Enseignement artistique"
+        },
+        {
+            "code_rome_cible": "L1301",
+            "libelle_rome_cible": "Mise en sc\u00e8ne de spectacles vivants"
+        },
+        {
+            "code_rome_cible": "L1303",
+            "libelle_rome_cible": "Promotion d'artistes et de spectacles"
+        },
+        {
+            "code_rome_cible": "L1304",
+            "libelle_rome_cible": "R\u00e9alisation cin\u00e9matographique et audiovisuelle"
+        }
+    ]
+}

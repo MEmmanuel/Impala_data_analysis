@@ -1,0 +1,629 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente de Recherches Priv\u00e9es - ARP",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de Recherches Priv\u00e9es - ARP",
+            "code_ogr": "38587"
+        },
+        {
+            "libelle_court": "Chef de poste s\u00e9curit\u00e9",
+            "priorisation": "1",
+            "libelle": "Chef de poste s\u00e9curit\u00e9",
+            "code_ogr": "12213"
+        },
+        {
+            "libelle_court": "Chef de s\u00e9curit\u00e9",
+            "priorisation": "1",
+            "libelle": "Chef de s\u00e9curit\u00e9",
+            "code_ogr": "12336"
+        },
+        {
+            "libelle_court": "Chef de s\u00e9curit\u00e9 incendie",
+            "priorisation": "1",
+            "libelle": "Chef de s\u00e9curit\u00e9 incendie",
+            "code_ogr": "12337"
+        },
+        {
+            "libelle_court": "Chef de service s\u00e9curit\u00e9 incendie et assistance \u00e0 personne",
+            "priorisation": "1",
+            "libelle": "Chef de service de s\u00e9curit\u00e9 incendie et assistance \u00e0 personne",
+            "code_ogr": "12347"
+        },
+        {
+            "libelle_court": "Chef de service s\u00e9curit\u00e9",
+            "priorisation": "1",
+            "libelle": "Chef de service s\u00e9curit\u00e9",
+            "code_ogr": "12366"
+        },
+        {
+            "libelle_court": "Chef de site s\u00e9curit\u00e9 incendie",
+            "priorisation": "1",
+            "libelle": "Chef de site s\u00e9curit\u00e9 incendie",
+            "code_ogr": "38422"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe de s\u00e9curit\u00e9 incendie",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe de s\u00e9curit\u00e9 incendie",
+            "code_ogr": "12433"
+        },
+        {
+            "libelle_court": "Conseiller / Conseill\u00e8re s\u00e9curit\u00e9",
+            "priorisation": "1",
+            "libelle": "Conseiller / Conseill\u00e8re s\u00e9curit\u00e9",
+            "code_ogr": "13478"
+        },
+        {
+            "libelle_court": "D\u00e9tective",
+            "priorisation": "1",
+            "libelle": "D\u00e9tective",
+            "code_ogr": "14143"
+        },
+        {
+            "libelle_court": "D\u00e9tective priv\u00e9",
+            "priorisation": "1",
+            "libelle": "D\u00e9tective priv\u00e9",
+            "code_ogr": "14144"
+        },
+        {
+            "libelle_court": "Enqu\u00eateur priv\u00e9 / Enqu\u00eatrice priv\u00e9e",
+            "priorisation": "1",
+            "libelle": "Enqu\u00eateur priv\u00e9 / Enqu\u00eatrice priv\u00e9e",
+            "code_ogr": "14845"
+        },
+        {
+            "libelle_court": "Responsable charg\u00e9 / charg\u00e9e de la s\u00e9curit\u00e9",
+            "priorisation": "1",
+            "libelle": "Responsable charg\u00e9 / charg\u00e9e de la s\u00e9curit\u00e9",
+            "code_ogr": "18591"
+        },
+        {
+            "libelle_court": "Responsable de s\u00e9curit\u00e9 et surveillance",
+            "priorisation": "1",
+            "libelle": "Responsable de s\u00e9curit\u00e9 et surveillance",
+            "code_ogr": "18857"
+        },
+        {
+            "libelle_court": "Responsable d'exploitation en s\u00e9curit\u00e9",
+            "priorisation": "1",
+            "libelle": "Responsable d'exploitation en s\u00e9curit\u00e9",
+            "code_ogr": "18988"
+        },
+        {
+            "libelle_court": "Responsable s\u00e9curit\u00e9",
+            "priorisation": "1",
+            "libelle": "Responsable s\u00e9curit\u00e9",
+            "code_ogr": "19174"
+        },
+        {
+            "libelle_court": "Responsable s\u00e9curit\u00e9 de site",
+            "priorisation": "1",
+            "libelle": "Responsable s\u00e9curit\u00e9 de site",
+            "code_ogr": "19176"
+        },
+        {
+            "libelle_court": "Responsable service s\u00e9curit\u00e9",
+            "priorisation": "1",
+            "libelle": "Responsable service s\u00e9curit\u00e9",
+            "code_ogr": "19193"
+        },
+        {
+            "libelle_court": "Surveillant-chef / Surveillante-chef de mus\u00e9e",
+            "priorisation": "1",
+            "libelle": "Surveillant-chef / Surveillante-chef de mus\u00e9e",
+            "code_ogr": "19603"
+        },
+        {
+            "libelle_court": "Surveillant(e)-chef gardien(ne) de mus\u00e9e",
+            "priorisation": "1",
+            "libelle": "Surveillant-chef gardien / Surveillante-chef gardienne de mus\u00e9e",
+            "code_ogr": "19604"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Evaluer les situations, les risques et les besoins en protection, surveillance et proposer les solutions adapt\u00e9es au client",
+            "code_ogr": "1963",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer et faire \u00e9voluer les plans de pr\u00e9vention et de s\u00e9curit\u00e9",
+            "code_ogr": "3550",
+            "code_type_activite": "3",
+            "riasec_majeur": "I",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Organiser et contr\u00f4ler les interventions de s\u00e9curit\u00e9, les mises en s\u00e9curit\u00e9 de site et les exercices",
+            "code_ogr": "2437",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler l'application des r\u00e8gles et des consignes de s\u00e9curit\u00e9 et la s\u00e9curisation des sites et des \u00e9quipements",
+            "code_ogr": "1079",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier les dysfonctionnements, incidents (intrusion, sinistre, vol, ...) et mettre en place ou pr\u00e9coniser les actions correctives (\u00e9volutions, moyens, ...)",
+            "code_ogr": "2117",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler et renseigner les documents, les d\u00e9clarations, ... et les donn\u00e9es d'activit\u00e9 (intervention, alarme, ...) du service",
+            "code_ogr": "1005",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Apporter assistance et appui technique aux clients, \u00e0 la direction, aux forces de l'ordre, aux pompiers, ...",
+            "code_ogr": "706",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "H1302",
+            "libelle_rome_cible": "Management et ing\u00e9nierie Hygi\u00e8ne S\u00e9curit\u00e9 Environnement -HSE- industriels"
+        },
+        {
+            "code_rome_cible": "K1702",
+            "libelle_rome_cible": "Direction de la s\u00e9curit\u00e9 civile et des secours"
+        },
+        {
+            "code_rome_cible": "K1704",
+            "libelle_rome_cible": "Management de la s\u00e9curit\u00e9 publique"
+        },
+        {
+            "code_rome_cible": "K2203",
+            "libelle_rome_cible": "Management et inspection en propret\u00e9 de locaux"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau Bac professionnel \u00e0 Bac+2 (BTS, DUT, ...) dans le secteur de la s\u00e9curit\u00e9.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans les secteurs de la s\u00e9curit\u00e9 et de la d\u00e9fense sans dipl\u00f4me particulier.\nUn niveau Bac+3 (licence professionnelle, titre professionnel) est requis pour les agents de recherches priv\u00e9es.\nUne ou plusieurs habilitations (Service de S\u00e9curit\u00e9 Incendie et d'Assistance \u00e0 Personnes -SSIAP 3-, ...) peu(vent)t \u00eatre requise(s).\nUn casier judiciaire exempt de toute mention contradictoire et une carte professionnelle valable 5 ans (ou un agr\u00e9ment pour les directeurs d'enqu\u00eates priv\u00e9es), d\u00e9livr\u00e9e par le CNAPS (Conseil National des Activit\u00e9s Priv\u00e9es de S\u00e9curit\u00e9) sont obligatoires. Le port d'arme est soumis \u00e0 autorisation pr\u00e9fectorale.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser des interventions n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Service de S\u00e9curit\u00e9 Incendie et d'Assistance \u00e0 Personnes -SSIAP2-",
+            "code_ogr": "8496",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Service de S\u00e9curit\u00e9 Incendie et d'Assistance \u00e0 Personnes -SSIAP3-",
+            "code_ogr": "8497",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Intervenir dans un domaine :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Protection de personnes (escorte, interposition, ...)",
+            "code_ogr": "6627",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Protection de biens (valeur, \u00e9quipement, immeuble, ...)",
+            "code_ogr": "6626",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9curit\u00e9 incendie d'\u00e9tablissement recevant du public",
+            "code_ogr": "6662",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Protection immat\u00e9rielle et \u00e9conomique (donn\u00e9e, brevet, information, ...)",
+            "code_ogr": "6628",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "4",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des enqu\u00eates",
+            "code_ogr": "4873",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Former et sensibiliser le personnel aux techniques, proc\u00e9dures de pr\u00e9vention et de s\u00e9curit\u00e9",
+            "code_ogr": "6058",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Informer et conseiller les clients, les collaborateurs sur des questions d'ordre juridique",
+            "code_ogr": "2189",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir avec un client les modalit\u00e9s de r\u00e9alisation d'une prestation",
+            "code_ogr": "5792",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe ou diriger une structure",
+            "code_ogr": "4326",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises, de soci\u00e9t\u00e9s de s\u00e9curit\u00e9, ... en contact avec diff\u00e9rents intervenants et institutionnels (clients, publics, police, gendarmerie, pompiers, ...).\nElle s'exerce le plus souvent en lib\u00e9ral pour les agents de recherches priv\u00e9es.\nElle varie selon le secteur (a\u00e9roportuaire, \u00e9v\u00e8nementiel, transport, ...), l'activit\u00e9 (exploitation, conseil, ...), le mode d'organisation et le type de prestation.\nElle peut s'exercer les fins de semaine, jours f\u00e9ri\u00e9s, de nuit et \u00eatre soumise \u00e0 des astreintes.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils de radiocommunication",
+            "code_ogr": "21472",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pratique de la photographie",
+            "code_ogr": "21045",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de syst\u00e8me d'information et de communication",
+            "code_ogr": "21388",
+            "position_item": "2",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "A\u00e9roport",
+            "code_ogr": "23682",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise",
+            "code_ogr": "23867",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise publique/\u00e9tablissement public",
+            "code_ogr": "23912",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement de jeux",
+            "code_ogr": "23915",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement m\u00e9dical (h\u00f4pital, clinique, ...)",
+            "code_ogr": "23922",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Parc de loisirs",
+            "code_ogr": "24029",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Site portuaire",
+            "code_ogr": "24076",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de s\u00e9curit\u00e9",
+            "code_ogr": "24089",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Administration / Services de l'Etat",
+            "code_ogr": "23388",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Banque",
+            "code_ogr": "23412",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent et Travaux Publics -BTP-",
+            "code_ogr": "23420",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent industriel",
+            "code_ogr": "23417",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent tertiaire",
+            "code_ogr": "23419",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Commerce/grande distribution",
+            "code_ogr": "23445",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "D\u00e9fense nationale",
+            "code_ogr": "23458",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ev\u00e8nementiel",
+            "code_ogr": "23487",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Immobilier",
+            "code_ogr": "23523",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Patrimoine culturel et historique",
+            "code_ogr": "23576",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Recherche et d\u00e9veloppement",
+            "code_ogr": "23609",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9sidentiel",
+            "code_ogr": "23621",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Spectacle",
+            "code_ogr": "23638",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sport et loisirs",
+            "code_ogr": "23640",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Transport (a\u00e9rien, ferroviaire, maritime, ...)",
+            "code_ogr": "23655",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Transport/logistique",
+            "code_ogr": "23659",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Au domicile de particulier",
+            "code_ogr": "23375",
+            "code_type_section_env": "3"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "En ext\u00e9rieur",
+            "code_ogr": "23378",
+            "code_type_section_env": "3"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Droit civil",
+            "code_ogr": "21793",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Droit p\u00e9nal",
+            "code_ogr": "21814",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes de s\u00e9curit\u00e9 des espaces et des \u00e9tablissements recevant du public",
+            "code_ogr": "22222",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation en Hygi\u00e8ne, S\u00e9curit\u00e9, Environnement -HSE-",
+            "code_ogr": "22567",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation s\u00e9curit\u00e9 incendie",
+            "code_ogr": "22580",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation sur les armes",
+            "code_ogr": "22586",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de m\u00e9diation",
+            "code_ogr": "22974",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de surveillance/t\u00e9l\u00e9surveillance",
+            "code_ogr": "23131",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9thodes d'investigation",
+            "code_ogr": "22145",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques commerciales",
+            "code_ogr": "23012",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nSupervise et contr\u00f4le les prestations et mesures de pr\u00e9vention et de s\u00e9curit\u00e9 (humaine, \u00e9lectronique, technologique) dans l'objectif de pr\u00e9venir des risques, s\u00e9curiser des sites et prot\u00e9ger des biens et des personnes selon la l\u00e9gislation et les r\u00e9glementations en mati\u00e8re de s\u00e9curit\u00e9.\nPeut r\u00e9aliser des enqu\u00eates priv\u00e9es pour des particuliers ou des soci\u00e9t\u00e9s.\nPeut encadrer une \u00e9quipe ou un service.\n",
+    "intitule": "Management de s\u00e9curit\u00e9 priv\u00e9e",
+    "code_ogr": "429",
+    "code_rome": "K2502",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "G1403",
+            "libelle_rome_cible": "Gestion de structure de loisirs ou d'h\u00e9bergement touristique"
+        },
+        {
+            "code_rome_cible": "M1302",
+            "libelle_rome_cible": "Direction de petite ou moyenne entreprise"
+        },
+        {
+            "code_rome_cible": "M1402",
+            "libelle_rome_cible": "Conseil en organisation et management d'entreprise"
+        }
+    ]
+}

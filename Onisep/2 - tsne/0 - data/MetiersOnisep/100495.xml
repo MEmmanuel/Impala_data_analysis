@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">accessoiriste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un métier artistique ou créatif/fabriquer, construire/me déplacer souvent/exercer un travail manuel</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">intermittent du spectacle</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur des arts du spectacle/secteur de l'audiovisuel</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">arts du spectacle/accessoire habillement</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE arts appliqués arts du spectacle/accessoiriste</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100495</lien_onisep>
+<ROME Level="1B" csRelFld="100495">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="549" csRelFld="549">
+<CSLABELFLD label="">L1503</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Techniciens du spectacle</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">L1503</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Décor et accessoires spectacle</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100495">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="920" csRelFld="920">
+<CSLABELFLD label="">chef décorateur / décoratrice</CSLABELFLD>
+<MET_ID label="Identifiant">100495</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">05/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">920</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chef/fe décorateur/trice</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="920">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="918" csRelFld="918">
+<CSLABELFLD label="">décorateur / décoratrice</CSLABELFLD>
+<MET_ID label="Identifiant">100495</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">05/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">918</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">décorateur/trice</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="918">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="919" csRelFld="919">
+<CSLABELFLD label="">décorateur / décoratrice scénographe</CSLABELFLD>
+<MET_ID label="Identifiant">100495</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">05/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">919</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">décorateur/trice scénographe</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="919">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="47165" csRelFld="47165">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">47165</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100495</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Rendre crédible</inter>
+<p>Sous la responsabilité du décorateur et après discussion avec le metteur en scène, l'accessoiriste fournit et conçoit les objets nécessaires à la mise en scène d'une production artistique et qui seront utilisés par les comédiens : décoration, bijoux, objets de la vie courante, équipements divers... En « accessoirisant », il donne de la crédibilité, de la profondeur et de la vie à un jeu de scène.</p>
+<inter>Dénicher ou fabriquer</inter>
+<p>L'accessoiriste achète, loue ou adapte les objets choisis pour une scène ou un plateau, selon le budget défini. Il peut mettre en oeuvre un partenariat avec des magasins ou entreprises qui lui prêtent alors certains objets. L'accessoiriste peut également fabriquer ses accessoires lui-même : une fois les plans, maquettes ou dessins réalisés, il devient tour à tour menuisier, peintre, sculpteur, tapissier... Artiste complet, il peut aussi s'illustrer dans des effets spéciaux comme les feux d'artifice.</p>
+<inter>Assurer la maintenance</inter>
+<p>L'accessoiriste fait partie de l'équipe des décors et participe donc à leur montage et démontage en anticipant les contraintes techniques. Il contrôle le transport des accessoires et en assure l'entretien en vue d'une éventuelle réutilisation (nettoyage, réparation, etc.). Il veille également au respect des normes et des règles de sécurité.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="47169" csRelFld="47169">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">47169</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100495</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Des formations en accessoires et décors du spectacle, du CAP à bac + 2, permettent d'exercer le métier d'accessoiriste. Il est recommandé de compléter ces formations par des expériences sur le terrain : stages professionnels, cours de théâtre en activité extrascolaire, etc. L'objectif est de se constituer un carnet d'adresses, essentiel pour intégrer le milieu. Une base artisanale en menuiserie, ébénisterie, tapisserie, sculpture, soudure, etc. est utile pour être plus polyvalent. Quelques écoles spécialisées (Ensatt, Esad, Ensad...) proposent des diplômes spécifiques au décor qui peuvent constituer un atout pour progresser dans le métier.</p>
+<liste>
+<tete>Après la 3<exp>e</exp>
+</tete>
+<itsimp>CAP accessoiriste réalisateur</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS design d'espace</itsimp>
+<itsimp>BTS design de produits</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Diplôme en scénographie-costumes de l'Esad (École supérieure des arts dramatiques)-TNS de Strasbourg </itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme national supérieur des arts décoratifs spécialité scénographie de l'Ensad (École nationale supérieure des arts décoratifs)</itsimp>
+<itsimp>Diplôme arts et techniques du théâtre parcours scénographe (École nationale supérieure des arts et techniques du théâtre) </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="47167" csRelFld="47167">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">47167</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100495</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Une insertion professionnelle difficile</inter>
+<p>Sur les 129 000 intermittents, on compte près de 4 % d'accessoiristes, dont moins de la moitié est spécialisée dans le décor. Un pourcentage minime qui témoigne de la fragilité de leur situation. Malgré la croissance du secteur, les professionnels intermittents du décor ne bénéficient pas d'une situation stable. Le nombre de contrats augmente, mais leur durée ne cesse de diminuer.</p>
+<inter>De l'accessoire à la décoration</inter>
+<p>Avec de l'expérience, un accessoiriste peut élargir ses compétences et envisager une évolution vers le métier de décorateur.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1775</sal> euros brut mensuel en moyenne dans le secteur de l'audiovisuel. </p>
+<p>Un intermittent du spectacle est généralement rémunéré à la mission. Le taux horaire dépendant du budget de l'employeur et de la production, il est donc très variable.</p>
+<postit>
+<p>
+<cit>Source : Uspa, 2011</cit>
+</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

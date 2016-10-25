@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">agent/e général/e d'assurances </MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">convaincre, négocier/faire du commerce/coordonner l'activité d'une équipe/manier les chiffres</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">indépendant</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction vente</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur assurances</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">assurances</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé/agent général d'assurances</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10088</lien_onisep>
+<ROME Level="1B" csRelFld="10088">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10088">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16583" csRelFld="16583">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16583</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10088</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Diriger l'entreprise</inter>
+<p>Parfois seul, mais le plus souvent entouré d'une équipe, l'agent général surveille de près les résultats de son agence, car sa rémunération en dépend. En véritable chef d'entreprise, il recrute lui-même ses salariés, dirige son agence, organise le travail de son équipe (chargé d'accueil, assistant commercial, secrétaire...) et met en place des actions de formation... sans oublier de motiver ses troupes !</p>
+<inter>Conseiller les clients</inter>
+<p>L'agent général gère un portefeuille d'assurés particuliers ou professionnels. À l'arrivée d'un nouveau client, il assure un bilan complet de sa situation, évalue les risques à couvrir et lui conseille les produits de sa compagnie les plus adaptés. En cas de sinistre, lui ou l'un de ses salariés instruit le dossier et assure le suivi jusqu'au versement des indemnités. Dans certains cas, il fait appel à un expert pour évaluer le dommage.</p>
+<inter>Développer la clientèle</inter>
+<p>En partenariat avec sa compagnie d'assurances, l'agent développe des actions marketing et prospecte de nouveaux marchés. Il entre en contact avec les acteurs de la vie économique locale (chambres professionnelles, collectivités, industriels...), suit l'évolution de la législation et s'informe sur les produits de la concurrence. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16571" csRelFld="16571">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16571</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10088</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Si théoriquement aucun diplôme n'est obligatoire pour se lancer dans le métier, dans les faits il semble qu'un niveau bac + 2 soit le minimum pour tenter l'expérience. Une fois choisi par une compagnie d'assurances, il faut suivre une formation spécifique d'au moins 600 heures, dispensée par la compagnie ou un organisme agréé. À l'issue de cette formation, le candidat obtient la carte professionnelle, indispensable pour exercer. Une expérience professionnelle facilite l'accès au métier et peut parfois pallier le manque de diplôme. </p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS assurance ; banque ; management des unités commerciales ; négociation et relation client ;</itsimp>
+<itsimp>DUT carrières juridiques ; techniques de commercialisation ;</itsimp>
+<itsimp>DEUST banque organismes financiers et de prévoyance ;</itsimp>
+<itsimp>Licence 2 en économie ; droit ; gestion...</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence pro assurance, banque, finance</itsimp>
+<itsimp>Diplôme d'école spécialisée</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'école supérieure de commerce et de gestion</itsimp>
+<itsimp>Diplôme de l'École nationale d'assurances (ENASS)</itsimp>
+<itsimp>Diplôme d'université (DU) de l'Institut des assurances</itsimp>
+<itsimp>Master droit ; économie ; finance ; marketing, vente ; management </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16581" csRelFld="16581">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16581</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10088</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Première expérience bienvenue</inter>
+<p>34 % des contrats en assurance de biens et responsabilités sont souscrits via les agents généraux, qui représentent encore le premier mode de distribution dans un secteur concurrentiel et en forte mutation (fusion des compagnies, concurrence de la grande distribution ou des concessionnaires automobiles...). Les compagnies d'assurances, qui touchent un pourcentage sur chaque contrat signé par l'agent général, préfèrent donc confier ce poste à un candidat qui a déjà une expérience professionnelle (dans la vente, les assurances, la banque ou les services) et dispose d'un bon carnet d'adresses. </p>
+<inter>Liberté de mouvement</inter>
+<p>En tant qu'indépendant, l'agent général gère son temps et son entreprise comme il le veut. En revanche, il s'engage auprès de la compagnie d'assurances qu'il représente à couvrir un certain territoire sans empiéter sur ses voisins. </p>
+<inter>Le prix de l'installation</inter>
+<p>Le métier recrute, mais uniquement par le biais de reprises de clientèle (600 en dix ans). Pour pouvoir racheter le portefeuille constitué par un prédécesseur, l'agent général s'endette souvent (16 000 euros en moyenne). Certaines compagnies d'assurances proposent des aides financières mais, pour rentabiliser son investissement, il faut souvent accepter de gagner très peu au début. </p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Très variable d'un professionnel à l'autre, car constitué par les commissions perçues sur les ventes et la gestion des contrats d'assurance.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

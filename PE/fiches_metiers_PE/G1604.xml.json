@@ -1,0 +1,413 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Cr\u00eapier / Cr\u00eapi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Cr\u00eapier / Cr\u00eapi\u00e8re",
+            "code_ogr": "13844"
+        },
+        {
+            "libelle_court": "Pizza\u00efolo / Pizza\u00efola",
+            "priorisation": "1",
+            "libelle": "Pizza\u00efolo / Pizza\u00efola",
+            "code_ogr": "17807"
+        },
+        {
+            "libelle_court": "Pr\u00e9parateur-vendeur / Pr\u00e9paratrice-vendeuse de cr\u00eapes",
+            "priorisation": "1",
+            "libelle": "Pr\u00e9parateur-vendeur / Pr\u00e9paratrice-vendeuse de cr\u00eapes",
+            "code_ogr": "18042"
+        },
+        {
+            "libelle_court": "Pr\u00e9parateur-vendeur / Pr\u00e9paratrice-vendeuse de pizzas",
+            "priorisation": "1",
+            "libelle": "Pr\u00e9parateur-vendeur / Pr\u00e9paratrice-vendeuse de pizzas",
+            "code_ogr": "18043"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "M\u00e9langer les ingr\u00e9dients des p\u00e2tes \u00e0 cr\u00eape, \u00e0 pizza, ... et effectuer le p\u00e9trissage/le tournage de la p\u00e2te",
+            "code_ogr": "2294",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mettre la p\u00e2te/les p\u00e2tons au repos et surveiller les \u00e9tapes de fermentation",
+            "code_ogr": "2356",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mettre en forme la p\u00e2te \u00e0 pizza, r\u00e9aliser la garniture et proc\u00e9der \u00e0 la cuisson au four",
+            "code_ogr": "2315",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etaler la p\u00e2te \u00e0 cr\u00eape sur les plaques de cuisson et effectuer le garnissage, les finitions (pliage, ...)",
+            "code_ogr": "1909",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Emballer les pr\u00e9parations, les produits, les \u00e9tiqueter (dates de fabrication, DLC) et les ranger en chambre froide, en r\u00e9serve, ...",
+            "code_ogr": "1777",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien et le nettoyage du poste de travail, des ustensiles, des \u00e9quipements ou de la cuisine",
+            "code_ogr": "1608",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1102",
+            "libelle_rome_cible": "Boulangerie - viennoiserie"
+        },
+        {
+            "code_rome_cible": "G1603",
+            "libelle_rome_cible": "Personnel polyvalent en restauration"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec une formation de pizza\u00efolo, de cr\u00eapier ou un CAP cuisine.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle ou des connaissances en production culinaire sans dipl\u00f4me particulier.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Pr\u00e9parer des produits culinaires :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Beignets, gaufres, churros, ...",
+            "code_ogr": "7937",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cr\u00eapes (sal\u00e9es, sucr\u00e9es)",
+            "code_ogr": "7938",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Desserts italiens (glaces, tiramisu, ...)",
+            "code_ogr": "7939",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "P\u00e2tes fra\u00eeches (spaghettis, tagliatelles, ...)",
+            "code_ogr": "7940",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Salades",
+            "code_ogr": "7941",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sandwichs (hot dog, panini, ...)",
+            "code_ogr": "7942",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des livraisons de commandes aupr\u00e8s des clients",
+            "code_ogr": "3531",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Remettre la commande au client (service \u00e0 l'assiette, emballage \u00e0 emporter, plateau, ...)",
+            "code_ogr": "3595",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les op\u00e9rations d'encaissement",
+            "code_ogr": "3546",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer des recettes de pizzas, de cr\u00eapes",
+            "code_ogr": "5588",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la gestion comptable et administrative d'une structure",
+            "code_ogr": "3533",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9ceptionner et contr\u00f4ler des marchandises et effectuer le stockage en chambre froide, en r\u00e9serve, ...",
+            "code_ogr": "9423",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de pizzerias, cr\u00eaperies, restaurants traditionnels, structures ambulantes (cabane \u00e0 cr\u00eapes, kiosque \u00e0 pizzas, ...) en contact avec les clients.\nElle peut s'exercer en horaires fractionn\u00e9s, les fins de semaine, jours f\u00e9ri\u00e9s, en soir\u00e9e et \u00eatre soumise \u00e0 des pics d'activit\u00e9 (\u00ab coup de feu \u00bb).\nLe port d'une tenue professionnelle (tablier, chaussures de s\u00e9curit\u00e9, ...) est requis.\nLa connaissance des normes d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaires (Hazard Analysis Critical Control Point -HACCP-) est requise.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de pelle \u00e0 pizza",
+            "code_ogr": "21349",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de four \u00e0 bois",
+            "code_ogr": "21213",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de plaques de cuisson",
+            "code_ogr": "21355",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de fiches techniques de cuisine",
+            "code_ogr": "20944",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Conduite d'un v\u00e9hicule deux roues motoris\u00e9",
+            "code_ogr": "20824",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Comptage",
+            "code_ogr": "20820",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Cabane \u00e0 cr\u00eapes",
+            "code_ogr": "23736",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Cr\u00eaperie",
+            "code_ogr": "23841",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Kiosque \u00e0 pizzas",
+            "code_ogr": "23982",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pizzeria",
+            "code_ogr": "24036",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Restaurant traditionnel",
+            "code_ogr": "24056",
+            "code_type_section_env": "1"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Types de p\u00e2tes \u00e0 pizza",
+            "code_ogr": "23323",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Types de p\u00e9trissage de la p\u00e2te",
+            "code_ogr": "23324",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de panification/fermentation",
+            "code_ogr": "23016",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de mise en forme des disques de pizzas",
+            "code_ogr": "22984",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modes de cuisson des aliments",
+            "code_ogr": "22196",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Types de p\u00e2tes \u00e0 cr\u00eape",
+            "code_ogr": "23322",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de tournage de p\u00e2te \u00e0 cr\u00eape",
+            "code_ogr": "23148",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de pliage de cr\u00eape",
+            "code_ogr": "23035",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaire",
+            "code_ogr": "22649",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modes de conservation des produits alimentaires",
+            "code_ogr": "22195",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'encaissement",
+            "code_ogr": "22454",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de gestion de stocks",
+            "code_ogr": "22609",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nPr\u00e9pare, assemble et cuit des produits culinaires sp\u00e9cifiques (pizzas, cr\u00eapes, ...) selon les normes d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaires et la charte qualit\u00e9 de l'\u00e9tablissement.\nPeut effectuer la vente et la livraison des produits pr\u00e9par\u00e9s.\n",
+    "intitule": "Fabrication de cr\u00eapes ou pizzas",
+    "code_ogr": "201",
+    "code_rome": "G1604",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "G1401",
+            "libelle_rome_cible": "Assistance de direction d'h\u00f4tel-restaurant"
+        },
+        {
+            "code_rome_cible": "G1402",
+            "libelle_rome_cible": "Management d'h\u00f4tel-restaurant"
+        },
+        {
+            "code_rome_cible": "G1602",
+            "libelle_rome_cible": "Personnel de cuisine"
+        }
+    ]
+}

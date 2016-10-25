@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">prototypiste en matériaux souples</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">fabriquer, construire/faire du dessin</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur sociétés d'ingénierie et d'études techniques/secteur textile habillement</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">textile/habillement</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE textile habillement cuir</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100661</lien_onisep>
+<ROME Level="1B" csRelFld="100661">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="313" csRelFld="313">
+<CSLABELFLD label="">H2411</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Cuir et textile</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2411</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Montage de prototype cuir et matériaux souples</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100661">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56631" csRelFld="56631">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56631</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100661</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Plusieurs titres</inter>
+<p>Selon le secteur, on l'appelle prototypiste industriel (pour créer un bas de soie, une tente, un gilet de sauvetage...), prototypiste en matériaux souples (pour les industries du cuir, de l'habillement) ou prototypiste chaussures. </p>
+<inter>Réalisateur en série </inter>
+<p>En fonction du cahier des charges, le prototypiste réalise la pièce qui servira au lancement de la production en série. Il tient compte des indications du styliste ou de la modéliste, des contraintes techniques (temps, matières premières) et des coûts de production. Il s'assure de la qualité des matériaux et définit le processus de coupe, contrôle la conformité esthétique, fonctionnelle et technique de la pièce, et rédige ou adapte les fiches techniques qui seront transmises au bureau des méthodes avant le lancement de la production. C'est de lui que dépend la qualité des produits finis.</p>
+<inter>Modéliser </inter>
+<p>Fini le dessin au calque. Place à l'informatique et aux nouvelles méthodes de fabrication, comme les modélisations en 3D. Le prototypiste optimise les standards de conception, valide les formes, refait tel support matériel... Si le produit est défectueux (tente pas assez résistante...), à lui de trouver si cela vient de la conception ou de la production ; ensuite, le produit est refabriqué à partir de ses conclusions.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56635" csRelFld="56635">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56635</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100661</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Si certains professionnels sont autodidactes, l'accès au métier s'exerce à deux niveaux : après le bac ou un bac + 2. </p>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>Bac pro métiers de la mode - vêtements ; Bac pro métiers du cuir option chaussure ou option maroquinerie</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS métiers de la mode - vêtement ; BTS métiers de la mode - chaussure et maroquinerie</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56633" csRelFld="56633">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56633</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100661</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Petites et grandes entreprises </inter>
+<p>Il évolue aussi bien dans le secteur du moyen de gamme que dans le luxe, dans des PME (petites et moyennes entreprises) ou les TPE (très petites entreprises), des grands groupes, et dans des bureaux d'études ou ateliers de production pour l'aéronautique, l'automobile, le textile, l'horlogerie... Quant à la réalisation des prototypes de produits et de petites séries, elle se fait davantage dans des entreprises de maroquinerie ou de chaussures, et plus généralement pour toute usine qui réalise des vêtements de protection. Certains prototypistes travaillent même à domicile. </p>
+<inter>Des perspectives d'évolution </inter>
+<p>Avant de devenir prototypistes, certains étaient... couturiers industriels, patronniers-gradeurs (concepteurs d'un patron pour produits de matériaux souples), selliers-garnisseurs (fabricants d'articles de cuir), etc. Et plusieurs années après ? Le prototypiste peut évoluer vers des fonctions de contrôle de production, d'encadrement et de responsable au sein du bureau d'études. Ce sont les bureaux d'études, le secteur du luxe et de la petite série qui recrutent l'essentiel des prototypistes en France, alors que la tendance est à la délocalisation pour la production en grande série du moyen de gamme. </p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>1700</sal> à 1900 euros brut par mois. </p>
+<postit>
+<p>Source : Insee (Institut national de la statistique et des études économiques), 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

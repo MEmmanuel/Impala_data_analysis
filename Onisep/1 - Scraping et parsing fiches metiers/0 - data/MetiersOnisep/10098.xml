@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">responsable du back-office</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe/manier les chiffres</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction encadrement - coordination</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur banque</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">finance de marché</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé/responsable du back-office</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10098</lien_onisep>
+<ROME Level="1B" csRelFld="10098">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10098">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18413" csRelFld="18413">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18413</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10098</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Améliorer et sécuriser les opérations</inter>
+<p>À l'arrière de la salle de marchés où s'activent les traders (opérateurs de marché), le responsable du back office marchés encadre l'équipe qui contrôle et enregistre les transactions réalisées en front office. Il paie et livre les titres échangés, vérifie les mouvements comptables, gère les comptes des clients (évolution de la valeur des titres, versement de dividendes, déclarations fiscales...), supervise la tenue des comptes. Objectif : améliorer les délais et sécuriser les procédures. </p>
+<inter>Assurer le montage des dossiers</inter>
+<p>Le responsable du back office financement supervise l'activité de gestionnaires spécialisés qui assurent le montage de dossiers, par exemple, pour l'import-export (importation de cargaisons de pétrole, exportation de produits de luxe...). Il suit également les opérations destinées à financer des projets, comme la construction d'un aéroport, ou le commerce international.</p>
+<inter>Optimiser les procédures</inter>
+<p>Le responsable de back office veille en permanence à la bonne organisation de son service. La mise en place de tableaux de bord l'aide à piloter l'activité. Il participe aussi à l'évolution des systèmes informatiques, afin de traiter des volumes croissants d'opérations dans le respect des délais.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18411" csRelFld="18411">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18411</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10098</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Quelques années d'expérience dans la banque sont nécessaires pour occuper le poste de responsable du back office, avec un bac + 5 (notamment pour traiter les produits financiers complexes).</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp> Master spécialisé en finance de marchés, techniques financières et bancaires, finance internationale, management des opérations de marché...</itsimp>
+<itsimp> Diplôme d'école de commerce avec spécialisation en banque, finance de marché ou finance internationale</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18406" csRelFld="18406">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18406</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10098</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Banques et entreprises de titres</inter>
+<p>Les métiers du back office s'exercent au sein des banques, dans des entreprises spécialisées et dans le traitement des titres. Implantées en France et à l'étranger, ces plates-formes offrent leurs prestations aux banques, aux investisseurs institutionnels (caisses de retraite) et aux sociétés de gestion d'actifs.</p>
+<inter>Des niches d'emploi intéressantes</inter>
+<p>La population des personnels en back office est relativement âgée au sein de la banque. La moyenne d'âge est de 46 ans contre 42 pour la population bancaire. En 2010, les départs à la retraite du back office ont représenté 20 % des départs totaux. Des mouvements d'embauche sont prévus pour compenser ces départs à la retraite, notamment dans la fonction de contrôle qui traverse toutes les activités.</p>
+<p>Le recrutement direct de responsable de back office est assez rare. Une expérience antérieure, notamment en front, middle ou back office, est le plus souvent exigée.</p>
+<inter>Évolution de carrière possible</inter>
+<p>Parfois externalisés, les back offices peuvent être spécialisés. Ils ne constituent pas une porte d'entrée vers les postes du front office (qui réclament d'autres aptitudes et qualifications) mais offrent des évolutions de carrière intéressantes, notamment vers la gestion de portefeuilles ou vers d'autres métiers financiers, tant en France qu'à l'étranger.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p> Entre <sal>2900</sal> et 3900 euros brut par mois (selon l'effectif à encadrer + prime).</p>
+<postit>
+<p>Sources : Agefi Hebdo ; enquête Hudson, 2011.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

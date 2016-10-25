@@ -1,0 +1,398 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Assistant / Assistante chef de chantier",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante chef de chantier",
+            "code_ogr": "38738"
+        },
+        {
+            "libelle_court": "Chef de chantier",
+            "priorisation": "1",
+            "libelle": "Chef de chantier",
+            "code_ogr": "12090"
+        },
+        {
+            "libelle_court": "Chef de chantier b\u00e2timent",
+            "priorisation": "1",
+            "libelle": "Chef de chantier b\u00e2timent",
+            "code_ogr": "12091"
+        },
+        {
+            "libelle_court": "Chef de chantier du BTP",
+            "priorisation": "1",
+            "libelle": "Chef de chantier du BTP",
+            "code_ogr": "12093"
+        },
+        {
+            "libelle_court": "Chef de chantier \u00e9lectricit\u00e9",
+            "priorisation": "1",
+            "libelle": "Chef de chantier \u00e9lectricit\u00e9",
+            "code_ogr": "12094"
+        },
+        {
+            "libelle_court": "Chef de chantier g\u00e9nie civil",
+            "priorisation": "1",
+            "libelle": "Chef de chantier g\u00e9nie civil",
+            "code_ogr": "38385"
+        },
+        {
+            "libelle_court": "Chef de chantier gros oeuvre",
+            "priorisation": "1",
+            "libelle": "Chef de chantier gros oeuvre",
+            "code_ogr": "12095"
+        },
+        {
+            "libelle_court": "Chef de chantier montage de structures m\u00e9talliques",
+            "priorisation": "1",
+            "libelle": "Chef de chantier montage de structures m\u00e9talliques",
+            "code_ogr": "12096"
+        },
+        {
+            "libelle_court": "Chef de chantier principal / principale",
+            "priorisation": "1",
+            "libelle": "Chef de chantier principal / principale",
+            "code_ogr": "12099"
+        },
+        {
+            "libelle_court": "Chef de chantier second oeuvre",
+            "priorisation": "1",
+            "libelle": "Chef de chantier second oeuvre",
+            "code_ogr": "12100"
+        },
+        {
+            "libelle_court": "Chef de chantier travaux publics",
+            "priorisation": "1",
+            "libelle": "Chef de chantier travaux publics",
+            "code_ogr": "12101"
+        },
+        {
+            "libelle_court": "Chef de chantier travaux publics et voirie",
+            "priorisation": "1",
+            "libelle": "Chef de chantier travaux publics et voirie",
+            "code_ogr": "12102"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe gros oeuvre",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe gros oeuvre",
+            "code_ogr": "38447"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe travaux publics",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe travaux publics",
+            "code_ogr": "38852"
+        },
+        {
+            "libelle_court": "Commis / Commise de chantier",
+            "priorisation": "1",
+            "libelle": "Commis / Commise de chantier",
+            "code_ogr": "12754"
+        },
+        {
+            "libelle_court": "Responsable de chantier",
+            "priorisation": "1",
+            "libelle": "Responsable de chantier",
+            "code_ogr": "18682"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier les moyens techniques, mat\u00e9riels et financiers \u00e0 partir des plans d'ex\u00e9cution de chantier et optimiser les modes op\u00e9ratoires",
+            "code_ogr": "2131",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Planifier l'activit\u00e9 des personnels et les affecter sur les postes",
+            "code_ogr": "3575",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9senter le chantier, son planning, le mode constructif de l'ouvrage et les consignes aux intervenants",
+            "code_ogr": "2650",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9finir l'implantation et la s\u00e9curisation du chantier et les zones de stockage",
+            "code_ogr": "1324",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler l'approvisionnement des fournitures, des mat\u00e9riels et des mat\u00e9riaux de construction",
+            "code_ogr": "1113",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et contr\u00f4ler l'avancement et la conformit\u00e9 des r\u00e9alisations en fonction du plan d'ex\u00e9cution",
+            "code_ogr": "3223",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Apporter un appui technique aux chefs d'\u00e9quipe et d\u00e9terminer la mobilit\u00e9 et la formation",
+            "code_ogr": "728",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports de suivi d'activit\u00e9 du chantier, analyser les donn\u00e9es",
+            "code_ogr": "3050",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible \u00e0 partir d'un dipl\u00f4me de niveau Bac (Bac professionnel, Brevet de Technicien, ...) dans le secteur du B\u00e2timent et des Travaux Publics, compl\u00e9t\u00e9 par une exp\u00e9rience d'encadrement sur chantier.\nIl est \u00e9galement accessible \u00e0 des chefs d'\u00e9quipe du BTP avec une formation compl\u00e9mentaire dans les domaines techniques (\u00e9lectricit\u00e9, gros oeuvre, ...), de gestion et d'organisation.\nLa formation Pr\u00e9vention et Secours Civiques de niveau 1 -PSC1- est requise.\n",
+    "activite_specifique": [
+        {
+            "libelle": "D\u00e9finir des besoins en approvisionnement et effectuer des commandes",
+            "code_ogr": "4485",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler un fond de fouilles, une tranch\u00e9e, un radier",
+            "code_ogr": "4275",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler des habilitations sp\u00e9cifiques du personnel",
+            "code_ogr": "4185",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la conformit\u00e9 de r\u00e9alisations de fournisseurs, sous-traitants, prestataires",
+            "code_ogr": "3513",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Informer et communiquer sur les avanc\u00e9es et difficult\u00e9s d'un chantier",
+            "code_ogr": "6152",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Livrer et r\u00e9ceptionner un chantier avec un client",
+            "code_ogr": "7319",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir des \u00e9l\u00e9ments de facturation",
+            "code_ogr": "5806",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Participer au recrutement du personnel (d\u00e9finition des besoins, entretien, s\u00e9lection, ...)",
+            "code_ogr": "7784",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises du b\u00e2timent, de travaux publics, de g\u00e9nie civil et maritime en collaboration avec le conducteur de travaux.\nElle peut impliquer un \u00e9loignement du domicile de plusieurs jours ou semaines.\nLe port d'\u00e9quipements de protection (casque de chantier, chaussures de s\u00e9curit\u00e9, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils de mesure topographique",
+            "code_ogr": "21158",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chiffrage/calcul de co\u00fbt",
+            "code_ogr": "20813",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise",
+            "code_ogr": "23867",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Administration / Services de l'Etat",
+            "code_ogr": "23388",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent gros oeuvre",
+            "code_ogr": "23416",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent second oeuvre",
+            "code_ogr": "23418",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Maritime, fluvial",
+            "code_ogr": "23549",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travaux publics",
+            "code_ogr": "23660",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de construction",
+            "code_ogr": "22848",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles et consignes de s\u00e9curit\u00e9",
+            "code_ogr": "22656",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes de la construction",
+            "code_ogr": "22220",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Topographie",
+            "code_ogr": "23284",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'animation d'\u00e9quipe",
+            "code_ogr": "22774",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "L\u00e9gislation sociale",
+            "code_ogr": "22086",
+            "position_item": "6",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nPr\u00e9pare, organise et suit au quotidien le d\u00e9roulement des activit\u00e9s d'un ou de plusieurs chantiers de B\u00e2timent Travaux Publics selon les normes de s\u00e9curit\u00e9. Coordonne les interventions des \u00e9quipes internes et externes \u00e0 l'entreprise selon les imp\u00e9ratifs de d\u00e9lais.\n",
+    "intitule": "Direction de chantier du BTP",
+    "code_ogr": "151",
+    "code_rome": "F1202",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "F1103",
+            "libelle_rome_cible": "Contr\u00f4le et diagnostic technique du b\u00e2timent"
+        },
+        {
+            "code_rome_cible": "F1106",
+            "libelle_rome_cible": "Ing\u00e9nierie et \u00e9tudes du BTP"
+        },
+        {
+            "code_rome_cible": "F1201",
+            "libelle_rome_cible": "Conduite de travaux du BTP"
+        },
+        {
+            "code_rome_cible": "F1203",
+            "libelle_rome_cible": "Direction et ing\u00e9nierie d'exploitation de gisements et de carri\u00e8res"
+        },
+        {
+            "code_rome_cible": "F1204",
+            "libelle_rome_cible": "S\u00e9curit\u00e9 et protection sant\u00e9 du BTP"
+        }
+    ]
+}

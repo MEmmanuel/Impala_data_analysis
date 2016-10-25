@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">menuisier/ère</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">fabriquer, construire/exercer un travail manuel/travailler un matériau/exercer un métier artistique ou créatif/concevoir, utiliser des technologies industrielles de pointe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">artisan/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction fabrication artisanale/fonction fabrication industrielle</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur second oeuvre bâtiment/secteur industrie de l'ameublement</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">menuiserie/agencement/bois/ameublement/métallerie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE travail du bois/menuisier</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10029</lien_onisep>
+<ROME Level="1B" csRelFld="10029">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="202" csRelFld="202">
+<CSLABELFLD label="">F1608</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Second oeuvre</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">F1608</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Pose de revêtements rigides</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="296" csRelFld="296">
+<CSLABELFLD label="">H2206</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Bois</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2206</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Réalisation de menuiserie bois et tonnellerie</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="201" csRelFld="201">
+<CSLABELFLD label="">F1607</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Second oeuvre</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">F1607</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Pose de fermetures menuisées</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="292" csRelFld="292">
+<CSLABELFLD label="">H2202</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Bois</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2202</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Conduite d'équipement de fabrication de l'ameublement et du bois</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10029">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1054" csRelFld="1054">
+<CSLABELFLD label="">agent / agente de maîtrise de la  ville de Paris (agencements bois)</CSLABELFLD>
+<MET_ID label="Identifiant">10029</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">03/01/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1054</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">agente de maîtrise de la ville de Paris (agencement bois)</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1054">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1055" csRelFld="1055">
+<CSLABELFLD label="">menuisier / menuisière d'agencement</CSLABELFLD>
+<MET_ID label="Identifiant">10029</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">03/01/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1055</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">menuisier/ère d'agencement</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1055">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1056" csRelFld="1056">
+<CSLABELFLD label="">parqueteur / parqueteuse</CSLABELFLD>
+<MET_ID label="Identifiant">10029</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">03/01/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1056</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">parqueteur/euse</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1056">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18233" csRelFld="18233">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18233</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10029</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Fabriquer sur mesure</inter>
+<p>Le menuisier travaille essentiellement sur mesure. Il étudie les plans du dessinateur et choisit le matériau en fonction de sa résistance à l'usure, de sa couleur, de son adaptation au lieu de résidence... Puis il trace les éléments, les découpe, les ajuste, les ponce et les pose. C'est aussi lui qui assure les finitions, comme le vernissage.</p>
+<inter>Poser du préfabriqué</inter>
+<p>Cependant, en raison de l'expansion des préfabriqués, le menuisier pose de plus en plus souvent des éléments produits en série pour la grande distribution, qu'il s'agisse de portes, de fenêtres, de lambris...</p>
+<inter>Isoler, insonoriser...</inter>
+<p>Si le bois demeure son matériau de prédilection, le menuisier utilise aussi du plastique, de l'aluminium, des matériaux composites..., qui élargissent son champ d'activité. Ainsi, il est de plus en plus sollicité pour des travaux d'isolation, d'insonorisation et d'étanchéité.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18234" csRelFld="18234">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18234</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10029</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>CAP et bac pro sont les diplômes de base exigés par les employeurs.</accr_p>
+</p>
+<liste>
+<tete>Après la 3<exp>e</exp>
+</tete>
+<itsimp>CAP menuisier installateur ; menuisier fabricant de menuiserie, mobilier et agencement ; menuisier en aluminium-verre </itsimp>
+</liste>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>Bac pro technicien constructeur bois ; technicien menuisier agenceur ; menuiserie aluminium-verre</itsimp>
+<itsimp>BP menuisier ; BP menuisier aluminium-verre</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18231" csRelFld="18231">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18231</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10029</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Chez un artisan</inter>
+<p>Près de 90 % des jeunes menuisiers sont embauchés par des entreprises artisanales. Ces dernières travaillent essentiellement pour la réhabilitation, la rénovation et l'agencement. Les menuisiers expérimentés peuvent se spécialiser dans la décoration, l'agencement de cuisines ou de bateaux, et créer ou reprendre une entreprise. Des connaissances en gestion sont alors indispensables.</p>
+<inter>Salarié en entreprise</inter>
+<p>Les entreprises de construction recherchent aussi des jeunes menuisiers qualifiés à qui elles offrent des perspectives d'évolution. Après quelques années de pratique, ceux qui possèdent le sens du contact et des facultés d'organisation peuvent devenir chefs d'équipe, puis contremaîtres.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>Smic</sal>.</p>
+<postit>
+<p>Source : Adib.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">actuaire</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">manier les chiffres</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur assurances/secteur banque</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">actuariat/statistiques</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé/actuaire</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10084</lien_onisep>
+<ROME Level="1B" csRelFld="10084">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="71" csRelFld="71">
+<CSLABELFLD label="">C1105</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Assurance</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">C1105</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Études actuarielles en assurances</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10084">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16918" csRelFld="16918">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16918</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10084</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Adapter ou créer des contrats</inter>
+<p>Selon les besoins du marché, l'actuaire modifie les contrats d'assurance existants ou en crée de nouveaux. Il peut également mesurer les risques encourus par une banque, par exemple, en étudiant les capacités de remboursement de ses clients. Puisant dans les bases de données du service marketing, et exploitant les informations que les commerciaux font remonter du terrain, il utilise des logiciels très sophistiqués pour faire des hypothèses et simuler des scénarios catastrophe : inondations, attentats, etc.</p>
+<inter>Chiffrer le risque</inter>
+<p>Ayant passé en revue tous les risques possibles, l'actuaire évalue leur probabilité et leur coût probable pour la société d'assurances. Il peut alors définir les tarifications. Par exemple, dans l'élaboration d'un contrat d'assurance vie, il s'appuie sur les tables de mortalité pour fixer le montant des cotisations.</p>
+<inter>Accompagner et corriger</inter>
+<p>L'actuaire propose également ses conseils et son assistance technique aux professionnels chargés de commercialiser les contrats. Il suit avec la plus grande attention les résultats d'exploitation de la compagnie et l'évolution des réserves financières. S'il observe des dérives, il en recherche les causes et tente de les corriger.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16919" csRelFld="16919">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16919</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10084</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>L'Institut des actuaires reconnaît 7 formations initiales donnant accès au statut d'actuaire associé à l'Institut : l'Ensae (École nationale de la statistique et de l'administration économique) ; l'Université Paris-Dauphine ; l'Isfa (Institut de science financière et d'assurances) de Lyon 1 ; l'Isup (Institut de statistiques) de Paris 6 ; l'université de Strasbourg 1 ; l'Euria (Euro-Institut d'actuariat) de Brest ; l'Essec ('École supérieure des sciences économiques et commerciales), qui propose à ses élèves une filière actuariat-assurance en partenariat avec l'Isup. </p>
+<p>D'autres établissements préparent au métier d'actuaire en formation initiale, notamment l'Iriaf (Institut des risques industriels, assurantiels et financiers) de Poitiers, l'IMA (Institut de mathématiques appliquées) de l'UCO d'Angers etc.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'actuaire</itsimp>
+<itsimp>Diplôme de statisticien mention actuariat</itsimp>
+<itsimp>Diplôme national de master mention actuariat ; mention mathématiques appliquées, statistiques ; mention  finance.</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16928" csRelFld="16928">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16928</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10084</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un job en or</inter>
+<p>Classé meilleur métier du monde en 2013 par le site américain carrercast.com, l'actuariat offre de hauts salaires et de belles perspectives de carrière. </p>
+<inter>Des besoins en hausse</inter>
+<p>Les besoins en actuaires augmentent régulièrement, à mesure qu'ils investissent d'autres secteurs que celui, traditionnel, de l'assurance. De plus, même dans ce secteur où il devient de plus en plus important de se distinguer des concurrents, les actuaires sont toujours recherchés pour imaginer des formules originales et proposer des garanties de plus en plus personnalisées. Les compagnies misent sur ces professionnels pour innover tout en préservant la rentabilité des produits qu'elles mettent sur le marché.</p>
+<inter>Une progression rapide</inter>
+<p>Souvent, l'actuaire débute par des missions de conseil ou d'études techniques. Il peut, après 3 ans en moyenne, devenir chargé d'études et, en général, il ne faut pas plus de 5 ans à un actuaire pour occuper des fonctions d'encadrement (animation d'une équipe de techniciens et de chargés d'études). Il peut ensuite évoluer vers les plus hautes responsabilités. On évalue à environ 16 % la part des actuaires qui accèdent à un poste de direction générale dans les assurances ou dans des institutions financières.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>3200</sal> euros brut par mois.</p>
+<postit>
+<p>Source : Apec (Association pour l'emploi des cadres), 2014.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

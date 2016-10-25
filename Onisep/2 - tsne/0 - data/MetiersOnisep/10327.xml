@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">mouleur/euse-noyauteur/euse</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">fabriquer, construire/exercer un travail manuel/travailler un matériau/concevoir, utiliser des technologies industrielles de pointe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction fabrication industrielle</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie métallurgique et fonderie</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">fonderie/métallurgie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE structures métalliques travail des métaux fonderie/mouleur-noyauteur</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10327</lien_onisep>
+<ROME Level="1B" csRelFld="10327">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="348" csRelFld="348">
+<CSLABELFLD label="">H2910</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Mécanique, travail des métaux et outillage</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2910</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Moulage sable</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10327">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1655" csRelFld="1655">
+<CSLABELFLD label="">modeleur-mécanicien / modeleuse-mécanicienne</CSLABELFLD>
+<MET_ID label="Identifiant">10327</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1655</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">modeleur/euse-mécanicien/ne</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1655">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1656" csRelFld="1656">
+<CSLABELFLD label="">mouleur / mouleuse en fonderie sur modèles</CSLABELFLD>
+<MET_ID label="Identifiant">10327</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1656</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">mouleur/euse en fonderie sur modèles</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1656">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1657" csRelFld="1657">
+<CSLABELFLD label="">mouleur / mouleuse en moules non permanents</CSLABELFLD>
+<MET_ID label="Identifiant">10327</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1657</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">mouleur/euse en moules non permanents</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1657">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16966" csRelFld="16966">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16966</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10327</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Fabriquer des gabarits</inter>
+<p>Le mouleur-noyauteur reçoit du bureau d'études le plan d'une pièce à élaborer. À partir du dessin qui définit la pièce en 2 dimensions, il doit l'imaginer dans l'espace et la traduire en 3 dimensions pour fabriquer un gabarit (ou modèle) qui servira en fonderie à la production en série. Le mouleur travaille avec des matériaux très divers : bois naturels, métaux ferreux ou non ferreux, matières synthétiques, résines, plâtre ou cire.</p>
+<inter>Fabriquer des noyaux</inter>
+<p>Vient ensuite le moulage de l'empreinte, correspondant à la partie pleine de la pièce à réaliser. Le mouleur travaille avec du sable qu'il tasse, par compression et vibration, à la main ou à l'aide de machines automatisées. Les pièces produites peuvent peser de quelques centaines de grammes à plusieurs tonnes.</p>
+<inter>Assurer les finitions</inter>
+<p>Une fois l'empreinte obtenue, elle est comparée avec le modèle et subit les retouches de finition nécessaires. Le mouleur-noyauteur passe un enduit sur le moule avant de couler à l'intérieur un acier liquide. À chaque étape de son travail, il contrôle le bon déroulement des opérations, il relève les anomalies possibles et les rectifie. Si la pièce comprend des parties creuses, il fabrique, selon les mêmes techniques, des noyaux, qu'il place dans l'empreinte.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16978" csRelFld="16978">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16978</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10327</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>La modernisation des chaînes de fabrication mobilise des mouleurs-noyauteurs de plus en plus qualifiés. Le CAP reste recherché par les petits ateliers. Le bac pro assure une meilleure insertion professionnelle. Le BTS permet d'occuper un poste de chef de production dans un atelier.</p>
+<liste>
+<tete>Niveau CAP </tete>
+<itsimp>CAP métiers de la fonderie ; mouleur-noyauteur : cuivre et bronze ; outillages en moules métalliques</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>Bac pro fonderie ; technicien modeleur ; technicien outilleur</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS fonderie</itsimp>
+</liste>
+<p>À noter que la fonderie est le premier employeur de mouleurs-noyauteurs, mais ce métier existe aussi dans la plasturgie et l'agroalimentaire. Le mouleur-noyauteur peut même se spécialiser dans le cuivre ou le bronze, et exercer un métier d'art.</p> </MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16970" csRelFld="16970">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16970</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10327</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Insertion professionnelle</inter>
+<p>Dans une conjoncture industrielle plutôt maussade, l'insertion professionnelle des mouleurs-noyauteurs est liée à leur niveau de qualification. Les entreprises de fonderie recherchent des ouvriers de plus en plus qualifiés, capables d'intervenir sur des procédés de fabrication automatisés. Ce métier se décline au masculin comme au féminin.</p>
+<inter>Les principaux débouchés</inter>
+<p>L'industrie de la métallurgie est le principal employeur d'ouvriers qualifiés. Les secteurs de la plasturgie, de l'automobile, de l'aéronautique, de l'agroalimentaire ou encore de la pétrochimie utilisent également les services de mouleurs-noyauteurs.</p>
+<inter>Des évolutions de carrière</inter>
+<p>Le mouleur-noyauteur débute souvent comme assistant d'un mouleur-noyauteur expérimenté qui lui apprend le maniement des machines de l'entreprise. Au bout de quelques mois, il réalise lui-même des moules et des noyaux simples. Plusieurs années d'expérience sont nécessaires avant de pouvoir encadrer une équipe de noyauteurs en tant que chef d'équipe. S'il possède des qualités reconnues d'organisation et d'encadrement, le mouleur-noyauteur peut prendre la charge de l'atelier en devenant contremaître. En se formant, il peut également accéder à la catégorie supérieure et devenir agent technique, technicien ou technicien supérieur.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir du <sal>Smic</sal>.</p>
+<postit>
+<p>Source : non indiquée.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

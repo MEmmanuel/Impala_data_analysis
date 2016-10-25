@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">conducteur/trice routier/ère</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/artisan</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conduite de véhicules</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur transports routiers et urbains</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">transport de marchandises/transport international de marchandises</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE transports conduite manutention magasinage/chauffeur routier</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10114</lien_onisep>
+<ROME Level="1B" csRelFld="10114">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="645" csRelFld="645">
+<CSLABELFLD label="">N4101</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Personnel de conduite du transport routier</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">N4101</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Conduite de transport de marchandises sur longue distance</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10114">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1613" csRelFld="1613">
+<CSLABELFLD label="">livreur / livreuse </CSLABELFLD>
+<MET_ID label="Identifiant">10114</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1613</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">livreur/euse </METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1613">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18304" csRelFld="18304">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18304</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10114</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>De nombreuses responsabilités</inter>
+<p>Le conducteur routier cumule les responsabilités. Il veille sur les marchandises transportées et doit respecter les délais de livraison, superviser les opérations de chargement et de déchargement (voire y participer), assurer l'entretien régulier du camion : vérifications, vidanges...</p>
+<inter>Des exigences administratives</inter>
+<p>Les fonctions administratives sont importantes. Il est impératif de tenir à jour les documents de bord, les bordereaux de livraison ou les papiers réglementaires pour les douanes ou la police. </p>
+<inter>Représentant de l'entreprise</inter>
+<p>En contact direct avec la clientèle, le routier devient le premier représentant de l'entreprise. La qualité de sa prestation et son sens du contact jouent donc un rôle clé dans la relation client. De son comportement peut dépendre la fidélisation d'un client.</p>
+<inter>Petite ou longue distance</inter>
+<p>L'activité varie avec le type de véhicule, la nature du fret et les distances à parcourir. Le grand routier ou conducteur « longue distance » se déplace en France et à l'étranger. Le conducteur « courte distance » effectue des trajets régionaux. Le livreur ou conducteur « messager » circule en ville ou sur de courtes distances.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18305" csRelFld="18305">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18305</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10114</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Pour exercer ce métier, <em>il faut au moins avoir suivi un FIMO </em>(formation initiale minimale obligatoire) de 140 heures et il est impératif de <em>posséder le permis C</em> . Ce dernier ne peut être obtenu qu'à l'âge de 21 ans et sous condition d'avoir le permis B. La FIMO permet au conducteur d'exercer son métier dans le respect de la sécurité et de la réglementation professionnelle. <em>A noter : les titulaires d'un CAP ou d'un titres professionnel sont dispensés de FIMO</em> . De même que l'âge requis pour <em>l'obtention du permis C est de 18 ans </em>dans le cadre d'une formation professionnelles de conducteur routier (exemple, CAP conducteur routier marchandises).</p>
+<liste>
+<itsimp>
+<em>Formation initiale minimale obligatoire (FIMO) :</em>   Elle s'effectue dans les centres de formation agrées par le préfet de région ;</itsimp>
+<itsimp>
+<em>CAP</em> conducteur routier marchandises ;</itsimp>
+<itsimp>
+<em>CAP</em> conducteur livreur de marchandises</itsimp>
+<itsimp>
+<em>Bac professionnel conducteur routier marchandises</em> ;</itsimp>
+<itsimp>
+<em>Titre professionnel de conducteur(trice) du transport routier de marchandises sur tous véhicules (CTRMV)</em>  délivré par le Ministère chargé de l'emploi (niveau V) ;</itsimp>
+<itsimp>
+<em>Titre professionnel de conducteur(trice) du transport routier de marchandises sur porteur (CTRMP)</em> délivré par le Ministère chargé de l'emploi (niveau V) ;</itsimp>
+<itsimp>
+<em>Titre professionnel de conducteur(trice) livreur sur véhicule utilitaire léger </em>(niveau V)</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18302" csRelFld="18302">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18302</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10114</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>L'international boudé</inter>
+<p>On compte environ 23 000 conducteurs routiers en France. Moins de 20 % d'entre eux travaillent à l'international et trois déplacements sur quatre ont lieu dans un rayon de 150 km autour de l'entreprise. Les emplois sont essentiellement concentrés dans les PME. C'est un milieu plutôt masculin qui tend à se féminiser</p>
+<inter>Recrutement constant</inter>
+<p>75 % des marchandises transitent par la route. Même si un rééquilibrage vers le transport par rail est à prévoir dans les années à venir, le transport routier continuera à recruter. Le recours à l'intérim est important et va de pair avec l'augmentation des effectifs. </p>
+<inter>Spécialisation ou indépendance</inter>
+<p>Après avoir débuté avec des véhicules de petit ou de moyen tonnage, le routier peut passer aux gabarits plus lourds. Il peut se spécialiser dans le transport de certains produits (dangereux, pétroliers, en citerne...). Autre possibilité : devenir indépendant avec une attestation de capacité professionnelle ou justifier d'une expérience dans la direction d'une entreprise de transport routier.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>A partir du <sal>Smic</sal>, et jusqu'à 1830 euros brut par mois hors frais de déplacement.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

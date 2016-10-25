@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">avocat/e</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">défendre, secourir, surveiller/aider, conseiller/convaincre, négocier</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/libéral</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction juridique</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur juridique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">profession judiciaire</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit/avocat</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10308</lien_onisep>
+<ROME Level="1B" csRelFld="10308">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10308">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1110" csRelFld="1110">
+<CSLABELFLD label="">avocat / avocate civiliste</CSLABELFLD>
+<MET_ID label="Identifiant">10308</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">21/04/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1110</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">avocat/e civiliste</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1110">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1111" csRelFld="1111">
+<CSLABELFLD label="">avocat / avocate d'affaires</CSLABELFLD>
+<MET_ID label="Identifiant">10308</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">21/04/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1111</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">avocat/e d'affaires</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1111">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1112" csRelFld="1112">
+<CSLABELFLD label="">avocat / avocate pénaliste</CSLABELFLD>
+<MET_ID label="Identifiant">10308</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">21/04/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1112</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">avocat/e pénaliste</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1112">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17097" csRelFld="17097">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17097</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10308</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Défense des personnes et des sociétés</inter>
+<p>Auxiliaire de justice, l'avocat représente et défend devant un tribunal les particuliers ou les entreprises engagés dans un procès. Il suit des affaires civiles (accidents, divorces...) ou pénales (vols, crimes...). Dans le cadre des procédures pénales, il est présent lors des gardes à vue. </p>
+<inter>Conseil et négociation</inter>
+<p>À la demande de clients confrontés à la complexité des lois, l'avocat peut rédiger des actes spécifiques (contrats de travail, statuts d'une société...). La création de l'« acte d'avocat » (issu de la loi de modernisation des professions judiciaires et juridiques réglementées) lui permet de contresigner certains actes sous seing privé (reconnaissance de dette, bail d'habitation ou commercial, pacte d'actionnaires, etc.).</p>
+<p>Régler un litige en évitant un procès fait aussi partie des missions de l'avocat. À lui de négocier, afin de trouver une solution favorable aux intérêts de son client. Mandaté par plusieurs parties, il peut assurer une mission de médiation conduisant à un accord à l'amiable.</p>
+<inter>Droit pénal, commercial...</inter>
+<p>L'avocat généraliste traite tout type d'affaire (civile, pénale, commerciale...). Lorsqu'il est spécialisé, il propose ses compétences en droit de la personne, droit pénal, droit des affaires, droit immobilier... C'est souvent le cas des professionnels travaillant au sein de cabinets d'avocats. Les avocats d'affaires exercent uniquement pour le monde de l'entreprise. Ils conseillent les sociétés dans les aspects juridiques de leurs projets (fusion, rédaction de contrats...) et les défendent en cas de contentieux.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17106" csRelFld="17106">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17106</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10308</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Pour intégrer la formation d'avocat</accr_p> dans l'un des 12 CRFPA (centres régionaux de formation professionnelle des avocats)<accr_p>, les étudiants doivent posséder au moins un master 1 en droit (mais beaucoup sont titulaires d'un master 2).</accr_p> L'examen d'entrée, très sélectif, est préparé en 1 an au sein d'un IEJ (institut d'études judiciaires) à l'université. <em>La formation en CRFPA dure ensuite</em> 18 mois (6 consacrés aux cours théoriques, 6 à un projet pédagogique individuel, 6 en stage dans un cabinet d'avocats, comportant la rédaction d'un mémoire). À l'issue de la formation, les étudiants passent un examen d'aptitude en vue d'obtenir le CAPA (certificat d'aptitude à la profession d'avocat). Il leur faut ensuite prêter serment et demander leur inscription au sein d'un barreau.</p>
+<liste>
+<tete>Niveau bac + 5 et plus</tete>
+<itsimp>Master 1 de droit</itsimp>
+<itsimp>IEJ</itsimp>
+<itsimp>CRFPA</itsimp>
+<itsimp>CAPA</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17100" csRelFld="17100">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17100</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10308</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Plusieurs choix de carrière</inter>
+<p>L'avocat est un professionnel libéral. Il exerce à titre individuel ou en tant qu'associé. Il peut aussi être collaborateur libéral d'un avocat ou d'une société d'avocats (un mode d'exercice dominant). Le salariat est très minoritaire dans la profession. </p>
+<inter>Spécialisation recommandée</inter>
+<p>Évoluant dans un secteur fortement concurrentiel, l'avocat a tout intérêt à se spécialiser : droit des affaires, fiscal, social, communautaire (lié à l'Europe), droit lié aux nouvelles technologies (Internet, TIC : technologies de l'information et de la communication...) ou à l'environnement...</p>
+<inter>Des revenus inégaux</inter>
+<p>Même si la profession se porte plutôt bien, les rémunérations varient beaucoup selon l'activité, la renommée et la localisation du cabinet. Rien de comparable entre les gains, très élevés, d'un avocat d'affaires chevronné exerçant dans un grand cabinet parisien et les revenus modestes de la plupart des débutants...</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>La première année, 2700 euros brut par mois pour le collaborateur libéral, 2000 euros brut par mois pour l'avocat salarié hors barreaux de Paris et d'Ile-de-France (2175 euros pour l'avocat salarié parisien).</p>
+<postit>
+<p>Source : salaire minimal fixé par la convention collective nationale des cabinets d'avocats au 1<exp>er</exp> janvier 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

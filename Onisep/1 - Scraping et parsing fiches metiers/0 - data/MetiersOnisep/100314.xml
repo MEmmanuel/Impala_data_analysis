@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ouvrier/ère agricole</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">travailler en contact avec la nature/travailler dehors/m'occuper d'animaux</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/saisonnier</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction exploitation agricole</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur agriculture</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">viticulture/horticulture/production animale/production végétale</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE agriculture/ouvrier agricole</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100314</lien_onisep>
+<ROME Level="1B" csRelFld="100314">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="30" csRelFld="30">
+<CSLABELFLD label="">A1416</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Production</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">A1416</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Polyculture, élevage</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100314">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="30430" csRelFld="30430">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30430</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100314</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Assister les exploitants agricoles</inter>
+<p>L'ouvrier agricole travaille sur des exploitations de toutes tailles et de toutes natures : élevage, culture céréalière, de légumes, de fruits ou de fleurs, vigne... Véritable bras droit du chef d'exploitation, il participe à tous les travaux agricoles.</p>
+<inter>Se spécialiser dans l'élevage...</inter>
+<p>S'il est employé d'élevage, il distribue la nourriture aux animaux, prodigue des soins simples, surveille l'état sanitaire des animaux, trait le lait, s'occupe du nettoyage et de la désinfection des bâtiments. Il peut également participer à la transformation des produits : abattage des animaux, fabrication de fromages, de conserves...</p>
+<inter>... ou dans les cultures</inter>
+<p>Dans le cas des grandes cultures, de l'arboriculture ou encore de la vigne, l'ouvrier agricole se consacre à tous les travaux nécessaires : labours, épandage des engrais, semis, plantation, traitements, récolte, désherbage, taille... L'ouvrier agricole conduit les machines agricoles dont il assure parfois la maintenance.</p>
+<inter>... mais toujours polyvalent</inter>
+<p>Généralement, l'ouvrier agricole s'occupe également d'entretenir les bâtiments et le matériel. Il peut être amené à participer aux activités annexes de l'exploitation : tourisme et accueil à la ferme, vente de produits à la ferme ou sur les marchés...</p> </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="30434" csRelFld="30434">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30434</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100314</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Bien que les employeurs exigent peu de diplômes, il est très difficile de travailler comme salarié agricole, surtout dans l'élevage, sans une solide formation au départ.</accr_p> Le CAPA paraît le minimum souhaitable, mais le bac pro permet d'accéder plus rapidement à des postes à responsabilité. Les postes de salariés agricoles nécessitent des savoir-faire et de la pratique (conduite d'engins, pratique de la traite...) ; les stages en exploitation prévus dans le cursus sont donc indispensables. L'apprentissage peut être une bonne porte d'entrée.</p>
+<liste>
+<tete>Après la 3<exp>e</exp>
+</tete>
+<itsimp>CAP agricole métiers de l'agriculture</itsimp>
+<itsimp>CAP agricole agricultures des régions chaudes</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>Bac pro conduite et gestion de l'exploitation agricole</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="30432" csRelFld="30432">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30432</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100314</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Moins d'exploitations</inter>
+<p>Les exploitations agricoles sont de moins en moins nombreuses, mais leur taille augmente. Les chefs d'exploitation ont donc de plus en plus de mal à assumer, seuls, l'ensemble des travaux agricoles. Conséquence : les exploitations emploient davantage de main-d'oeuvre salariée.</p>
+<inter>De nombreux saisonniers</inter>
+<p>Mais ces emplois se concentrent parfois sur des périodes de forte activité comme l'attestent le développement du travail saisonnier et l'importance du temps partiel. L'emploi salarié a tendance à se stabiliser notamment grâce à l'augmentation des emplois saisonniers et à temps partiel, tandis que l'emploi familial tend à diminuer.</p>
+<inter>La viticulture, premier employeur</inter>
+<p>Les gros employeurs de main-d'oeuvre permanente sont la viticulture, les grandes cultures, l'horticulture et l'arboriculture. Les départements les plus employeurs de main-d'oeuvre agricole se situent dans le sud-est, l'ouest et le nord de la France. Quelques emplois concernent les groupements d'employeurs et les établissements de travaux agricoles.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>A partir du <sal>Smic</sal>
+</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e en caractérisation des matériaux</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire de la recherche/travailler un matériau/coordonner l'activité d'une équipe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction études développement industriel </MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie des matériaux</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">sciences des matériaux</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE matériaux laboratoire organisation industrielle</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100668</lien_onisep>
+<ROME Level="1B" csRelFld="100668">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="265" csRelFld="265">
+<CSLABELFLD label="">H1206</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception, recherche, études et développement</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H1206</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie études, recherche et développement industriel</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100668">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56700" csRelFld="56700">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56700</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100668</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Maîtriser les propriétés des matériaux</inter>
+<p>L'ingénieur en caractérisation des matériaux met en place des techniques expérimentales pour mieux connaître les caractéristiques et les performances de matériaux qui seront utilisés dans la fabrication, par exemple, de carrosseries de voitures, de carlingues d'avions, de structures de bâtiments (logements individuels ou collectifs, centrales nucléaires...) et qui répondent aux besoins de la recherche.</p>
+<inter>Adapter les outils</inter>
+<p>Pour cela, il réalise des tests et des expériences sur les matériaux, pour en mesurer les propriétés (résistance à la rupture, à la corrosion, à la chaleur ; aspect esthétique ;  conduction électrique...) et appréhender leur microstructure (composition physico-chimique, taille, forme...). Il effectue également des modélisations mathématiques pour simuler les comportements des matériaux lors de leur utilisation. </p>
+<inter>Assurer la maintenance quotidienne</inter>
+<p>En fonction des résultats de ses recherches, l'ingénieur en caractérisation des matériaux optimise ou développe de nouveaux outils (informatiques ou matériels) ou équipements qui seront en contact avec les matériaux étudiés. Il forme aussi les futurs utilisateurs, en interne ou en externe, et s'occupe de la maintenance préventive et corrective des instruments dont il est responsable.</p> </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56704" csRelFld="56704">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56704</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100668</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Ce métier est accessible avec un bac + 5 (master ou diplôme d'ingénieur) au minimum.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur</itsimp>
+<itsimp>Master en sciences et génie des matériaux, chimie et sciences des matériaux...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56702" csRelFld="56702">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56702</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100668</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un métier d'avenir</inter>
+<p>Les centres ou organismes de recherche, mais surtout l'industrie, recherchent des matériaux toujours plus performants, plus économiques et répondant aux contraintes de l'environnement (développement durable). Le secteur de la chimie embauche de nombreux ingénieurs en caractérisation des matériaux. Certains sont même recrutés avant la fin de leur parcours d'études, c'est-à-dire sollicités par l'entreprise dans laquelle ils effectuent leur stage de fin d'études.</p>
+<inter>Évoluer</inter>
+<p>L'ingénieur en caractérisation des matériaux peut gérer des projets de plus grande envergure, avec une équipe sous sa responsabilité, pour le compte de l'ANR (Agence nationale de la recherche) ou dans le cadre de programmes européens pour la recherche, le développement et l'innovation. Qu'il travaille en entreprise ou en laboratoire de recherche, il peut favoriser les partenariats à l'étranger afin d'élargir son champ de compétences. Il peut encore intervenir en tant qu'expert auprès d'autres laboratoires. </p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2800</sal> euros brut par mois (variable en fonction du secteur d'activité). </p>
+<postit>
+<p>Source : enquête CGE (Conférence des grandes écoles), juin 2013. </p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

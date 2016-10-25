@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">valet / femme de chambre</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction nettoyage, assainissement</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur hôtellerie/secteur du tourisme</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">entretien et nettoyage/service étage</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE hôtellerie restauration tourisme loisirs/femme de chambre</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10149</lien_onisep>
+<ROME Level="1B" csRelFld="10149">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="236" csRelFld="236">
+<CSLABELFLD label="">G1501</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Personnel d'étage en hôtellerie</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">G1501</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Personnel d'étage</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10149">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18998" csRelFld="18998">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18998</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10149</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>La propreté pour objectif </inter>
+<p>Transformer une chambre d'hôtel en désordre en un lieu propre et frais, prêt à accueillir le client : telle est la mission de la femme (ou du valet) de chambre. Chaque matin, elle reçoit une grille de travail où sont indiquées les chambres à remettre en état, soit « à blanc », soit « en recouche ». Elle passe dans chacune d'elles en poussant un chariot garni de tous les produits de ménage nécessaires, ainsi que de serviettes et de draps propres. Elle assume également, par équipe, l'entretien des parties communes (couloirs, paliers, fenêtres...).</p>
+<inter>Chargée du petit déjeuner </inter>
+<p>La femme de chambre peut aussi entretenir le linge, tâche dévolue à une lingère dans les grands hôtels. Dans de nombreux établissements, la femme de chambre met en place le buffet et les tables pour le petit déjeuner, prépare les boissons chaudes... et réapprovisionne le minibar dans les chambres. Elle signale à la gouvernante d'étage tout problème de matériel (détérioration, accessoires manquants...).</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16112" csRelFld="16112">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16112</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10149</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Même si ce métier peut être exercé sans diplôme, le CAP services hôteliers est le plus adapté.</accr_p> Quant aux CAP assistant technique en milieux familial et collectif, et agent de propreté et d'hygiène, ils permettent de travailler dans les établissements collectifs (hôpital, crèche...).</p>
+<liste>
+<tete>Après la 3<exp>e</exp>
+</tete>
+<itsimp>CAP services hôteliers</itsimp>
+<itsimp>CAP assistant technique en milieux familial et collectif</itsimp>
+<itsimp>CAP agent de propreté et d'hygiène</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16107" csRelFld="16107">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16107</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10149</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Dans les grandes villes </inter>
+<p>À Paris et dans les grandes villes, de nombreux hôtels manquent de femmes de chambre : les opportunités existent donc, d'autant que les établissements collectifs d'hébergement sont aussi pourvoyeurs d'emploi (hôpitaux, maisons de retraite, internats...), de même que les sociétés de sous-traitance... mais les salaires n'y sont pas toujours très attractifs. </p>
+<inter>Devenir gouvernante d'étage </inter>
+<p>Dans les hôtels de chaîne ou de luxe, une femme de chambre peut accéder aux fonctions de gouvernante d'étage. À condition d'accepter d'être mobile géographiquement, de faire preuve de motivation et de posséder une certaine aptitude à l'encadrement. Plus tard, elle peut devenir gouvernante générale, après un complément de formation. Mais ce type de poste n'existe que dans les grands hôtels.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>Smic</sal>.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

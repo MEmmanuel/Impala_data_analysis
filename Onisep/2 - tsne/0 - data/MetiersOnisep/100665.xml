@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">gestionnaire actif/passif</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">manier les chiffres</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur assurances/secteur banque</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">gestion du risque financier/assurances</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100665</lien_onisep>
+<ROME Level="1B" csRelFld="100665">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100665">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56659" csRelFld="56659">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56659</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100665</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Évaluation des risques</inter>
+<p>Entre stratégie financière et politique commerciale, le gestionnaire actif/passif analyse les engagements de la société d'assurances pour laquelle il travaille. Au coeur de son métier : l'équilibre entre les actifs que sont les différents placements financiers de l'entreprise (actions, obligations, devises...) et les passifs que sont les sommes potentiellement dues aux assurés en cas de sinistre.</p>
+<inter>Aide à la décision</inter>
+<p>À l'affût des évolutions de l'environnement économique global et de sa société, le gestionnaire modélise un certain nombre de variables (taux d'intérêt, développement commercial de l'entreprise, changements de réglementation, etc.) afin de fournir des éléments qui permettront aux dirigeants de définir la stratégie financière la plus adaptée en terme de risques, de couverture et d'investissement.</p>
+<inter>Suivi et planification</inter>
+<p>L'analyse et le suivi des données font partie de son quotidien, car il doit mettre en place un système d'évaluation et de mesure pour la gestion et l'allocation des fonds propres de l'entreprise et proposer des stratégies pour les augmenter. Il informe régulièrement sa direction pour lui permettre de réagir rapidement le cas échéant, et de planifier sur le long terme.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56663" csRelFld="56663">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56663</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100665</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le métier de gestionnaire actif/passif est un emploi de niveau bac + 5 au minimum, pour lequel on demande souvent une première expérience préalable dans le secteur.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur spécialisé en finance</itsimp>
+<itsimp>Diplôme d'école supérieure de commerce et de gestion spécialisé en finance</itsimp>
+<itsimp>Master finance spécialisé en gestion financière ou gestion des risques financiers ; actuariat...</itsimp>
+<itsimp>Diplôme d'actuaire</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 6</tete>
+<itsimp>Mastère spécialisé en finance, risques, contrôle...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56661" csRelFld="56661">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56661</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100665</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Expérience demandée</inter>
+<p>Traditionnellement réservé à la banque, le métier de gestionnaire actif/passif a évolué et s'étend désormais au secteur des assurances qui recrute au niveau bac + 5 au minimum, souvent après une première expérience en gestion actif/passif ou en gestion des risques, dans le secteur de la banque ou de l'assurance. </p>
+<inter>Belles évolutions</inter>
+<p>Le métier de gestionnaire actif/passif a des similitudes avec celui d'actuaire. Des ponts existent donc entre ces deux fonctions pour passer de l'une à l'autre. Par ailleurs, une évolution est possible au sein de la direction financière d'une compagnie d'assurances, vers l'audit ou encore l'investissement, par exemple en tant que responsable audit interne, directeur financier ou responsable investissement.</p>
+<inter>L'avenir en rose</inter>
+<p> La masse et la diversité des actifs à gérer, la complexité des évolutions des marchés et l'importance des questions stratégiques dans les secteurs concernés permettent de belles perspectives de carrières aux gestionnaires actif/passif. Les profils expérimentés sont les plus recherchés.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Variable en fonction du lieu d'exercice et du type d'entreprise.</p>
+<postit>
+<p>Source non communiquée.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

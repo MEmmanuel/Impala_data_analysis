@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">sage-femme </MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">soigner/m'occuper d'enfants ou d'adolescents/aider, conseiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">libéral/salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction diagnostic, prescription, intervention/fonction administration des soins</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur santé/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">médical</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE médical paramédical travail social soins personnels/sage-femme</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10221</lien_onisep>
+<ROME Level="1B" csRelFld="10221">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10221">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16698" csRelFld="16698">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16698</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10221</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Assurer un suivi prénatal</inter>
+<p>La sage-femme assure le suivi de la grossesse normale. Son intervention est d'ordre à la fois médical (échographies, surveillance du foetus, dépistage des facteurs de risques...) et psycho-social (suivi psychologique de la future mère, séances de préparation à l'accouchement). Dans un centre de PMI (protection maternelle et infantile) ou de planification familiale, la sage-femme joue surtout un rôle d'information et de prévention : séances d'information, visites à domicile, sensibilisation aux risques d'accouchement prématuré...</p>
+<inter>Assurer les accouchements</inter>
+<p>À l'hôpital, la sage-femme assure les accouchements seule dans 70 % des cas. Elle surveille, pas à pas, l'évolution du « travail » jusqu'à la naissance. Si un risque se révèle ou qu'une césarienne est à prévoir, elle fait appel au gynécologue-obstétricien ou au chirurgien. Après la naissance, avec la puéricultrice, elle examine le nouveau-né, contrôle ses réflexes et sa bonne santé. Lorsqu'elle exerce en libéral, au domicile, elle intervient sans la présence d'une équipe médicale : mieux vaut une solide expérience derrière soi. </p>
+<inter>Assurer un suivi postnatal</inter>
+<p>Durant les jours qui suivent, elle surveille le nouveau-né et prodigue les soins nécessaires à la mère. Il y a les suites de couches, la visite post-natale, voire la rééducation post-natale. Au-delà, les sages-femmes sont maintenant autorisées à proposer à toute patiente en bonne santé des consultations de contraception et de suivi gynécologique de prévention. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16707" csRelFld="16707">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16707</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10221</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>5 années d'études sont nécessaires pour devenir sage-femme :</accr_p>1 an à l'université puis 4 ans dans l'une des 38 écoles de sages-femmes agréées par les régions, dont 2 écoles privées payantes. La formation débute par la PACES (première année commune aux études de santé) accessible après le bac (S de préférence). La PACES se termine par un concours au nombre de places restreint (20 % d'admis).</p>
+<p>En 2<exp>e</exp> et 3<exp>e</exp> années de maïeutique : anatomie, physiologie, obstétrique et pédiatrie. S'y ajoutent des langues vivantes, de la sociologie, de la psychologie, de l'éthique, du droit et une initiation à la recherche... L'étudiant apprend à suivre une grossesse qui se déroule normalement. Un tiers de la formation est consacré aux stages. En fin de 3<exp>e</exp> année, obtention du diplôme de formation générale en sciences maïeutiques, de niveau licence.</p>
+<p>En 4e et 5e années : elles sont davantage axées sur l'étude des pathologies et des grossesses à risques. On y retrouve les matières des 2<exp>e</exp> et 3<exp>e</exp> années. Côté pratique, des stages en maternité ou en pédiatrie sont prévus, assortis d'un stage préprofessionnalisant de fin d'études de 6 mois. Les étudiants doivent également soutenir leur mémoire pour obtenir le DE (diplôme d'État) de sage-femme. </p>
+<liste>
+<tete>Niveau bac + 5 </tete>
+<itsimp>DE sage-femme</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16699" csRelFld="16699">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16699</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10221</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter> Des effectifs toujours croissants...</inter>
+<p>En 2014, 21 700 sages-femmes étaient en activité (rapport du Conseil national de l'ordre des sages-femmes, janvier 2015), dont 44 % exerçaient au sein de maternités publiques, 13 % dans les maternités privés et les Espic (établissements de santé privé d'intérêt collectif).Ces effectifs sont en augmentation régulière depuis 10 ans, alors que le numerus clausus est stable (1015 places/an).</p>
+<inter>...mais des emplois stables plus rares</inter>
+<p>Aujourd'hui, rares sont les établissements de santé qui proposent un CDI pour les jeunes sages-femmes. Si les établissements publics continuent à embaucher, ils proposent de plus en plus souvent des CDD (contrats à durée déterminée). </p>
+<inter>Changer d'orientation</inter>
+<p>Avec de l'expérience et une formation spécifique (master en santé publique, management et ingénierie de la santé, biologie...), une sage-femme peut s'orienter vers la recherche, l'enseignement en école de sages-femmes, s'orienter vers le paramédical car elle bénéficie d'une dispense partielle de scolarité pour exercer certains métiers : ergothérapeute, masseur-kinésithérapeute, infirmier...  Elle peut encore se spécialiser en puériculture.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1616</sal> euros brut par mois (dans la fonction publique hospitalière). </p>
+<postit>
+<p>Source : Journal officiel, décret n° 2002-38.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

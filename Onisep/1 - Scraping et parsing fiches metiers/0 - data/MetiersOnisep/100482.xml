@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">veilleur/euse stratégique</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">enquêter, rechercher, analyser l'information/informer, communiquer</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/indépendant</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction information - communication</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur construction automobile/secteur industrie agroalimentaire/secteur banque/secteur industrie chimique/secteur construction aéronautique/secteur industrie pharmaceutique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">veille documentaire</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques de la communication média/veilleur stratégique</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100482</lien_onisep>
+<ROME Level="1B" csRelFld="100482">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="475" csRelFld="475">
+<CSLABELFLD label="">K1601</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Culture et gestion documentaire</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K1601</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Gestion de l'information et de la documentation</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100482">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="37680" csRelFld="37680">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37680</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100482</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Collecter des renseignements</inter>
+<p>Le veilleur stratégique accompagne le développement de l'entreprise. Il repère et analyse les informations utiles aux décisions stratégiques, à l'innovation et à l'anticipation des risques. Ses connaissances lui permettent d'exploiter les réseaux humains et électroniques des entreprises dans le respect de la légalité. L'objectif de son travail consiste à anticiper les tendances qui structurent un marché ou à cerner les stratégies des concurrents, voire de découvrir d'autres pratiques professionnelles. </p>
+<inter>Recouper les informations</inter>
+<p>Au-delà de la collecte d'informations, il doit être capable de les recouper et de les diffuser au moment opportun. Il doit toujours avoir une longueur d'avance pour être en mesure de répondre aux besoins d'innovation de son entreprise et aux questions pointues des dirigeants.</p>
+<inter>Créer des produits</inter>
+<p>Attentif aux besoins de son entreprise, il élabore une gamme de produits ou de prestations qui répondent aux nécessités d'accès à l'information. Il s'occupe de rédiger des notes, des rapports et même des journaux spécialisés. Son activité peut s'étendre, par exemple, à l'organisation de colloques internes. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="37684" csRelFld="37684">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37684</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100482</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Pas de profil type pour exercer ce métier. Cependant, la majorité des formations en intelligence économique se situe au niveau bac + 5. Une double compétence est souvent exigée (documentation, gestion, économie, géographie, sciences politiques, droit, ingénieur...). </p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Masters Intelligence économique ; Information, documentation ; Information-communication</itsimp>
+<itsimp>Diplôme d'école supérieure de commerce</itsimp>
+<itsimp>Diplôme d'ingénieur</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="37682" csRelFld="37682">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37682</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100482</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Gros potentiel, surtout en interne</inter>
+<p>La fonction de veille connaît un fort développement et offre des débouchés, surtout dans le domaine de la veille concurrentielle qui inclut, par exemple, la prévention du débauchage de collaborateurs ou la surveillance des contrefaçons. Toutefois, cette activité n'est pas facilement accessible aux débutants, sauf aux diplômés maîtrisant les TIC (technologies de l'information et de la communication). Beaucoup de postes en entreprise sont pourvus en interne.</p>
+<inter>Des emplois à la clé</inter>
+<p>Le veilleur stratégique peut exercer dans des entreprises du secteur industriel (automobile, agroalimentaire, biotechnologies...) ou du secteur des loisirs et des services (tourisme, banque...) où les opportunités sont importantes. En effet, la prolifération des informations via Internet oblige les décideurs à recruter des spécialistes sachant rechercher et interroger les bases de données, les moteurs de recherche... afin de suivre le développement du marché. Les cabinets spécialisés constituent souvent la meilleure porte d'entrée pour les débutants.</p>
+<inter>Des évolutions dans l'entreprise</inter>
+<p>Dans une grosse compagnie, il pourra prendre des responsabilités dans le domaine de la stratégie, du marketing, du management ou de la recherche et développement.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2100</sal> à 2500 euros brut par mois.</p>
+<postit>
+<p>Source : Cadremploi, 2010.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,550 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Casquettier / Casquetti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Casquettier / Casquetti\u00e8re",
+            "code_ogr": "11708"
+        },
+        {
+            "libelle_court": "Chapelier / Chapeli\u00e8re",
+            "priorisation": "1",
+            "libelle": "Chapelier / Chapeli\u00e8re",
+            "code_ogr": "11738"
+        },
+        {
+            "libelle_court": "Cr\u00e9ateur(trice) confectionneur(se) de chapeaux",
+            "priorisation": "1",
+            "libelle": "Cr\u00e9ateur confectionneur / Cr\u00e9atrice confectionneuse de chapeaux",
+            "code_ogr": "13832"
+        },
+        {
+            "libelle_court": "K\u00e9pissier / K\u00e9pissi\u00e8re",
+            "priorisation": "1",
+            "libelle": "K\u00e9pissier / K\u00e9pissi\u00e8re",
+            "code_ogr": "16135"
+        },
+        {
+            "libelle_court": "Modiste",
+            "priorisation": "1",
+            "libelle": "Modiste",
+            "code_ogr": "16719"
+        },
+        {
+            "libelle_court": "Ouvrier chapelier / Ouvri\u00e8re chapeli\u00e8re p\u00e9daliste",
+            "priorisation": "1",
+            "libelle": "Ouvrier chapelier / Ouvri\u00e8re chapeli\u00e8re p\u00e9daliste",
+            "code_ogr": "17412"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "D\u00e9finir avec le client les caract\u00e9ristiques de l'article \u00e0 r\u00e9aliser selon ses souhaits, ses besoins et l'informer sur les conditions de r\u00e9alisation",
+            "code_ogr": "1243",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cr\u00e9er ou adapter le patron selon l'article (mensurations, proportions, ...)",
+            "code_ogr": "1212",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Couper les mati\u00e8res et former le chapeau (montage des parties du moule, modelage de la forme, d\u00e9moulage des \u00e9l\u00e9ments)",
+            "code_ogr": "1207",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Monter et assembler les diff\u00e9rentes pi\u00e8ces du chapeau (renforts, calotte, bord, gros-grain, ...)",
+            "code_ogr": "2370",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Monter les \u00e9l\u00e9ments de garniture (plumes, perles, noeuds, galons, ...), lustrer et brosser le chapeau",
+            "code_ogr": "2377",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Emballer le produit et enregistrer la vente",
+            "code_ogr": "1776",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1214",
+            "libelle_rome_cible": "Vente en habillement et accessoires de la personne"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible \u00e0 partir d'un CAP de modiste.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle en chapellerie ou en couture sans dipl\u00f4me particulier.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Concevoir des mod\u00e8les pour de nouvelles collections ou des \u00e9v\u00e8nements :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "C\u00e9r\u00e9monie",
+            "code_ogr": "3962",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Collection hiver/\u00e9t\u00e9 enfant",
+            "code_ogr": "3963",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "2",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Collection hiver/\u00e9t\u00e9 femme",
+            "code_ogr": "3964",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "3",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Collection hiver/\u00e9t\u00e9 homme",
+            "code_ogr": "3965",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "4",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Spectacle",
+            "code_ogr": "3966",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "5",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des articles de chapellerie :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chapeau \u00e0 plat (casquette, ...)",
+            "code_ogr": "8256",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chapeau form\u00e9 (k\u00e9pi, ...)",
+            "code_ogr": "8258",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chapeau tissu \u00ab coup\u00e9-cousu \u00bb (cloche, b\u00e9ret, ...)",
+            "code_ogr": "8260",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chapeau moul\u00e9 (feutre, paille, ...)",
+            "code_ogr": "8259",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Parure de t\u00eate/turban",
+            "code_ogr": "8261",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chapeau de spectacle",
+            "code_ogr": "8257",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer des couleurs (nuancier, ...) et teindre des mat\u00e9riaux (paille, tissus, cuir, ...)",
+            "code_ogr": "7922",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Confectionner des garnitures d'articles de chapellerie (noeuds, plumes, fleurs, ...)",
+            "code_ogr": "4113",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la d\u00e9coration d'une vitrine et y disposer des articles de chapellerie",
+            "code_ogr": "5122",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9senter des \u00e9chantillons ou des mod\u00e8les \u00e0 des stylistes, clients, acheteurs ou r\u00e9aliser un book, un catalogue d'une nouvelle collection",
+            "code_ogr": "8039",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Transmettre les techniques du m\u00e9tier ou mener des actions de sensibilisation au m\u00e9tier",
+            "code_ogr": "10026",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises artisanales (atelier de modiste,...), de maisons de haute couture, de services de l'Etat en relation avec des clients et diff\u00e9rents intervenants (styliste, costumier, ...).\nElle peut \u00eatre soumise \u00e0 des horaires irr\u00e9guliers et \u00e0 des pics d'activit\u00e9 (collections, ...).\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Prise de mesures",
+            "code_ogr": "21061",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chiffrage/calcul de co\u00fbt",
+            "code_ogr": "20813",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Couture manuelle",
+            "code_ogr": "20832",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de marotte",
+            "code_ogr": "21315",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de forme \u00e0 p\u00e9dale",
+            "code_ogr": "21209",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de conformateur",
+            "code_ogr": "21188",
+            "position_item": "3",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise artisanale",
+            "code_ogr": "23870",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisme culturel, du patrimoine",
+            "code_ogr": "24016",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chapellerie",
+            "code_ogr": "23431",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Haute couture",
+            "code_ogr": "23516",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Spectacle",
+            "code_ogr": "23638",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques morphologiques de la t\u00eate",
+            "code_ogr": "21687",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de gradation",
+            "code_ogr": "22925",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de coupe de textile, cuir",
+            "code_ogr": "22858",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de moulage",
+            "code_ogr": "23005",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de montage en chapellerie",
+            "code_ogr": "22994",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'essayage",
+            "code_ogr": "22464",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de piq\u00fbre machine",
+            "code_ogr": "23029",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'\u00e9laboration de maquette",
+            "code_ogr": "20873",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de dessin",
+            "code_ogr": "22888",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de patronage",
+            "code_ogr": "23022",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Histoire de la mode et des costumes",
+            "code_ogr": "22019",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des brins v\u00e9g\u00e9taux",
+            "code_ogr": "21563",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de sculpture",
+            "code_ogr": "23109",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des tissus et mati\u00e8res textiles",
+            "code_ogr": "21665",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de teinture v\u00e9g\u00e9tale",
+            "code_ogr": "23138",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de teinture chimique",
+            "code_ogr": "23136",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de plumasserie",
+            "code_ogr": "23038",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de broderie",
+            "code_ogr": "22817",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de plissage",
+            "code_ogr": "23036",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de peinture",
+            "code_ogr": "23024",
+            "position_item": "4",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nFa\u00e7onne \u00e0 la main ou \u00e0 la machine sur mesure ou en petite s\u00e9rie des articles de chapellerie (chapeaux, parures de t\u00eate,...) en diff\u00e9rents mat\u00e9riaux (feutre, paille, tissu,...).\nPeut cr\u00e9er de nouveaux mod\u00e8les et r\u00e9aliser les \u00e9l\u00e9ments d'ornement (en plumes, perles,...).\nPeut diriger une structure.\n",
+    "intitule": "R\u00e9alisation d'articles de chapellerie",
+    "code_ogr": "49",
+    "code_rome": "B1801",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "B1805",
+            "libelle_rome_cible": "Stylisme"
+        },
+        {
+            "code_rome_cible": "D1201",
+            "libelle_rome_cible": "Achat vente d'objets d'art, anciens ou d'occasion"
+        },
+        {
+            "code_rome_cible": "D1301",
+            "libelle_rome_cible": "Management de magasin de d\u00e9tail"
+        },
+        {
+            "code_rome_cible": "G1202",
+            "libelle_rome_cible": "Animation d'activit\u00e9s culturelles ou ludiques"
+        },
+        {
+            "code_rome_cible": "H1205",
+            "libelle_rome_cible": "\u00c9tudes - mod\u00e8les en industrie des mat\u00e9riaux souples"
+        },
+        {
+            "code_rome_cible": "K2109",
+            "libelle_rome_cible": "Enseignement technique et professionnel"
+        },
+        {
+            "code_rome_cible": "L1502",
+            "libelle_rome_cible": "Costume et habillage spectacle"
+        }
+    ]
+}

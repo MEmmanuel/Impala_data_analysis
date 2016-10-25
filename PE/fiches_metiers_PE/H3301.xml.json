@@ -1,0 +1,620 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente de conditionnement sur machine automatis\u00e9e",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de conditionnement sur machine automatis\u00e9e",
+            "code_ogr": "10407"
+        },
+        {
+            "libelle_court": "Chef de ligne conditionnement",
+            "priorisation": "1",
+            "libelle": "Chef de ligne conditionnement",
+            "code_ogr": "12184"
+        },
+        {
+            "libelle_court": "Conditionneur / Conditionneuse sur machine",
+            "priorisation": "1",
+            "libelle": "Conditionneur / Conditionneuse sur machine",
+            "code_ogr": "12849"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de d\u00e9pileuses empileuses",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de d\u00e9pileuses empileuses",
+            "code_ogr": "12934"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de ligne de conditionnement",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de ligne de conditionnement",
+            "code_ogr": "12981"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de ligne d'emballage",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de ligne d'emballage",
+            "code_ogr": "12992"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de machines de conditionnement",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de machines de conditionnement",
+            "code_ogr": "13024"
+        },
+        {
+            "libelle_court": "Conducteur(trice) de machines de pr\u00e9emballage/suremballage",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de machines de pr\u00e9emballage/suremballage",
+            "code_ogr": "13033"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de machines d'emballage",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de machines d'emballage",
+            "code_ogr": "13043"
+        },
+        {
+            "libelle_court": "Conducteur(trice) de machines ou de ligne d'embouteillage",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de machines ou de ligne d'embouteillage",
+            "code_ogr": "13052"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice d'\u00e9tiqueteuses",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice d'\u00e9tiqueteuses",
+            "code_ogr": "13274"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice emballage bobines",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice emballage bobines",
+            "code_ogr": "13293"
+        },
+        {
+            "libelle_court": "Embouteilleur / Embouteilleuse",
+            "priorisation": "1",
+            "libelle": "Embouteilleur / Embouteilleuse",
+            "code_ogr": "14745"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice de ligne de conditionnement",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de ligne de conditionnement",
+            "code_ogr": "17110"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice de ligne d'embouteillage",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de ligne d'embouteillage",
+            "code_ogr": "17113"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice ensachage/palettisation sur machine",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice ensachage/palettisation sur machine",
+            "code_ogr": "17223"
+        },
+        {
+            "libelle_court": "Palettiseur / Palettiseuse sur machine",
+            "priorisation": "1",
+            "libelle": "Palettiseur / Palettiseuse sur machine",
+            "code_ogr": "17550"
+        },
+        {
+            "libelle_court": "Pilote de soutireuse",
+            "priorisation": "1",
+            "libelle": "Pilote de soutireuse",
+            "code_ogr": "17755"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "V\u00e9rifier et maintenir l'\u00e9tat de propret\u00e9 des \u00e9quipements (machines de remplissage, ensachage, \u00e9tiquetage, ...) et du mat\u00e9riel",
+            "code_ogr": "3396",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler l'\u00e9tat de fonctionnement et de s\u00e9curit\u00e9 des installations et des \u00e9quipements de production",
+            "code_ogr": "1157",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Alimenter en mati\u00e8res ou produits le poste de travail ou en v\u00e9rifier l'approvisionnement",
+            "code_ogr": "625",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller le fonctionnement de la machine/ligne de conditionnement et des appareils de contr\u00f4le et ajuster en cas d'\u00e9carts",
+            "code_ogr": "3329",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier la conformit\u00e9 du conditionnement des produits (\u00e9tanch\u00e9it\u00e9, poids, temp\u00e9rature, ...)",
+            "code_ogr": "3414",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9tecter les dysfonctionnements des machines et \u00e9quipements et effectuer des interventions simples en cas d'incident",
+            "code_ogr": "1383",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports de suivi de fabrication ou de conditionnement",
+            "code_ogr": "3058",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "E1302",
+            "libelle_rome_cible": "Conduite de machines de fa\u00e7onnage routage"
+        },
+        {
+            "code_rome_cible": "H2102",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de production alimentaire"
+        },
+        {
+            "code_rome_cible": "H2301",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de production chimique ou pharmaceutique"
+        },
+        {
+            "code_rome_cible": "H2801",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de transformation du verre"
+        },
+        {
+            "code_rome_cible": "H2802",
+            "libelle_rome_cible": "Conduite d'installation de production de mat\u00e9riaux de construction"
+        },
+        {
+            "code_rome_cible": "H2803",
+            "libelle_rome_cible": "Fa\u00e7onnage et \u00e9maillage en industrie c\u00e9ramique"
+        },
+        {
+            "code_rome_cible": "H2909",
+            "libelle_rome_cible": "Montage-assemblage m\u00e9canique"
+        },
+        {
+            "code_rome_cible": "H3101",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de fabrication de papier ou de carton"
+        },
+        {
+            "code_rome_cible": "H3201",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de formage des plastiques et caoutchoucs"
+        },
+        {
+            "code_rome_cible": "N1103",
+            "libelle_rome_cible": "Magasinage et pr\u00e9paration de commandes"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un CAP/BEP ou un Bac professionnel en \u00e9lectrom\u00e9canique, conduite de machines automatis\u00e9es, maintenance sur machines et automatismes, ...\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle sur une ou plusieurs machines dans le secteur industriel sans dipl\u00f4me particulier.\nUn ou plusieurs Certificat(s) d'Aptitude \u00e0 la Conduite En S\u00e9curit\u00e9 -CACES- conditionn\u00e9(s) par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement peu(ven)t \u00eatre requis.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 318 (ponts roulants)",
+            "code_ogr": "10100",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-1 (Transpalettes \u00e0 conducteur port\u00e9 et pr\u00e9parateurs de commandes au sol)",
+            "code_ogr": "10122",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-3 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 inf\u00e9rieure ou \u00e9gale \u00e0 6000 kg)",
+            "code_ogr": "10124",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-5 (Chariots \u00e9l\u00e9vateurs \u00e0 m\u00e2t r\u00e9tractable)",
+            "code_ogr": "10126",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9gler des machines et \u00e9quipements ou ajuster les r\u00e9glages (cadence, cadrage du film, configuration de la ligne, ...)",
+            "code_ogr": "9499",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la conformit\u00e9 d'aspect d'un produit",
+            "code_ogr": "3511",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etiqueter les produits conditionn\u00e9s ou des lots et v\u00e9rifier les r\u00e9f\u00e9rences des produits, la date, la lisibilit\u00e9 des informations, ...",
+            "code_ogr": "5852",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Monter/d\u00e9monter des pi\u00e8ces, outillages de machines",
+            "code_ogr": "3565",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des op\u00e9rations de :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Colisage",
+            "code_ogr": "4923",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Emballage de bobines",
+            "code_ogr": "4924",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Embouteillage",
+            "code_ogr": "4926",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Encartonnage",
+            "code_ogr": "4928",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ensachage",
+            "code_ogr": "4929",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Fardelage",
+            "code_ogr": "4931",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Filmage",
+            "code_ogr": "4932",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mise sous vide",
+            "code_ogr": "4935",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Palettisation",
+            "code_ogr": "4937",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tri, calibrage",
+            "code_ogr": "4938",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "10",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de site industriel de production (industrie alimentaire, pharmaceutique, ...), de commerce de gros ou de conditionnement.\nElle peut s'exercer par roulement, les fins de semaine, jours f\u00e9ri\u00e9s ou de nuit.\nLes fonctions li\u00e9es \u00e0 l'embouteillage peuvent impliquer des d\u00e9placements sur site ou externes (unit\u00e9s de conditionnement mobile).\nL'activit\u00e9 s'effectue en atelier, parfois en zone \u00e0 atmosph\u00e8re contr\u00f4l\u00e9e, en environnement froid ou en ext\u00e9rieur (site cimentier, ...) et peut impliquer la manipulation de charges.\nLe port d'Equipements de Protection Individuelle -EPI- (chaussures de s\u00e9curit\u00e9, lunettes de protection, ...) peut \u00eatre requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Gestion de Production Assist\u00e9e Par Ordinateur -GPAO-",
+            "code_ogr": "21258",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pilotage en salle de commande",
+            "code_ogr": "21024",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciel de supervision",
+            "code_ogr": "21235",
+            "position_item": "2",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Alimentaire",
+            "code_ogr": "23395",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Bois, ameublement",
+            "code_ogr": "23424",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chimie",
+            "code_ogr": "23436",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Commerce de gros",
+            "code_ogr": "23444",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Conditionnement, emballage",
+            "code_ogr": "23449",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie c\u00e9ramique",
+            "code_ogr": "23529",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie cosm\u00e9tique",
+            "code_ogr": "23530",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie du papier, carton",
+            "code_ogr": "23531",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Mat\u00e9riaux de construction",
+            "code_ogr": "23551",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9tallurgie, sid\u00e9rurgie",
+            "code_ogr": "23558",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Parachimie",
+            "code_ogr": "23573",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Plasturgie, caoutchouc, composites",
+            "code_ogr": "23585",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Verre",
+            "code_ogr": "23668",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "En zone \u00e0 atmosph\u00e8re contr\u00f4l\u00e9e",
+            "code_ogr": "23383",
+            "code_type_section_env": "3"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "En zone frigorifique",
+            "code_ogr": "23385",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de nettoyage et de d\u00e9sinfection",
+            "code_ogr": "22418",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles et consignes de s\u00e9curit\u00e9",
+            "code_ogr": "22656",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes qualit\u00e9",
+            "code_ogr": "22233",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en pneumatique",
+            "code_ogr": "21905",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9canique g\u00e9n\u00e9rale",
+            "code_ogr": "21882",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en \u00e9lectrom\u00e9canique",
+            "code_ogr": "21862",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles Bonnes Pratiques de Fabrication -BPF-",
+            "code_ogr": "22588",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nConditionne des produits au moyen d'une machine automatis\u00e9e d'emballage, d'embouteillage, de palettisation selon les r\u00e8gles d'hygi\u00e8ne, de s\u00e9curit\u00e9 et les imp\u00e9ratifs de production (d\u00e9lais, quantit\u00e9s, qualit\u00e9). Applique des mesures correctives en cas de dysfonctionnement des \u00e9quipements et de non-conformit\u00e9 du conditionnement des produits.\nPeut effectuer le r\u00e9glage, l'entretien des \u00e9quipements et r\u00e9aliser des op\u00e9rations de marquage, de stockage, d'\u00e9tiquetage, ...\nPeut coordonner une \u00e9quipe (manutentionnaires, op\u00e9rateurs, ...).\n",
+    "intitule": "Conduite d'\u00e9quipement de conditionnement",
+    "code_ogr": "297",
+    "code_rome": "H3301",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "H1404",
+            "libelle_rome_cible": "Intervention technique en m\u00e9thodes et industrialisation"
+        },
+        {
+            "code_rome_cible": "H2504",
+            "libelle_rome_cible": "Encadrement d'\u00e9quipe en industrie de transformation"
+        },
+        {
+            "code_rome_cible": "H2912",
+            "libelle_rome_cible": "R\u00e9glage d'\u00e9quipement de production industrielle"
+        },
+        {
+            "code_rome_cible": "I1303",
+            "libelle_rome_cible": "Installation et maintenance de distributeurs automatiques"
+        },
+        {
+            "code_rome_cible": "I1304",
+            "libelle_rome_cible": "Installation et maintenance d'\u00e9quipements industriels et d'exploitation"
+        }
+    ]
+}

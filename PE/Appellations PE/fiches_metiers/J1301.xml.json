@@ -1,0 +1,370 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente de bio nettoyage hospitalier",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de bio nettoyage hospitalier",
+            "code_ogr": "10395"
+        },
+        {
+            "libelle_court": "Agent / Agente de propret\u00e9 hospitali\u00e8re",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de propret\u00e9 hospitali\u00e8re",
+            "code_ogr": "10574"
+        },
+        {
+            "libelle_court": "Agent / Agente de st\u00e9rilisation de service hospitalier",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de st\u00e9rilisation de service hospitalier",
+            "code_ogr": "10611"
+        },
+        {
+            "libelle_court": "Agent / Agente des services hospitaliers",
+            "priorisation": "1",
+            "libelle": "Agent / Agente des services hospitaliers",
+            "code_ogr": "10698"
+        },
+        {
+            "libelle_court": "Agent hospitalier / Agente hospitali\u00e8re",
+            "priorisation": "1",
+            "libelle": "Agent hospitalier / Agente hospitali\u00e8re",
+            "code_ogr": "10741"
+        },
+        {
+            "libelle_court": "Agent h\u00f4telier hospitalier / Agente h\u00f4teli\u00e8re hospitali\u00e8re",
+            "priorisation": "1",
+            "libelle": "Agent h\u00f4telier hospitalier / Agente h\u00f4teli\u00e8re hospitali\u00e8re",
+            "code_ogr": "10742"
+        },
+        {
+            "libelle_court": "Brancardier / Brancardi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Brancardier / Brancardi\u00e8re",
+            "code_ogr": "11587"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "V\u00e9rifier le contenu du chariot de m\u00e9nage et proc\u00e9der \u00e0 la pr\u00e9paration des solutions de nettoyage",
+            "code_ogr": "3441",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer, d\u00e9sinfecter et ranger la chambre et l'installation sanitaire",
+            "code_ogr": "3569",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien et le nettoyage des parties communes",
+            "code_ogr": "1607",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks de produits, identifier les besoins en approvisionnement et transmettre la commande \u00e0 l'interlocuteur concern\u00e9",
+            "code_ogr": "3616",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Consigner les donn\u00e9es (observations, incidents, ...)",
+            "code_ogr": "971",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1203",
+            "libelle_rome_cible": "Hydroth\u00e9rapie"
+        },
+        {
+            "code_rome_cible": "G1502",
+            "libelle_rome_cible": "Personnel polyvalent d'h\u00f4tellerie"
+        },
+        {
+            "code_rome_cible": "K1304",
+            "libelle_rome_cible": "Services domestiques"
+        },
+        {
+            "code_rome_cible": "K2204",
+            "libelle_rome_cible": "Nettoyage de locaux"
+        },
+        {
+            "code_rome_cible": "K2601",
+            "libelle_rome_cible": "Conduite d'op\u00e9rations fun\u00e9raires"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP dans le secteur sanitaire et social, en bio nettoyage, ...\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans le secteur sans dipl\u00f4me particulier.\nDes vaccinations pr\u00e9vues par le Code de Sant\u00e9 Publique sont exig\u00e9es.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Intervenir dans un service :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bloc op\u00e9ratoire",
+            "code_ogr": "6765",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chambre d'isolement",
+            "code_ogr": "6766",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Lingerie",
+            "code_ogr": "6770",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Morgue",
+            "code_ogr": "6772",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Salle de Soins Post-Interventionnelle -SSPI-",
+            "code_ogr": "6780",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "St\u00e9rilisation",
+            "code_ogr": "6781",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le service h\u00f4telier (r\u00e9ception des plateaux repas, adaptation, distribution, desserte, ...) aupr\u00e8s des patients/r\u00e9sidents",
+            "code_ogr": "5357",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Aider la personne dans les gestes de la vie quotidienne et rep\u00e9rer les modifications d'\u00e9tat",
+            "code_ogr": "3501",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der au brancardage d'un patient vers le service concern\u00e9 et effectuer l'entretien du mat\u00e9riel",
+            "code_ogr": "8166",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9ceptionner le mat\u00e9riel m\u00e9dicochirurgical d'un service et actualiser les supports de suivi des \u00e9quipements (date, num\u00e9ro de lot, r\u00e9f\u00e9rence d'autoclave, ...)",
+            "code_ogr": "9430",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer les commandes de mat\u00e9riel st\u00e9rile (constitution de lots, ...) et les distribuer dans les services d'unit\u00e9s de soins, les blocs op\u00e9ratoires, ...",
+            "code_ogr": "7986",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'h\u00f4pitaux, cliniques, maisons de retraite, centres de convalescence, ... en relation avec diff\u00e9rents services (soins, cuisine, lingerie, entretien, ...).\nElle peut s'exercer en horaires d\u00e9cal\u00e9s, par roulement, les fins de semaine et jours f\u00e9ri\u00e9s.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de nettoyage",
+            "code_ogr": "21330",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de monobrosse",
+            "code_ogr": "21345",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de fiche technique",
+            "code_ogr": "20943",
+            "position_item": "3",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement m\u00e9dical (h\u00f4pital, clinique, ...)",
+            "code_ogr": "23922",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9sidence de personnes \u00e2g\u00e9es",
+            "code_ogr": "24050",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Propret\u00e9, nettoyage",
+            "code_ogr": "23602",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail de nuit",
+            "code_ogr": "38055",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et d'asepsie",
+            "code_ogr": "22646",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Protocoles de lutte contre les infections nosocomiales",
+            "code_ogr": "22501",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de bio-nettoyage",
+            "code_ogr": "22811",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de traitement de linge hospitalier",
+            "code_ogr": "22442",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaire Hazard Analysis Critical Control Point -HACCP-",
+            "code_ogr": "22650",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes d'urgence et de secours",
+            "code_ogr": "21991",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des \u00e9quipements de brancardage (lit, fauteuil roulant, ...)",
+            "code_ogr": "21578",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de d\u00e9sinfection/st\u00e9rilisation de mat\u00e9riel m\u00e9dicochirurgical",
+            "code_ogr": "22403",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de conditionnement de mat\u00e9riel m\u00e9dicochirurgical",
+            "code_ogr": "22386",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nEffectue le nettoyage des parties communes d'un ou plusieurs services hospitaliers et l'entretien de l'environnement de vie des patients/r\u00e9sidents selon les r\u00e8gles d'hygi\u00e8ne et d'asepsie.\nPeut effectuer le service h\u00f4telier (distribution de repas, collations, ...) aupr\u00e8s des patients/r\u00e9sidents.\nPeut acheminer les patients (brancardage) au sein de l'\u00e9tablissement hospitalier.\nPeut effectuer la st\u00e9rilisation de mat\u00e9riel m\u00e9dicochirurgical.\n",
+    "intitule": "Personnel polyvalent des services hospitaliers",
+    "code_ogr": "338",
+    "code_rome": "J1301",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "J1305",
+            "libelle_rome_cible": "Conduite de v\u00e9hicules sanitaires"
+        },
+        {
+            "code_rome_cible": "J1501",
+            "libelle_rome_cible": "Soins d'hygi\u00e8ne, de confort du patient"
+        },
+        {
+            "code_rome_cible": "K1303",
+            "libelle_rome_cible": "Assistance aupr\u00e8s d'enfants"
+        }
+    ]
+}

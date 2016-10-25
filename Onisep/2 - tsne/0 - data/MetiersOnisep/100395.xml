@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">professeur/e documentaliste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">enseigner, éduquer/m'occuper d'enfants ou d'adolescents/aider, conseiller/animer des activités culturelles, ludiques ou éducatives</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction enseignement - éducation</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique/secteur de l'éducation</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">enseignement - formation/documentation</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit/professeur documentaliste</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100395</lien_onisep>
+<ROME Level="1B" csRelFld="100395">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="500" csRelFld="500">
+<CSLABELFLD label="">K2107</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Formation initiale et continue</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K2107</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Enseignement général du second degré</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100395">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="33656" csRelFld="33656">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">33656</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100395</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Enseigner la recherche documentaire</inter>
+<p>Le professeur-documentaliste initie les élèves à la recherche documentaire. Il leur montre comment sont classés les documents, leur apprend à les trouver à partir d'une base de données, à les comprendre et à les exploiter afin de préparer un exposé, un cours&#8230; ou tout simplement pour s'informer sur un sujet qui les intéresse. Il guide aussi les élèves dans leurs recherches sur Internet, les aide à se repérer dans un océan d'informations diverses et parfois éphémères, à en évaluer la qualité et la fiabilité.</p>
+<inter>Gestion du fonds documentaire</inter>
+<p>Maître de son fonds documentaire, le professeur-documentaliste le classe avec rigueur. Responsable de son budget, il gère les abonnements aux journaux, les achats de livres, de BD, de revues, de supports multimédias&#8230; Imprimés, audiovisuels ou numériques, tous ces documents doivent répondre aux besoins des élèves (travail scolaire, orientation ou même de loisirs). </p>
+<inter>Ouverture culturelle </inter>
+<p>Seul ou en collaboration avec l'équipe enseignante, le professeur-documentaliste peut mettre en place des actions visant à favoriser l'ouverture des élèves à la culture artistique ou scientifique : rencontre avec des artistes (écrivains, plasticiens, musiciens&#8230;), rédaction d'un journal, visionnage et étude d'une oeuvre cinématographique, accueil d'expositions&#8230; Il peut aussi organiser des sorties, comme une séance de cinéma, la visite d'un musée, l'enregistrement d'une émission radio&#8230;</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="33660" csRelFld="33660">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">33660</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100395</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Concours obligatoire.</accr_p> Pour devenir professeur-documentaliste, il faut être titulaire du CAPES (certificat d'aptitude au professorat de l'enseignement du second degré) de documentation. Avant de passer ce concours, il faut obtenir une licence puis être inscrit en M1 (1<exp>re</exp> année de master) MEEF métiers de l'enseignement, de l'éducation et de la formation  2nd degré et réussir le CAPES. Une fois le concours réussi, les professeurs stagiaires suivent une formation en alternance en 2ème année de master qui se déroule à temps partiel dans un établissement. Attention, la validation du master est toutefois indispensable pour la titularisation.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master métiers de l'enseignement, de l'éducation et de la formation 2nd degré</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="33658" csRelFld="33658">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">33658</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100395</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Plus de candidats que de postes</inter>
+<p>Plus de 80 % des professeurs-documentalistes exerçant en France sont des femmes. En 2011, 145 postes ont été proposés au concours du CAPES (certificat d'aptitude au professorat de l'enseignement du second degré) de documentation pour 918 candidats. En 2012, 157 postes sont ouverts au concours.</p>
+<inter>Évolution de carrière</inter>
+<p>Après 5 ans d'ancienneté, des concours permettent aux enseignants d'évoluer vers des postes d'IEN (inspecteur de l'Éducation nationale), d'IA-IPR (inspecteur d'académie-inspecteur pédagogique régional), de chef d'établissement. Ils peuvent aussi choisir de former des enseignants.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2000</sal> euros brut par mois.</p>
+<postit>
+<p>Source : ministère de l'Éducation nationale, 2011.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

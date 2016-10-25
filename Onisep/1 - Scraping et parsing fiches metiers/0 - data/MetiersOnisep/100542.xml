@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e brevets</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">pratiquer les langues vivantes</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie pharmaceutique/secteur industrie chimique/secteur industrie agroalimentaire</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">biologie/droit de la propriété industrielle</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE matériaux laboratoire organisation industrielle</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100542</lien_onisep>
+<ROME Level="1B" csRelFld="100542">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="265" csRelFld="265">
+<CSLABELFLD label="">H1206</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception, recherche, études et développement</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H1206</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie études, recherche et développement industriel</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100542">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="53407" csRelFld="53407">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53407</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100542</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter> Obtenir un droit exclusif </inter>
+<p>Un médicament issu du génie génétique ? Une nouvelle formule cosmétique ? C'est l'obtention d'un brevet qui officialise l'invention et garantit à son découvreur (chercheur, laboratoire, entreprise...) l'exclusivité. Pour cela, l'ingénieur brevets s'assure auprès des organismes spécialisés dans la propriété industrielle qu'aucun produit ou procédé similaire n'a déjà été déposé, c'est-à-dire reconnu comme innovation. Il rédige à l'intention des offices de brevets internationaux une demande qui démontre le caractère novateur de la découverte, expériences et exemples à l'appui.</p>
+<inter> Surveiller la concurrence </inter>
+<p>Une veille chez les concurrents permet à l'ingénieur brevets de vérifier que l'innovation brevetée ne sera pas copiée. En cas de plagiat ou d'usage abusif, il peut attaquer la société fautive. Le détenteur d'un brevet peut a contrario autoriser une autre société à l'utiliser. L'ingénieur brevets élabore alors le contrat définissant les termes de la licence d'exploitation. Un moyen de garantir un retour sur investissement, voire de financer d'autres recherches. Il arrive aussi que l'ingénieur brevets participe aux orientations du programme de recherche, en collaboration avec l'équipe de recherche et développement (R &amp; D).</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="53411" csRelFld="53411">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53411</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100542</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Un jeune diplômé peut intégrer ce poste, mais le métier s'acquiert par la pratique, sur une période d'au moins 3 à 4 ans. Une expérience de 5 à 6 ans est requise pour posséder une certaine autonomie sur les dossiers. L'ingénieur brevets continue à se former au cours de sa carrière. Deux diplômes professionnels, l'EQE (examen de qualification européen) et l'EQF (examen de qualification français), conduisent respectivement aux titres de " mandataire agréé auprès de l'OEB (Office européen des brevets) " et de " conseil en propriété industrielle ".</p>
+<liste>
+<tete> Niveau bac + 5 </tete>
+<itsimp>Master ou diplôme d'ingénieur</itsimp>
+</liste>
+<liste>
+<tete> Niveau bac + 8 </tete>
+<itsimp>Doctorat en sciences du vivant, biochimie ou chimie...</itsimp>
+<itsimp>Formation complémentaire en droit de l'innovation : diplôme du Ceipi (Centre d'études internationales de la propriété intélectuelle)</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="53409" csRelFld="53409">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53409</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100542</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter> Du labo au cabinet-conseil</inter>
+<p>L'ingénieur brevets est employé par des laboratoires ou des entreprises de l'industrie (chimique, cosmétique, pharmaceutique, agroalimentaire, biotechnologique...) possédant un département R et D (recherche et développement). Il peut aussi exercer au sein d'un organisme de délivrance de brevets, où il étudie les demandes déposées par les entreprises. Les principaux organismes existants sont l'Inpi (Institut national de la propriété industrielle) pour la France, l'OEB (Office européen des brevets) pour l'Europe, l'Ompi (Office mondial de la propriété industrielle) au niveau international. Enfin, l'ingénieur brevets peut encore diriger un cabinet de conseil ou un département en propriété industrielle, voire devenir avocat en propriété industrielle (après obtention du concours d'avocat).</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2500</sal> à 3300 euros brut par mois.</p>
+<postit>
+<p>Source : Apec, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

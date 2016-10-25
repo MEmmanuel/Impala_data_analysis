@@ -1,0 +1,564 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Conducteur(trice) machines extrusion mat\u00e9riaux construction",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de machines d'extrusion en mat\u00e9riaux de construction",
+            "code_ogr": "13045"
+        },
+        {
+            "libelle_court": "Conducteur(trice) installation en mat\u00e9riaux de construction",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice d'installation en mat\u00e9riaux de construction",
+            "code_ogr": "13283"
+        },
+        {
+            "libelle_court": "Machiniste en mat\u00e9riaux de construction",
+            "priorisation": "1",
+            "libelle": "Machiniste en mat\u00e9riaux de construction",
+            "code_ogr": "16240"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur(trice) de fabrication en mat\u00e9riaux de construction",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de fabrication en mat\u00e9riaux de construction",
+            "code_ogr": "17092"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur(trice) machine auto en mat\u00e9riaux de construction",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice sur machine automatis\u00e9e en mat\u00e9riaux de construction",
+            "code_ogr": "17295"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur(trice) machine fabrication mat\u00e9riaux de constr",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice sur machine de fabrication de mat\u00e9riaux de construction",
+            "code_ogr": "17298"
+        },
+        {
+            "libelle_court": "Pilote de ligne automatis\u00e9e en mat\u00e9riaux de construction",
+            "priorisation": "1",
+            "libelle": "Pilote de ligne automatis\u00e9e en mat\u00e9riaux de construction",
+            "code_ogr": "17749"
+        },
+        {
+            "libelle_court": "Pilote d'installation automatis\u00e9e de l'industrie du b\u00e9ton",
+            "priorisation": "1",
+            "libelle": "Pilote d'installation automatis\u00e9e de l'industrie du b\u00e9ton",
+            "code_ogr": "17763"
+        },
+        {
+            "libelle_court": "Pilote d'installation automatis\u00e9e mat\u00e9riaux de construction",
+            "priorisation": "1",
+            "libelle": "Pilote d'installation automatis\u00e9e en mat\u00e9riaux de construction",
+            "code_ogr": "17765"
+        },
+        {
+            "libelle_court": "Pilote d'installation de l'industrie du b\u00e9ton",
+            "priorisation": "1",
+            "libelle": "Pilote d'installation de l'industrie du b\u00e9ton",
+            "code_ogr": "17767"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Monter/d\u00e9monter des pi\u00e8ces, outillages de machines",
+            "code_ogr": "3565",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Saisir les param\u00e8tres de vitesse, d\u00e9bit, temp\u00e9rature, ... et contr\u00f4ler le d\u00e9marrage de la machine/ligne",
+            "code_ogr": "3129",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler l'alimentation des machines en mati\u00e8res premi\u00e8res et la conformit\u00e9 des produits",
+            "code_ogr": "1072",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Retirer les produits endommag\u00e9s et leurs d\u00e9bris de la cha\u00eene de production, \u00e9vacuer les rebuts et les diriger vers les zones de recyclage, ...",
+            "code_ogr": "3120",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir un premier diagnostic de dysfonctionnement et appliquer les mesures correctives",
+            "code_ogr": "1905",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le nettoyage et l'entretien des machines, \u00e9quipements et p\u00e9riph\u00e9riques",
+            "code_ogr": "1555",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "H2102",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de production alimentaire"
+        },
+        {
+            "code_rome_cible": "H2801",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de transformation du verre"
+        },
+        {
+            "code_rome_cible": "H2803",
+            "libelle_rome_cible": "Fa\u00e7onnage et \u00e9maillage en industrie c\u00e9ramique"
+        },
+        {
+            "code_rome_cible": "H3201",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de formage des plastiques et caoutchoucs"
+        },
+        {
+            "code_rome_cible": "H3301",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de conditionnement"
+        },
+        {
+            "code_rome_cible": "H3303",
+            "libelle_rome_cible": "Pr\u00e9paration de mati\u00e8res et produits industriels (broyage, m\u00e9lange, ...)"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac (professionnel, technologique) en m\u00e9canique, \u00e9lectrotechnique, ...\nUn ou plusieurs Certificat(s) d'Aptitude \u00e0 la Conduite En S\u00e9curit\u00e9 -CACES- conditionn\u00e9(s) par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement peu(ven)t \u00eatre requis.\nUne habilitation aux risques d'origine \u00e9lectrique peut \u00eatre demand\u00e9e.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Surveiller ou r\u00e9guler une installation de :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Broyage, concassage, tamisage",
+            "code_ogr": "9944",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conditionnement, palettisation, \u00e9tiquetage",
+            "code_ogr": "9945",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Extrusion",
+            "code_ogr": "9946",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Malaxage",
+            "code_ogr": "9947",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Remplissage",
+            "code_ogr": "9948",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Thermique (four, \u00e9tuveuse, ...)",
+            "code_ogr": "9949",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-1 (Transpalettes \u00e0 conducteur port\u00e9 et pr\u00e9parateurs de commandes au sol)",
+            "code_ogr": "10122",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-3 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 inf\u00e9rieure ou \u00e9gale \u00e0 6000 kg)",
+            "code_ogr": "10124",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-4 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 sup\u00e9rieure \u00e0 6000 kg)",
+            "code_ogr": "10125",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-5 (Chariots \u00e9l\u00e9vateurs \u00e0 m\u00e2t r\u00e9tractable)",
+            "code_ogr": "10126",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 318 (ponts roulants)",
+            "code_ogr": "10100",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des interventions n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation \u00e9lectrique, travaux hors tension (B0, B0V, B1 B1V, H0, ...)",
+            "code_ogr": "8481",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation \u00e9lectrique, travaux sous tension (B1T, BN, BR, H1T, ...)",
+            "code_ogr": "8482",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la conformit\u00e9 de composition ou de r\u00e9sistance d'un produit par :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4les physico-chimiques (humidit\u00e9, granulom\u00e9trie)",
+            "code_ogr": "4200",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4les dimensionnels (rectitude, \u00e9paisseur, ...)",
+            "code_ogr": "4198",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4les m\u00e9caniques",
+            "code_ogr": "4199",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des op\u00e9rations manuelles de fabrication, conditionnement, ...",
+            "code_ogr": "5021",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks et contr\u00f4ler la r\u00e9ception des produits",
+            "code_ogr": "9736",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9ceptionner des commandes et planifier les livraisons",
+            "code_ogr": "9419",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et analyser les donn\u00e9es de production d'une installation et d\u00e9terminer les actions correctives",
+            "code_ogr": "3609",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises de production de mat\u00e9riaux de construction (b\u00e9ton, tuiles, briques, ...).\nElle peut s'exercer par roulement, les fins de semaine, jours f\u00e9ri\u00e9s ou de nuit.\nL'activit\u00e9 s'effectue en atelier, parfois en salle de pilotage.\nLe port d'Equipements de Protection Individuelle -EPI- (chaussures de s\u00e9curit\u00e9, casque, gants, protections auditives, ...) est exig\u00e9.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Tri, empilage de pi\u00e8ces",
+            "code_ogr": "21120",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Emballage de produit",
+            "code_ogr": "20879",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion de stocks",
+            "code_ogr": "21259",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Gestion de Production Assist\u00e9e Par Ordinateur -GPAO-",
+            "code_ogr": "21258",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils de Gestion de Moyens de Production -GMP-",
+            "code_ogr": "21469",
+            "position_item": "2",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e9ton (arm\u00e9, manufactur\u00e9, pr\u00e9-contraint)",
+            "code_ogr": "23421",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pl\u00e2tre",
+            "code_ogr": "23586",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Tuiles et briques en b\u00e9ton",
+            "code_ogr": "23663",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Au pied des installations",
+            "code_ogr": "23376",
+            "code_type_section_env": "3"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "En salle de pilotage, cabine de commande",
+            "code_ogr": "23381",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9",
+            "code_ogr": "22621",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Hygi\u00e8ne industrielle",
+            "code_ogr": "22040",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes qualit\u00e9",
+            "code_ogr": "22233",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de conduite d'installation en mode manuel",
+            "code_ogr": "22388",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de conduite d'installation en mode automatique",
+            "code_ogr": "22387",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Propri\u00e9t\u00e9s du b\u00e9ton",
+            "code_ogr": "22497",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Propri\u00e9t\u00e9s du pl\u00e2tre (isolation, porosit\u00e9, duret\u00e9, ...)",
+            "code_ogr": "22498",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de moulage",
+            "code_ogr": "23005",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9canique g\u00e9n\u00e9rale",
+            "code_ogr": "21882",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en \u00e9lectrom\u00e9canique",
+            "code_ogr": "21862",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en automatisme",
+            "code_ogr": "21931",
+            "position_item": "11",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'\u00e9chantillonnage",
+            "code_ogr": "22450",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Analyse statistique",
+            "code_ogr": "22721",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise des mat\u00e9riaux de construction (carreaux de pl\u00e2tre, tuiles en b\u00e9ton, blocs en b\u00e9ton ...) sur des \u00e9quipements ou des lignes automatis\u00e9es, selon les r\u00e8gles de s\u00e9curit\u00e9 et les imp\u00e9ratifs de production (d\u00e9lais, quantit\u00e9, qualit\u00e9, ...). Surveille le d\u00e9roulement des op\u00e9rations de production (param\u00e8tres, ...) et intervient en cas de dysfonctionnement ou de panne (d\u00e9blocage d'\u00e9l\u00e9ments, ajustement de param\u00e8tres, ...). Effectue l'entretien des installations et de la zone de travail.\nPeut transporter et d\u00e9placer les produits. Peut effectuer des contr\u00f4les de mati\u00e8res et produits.\n",
+    "intitule": "Conduite d'installation de production de mat\u00e9riaux de construction",
+    "code_ogr": "274",
+    "code_rome": "H2802",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "H1503",
+            "libelle_rome_cible": "Intervention technique en laboratoire d'analyse industrielle"
+        },
+        {
+            "code_rome_cible": "H2504",
+            "libelle_rome_cible": "Encadrement d'\u00e9quipe en industrie de transformation"
+        },
+        {
+            "code_rome_cible": "H2804",
+            "libelle_rome_cible": "Pilotage de centrale \u00e0 b\u00e9ton pr\u00eat \u00e0 l'emploi, ciment, enrob\u00e9s et granulats"
+        },
+        {
+            "code_rome_cible": "H2912",
+            "libelle_rome_cible": "R\u00e9glage d'\u00e9quipement de production industrielle"
+        }
+    ]
+}

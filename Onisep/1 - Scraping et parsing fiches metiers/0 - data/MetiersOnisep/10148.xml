@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">gouvernante</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe/travailler à l'étranger/pratiquer les langues vivantes</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction encadrement - coordination/fonction formation</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur hôtellerie/secteur du tourisme</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">service étage/hygiène et propreté</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE hôtellerie restauration tourisme loisirs/gouvernante</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10148</lien_onisep>
+<ROME Level="1B" csRelFld="10148">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10148">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16622" csRelFld="16622">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16622</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10148</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Veiller à tout</inter>
+<p>Garante de l'hygiène, la gouvernante passe derrière les femmes de chambre qu'elle encadre en scrutant les moindres détails. Fil, cheveu, trace de poussière..., rien ne doit résister à son examen. Elle est aussi chargée de gérer les stocks de linge et de produits de nettoyage, tout en veillant à la sécurité des étages. Enfin, elle fait appel à des sociétés extérieures pour des travaux spécifiques, tels que le nettoyage des moquettes ou des rideaux. </p>
+<inter>Gérer le planning</inter>
+<p>C'est elle qui assure, chaque jour, la coordination des activités du personnel d'étage placé sous sa responsabilité. Informée de l'état des chambres libérées, elle organise et répartit le travail entre les femmes de chambre, en tenant compte des clients qui restent plusieurs nuits de suite ainsi que des arrivées. La gouvernante assume également les tâches liées à son rôle d'encadrement : formation du personnel, gestion des plannings (horaires, congés)... Elle est enfin l'interlocutrice privilégiée des clients pour toute réclamation ou souhait particulier concernant leur hébergement.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16117" csRelFld="16117">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16117</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10148</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Des diplômes spécifiques complétés par une expérience en hôtellerie</accr_p> sont indispensables pour accéder à cette profession et occuper, par la suite, des fonctions d'encadrement. </p>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>BP gouvernante</itsimp>
+<itsimp>Bac techno sciences et technologies de l'hôtellerie et de la restauration</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS hôtellerie-restauration option A mercatique et gestion hôtelière</itsimp>
+<itsimp>BTS responsable d'hébergement</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16111" csRelFld="16111">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16111</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10148</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>De bonnes perspectives d'emploi</inter>
+<p>Le secteur de l'hôtellerie se porte bien et recrute à tous les niveaux. Une situation favorable aux gouvernantes. Hôtels de luxe, établissements de catégorie 3 ou 4 étoiles, en France ou à l'étranger, sont autant de lieux d'exercice pour la gouvernante. Celle-ci peut aussi être employée dans les centres de loisirs, les villages de vacances, les stations de tourisme, les maisons de retraite, les cliniques. </p>
+<inter>Des possibilités d'évolution rapide</inter>
+<p>Dans un grand hôtel (plus de 100 chambres), une gouvernante d'étage dotée d'une formation hôtelière, avec de bonnes connaissances en gestion et en langues, gravira rapidement les échelons de la hiérarchie : première gouvernante, assistante gouvernante générale, puis gouvernante générale. Après quelques années d'expérience, elle peut même accéder à un poste de directrice de l'hébergement. En revanche, en hôtellerie de catégorie moyenne, les possibilités d'évolution sont assez restreintes en raison des faibles responsabilités exercées. </p>
+<inter>Des opportunités à l'étranger</inter>
+<p>Actuellement, de nombreux hôtels recherchent des gouvernantes ayant une solide culture générale afin de développer les relations avec la clientèle. À l'étranger, les opportunités d'emploi ne manquent pas, surtout pour celles qui maîtrisent une ou plusieurs langues étrangères. Si le recrutement est presque exclusivement féminin, les hommes font une entrée en douceur dans la profession.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1560</sal> euros brut par mois.</p>
+<postit>
+<p>Source : www.hotellerierestauration.fr</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">infirmier/ère humanitaire</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller/soigner/travailler à l'étranger</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">contrat de volontariat</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction administration des soins</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur social</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">soins infirmiers/action humanitaire</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE médical paramédical travail social soins personnels/infirmier humanitaire</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100452</lien_onisep>
+<ROME Level="1B" csRelFld="100452">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="440" csRelFld="440">
+<CSLABELFLD label="">J1506</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Soins paramédicaux</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">J1506</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Soins infirmiers généralistes</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100452">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1834" csRelFld="1834">
+<CSLABELFLD label="">infirmier / infirmière anesthésiste</CSLABELFLD>
+<MET_ID label="Identifiant">100452</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1834</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">infirmier/ère anesthésiste</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1834">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1835" csRelFld="1835">
+<CSLABELFLD label="">infirmier / infirmière de bloc opératoire</CSLABELFLD>
+<MET_ID label="Identifiant">100452</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1835</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">infirmier/ère de bloc opératoire</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1835">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1836" csRelFld="1836">
+<CSLABELFLD label="">infirmier-puériculteur / infirmière-puéricultrice</CSLABELFLD>
+<MET_ID label="Identifiant">100452</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1836</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">infirmier/ère-puériculteur/trice</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1836">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="36801" csRelFld="36801">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36801</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100452</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Adapter les types de soins</inter>
+<p>Les missions proposées aux infirmiers humanitaires diffèrent d'une organisation non gouvernementale (ONG) à l'autre et selon le pays. Il peut s'agir de soins d'urgence à donner à une population venant de subir une catastrophe naturelle ou un conflit armé. Ou encore de participer à des programmes, plus longs, de vaccination, de renutrition, de prévention...</p>
+<p>Collaborateur du médecin ou du chirurgien, l'infirmier assure les soins quotidiens, les vaccinations... Il gère les stocks de médicaments et de matériels. S'il est infirmier anesthésiste, il prépare le patient et participe à sa réanimation.</p>
+<inter>Former à l'autonomie</inter>
+<p>L'infirmier humanitaire a un rôle important de supervision et de formation. Il planifie la prise en charge médicale et les soins. Très souvent, il encadre et forme des personnels locaux. Il leur délègue une partie des soins tout en transmettant ses pratiques. Il faut parfois enseigner les règles élémentaires d'hygiène et de relations au malade. L'objectif étant de mettre en place un personnel soignant local autonome.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36805" csRelFld="36805">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36805</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100452</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Pour exercer ce métier, il faut obtenir le diplôme d'État d'infirmier, délivré par les Ifsi (instituts de formation aux soins infirmiers). Le diplôme d'État est désormais reconnu au niveau bac + 3. Les auxiliaires de puériculture et les aides-soignants justifiant de 3 ans d'expérience peuvent se présenter à un examen d'admission spécifique et bénéficier d'une dispense de certaines unités de formation.</p>
+<inter>Niveau bac + 3</inter>
+<liste>
+<itsimp>
+<em>Diplôme d'État </em>d'infirmier.</itsimp>
+</liste>
+<p/>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36803" csRelFld="36803">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36803</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100452</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Surtout des volontaires</inter>
+<p>La plupart des ONG recrutent leur personnel expatrié sous statut de volontaire. Les volontaires de la solidarité internationale bénéficient d'une prise en charge du transport, de l'hébergement et des frais de vie sur place, de la couverture sociale et d'une indemnité mensuelle.</p>
+<inter>Médecins sans frontières</inter>
+<p>Les personnels paramédicaux (infirmiers, infirmiers-anesthésistes, masseurs-kinésithérapeutes, ergothérapeutes, laborantins, puéricultrices et, par extension, sages-femmes) représentent environ 7 % des volontaires en mission. Un chiffre à mettre en rapport avec les 33 % de volontaires pour intégrer une ONG comme Médecins sans frontières...</p>
+<inter>Gérer sa carrière</inter>
+<p>Les missions durent en moyenne de 6 à 12 mois. Le volontariat paramédical s'insère relativement facilement dans la continuité d'une carrière. Certains infirmiers alternent périodes d'intérim en France et missions sur le terrain. Les infirmiers hospitaliers peuvent demander des périodes de disponibilité. Avec de l'expérience, on peut accéder à des fonctions de coordination de missions. Autres possibilités : suivre une formation complémentaire pour devenir puéricultrice, infirmier-anesthésiste...</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>L'infirmier humanitaire perçoit une indemnité de 800 et 900 euros brut par mois. Tous ses frais sont pris en charge.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

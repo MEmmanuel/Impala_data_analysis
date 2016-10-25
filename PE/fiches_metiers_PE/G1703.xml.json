@@ -1,0 +1,560 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente de r\u00e9servation en h\u00f4tellerie",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de r\u00e9servation en h\u00f4tellerie",
+            "code_ogr": "10591"
+        },
+        {
+            "libelle_court": "Assistant/Assistante de r\u00e9ception en \u00e9tablissement h\u00f4telier",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante de r\u00e9ception en \u00e9tablissement h\u00f4telier",
+            "code_ogr": "11248"
+        },
+        {
+            "libelle_court": "Chef de brigade de r\u00e9ception h\u00f4teli\u00e8re",
+            "priorisation": "1",
+            "libelle": "Chef de brigade de r\u00e9ception h\u00f4teli\u00e8re",
+            "code_ogr": "12072"
+        },
+        {
+            "libelle_court": "Chef de r\u00e9ception en h\u00f4tellerie",
+            "priorisation": "1",
+            "libelle": "Chef de r\u00e9ception en h\u00f4tellerie",
+            "code_ogr": "12308"
+        },
+        {
+            "libelle_court": "Employ\u00e9 / Employ\u00e9e de r\u00e9ception en \u00e9tablissement h\u00f4telier",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 / Employ\u00e9e de r\u00e9ception en \u00e9tablissement h\u00f4telier",
+            "code_ogr": "14780"
+        },
+        {
+            "libelle_court": "Employ\u00e9 / Employ\u00e9e de r\u00e9servation en h\u00f4tellerie",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 / Employ\u00e9e de r\u00e9servation en h\u00f4tellerie",
+            "code_ogr": "14783"
+        },
+        {
+            "libelle_court": "Night audit",
+            "priorisation": "1",
+            "libelle": "Night audit",
+            "code_ogr": "16991"
+        },
+        {
+            "libelle_court": "Night auditor",
+            "priorisation": "1",
+            "libelle": "Night auditor",
+            "code_ogr": "16992"
+        },
+        {
+            "libelle_court": "Premier / Premi\u00e8re de r\u00e9ception en h\u00f4tellerie",
+            "priorisation": "1",
+            "libelle": "Premier / Premi\u00e8re de r\u00e9ception en h\u00f4tellerie",
+            "code_ogr": "38219"
+        },
+        {
+            "libelle_court": "R\u00e9ceptionniste de camping",
+            "priorisation": "1",
+            "libelle": "R\u00e9ceptionniste de camping",
+            "code_ogr": "18320"
+        },
+        {
+            "libelle_court": "R\u00e9ceptionniste de nuit",
+            "priorisation": "1",
+            "libelle": "R\u00e9ceptionniste de nuit",
+            "code_ogr": "18321"
+        },
+        {
+            "libelle_court": "R\u00e9ceptionniste de village vacances",
+            "priorisation": "1",
+            "libelle": "R\u00e9ceptionniste de village vacances",
+            "code_ogr": "18323"
+        },
+        {
+            "libelle_court": "R\u00e9ceptionniste en \u00e9tablissement touristique",
+            "priorisation": "1",
+            "libelle": "R\u00e9ceptionniste en \u00e9tablissement touristique",
+            "code_ogr": "18324"
+        },
+        {
+            "libelle_court": "R\u00e9ceptionniste en h\u00f4tellerie",
+            "priorisation": "1",
+            "libelle": "R\u00e9ceptionniste en h\u00f4tellerie",
+            "code_ogr": "18325"
+        },
+        {
+            "libelle_court": "R\u00e9ceptionniste tournant/tournante en \u00e9tablissement h\u00f4telier",
+            "priorisation": "1",
+            "libelle": "R\u00e9ceptionniste tournant / tournante en \u00e9tablissement h\u00f4telier",
+            "code_ogr": "18326"
+        },
+        {
+            "libelle_court": "Responsable de r\u00e9ception h\u00f4teli\u00e8re",
+            "priorisation": "1",
+            "libelle": "Responsable de r\u00e9ception h\u00f4teli\u00e8re",
+            "code_ogr": "18842"
+        },
+        {
+            "libelle_court": "Responsable des r\u00e9servations en h\u00f4tellerie",
+            "priorisation": "1",
+            "libelle": "Responsable des r\u00e9servations en h\u00f4tellerie",
+            "code_ogr": "18940"
+        },
+        {
+            "libelle_court": "Veilleur / Veilleuse de nuit en h\u00f4tellerie",
+            "priorisation": "1",
+            "libelle": "Veilleur / Veilleuse de nuit en h\u00f4tellerie",
+            "code_ogr": "20507"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Renseigner le client sur les prestations de l'\u00e9tablissement et les modalit\u00e9s de r\u00e9servation",
+            "code_ogr": "3025",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Enregistrer les r\u00e9servations et actualiser le planning d'occupation des chambres, des appartements, des bungalows, ...",
+            "code_ogr": "1806",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accueillir les clients \u00e0 leur arriv\u00e9e et effectuer les formalit\u00e9s administratives li\u00e9es \u00e0 leur s\u00e9jour",
+            "code_ogr": "3498",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9pondre aux demandes des clients durant leur s\u00e9jour",
+            "code_ogr": "3110",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les actions appropri\u00e9es (geste commercial, ...) lors d'un litige avec le client",
+            "code_ogr": "1613",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "5",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir les factures li\u00e9es aux frais de s\u00e9jour, contr\u00f4ler les moyens de paiement et effectuer l'encaissement",
+            "code_ogr": "3555",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cl\u00f4turer la caisse et identifier les comptes d\u00e9biteurs",
+            "code_ogr": "823",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports de suivi d'activit\u00e9 (r\u00e9servations, annulations, ventes, ...) et \u00e9diter les rapports statistiques journaliers (taux d'occupation, prix moyen, ...)",
+            "code_ogr": "3049",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "8",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "G1101",
+            "libelle_rome_cible": "Accueil touristique"
+        },
+        {
+            "code_rome_cible": "G1401",
+            "libelle_rome_cible": "Assistance de direction d'h\u00f4tel-restaurant"
+        },
+        {
+            "code_rome_cible": "G1502",
+            "libelle_rome_cible": "Personnel polyvalent d'h\u00f4tellerie"
+        },
+        {
+            "code_rome_cible": "G1503",
+            "libelle_rome_cible": "Management du personnel d'\u00e9tage"
+        },
+        {
+            "code_rome_cible": "G1701",
+            "libelle_rome_cible": "Conciergerie en h\u00f4tellerie"
+        },
+        {
+            "code_rome_cible": "M1601",
+            "libelle_rome_cible": "Accueil et renseignements"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/ BEP \u00e0 Bac+2 (BTS, DUT, ...) en h\u00f4tellerie, commerce, tourisme ou langues vivantes.\nLes recrutements peuvent \u00eatre ouverts sur contrats de travail saisonniers.\nLa pratique d'une ou plusieurs langue(s) \u00e9trang\u00e8re(s), en particulier l'anglais, est g\u00e9n\u00e9ralement exig\u00e9e.\nLa ma\u00eetrise d'outils informatiques (logiciels de gestion, de r\u00e9servation, de facturation) est requise.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations promotionnelles pour l'\u00e9tablissement (mailing, ...) et effectuer le suivi des relations clients",
+            "code_ogr": "8896",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le suivi administratif des comptes clients (relances d\u00e9biteurs, contr\u00f4le des paiements diff\u00e9r\u00e9s, ...)",
+            "code_ogr": "5362",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et analyser les donn\u00e9es d'activit\u00e9 du service ou de la structure et proposer des axes d'\u00e9volution",
+            "code_ogr": "3608",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la pr\u00e9paration et le service des petits-d\u00e9jeuners en salle, en chambre",
+            "code_ogr": "3537",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des op\u00e9rations de change de devises pour une client\u00e8le \u00e9trang\u00e8re",
+            "code_ogr": "4921",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'organisation de s\u00e9minaire, congr\u00e8s, ... au sein de l'\u00e9tablissement",
+            "code_ogr": "4359",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller les lieux, les biens et effectuer des rondes de pr\u00e9vention et de d\u00e9tection de risques",
+            "code_ogr": "3623",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce \u00e0 la r\u00e9ception ou au \u00ab desk \u00bb d'h\u00f4tels, de r\u00e9sidences de tourisme, d'\u00e9tablissements h\u00f4teliers mobiles, de plein air, de villages de vacances, en contact avec la client\u00e8le, en relation avec diff\u00e9rents services ou interlocuteurs (restauration, service d'\u00e9tage, directeur d'\u00e9tablissement ...).\nElle varie selon le type, la taille de la structure et le degr\u00e9 d'informatisation (logiciel de gestion h\u00f4teli\u00e8re, logiciel de facturation, ...).\nElle peut s'exercer les fins de semaine, jours f\u00e9ri\u00e9s et de nuit.\nElle peut impliquer un \u00e9loignement du domicile de plusieurs jours ou semaines (h\u00f4tellerie fluviale, croisi\u00e8re en mer, ...).\nLa r\u00e9mun\u00e9ration est constitu\u00e9e d'un fixe parfois associ\u00e9 \u00e0 des avantages (repas, logement, ...) ou des primes.\nLe port d'un uniforme peut \u00eatre exig\u00e9.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de r\u00e9servation",
+            "code_ogr": "21265",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciel de facturation h\u00f4teli\u00e8re",
+            "code_ogr": "21228",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chiffrage/calcul de co\u00fbt",
+            "code_ogr": "20813",
+            "position_item": "4",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tel \u00e9conomique",
+            "code_ogr": "23963",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tel non homologu\u00e9 ou non class\u00e9",
+            "code_ogr": "23964",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tel 1 \u00e9toile",
+            "code_ogr": "23958",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tel 2 \u00e9toiles",
+            "code_ogr": "23959",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tel 3 \u00e9toiles",
+            "code_ogr": "23960",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tel 4 \u00e9toiles",
+            "code_ogr": "23961",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tel 5 \u00e9toiles",
+            "code_ogr": "23962",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tellerie de plein air",
+            "code_ogr": "23965",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tellerie mobile (bateau de croisi\u00e8re, ...)",
+            "code_ogr": "23966",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9sidence de tourisme",
+            "code_ogr": "24051",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9sidence h\u00f4teli\u00e8re",
+            "code_ogr": "24052",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Village vacances",
+            "code_ogr": "24128",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail de nuit",
+            "code_ogr": "38055",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de vente",
+            "code_ogr": "23168",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de planification",
+            "code_ogr": "23033",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Typologie des clients/consommateurs",
+            "code_ogr": "23348",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modalit\u00e9s d'accueil",
+            "code_ogr": "22161",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestion comptable et administrative",
+            "code_ogr": "21995",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de communication",
+            "code_ogr": "22840",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Environnement culturel et touristique",
+            "code_ogr": "21932",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9 des biens et des personnes",
+            "code_ogr": "22623",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de pr\u00e9vention et de gestion de conflits",
+            "code_ogr": "23058",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'encaissement",
+            "code_ogr": "22454",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestion financi\u00e8re",
+            "code_ogr": "22002",
+            "position_item": "11",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de yield management",
+            "code_ogr": "23173",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Strat\u00e9gie tarifaire",
+            "code_ogr": "22725",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Strat\u00e9gie commerciale",
+            "code_ogr": "22723",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Analyse statistique",
+            "code_ogr": "22721",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modes de paiement",
+            "code_ogr": "22198",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Droit cambiaire",
+            "code_ogr": "21792",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation s\u00e9curit\u00e9 incendie",
+            "code_ogr": "22580",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles et consignes de s\u00e9curit\u00e9",
+            "code_ogr": "22656",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nAccueille et renseigne des clients sur les conditions de s\u00e9jour, les formalit\u00e9s, les prix et les possibilit\u00e9s d'accueil d'un \u00e9tablissement d'h\u00e9bergement h\u00f4telier ou touristique selon la charte qualit\u00e9 et la politique commerciale de l'\u00e9tablissement.\nEffectue les t\u00e2ches administratives (r\u00e9servations, planification, traitement du courrier, ...) et comptables (facturation, encaissement, ...) des dossiers clients.\nPeut superviser et coordonner les activit\u00e9s du personnel de la r\u00e9ception.\nPeut effectuer la promotion de l'\u00e9tablissement d'h\u00e9bergement h\u00f4telier ou touristique (courriers d'information, prospection, strat\u00e9gie tarifaire, ...).\n",
+    "intitule": "R\u00e9ception en h\u00f4tellerie",
+    "code_ogr": "205",
+    "code_rome": "G1703",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "G1303",
+            "libelle_rome_cible": "Vente de voyages"
+        },
+        {
+            "code_rome_cible": "G1402",
+            "libelle_rome_cible": "Management d'h\u00f4tel-restaurant"
+        },
+        {
+            "code_rome_cible": "N2201",
+            "libelle_rome_cible": "Personnel d'escale a\u00e9roportuaire"
+        }
+    ]
+}

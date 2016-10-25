@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">contrôleur/euse de performances</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">travailler en contact avec la nature/aider, conseiller/m'occuper d'animaux/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction mesure, analyse/fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur agriculture</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">élevage bovin/élevage ovin caprin/élevage laitier/contrôle de performance d'élevage</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE production alimentaire /contrôleur de performances</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100278</lien_onisep>
+<ROME Level="1B" csRelFld="100278">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="12" csRelFld="12">
+<CSLABELFLD label="">A1302</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Etudes et assistance technique</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">A1302</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Contrôle et diagnostic technique en agriculture</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100278">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1127" csRelFld="1127">
+<CSLABELFLD label="">conseiller / conseillère technique d'élevage</CSLABELFLD>
+<MET_ID label="Identifiant">100278</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">21/04/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1127</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">conseiller/ère technique d'élevage</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1127">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17829" csRelFld="17829">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17829</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100278</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Analyser et sélectionner les laits</inter>
+<p>Le contrôleur laitier renseigne les éleveurs de vaches, de brebis ou de chèvres sur la quantité et la qualité du lait produit dans leurs exploitations. Sur place, il effectue des prélèvements qu'il analyse selon un protocole précis afin d'évaluer les valeurs nutritive et énergétique (taux de matières grasses, de protéines, qualités sanitaires, carences...) du lait produit. En fonction des résultats, il conseille l'éleveur sur les rations alimentaires, les surfaces de pâturage à valoriser, la sélection des génisses et des taureaux reproducteurs...</p>
+<inter>Contrôler le bétail avant consommation</inter>
+<p>De son côté, le contrôleur de croissance intervient sur les élevages d'animaux (boeufs, moutons, porcs) destinés à la boucherie. 2 à 3 pesées par an suffisent à s'assurer de la prise de poids. Autre pratique : le pointage. Le contrôleur de croissance mesure l'animal à différents endroits de son corps afin de vérifier son bon développement.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17854" csRelFld="17854">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17854</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100278</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Pour devenir contrôleur de performance, il existe plusieurs formations, de bac + 2 à bac + 3.</accr_p>
+</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTSA (brevet de technicien supérieur agricole) productions animales ; analyse et conduite de systèmes d'exploitation </itsimp>
+<itsimp>CSA (certificat de spécialisation agricole) technicien-conseil en production laitière</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licences pro spécialisées dans les métiers de l'élevage</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18023" csRelFld="18023">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18023</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100278</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des postes au compte-gouttes</inter>
+<p>Le contrôle de performance représente de petits effectifs. Sur 5 500 salariés du secteur agricole, on totalise 1 500 contrôleurs de performance (dont 230 contrôleurs de croissance). Certaines régions embauchent plus que d'autres. Par exemple, l'ouest de la France, où les élevages de bovins sont très importants. À elles seules, les régions Normandie, Bretagne et Pays de la Loire totalisent la moitié des effectifs salariés du contrôle laitier.</p>
+<inter>Vers une spécialisation</inter>
+<p>Si les perspectives de carrière sont plutôt limitées, quelques années d'expérience permettent de se spécialiser dans le conseil en élevage. Par exemple, en nutrition ou en reproduction animales.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1900</sal> euros brut par mois.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

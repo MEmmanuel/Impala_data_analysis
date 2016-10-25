@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">moniteur/trice-éducateur/trice</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller/m'occuper d'handicapés/m'occuper d'enfants ou d'adolescents/m'occuper de personnes âgées/enseigner, éduquer/animer des activités culturelles, ludiques ou éducatives</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction sociale</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur santé/secteur social/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">éducation spécialisée/médiation sociale</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE médical paramédical travail social soins personnels/moniteur éducateur</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10250</lien_onisep>
+<ROME Level="1B" csRelFld="10250">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="455" csRelFld="455">
+<CSLABELFLD label="">K1207</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Action sociale, socio-éducative et socio-culturelle</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K1207</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Intervention socioéducative</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10250">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="993" csRelFld="993">
+<CSLABELFLD label="">éducateur spécialisé / éducatrice spécialisée</CSLABELFLD>
+<MET_ID label="Identifiant">10250</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">993</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">éducateur/trice spécialisé/e</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="993">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="994" csRelFld="994">
+<CSLABELFLD label="">éducateur technique spécialisé / éducatrice technique spécialisée</CSLABELFLD>
+<MET_ID label="Identifiant">10250</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">994</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">éducateur/trice technique spécialisé/e</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="994">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16802" csRelFld="16802">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16802</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10250</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Accompagner l'autonomie</inter>
+<p>Intégré dans une équipe médico-sociale, le moniteur-éducateur a pour mission de redonner ou de préserver l'autonomie et l'intégration sociale des personnes dont il a la charge. Un accompagnement au quotidien qui favorise leur développement et leur épanouissement personnels. </p>
+<inter>Soutenir et assister</inter>
+<p>Le moniteur-éducateur apporte aux personnes en difficulté assistance et attention dans les actes élémentaires de la vie quotidienne. Il les aide à faire leur toilette, à prendre leurs repas, à se lever et à se coucher. Il peut également les épauler dans leurs démarches administratives.</p>
+<inter>Élaborer des projets éducatifs</inter>
+<p>Pour développer les capacités d'adaptation des personnes en charge, il met en place des projets éducatifs, des activités de soutien, d'apprentissage et de loisirs : travaux manuels et créatifs, expression corporelle ou verbale, ateliers de mécanique ou d'informatique, sorties culturelles et sportives... Le moniteur-éducateur intervient hors du temps de formation scolaire ou professionnelle et en dehors du temps consacré aux soins.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16803" csRelFld="16803">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16803</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10250</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Le diplôme d'État de moniteur-éducateur est accessible, sans condition préalable de diplôme, sur épreuves.</accr_p> Il se prépare en 2 ans dans les écoles agréées. Les enseignements théoriques portent principalement sur l'accompagnement social et éducatif et la conception de projets éducatifs spécialisés. Ils sont complétés par 28 semaines de stage.</p>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>Diplôme d'État de moniteur-éducateur</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18203" csRelFld="18203">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18203</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10250</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des CDD à foison</inter>
+<p>Dans le secteur social, les jeunes diplômés s'insèrent plutôt bien. Cela est d'autant plus vrai que l'évolution du champ d'activité de la profession ouvre de nouvelles perspectives. Ainsi les politiques d'intervention sociale (insertion, médiation) nécessitent désormais les compétences des moniteurs-éducateurs.</p>
+<inter>Des évolutions possibles</inter>
+<p>Le moniteur-éducateur souhaitant évoluer peut entreprendre une autre formation du secteur social en bénéficiant d'un allègement de formation (à hauteur d'un tiers du programme). C'est le cas pour les métiers suivants : éducateur spécialisé, éducateur technique spécialisé, éducateur de jeunes enfants. Il peut également être dispensé de 3 unités de formation sur 6 (et de leurs épreuves de certification) pour préparer le diplôme d'État de technicien de l'intervention sociale et familiale.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Du <sal>Smic</sal> à 1600 euros brut par mois.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

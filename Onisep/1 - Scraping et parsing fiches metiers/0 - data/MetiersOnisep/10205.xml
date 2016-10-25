@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">professeur/e de collège et de lycée</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">m'occuper d'enfants ou d'adolescents/enseigner, éduquer/animer des activités culturelles, ludiques ou éducatives</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction enseignement - éducation</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur de l'éducation/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">pédagogie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit/professeur de collège/professeur de lycée</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10205</lien_onisep>
+<ROME Level="1B" csRelFld="10205">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="500" csRelFld="500">
+<CSLABELFLD label="">K2107</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Formation initiale et continue</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K2107</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Enseignement général du second degré</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10205">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1276" csRelFld="1276">
+<CSLABELFLD label="">professeur / professeure de français</CSLABELFLD>
+<MET_ID label="Identifiant">10205</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">09/07/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1276</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">professeur/e de français</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1276">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1277" csRelFld="1277">
+<CSLABELFLD label="">professeur / professeure de langues</CSLABELFLD>
+<MET_ID label="Identifiant">10205</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">09/07/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1277</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">professeur/e de langues</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1277">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1282" csRelFld="1282">
+<CSLABELFLD label="">professeur / professeure de mathématiques</CSLABELFLD>
+<MET_ID label="Identifiant">10205</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">09/07/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1282</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">professeur/e de mathématiques</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1282">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1278" csRelFld="1278">
+<CSLABELFLD label="">professeur / professeure de philosophie</CSLABELFLD>
+<MET_ID label="Identifiant">10205</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">09/07/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1278</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">professeur/e de philosophie</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1278">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1279" csRelFld="1279">
+<CSLABELFLD label="">professeur / professeure de physique-chimie</CSLABELFLD>
+<MET_ID label="Identifiant">10205</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">09/07/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1279</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">professeur/e de physique-chimie</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1279">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1280" csRelFld="1280">
+<CSLABELFLD label="">professeur / professeure de SVT (sciences et vie de la Terre)</CSLABELFLD>
+<MET_ID label="Identifiant">10205</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">09/07/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1280</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">professeur/e de SVT (sciences et vie de la Terre)</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1280">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1283" csRelFld="1283">
+<CSLABELFLD label="">professeur / professeure de technologie</CSLABELFLD>
+<MET_ID label="Identifiant">10205</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">09/07/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1283</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">professeur/e de technologie</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1283">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1275" csRelFld="1275">
+<CSLABELFLD label="">professeur / professeure d'éducation physique et sportive</CSLABELFLD>
+<MET_ID label="Identifiant">10205</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">09/07/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1275</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">professeur/e d'éducation physique et sportive</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1275">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1284" csRelFld="1284">
+<CSLABELFLD label="">professeur / professeure d'enseignements artistiques</CSLABELFLD>
+<MET_ID label="Identifiant">10205</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">09/07/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1284</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">professeur/e d'enseignements artistiques</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1284">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1281" csRelFld="1281">
+<CSLABELFLD label="">professeur / professeure d'histoire-géographie</CSLABELFLD>
+<MET_ID label="Identifiant">10205</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">09/07/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1281</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">professeur/e d'histoire-géographie</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1281">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16532" csRelFld="16532">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16532</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10205</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Transmettre des savoirs</inter>
+<p>Du latin à la technologie, les contenus des programmes dispensés au collège et au lycée sont vastes. Mais la mission du professeur, quelle que soit sa discipline, reste la même : transmettre des connaissances, contribuer à l'éducation des élèves (en les aidant aussi à s'organiser dans leur travail personnel et évaluer leurs acquis) et les former en vue de leur insertion sociale et professionnelle.</p>
+<inter>Préparer les cours, corriger les copies</inter>
+<p>La préparation des cours, la correction des copies, la mise au point d'exercices adaptés au niveau de l'élève constituent le prolongement des heures de cours. D'autres activités s'y ajoutent, comme l'organisation d'activités pluridisciplinaires ou de projets parascolaires (visites, voyages...).</p>
+<inter>Travailler en équipe</inter>
+<p>Le professeur fait partie de l'équipe pédagogique et travaille en collaboration avec le CPE (conseiller principal d'éducation) et les autres enseignants.</p>
+<p>Lorsqu'il est professeur principal, il coordonne aussi les conseils de classe, organise les relations avec les parents et exerce une responsabilité particulière dans l'orientation de ses élèves, en relation avec le COP (conseiller d'orientation-psychologue).</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16531" csRelFld="16531">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16531</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10205</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Concours obligatoire.</accr_p> Après l'obtention d'une licence dans l'une des disciplines enseignées au collège ou au lycée, l'étudiant doit poursuivre son cursus en intégrant un master MEEF métiers de enseignement, de l'éducation et de la formation, 2nd degré. En M1 (1<exp>re</exp> année de master), il  présente l'un des concours de l'enseignement : le CAPES (certificat d'aptitude au professorat de l'enseignement du second degré), le CAPET (certificat d'aptitude au professorat de l'enseignement technique), le CAPESA (certificat d'aptitude au professorat de l'enseignement du second degré agricole), ou le CAPLP (certificat d'aptitude au professorat de lycée professionnel). Une fois le concours réussi, le professeur stagiaire suit une formation en alternance en M2 (2ème année de master) qui se déroule à temps partiel dans un établissement. La titularisation est soumis à la validation du master 2. En revanche, l'obtention du master 2 est nécessaire pour présenter l'agrégation.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master MEEF métiers de l'enseignement, de l'éducation et de la formation 2nd degré</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16539" csRelFld="16539">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16539</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10205</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des places à prendre</inter>
+<p>Les jeunes diplômés sont toujours aussi nombreux à se présenter aux concours, mais le nombre de départs à la retraite reste important, ce qui implique le renouvellement des effectifs. Toutefois, les propositions de postes dans l'Éducation nationale tiennent compte du budget alloué. Les recrutements sont donc ajustés chaque année, pour chaque discipline, en fonction des besoins.</p>
+<inter>Évoluer vers d'autres métiers</inter>
+<p>Avec 5 ans d'ancienneté, un professeur peut se présenter au concours de chef d'établissement scolaire ou d'inspecteur de l'Éducation nationale.</p>
+<p>Il peut aussi devenir à son tour formateur d'enseignants. Quelques postes sont également accessibles dans les lycées français à l'étranger, dans les établissements relevant d'autres ministères (par voie de détachement), dans les organismes de recherche et dans l'enseignement supérieur (par voie de mutation).</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2000</sal> (pour un certifié) à 2250 euros (pour un agrégé) brut par mois.</p>
+<postit>
+<p>Source : ministère de l'Éducation nationale.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

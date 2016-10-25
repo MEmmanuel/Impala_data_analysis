@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">climatologue</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire de la recherche/travailler à l'étranger</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction recherche</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur recherche</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">météorologie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100579</lien_onisep>
+<ROME Level="1B" csRelFld="100579">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100579">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="55458" csRelFld="55458">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55458</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100579</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Des études sur le long terme</inter>
+<p>Généralement, le climatologue participe à des programmes de recherche, seul ou plus souvent en équipe. Il s'appuie sur des relevés climatiques couvrant des périodes souvent très longues car, même si le phénomène a tendance à s'accélérer, le climat évolue plutôt lentement.</p>
+<inter>De nombreuses données à prendre en compte</inter>
+<p>Température de l'air ou des océans, chutes de neige ou de pluie, épaisseur de la glace, courants marins, pression atmosphérique... font partie des variables étudiées par le climatologue. Il étudie minutieusement toutes les données liées à ces phénomènes, grâce à des programmes informatiques performants qui produisent courbes et cartes en 3D (trois dimensions). Mais, comme l'informatique ne fait pas tout, le climatologie doit ensuite interpréter tous ces résultats.</p>
+<inter>Des interventions de terrain ponctuelles</inter>
+<p>En cas de catastrophe naturelle (inondation, tempête, tsunami, etc.), le climatologue se rend sur le terrain afin d'étudier le phénomène de plus près, de faire des relevés et des mesures. Il cherche ensuite à trouver une explication au phénomène et, surtout, les moyens de prévenir une récidive. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55462" csRelFld="55462">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55462</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100579</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le métier de climatologue est accessible le plus souvent après un bac + 5. À noter : les formations proposées par l'ENM (École nationale de la météorologie) à Toulouse, qui forme les personnels de Météo-France : technicien des métiers de la météorologie . </p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master mention sciences de la Terre et des planètes, environnement ; sciences de l'océan, de l'atmosphère et du climat</itsimp>
+<itsimp>Diplôme d'ingénieur de l'Ecole nationale de la météorologie </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55460" csRelFld="55460">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55460</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100579</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Débouchés réduits</inter>
+<p>Même si l'on parle beaucoup de changement climatique, les débouchés pour les climatologues sont encore réduits et ces derniers doivent faire preuve d'une grande mobilité, y compris à l'international, pour débuter ou faire évoluer leur carrière.</p>
+<inter>Surtout dans la recherche</inter>
+<p>Les organismes de recherche, publics ou privés, sont les premiers employeurs des climatologues qui sont souvent associés à d'autres spécialistes. Leurs travaux sont destinés soit au grand public, soit, plus souvent, à des utilisateurs spécifiques qui cherchent à améliorer leurs connaissances scientifiques en la matière.</p>
+<inter>Le privé s'intéresse aussi aux climatologues</inter>
+<p>Un certain nombre d'entreprises ou de collectivités sont à la recherche de conseillers en environnement ou de consultants spécialisés, notamment pour calculer leur empreinte CO2. Les climatologues sont alors bien placés lors du recrutement. L'industrie et les sociétés d'assurances recherchent également des scientifiques capables d'estimer les risques climatiques. Cela constitue un autre débouché qui pourrait de se développer dans les années à venir. </p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir de <sal>2000</sal> euros net par mois (dans les organismes publics). </p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

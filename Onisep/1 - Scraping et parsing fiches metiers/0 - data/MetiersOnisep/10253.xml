@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">animateur/trice socioculturel/le</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">m'occuper d'enfants ou d'adolescents/m'occuper de personnes âgées/animer des activités culturelles, ludiques ou éducatives</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire/saisonnier</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction sociale/fonction animation</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur social/secteur du tourisme/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">animation socio culturelle</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE médical paramédical travail social soins personnels/animateur socio-culturel</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10253</lien_onisep>
+<ROME Level="1B" csRelFld="10253">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="221" csRelFld="221">
+<CSLABELFLD label="">G1202</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Animation d'activités de loisirs</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">G1202</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Animation d'activités culturelles ou ludiques</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="222" csRelFld="222">
+<CSLABELFLD label="">G1203</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Animation d'activités de loisirs</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">G1203</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Animation de loisirs auprès d'enfants ou d'adolescents</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10253">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1637" csRelFld="1637">
+<CSLABELFLD label="">animateur / animatrice de loisirs</CSLABELFLD>
+<MET_ID label="Identifiant">10253</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1637</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">animateur/trice de loisirs</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1637">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1638" csRelFld="1638">
+<CSLABELFLD label="">animateur social / animatrice sociale</CSLABELFLD>
+<MET_ID label="Identifiant">10253</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1638</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">animateur/trice social/e</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1638">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1639" csRelFld="1639">
+<CSLABELFLD label="">animateur sportif / animatrice sportive</CSLABELFLD>
+<MET_ID label="Identifiant">10253</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1639</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">animateur/trice sportif/ve</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1639">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18188" csRelFld="18188">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18188</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10253</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Créer une dynamique de groupe</inter>
+<p>Les actions de l'animateur visent à favoriser l'épanouissement de son public. Tout d'abord, il repère les besoins, les difficultés de communication... parfois les tensions. Puis, il prend le temps d'écouter pour construire une relation de confiance. Enfin, il adapte ses animations aux personnes et au contexte.</p>
+<inter>Auprès des enfants</inter>
+<p>Les municipalités mettant souvent l'accent sur les plus jeunes (accompagnement scolaire et activités péri-scolaires), organise et suit des projets, entouré d'animateurs jeunesse et de quartier </p>
+<inter>Auprès des adolescents</inter>
+<p>Dans une maison des jeunes, il rassemble les adolescents autour de séjours, de manifestations locales, de sorties culturelles ou sportives, d'ateliers vidéo ou internet... Il joue également un rôle d'éducateur en les initiant à la vie en groupe et à la prise d'autonomie.</p>
+<inter>Auprès des seniors</inter>
+<p>Dans une maison de retraite, il incite les personnes âgées à participer à des activités, selon leur goût et leur degré d'autonomie intellectuelle et physique. En foyer de travailleurs migrants, il favorise la bonne intégration des personnes nouvellement arrivées sur le territoire.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18199" csRelFld="18199">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18199</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10253</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Différents diplômes, du niveau du BEP au niveau bac + 3, préparent à l'animation professionnelle.</accr_p> Selon le diplôme, la formation est organisée dans des centres agréés par les directions régionales de la Jeunesse, des Sports et de la Cohésion Sociale (DRJSCS) ou à l'université. Des diplômes non professionnels (BAFA, BASE, BAFD) permettent de travailler pendant les vacances scolaires. Et d'acquérir ainsi une première expérience professionnelle.</p>
+<inter>Niveau BEP</inter>
+<liste>
+<itsimp>
+<em>Brevet d'aptitude professionnelle </em>d'assistant animateur technicien <em>(BAPAAT</em> ) : représente le premier niveau de qualification. Accessible sans diplôme particulier, il nécessite un bon niveau de pratique personnelle. Le BAPAAT permet de se présenter aux concours d'adjoint d'animation et d'opérateur des activités physiques et sportives.</itsimp>
+</liste>
+<inter>Niveau bac</inter>
+<liste>
+<itsimp>
+<em>Brevet professionnel </em>de la jeunesse, de l'éducation populaire et du sport<em> (BPJEPS</em> ) : prépare au métier d'animateur dans une spécialité (gymnastique, sports collectifs, pêche, animation sociale, loisirs tous publics, animation culturelle, techniques de l'information et de la communication...). Accès : BAPAAT, BASE, diplôme national du brevet... Le BPJEPS permet de se présenter au concours d'animateur territorial.</itsimp>
+</liste>
+<inter>Niveau bac + 2</inter>
+<liste>
+<itsimp>
+<em>DUT carrières sociales </em>;</itsimp>
+<itsimp>
+<em>DEUST</em> animation et gestion des activités sportives et culturelles</itsimp>
+<itsimp>
+<em>Diplôme d'Etat </em>de la jeunesse, de l'éducation populaire et du sport  spécialité animation socio-éducative ou culturelle <em>(DE JEPS)</em>
+</itsimp>
+</liste>
+<inter>Niveau bac + 3</inter>
+<liste>
+<itsimp>
+<em>Licences pro</em> métiers de l'animation sociale, socio-éducative et socioculturelle</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18190" csRelFld="18190">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18190</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10253</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un gisement d'emplois</inter>
+<p>Le développement des loisirs et le vieillissement de la population créent de l'emploi. Depuis quelques années, l'animateur socioculturel fait partie des métiers les plus recherchés. L'emploi saisonnier est fréquent.</p>
+<inter>Situations précaires</inter>
+<p>L'animateur débute souvent par une succession d'expériences temporaires. Mais il peut « utiliser » le réseau professionnel pour se stabiliser. Cependant, les associations proposent fréquemment des recrutements à temps partiel. Voire, quelques heures par semaine pour des ateliers à thème. L'animateur doit alors cumuler différents emplois.</p>
+<inter>Mobilité conseillée</inter>
+<p>Ce métier s'exerce souvent dans de petites structures, de 5 à 10 personnes. L'évolution vers des postes à responsabilité reste limitée. Il existe cependant des postes d'encadrement dans les associations et les municipalités. Progresser dans sa carrière implique aussi d'être mobile.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>SMIC</sal>
+</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">fiscaliste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller/manier les chiffres</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur commerce</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">droit fiscal</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100532</lien_onisep>
+<ROME Level="1B" csRelFld="100532">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100532">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="49237" csRelFld="49237">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">49237</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100532</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Une mission de conseil</inter>
+<p>Toutes les activités d'une entreprise sont soumises à des options fiscales, plus ou moins avantageuses. Nouvelle loi de finances, taxes diverses... la législation évolue rapidement dans ce domaine. Le fiscaliste conseille l'entreprise en fonction de ses projets : une implantation à l'étranger, une fusion-acquisition, un investissement imprévu... </p>
+<inter>Trouver la meilleure option fiscale</inter>
+<p>En tenant compte des diverses options offertes, il choisit le régime fiscal le plus intéressant afin que l'entreprise paye le moins d'impôts possible. Il n'oublie pas pour autant de respecter la législation en vigueur. Objectif : éviter un redressement fiscal ! Pour ne manquer aucune nouveauté, ce spécialiste suit de près l'actualité légale et met à jour la documentation sur le sujet. </p>
+<inter>Défendre l'entreprise</inter>
+<p>Enfin, son rôle consiste aussi, en cas de contrôle, à défendre les intérêts de la société qui l'emploie, arguments juridiques à l'appui. En cas de contrôle, il doit pouvoir justifier ses choix fiscaux au regard de la loi.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="49241" csRelFld="49241">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">49241</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100532</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Le parcours d'études classique : licence de droit suivie d'un master à l'université ou dans un IEP (institut d'études politiques).</accr_p> Une trentaine de masters sont spécialisés en droit fiscal : fiscalité internationale (Paris), droit des affaires et fiscalité (Rouen), droit fiscal des affaires (Lille), stratégie fiscale de l'entreprise (Nice)... </p>
+<p>En outre, dans ce domaine qui associe droit et finance, la double compétence est très appréciée des recruteurs. Un exemple : un diplôme de grande école de commerce avec une spécialisation en fiscalité (bac + 5) doublé d'un master en droit fiscal. De leur côté, les avocats fiscalistes ont suivi la formation proposée par les centres régionaux de formation professionnelle des avocats et obtenu le CAPA (certificat d'aptitude à la profession d'avocat).</p>
+<liste>
+<tete>Niveau bac + 5 et plus</tete>
+<itsimp>Master dans le domaine du droit fiscal</itsimp>
+<itsimp>DJCE (diplôme de juriste-conseil d'entreprise)</itsimp>
+<itsimp>Diplôme d'école de commerce, avec une spécialisation en finance</itsimp>
+<itsimp>CAPA (certificat d'aptitude à la profession d'avocat)</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="49239" csRelFld="49239">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">49239</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100532</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des professionnels diplômés</inter>
+<p>La revalorisation de la fonction de juriste, devenue stratégique pour les entreprises, rend les employeurs exigeants. Un master (bac + 5) avec une spécialisation en droit fiscal est désormais indispensable pour séduire les recruteurs. Une double compétence en droit et en commerce/finance est également très appréciée. </p>
+<inter>Une spécialité qui monte</inter>
+<p>Dans un contexte économique difficile, et à l'heure de la mondialisation, le droit fiscal se développe de plus en plus. Il représente un débouché intéressant pour les juristes qui souhaitent se spécialiser dans un domaine à la législation complexe.</p>
+<inter>Plutôt dans les grandes structures</inter>
+<p>Les emplois se situent majoritairement dans les grandes entreprises, notamment internationales, mais toute société en développement a désormais besoin de compétences spécifiques en droit fiscal. Les grands groupes recrutent plus facilement un ou plusieurs fiscalistes pour gérer les diverses activités. </p>
+<p>Cette profession est assez épargnée par la crise, même si les débutants peuvent connaître quelques difficultés depuis 2008. Les fiscalistes ayant 5 à 7 ans d'expérience sont très recherchés.</p>
+<remun>
+<inter>Salaire du débutant </inter>
+<p>De <sal>2500</sal> à 2900 euros brut par mois.</p>
+<postit>
+<p>Source : Expectra, AFJE (Association française des juristes d'entreprise, 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">éducateur/trice spécialisé/e</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller/m'occuper d'handicapés/m'occuper d'enfants ou d'adolescents/enseigner, éduquer/animer des activités culturelles, ludiques ou éducatives</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction sociale</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur social/secteur santé/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">éducation spécialisée</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE médical paramédical travail social soins personnels/éducateur spécialisé</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10249</lien_onisep>
+<ROME Level="1B" csRelFld="10249">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="455" csRelFld="455">
+<CSLABELFLD label="">K1207</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Action sociale, socio-éducative et socio-culturelle</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K1207</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Intervention socioéducative</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10249">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18995" csRelFld="18995">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18995</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10249</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Restaurer l'autonomie</inter>
+<p>Qu'il travaille auprès de jeunes souffrant de problèmes (familiaux, scolaires, de comportement), ou d'adultes en difficulté (sociale, physique), de personnes handicapées mentales... l'objectif de l'éducateur reste le même : préserver et restaurer leur autonomie en les valorisant par le biais d'activités socio-éducatives (sorties, ateliers, soutien scolaire, aide à l'insertion...).</p>
+<inter>Accompagner, organiser, aider</inter>
+<p>En internat, il accompagne un groupe de jeunes, hors du temps scolaire, pour les repas, la veillée et au moment du coucher. En externat, il s'occupe d'adolescents toute la journée, en collaboration avec les enseignants. En foyer d'accueil et d'hébergement, il organise la vie quotidienne des jeunes travailleurs ou des mères célibataires, et les aide à surmonter leurs difficultés. </p>
+<inter>Favoriser l'insertion sociale</inter>
+<p>Dans le cadre de l'aide éducative en milieu ouvert (AEMO), l'éducateur est mandaté par une autorité administrative (aide sociale à l'enfance) ou judiciaire pour travailler auprès d'un mineur en difficulté. Il peut aussi intervenir dans les quartiers difficiles pour favoriser l'insertion sociale des jeunes.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16800" csRelFld="16800">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16800</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10249</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Pour exercer ce métier, il faut obtenir le diplôme d'État d'éducateur spécialisé (DEES), préparé dans des écoles du travail social, qui organisent des épreuves de sélection. </accr_p>
+</p>
+<p>La formation dure 3 ans pour les titulaires du bac ou d'un diplôme équivalent, ou 1 an pour les titulaires du DUT carrières sociales option éducation spécialisée. Les titulaires du diplôme de moniteur-éducateur bénéficient d'allègements de formation.</p>
+<inter>Niveau bac + 3 (reconnu bac + 2)</inter>
+<liste>
+<itsimp>
+<em>Diplôme d'État </em>d'éducateur spécialisé (DEES) </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16791" csRelFld="16791">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16791</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10249</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Marché de l'emploi favorable</inter>
+<p>Environ 80 % des 55 000 éducateurs spécialisés sont employés par le secteur associatif. Le nombre des diplômés ne parvient pas à couvrir les besoins de la profession. En particulier, en région parisienne et dans les internats.</p>
+<inter>Passer des concours</inter>
+<p>Différents concours permettent de travailler dans l'éducation spécialisée : assistant socio-éducatif (fonction publique hospitalière), assistant socio-éducatif territorial (fonction publique territoriale), éducateur spécialisé dans les instituts nationaux de jeunes sourds et de jeunes aveugles, éducateur dans les établissements de la protection judiciaire de la jeunesse, conseiller d'insertion et de probation dans les établissements de l'administration pénitentiaire (fonction publique d'État)...</p>
+<inter>Préparer d'autres diplômes</inter>
+<p>Avec quelques années, l'éducateur spécialisé peut devenir chef de service ou de directeur d'établissement. Il peut préparer d'autres diplômes : le DE d'ingénierie sociale (DEIS), le certificat d'aptitude aux fonctions d'encadrement et de responsabilité d'unité d'intervention sociale (CAFERUIS), le certificat d'aptitude aux fonctions de directeur d'établissement ou de service d'intervention sociale (CAFDES), le DE médiateur familial...</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>A partir du <sal>Smic</sal> et jusqu'à 1530 euros brut par mois.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

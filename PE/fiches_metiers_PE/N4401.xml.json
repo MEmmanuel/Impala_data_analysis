@@ -1,0 +1,313 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente de circulation du r\u00e9seau ferroviaire",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de circulation du r\u00e9seau ferroviaire",
+            "code_ogr": "10399"
+        },
+        {
+            "libelle_court": "Agent / Agente de transport exploitation ferroviaire",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de transport exploitation ferroviaire",
+            "code_ogr": "10637"
+        },
+        {
+            "libelle_court": "Aiguilleur / Aiguilleuse du r\u00e9seau ferr\u00e9",
+            "priorisation": "1",
+            "libelle": "Aiguilleur / Aiguilleuse du r\u00e9seau ferr\u00e9",
+            "code_ogr": "10903"
+        },
+        {
+            "libelle_court": "Chef de gare",
+            "priorisation": "1",
+            "libelle": "Chef de gare",
+            "code_ogr": "12152"
+        },
+        {
+            "libelle_court": "Chef op\u00e9rateur(trice) mouvement s\u00e9curit\u00e9 r\u00e9seau ferroviaire",
+            "priorisation": "1",
+            "libelle": "Chef op\u00e9rateur / op\u00e9ratrice de mouvement s\u00e9curit\u00e9 du r\u00e9seau ferroviaire",
+            "code_ogr": "12582"
+        },
+        {
+            "libelle_court": "Chef r\u00e9gulateur / r\u00e9gulatrice du r\u00e9seau ferroviaire",
+            "priorisation": "1",
+            "libelle": "Chef r\u00e9gulateur / r\u00e9gulatrice du r\u00e9seau ferroviaire",
+            "code_ogr": "12600"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice de circulation du r\u00e9seau ferroviaire",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de circulation du r\u00e9seau ferroviaire",
+            "code_ogr": "17070"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur(trice) de mouvement s\u00e9curit\u00e9 du r\u00e9seau ferroviaire",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de mouvement s\u00e9curit\u00e9 du r\u00e9seau ferroviaire",
+            "code_ogr": "17125"
+        },
+        {
+            "libelle_court": "R\u00e9gulateur / R\u00e9gulatrice du r\u00e9seau ferr\u00e9",
+            "priorisation": "1",
+            "libelle": "R\u00e9gulateur / R\u00e9gulatrice du r\u00e9seau ferr\u00e9",
+            "code_ogr": "18495"
+        },
+        {
+            "libelle_court": "R\u00e9partiteur / R\u00e9partitrice du r\u00e9seau ferroviaire",
+            "priorisation": "1",
+            "libelle": "R\u00e9partiteur / R\u00e9partitrice du r\u00e9seau ferroviaire",
+            "code_ogr": "18534"
+        },
+        {
+            "libelle_court": "Responsable d'activit\u00e9 d'exploitation ferroviaire",
+            "priorisation": "1",
+            "libelle": "Responsable d'activit\u00e9 d'exploitation ferroviaire",
+            "code_ogr": "18607"
+        },
+        {
+            "libelle_court": "Responsable de circulation du r\u00e9seau ferroviaire",
+            "priorisation": "1",
+            "libelle": "Responsable de circulation du r\u00e9seau ferroviaire",
+            "code_ogr": "18685"
+        },
+        {
+            "libelle_court": "Responsable unit\u00e9 op\u00e9rationnelle d'exploitation r\u00e9seau ferr\u00e9",
+            "priorisation": "1",
+            "libelle": "Responsable d'unit\u00e9 op\u00e9rationnelle d'exploitation du r\u00e9seau ferr\u00e9",
+            "code_ogr": "19054"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne de circulation du r\u00e9seau ferr\u00e9",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de circulation du r\u00e9seau ferr\u00e9",
+            "code_ogr": "19722"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "V\u00e9rifier la s\u00e9curisation des voies et des quais \u00e0 l'arriv\u00e9e/d\u00e9part des trains (signalisation, mont\u00e9e/descente des voyageurs, ...) et lancer les ordres de d\u00e9part en fonction de la planification",
+            "code_ogr": "3431",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ajuster la signalisation et actionner les syst\u00e8mes de manoeuvre d'aiguillage selon la destination des trains",
+            "code_ogr": "611",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler les dispositifs de s\u00e9curit\u00e9 du secteur d'intervention (protection du personnel sur voie, espacement entre les trains, ...) et intervenir selon les besoins",
+            "code_ogr": "1129",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mettre en place les mesures palliatives en cas de situation perturb\u00e9e (information voyageurs, transport de remplacement, ...)",
+            "code_ogr": "2344",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Adapter les trac\u00e9s de parcours des trains en cas de dysfonctionnements dans le p\u00e9rim\u00e8tre d'intervention",
+            "code_ogr": "607",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports de suivi d'activit\u00e9 et transmettre les informations au service concern\u00e9",
+            "code_ogr": "3600",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "N4302",
+            "libelle_rome_cible": "Contr\u00f4le des transports en commun"
+        },
+        {
+            "code_rome_cible": "N4402",
+            "libelle_rome_cible": "Exploitation et manoeuvre des remont\u00e9es m\u00e9caniques"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac (scientifique, technologique, professionnel, ...).\nLes fonctions de technicien de circulation et les fonctions d'encadrement d'unit\u00e9s op\u00e9rationnelles (chef de gare, chef de circulation, ...) sont accessibles \u00e0 partir d'un dipl\u00f4me de niveau Bac+2 (BTS, DUT, L2, ...).\n",
+    "activite_specifique": [
+        {
+            "libelle": "Elaborer la composition de trains (types et nombre de wagons) en fonction du flux de passagers et/ou du fret",
+            "code_ogr": "5626",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller la circulation des trains et r\u00e9guler le trafic en cas de retard, de panne ou d'accident",
+            "code_ogr": "9882",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Organiser l'activit\u00e9 d'une ou plusieurs unit\u00e9s op\u00e9rationnelles du r\u00e9seau ferr\u00e9 et mettre en place des partenariats locaux",
+            "code_ogr": "7744",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accueillir les nouveaux salari\u00e9s et favoriser leur int\u00e9gration dans la structure",
+            "code_ogr": "3638",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises de transport ferroviaire, en contact avec diff\u00e9rents intervenants (conducteurs, agents de manoeuvre, agents commerciaux, ...) parfois en contact avec les clients.\nElle s'exerce sur des lieux d'exploitation ferroviaire (gare de voyageurs, gare de triage ou de fret, terminus, poste d'aiguillage, ...) parfois en milieu souterrain (m\u00e9tro) et varie selon le site d'affectation (zone de quai, poste d'aiguillage, terminus, gare de voyageurs, Poste de Commandement Central -PCC-, ...).\nL'activit\u00e9 peut s'exercer par roulement, les fins de semaine, jours f\u00e9ri\u00e9s, de nuit et \u00eatre soumise \u00e0 des astreintes.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de commande d'aiguillage \u00e9lectrom\u00e9canique automatis\u00e9e",
+            "code_ogr": "21184",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils de radiocommunication",
+            "code_ogr": "21472",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de console de visualisation et de r\u00e9gulation de trafic",
+            "code_ogr": "21191",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de transport ferroviaire",
+            "code_ogr": "23891",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "En ext\u00e9rieur",
+            "code_ogr": "23378",
+            "code_type_section_env": "3"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "En sous-sol",
+            "code_ogr": "23382",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Principes de la relation client",
+            "code_ogr": "22323",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles et consignes de s\u00e9curit\u00e9",
+            "code_ogr": "22656",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisation et fonctionnement du r\u00e9seau ferr\u00e9",
+            "code_ogr": "22259",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Code de circulation ferroviaire",
+            "code_ogr": "21725",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de gestion d'un centre du r\u00e9seau ferr\u00e9 (gare, station, ...)",
+            "code_ogr": "22610",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nSurveille et coordonne les mouvements des trains de voyageurs ou de marchandises (arriv\u00e9e/d\u00e9part, signaux, aiguillage, protection des voies, ...) selon les r\u00e8gles de s\u00e9curit\u00e9 des biens et des personnes, les imp\u00e9ratifs du trafic (horaire, vitesse, ...) et les al\u00e9as (panne, incident technique, retard, ...).\nPeut organiser l'activit\u00e9 d'une ou plusieurs unit\u00e9s op\u00e9rationnelles (gare, station, terminus, ...).\nPeut coordonner la circulation des trains (r\u00e9gulation du trafic en Poste Central de Commandement -PCC-, ...) d'une ou plusieurs lignes (m\u00e9tro, RER, ...).\nPeut encadrer une \u00e9quipe.\n",
+    "intitule": "Circulation du r\u00e9seau ferr\u00e9",
+    "code_ogr": "534",
+    "code_rome": "N4401",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "N4201",
+            "libelle_rome_cible": "Direction d'exploitation des transports routiers de marchandises"
+        },
+        {
+            "code_rome_cible": "N4202",
+            "libelle_rome_cible": "Direction d'exploitation des transports routiers de personnes"
+        },
+        {
+            "code_rome_cible": "N4203",
+            "libelle_rome_cible": "Intervention technique d'exploitation des transports routiers de marchandises"
+        },
+        {
+            "code_rome_cible": "N4204",
+            "libelle_rome_cible": "Intervention technique d'exploitation des transports routiers de personnes"
+        },
+        {
+            "code_rome_cible": "N4301",
+            "libelle_rome_cible": "Conduite sur rails"
+        }
+    ]
+}

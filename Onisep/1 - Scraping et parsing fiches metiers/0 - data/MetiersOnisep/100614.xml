@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">administrateur/trice de logiciels de laboratoire</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">programmer, créer du contenu numérique</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction exploitation informatique</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur santé</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">sécurité informatique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100614</lien_onisep>
+<ROME Level="1B" csRelFld="100614">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="603" csRelFld="603">
+<CSLABELFLD label="">M1805</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Systèmes d'information et de télécommunication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1805</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Études et développement informatique</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100614">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56042" csRelFld="56042">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56042</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100614</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>De nombreuses données</inter>
+<p>Gestion des rendez-vous et de la remise des résultats, archivage des données, production des rapports d'analyses... autant d'étapes traitées dans les laboratoires par des logiciels ou progiciels coûteux et complexes. L'administrateur de logiciels est en charge de l'ensemble des systèmes de gestion des données du laboratoire (ou LIMS pour son équivalent en anglais). Dans ce secteur où les normes de sécurité sont draconiennes, l'informatique n'échappe pas à la règle.</p>
+<inter>Les bons choix</inter>
+<p>La concurrence est forte pour fournir les labos en nouveaux logiciels. Le premier rôle de l'administrateur est donc de faire le tri parmi l'existant en faisant une analyse fine des besoins avant de construire un appel d'offres. Autant dire qu'avec des coûts de licence utilisateur à 4 chiffres il n'a pas intérêt à se tromper ! Une fois le choix arrêté, il devra paramétrer les nouveaux outils en fonction des besoins spécifiques de son entreprise et s'assurer de leur bon fonctionnement grâce à des tests et enfin un plan de validation.</p>
+<inter>Des tâches quotidiennes</inter>
+<p>Parmi les autres tâches de l'administrateur : prévoir et mettre en oeuvre un plan de sauvegarde des données, résoudre les problèmes qui pourront se poser en cours d'exploitation, installer les nouvelles versions des progiciels... </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56046" csRelFld="56046">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56046</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100614</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>La plupart du temps, l'administrateur de logiciels de laboratoire est titulaire d'un bac + 3 au minimum. Un bac + 2 permet aussi d'exercer ce métier... mais avec une certaine expérience préalable.</p>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence pro mention métiers de l'informatique : systèmes d'informaton et gestion des bases de données, ou, administration et sécurité des systèmes...</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master mention informatique ou MIAGE, ou diplôme d'ingénieur spécialisé en génie logiciel</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56044" csRelFld="56044">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56044</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100614</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des débouchés constants</inter>
+<p>Aujourd'hui, avec une informatique omniprésente dans les laboratoires, la fonction d'administrateur de logiciels y est devenue incontournable. D'autant qu'avec le vieillissement de la population, l'activité des laboratoires d'analyses médicales n'est pas près de se tarir : ces professionnels n'ont donc pas de souci à se faire pour l'avenir.</p>
+<inter>Des évolutions possibles</inter>
+<p>Après quelques années d'expérience, l'administrateur de logiciels de laboratoire peut, par exemple, s'orienter vers la direction d'un parc informatique ou accéder à la direction d'un service informatique. Il peut également aller travailler chez un prestataire éditeur de logiciels.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Il est variable en fonction du lieu d'exercice, du diplôme d'origine et du périmètre du poste.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

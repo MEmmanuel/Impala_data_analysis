@@ -1,0 +1,467 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Arboriste",
+            "priorisation": "1",
+            "libelle": "Arboriste",
+            "code_ogr": "11105"
+        },
+        {
+            "libelle_court": "Arboriste grimpeur / grimpeuse",
+            "priorisation": "1",
+            "libelle": "Arboriste grimpeur / grimpeuse",
+            "code_ogr": "11106"
+        },
+        {
+            "libelle_court": "B\u00fbcheron / B\u00fbcheronne",
+            "priorisation": "1",
+            "libelle": "B\u00fbcheron / B\u00fbcheronne",
+            "code_ogr": "11606"
+        },
+        {
+            "libelle_court": "B\u00fbcheron \u00e9lagueur / B\u00fbcheronne \u00e9lagueuse",
+            "priorisation": "1",
+            "libelle": "B\u00fbcheron \u00e9lagueur / B\u00fbcheronne \u00e9lagueuse",
+            "code_ogr": "11607"
+        },
+        {
+            "libelle_court": "Charbonnier / Charbonni\u00e8re",
+            "priorisation": "1",
+            "libelle": "Charbonnier / Charbonni\u00e8re",
+            "code_ogr": "11740"
+        },
+        {
+            "libelle_court": "Commis / Commise de coupe",
+            "priorisation": "1",
+            "libelle": "Commis / Commise de coupe",
+            "code_ogr": "12755"
+        },
+        {
+            "libelle_court": "Ehouppeur / Ehouppeuse",
+            "priorisation": "1",
+            "libelle": "Ehouppeur / Ehouppeuse",
+            "code_ogr": "14607"
+        },
+        {
+            "libelle_court": "Elagueur / Elagueuse",
+            "priorisation": "1",
+            "libelle": "Elagueur / Elagueuse",
+            "code_ogr": "14608"
+        },
+        {
+            "libelle_court": "Elagueur / Elagueuse espaces verts",
+            "priorisation": "1",
+            "libelle": "Elagueur / Elagueuse espaces verts",
+            "code_ogr": "14609"
+        },
+        {
+            "libelle_court": "Elagueur-botteur / Elagueuse-botteuse",
+            "priorisation": "1",
+            "libelle": "Elagueur-botteur / Elagueuse-botteuse",
+            "code_ogr": "14610"
+        },
+        {
+            "libelle_court": "Elagueur-grimpeur / Elagueuse-grimpeuse",
+            "priorisation": "1",
+            "libelle": "Elagueur-grimpeur / Elagueuse-grimpeuse",
+            "code_ogr": "14611"
+        },
+        {
+            "libelle_court": "Grimpeur-\u00e9lagueur / Grimpeuse-\u00e9lagueuse",
+            "priorisation": "1",
+            "libelle": "Grimpeur-\u00e9lagueur / Grimpeuse-\u00e9lagueuse",
+            "code_ogr": "15429"
+        },
+        {
+            "libelle_court": "Homme / Femme de pied",
+            "priorisation": "1",
+            "libelle": "Homme / Femme de pied",
+            "code_ogr": "38435"
+        },
+        {
+            "libelle_court": "Ouvrier / Ouvri\u00e8re d'exploitation foresti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Ouvrier / Ouvri\u00e8re d'exploitation foresti\u00e8re",
+            "code_ogr": "17483"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier la commande (lieu d'intervention, taille, coupe, ...) et recenser les arbres \u00e0 couper ou \u00e9laguer (marquage, rep\u00e9rage, ...)",
+            "code_ogr": "2030",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9terminer l'abattage ou l'\u00e9lagage selon la trajectoire de chute des arbres, l'environnement et les conditions atmosph\u00e9riques",
+            "code_ogr": "1402",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mettre en place les syst\u00e8mes de r\u00e9tention de l'arbre ou des branches (c\u00e2bles, tire-forts, sangles, poulies, ...)",
+            "code_ogr": "2348",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser l'abattage des arbres d\u00e9sign\u00e9s (positionnement des coins, tron\u00e7onnage de la base, ...) selon la trajectoire de chute voulue",
+            "code_ogr": "2785",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaguer les branches selon le type de taille et la vari\u00e9t\u00e9 des arbres",
+            "code_ogr": "1770",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ebrancher l'arbre et le d\u00e9biter au sol aux dimensions voulues en fonction de son usage (artisanat, industrie, chauffage)",
+            "code_ogr": "1493",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la maintenance pr\u00e9ventive/curative de premier niveau des \u00e9quipements",
+            "code_ogr": "3534",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports de suivi d'activit\u00e9 (lieu, dur\u00e9e, type de coupe, ...) et les transmettre au commanditaire (propri\u00e9taire, technicien conseil, ...)",
+            "code_ogr": "3048",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "8",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un CAP/BEP Agricole en travaux forestiers et b\u00fbcheronnage.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans le m\u00eame secteur sans dipl\u00f4me particulier.\nUn dipl\u00f4me de niveau Bac (Bac Professionnel, Brevet de Technicien Agricole, ...) en gestion et conduite de travaux forestiers peut \u00eatre demand\u00e9 pour les fonctions d'encadrement.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Etablir des documents commerciaux :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Devis d'intervention",
+            "code_ogr": "5804",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Estimation de valeurs de coupes",
+            "code_ogr": "5805",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Monter les accessoires de coupe des outils, des engins d'abattage ou d'\u00e9lagage et v\u00e9rifier les syst\u00e8mes et \u00e9quipements de s\u00e9curit\u00e9",
+            "code_ogr": "7608",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Classer les arbres coup\u00e9s selon la destination du bois (chauffage, oeuvre, ...) et les ranger (enst\u00e9rage, empilage, ...)",
+            "code_ogr": "3875",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Positionner et r\u00e9gler une machine d'abattage (inclinaison des t\u00eates, pression des rouleaux \u00e9brancheurs, vitesse de coupe, ...)",
+            "code_ogr": "7896",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9barder des grumes et les empiler, les stocker",
+            "code_ogr": "4430",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9terminer et r\u00e9aliser des actions curatives sur un arbre apr\u00e8s intervention",
+            "code_ogr": "4659",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de groupements de propri\u00e9taires forestiers, des Entreprises de Travaux Forestiers -ETF-, l'Office National des For\u00eats -ONF-, des collectivit\u00e9s territoriales ou pour le compte de particuliers, en relation avec diff\u00e9rents intervenants (techniciens forestiers, conducteurs d'engins, ouvriers d'espaces verts, ... ).\nElle varie selon le type d'intervention (jardins, espaces verts, for\u00eats, \u00e9lagage en zone urbaine, ...) et les saisons.\nElle peut s'exercer les fins de semaine et \u00eatre soumise \u00e0 des astreintes.\nLa r\u00e9mun\u00e9ration est g\u00e9n\u00e9ralement constitu\u00e9e d'un fixe ou s'effectue au rendement (cubage r\u00e9alis\u00e9).\nL'activit\u00e9 peut s'effectuer en hauteur, sur voie de circulation routi\u00e8re ou pi\u00e9tonne.\nLe port d'\u00e9quipements de protection (chaussures de s\u00e9curit\u00e9, veste renforc\u00e9e anti-coupe, harnais de s\u00e9curit\u00e9, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils de taille (s\u00e9cateur, tron\u00e7onneuse, ...)",
+            "code_ogr": "21473",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'engins agricoles",
+            "code_ogr": "21413",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Aff\u00fbtage",
+            "code_ogr": "20747",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soudage",
+            "code_ogr": "21100",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'engins forestiers",
+            "code_ogr": "21416",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chiffrage/calcul de co\u00fbt",
+            "code_ogr": "20813",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion de stocks",
+            "code_ogr": "21259",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Centre R\u00e9gional de la Propri\u00e9t\u00e9 Foresti\u00e8re",
+            "code_ogr": "23789",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de travaux forestiers",
+            "code_ogr": "23904",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Groupement de propri\u00e9taires forestiers",
+            "code_ogr": "23955",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Office National des For\u00eats",
+            "code_ogr": "24011",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Au domicile de particulier",
+            "code_ogr": "23375",
+            "code_type_section_env": "3"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Physiologie v\u00e9g\u00e9tale",
+            "code_ogr": "22289",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des \u00e9cosyst\u00e8mes",
+            "code_ogr": "21572",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de taille de v\u00e9g\u00e9taux",
+            "code_ogr": "23133",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de coupe et d'abattage",
+            "code_ogr": "22860",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de grimper",
+            "code_ogr": "22936",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'haubanage",
+            "code_ogr": "23213",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9",
+            "code_ogr": "22621",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de soins aux arbres",
+            "code_ogr": "23121",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'application de produits phytosanitaires",
+            "code_ogr": "22779",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de gestion de stocks",
+            "code_ogr": "22609",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise des op\u00e9rations de coupe d'arbres (abattage, \u00e9lagage, ...) sur sites forestiers, voies d\u00e9partementales, parcs et jardins, ..., selon les r\u00e8gles de s\u00e9curit\u00e9, les normes environnementales et les imp\u00e9ratifs de production (d\u00e9lais, quantit\u00e9s, ...).\nPeut d\u00e9barder les grumes. Peut estimer la valeur de coupes.\nPeut diriger une \u00e9quipe ou diriger une entreprise de b\u00fbcheronnage, d'\u00e9lagage, d'espaces verts.\n",
+    "intitule": "B\u00fbcheronnage et \u00e9lagage",
+    "code_ogr": "7",
+    "code_rome": "A1201",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "A1101",
+            "libelle_rome_cible": "Conduite d'engins agricoles et forestiers"
+        },
+        {
+            "code_rome_cible": "A1203",
+            "libelle_rome_cible": "Entretien des espaces verts"
+        },
+        {
+            "code_rome_cible": "A1205",
+            "libelle_rome_cible": "Sylviculture"
+        },
+        {
+            "code_rome_cible": "A1405",
+            "libelle_rome_cible": "Arboriculture et viticulture"
+        },
+        {
+            "code_rome_cible": "A1414",
+            "libelle_rome_cible": "Horticulture et mara\u00eechage"
+        },
+        {
+            "code_rome_cible": "F1702",
+            "libelle_rome_cible": "Construction de routes et voies"
+        },
+        {
+            "code_rome_cible": "F1705",
+            "libelle_rome_cible": "Pose de canalisations"
+        }
+    ]
+}

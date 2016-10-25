@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">data manager</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">programmer, créer du contenu numérique/contrôler la qualité, expertiser/manier les chiffres</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction exploitation informatique</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur santé/secteur industrie pharmaceutique/secteur assurances/secteur banque/secteur commerce</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">statistiques</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100660</lien_onisep>
+<ROME Level="1B" csRelFld="100660">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="600" csRelFld="600">
+<CSLABELFLD label="">M1802</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Systèmes d'information et de télécommunication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1802</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Expertise et support en systèmes d'information</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100660">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56624" csRelFld="56624">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56624</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100660</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Spécialiste des bases de données</inter>
+<p>Sachant identifier les données vitales d'une entreprise (références clients, données produits et fournisseurs, résultats d'études cliniques, etc.), le data manager les recueille et les organise dans une base pour les rendre exploitables et " parlantes ". </p>
+<inter>Une attention constante </inter>
+<p>À lui de trouver les meilleures solutions d'hébergement pour traiter, archiver et indexer ces précieuses données. Responsable de la qualité et de la sécurité des fichiers, il veille, au quotidien, à l'enrichissement des bases de données, les nettoie en faisant la chasse aux doublons, par exemple, met à jour et établit un descriptif précis des informations disponibles pour les différents services de l'entreprise. Il peut également être amené à établir des modèles statistiques, ou à faire des extractions et des analyses, en fonction des demandes.</p>
+<inter>Une dimension stratégique</inter>
+<p>Mais son rôle est également stratégique. Il doit anticiper les changements dans son secteur d'activité, récolter de nouvelles données, effectuer des extractions, générer des statistiques ou mettre en cohérence différentes sources pour mettre en lumière tel ou tel phénomène. Dans le secteur médical, le data manager participe à un projet de recherche en gérant notamment les données d'études cliniques.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56628" csRelFld="56628">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56628</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100660</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Si la demande pour ce métier se situe beaucoup à bac + 5, la pénurie de spécialistes big data laisse une chance aux titulaires d'un bac + 2. Pour eux, l'alternance ou les stages longs sont particulièrement recommandés car ils leur permettront d'engranger de l'expérience et, le cas échéant, de faire leurs preuves. Une double compétence (en marketing notamment) ou la bonne connaissance d'un secteur pourra également faire la différence.</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>DUT statistique et informatique décisionnelle</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence pro mention métiers du décisionnel et de la statistique, spécialisée en data mining (traitement de l'information pour la décision)</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master mention économétrie, statistiques ; mention mathématiques appliquées, statistiques, ou mention informatique ou MIAGE spécialisé en gestion de données, traitement de l'information pour la décision...</itsimp>
+<itsimp>Diplôme d'ingénieur spécialisé en statistique ou en data management </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56626" csRelFld="56626">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56626</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100660</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des secteurs historiques...</inter>
+<p>Au début des années 2000, on trouvait essentiellement les data managers dans le secteur de la banque et de l'assurance, dans les laboratoires pharmaceutiques ou les instituts de sondage. Aujourd'hui, ces spécialistes des données ne sont plus cantonnés à ces seuls secteurs.</p>
+<inter>... aux nouveaux venus</inter>
+<p>Le data manager peut désormais travailler au sein de tout type d'entreprise gérant un nombre important de données. Les professionnels de la VPC (vente par correspondance) et du e-commerce, ainsi que les entreprises du Web par exemple, sont particulièrement friands de ces spécialistes, surtout s'ils ont une coloration marketing. De nombreuses agences spécialisées ou start-up sont également sur le secteur du big data et recrutent des experts en bases de données.</p>
+<inter>De belles perspectives de carrière</inter>
+<p>Après quelques années d'expérience, le data manager peut devenir responsable de système d'information ou bien bio-statisticien, s'il exerce dans le secteur très porteur de la santé. Il peut également devenir expert ou créer sa propre entreprise spécialisée.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2000</sal> euros brut par mois. </p>
+<postit>
+<p>Source : Cadremploi, 2015.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

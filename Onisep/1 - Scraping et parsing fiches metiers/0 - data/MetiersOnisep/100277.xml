@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">attaché/e de recherche clinique</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">contrôler la qualité, expertiser/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction essais</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie pharmaceutique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">pharmacie industrielle/pharmacie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE matériaux laboratoire organisation industrielle/attaché de recherche clinique</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100277</lien_onisep>
+<ROME Level="1B" csRelFld="100277">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="411" csRelFld="411">
+<CSLABELFLD label="">J1201</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Praticiens médico-techniques</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">J1201</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Biologie médicale</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100277">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17717" csRelFld="17717">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17717</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100277</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Faire tester les médicaments</inter>
+<p>Les tests sur l'homme représentent un moment décisif dans la mise au point d'un médicament. Trait d'union entre la recherche-développement et les médecins " investigateurs ", l'attaché de recherche clinique se charge de mettre en place ces essais cliniques sur des patients, sous la houlette d'un chef de projet.</p>
+<inter>Présenter le protocole</inter>
+<p>L'ARC commence par sélectionner les médecins participant aux essais en faisant la tournée des centres hospitaliers. Puis il leur présente le protocole, documents à l'appui : le mode d'administration du médicament (à avaler, en injection...), les examens à réaliser, l'âge requis pour les patients volontaires.</p>
+<inter>Garantir les données cliniques</inter>
+<p>L'ARC doit aussi initier les médecins au recueil des données cliniques dans un cahier d'observations, puis soumettre ce protocole aux autorités sanitaires. Il prépare et vérifie le matériel et les lots de médicaments à remettre aux praticiens. </p>
+<p>Pendant toute la durée des essais, il veille au respect de la procédure en suivant le dossier de chaque patient. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17834" csRelFld="17834">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17834</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100277</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le niveau d'études scientifiques demandé varie en fonction de l'employeur et du type de médicament à tester. Mais 40 % des ARC en exercice sont biologistes d'origine. Plusieurs diplômes permettent d'accéder au métier à partir d'un bac + 5. Avec de l'expérience, la licence professionnelle métiers de la recherche clinique ou le DIUFARC (diplôme interuniversitaire de formation des assistants de recherche clinique) peuvent convenir. Le DIUFARC se prépare en 1 an, après la 2<exp>e</exp> année de licence (L2) de biologie ou après un diplôme d'État (DE) d'infirmier.</p>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>DIUFARC</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master en bio-informatique, épidémiologie, statistiques, santé publique... </itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 6</tete>
+<itsimp>Diplôme d'État de docteur en pharmacie</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 9 et plus</tete>
+<itsimp>Diplôme d'État de docteur en médecine (bac + 9 à bac + 11, selon la spécialité)</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17940" csRelFld="17940">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17940</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100277</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Une profession jeune</inter>
+<p>Les effectifs d'attachés de recherche clinique sont assez importants, car les autorisations de mise sur le marché (AMM) des nouveaux médicaments sont de plus en plus difficiles à obtenir et les réglementations de plus en plus contraignantes. Toutefois, la profession est dans l'ensemble constituée de jeunes pharmaciens, d'où un renouvellement qui reste limité.</p>
+<inter>Délocalisation et réductions d'effectifs</inter>
+<p>Les entreprises du médicament ont tendance à délocaliser un certain nombre d'études vers d'autres pays européens afin de limiter les coûts financiers. Conséquence : une réduction des effectifs d'attachés de recherche clinique au sein des équipes françaises.</p>
+<inter>Des perspectives d'évolution</inter>
+<p>Avec de l'expérience, l'attaché de recherche clinique peut espérer coordonner des études à un niveau international. Le métier est aussi un tremplin pour évoluer vers l'assurance qualité, les affaires réglementaires, la communication scientifique ou encore le marketing du médicament.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Variable en fonction du lieu d'exercice et du type d'entreprise.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

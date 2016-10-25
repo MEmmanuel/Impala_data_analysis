@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">pisteur/euse secouriste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">défendre, secourir, surveiller/me déplacer souvent/travailler dehors/travailler en contact avec la nature/faire du sport</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">saisonnier</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur des sports</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">secourisme/sport</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE nettoyage assainissement environnement sécurité</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100689</lien_onisep>
+<ROME Level="1B" csRelFld="100689">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="482" csRelFld="482">
+<CSLABELFLD label="">K1705</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Défense, sécurité publique et secours</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K1705</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Sécurité civile et secours</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100689">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1852" csRelFld="1852">
+<CSLABELFLD label="">artificier / artificière</CSLABELFLD>
+<MET_ID label="Identifiant">100689</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">15/11/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1852</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">artificier/ère</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1852">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1850" csRelFld="1850">
+<CSLABELFLD label="">maître-chien d'avalanches</CSLABELFLD>
+<MET_ID label="Identifiant">100689</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">15/11/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1850</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">maître-chien d'avalanches</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1850">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1851" csRelFld="1851">
+<CSLABELFLD label="">observateur / observatrice nivo-météorologiste</CSLABELFLD>
+<MET_ID label="Identifiant">100689</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">15/11/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1851</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">observateur/trice nivo-météorologiste</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1851">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="59060" csRelFld="59060">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59060</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100689</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Sécurité et prévention</inter>
+<p>Dépendant du service des pistes de la station, le pisteur secouriste est chargé de la sécurité sur les pistes et du secours sur tout le domaine skiable. Le matin, il parcourt les pistes, vérifie ou remet en place les filets et les matelas de protection, les balises, et plante les panneaux pour signaler un danger. Lorsque la sécurité est garantie, il ouvre le domaine. Le soir, il ferme les pistes. Il s'occupe aussi de la prévention, en vérifiant le damage le matin ou en déclenchant des avalanches pour sécuriser le domaine skiable.</p>
+<p>Les pisteurs secouristes option nordique sont chargés de la prévention, de la sécurité, du balisage, de l'aménagement et du damage des pistes de fond.</p>
+<inter>Conseils et secours</inter>
+<p>Le pisteur accueille, informe et conseille les skieurs pour les orienter et éviter les accidents.</p>
+<p>Quand une personne se blesse, le pisteur intervient rapidement avec son traîneau ou sa barquette. Tout en rassurant le blessé, il peut assurer les premiers secours, poser une attelle, procéder à l'évacuation ou participer à une évacuation téléportée. Il peut être amené à rechercher une personne disparue sous une avalanche ou égarée sur le domaine skiable après la fermeture des pistes : des responsabilités importantes, quelles que soient les conditions météo.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="59064" csRelFld="59064">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59064</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100689</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<inter>Le brevet national de pisteur secouriste</inter>
+<p>Le brevet national de pisteur secouriste 1<exp>er</exp> degré comprend 2 options : ski alpin ou ski nordique. Pour accéder à la formation, il faut avoir au moins 18 ans et être titulaire de l'unité d'enseignement PSC1 (prévention et secours civiques de niveau 1). Il est même préférable de posséder l'unité d'enseignement PSE2 (premiers secours en équipe de niveau 2), qui donne la qualification d'équipier secouriste. Ouverte à tous, la formation au PSC1 dure une dizaine d'heures (préparation par l'Association nationale des professionnels de la sécurité des pistes ou dans les centres de la Croix-Rouge, de la Protection civile, des sapeurs-pompiers...). Pour suivre la formation de pisteur secouriste, il faut en outre être titulaire de la flèche ou du géant de vermeil, et réussir un test de ski alpin ou nordique.</p>
+<p>La formation dure 4 semaines : 1 jour pour le test technique de ski, 5 jours pour le module connaissance générale du milieu montagnard, 3 semaines pour le module alpin ou nordique.</p>
+<p>Son coût est d'environ 1500 euros, mais il existe des possibilités d'aides financières.</p>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="59062" csRelFld="59062">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59062</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100689</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Pisteur 2<exp>e</exp> ou 3<exp>e</exp> degré</inter>
+<p>Après 2 saisons d'exercice, le pisteur secouriste peut devenir pisteur 2<exp>e</exp> degré sous réserve d'obtenir le brevet national correspondant. Il s'occupe alors d'organiser les secours et les recherches en cas d'avalanche, il maîtrise les interventions en terrain difficile. Avec le 3<exp>e</exp> degré, il aura des responsabilités plus importantes et plus administratives : gestion des budgets et du personnel, réglementation, relation avec les autres services.</p>
+<inter>Se spécialiser</inter>
+<p>Après ses 2 premières saisons, le pisteur peut aussi se spécialiser. Artificier, il déclenche les avalanches de manière préventive à l'aide d'explosifs avant que les pistes ne soient ouvertes aux skieurs. Maître-chien d'avalanches, il intervient pour localiser les victimes d'une avalanche enfouies sous la neige. Observateur nivo-météorologiste, il fournit les informations sur les nuages, le vent, les températures, les précipitations, etc.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir de <sal>1500</sal> euros brut par mois, plus primes et indemnités, variables selon les employeurs.</p>
+<postit>
+<p>Source : Domaines skiables de France, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">dresseur/euse d'animaux</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">m'occuper d'animaux/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">intermittent du spectacle</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction création artistique</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur des arts du spectacle</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">soins aux animaux/production animale</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE arts appliqués arts du spectacle/dresseur d'animaux</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100312</lien_onisep>
+<ROME Level="1B" csRelFld="100312">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="538" csRelFld="538">
+<CSLABELFLD label="">L1204</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Artistes - interprètes du spectacle</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">L1204</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Arts du cirque et arts visuels</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100312">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="30412" csRelFld="30412">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30412</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100312</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Comprendre l'animal</inter>
+<p>Chien, cheval, tigre, éléphant... Peureux, joueur, impatient, agressif... Quel que soit l'animal et son comportement, le dresseur doit tout faire pour le comprendre. Mis en confiance, l'animal accepte mieux les ordres du dresseur, qui sont accompagnés de petites douceurs comme les caresses et les friandises.</p>
+<inter>Adapter le dressage</inter>
+<p>Selon la demande, le dresseur apprend à un ours à jouer une scène ou à un chimpanzé à faire du vélo. Les résultats sont visibles après de longues semaines d'un travail acharné, voire quelques mois ou plusieurs années, en fonction de nombreux facteurs : espèce, âge, santé et caractère de l'animal, difficulté de l'exercice, patience et expérience du dresseur, etc.</p>
+<inter>Assurer la sécurité</inter>
+<p>Le dresseur doit aussi assurer la sécurité des personnes avec qui il travaille, qu'il s'agisse de ses assistants ou du public. Pour cela, il est capable d'analyser rapidement une situation anormale et, le cas échéant, maîtriser l'animal s'il devient dangereux. Les outils de travail du dresseur : lasso, fouet et même seringue pour endormir les bêtes.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="30416" csRelFld="30416">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30416</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100312</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Il n'existe aucune formation spécifique pour le métier de dresseur d'animaux.</accr_p> Il est conseillé de débuter en tant qu'assistant d'un dresseur professionnel confirmé. Selon sa sensibilité, son talent, son projet professionnel, un débutant peut commencer stagiaire auprès d'un dresseur dans l'audiovisuel, bénévole dans un zoo... Il faut cependant prévoir un temps d'apprentissage très long, avec une activité souvent cumulée avec d'autres fonctions.</p>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="30414" csRelFld="30414">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30414</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100312</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Se spécialiser</inter>
+<p>Ce métier, rare, est exercé dans un zoo, un cirque ou dans le cadre d'une production audiovisuelle (cinéma, télévision, publicité). Salariés ou, le plus souvent, intermittents du spectacle, la plupart des professionnels sont spécialisés dans un nombre limité d'espèces. Comme pour certains métiers du spectacle, il y a plus d'offres que de demandes, et « se faire un nom » est une prouesse.</p>
+<remun>
+<p>Du <sal>Smic</sal> à 1800 euros en fin de carrière, mais ce métier s'exerce souvent en complément d'une autre activité.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">agent/e de développement local</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">me déplacer souvent/informer, communiquer/convaincre, négocier</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique/secteur sociétés d'ingénierie et d'études techniques</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">médiation sociale/développement social/développement économique local</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE médical paramédical travail social soins personnels/agent de développement local</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100442</lien_onisep>
+<ROME Level="1B" csRelFld="100442">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="487" csRelFld="487">
+<CSLABELFLD label="">K1802</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Développement territorial et emploi</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K1802</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Développement local</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100442">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="36741" csRelFld="36741">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36741</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100442</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Fédérer autour d'un projet</inter>
+<p>Des parents souhaitent voir installer des bancs devant l'école ? L'agent de développement local fait remonter l'information jusqu'aux élus. Ancré dans un quartier, une ville ou une zone rurale, il met en adéquation les besoins des habitants et les enjeux politiques locaux. Sa mission : fédérer l'action des élus, des associations, des services municipaux et des structures sociales.</p>
+<inter>Créer une dynamique</inter>
+<p>Ce professionnel de terrain propose et suit de nombreux projets : accompagnement scolaire, sorties éducatives, prévention de la délinquance avec les services de police, intégration de familles isolées, mise en place d'équipements urbains... En milieu rural, il s'intéresse à l'aménagement du territoire et implique les agriculteurs dans les projets de pays (territoire regroupant plusieurs communes).</p>
+<inter>Favoriser le droit d'expression</inter>
+<p>L'agent de développement local organise des repas et des animations (bals de quartier, journée ou semaine à thème...). Médiateur, il favorise la démocratie locale en instituant des conseils consultatifs de quartier. Objectif : permettre aux citoyens de donner leur avis sur les dossiers concernant la gestion urbaine, la circulation...</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36745" csRelFld="36745">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36745</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100442</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Il n'existe pas un profil unique pour devenir agent de développement local. Universitaire, animateur, éducateur, spécialiste de l'aménagement... la tendance est au recrutement de diplômés de niveau bac + 3 à bac + 5 en développement local ou médiation sociale. Les formations en apprentissage sont très adaptées à ce métier de terrain. </p>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence administration économique et sociale.</itsimp>
+<itsimp>Licence pro développement de projets de territoires</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Masters gestion des territoires et développement local</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36743" csRelFld="36743">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36743</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100442</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des emplois en progression</inter>
+<p>Le marché de l'emploi du développement local porte sur un faible effectif. Cependant, avec la montée en puissance des projets éducatifs locaux, de la démocratie locale, des actions de prévention-sécurité, de la mise en place de mairies de quartier... le métier devrait se développer. L'offre d'emploi est aussi dynamisée par la mobilité de fonction qui caractérise la profession. Certaines zones rurales ou collectivités moins attractives peinent toutefois à recruter.</p>
+<inter>Une certaine stabilité</inter>
+<p>Liés à une mission, les emplois sont à durée limitée. C'est pourquoi les collectivités recrutent encore des contractuels. L'enchaînement de nombreuses missions courtes précède souvent une certaine stabilisation. La tendance serait au recrutement de professionnels par le biais des concours (rédacteur et animateur) de la fonction publique territoriale. L'expérience acquise au cours des missions permet alors d'évoluer vers la fonction de chargé de mission, de chef de projet ou de consultant en bureau d'études.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1600</sal> euros brut par mois.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

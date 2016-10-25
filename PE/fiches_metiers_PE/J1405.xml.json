@@ -1,0 +1,315 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Monteur-vendeur lunetier / Monteuse-vendeuse luneti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Monteur-vendeur lunetier / Monteuse-vendeuse luneti\u00e8re",
+            "code_ogr": "16897"
+        },
+        {
+            "libelle_court": "Monteur-vendeur opticien / Monteuse-vendeuse opticienne",
+            "priorisation": "1",
+            "libelle": "Monteur-vendeur opticien / Monteuse-vendeuse opticienne",
+            "code_ogr": "16898"
+        },
+        {
+            "libelle_court": "Opticien / Opticienne",
+            "priorisation": "1",
+            "libelle": "Opticien / Opticienne",
+            "code_ogr": "17350"
+        },
+        {
+            "libelle_court": "Opticien / Opticienne responsable de magasin",
+            "priorisation": "1",
+            "libelle": "Opticien / Opticienne responsable de magasin",
+            "code_ogr": "17352"
+        },
+        {
+            "libelle_court": "Opticien-lunetier / Opticienne-luneti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Opticien-lunetier / Opticienne-luneti\u00e8re",
+            "code_ogr": "17353"
+        },
+        {
+            "libelle_court": "Opticien-optom\u00e9triste / Opticienne-optom\u00e9triste",
+            "priorisation": "1",
+            "libelle": "Opticien-optom\u00e9triste / Opticienne-optom\u00e9triste",
+            "code_ogr": "17354"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier la demande du client et l'informer selon ses attentes (conseils, achat, r\u00e9parations, ...)",
+            "code_ogr": "2042",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner le client sur les \u00e9quipements optiques, les conditions de prise en charge par la S\u00e9curit\u00e9 Sociale, les mutuelles, ... et le conseiller dans son choix",
+            "code_ogr": "3024",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Prendre les mesures pour la r\u00e9alisation de l'\u00e9quipement optique et \u00e9tablir la fiche d'ex\u00e9cution des travaux",
+            "code_ogr": "2568",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer les verres (centrage, axage, montage, ...), proc\u00e9der \u00e0 l'essayage sur le client et effectuer les ajustements",
+            "code_ogr": "2634",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conseiller le client sur les articles d'optique, les accessoires et effectuer la vente",
+            "code_ogr": "963",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "5",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les documents m\u00e9dico-administratifs et effectuer les op\u00e9rations relatives au r\u00e8glement",
+            "code_ogr": "3599",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1214",
+            "libelle_rome_cible": "Vente en habillement et accessoires de la personne"
+        },
+        {
+            "code_rome_cible": "D1301",
+            "libelle_rome_cible": "Management de magasin de d\u00e9tail"
+        },
+        {
+            "code_rome_cible": "D1402",
+            "libelle_rome_cible": "Relation commerciale grands comptes et entreprises"
+        },
+        {
+            "code_rome_cible": "D1405",
+            "libelle_rome_cible": "Conseil en information m\u00e9dicale"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec le BTS Opticien Lunetier -BTSOL-.\nL'emploi/m\u00e9tier de monteur vendeur optique est accessible avec le CAP monteur vendeur optique ou le BEP optique lunetterie.\nDes formations compl\u00e9mentaires (optom\u00e9trie, contactologie, basse vision) peuvent \u00eatre requises.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Pr\u00e9senter les caract\u00e9ristiques des verres de contact, les conditions de port et informer le client sur les modalit\u00e9s de pose, d'entretien, ...",
+            "code_ogr": "8058",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der \u00e0 l'examen de vision d'un client, d\u00e9terminer les besoins de correction visuelle ou l'orienter vers un ophtalmologiste, un m\u00e9decin g\u00e9n\u00e9raliste, ...",
+            "code_ogr": "8146",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conseiller un client sur des \u00e9quipements basse vision (loupes \u00e9clairantes, t\u00e9l\u00e9 agrandisseurs, ...) et concevoir ou adapter des appareils",
+            "code_ogr": "4154",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks de produits, \u00e9tablir les commandes de r\u00e9approvisionnement, contr\u00f4ler la conformit\u00e9 de la livraison \u00e0 la commande et disposer les articles sur les pr\u00e9sentoirs",
+            "code_ogr": "3615",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le suivi administratif et comptable d'une structure",
+            "code_ogr": "3540",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener des actions de formation au sein d'un organisme",
+            "code_ogr": "7395",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener les actions de gestion de ressources humaines (recrutement, formation, ...)",
+            "code_ogr": "3563",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce en magasins d'optique en contact avec la client\u00e8le et en relation avec diff\u00e9rents professionnels de sant\u00e9 (ophtalmologues, orthoptistes, ...).\nElle peut s'effectuer en atelier (montage, nettoyage, r\u00e9paration, ...).\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de montage optique",
+            "code_ogr": "21328",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareil de mesure optique",
+            "code_ogr": "21140",
+            "position_item": "2",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Centre de sant\u00e9",
+            "code_ogr": "23778",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Magasin d'optique",
+            "code_ogr": "23997",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des verres optiques",
+            "code_ogr": "21668",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de prise de mesures optiques",
+            "code_ogr": "23060",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ergonomie",
+            "code_ogr": "21935",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et d'asepsie",
+            "code_ogr": "22646",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de traitement des verres",
+            "code_ogr": "23152",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de vente",
+            "code_ogr": "23168",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Contactologie",
+            "code_ogr": "21752",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Optom\u00e9trie",
+            "code_ogr": "22245",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de gestion de stocks",
+            "code_ogr": "22609",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nAssemble et d\u00e9livre des \u00e9quipements de correction optique \u00e0 des personnes atteintes de troubles visuels selon la prescription m\u00e9dicale, la demande individuelle.\nCommercialise des articles (lunettes de soleil, \u00e9tuis, instruments optiques, produits de conservation et de nettoyage, ...).\nPeut mesurer l'acuit\u00e9 visuelle et d\u00e9terminer la correction optique n\u00e9cessaire \u00e0 la personne.\nPeut coordonner une \u00e9quipe (monteur vendeur, opticien, personnel administratif, ...), diriger un ou plusieurs magasins d'optique.\n",
+    "intitule": "Optique - lunetterie",
+    "code_ogr": "349",
+    "code_rome": "J1405",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "H2901",
+            "libelle_rome_cible": "Ajustement et montage de fabrication"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ]
+}

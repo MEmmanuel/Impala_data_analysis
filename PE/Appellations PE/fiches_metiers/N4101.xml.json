@@ -1,0 +1,927 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Camionneur / Camionneuse",
+            "priorisation": "1",
+            "libelle": "Camionneur / Camionneuse",
+            "code_ogr": "11660"
+        },
+        {
+            "libelle_court": "Chauffeur / Chauffeuse de poids lourd",
+            "priorisation": "1",
+            "libelle": "Chauffeur / Chauffeuse de poids lourd",
+            "code_ogr": "11989"
+        },
+        {
+            "libelle_court": "Chauffeur / Chauffeuse porte char - porte engins",
+            "priorisation": "1",
+            "libelle": "Chauffeur / Chauffeuse porte char - porte engins",
+            "code_ogr": "38919"
+        },
+        {
+            "libelle_court": "Chauffeur / Chauffeuse porte voitures",
+            "priorisation": "1",
+            "libelle": "Chauffeur / Chauffeuse porte voitures",
+            "code_ogr": "11994"
+        },
+        {
+            "libelle_court": "Chauffeur routier / Chauffeuse routi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Chauffeur routier / Chauffeuse routi\u00e8re",
+            "code_ogr": "11996"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de benne TP",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de benne TP",
+            "code_ogr": "12888"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de camion-benne",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de camion-benne",
+            "code_ogr": "12902"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de poids lourd",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de poids lourd",
+            "code_ogr": "13132"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de poids lourd multibennes",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de poids lourd multibennes",
+            "code_ogr": "13133"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de semi-remorque PFM de l'arm\u00e9e",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de semi-remorque PFM de l'arm\u00e9e",
+            "code_ogr": "13180"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de v\u00e9hicules Super Lourds",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de v\u00e9hicules Super Lourds",
+            "code_ogr": "13231"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice super poids lourd de l'arm\u00e9e",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice super poids lourd de l'arm\u00e9e",
+            "code_ogr": "13328"
+        },
+        {
+            "libelle_court": "Conducteur(trice) citernier(\u00e8re) essencier(\u00e8re)",
+            "priorisation": "1",
+            "libelle": "Conducteur citernier essencier / Conductrice citerni\u00e8re essenci\u00e8re",
+            "code_ogr": "12858"
+        },
+        {
+            "libelle_court": "Conducteur routier / Conductrice routi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Conducteur routier / Conductrice routi\u00e8re",
+            "code_ogr": "13323"
+        },
+        {
+            "libelle_court": "Conducteur(trice) routier(\u00e8re) de transport de marchandises",
+            "priorisation": "1",
+            "libelle": "Conducteur routier / Conductrice routi\u00e8re de transport de marchandises",
+            "code_ogr": "13324"
+        },
+        {
+            "libelle_court": "Conducteur(trice) routier(\u00e8re) international(e)",
+            "priorisation": "1",
+            "libelle": "Conducteur routier international / Conductrice routi\u00e8re internationale",
+            "code_ogr": "13325"
+        },
+        {
+            "libelle_court": "Conducteur routier national / Conductrice routi\u00e8re nationale",
+            "priorisation": "1",
+            "libelle": "Conducteur routier national / Conductrice routi\u00e8re nationale",
+            "code_ogr": "13326"
+        },
+        {
+            "libelle_court": "Conducteur routier r\u00e9gional / Conductrice routi\u00e8re r\u00e9gionale",
+            "priorisation": "1",
+            "libelle": "Conducteur routier r\u00e9gional / Conductrice routi\u00e8re r\u00e9gionale",
+            "code_ogr": "13327"
+        },
+        {
+            "libelle_court": "Routier / Routi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Routier / Routi\u00e8re",
+            "code_ogr": "19291"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "V\u00e9rifier l'\u00e9tat de fonctionnement du v\u00e9hicule, des \u00e9quipements et effectuer les op\u00e9rations d'attelage",
+            "code_ogr": "3480",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier le trajet selon les caract\u00e9ristiques du v\u00e9hicule, du chargement et les priorit\u00e9s de livraison",
+            "code_ogr": "2068",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Organiser ou contr\u00f4ler le chargement des marchandises dans le v\u00e9hicule",
+            "code_ogr": "2483",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier la pr\u00e9sence et la conformit\u00e9 des documents de bord et de transport",
+            "code_ogr": "3425",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser l'enl\u00e8vement, l'acheminement et la livraison des produits ou marchandises et en contr\u00f4ler la conformit\u00e9 avec le client",
+            "code_ogr": "2786",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports de suivi d'activit\u00e9 et transmettre les informations au service concern\u00e9",
+            "code_ogr": "3600",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mettre en place les mesures d'urgence en cas d'incident et alerter les services concern\u00e9s",
+            "code_ogr": "2343",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "I1202",
+            "libelle_rome_cible": "Entretien et surveillance du trac\u00e9 routier"
+        },
+        {
+            "code_rome_cible": "K2503",
+            "libelle_rome_cible": "S\u00e9curit\u00e9 et surveillance priv\u00e9es"
+        },
+        {
+            "code_rome_cible": "N1102",
+            "libelle_rome_cible": "D\u00e9m\u00e9nagement"
+        },
+        {
+            "code_rome_cible": "N4102",
+            "libelle_rome_cible": "Conduite de transport de particuliers"
+        },
+        {
+            "code_rome_cible": "N4103",
+            "libelle_rome_cible": "Conduite de transport en commun sur route"
+        },
+        {
+            "code_rome_cible": "N4104",
+            "libelle_rome_cible": "Courses et livraisons express"
+        },
+        {
+            "code_rome_cible": "N4105",
+            "libelle_rome_cible": "Conduite et livraison par tourn\u00e9es sur courte distance"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle. Un CAP/BEP en conduite routi\u00e8re, service transport routier peut en faciliter l'acc\u00e8s.\nLes permis poids lourds C, C1, CE, C1E (pr\u00e9c\u00e9demment C ou EC) compl\u00e9t\u00e9s par la Formation Initiale Minimale Obligatoire -FIMO- sont exig\u00e9s. Un renouvellement p\u00e9riodique de la FIMO par la Formation Continue Obligatoire -FCO- est exig\u00e9.\nUne carte chronotachygraphe est obligatoire pour la conduite de v\u00e9hicules de transport de marchandises de plus de 3,5 tonnes.\nDes habilitations sp\u00e9cifiques (certificats de formation ADR) peuvent \u00eatre requises selon les produits transport\u00e9s (produits p\u00e9troliers, radioactifs, ...) d\u00e9finis par un code ONU.\nUne bonne condition physique (acuit\u00e9 visuelle, auditive, r\u00e9flexes, ...) est requise.\nUn ou plusieurs Certificat(s) d'Aptitude \u00e0 la Conduite en S\u00e9curit\u00e9 -CACES- conditionn\u00e9(s) par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement peu(ven)t \u00eatre requis.\nLa pratique d'une langue \u00e9trang\u00e8re peut \u00eatre demand\u00e9e pour le transport \u00e0 l'international.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser des d\u00e9placements n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Formation Initiale Minimum Obligatoire -FIMO-",
+            "code_ogr": "8353",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Formation Continue Obligatoire -FCO",
+            "code_ogr": "8352",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des d\u00e9placements de produits dangereux n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Certificat de formation ADR - Formation de base (mati\u00e8res ou liquides dangereux)",
+            "code_ogr": "8340",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Certificat de formation ADR Citerne",
+            "code_ogr": "8341",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Certificat de formation ADR - Citerne \u00e9tendue",
+            "code_ogr": "38928",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Certificat de formation ADR Citerne gaz",
+            "code_ogr": "8342",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Certificat de formation ADR sp\u00e9cialisation classe 1 (explosibles)",
+            "code_ogr": "8343",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Certificat de formation ADR - Sp\u00e9cialisation classe 7 (mati\u00e8res radioactives)",
+            "code_ogr": "38929",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Certificat de formation ADR sp\u00e9cialisation GPL",
+            "code_ogr": "8344",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Certificat de formation ADR sp\u00e9cialisation produits p\u00e9troliers",
+            "code_ogr": "8345",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 372 (Engins de chantiers)",
+            "code_ogr": "10101",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 372-10 (D\u00e9placement, chargement, d\u00e9chargement, transfert, maintenance, d\u00e9monstration, essais, ...)",
+            "code_ogr": "10105",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389 (Chariots automoteurs de manutention \u00e0 conducteur port\u00e9)",
+            "code_ogr": "10121",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 390 (Grues auxiliaires de chargement de v\u00e9hicules)",
+            "code_ogr": "10128",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des d\u00e9placements n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Certificat de transport d'animaux vivants",
+            "code_ogr": "8351",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation avitaillement",
+            "code_ogr": "8354",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conduire un v\u00e9hicule sp\u00e9cifique :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Camion porteur",
+            "code_ogr": "4092",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9hicule articul\u00e9",
+            "code_ogr": "4102",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Savoyarde",
+            "code_ogr": "4099",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Camion citerne mati\u00e8res dangereuses (hydrocarbures, ...)",
+            "code_ogr": "4091",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Camion citerne alimentaire (vin, lait, ...)",
+            "code_ogr": "4090",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9hicule frigorifique",
+            "code_ogr": "4106",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Camion benne/multi-bennes",
+            "code_ogr": "4089",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Camion avec hayon \u00e9l\u00e9vateur",
+            "code_ogr": "4087",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9hicule convoi exceptionnel (masse indivisible, grande longueur)",
+            "code_ogr": "4105",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Porte-voitures",
+            "code_ogr": "4098",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "10",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Porte-containers",
+            "code_ogr": "4097",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "11",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Camion avec grue articul\u00e9e",
+            "code_ogr": "4086",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "12",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "B\u00e9taill\u00e8re",
+            "code_ogr": "4085",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "13",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des d\u00e9placements :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9gionaux",
+            "code_ogr": "8338",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nationaux",
+            "code_ogr": "8337",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Internationaux",
+            "code_ogr": "8335",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Transporter des :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Animaux vivants",
+            "code_ogr": "10027",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Grumes",
+            "code_ogr": "10028",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mat\u00e9riaux de construction, BTP",
+            "code_ogr": "10029",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Produits en vrac (c\u00e9r\u00e9ales, mati\u00e8res premi\u00e8res brutes, ...)",
+            "code_ogr": "10030",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le chargement/d\u00e9chargement d'un v\u00e9hicule manuellement ou \u00e0 l'aide d'engins non motoris\u00e9s de manutention",
+            "code_ogr": "5333",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des formalit\u00e9s douani\u00e8res aupr\u00e8s de services frontaliers",
+            "code_ogr": "4888",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des dosages et des pr\u00e9l\u00e8vements de produits",
+            "code_ogr": "4870",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien de premier niveau et le nettoyage du v\u00e9hicule",
+            "code_ogr": "3545",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce \u00e0 bord de v\u00e9hicules de plus de 3,5 tonnes pour le compte d'entreprises de transport, d'entreprises industrielles ou commerciales, d'entreprises de location de v\u00e9hicules lourds avec conducteur, de l'arm\u00e9e, en contact avec le personnel d'exploitation, les clients, les services de douane, ...\nElle varie selon le type de v\u00e9hicule (citerne, b\u00e9taill\u00e8re, porte-voitures, ...), la nature du fret (produits dangereux, produits en vrac, animaux, ...) et la zone de trafic (r\u00e9gionale, nationale, internationale).\nL'activit\u00e9 peut s'exercer les fins de semaine, jours f\u00e9ri\u00e9s, de nuit et impliquer un \u00e9loignement du domicile de plusieurs jours.\nLe port d'\u00e9quipements de protection (gants, chaussures de s\u00e9curit\u00e9, gilet fluorescent, ...) peut \u00eatre requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de carte routi\u00e8re",
+            "code_ogr": "20933",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de chronotachygraphe",
+            "code_ogr": "21181",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de navigation (GPS, VHF, radar, ...)",
+            "code_ogr": "21329",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'engins de manutention non motoris\u00e9s (transpalette, diable, ...)",
+            "code_ogr": "21414",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Boutique, commerce de d\u00e9tail",
+            "code_ogr": "23725",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise artisanale",
+            "code_ogr": "23870",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de forage/extraction",
+            "code_ogr": "23877",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de location de v\u00e9hicules",
+            "code_ogr": "23881",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de transport",
+            "code_ogr": "23888",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise publique/\u00e9tablissement public",
+            "code_ogr": "23912",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie manufacturi\u00e8re",
+            "code_ogr": "23969",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Administration / Services de l'Etat",
+            "code_ogr": "23388",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Agriculture",
+            "code_ogr": "23394",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Aquaculture",
+            "code_ogr": "23399",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent et Travaux Publics -BTP-",
+            "code_ogr": "23420",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Commerce de gros",
+            "code_ogr": "23444",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Commerce/grande distribution",
+            "code_ogr": "23445",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Finance",
+            "code_ogr": "23501",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tellerie",
+            "code_ogr": "23519",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Immobilier",
+            "code_ogr": "23523",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "P\u00eache",
+            "code_ogr": "23577",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Restauration",
+            "code_ogr": "23622",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sant\u00e9 et action sociale",
+            "code_ogr": "23625",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sylviculture",
+            "code_ogr": "23645",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Transport/logistique",
+            "code_ogr": "23659",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation du transport de marchandises",
+            "code_ogr": "22563",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9 des biens et des personnes",
+            "code_ogr": "22623",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modalit\u00e9s de chargement/d\u00e9chargement de marchandises",
+            "code_ogr": "22164",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'arrimage",
+            "code_ogr": "22785",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Formalit\u00e9s douani\u00e8res",
+            "code_ogr": "21963",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaire",
+            "code_ogr": "22649",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9canique poids lourds",
+            "code_ogr": "21883",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nConduit un v\u00e9hicule routier lourd (poids total autoris\u00e9 en charge -PTAC- sup\u00e9rieur \u00e0 3,5 tonnes) afin de transporter des marchandises (produits, v\u00e9hicules, ...), en moyenne ou longue distance selon la r\u00e9glementation du travail et du transport routier et les imp\u00e9ratifs de satisfaction de la client\u00e8le (d\u00e9lais, conformit\u00e9, ...).\nR\u00e9alise des op\u00e9rations li\u00e9es au transport (arrimage des charges, \u00e9margement de documents, contr\u00f4le des marchandises, ...).\nPeut effectuer des op\u00e9rations de chargement/d\u00e9chargement et l'entretien de suivi du v\u00e9hicule.\n",
+    "intitule": "Conduite de transport de marchandises sur longue distance",
+    "code_ogr": "523",
+    "code_rome": "N4101",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "A1101",
+            "libelle_rome_cible": "Conduite d'engins agricoles et forestiers"
+        },
+        {
+            "code_rome_cible": "D1204",
+            "libelle_rome_cible": "Location de v\u00e9hicules ou de mat\u00e9riel de loisirs"
+        },
+        {
+            "code_rome_cible": "D1404",
+            "libelle_rome_cible": "Relation commerciale en vente de v\u00e9hicules"
+        },
+        {
+            "code_rome_cible": "F1302",
+            "libelle_rome_cible": "Conduite d'engins de terrassement et de carri\u00e8re"
+        },
+        {
+            "code_rome_cible": "J1305",
+            "libelle_rome_cible": "Conduite de v\u00e9hicules sanitaires"
+        },
+        {
+            "code_rome_cible": "K2110",
+            "libelle_rome_cible": "Formation en conduite de v\u00e9hicules"
+        },
+        {
+            "code_rome_cible": "N1201",
+            "libelle_rome_cible": "Affr\u00e8tement transport"
+        },
+        {
+            "code_rome_cible": "N4201",
+            "libelle_rome_cible": "Direction d'exploitation des transports routiers de marchandises"
+        },
+        {
+            "code_rome_cible": "N4203",
+            "libelle_rome_cible": "Intervention technique d'exploitation des transports routiers de marchandises"
+        }
+    ]
+}

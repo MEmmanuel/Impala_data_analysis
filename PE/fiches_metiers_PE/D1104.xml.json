@@ -1,0 +1,613 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Aide-p\u00e2tissier / Aide-p\u00e2tissi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Aide-p\u00e2tissier / Aide-p\u00e2tissi\u00e8re",
+            "code_ogr": "10885"
+        },
+        {
+            "libelle_court": "Biscuitier / Biscuiti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Biscuitier / Biscuiti\u00e8re",
+            "code_ogr": "11529"
+        },
+        {
+            "libelle_court": "Chef p\u00e2tissier / p\u00e2tissi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Chef p\u00e2tissier / p\u00e2tissi\u00e8re",
+            "code_ogr": "12592"
+        },
+        {
+            "libelle_court": "Chocolatier / Chocolati\u00e8re",
+            "priorisation": "1",
+            "libelle": "Chocolatier / Chocolati\u00e8re",
+            "code_ogr": "12631"
+        },
+        {
+            "libelle_court": "Confiseur / Confiseuse",
+            "priorisation": "1",
+            "libelle": "Confiseur / Confiseuse",
+            "code_ogr": "13345"
+        },
+        {
+            "libelle_court": "Confiturier / Confituri\u00e8re",
+            "priorisation": "1",
+            "libelle": "Confiturier / Confituri\u00e8re",
+            "code_ogr": "38380"
+        },
+        {
+            "libelle_court": "Entremettier / Entremetti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Entremettier / Entremetti\u00e8re",
+            "code_ogr": "14860"
+        },
+        {
+            "libelle_court": "Glacier / Glaci\u00e8re",
+            "priorisation": "1",
+            "libelle": "Glacier / Glaci\u00e8re",
+            "code_ogr": "15376"
+        },
+        {
+            "libelle_court": "Ouvrier p\u00e2tissier / Ouvri\u00e8re p\u00e2tissi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Ouvrier p\u00e2tissier / Ouvri\u00e8re p\u00e2tissi\u00e8re",
+            "code_ogr": "17514"
+        },
+        {
+            "libelle_court": "P\u00e2tissier / P\u00e2tissi\u00e8re",
+            "priorisation": "1",
+            "libelle": "P\u00e2tissier / P\u00e2tissi\u00e8re",
+            "code_ogr": "17576"
+        },
+        {
+            "libelle_court": "P\u00e2tissier tourier / P\u00e2tissi\u00e8re touri\u00e8re",
+            "priorisation": "1",
+            "libelle": "P\u00e2tissier tourier / P\u00e2tissi\u00e8re touri\u00e8re",
+            "code_ogr": "17578"
+        },
+        {
+            "libelle_court": "P\u00e2tissier-chocolatier / P\u00e2tissi\u00e8re-chocolati\u00e8re",
+            "priorisation": "1",
+            "libelle": "P\u00e2tissier-chocolatier / P\u00e2tissi\u00e8re-chocolati\u00e8re",
+            "code_ogr": "17579"
+        },
+        {
+            "libelle_court": "P\u00e2tissier-confiseur / P\u00e2tissi\u00e8re-confiseuse",
+            "priorisation": "1",
+            "libelle": "P\u00e2tissier-confiseur / P\u00e2tissi\u00e8re-confiseuse",
+            "code_ogr": "17580"
+        },
+        {
+            "libelle_court": "P\u00e2tissier-traiteur / P\u00e2tissi\u00e8re-traiteuse",
+            "priorisation": "1",
+            "libelle": "P\u00e2tissier-traiteur / P\u00e2tissi\u00e8re-traiteuse",
+            "code_ogr": "17581"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "S\u00e9lectionner et doser les ingr\u00e9dients (farine, levure, additifs, ...) pour la r\u00e9alisation des produits",
+            "code_ogr": "3140",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "M\u00e9langer les ingr\u00e9dients des p\u00e2tes, des cr\u00e8mes, des garnitures et des entremets",
+            "code_ogr": "2293",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der \u00e0 la cuisson de produits de p\u00e2tisserie, de confiserie, de pi\u00e8ces de chocolat",
+            "code_ogr": "2680",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le montage et la d\u00e9coration des produits (assemblage de couches de biscuit, de cr\u00e8me au beurre, nappage, gla\u00e7age, ...)",
+            "code_ogr": "1551",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer et maintenir en \u00e9tat de propret\u00e9 et d'hygi\u00e8ne le plan de travail, les outils et les locaux",
+            "code_ogr": "2409",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1102",
+            "libelle_rome_cible": "Boulangerie - viennoiserie"
+        },
+        {
+            "code_rome_cible": "D1107",
+            "libelle_rome_cible": "Vente en gros de produits frais"
+        },
+        {
+            "code_rome_cible": "G1602",
+            "libelle_rome_cible": "Personnel de cuisine"
+        },
+        {
+            "code_rome_cible": "H2102",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de production alimentaire"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac (Brevet Professionnel, Brevet de Ma\u00eetrise, Bac professionnel) en p\u00e2tisserie, chocolaterie,\nconfiserie et alimentation.\nIl est \u00e9galement accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle pour le poste d'aide-p\u00e2tissier.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Confectionner des produits alimentaires :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chocolats",
+            "code_ogr": "4115",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Confiseries",
+            "code_ogr": "4116",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Confitures artisanales",
+            "code_ogr": "38404",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Glaces, sorbets",
+            "code_ogr": "4117",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Plats traiteur (pizzas, quiches, sandwichs, ...)",
+            "code_ogr": "4121",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parations confites de fruits (fruits confits, p\u00e2tes de fruits, ...)",
+            "code_ogr": "4122",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Produits de boulangerie (pain blanc, baguettes, pains sp\u00e9ciaux, ...)",
+            "code_ogr": "4123",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Viennoiseries (croissants, pains au chocolat, brioches, ...)",
+            "code_ogr": "4125",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "P\u00e2tisseries",
+            "code_ogr": "4119",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "P\u00e9trir des p\u00e2tes de p\u00e2tisserie et les pr\u00e9parer (fon\u00e7age, garnissage, ...)",
+            "code_ogr": "7792",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer les fruits secs ou frais (d\u00e9coupe, \u00e9pluchage, rin\u00e7age, ...)",
+            "code_ogr": "7987",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Planifier la production selon les commandes de clients, les produits en stock et la saisonnalit\u00e9",
+            "code_ogr": "3576",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les clients sur les produits et effectuer la vente",
+            "code_ogr": "9543",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conditionner des produits de p\u00e2tisserie, confiserie, chocolaterie et disposer les produits en vitrine, en rayon, sur des pr\u00e9sentoirs",
+            "code_ogr": "4048",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9ceptionner les marchandises, les produits et contr\u00f4ler la conformit\u00e9 de la livraison",
+            "code_ogr": "3591",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la gestion comptable et administrative d'une structure",
+            "code_ogr": "3533",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Former des employ\u00e9s aux techniques du m\u00e9tier",
+            "code_ogr": "4764",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de p\u00e2tisseries, confiseries, chocolateries, glaciers, traiteurs traditionnels ou industriels, aux rayons boulangerie-p\u00e2tisserie de grandes et moyennes surfaces, dans des restaurants, en contact avec les clients et en relation avec les fournisseurs, le responsable du rayon et les services d'hygi\u00e8ne.\nElle peut s'exercer les fins de semaine, jours f\u00e9ri\u00e9s et de nuit (t\u00f4t le matin).\nL'activit\u00e9 s'effectue en laboratoire et peut impliquer le port de charges et la station debout prolong\u00e9e.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Calcul de quantit\u00e9",
+            "code_ogr": "20805",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Conversion d'unit\u00e9s de mesure",
+            "code_ogr": "20830",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "P\u00e9trissage manuel",
+            "code_ogr": "21023",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de p\u00e9trin m\u00e9canique",
+            "code_ogr": "21350",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de nettoyage",
+            "code_ogr": "21330",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de trempeuse (chocolat)",
+            "code_ogr": "21403",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de sorbeti\u00e8re",
+            "code_ogr": "21380",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Moulage de pi\u00e8ces de chocolat",
+            "code_ogr": "21011",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sculptage de chocolat",
+            "code_ogr": "21093",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils d'emballage/conditionnement",
+            "code_ogr": "21163",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion de stocks",
+            "code_ogr": "21259",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion comptable",
+            "code_ogr": "21252",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Boulangerie",
+            "code_ogr": "23723",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Boutique, commerce de d\u00e9tail",
+            "code_ogr": "23725",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chocolaterie",
+            "code_ogr": "23796",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Confiserie",
+            "code_ogr": "23827",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise alimentaire",
+            "code_ogr": "23868",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Hypermarch\u00e9 (2500 m2 et +)",
+            "code_ogr": "23967",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "P\u00e2tisserie",
+            "code_ogr": "24032",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Salon de th\u00e9",
+            "code_ogr": "24062",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Supermarch\u00e9 (400 \u00e0 2500m2)",
+            "code_ogr": "24116",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Traiteur",
+            "code_ogr": "24119",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des farines",
+            "code_ogr": "21586",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des p\u00e2tes de p\u00e2tisserie",
+            "code_ogr": "21631",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de fabrication de produits de p\u00e2tisserie",
+            "code_ogr": "22406",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaire",
+            "code_ogr": "22649",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Fermentation des p\u00e2tes \u00e0 p\u00e2tisserie",
+            "code_ogr": "21942",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Cha\u00eene du froid",
+            "code_ogr": "21701",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques du sirop de sucre (nappe, petit fil\u00e9, ...)",
+            "code_ogr": "21682",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modes de cong\u00e9lation des produits de glacerie",
+            "code_ogr": "22194",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes de mac\u00e9ration des fruits (dur\u00e9e, temp\u00e9rature, ...)",
+            "code_ogr": "22324",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de vente",
+            "code_ogr": "23168",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'encaissement",
+            "code_ogr": "22454",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de gestion de stocks",
+            "code_ogr": "22609",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nPr\u00e9pare et confectionne des produits de p\u00e2tisserie, confiserie, chocolaterie et glacerie selon les r\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaires.\nPeut effectuer la vente de produits de p\u00e2tisserie, confiserie, chocolaterie et glacerie.\nPeut g\u00e9rer un commerce de d\u00e9tail alimentaire (p\u00e2tisserie, confiserie, chocolaterie, glacier, ...).\n",
+    "intitule": "P\u00e2tisserie, confiserie, chocolaterie et glacerie",
+    "code_ogr": "83",
+    "code_rome": "D1104",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1301",
+            "libelle_rome_cible": "Management de magasin de d\u00e9tail"
+        },
+        {
+            "code_rome_cible": "D1402",
+            "libelle_rome_cible": "Relation commerciale grands comptes et entreprises"
+        },
+        {
+            "code_rome_cible": "D1502",
+            "libelle_rome_cible": "Management/gestion de rayon produits alimentaires"
+        },
+        {
+            "code_rome_cible": "K2109",
+            "libelle_rome_cible": "Enseignement technique et professionnel"
+        }
+    ]
+}

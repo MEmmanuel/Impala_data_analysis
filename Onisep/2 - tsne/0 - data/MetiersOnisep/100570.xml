@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e chimiste en développement analytique</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">concevoir, utiliser des technologies industrielles de pointe/coordonner l'activité d'une équipe/faire de la recherche</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction études développement industriel </MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur recherche/secteur industrie chimique/secteur industrie pharmaceutique/secteur énergie/secteur environnement/secteur industrie agroalimentaire/secteur industrie du verre/secteur transformation des matières plastiques/secteur textile habillement</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">chimie analytique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE matériaux laboratoire organisation industrielle</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100570</lien_onisep>
+<ROME Level="1B" csRelFld="100570">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="320" csRelFld="320">
+<CSLABELFLD label="">H2502</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Direction, encadrement et pilotage de fabrication et production industrielles</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2502</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie de production</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100570">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1476" csRelFld="1476">
+<CSLABELFLD label="">chimiste vert</CSLABELFLD>
+<MET_ID label="Identifiant">100570</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">01/04/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1476</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chimiste vert</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1476">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1477" csRelFld="1477">
+<CSLABELFLD label="">ingénieur / ingénieure chimiste procédés</CSLABELFLD>
+<MET_ID label="Identifiant">100570</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">01/04/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1477</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">ingénieur/e chimiste procédés</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1477">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="54703" csRelFld="54703">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">54703</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100570</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Concevoir et encadrer</inter>
+<p>L'ingénieur chimiste en développement analytique intervient à différentes étapes de la vie d'un produit : recherche et développement, production, contrôle qualité, technico-commercial, etc. Dans un bureau d'études, il conçoit les appareillages en vue de la fabrication de produits (alimentaires, cosmétiques, pharmaceutiques) et définit des process. En laboratoire, il trouve des molécules ou formule de nouveaux produits, il analyse les matières premières et les produits finis. En production, il peut encadrer une équipe. Il a aussi un rôle important à jouer en sécurité, hygiène, assurance qualité, gestion de l'environnement, et il est responsable du maintien de la qualité technique des analyses. </p>
+<inter>Analyser, interpréter, diffuser</inter>
+<p>L'ingénieur chimiste en développement analytique réalise des analyses chromatographiques sur différentes matrices biologiques afin d'identifier un marqueur. Il définit les méthodes à développer et effectue des tests à la paillasse. Il analyse et interprète les résultats. Il rédige ensuite des notes techniques et des rapports, des protocoles d'utilisation des matériels. Il effectue également une veille scientifique et il peut être amené à présenter certains résultats à des membres de son équipe ou à des clients.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="54707" csRelFld="54707">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">54707</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100570</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Pour devenir ingénieur chimiste en développement analytique, il existe 2 parcours possibles. L'université, qui offre des cursus complets en chimie, et une soixantaine d'écoles d'ingénieurs qui proposent des cursus complets ou des enseignements de dernière année sous la forme d'options ou de spécialisations en chimie, génie chimique, biochimie ou dans un domaine proche de la chimie.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master pro spécialités formulation et chimie industrielle ; chimie fine et thérapeutique ; chimie et physico-chimie : des molécules aux biosystèmes ; contrôle de l'environnement industriel ; chimie analytique et procédés ; sciences de la vie et de la matière ; pollutions chimiques et gestion environnementale ; électrochimie ; chimie et procédés</itsimp>
+<itsimp>Diplôme d'ingénieur</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="54705" csRelFld="54705">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">54705</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100570</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des bassins d'emploi</inter>
+<p>Le secteur de la chimie compte 3 230 entreprises dont 88 % de TPE-PME d'après l'UIC (Union des industries chimiques). Elles sont surtout présentes en Ile-de-France, Rhône-Alpes, Provence-Alpes-Côte d'Azur, Nord-Pas-de-Calais et Aquitaine d'après l'Opic (Observatoire des industries chimiques). Du fait de la régionalisation des spécialités (chimie en Rhône-Alpes, agroalimentaire en Bretagne et Pays de la Loire), les ingénieurs de la fonction production doivent être géographiquement mobiles.</p>
+<inter>Recherche et développement pour débuter</inter>
+<p>50 % des jeunes diplômés se tournent vers la recherche et développement, selon la Fédération Gay-Lussac. 20 % optent pour la production. Avec l'expérience, un ingénieur chimiste acquiert des responsabilités en matière de sécurité, hygiène, qualité, etc. Il peut aussi se diriger vers le management ou le technico-commercial, ou encore vers la fonction publique : le concours d'ingénieur de laboratoire (catégorie A) permettra ensuite d'évoluer vers un poste de directeur de laboratoire.</p>
+<inter>Perspectives</inter>
+<p>À l'horizon 2020, le secteur de la chimie connaîtra des évolutions, tant sur le plan de la réglementation relative à la sécurité, à l'environnement et à la santé, que sur celui des emplois et des compétences (la recherche et l'expertise scientifique).</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2950 </sal>euros brut par mois (variable en fonction du secteur d'activité).</p>
+<postit>
+<p>Source : enquête CGE (Conférence des grandes écoles), juin 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

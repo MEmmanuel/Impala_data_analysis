@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e métallurgiste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">travailler un matériau/faire de la recherche</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction études développement industriel </MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie métallurgique et fonderie</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">mécanique des matériaux/métallurgie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE matériaux laboratoire organisation industrielle</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100597</lien_onisep>
+<ROME Level="1B" csRelFld="100597">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="265" csRelFld="265">
+<CSLABELFLD label="">H1206</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception, recherche, études et développement</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H1206</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie études, recherche et développement industriel</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100597">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="55584" csRelFld="55584">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55584</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100597</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Des applications très variées</inter>
+<p>Canettes de soda, outils de bricolage, moteurs de voitures, turbines d'avions... l'industrie métallurgique recouvre la production et le travail des métaux ferreux, non ferreux et leurs alliages, ainsi que les métaux précieux. L'ingénieur métallurgiste a pour mission de choisir ou mettre au point des matériaux performants, adaptés à chaque production ou problème technique. Son travail est donc très tourné vers la recherche dont il définit le contenu et le coût.</p>
+<inter>De la recherche appliquée</inter>
+<p>En relation avec les chefs de projet, l'ingénieur métallurgiste réalise des audits techniques et économiques pour optimiser les process de fabrication, résoudre des problèmes de production ou améliorer la performance des alliages afin qu'ils soient plus résistants à l'usure ou à la corrosion.</p>
+<inter>Au top de l'innovation</inter>
+<p>On compte près de 3 000 compositions d'acier. L'ingénieur métallurgiste a donc pour mission de trouver les bons dosages en fonction d'une demande précise qui lui aura été faite. Pour cela, il doit constituer une documentation, consulter des bases de données, effectuer des calculs et des essais en laboratoire industriel, par exemple pour mesurer la dureté ou la résistance d'un matériau. C'est un travail passionnant qui nécessite une veille constante.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55588" csRelFld="55588">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55588</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100597</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Pour devenir ingénieur métallurgiste, un bac + 5 (diplôme d'ingénieur ou master) est nécessaire.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur spécialité matériaux</itsimp>
+<itsimp>Master en sciences et génie des matériaux</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55586" csRelFld="55586">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55586</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100597</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des recrutements malgré la crise</inter>
+<p>Si le secteur de la métallurgie est touché de plein fouet par la crise économique et la désindustrialisation, ce sont surtout les ouvriers les moins qualifiés qui en font les frais. En effet, le secteur doit, dans le même temps, faire face à de nombreux départs à la retraite et à une obligation de se démarquer, notamment des pays émergents. La recherche et le développement deviennent donc de plus en plus cruciaux dans le développement des groupes industriels. D'ici 2020, l'Observatoire de la métallurgie estime que l'on recrutera 23 660 ingénieurs et cadres techniques dans le secteur. Un bon signe pour les ingénieurs métallurgistes !</p>
+<inter>Dans la recherche</inter>
+<p>Si la métallurgie compte 80 % d'entreprises de moins de 20 salariés assurant des activités de sous-traitance, l'ingénieur métallurgiste, lui, travaille pour les grands groupes du secteur qui possèdent un département recherche. Il peut également exercer au sein d'un laboratoire de contrôle ou dans un laboratoire de recherche.</p>
+<inter>Pas qu'en France</inter>
+<p>L'essentiel des entreprises du secteur se trouve en région Rhône-Alpes (pour 40 %) et en Ile-de-France. Pour autant, comme souvent dans la recherche, l'ingénieur métallurgiste a intérêt à ouvrir sa carrière à l'international pour évoluer.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2800</sal> euros à 3000 euros brut par mois.</p>
+<postit>
+<p>Source : Apec (Association pour l'emploi des cadres), 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

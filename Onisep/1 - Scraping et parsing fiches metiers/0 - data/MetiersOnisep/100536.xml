@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">chargé/e de projet événementiel</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">informer, communiquer/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction information - communication</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur de la publicité</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">communication événementiel</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques de la communication média</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100536</lien_onisep>
+<ROME Level="1B" csRelFld="100536">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="145" csRelFld="145">
+<CSLABELFLD label="">E1103</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Edition et communication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">E1103</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Communication</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100536">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1352" csRelFld="1352">
+<CSLABELFLD label="">chef de projet événementiel</CSLABELFLD>
+<MET_ID label="Identifiant">100536</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">01/07/2013</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1352</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chef/fe de projet événementiel</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1352">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1353" csRelFld="1353">
+<CSLABELFLD label="">directeur / directrice d'agence de communication événementielle</CSLABELFLD>
+<MET_ID label="Identifiant">100536</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">01/07/2013</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1353</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">directeur/trice d'agence de communication événementielle</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1353">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="52436" csRelFld="52436">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">52436</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100536</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Concevoir l'événement</inter>
+<p>En agence de communication, le chargé de projet événementiel conçoit l'événement qui répondra le mieux à la demande d'un client. Il négocie avec lui le budget de l'opération. Si le client veut un événement spectaculaire, il doit alors trouver l'idée originale qui retiendra son attention. En entreprise, son quotidien est plutôt d'organiser des colloques, des séminaires, des sorties de groupes, etc.</p>
+<inter>Suivre le budget et piloter la logistique</inter>
+<p>Il élabore le planning des actions à mener et suit le budget. Il gère et organise sur le terrain toute la logistique du projet : installation, agencement de l'espace, transport de matériel, etc. Il rédige les supports de communication (communiqués de presse, invitations, programmes&#8230;). Il choisit les prestataires, les fournisseurs, les intervenants (traiteurs, cameramen, artistes, techniciens...). Au quotidien, il fait face à des impératifs divers (location de salles, de voitures, réservation d'hôtels, conférences de presse).</p>
+<inter>Coordonner toutes les étapes de la mise en &#339;uvre</inter>
+<p>Il est l'interface entre le client et les équipes qui vont réaliser l'événement. Prendre contact avec les multiples collaborateurs, analyser ce qu'ils proposent, faire des choix, coordonner toutes les étapes, les faire valider par le client fait partie de ses missions.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="52440" csRelFld="52440">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">52440</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100536</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Un niveau bac + 2 doit obligatoirement être suivi d'une spécialisation. L'acquisition de compétences en événementiel peut se faire aussi par le biais de stages. Une licence professionnelle spécialisée en communication événementielle permet d'occuper au début un poste d'assistant. </p>
+<p>Pour décrocher d'emblée un poste de chargé de projet événementiel, un diplôme de niveau bac + 3/4 est généralement le minimum requis. Une formation en école de commerce ou en école de communication avec spécialisation en communication événementielle, ou encore un master du même domaine, offre une évolution professionnelle rapide. </p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS communication </itsimp>
+<itsimp>DUT information-communication option communication des organisations</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>
+<em>Licences professionnelles</em> Métiers de la communication : événementiel</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 4/5</tete>
+<itsimp>Diplômes des ESC (écoles supérieures de commerce) et des écoles de communication, de Sciences Po</itsimp>
+<itsimp>Diplômes du Celsa (École des hautes études en sciences de l'information et de la communication, rattachée à l'université Paris-Sorbonne), de l'Iscom (Institut supérieur de communication), de l'ISCPA (Institut supérieur des médias de Paris) ou de l'Istec (Institut supérieur des sciences, techniques et économie commerciales)</itsimp>
+<itsimp>Masters Communication des organisations ; Information, communication</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="52438" csRelFld="52438">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">52438</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100536</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>En agences spécialisées</inter>
+<p>La plupart des chargés de projet événementiel travaillent en agence de communication événementielle. Il peut aussi travailler dans certaines agences de publicité ou de voyages d'affaires, dans des entreprises organisatrices de spectacles, foires et salons, dans les collectivités territoriales, plus rarement dans les grandes entreprises. Au fil du temps, il doit se doter d'un réseau professionnel.</p>
+<p>Son secteur professionnel est la communication hors médias, c'est-à-dire le marketing direct, l'événementiel, la promotion des ventes, les relations publiques.</p>
+<inter>De l'événementiel à la communication ou la logistique</inter>
+<p>S'il est plus intéressé par le relationnel, il peut s'orienter vers un poste de responsable communication ou, selon la taille de l'entreprise, devenir directeur de la communication, directeur commercial, directeur de projet ou patron d'une agence d'événementiel. Si l'organisation technique d'un événement le motive davantage, il peut se destiner au métier de responsable logistique.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2200</sal> euros brut par mois. La rémunération varie en fonction de la taille et de l'activité de l'entreprise. Des primes selon la réussite de l'événement peuvent la compléter</p>
+<postit>
+<p>(source : Convention collective nationale des entreprises techniques au service de la création et de l'événement, 21 février 2008).</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

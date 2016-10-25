@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">astrophysicien/ne</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire de la recherche/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur recherche/secteur fonction publique/secteur de l'éducation</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">astrophysique/physique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit/astrophysicien</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10389</lien_onisep>
+<ROME Level="1B" csRelFld="10389">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="520" csRelFld="520">
+<CSLABELFLD label="">K2402</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Recherche</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K2402</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Recherche en sciences de l'univers, de la matière et du vivant</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10389">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18484" csRelFld="18484">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18484</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10389</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Spécialiste et polyvalent</inter>
+<p>L'astrophysicien étudie la physique et les propriétés des objets célestes (planètes, étoiles, galaxies). Face à la multitude d'objets présents dans l'univers, il doit se spécialiser dans une ou plusieurs disciplines (cosmologie, planétologie, exobiologie, etc.). Ses activités principales sont l'observation, l'étude théorique et l'instrumentation. Il peut exercer une ou plusieurs de ces activités. Il consacre une grande partie de son temps à la publication de ses recherches.</p>
+<inter>Observation</inter>
+<p>Pour sonder l'univers, ce scientifique dispose d'instruments de mesure et d'observation (télescopes, spectrographes, interféromètres). Le traitement informatique, l'exploitation et l'interprétation des données enregistrées lors des observations peuvent occuper ce spécialiste pendant plusieurs mois.</p>
+<inter>Théorie et instrumentation</inter>
+<p>Théoricien, il élabore des modèles pour expliquer la nature des astres, leur formation et leur comportement. Ces modèles sont ensuite confrontés aux observations. Il conçoit et améliore les instruments d'astronomie qui seront installés sur les télescopes au sol ou embarqueront à bord des missions spatiales. Les instruments de mesure, de plus en plus performants, poussent les théoriciens à améliorer sans cesse leurs modèles.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18481" csRelFld="18481">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18481</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10389</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Les formations spécialisées en astrophysique commencent au niveau bac + 5. À l'université, les formations spécialisées commencent au niveau master (des cours d'astrophysique sont parfois proposés au niveau licence). En école d'ingénieurs, mais aucune ne propose exclusivement un parcours en astrophysique. Dans les deux cas, il faut s'inscrire dans une école doctorale universitaire (bac + 5 à bac + 8). Pour espérer obtenir un poste d'astrophysicien, l'étudiant doit faire une thèse et publier plusieurs articles en anglais. Pour mettre toutes les chances de son côté lorsqu'il se présente au concours national de la fonction publique, le titulaire du doctorat doit effectuer un ou plusieurs stages post-doctoraux à l'étranger. S'il est reçu au concours, il exercera en tant que chargé de recherche au CNRS, astronome adjoint dans le corps des astronomes et physiciens, ou maître de conférences dans les universités.</p>
+<liste>
+<tete>Niveau bac + 5 et plus</tete>
+<itsimp>Master recherche physique, spécialité astrophysique, plasmas, planètes ; master sciences de la Terre et de l'environnement, spécialité imagerie et modélisation pour l'astrophysique, la géophysique, l'espace et l'environnement ; astronomie et astrophysique...</itsimp>
+<itsimp>Diplôme d'ingénieur</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18482" csRelFld="18482">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18482</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10389</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Très peu d'élus</inter>
+<p>On recense environ 1 000 astrophysiciens en France (et 10 000 dans le monde). Le nombre de postes de chercheurs permanents offerts est faible : entre 10 et 20 jeunes sont recrutés chaque année par les laboratoires du CNRS, les observatoires astronomiques et les universités. Des contrats à durée déterminée (de quelques années) sont parfois proposés par les laboratoires français et étrangers mais, là aussi, la concurrence est rude. </p>
+<inter>Autres voies possibles</inter>
+<p>Un certain nombre de jeunes rejoignent des organismes publics (Cnes, CEA, Onera) ou privés (Thales, Ariane Espace, laboratoires de recherche, etc.) spécialisés dans les domaines suivants : aéronautique, informatique, télédétection, électronique, optique, physique, mathématiques, statistiques... D'autres s'orientent vers l'enseignement, la médiation, le journalisme scientifique...</p>
+<inter>Évolution de carrière</inter>
+<p>Dans un observatoire, l'astronome adjoint peut évoluer vers un poste d'astronome. À l'université, le maître de conférences peut devenir professeur d'université. Enfin, le chargé de recherche au CNRS peut devenir directeur de recherche. L'évolution de carrière est liée au nombre de publications et aux responsabilités au sein de l'organisme et dans des projets de recherche.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2100 </sal>(pour un astrophysicien adjoint, maître de conférences) à <sal>2200</sal> euros brut par mois (pour un chargé de recherche au CNRS). </p>
+<postit>
+<p>Source: non communiquée.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

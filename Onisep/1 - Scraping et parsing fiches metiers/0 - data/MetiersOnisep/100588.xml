@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">responsable de réseau eau potable</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction encadrement - coordination</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur environnement/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">traitement de l'eau/hydraulique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE nettoyage assainissement environnement sécurité</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100588</lien_onisep>
+<ROME Level="1B" csRelFld="100588">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="517" csRelFld="517">
+<CSLABELFLD label="">K2306</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Propreté et environnement urbain</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K2306</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Supervision d'exploitation éco-industrielle</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100588">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="55521" csRelFld="55521">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55521</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100588</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Coordonner les équipes</inter>
+<p>À la tête d'une équipe d'agents et de techniciens, le responsable de réseau eau potable organise la collecte, le traitement et le transport de l'eau que nous buvons. Faire couler l'eau du robinet semble bien banal, mais ce geste quotidien dépend du travail de nombreux professionnels. Le responsable de réseau organise et dirige les opérations de captage, de stockage, de traitement (décantation, filtration, désinfection...) et d'acheminement de l'eau potable. Pour ce faire, il gère les besoins en hommes et en matériel. Il s'occupe du recrutement et de l'évaluation du personnel.</p>
+<inter>Garantir le bon fonctionnement du réseau</inter>
+<p>Il assure le bon fonctionnement du réseau : la qualité de l'eau est-elle suffisante ? Qu'en est-il de la pression ? Existe-t-il des fuites dans les canalisations, des pannes à réparer ? Autant de questions auxquelles son équipe répond. Il contrôle le débit des installations et vérifie leur adaptation au volume des eaux traitées. Il analyse le besoin des collectivités et propose des moyens d'amélioration (renforcements, extensions, travaux neufs). </p>
+<inter>Prévenir le risque sanitaire</inter>
+<p>Il doit aussi contrôler la nature des rejets dans le réseau, afin de prévenir tout risque de pollution. Il veille au respect des normes d'hygiène et de sécurité.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55525" csRelFld="55525">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55525</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100588</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Un bac + 2 (BTS métiers de l'eau, bioanalyses et contrôles ; BTSA gestion et maîtrise de l'eau ; DUT génie biologique, option génie de l'environnement) avec une certaine expérience, permet d'occuper un poste de technicien et de diriger des équipes. Mais la formation peut être complétée à bac + 3 ou au-delà. En effet, pour un réseau important, il est préférable d'être titulaire d'un bac + 5 (master ou diplôme d'ingénieur).</p>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence pro spécialisée dans le domaine de l'eau </itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master sciences de l'eau</itsimp>
+<itsimp>Diplôme d'ingénieur en hydraulique, chimie...</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 6</tete>
+<itsimp>Mastère spécialisé en génie de l'eau, eau potable et assainissement, gestion de l'eau... </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55523" csRelFld="55523">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55523</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100588</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Avoir fait ses preuves</inter>
+<p>Le responsable de réseau eau potable n'est pas un débutant. Il s'agit d'endosser la responsabilité de la qualité de l'eau bue par les habitants d'une ville. C'est donc un technicien confirmé, capable d'encadrer une équipe. Lorsqu'il est en charge d'un petit réseau, le responsable assure parfois la responsabilité du réseau d'assainissement. Pour un grand réseau, il existe deux postes bien distincts : eau potable et assainissement.</p>
+<inter>En collectivité locale...</inter>
+<p>Les emplois se trouvent dans les collectivités locales (ville, groupement de communes). Dans la fonction publique territoriale, le recrutement s'effectue sur concours. L'évolution de carrière dépend aussi de la réussite à des concours internes.</p>
+<inter>... ou au sein d'un grand groupe</inter>
+<p>Dans le privé, le responsable de réseau eau potable exerce pour le compte de grandes entreprises de la distribution de l'eau (Lyonnaise des eaux-Suez, Veolia, Saur...). Il peut faire évoluer sa carrière vers d'autres responsabilités au sein du groupe, diriger des équipes plus importantes ou bouger géographiquement.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1515</sal> euros brut par mois (pour un technicien de la fonction publique territoriale).</p>
+<p>2500 euros brut par mois (pour un ingénieur dans le secteur privé).</p>
+<postit>
+<p>Sources : grille indiciaire territoriale, 2014 ; Apec (Association pour l'emploi des cadres), 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

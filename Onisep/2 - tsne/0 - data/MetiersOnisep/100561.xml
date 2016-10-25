@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">responsable du soutien logistique intégré</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">convaincre, négocier/concevoir, utiliser des technologies industrielles de pointe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction études développement industriel </MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur sociétés d'ingénierie et d'études techniques/secteur fonction publique/secteur construction aéronautique/secteur construction ferroviaire/secteur énergie/secteur des télécommunications/secteur santé/secteur transports aériens</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">informatique/électronique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE électricité électrotechnique électronique</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100561</lien_onisep>
+<ROME Level="1B" csRelFld="100561">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="275" csRelFld="275">
+<CSLABELFLD label="">H1401</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Méthodes et gestion industrielles</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H1401</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie gestion industrielle et logistique</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100561">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="53644" csRelFld="53644">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53644</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100561</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter> Communiquer, arbitrer </inter>
+<p>Le responsable du soutien logistique intégré fait le lien entre les clients, les utilisateurs et les équipes de développement. C'est un communicant, un négociateur... un arbitre aussi. Sa mission ? Anticiper les problèmes qui pourraient surgir tout au long de la vie du produit et prévoir des solutions. </p>
+<inter>Anticiper l'avenir d'un produit </inter>
+<p>Dans quelles conditions sera-t-il utilisé ? De quels moyens dispose le client pour en effectuer l'entretien ou les réparations ? Les réponses à ces questions (et bien d'autres encore) permettent à ce professionnel d'orienter le travail des équipes de développement, par exemple pour choisir des matériaux résistants au climat, pour placer des voyants de contrôle et des outils de diagnostic de pannes à des endroits facilement accessibles... Il doit aussi penser au conditionnement (emballage), au stockage et au transport des matériels et des pièces de rechange, car ils ont un impact sur la conception même du produit.</p>
+<inter>Former les utilisateurs </inter>
+<p>Enfin, le responsable du soutien logistique intégré supervise la rédaction des modes d'emploi et de la documentation technique, la définition des formations des futurs utilisateurs... prévoit les pièces de rechange et les outils de réparation, etc. Sans oublier, car c'est un véritable chef de projet, la gestion des plannings et des budgets.</p> </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="53648" csRelFld="53648">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53648</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100561</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>On accède au métier avec un bac + 5 (diplôme d'ingénieur ou master) voire un bac + 6 (mastère spécialisé). </p>
+<liste>
+<tete>Bac + 5 </tete>
+<itsimp>Diplôme d'ingénieur en électronique, en télécommunications ou dans d'autres filières techniques</itsimp>
+<itsimp>Master mention gestion de production, logistique, achats ou réseaux et télécommunication</itsimp>
+</liste>
+<liste>
+<tete>Bac + 6</tete>
+<itsimp>Mastère spécialisé en management de projet et ingénierie système, spécialité du soutien et des services</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="53646" csRelFld="53646">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53646</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100561</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter> De nouvelles opportunités </inter>
+<p>Le soutien logistique intégré est d'abord apparu dans les domaines de l'aéronautique et du spatial. Puis il s'est développé dans de nombreux autres secteurs : le transport ferroviaire et maritime, la production d'énergie (pétrole, nucléaire...), les télécommunications, la défense, la sécurité, l'aviation civile, les services hospitaliers, etc. De plus en plus, la maintenance est prise en compte dès la conception d'un équipement industriel. Le responsable SLI a de beaux jours devant lui : la prise en compte du suivi d'un produit et de son maintien en état sur le long terme fait la différence avec les concurrents, au moment de la signature d'un contrat avec un client.</p>
+<inter>Possibilités d'évolution </inter>
+<p>Le responsable du soutien logistique intégré peut choisir de donner une nouvelle orientation à sa carrière. Il peut opter pour un poste plus commercial, tel l'ingénieur d'affaires qui négocie les contrats avec les clients. Il peut également prendre des fonctions de direction.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir de <sal>2910</sal> euros brut par mois et jusqu'à 3300 euros brut par mois.</p>
+<postit>
+<p>Source : Apec, 2012 ; CentraleSupélec 2015.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

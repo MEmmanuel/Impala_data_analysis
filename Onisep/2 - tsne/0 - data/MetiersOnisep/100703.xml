@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">diagnostiqueur/euse immobilier</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">contrôler la qualité, expertiser</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/indépendant</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur travaux publics/secteur gros oeuvre bâtiment/secteur second oeuvre bâtiment</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">bâtiment - construction</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE bâtiment gros oeuvre génie civil</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100703</lien_onisep>
+<ROME Level="1B" csRelFld="100703">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="173" csRelFld="173">
+<CSLABELFLD label="">F1103</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception et études</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">F1103</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Contrôle et diagnostic technique du bâtiment</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100703">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="59570" csRelFld="59570">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59570</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100703</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+   <inter>Contrôler</inter>
+   <p>L'activité principale d'un diagnostiqueur consiste à réaliser les différents contrôles rendus obligatoires par la loi. Ces diagnostics varient en fonction du type de bien concerné et de sa date de construction. Le diagnostiqueur est amené à détecter la présence d'amiante, à veiller à la mise aux normes de l'électricité et du gaz, à déterminer la superficie de l'appartement ou encore à réaliser un diagnostic de performance énergétique. Après sa visite, le diagnostiqueur rédige un rapport de visite très précis et détaillé avec photos à l'appui. Ce dossier est indispensable et doit être présenté au notaire lors d'un achat ou lors de la signature d'un bail, l'objectif étant d'informer le propriétaire sur l'état général de l'habitation. Le diagnostiqueur doit sans cesse être vigilant sur les nouvelles réglementations en cours, et réalise donc régulièrement une veille juridique et technique.</p>
+   <inter>Conseiller</inter>
+   <p>Dans son rapport, le diagnostiqueur fournit au futur propriétaire des recommandations concernant son installation et les risques de pollution environnementale. Les travaux préconisés ne sont pas obligatoires, mais sont des indications utiles à l'acheteur s'il veut améliorer son habitation.</p>
+  </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="59574" csRelFld="59574">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59574</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100703</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+   <p>Les entreprises recrutent bien souvent des personnes de niveau bac + 2 ou équivalent et issues d'une formation bâtiment, immobilier ou énergie, par exemple. Un BTS bâtiment, un DUT génie civil ou un DUT génie thermique et énergie font partie des profils recherchés. Si le candidat dispose d'une expérience dans le bâtiment, il aura d'autant plus d'atouts.</p>
+   <p>Mais une formation initiale ne suffit pas pour exercer le métier de diagnostiqueur immobilier. Chaque type de diagnostic nécessite une certification. Pour obtenir cette dernière, il faut suivre des formations payantes certifiées par le Cofrac (Comité français d'accréditation). Une recertification est exigée tous les 5 ans.</p>
+   <liste>
+    <tete>Niveau bac + 2</tete>
+    <itsimp>BTS bâtiment ; technico-commercial spécialité matériaux du bâtiment ou énergie et service ; professions immobilières</itsimp>
+    <itsimp>DUT génie civil ; génie thermique et énergie</itsimp>
+   </liste>
+   
+   
+   <liste>
+    <tete>Niveau bac + 3</tete>
+    <itsimp>Licence pro métiers du BTP (4 mentions proposées) </itsimp>
+   </liste>
+   
+  </MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="59572" csRelFld="59572">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59572</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100703</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un métier réglementé</inter>
+<p>Le métier de diagnostiqueur immobilier est récent ; son apparition est liée à une réglementation accrue en matière de sécurité et d'hygiène de l'habitat. En 2007, il y a eu une explosion du nombre de diagnostiqueurs. Depuis, ce métier est de plus en plus contrôlé et réglementé. Aujourd'hui, tout professionnel, pour pouvoir exercer, doit être certifié : il doit passer des examens théoriques et pratiques pour chaque type de diagnostic qu'il fait, et obtenir le certificat qui valide ses compétences en la matière. C'est en quelque sorte son permis de travail.</p>
+<inter>Une concurrence rude</inter>
+<p>Après quelques années d'expérience, un diagnostiqueur peut créer sa propre entreprise. Cette création doit être mûrement réfléchie, car elle nécessite de lourds investissements : achat de matériel, formations, certifications. Ce milieu est très concurrentiel. Certains diagnostiqueurs développent d'autres activités comme l'expertise judiciaire et le conseil auprès des assurés, pour se distinguer de leurs concurrents.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Environ <sal>2900</sal> euros brut par mois.</p>
+<postit>
+<p>Batiactu Emploi (www.batiactuemploi.com), expert de l'emploi dans le BTP, la construction et l'immobilier, 2015.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

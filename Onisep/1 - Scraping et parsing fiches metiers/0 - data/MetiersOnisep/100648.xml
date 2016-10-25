@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">médiateur/trice scientifique</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">informer, communiquer</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction information - communication</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur culture et patrimoine/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">biologie/chimie/physique/mathématiques/informatique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100648</lien_onisep>
+<ROME Level="1B" csRelFld="100648">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100648">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56525" csRelFld="56525">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56525</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100648</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter> Vulgariser les sciences </inter>
+<p> La physiologie des protozoaires, l'oxydation des ions... ces seuls intitulés vous endorment les neurones ! Le défi du médiateur scientifique est précisément de capter l'attention d'un public non acquis et de rendre compréhensibles des notions ardues de prime abord. Pour ce vulgarisateur, rien n'est trop compliqué, il suffit de savoir expliquer. </p>
+<inter> S'adapter à son public</inter>
+<p> Le public devant lequel le médiateur intervient est rarement homogène et captivé par le sujet. À lui d'adapter son discours en fonction de ses interlocuteurs, car ces derniers ne peuvent pas assimiler un langage scientifique dont ils ne connaissent pas les rudiments.</p>
+<inter> Savoir raconter une histoire </inter>
+<p> Il évite l'usage excessif des concepts. À défaut de transmettre de nouvelles connaissances, il s'emploie à consolider les savoirs existants. Il part de l'observation et de la description de phénomènes courants et directement accessibles, et emploie un langage imagé. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56529" csRelFld="56529">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56529</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100648</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p> Le niveau de formation varie de bac + 3 à bac + 5 dans un domaine scientifique comme la physique, la chimie, la biologie, les géosciences, les mathématiques, l'informatique, les sciences de l'ingénieur... Une formation complémentaire en diffusion culturelle et scientifique est appréciée. </p>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence en chimie, physique, sciences de la vie et de la terre, mécanique, informatique, mathématiques...</itsimp>
+<itsimp>Licence pro mention métiers de la médiation scientifique et technique</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master mentions :  information et médiation scientifique et technique ; chimie ; sciences de la Terre et des planètes, environnement ; informatique ;  mathématiques ; physique... </itsimp>
+<itsimp>Diplôme d'ingénieur</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56527" csRelFld="56527">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56527</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100648</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter> Dans un musée, un centre scientifique </inter>
+<p> Ce professionnel travaille dans un centre scientifique, où il propose et met en oeuvre la politique de médiation scientifique. Il peut s'agir d'un musée (comme le Palais de la découverte à Paris, par exemple) ou bien d'un organisme privé ou public dépendant d'un département, d'une région. </p>
+<p>Ces centres et services scientifiques à vocation culturelle ont des besoins importants en mathématiciens, et plus généralement en scientifiques, dans le secteur des services. Cette tendance offre de réelles perspectives de carrière à ceux qui se détournent de la science pure. </p>
+<inter> Au sein des collectivités </inter>
+<p> Le médiateur scientifique se voit notamment proposer des opportunités en province. Citons, par exemple, l'Espace Mendès-France à Poitiers, dont les objectifs sont de populariser la recherche en proposant des expositions, des conférences sur l'astronomie et la médecine, en passant par le développement durable et les médias. </p>
+<p>De fait, le médiateur est souvent un fonctionnaire (de catégorie A ou B) des collectivités locales.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1486</sal> euros brut par mois pour un cadre de catégorie B. </p>
+<postit>
+<p>Source : grille indiciaire territoriale, 2014.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

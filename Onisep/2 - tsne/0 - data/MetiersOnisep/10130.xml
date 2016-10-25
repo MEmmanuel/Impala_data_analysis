@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">hôtesse de l'air (steward)</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">me déplacer souvent/pratiquer les langues vivantes</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur des transports</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">transport aérien</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE hôtellerie restauration tourisme loisirs/hôtesse de l'air</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10130</lien_onisep>
+<ROME Level="1B" csRelFld="10130">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="626" csRelFld="626">
+<CSLABELFLD label="">N2101</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Personnel navigant du transport aérien</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">N2101</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Navigation commerciale aérienne</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10130">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="912" csRelFld="912">
+<CSLABELFLD label="">chef PNC</CSLABELFLD>
+<MET_ID label="Identifiant">10130</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">05/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">912</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chef/fe PNC</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="912">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="913" csRelFld="913">
+<CSLABELFLD label="">instructeur / instructrice PNC</CSLABELFLD>
+<MET_ID label="Identifiant">10130</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">05/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">913</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">instructeur/trice PNC</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="913">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16235" csRelFld="16235">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16235</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10130</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Contrôle avant le décollage</inter>
+<p>Le travail des hôtesses de l'air et des stewards (personnels navigants commerciaux, ou PNC) débute bien avant le décollage par un premier contrôle des équipements de sécurité en cabine (gilets de sauvetage, masque à oxygène...). Puis ils accueillent les passagers, en prêtant une attention particulière aux enfants non accompagnés et aux personnes handicapées. </p>
+<inter>La sécurité avant tout</inter>
+<p>Une fois à bord, ils réalisent, pour les voyageurs, des démonstrations de sécurité et indiquent la procédure à suivre en cas d'accident. Responsables de la sécurité des passagers, les PNC veillent également à faire respecter les différentes consignes en vigueur (interdiction de fumer, extinction des téléphones portables, maintien des ceintures de sécurité au décollage, à l'atterrissage et en cas de turbulence...).</p>
+<inter>Les services aux passagers</inter>
+<p>Pendant le vol, leurs principales tâches demeurent la distribution (ou la vente) des boissons et des plateaux-repas, la vente des produits détaxés et le confort des passagers.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16238" csRelFld="16238">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16238</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10130</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Il faut avoir au minimum un niveau bac pour suivre les formations professionnelles d'hôtesse de l'air ou de steward.</accr_p> Souvent, les candidats sont titulaires d'un bac + 2. Ils doivent avoir la nationalité française ou être ressortissants de l'Union européenne et être âgés de 18 ans au minimum au moment de l'entrée en formation. À noter : une maîtrise trop approximative de l'anglais est la première raison d'échec. Une expérience professionnelle commerciale, hôtelière ou de service à l'étranger est fortement appréciée.</p>
+<p>
+<accr_p>Pour exercer, les candidats devront impérativement détenir le CCA (Cabin crew attestation) </accr_p>délivré à l'issue d'une formation payante (au minimum 1500 euros) d'au moins 140 heures. Obligatoire, cette dernière est dispensée dans un organisme agréé par la Direction générale de l'aviation civile (liste disponible sur le site de la DGAC). Les candidats se présentent ensuite aux épreuves qui comprennent deux parties, l'une théorique et l'autre pratique (épreuves de natation, de secourisme et de sécurité-sauvetage). Dernier impératif : une visite médicale d'aptitude dans un centre agréé. A compter du 8 avril 2017 les navigants ne pourront plus voler avec le CFS (ou CSS + 2 modules) et devront détenir un CCA. Ils pourront néammoins toujours convertir leur ancien titre au-delà de cette date.</p> </MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16229" csRelFld="16229">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16229</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10130</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des perspectives fluctuantes </inter>
+<p>Des éléments conjoncturels (grève, attentat ou augmentation du prix des carburants...) influent directement sur l'activité des aéroports et se répercutent sur l'emploi des personnels navigants. En dehors d'Air France qui concentre les trois quarts des postes, il existe de nombreuses petites compagnies régulières ou low-cost, françaises ou étrangères. </p>
+<inter>Une carrière qui évolue</inter>
+<p>Les hôtesses et stewards peuvent évoluer en passant de la classe économique à la première classe ou la classe affaires. Ils peuvent aussi « passer » des vols nationaux aux vols moyens-courriers, voire aux vols longs-courriers, qui génèrent des primes supplémentaires mais aussi plus de contraintes. Après plusieurs années d'expérience, quelques-uns deviennent chefs de cabine. Ils encadrent alors l'équipe navigante commerciale. L'évolution est la suivante : instructeur, chef des personnels navigants commerciaux (mais il existe un seul poste par compagnie !).</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1500</sal> euros brut par mois (hors primes). Le nombre d'heures travaillées par mois diffère d'une compagnie à l'autre.</p>
+<postit>
+<p>Source : SNPC.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

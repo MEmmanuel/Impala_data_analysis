@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">chef/fe d'exploitation des remontées mécaniques</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/saisonnier</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction encadrement - coordination</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur maintenance</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">mécanique/électronique/électrotechnique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE électricité électrotechnique électronique</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100691</lien_onisep>
+<ROME Level="1B" csRelFld="100691">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="660" csRelFld="660">
+<CSLABELFLD label="">N4402</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Personnel sédentaire du transport ferroviaire et réseau filo guidé</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">N4402</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Exploitation et manoeuvre des remontées mécaniques</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100691">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="59074" csRelFld="59074">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59074</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100691</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Coordination du travail </inter>
+<p>Dans les stations de ski, le chef d'exploitation des remontées mécaniques supervise l'exploitation de l'ensemble des remontées mécaniques : téléskis, télésièges, télécabines, etc. Il affecte à chaque appareil le personnel d'exploitation nécessaire, et coordonne le travail des mécaniciens et des électriciens pour les opérations de maintenance et de réparation, ainsi que pour l'installation de nouveaux équipements.</p>
+<p>Il a également des responsabilités de gestion. Il gère le budget de son service (salaires, charges d'investissement et de fonctionnement), supervise les plannings et, en relation avec le directeur de site, organise le recrutement du personnel d'exploitation et le plan de formation.</p>
+<inter>Responsable de la sécurité</inter>
+<p>Il est chargé de l'application du PIDA (plan d'intervention pour le déclenchement préventif des avalanches) et contrôle la fermeture des appareils au public pendant ces opérations. En cas de défaillance d'une installation, il évacue les passagers et affecte les moyens humains et matériels nécessaires.</p>
+<inter>À l'affût des nouveautés</inter>
+<p>Il se tient constamment informé de l'évolution de l'offre des constructeurs pour les nouveaux équipements, participe aux salons et aux démonstrations organisés par ces derniers, et propose modernisation ou acquisition de matériels.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="59078" csRelFld="59078">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59078</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100691</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Chaque station recrute selon ses propres critères et besoins. L'embauche nécessite au préalable l'accord du service de contrôle, la direction départementale de l'équipement.</p>
+<p>Il n'existe pas réellement de formation spécifique. Un niveau de technicien supérieur ou d'ingénieur, en fonction de l'importance de l'exploitation, est souvent exigé. Parmi les formations appréciées par les employeurs, on peut citer, au niveau ingénieur, les écoles des arts et métiers et l'Enit (École nationale d'ingénieurs de Tarbes).</p>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="59076" csRelFld="59076">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59076</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100691</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Emploi saisonnier ou à l'année</inter>
+<p>Cette activité est plutôt saisonnière dans les stations de moindre importance. Dans les grandes stations, en revanche, il s'agit très souvent d'un emploi à l'année.</p>
+<p>Hors saison hivernale, le chef d'exploitation des remontées mécaniques participe aux études et aux travaux sur les remontées mécaniques neuves, en liaison avec son responsable. Il gère les aspects techniques, administratifs et humains relatifs à ces chantiers d'installation des nouveaux équipements ainsi qu'aux chantiers de révision des équipements existants.</p>
+<p>Le nombre de stations de ski étant limité, le marché de l'emploi est restreint.</p>
+<inter>Évolution de carrière</inter>
+<p>On débute rarement directement par un poste de chef d'exploitation des remontées mécaniques. Cela se fait plutôt par promotion interne, après avoir occupé d'autres fonctions dans l'entreprise. Après plusieurs années d'expérience, il est possible de devenir directeur de site.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2250</sal> à 2700 euros brut par mois. </p>
+<postit>
+<p>Source : Convention collective des remontées mécaniques.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

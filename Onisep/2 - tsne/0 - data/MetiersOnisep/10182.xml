@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">photographe</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un métier artistique ou créatif</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/artisan/indépendant</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction création artistique</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur des arts du spectacle/secteur édition - presse/secteur de la publicité</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">photographie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques de la communication média</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10182</lien_onisep>
+<ROME Level="1B" csRelFld="10182">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="152" csRelFld="152">
+<CSLABELFLD label="">E1201</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Images et sons</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">E1201</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Photographie</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10182">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17767" csRelFld="17767">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17767</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10182</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Réaliser des prises de vue</inter>
+<p>Actualité, mode, portrait, paysage... si la spécialité diffère, le principe est toujours le même : le photographe doit réaliser des prises de vue.</p>
+<p>Angle, lumière et cadrage vont de pair avec le choix du sujet, du thème, du reportage. Avant d'appuyer sur le déclencheur, une préparation et une réflexion s'imposent.</p>
+<inter>Développer, tirer, vendre</inter>
+<p>Les travaux d'exécution sont le plus souvent confiés à des laboratoires.</p>
+<p>Le technicien, appelé aussi photographe de laboratoire, traite chimiquement ou numériquement le négatif (développement). Il le retouche si nécessaire et le transpose sur papier (tirage).</p>
+<p>Il effectue les opérations de finition : vérification, calibrage, mise en sachet, tarification.</p>
+<p>En magasin, il assure la vente des photos, du matériel photographique, et conseille la clientèle.</p>
+<inter>Évoluer avec le numérique</inter>
+<p>Le passage au numérique a bouleversé la donne. L'ordinateur (CD-ROM, Internet) peut désormais se substituer au tirage papier et surtout au traitement du négatif. Grâce au support numérique, le photographe peut apprécier immédiatement le résultat et modifier la photo à l'aide d'un logiciel. Le numérique facilite également la commercialisation et l'archivage des épreuves. Un gain de temps et d'argent auquel peu de monde résiste !</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17762" csRelFld="17762">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17762</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10182</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Il est possible de devenir photographe sans avoir suivi de formation particulière, en se basant uniquement sur l'expérience personnelle. Cependant, la concurrence est rude et la plupart des employeurs recherchent des personnes diplômées. De plus en plus, le BTS (brevet de technicien supérieur) est un minimum pour débuter (le bac pro photographie est insuffisant pour une insertion professionnelle). Des écoles de photographie délivrent des diplômes de niveau bac + 2 à bac + 5. Certaines sont reconnues par la profession : l'École des Gobelins ; l'École nationale supérieure de la photographie d'Arles, l'École nationale supérieure Louis-Lumière, l'École nationale supérieure des arts décoratifs... Certaines écoles privées, parfois très chères, offrent des prestations de qualité inégale.</p>
+<liste>
+<tete>Niveau Bac + 2</tete>
+<itsimp>BTS photographie </itsimp>
+<itsimp>Certificats d'écoles privées</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Certificats d'écoles privées</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>DNSEP option communication</itsimp>
+<itsimp>Diplôme de l'École nationale supérieure de la photographie d'Arles</itsimp>
+<itsimp>Diplôme de concepteur-créateur en arts décoratifs de l'Ensad</itsimp>
+<itsimp>Diplôme de l'École nationale supérieure Louis-Lumière section photographie</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17754" csRelFld="17754">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17754</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10182</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Peu d'emplois en prise de vue</inter>
+<p>Les postes sont rares dans les secteurs du reportage, de la mode, de la pub, où on réalise essentiellement des prises de vue. Les jeunes photographes qui débutent comme assistants chez un photographe de renom sont souvent peu rémunérés. L'expérience acquise leur permet cependant de se faire une place dans ce milieu plutôt fermé et de se constituer un carnet d'adresses.</p>
+<inter>Davantage de débouchés en laboratoire</inter>
+<p>La majorité des offres d'emploi provient des laboratoires. Le travail axé sur l'argentique (développement du négatif et de la pellicule en chambre noire) a beaucoup perdu de son importance dans le quotidien du photographe : les développeurs sont moins sollicités. Le passage au numérique a fait évoluer le métier vers d'autres fonctions. Les profils recherchés sont désormais le retoucheur, qui exécute les travaux de modification des images, et le contrôleur sensitométrique, qui règle les machines nécessaires au développement des photos.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Pour un salarié en laboratoire photo, de <sal>1410</sal> à 2650 euros brut par mois, selon le poste. Pour un indépendant, entre 700 et 1200 euros minimum le prix de la journée de prise de vue. </p>
+<postit>
+<p>Source : Convention collective des salariés des studios de photo, 2012, et UPP (Union des photographes professionnels), 2011.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

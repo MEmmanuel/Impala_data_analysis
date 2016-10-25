@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">géographe</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire de la recherche</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique/secteur sociétés d'ingénierie et d'études techniques/secteur de l'éducation</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">géographie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit/géographe</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10292</lien_onisep>
+<ROME Level="1B" csRelFld="10292">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10292">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17205" csRelFld="17205">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17205</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10292</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+   <inter>Enseigner et chercher</inter>
+   <p>La plupart des géographes se dirigent vers l'enseignement. Dans le secondaire, ils enseignent également l'histoire ; dans le supérieur, ils sont aussi chercheurs et doivent régulièrement publier le résultat de leurs recherches tout en encadrant des étudiants. </p>
+   <inter>Établir cartes et rapports</inter>
+   <p>Pour mener ses études, le géographe réalise des enquêtes de terrain. Il collabore avec des architectes, urbanistes et paysagistes. Il rédige des rapports, croise des données informatiques et propose des solutions. Il peut également établir des cartes détaillées ou thématiques.</p>
+   <inter>Accompagner l'aménagement de l'espace</inter>
+   <p>Par son analyse de l'espace et de ses caractéristiques physiques, le géographe contribue à prévenir les risques liés à certains aménagements qui n'ont pas intégré les conditions et les contraintes des milieux naturels. Les décideurs (nationaux, régionaux et locaux) utilisent ses recherches et les pistes qu'il propose pour mieux organiser le territoire, corriger les déséquilibres issus de la répartition des populations, et améliorer la qualité de vie des citoyens. </p>
+   <p>Le géographe oriente les choix de grands travaux d'aménagement pour mieux exploiter les ressources naturelles du territoire, comme l'eau des fleuves, tout en préservant les différents milieux géographiques.</p>
+  </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17206" csRelFld="17206">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17206</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10292</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>À côté de l'université qui possède la quasi-exclusivité des formations en géographie (de la licence jusqu'au master), quelques établissements forment également les géographes</accr_p> : les écoles normales supérieures (ENS) de Lyon et Cachan, accessibles après une classe préparatoire, assurent la préparation à l'agrégation de géographie ; l'École des hautes études en sciences sociales (EHESS) forme les étudiants à la recherche ; l'École nationale des sciences géographiques (ENSG) formant plutôt aux métiers de la cartographie.</p>
+<inter>Niveau bac + 3</inter>
+<liste>
+<itsimp>Licence mention géographie ; sciences géographiques ; géographie et aménagement...</itsimp>
+<itsimp>Licence professionnelle mention développement de projets de territoires ; mention métiers de l'aménagement du territoire et de l'urbanisme ; mention cartographie, topographie et  systèmes d'information géographique...</itsimp>
+</liste>
+<inter>Niveau bac + 5</inter>
+<liste>
+<itsimp>Master mention géographie ; mention géographie, aménagement, environnement et développement ; mention gestion des territoires et développement local, mention géomatique ...</itsimp>
+<itsimp>Diplôme d'ingénieur de l'École nationale des sciences géographiques</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17218" csRelFld="17218">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17218</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10292</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Dans l'enseignement</inter>
+<p>Si le terrain d'études du géographe est vaste, les possibilités d'emploi sont limitées. L'enseignement reste le premier débouché des géographes, et une valeur sûre avec 685 postes offerts au CAPES (certificat d'aptitude au professorat de l'enseignement du 2<exp>d</exp> degré) externe d'histoire-géographie en 2015. Cependant, plus on monte dans l'échelle, plus les postes sont rares (38 postes pour l'agrégation de géographie).</p>
+<inter>En collectivité</inter>
+<p>Avec une double compétence en aménagement ou en informatique par exemple, le géographe peut exercer au sein d'un établissement public ou d'une collectivité territoriale en tant que chargé de mission environnement ou aménageur-développeur. Le renforcement de la décentralisation lui offre de nouveaux débouchés.</p>
+<inter>Consultants </inter>
+<p>Les bureaux d'études et les cabinets de conseil privés emploient également quelques géographes dans les domaines de l'urbanisme et du développement local notamment.</p>
+<p>Le géographe chercheur peut se réorienter vers la coopération ou être consultant pour un ministère ou l'ambassade d'un pays qu'il connaît bien. Cependant, cela ne concerne que de très petits effectifs.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir de <sal>2000</sal> euros (+ primes ou indemnités) brut par mois dans le public. Variable dans le privé.</p>
+<postit>
+<p>Source : ministère de l'Éducation nationale, décembre 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

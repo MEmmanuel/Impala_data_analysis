@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">expert/e-comptable</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">manier les chiffres</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">libéral/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur banque/secteur sociétés d'expertise comptable</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">comptabilité</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé/expert-comptable</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10041</lien_onisep>
+<ROME Level="1B" csRelFld="10041">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="562" csRelFld="562">
+<CSLABELFLD label="">M1202</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Comptabilité et gestion</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1202</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Audit et contrôle comptables et financiers</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10041">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1590" csRelFld="1590">
+<CSLABELFLD label="">auditeur légal / auditrice légale</CSLABELFLD>
+<MET_ID label="Identifiant">10041</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1590</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">auditeur/trice légal/e</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1590">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1591" csRelFld="1591">
+<CSLABELFLD label="">commissaire aux comptes</CSLABELFLD>
+<MET_ID label="Identifiant">10041</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1591</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">commissaire aux comptes</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1591">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17435" csRelFld="17435">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17435</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10041</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>De l'écriture au bilan</inter>
+<p>Les prestations de l'expert-comptable varient selon ses clients. Pour des artisans, des commerçants, des médecins, il peut tenir la comptabilité de A à Z ( des écritures comptables au bilan). Pour une PME possédant un service comptable, il vérifie et fiabilise les comptes annuels.</p>
+<inter>Expert en entreprise</inter>
+<p>Éclairer le dirigeant sur une stratégie performante, l'alerter sur les points faibles de l'entreprise, optimiser sa fiscalité ou son système de gestion informatisé... L'expert-comptable est le conseiller privilégié du chef d'entreprise. Qu'il s'agisse de mettre en place une comptabilité analytique, d'élaborer des budgets prévisionnels ou de rechercher un financement, il est l'homme de la situation.</p>
+<inter>Le compte est bon</inter>
+<p>90 % des experts-comptables sont aussi commissaires aux comptes, mais jamais pour un même client. À partir d'un audit annuel, ils certifient les comptes d'entreprises et garantissent la fiabilité de l'information financière. Les experts-comptables réalisent également des audits ponctuels, lors d'opérations d'acquisition d'entreprises, par exemple.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17433" csRelFld="17433">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17433</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10041</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<titre>Une filière à la carte</titre>
+<liste>
+<tete>
+<accr_p>Incollable sur les normes comptables, l'expert-comptable est aussi à l'aise en gestion, droit, fiscalité, informatique de gestion, mathématiques financières.</accr_p> Ce qui explique la longueur du cursus. Tout en sachant que la formation peut se faire en alternance, que l'on peut progresser par étapes. Et que des passerelles permettent d'entrer à différents niveaux.</tete>
+<itsimp>À bac + 3 (niveau licence), le diplôme de comptabilité et gestion (DCG) est le premier niveau de la filière. Il recouvre treize épreuves, mais des dispenses sont accordées aux titulaires de certains diplômes. On peut ensuite accéder à un poste de comptable ou poursuivre ses études.</itsimp>
+<itsimp>À bac + 5, le diplôme supérieur de comptabilité et gestion (DSCG) comprend 7 épreuves, avec des possibilités de dispenses, notamment pour les titulaires de certains diplômes comme le diplôme national de master comptabilité-contrôle-audit qui offre le plus de dispenses. Le DSCG permet d'évoluer vers des postes de responsable comptable ou de poursuivre vers l'expertise.</itsimp>
+<itsimp>Un stage professionnel de trois ans précède l'examen conduisant au <em>diplôme d'expertise compta</em>
+<em>ble</em>,<em> diplôme exigé pour l'exercice du métier d'expert-comptable</em> .</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17442" csRelFld="17442">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17442</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10041</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un avenir radieux</inter>
+<p>Environ 15 000 experts-comptables exercent en libéral et 10 000 diplômés d'expertise comptable sont en entreprise. Les cabinets sont fortement implantés en Ile-de-France, en Alsace, dans le Nord, le Sud-Est et le Languedoc-Roussillon. La profession se développe régulièrement depuis de nombreuses années. On estime qu'il manque 300 à 400 diplômés d'expertise comptable chaque année.</p>
+<inter>Faire son trou</inter>
+<p>Difficile de visser sa plaque en sortant de formation. Une expérience dans un cabinet d'expertise comptable ou dans un grand cabinet d'audit permet d'acquérir une bonne approche de l'entreprise. Il est assez fréquent qu'un diplômé s'associe dans un premier temps à son maître de stage. Après quelques années d'exercice où il acquiert de la maturité, il peut racheter des parts. Créer son propre cabinet exige d'être déjà connu ou de se positionner sur une niche (transmission d'entreprise, fiscalité...).</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>En moyenne <sal>3100</sal> euros brut par mois pour un jeune diplômé.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

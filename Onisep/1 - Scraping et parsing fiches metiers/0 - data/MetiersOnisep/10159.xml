@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">sommelier/ère</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller/travailler à l'étranger</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/artisan</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction vente/fonction achats approvisionnement/fonction magasinage</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur restauration/secteur hôtellerie</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">sommellerie/service salle</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE hôtellerie restauration tourisme loisirs/sommelier</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10159</lien_onisep>
+<ROME Level="1B" csRelFld="10159">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="253" csRelFld="253">
+<CSLABELFLD label="">G1804</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Service</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">G1804</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Sommellerie</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="251" csRelFld="251">
+<CSLABELFLD label="">G1802</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Service</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">G1802</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management du service en restauration</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10159">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="914" csRelFld="914">
+<CSLABELFLD label="">chef sommelier / sommelière</CSLABELFLD>
+<MET_ID label="Identifiant">10159</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">05/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">914</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chef/fe sommelier/ère</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="914">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16894" csRelFld="16894">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16894</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10159</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Trouver le bon accord vin/plat</inter>
+<p>Dans un restaurant gastronomique, c'est lui l'expert des vins. Il est incollable sur les qualités et les caractéristiques de chaque cru, leur millésime, leur provenance et leur harmonie par rapport au plat choisi. Après avoir pris la commande, il va chercher la bouteille, s'assure que le vin est à la température voulue (ou fait en sorte qu'il le devienne). Puis, il ouvre la bouteille devant le client, lui fait goûter le vin et le sert. </p>
+<inter>Se fournir auprès des viticulteurs</inter>
+<p>Toujours un pied dans le vignoble, il achète lui-même ses vins aux viticulteurs, en assure la réception et la surveillance. Il sélectionne les crus qui composeront une carte des vins pour tel restaurant, par exemple. Celle-ci devant combiner goûts de la clientèle, impératifs financiers du restaurateur, valeur des bouteilles... et tendance du moment !</p>
+<inter>Organiser et gérer la cave</inter>
+<p>Autre rôle : mettre en place et gérer la cave (réception, vérification des livraisons, embouteillage, décapsulage, rangement, surveillance des vins), calculer les recettes quotidiennes et vérifier les stocks au jour le jour. Responsable d'un budget qui se chiffre parfois en centaines de milliers d'euros, il n'a pas droit à l'erreur !</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16043" csRelFld="16043">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16043</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10159</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>La mention complémentaire (MC) sommellerie (après un CAP ou un Bac du secteur de la restauration de préférence) est indispensable pour devenir sommelier. </accr_p>Le brevet professionnel (BP) sommelier (après 5 ans d'expérience professionnelle ou après un CAP et 2 ans d'expérience professionnelle) permet de devenir assistant sommelier, sommelier ou chef sommelier dans les restaurants gastronomiques recevant une clientèle française et internationale.</p>
+<liste>
+<tete>Après un CAP ou un Bac directement ou après une expérience professionnelle : </tete>
+<itsimp>CAP restaurant puis</itsimp>
+<itsimp>Bac Pro commercialisation et services en retauration puis</itsimp>
+<itsimp>MC sommellerie</itsimp>
+<itsimp>BP sommelier</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16040" csRelFld="16040">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16040</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10159</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Dans un restaurant de qualité</inter>
+<p>Le sommelier exerce le plus souvent dans les restaurants gastronomiques, en France ou à l'étranger. La France compte environ 500 établissements qui peuvent faire (ou font déjà) appel à ses services. De plus en plus, des établissements plus modestes, en quête d'un service de qualité, ont désormais recours à ses compétences.</p>
+<inter>Dans un bar à vins ou un magasin</inter>
+<p>Le sommelier peut également exercer son art dans les caves, les bars à vins, les magasins alimentaires de luxe, voire dans la grande distribution. Il assure alors le conseil aux clients. Très nombreux à exercer à Paris et dans les grandes villes, les sommeliers français sont aussi très prisés à l'étranger.</p>
+<inter>Une expérience professionnelle nécessaire</inter>
+<p>L'obtention du titre de sommelier n'est qu'une étape, dans un secteur où l'on apprend sans cesse. Selon les professionnels, il ne faut pas moins de 10 ans d'expérience pour exercer réellement le métier !</p>
+<inter>Des promotions possibles</inter>
+<p>Commis de salle, commis sommelier ou chef de rang sommelier en début de carrière, le professionnel peut ensuite devenir sommelier puis chef sommelier. Il peut également s'orienter vers la représentation ou l'expertise en vins.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1500</sal> euros brut par mois.</p>
+<postit>
+<p>Source : Convention collective nationale des hôtels, cafés, restaurants (HCR) du 30 avril 1997, classification des emplois, avenant salaires 2011.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

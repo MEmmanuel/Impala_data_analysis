@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">expert/e automobile</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">me déplacer souvent/contrôler la qualité, expertiser</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/libéral</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur assurances</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">automobile - cycle/conseil en expertise technique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE mécanique automatismes/expert en automobile</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10364</lien_onisep>
+<ROME Level="1B" csRelFld="10364">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="400" csRelFld="400">
+<CSLABELFLD label="">I1604</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Véhicules, engins, aéronefs</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">I1604</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Mécanique automobile et entretien de véhicules</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10364">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1705" csRelFld="1705">
+<CSLABELFLD label="">expert / experte en deux-roues</CSLABELFLD>
+<MET_ID label="Identifiant">10364</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1705</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">expert/e en deux-roues</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1705">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1706" csRelFld="1706">
+<CSLABELFLD label="">expert / experte en machinisme agricole</CSLABELFLD>
+<MET_ID label="Identifiant">10364</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1706</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">expert/e en machinisme agricole</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1706">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1707" csRelFld="1707">
+<CSLABELFLD label="">expert / experte en véhicules de collection</CSLABELFLD>
+<MET_ID label="Identifiant">10364</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1707</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">expert/e en véhicules de collection</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1707">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18682" csRelFld="18682">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18682</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10364</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Enquête et analyse</inter>
+<p>La part la plus importante de l'activité de l'expert automobile concerne les suites de sinistres. Les compagnies d'assurances font appel à lui pour en établir l'origine et évaluer le montant des dommages. Dans les cas les plus simples, l'expertise peut se faire à distance, via Internet et/ou le téléphone, à partir de photos. Le plus souvent, il faut se déplacer pour enquêter en direct et analyser les causes : anomalie de fonctionnement, malfaçon, erreur du conducteur... L'expert définit avec le garagiste une procédure de remise en état, rédige le procès-verbal d'expertise et chiffre les travaux à réaliser. Il assure ensuite le suivi des réparations, contrôle leur qualité, vérifie les éléments de facturation.</p>
+<inter>Un rôle de médiateur</inter>
+<p>Particuliers et assureurs font appel à lui en cas de litige (sur une vente ou sur une réparation) avec un constructeur, un garage ou un particulier. L'expert examine le véhicule et procède à une expertise contradictoire avec la partie adverse. Il joue aussi un rôle de médiateur dans l'espoir de trouver un arrangement. Dans certains cas, il est désigné par un tribunal pour estimer le montant du préjudice subi.</p>
+<inter>De bon conseil</inter>
+<p>L'expert peut jouer un rôle de conseil auprès de clients lors de la vente ou de l'achat de véhicules d'occasion, ou pour vérifier l'exactitude d'un devis de réparation. Il peut intervenir dans le cadre du contrôle technique afin de vérifier l'état de marche des véhicules et leur conformité aux normes de sécurité. Certains experts spécialisés sont sollicités pour s'assurer de l'état et de la valeur de véhicules de collection.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18688" csRelFld="18688">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18688</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10364</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<inter>Un bac + 2 pour commencer</inter>
+<p>L'exercice du métier exige l'obtention préalable du diplôme d'expert en automobile (homologué au niveau bac + 2). Ce dernier comprend 3 unités d'enseignement : A (enseignement général), B (enseignement technologique) et C (formation professionnelle). Parcours le plus courant : obtenir, en 2 ans après le bac, un BTS (après-vente automobile ; maintenance et après-vente des engins de travaux publics et de manutention ; moteurs à combustion interne ; techniques et services en matériels agricoles) ou un BTSA (analyse, conduite et stratégie de l'entreprise agricole). Des diplômes qui présentent un avantage certain puisqu'ils dispensent leurs titulaires de passer les unités A et B.</p>
+<p>Une formation post-BTS en 1 an est proposée dans certains lycées. Conçue en alternance (23 semaines en entreprise et 23 semaines au lycée), elle permet de trouver un emploi d'expert stagiaire et de préparer en 2 ans, tout en travaillant, les épreuves professionnelles (autrement dit l'unité C) du diplôme.</p>
+<p>On peut aussi accéder à la formation d'expert avec un niveau bac, mais peu de candidats empruntent cette voie qui nécessite de se préparer tout seul et de passer les unités A et B.</p>
+<p>3 années d'expérience professionnelle dans la réparation automobile sont requises pour postuler à un emploi d'expert stagiaire et préparer l'unité C en 2 ans.</p> </MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18686" csRelFld="18686">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18686</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10364</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Diversifier ses activités</inter>
+<p>On compte environ 2 700 experts automobiles en France. Mais le volume d'expertises diminue grâce à l'amélioration de la sécurité des véhicules et aux changements dans le comportement des conducteurs. Pour assurer leurs revenus, les experts diversifient leurs activités, en s'orientant par exemple davantage vers le conseil pour l'achat d'un véhicule d'occasion.</p>
+<inter>Salarié ou à son compte</inter>
+<p>L'expert automobile peut ouvrir son propre cabinet ou travailler pour un autre expert libéral. Il peut aussi être salarié dans une compagnie d'assurances, une société, un groupement d'experts ou encore une administration.</p>
+<inter>Une spécialisation en prime</inter>
+<p>Après quelques années d'expérience et une formation, il peut se spécialiser dans un type de véhicules : les deux-roues, les engins agricoles, etc.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2148</sal> euros brut par mois.</p>
+<postit>
+<p>Source : Convention collective nationale des cabinets ou entreprises d'expertise en automobile.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

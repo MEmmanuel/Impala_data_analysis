@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">toiletteur/euse d'animaux</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire du commerce/m'occuper d'animaux</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/artisan</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction administration des soins</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur commerce</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">toilettage d'animaux</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE agriculture/toiletteur d'animaux</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10313</lien_onisep>
+<ROME Level="1B" csRelFld="10313">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="35" csRelFld="35">
+<CSLABELFLD label="">A1503</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Soins aux animaux</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">A1503</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Toilettage des animaux</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10313">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17073" csRelFld="17073">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17073</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10313</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Bain, coupe et épilation</inter>
+<p>Le toiletteur commence par démêler les noeuds qui se forment dans les poils. Il choisit un shampooing, procède au bain et au rinçage. Après le passage à la brosse et au séchoir, les ciseaux ou la tondeuse entrent en action. Peuvent s'ajouter à cela, si nécessaire, la taille des ongles, l'épilation des oreilles. Les soins qu'il prodigue sont esthétiques ou d'entretien, jamais médicaux, ceux-ci incombant au seul vétérinaire.</p>
+<inter>L'esthétique de chaque race</inter>
+<p>Un caniche ne se toilette pas comme un lévrier afghan ou un briard. Le toiletteur connaît les besoins des différentes races et adapte les soins à chaque chien. Il doit suivre les standards établis par les clubs de races et, dans une certaine mesure, les goûts des clients. </p>
+<inter>Vente spécialisée</inter>
+<p>L'activité seule de toilettage, très longue, est peu rentable. Aussi, pour augmenter leurs revenus, de nombreux salons vendent des produits de soins, de l'alimentation animale, des vêtements et divers accessoires. Certains pratiquent le commerce de chiots et de chatons. À noter : le métier est souvent féminin.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17076" csRelFld="17076">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17076</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10313</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Aucun diplôme n'est exigé pour exercer cette profession, ni pour s'installer à son compte.</accr_p> Une seule démarche à accomplir : s'inscrire au répertoire des métiers. Cependant, sortir d'une école reconnue par la profession et dispensant un enseignement théorique et pratique est un véritable atout pour se faire embaucher et pour se constituer une clientèle.</p>
+<p>Par ailleurs, il existe un titre de toiletteur canin et le CTM Toiletteur canin et félin (niveau CAP), enregistrés au RNCP (répertoire national des certifications professionnelles), et accessibles après la 3<exp>e</exp> . Ces diplômes se préparent en 2 ans, sous statut scolaire ou en apprentissage, dans un centre de formation agréé. Ils peuvent également se préparer dans le cadre de la formation continue.</p>
+<liste>
+<tete>Après la 3<exp>e</exp>
+</tete>
+<itsimp>Titre de toiletteur canin</itsimp>
+<itsimp>CTM  Toiletteur canin et félin </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17065" csRelFld="17065">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17065</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10313</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Perspectives limitées</inter>
+<p>Avec de plus en plus d'animaux de compagnie et des propriétaires plus attentifs à l'hygiène et à l'apparence de leurs protégés, tous les ingrédients sont réunis pour que l'activité de toilettage se développe. Mais le rythme est lent, même si le nombre de salons a presque doublé en 10 ans. Les perspectives d'emploi existent donc, mais elles restent limitées. Par ailleurs, la part d'abandons de l'activité est importante. Sachant que les propriétaires de salons contraints de fermer boutique sont souvent pénalisés par un mauvais emplacement.</p>
+<inter>Le coût de l'installation</inter>
+<p>Moyenne d'âge 38 ans, 75% de femmes, salarié et indépendant : tel est le profil de la profession. S'installer à son compte est la seule promotion envisageable. Avec une contrainte de taille : l'investissement. La table de toilettage, les baignoires, les séchoirs coûtent à eux seuls plusieurs milliers d'euros. Une somme à laquelle il faut ajouter l'achat ou la location d'un local qui doit être suffisamment vaste.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>Smic</sal>.</p>
+<postit>
+<p>Source : Syndicat national des professionnels du chien et du chat, 2011.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">expert/e en sécurité informatique</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">programmer, créer du contenu numérique</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur sociétés de service et de conseil en informatique/secteur des télécommunications</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">sécurité informatique/réseau informatique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé/expert en sécurité informatique</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100361</lien_onisep>
+<ROME Level="1B" csRelFld="100361">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="600" csRelFld="600">
+<CSLABELFLD label="">M1802</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Systèmes d'information et de télécommunication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1802</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Expertise et support en systèmes d'information</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100361">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1411" csRelFld="1411">
+<CSLABELFLD label="">responsable sécurité du système d'information (RSSI)</CSLABELFLD>
+<MET_ID label="Identifiant">100361</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">10/01/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1411</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">responsable sécurité du système d'information (RSSI)</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1411">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="31987" csRelFld="31987">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31987</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100361</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Traquer les points faibles</inter>
+<p>Au cours de son diagnostic, l'expert en sécurité informatique étudie le système d'information dans sa globalité. Afin de proposer une sécurité maximale (protection contre les attaques, mais aussi confidentialité), il cherche avant tout à identifier les points faibles du système. Il est parfois secondé par des hackers volontaires, des professionnels de l'intrusion. </p>
+<inter>Protéger les informations</inter>
+<p>En lien avec les informaticiens et les responsables des services concernés, l'expert définit une stratégie de sécurité adaptée aux besoins et à la culture de l'entreprise. À l'arrivée, c'est un panel de procédures qui va de la gestion des mots de passe à la cryptologie (chiffrer et déchiffrer les messages sortants et entrants), en passant par les pare-feu, les antivirus, la limitation des accès au réseau en cas d'informations stratégiques, etc. </p>
+<inter>Jouer les interfaces</inter>
+<p>Pour faire évoluer les solutions, l'expert suit au plus près le droit et les réglementations spécifiques, et s'informe sur les nouvelles technologies. Sensibiliser les utilisateurs et les directions aux règles et aux enjeux de sécurité s'avère également primordial.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="31991" csRelFld="31991">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31991</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100361</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>En général, ce poste est réservé à des informaticiens confirmés. Certains étudiants de niveau bac +  5 (diplôme d'ingénieur ou master) possédant une spécialisation en sécurité des systèmes d'information accèdent à des postes d'auditeur ou de consultant sécurité.</p>
+<inter>Niveau bac + 5</inter>
+<liste>
+<itsimp>Diplôme d'ingénieur avec une spécialisation en sécurité informatique</itsimp>
+<itsimp>Masters mention informatique ou mention réseaux et télécommunication, avec une spécilaité en sécurité des systèmes informatiques ou des systèmes d'information, en évaluation du risque, en cryptologie et sécurité informatique...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="31989" csRelFld="31989">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31989</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100361</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un spécialiste très recherché</inter>
+<p>Systèmes d'information de plus en plus complexes, cybercriminalité... la sécurité des applications et des données devient la préoccupation majeure des entreprises, voire un enjeu stratégique. Pour preuve, le budget sécurité augmente 3 fois plus vite que les autres postes liés aux nouvelles technologies. Cela explique le fort engouement des employeurs pour dénicher des spécialistes de la sécurité. </p>
+<inter>Sur tous les fronts</inter>
+<p>L'expert est employé par les sociétés utilisatrices (notamment dans les banques, les organismes financiers, l'industrie, les biotechnologies, les nouvelles technologies de l'information et de la communication, les grandes entreprises, les administrations...), mais aussi par les ESN (entreprises de services du numérique)... En fait, partout où le système informatique est un pilier essentiel du fonctionnement de l'entreprise.</p>
+<inter>Devenir responsable</inter>
+<p>Après quelques années de terrain, plusieurs évolutions sont possibles : prendre la responsabilité d'une équipe d'experts ou encore assurer la direction d'un système d'information.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2500</sal> à 2900 euros brut par mois.</p>
+<postit>
+<p>Source : Apec, 2013. </p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

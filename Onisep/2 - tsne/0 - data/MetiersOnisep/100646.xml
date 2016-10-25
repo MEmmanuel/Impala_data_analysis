@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e mathématicien/ne</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">manier les chiffres/aider, conseiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur banque/secteur assurances/secteur de l'éducation/secteur audit conseil/secteur environnement/secteur construction aéronautique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">mathématiques</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100646</lien_onisep>
+<ROME Level="1B" csRelFld="100646">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="520" csRelFld="520">
+<CSLABELFLD label="">K2402</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Recherche</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K2402</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Recherche en sciences de l'univers, de la matière et du vivant</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100646">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56511" csRelFld="56511">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56511</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100646</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Comprendre le problème</inter>
+<p>À l'inverse du mathématicien qui reste dans la théorie, l'ingénieur mathématicien s'attache à trouver la solution d'un problème concret. Sa première mission consiste à bien comprendre le problème qui se pose afin d'en dégager une problématique et des questions précises. On peut faire appel à lui pour améliorer un processus de production, déterminer la fiabilité d'une machine, concevoir un produit financier complexe, évaluer des risques de pollution...</p>
+<inter>Bien le poser et le modéliser</inter>
+<p>Il s'attache ensuite à poser le problème en termes mathématiques. La formulation lui permet de le simplifier et de le ramener à une problématique déjà étudiée. Toute la difficulté consiste à trouver un modèle qui simplifie la réalité sans trop s'en éloigner. Ne reste plus ensuite qu'à résoudre le problème avec les outils mathématiques et informatiques existants. L'ingénieur mathématicien aborde ainsi le problème de façon analytique en utilisant des théorèmes, des logiciels de calcul mais aussi le raisonnement afin d'apporter une solution qui a valeur de généralité.</p>
+<inter>Vérifier</inter>
+<p>Une fois le calcul terminé, il doit s'assurer de la validité du résultat, calculer les marges d'erreur en utilisant les statistiques et probabilités, et s'assurer de la bonne mise en place de la solution proposée.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56515" csRelFld="56515">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56515</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100646</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Ce métier est accessible aux titulaires d'un bac + 5. Les spécialisations en statistique conduisent plutôt vers les secteurs de la finance, du biomédical, du contrôle qualité ou encore de la biologie, par exemple ; alors que les spécialisations numériques mèneront plus volontiers vers la climatologie, l'aéronautique, le secteur pétrolier, etc.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur généraliste ou spécialisé en mathématiques appliquées, informatique, etc. </itsimp>
+<itsimp>Master mention mathématiques, mention mathématiques et applications, mention mathématiques appliquées, statistique ; mention informatique...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56513" csRelFld="56513">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56513</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100646</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Dans tous les secteurs</inter>
+<p>On trouve des ingénieurs mathématiciens dans de nombreux domaines : environnement, traitement de l'image, banque, biomédical, aéronautique, distribution, productique, analyse de risques, etc. De même, ce professionnel peut travailler pour un grand groupe, une banque, une PME (petite ou moyenne entreprise), en centre de recherche et développement ou dans une société de conseil et services.</p>
+<inter>Les services en tête</inter>
+<p>Selon la Smai (Société des mathématiques appliquées et industrielles), 32 % des jeunes diplômés en mathématiques travaillent dans le secteur banque-assurance, 26 % en recherche-développement, dans l'enseignement ou la formation. Les jeunes diplômés commencent souvent leur carrière comme consultant dans une entreprise de conseil.</p>
+<inter>Un bon tremplin</inter>
+<p>Les évolutions de carrière sont intéressantes pour les ingénieurs mathématiciens puisque, dans l'industrie notamment, ils peuvent accéder à des postes de management ou de chef de projet. Avec de l'expérience, l'ingénieur peut même envisager de se mettre à son compte comme consultant ou expert.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2500</sal> à 2900 euros brut par mois.</p>
+<postit>
+<p>Source : Hayes, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

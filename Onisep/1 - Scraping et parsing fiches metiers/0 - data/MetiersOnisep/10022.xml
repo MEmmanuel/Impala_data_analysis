@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">couvreur/euse</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">avoir des sensations fortes/travailler dehors/me déplacer souvent/exercer un travail manuel</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">artisan/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction construction BTP</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur second oeuvre bâtiment</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">isolation/étanchéité/couverture</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE bâtiment équipements et finitions/couvreur</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10022</lien_onisep>
+<ROME Level="1B" csRelFld="10022">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="204" csRelFld="204">
+<CSLABELFLD label="">F1610</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Second oeuvre</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">F1610</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Pose et restauration de couvertures</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10022">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1583" csRelFld="1583">
+<CSLABELFLD label="">couvreur / couvreuse photovoltaïque</CSLABELFLD>
+<MET_ID label="Identifiant">10022</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1583</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">couvreur/euse photovoltaïque</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1583">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1584" csRelFld="1584">
+<CSLABELFLD label="">couvreur-ardoisier / couvreuse-ardoisière</CSLABELFLD>
+<MET_ID label="Identifiant">10022</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1584</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">couvreur/euse-ardoisier/ère</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1584">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1585" csRelFld="1585">
+<CSLABELFLD label="">couvreur-lauzier / couvreuse-lauzière</CSLABELFLD>
+<MET_ID label="Identifiant">10022</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1585</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">couvreur/euse-lauzier/ère</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1585">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1586" csRelFld="1586">
+<CSLABELFLD label="">couvreur-tuilier / couvreuse-tuilière</CSLABELFLD>
+<MET_ID label="Identifiant">10022</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1586</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">couvreur/euse-tuilier/ère</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1586">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1587" csRelFld="1587">
+<CSLABELFLD label="">couvreur-zingueur/couvreuse-zingueuse</CSLABELFLD>
+<MET_ID label="Identifiant">10022</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1587</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">couvreur/euse-zingueur/euse</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1587">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1588" csRelFld="1588">
+<CSLABELFLD label="">monteur / monteuse de panneaux photovoltaïques</CSLABELFLD>
+<MET_ID label="Identifiant">10022</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1588</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">monteur/euse de panneaux photovoltaïques</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1588">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17379" csRelFld="17379">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17379</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10022</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Préparation du chantier</inter>
+<p>Le couvreur met en place les échafaudages et les dispositifs de sécurité. Avant de s'attaquer à la toiture, il fixe les liteaux (lattes de bois supportant la couverture) sur la charpente. Puis il prépare le plâtre, le ciment, le sable et la chaux nécessaires pour les raccords et les scellés.</p>
+<inter>Pose des matériaux</inter>
+<p>Conformément aux indications du plan, le couvreur pose les matériaux (ardoises, tuiles, verre, plastique, zinc, tôle, aluminium, cuivre, plomb...) auxquels correspondent une technique de pose, un outillage. Pour assurer l'étanchéité du toit, ils doivent être ajustés au millimètre près.</p>
+<inter>Finitions</inter>
+<p>Le couvreur installe ensuite les accessoires qui permettront d'assurer l'évacuation des eaux de pluie (chéneaux, gouttières), les éléments ornementaux (girouette, coq d'église) ainsi que les lucarnes. Il assure également le raccord de base des cheminées et l'isolation thermique.</p>
+<inter>Réparation et entretien</inter>
+<p>Le couvreur assure également l'entretien et les réparations. Des tuiles arrachées par la tempête, un chaume qu'il faut remplacer, des infiltrations... c'est lui qu'on appelle à la rescousse dans ces cas-là. Certaines réparations peuvent relever de la restauration d'art, notamment sur les édifices classés monuments historiques.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16488" csRelFld="16488">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16488</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10022</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<titre>CAP minimum</titre>
+<p>Comme tout métier du bâtiment, l'acquisition au minimum d'un CAP (certificat d'aptitude professionnelle) est indispensable.</p>
+<liste>
+<itsimp>Pour devenir couvreur on peut donc préparer, en deux ans après la 3<exp>e</exp> , dans un lycée professionnel ou par apprentissage, le CAP couvreur, le CAP étancheur du bâtiment et des travaux publics. Il est ensuite possible de se spécialiser en un an en préparant la mention complémentaire zinguerie.</itsimp>
+<itsimp>Le BP couvreur ou le BP étanchéité du bâtiment et des travaux publics, en deux ans par apprentissage après un CAP ou un BEP, permettent d'acquérir une qualification professionnelle supérieure et une formation à la gestion d'entreprise.</itsimp>
+<itsimp>Pour devenir chef de chantier dans ce secteur, les titulaires d'un bac STI2D (développement durable) ou d'un bac pro en BTP (bac pro intervention sur le patrimoine bâti option couverture notamment) peuvent préparer, en deux ans le BTS enveloppe du bâtiment : façades étanchéité.</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17375" csRelFld="17375">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17375</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10022</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Entreprises artisanales</inter>
+<p>Qu'ils soient spécialisés dans un matériau ou qu'ils combinent plusieurs activités, les couvreurs n'ont aucun souci à se faire. Les entreprises artisanales de couverture, de charpente ou de plomberie emploient 80 % des couvreurs et les attendent à bras ouverts. Les couvreurs spécialisés en étanchéité et en panneaux photovoltaïques ou solaires sont très demandés.</p>
+<inter>Traditionnelles ou modernes</inter>
+<p>Les entreprises de restauration et les Monuments historiques emploient des ouvriers connaissant les techniques traditionnelles. Dans les grandes entreprises du bâtiment, les techniques employées sont plus modernes.</p>
+<inter>Polyvalence, un plus</inter>
+<p>Opter pour la double compétence est un choix judicieux : certaines entreprises associent souvent plomberie et couverture. Le couvreur est alors amené à faire de menus travaux de plomberie ou de chauffage. Une compétence à développer grâce à la formation continue.</p>
+<inter>Développement durable</inter>
+<p>La couverture est concernée au premier chef par les travaux de rénovation énergétique car le toit est l'un des points faibles de l'isolation. Autre impact majeur lié au développement durable : la pose de panneaux solaires, qui fait appel à des compétences nouvelles, pour l'installation, l'entretien et la réparation.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir du <sal>Smic</sal>.</p>
+<postit>
+<p>Source : Institut national des métiers d'art, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

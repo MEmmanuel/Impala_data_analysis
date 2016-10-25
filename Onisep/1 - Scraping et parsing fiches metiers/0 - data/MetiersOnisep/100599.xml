@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">designer d'interaction</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire du dessin/exercer un métier artistique ou créatif/programmer, créer du contenu numérique</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">indépendant</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conception </MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur de la publicité</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">communication visuelle/multimédia</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques de la communication média</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100599</lien_onisep>
+<ROME Level="1B" csRelFld="100599">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100599">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="55598" csRelFld="55598">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55598</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100599</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>De nombreuses applications</inter>
+<p>Le designer d'interaction ne s'incarne pas uniquement à travers des interfaces et des écrans. Il est présent dans de nombreux objets de notre quotidien ou, de façon moins visible, dans notre environnement. Sites web, logiciels, applications mobiles, bornes interactives, objets connectés, robots, espaces interactifs... les formes que peut revêtir un projet de design interactif sont très variées dans la mesure où ce terme générique peut recouvrir différentes pratiques : travail sur les sons (design sonore), ergonomie des interfaces, architecture de l'information, etc.</p>
+<inter>Études préalables</inter>
+<p>Dans tous les cas, le designer d'interaction utilise la même méthode. Il doit d'abord comprendre la problématique et les besoins du client commanditaire. Ensuite, il entreprend une étude sur les futurs utilisateurs et le contexte dans lequel le produit ou le service sera utilisé. Après cela, il peut explorer différentes solutions.</p>
+<inter>Jusqu'à l'installation</inter>
+<p>Après une première validation, le designer d'interaction procède à la création d'un prototype qui, grâce à des tests, sera progressivement amélioré jusqu'à la phase de production proprement dite. Enfin, le designeur d'interaction achève sa mission en installant sa création dans le contexte prévu.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55602" csRelFld="55602">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55602</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100599</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Beaucoup de designers d'interaction en poste ont une formation de niveau bac + 3 ou bac + 5. Les spécialisations se sont multipliées au cours des années dans différents types d'établissements.</p>
+<liste>
+<tete>Niveau bac + 3 </tete>
+<itsimp>DNA (diplôme national d'arts) design </itsimp>
+<itsimp>Licence pro activités et techniques de communication, spécialité design numérique </itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5 </tete>
+<itsimp>Diplôme de l'Ensad spécialisation design graphique / multimédia </itsimp>
+<itsimp>Diplôme de design de l'École de design Nantes Atlantique</itsimp>
+<itsimp>DNSEP (diplôme national supérieur d'expression plastique) design graphique et multimédia </itsimp>
+<itsimp>DNSAP (diplôme national supérieur d'arts plastiques) créateur-concepteur option communication visuelle </itsimp>
+<itsimp>Master design et développement des objets, médias et espaces numériques ; design, médias, technologie : design d'interface... </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55600" csRelFld="55600">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55600</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100599</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un métier jeune et prometteur</inter>
+<p>Le métier de designer d'interaction n'existait pas en France il y a 10 ans. Il est apparu avec le développement de la mobilité numérique qui a élevé le niveau d'exigence du public vis-à-vis des produits technologiques. Petit à petit, puces, logiciels et télécommunications envahissent notre quotidien, rendant le designer d'interaction incontournable. Les perspectives de ce métier sont donc très prometteuses.</p>
+<inter>Différentes sociétés</inter>
+<p>Le designer d'interaction peut travailler dans une agence de communication ou de marketing interactif, un studio de design, ou directement chez le client au sein du service web interne. Un quart des professionnels a le statut de travailleur indépendant. Après une dizaine d'années d'expérience, le designer d'interaction peut accéder à des postes de directeur de création, de responsable Internet chez l'annonceur ou de directeur associé d'une agence.</p>
+<inter>Dans tous les domaines</inter>
+<p>Les secteurs dans lesquels les besoins sont les plus nombreux : la mobilité et le transport, la santé, l'énergie, l'éducation, le sport, la culture et le divertissement. Les projets dépassent les frontières et ont tendance à s'élargir. Aujourd'hui, le designer d'interaction ne doit pas se contenter de faire de la conception d'interfaces graphiques, il a un rôle de plus en plus stratégique et de conseil.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2848</sal> euros brut par mois. </p>
+<postit>
+<p>Source : Designers interactifs, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

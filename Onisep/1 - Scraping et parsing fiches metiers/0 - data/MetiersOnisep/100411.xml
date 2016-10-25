@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">opérateur/trice de raffinerie</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">travailler à l'étranger</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction fabrication industrielle</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur énergie</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">pétrochimie/chimie/exploitation pétrolière</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">opérateur de raffinerie/GFE enseignement sciences humaines domaines scientifiques droit</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100411</lien_onisep>
+<ROME Level="1B" csRelFld="100411">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="331" csRelFld="331">
+<CSLABELFLD label="">H2701</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Energie</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2701</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Pilotage d'installation énergétique et pétrochimique</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100411">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="34651" csRelFld="34651">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">34651</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100411</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Surveiller et prévenir</inter>
+<p>La mission numéro un de l'opérateur extérieur de raffinerie ? Surveiller et vérifier les installations nécessaires pour transformer le pétrole brut en fioul, kérosène, essence, lubrifiant... Une pompe un peu trop bruyante ou une odeur atypique doivent attirer son attention.</p>
+<inter>En inspection dans l'usine</inter>
+<p>L'opérateur extérieur de raffinerie circule régulièrement au sein de l'unité de production pour contrôler l'état du matériel. Il règle les vannes, fait des vérifications de pression pour assurer la bonne marche de l'unité. Un problème de fuite, une pompe qui lâche, un débit anormal, une panne... au moindre dysfonctionnement, il alerte ou est alerté par l'opérateur consoliste (en bureau) et doit intervenir sur place. Enfin, il encadre et accompagne toute intervention, notamment celles des entreprises extérieures sur les installations de son unité.</p>
+<inter>Le contrôle sur écran</inter>
+<p>L'opérateur consoliste surveille l'unité dont il est responsable devant des écrans de contrôle, qui lui donnent une vue générale de tous les éléments de l'unité. Il est en communication permanente avec l'opérateur extérieur qui, lui, se déplace au sein de la raffinerie.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="34655" csRelFld="34655">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">34655</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100411</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Le métier d'opérateur de raffinerie est accessible au niveau bac ou bac + 2. </accr_p>Mais le diplôme n'est pas suffisant : il doit être complété par une formation théorique et pratique en entreprise. </p>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>
+<em>Bac</em> technologique ou professionnel ;</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>
+<em>BTS</em> chimiste ; mécanique et automatismes industriels ;</itsimp>
+<itsimp>
+<em>DUT</em> mesures physiques ; chimie ; génie thermique et énergie ;</itsimp>
+<itsimp>
+<em>Formation professionnelle</em> : d'une durée de 4 mois, elle propose un accompagnement par des salariés expérimentés pour acquérir les compétences nécessaires à la fonction. À l'issue de cette formation, le candidat passe devant une commission composée du chef de secteur, du chef de quart et du responsable sécurité qui valide la capacité à occuper le poste d'opérateur de raffinerie.</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="34653" csRelFld="34653">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">34653</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100411</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Au sein d'une raffinerie</inter>
+<p>L'opérateur extérieur est la première fonction que l'on trouve dans une raffinerie. Elle consiste à maîtriser tous les postes de l'unité de production dont il a la charge. Avec une expérience comprise entre 5 et 7 ans, l'opérateur extérieur peut évoluer vers la fonction d'opérateur consoliste.</p>
+<inter>Une évolution continue</inter>
+<p>L'opérateur extérieur devenu opérateur consoliste peut encore évoluer en s'orientant vers les métiers de la maintenance ou en poursuivant dans la production, aux fonctions de chef de quart.</p>
+<inter>En France et dans le monde</inter>
+<p>Sur un peu plus de 700 raffineries pétrolières, on en dénombre 133 aux États-Unis et une dizaine en France. Elles se trouvent en général le long des côtes ou dans des zones fortement industrialisées comme la vallée du Rhône. </p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>1570</sal> à 2000 euros brut par mois.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e en construction automobile</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">concevoir, utiliser des technologies industrielles de pointe/coordonner l'activité d'une équipe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction études développement industriel </MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur construction automobile/secteur sociétés d'ingénierie et d'études techniques</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">construction automobile/ingénierie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE mécanique automatismes</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100544</lien_onisep>
+<ROME Level="1B" csRelFld="100544">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="320" csRelFld="320">
+<CSLABELFLD label="">H2502</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Direction, encadrement et pilotage de fabrication et production industrielles</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2502</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie de production</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="265" csRelFld="265">
+<CSLABELFLD label="">H1206</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception, recherche, études et développement</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H1206</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie études, recherche et développement industriel</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100544">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="53421" csRelFld="53421">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53421</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100544</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Les véhicules de demain</inter>
+<p>L'ingénieur en construction automobile a pour objectif l'optimisation des véhicules actuels et le développement de ceux de demain. Voitures moins polluantes, nouveaux matériaux, systèmes d'assistance à la conduite... les chantiers innovants sont nombreux. Il doit aussi prendre en compte l'évolution du marché et des attentes des utilisateurs.</p>
+<inter>Des projets suivis de A à Z</inter>
+<p>L'ingénieur travaille sur un ou plusieurs projets à la fois, depuis la conception jusqu'aux différentes phases de tests. Au départ, le fabricant lui adresse une demande à partir de laquelle il rédige un cahier des charges précis. Puis, vient la partie de développement, où il conçoit un nouveau système, par exemple. Pour cela, il effectue des calculs et des essais sur ordinateur afin de définir les caractéristiques des pièces à fabriquer en fonction des contraintes auxquelles elles seront soumises, puis des tests sur prototype. De nombreux ajustements se font au fur et à mesure, en relation avec les différents départements (carrosserie, moteur, électronique...), car tout est lié. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="53425" csRelFld="53425">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53425</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100544</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Un diplôme d'ingénieur généraliste (avec option automobile) ou un diplôme d'école spécialisée en automobile (Isat ou Estaca...), constitue la voie principale pour accéder àce métier. Les spécialistes en automatique, électronique, informatique ou matériaux ont également leurs chances.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur (ESTACA, ISAT)  ou master en mécanique ou électronique...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="53423" csRelFld="53423">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53423</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100544</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un secteur en pleine évolution</inter>
+<p>En pleine révolution écologique et technique, le secteur de l'automobile, qui, par ailleurs, fait face à une crise importante en France, n'a d'autre choix que d'innover. C'est une bonne nouvelle pour les ingénieurs qui sont d'autant plus appréciés pour leurs capacités à concevoir les produits de l'avenir.</p>
+<inter>Grands groupes ou PME</inter>
+<p>Les emplois se trouvent chez les constructeurs automobiles bien sûr, mais aussi chez les équipementiers et les sociétés d'ingénierie qui gravitent autour. L'ingénieur aura des tâches plus larges et sera plus polyvalent dans les PME (petites et moyennes entreprises) que dans un grand groupe où le travail est davantage découpé.Cependant, de nombreuses entreprises recherchent aussi des ingénieurs en construction automobile dans le marketing, la recherche et développement, le contrôle qualité ou le commercial.</p>
+<inter>Se spécialiser et grimper les échelons</inter>
+<p>L'ingénieur en construction automobile peut exercer dans de nombreux domaines : qualité, essais, validation, recherche et développement, sécurité, électronique embarquée, etc. Il peut se spécialiser dans un domaine et viser la direction d'un département. Au fur et à mesure de sa carrière lui seront confiés des projets de plus en plus importants, sur lesquels il aura de plus en plus de responsabilités.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Environ <sal>3000</sal> euros brut par mois.</p>
+<postit>
+<p>Source : Estaca, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

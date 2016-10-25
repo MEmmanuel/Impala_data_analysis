@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">économe de flux</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">préserver l'environnement/me déplacer souvent/aider, conseiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction information - communication/fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie/secteur énergie/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">gestion de la consommation d'énergie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE nettoyage assainissement environnement sécurité/économe de flux</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100404</lien_onisep>
+<ROME Level="1B" csRelFld="100404">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100404">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="34609" csRelFld="34609">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">34609</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100404</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Gérer et maîtriser les énergies</inter>
+<p>" Halte aux gaspillages ", telle est la devise de l'économe de flux. Spécialiste en économie d'énergie, il intervient sur tous les flux : chauffage, électricité, eau, climatisation, déchets... Il gère les contrats d'énergie, rédige des rapports financiers, suit l'évolution des factures de consommation, met en oeuvre un tableau de bord pour améliorer la situation.</p>
+<inter>Optimiser les installations</inter>
+<p>Gestionnaire avisé et spécialiste du diagnostic, l'économe de flux est aussi un technicien ingénieux et novateur. Ainsi, il identifie les surconsommations et propose les solutions les plus économiques pour optimiser les installations existantes. Il corrige, par exemple, d'éventuels dysfonctionnements, en modifiant des réglages ou des équipements trop gourmands en énergie. Il lui reste ensuite à évaluer les résultats de ses préconisations.</p>
+<inter>Faire passer un message</inter>
+<p>L'économe de flux a aussi un rôle d'éducateur. Élus, professionnels, mais aussi élèves et enseignants... il consacre une grande partie de son temps à faire prendre conscience de l'enjeu environnemental au plus grand nombre. Il développe et organise des animations sur le thème de l'utilisation rationnelle de l'énergie. Il conseille et propose des équipements écologiques. Il rédige des plaquettes d'information.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="34613" csRelFld="34613">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">34613</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100404</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Plusieurs diplômes permettent d'accéder au métier d'économe de flux. Au choix : des formations à différents niveaux, de bac + 2 à bac + 5. En ligne de mire : des postes avec plus ou moins de responsabilités, du technicien à l'ingénieur. Les BTS et DUT s'insèrent facilement sur le marché du travail.</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS fluides, énergies, domotique </itsimp>
+<itsimp>DUT génie thermique et énergie</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence pro gestion et maintenance des installations énergétiques ; maitrise de l'énergie, électricité, développement durable ; métiers de l'électricité et de l'énergie ; métiers de l'énergétique, de l'environnement et du génie climatique ; métiers du BTP : performance énergétique et environnement des bâtiments</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master économie de l'environnement, de l'énergie et des transports ; énergétique, thermique ; énergie </itsimp>
+<itsimp>Diplôme d'ingénieur spécialisé dans les domaines de la thermique ou de l'environnement</itsimp>
+<itsimp>Diplôme d'ingénieur généraliste complété par des stages en entreprise dans le domaine des énergies renouvelables.</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="34611" csRelFld="34611">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">34611</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100404</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un métier encore jeune...</inter>
+<p>Au coeur des problèmes environnementaux, la question d'économie d'énergie occupe une place croissante dans notre société. Aujourd'hui, le nombre de postes à prendre reste limité, même si les débouchés potentiels sont diversifiés. Le métier d'économe de flux est encore nouveau, et ses perspectives de développement sont difficiles à cerner... mais indispensables. La profession, promise à un bel avenir, offre par ailleurs de réelles opportunités d'évolution vers le conseil, l'étude de projet ou la formation.</p>
+<inter>... avec de réelles perspectives</inter>
+<p>L'économe de flux travaille partout où il est question d'économie d'énergie : dans les collectivités locales et territoriales, les offices publics d'HLM (habitations à loyer modéré), à EDF et GDF Suez, dans l'industrie, chez les bailleurs sociaux et privés et les syndics de copropriété... Des emplois existent aussi dans les agences de l'énergie, les associations spécialisées dans l'amélioration de l'habitat, de l'urbanisme... Les créations d'emplois s'élargissent au secteur privé, aux parcs d'équipements, au transport, aux exploitations agricoles. S'il a suivi un cursus à bac + 5 (formation d'ingénieur), l'économe de flux dispose de compétences élargies et de capacités de management. Il peut alors diriger une équipe dédiée à la réduction des coûts.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Du <sal>Smic</sal> pour un salarié du privé à 1514 euros brut par mois pour un technicien de la fonction publique territoriale (cadre B dans la grille indiciaire).</p>
+<postit>
+<p>Source : www.emploi-collectivites.fr/grille-indiciaire-territoriale-technicien-territorial.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

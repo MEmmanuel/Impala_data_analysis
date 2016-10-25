@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">journaliste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">informer, communiquer/enquêter, rechercher, analyser l'information/travailler à l'étranger</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/indépendant</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur de l'audiovisuel/secteur édition - presse</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">journalisme/photographie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques de la communication média/journaliste</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10197</lien_onisep>
+<ROME Level="1B" csRelFld="10197">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="148" csRelFld="148">
+<CSLABELFLD label="">E1106</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Edition et communication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">E1106</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Journalisme et information média</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10197">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1043" csRelFld="1043">
+<CSLABELFLD label="">chef de rubrique</CSLABELFLD>
+<MET_ID label="Identifiant">10197</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">03/01/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1043</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chef/fe de rubrique</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1043">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1044" csRelFld="1044">
+<CSLABELFLD label="">rédacteur en chef / rédactrice en chef</CSLABELFLD>
+<MET_ID label="Identifiant">10197</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">03/01/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1044</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">rédacteur/trice en chef</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1044">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16479" csRelFld="16479">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16479</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10197</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Transmettre une information</inter>
+<p>La mission essentielle du journaliste consiste à transmettre une information sur n'importe quels sujet et support, en la rendant compréhensible et accessible à divers publics (lecteurs, auditeurs, téléspectateurs, internautes...).</p>
+<p>Le journaliste est donc d'abord un rédacteur, y compris dans l'audiovisuel. En effet, un journal radio ou télé est rédigé avant d'être lu au micro.</p>
+<inter>Se spécialiser ou pas </inter>
+<p>Dépêches, enquêtes, reportages, interviews... autant de moyens de recueillir l'information. Pour préparer un article, le journaliste se documente, observe minutieusement les faits, décortique l'actualité et utilise toutes ses connaissances pour faire une analyse pertinente.</p>
+<p>Selon les cas, il peut se spécialiser (en politique intérieure, sport, culture, économie...) ou rester généraliste.</p>
+<inter>Des contraintes éditoriales</inter>
+<p>Quel que soit le support, le journaliste doit respecter quelques règles de base. Par exemple, multiplier les sources pour recouper ses données, choisir un angle (approche originale d'un sujet) et hiérarchiser les informations. Quand il rédige son article, il ne perd jamais de vue son lecteur et cherche à capter son attention.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16476" csRelFld="16476">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16476</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10197</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Aucun diplôme précis ne donne accès au métier de journaliste.</accr_p> Néanmoins, la convention collective nationale de travail des journalistes préconise d'être titulaire soit d'un diplôme adapté, soit d'un diplôme préparé dans les écoles ou universités reconnues par la profession (CFJ-Paris, Cuej-Strasbourg 3, Celsa-Paris 4, EJCAM-Marseille, EJT-Toulouse, ESJ-Lille, EJDG-Grenoble 3, IEP Paris, IFP-Paris, IPJ-Paris, IJBA-Bordeaux, IUT Lannion, IUT Tours, IUT Nice). L'entrée se fait sur concours (très sélectif) et sous condition d'âge. Les candidats doivent en principe être titulaires d'un bac + 2 ou d'un bac + 3, mais la plupart se présentent avec un bac + 5. </p>
+<p>La quasi-totalité des IEP (instituts d'études politiques) de province propose des spécialisations de 2<exp>d</exp> cycle qui débouchent sur des masters dans le secteur du journalisme. </p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>DUT information-communication option journalisme</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3 </tete>
+<itsimp>Licence pro métiers de l'information : métiers du journalisme et de la presse</itsimp>
+<itsimp>Une vingtaine de formations en école spécialisée accessibles après le bac </itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Masters Science politique, Journalisme ... </itsimp>
+<itsimp>Quelques formations en école spécialisée accessibles avec un bac + 3</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16483" csRelFld="16483">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16483</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10197</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>En province ou sur la Toile</inter>
+<p>C'est dans la presse écrite que les journalistes sont les plus nombreux. La presse spécialisée et la presse régionale emploient de loin le plus fort contingent. Les quotidiens gratuits, les médias électroniques et les sites web, le câble et la TNT offrent également de nouvelles perspectives.</p>
+<inter>Le règne de la précarité</inter>
+<p>Même si les grands médias embauchent en priorité les diplômés issus des écoles reconnues par la profession, il n'y a aucune garantie de décrocher un emploi stable.</p>
+<p>Très souvent, les jeunes journalistes doivent travailler à la pige pendant plusieurs années avant de décrocher un CDD (contrat à durée déterminée) ou un CDI (contrat à durée indéterminée). Ils collaborent ainsi, régulièrement ou non, à un ou plusieurs médias, et sont payés à la tâche (à l'article ou à la journée). Les pigistes représentent 19 % des journalistes. </p>
+<inter>Évolution de carrière</inter>
+<p>Après plusieurs années d'expérience, un journaliste peut occuper des postes à responsabilité au sein d'une rédaction : chef de rubrique, secrétaire de rédaction, rédacteur en chef adjoint, puis rédacteur en chef.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>A partir du <sal>Smic</sal>, et jusqu'à 2100 euros brut par mois.</p>
+<p>Les salaires varient en fonction du type de journal (quotidien, hebdomadaire, généraliste ou spécialisé...) et du média (presse écrite ou audiovisuelle).</p>
+<postit>
+<p>Source : Syndicat national des journalistes (SNJ).</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

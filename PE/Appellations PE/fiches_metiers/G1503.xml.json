@@ -1,0 +1,351 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Aide gouvernant / Aide gouvernante en h\u00f4tellerie",
+            "priorisation": "1",
+            "libelle": "Aide gouvernant / Aide gouvernante en h\u00f4tellerie",
+            "code_ogr": "10848"
+        },
+        {
+            "libelle_court": "Assistant gouvernant / Assistante gouvernante en h\u00f4tellerie",
+            "priorisation": "1",
+            "libelle": "Assistant gouvernant / Assistante gouvernante en h\u00f4tellerie",
+            "code_ogr": "11357"
+        },
+        {
+            "libelle_court": "Assistant(e) gouvernant(e) g\u00e9n\u00e9ral(e) en h\u00f4tellerie",
+            "priorisation": "1",
+            "libelle": "Assistant gouvernant g\u00e9n\u00e9ral / Assistante gouvernante g\u00e9n\u00e9rale en h\u00f4tellerie",
+            "code_ogr": "11358"
+        },
+        {
+            "libelle_court": "Chef gouvernant / Chef gouvernante en h\u00f4tellerie",
+            "priorisation": "1",
+            "libelle": "Chef gouvernant / Chef gouvernante en h\u00f4tellerie",
+            "code_ogr": "12569"
+        },
+        {
+            "libelle_court": "Gouvernant / Gouvernante d'\u00e9tage",
+            "priorisation": "1",
+            "libelle": "Gouvernant / Gouvernante d'\u00e9tage",
+            "code_ogr": "15384"
+        },
+        {
+            "libelle_court": "Gouvernant / Gouvernante d'h\u00f4tel",
+            "priorisation": "1",
+            "libelle": "Gouvernant / Gouvernante d'h\u00f4tel",
+            "code_ogr": "15385"
+        },
+        {
+            "libelle_court": "Gouvernant / Gouvernante en \u00e9tablissement h\u00f4telier",
+            "priorisation": "1",
+            "libelle": "Gouvernant / Gouvernante en \u00e9tablissement h\u00f4telier",
+            "code_ogr": "15387"
+        },
+        {
+            "libelle_court": "Gouvernant / Gouvernante en h\u00f4tellerie",
+            "priorisation": "1",
+            "libelle": "Gouvernant / Gouvernante en h\u00f4tellerie",
+            "code_ogr": "15388"
+        },
+        {
+            "libelle_court": "Gouvernant g\u00e9n\u00e9ral / Gouvernante g\u00e9n\u00e9rale en h\u00f4tellerie",
+            "priorisation": "1",
+            "libelle": "Gouvernant g\u00e9n\u00e9ral / Gouvernante g\u00e9n\u00e9rale en h\u00f4tellerie",
+            "code_ogr": "15390"
+        },
+        {
+            "libelle_court": "Premier gouvernant / Premi\u00e8re gouvernante d'h\u00f4tel",
+            "priorisation": "1",
+            "libelle": "Premier gouvernant / Premi\u00e8re gouvernante d'h\u00f4tel",
+            "code_ogr": "17984"
+        },
+        {
+            "libelle_court": "Responsable d'\u00e9tage",
+            "priorisation": "1",
+            "libelle": "Responsable d'\u00e9tage",
+            "code_ogr": "18960"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Etablir le planning du personnel d'\u00e9tage selon l'occupation des chambres",
+            "code_ogr": "1865",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler l'\u00e9tat de propret\u00e9 des chambres et des parties communes et signaler les dysfonctionnements au service de maintenance",
+            "code_ogr": "1161",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Intervenir aupr\u00e8s de la client\u00e8le pour des demandes particuli\u00e8res d'installation de fauteuil / lit suppl\u00e9mentaire, ...",
+            "code_ogr": "2262",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "4",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et v\u00e9rifier les \u00e9l\u00e9ments d'activit\u00e9 et de gestion administrative du personnel",
+            "code_ogr": "3613",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Recruter du personnel et le former aux proc\u00e9dures de l'\u00e9tablissement",
+            "code_ogr": "3594",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "G1502",
+            "libelle_rome_cible": "Personnel polyvalent d'h\u00f4tellerie"
+        },
+        {
+            "code_rome_cible": "G1701",
+            "libelle_rome_cible": "Conciergerie en h\u00f4tellerie"
+        },
+        {
+            "code_rome_cible": "G1703",
+            "libelle_rome_cible": "R\u00e9ception en h\u00f4tellerie"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau Bac (professionnel, technologique, Brevet Professionnel, ...) en h\u00f4tellerie.\nIl est \u00e9galement accessible avec un CAP/BEP dans le m\u00eame secteur, compl\u00e9t\u00e9 par une exp\u00e9rience professionnelle.\nLes recrutements peuvent \u00eatre ouverts sur contrats de travail saisonniers.\nLa pratique d'une ou plusieurs langue(s) \u00e9trang\u00e8re(s), en particulier l'anglais, est requise.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Organiser et coordonner le service de la lingerie (nettoyage, repassage, contr\u00f4le de propret\u00e9, ...)",
+            "code_ogr": "7700",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir des contrats aupr\u00e8s de soci\u00e9t\u00e9s de nettoyage, de blanchisserie, ... et v\u00e9rifier l'ex\u00e9cution des commandes et des prestations",
+            "code_ogr": "5796",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer, d\u00e9sinfecter et ranger la chambre et l'installation sanitaire",
+            "code_ogr": "3569",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la pr\u00e9paration et le service des petits-d\u00e9jeuners en salle, en chambre",
+            "code_ogr": "3537",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accueillir les clients \u00e0 leur arriv\u00e9e et effectuer les formalit\u00e9s administratives li\u00e9es \u00e0 leur s\u00e9jour",
+            "code_ogr": "3498",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'h\u00f4tels, de r\u00e9sidences de tourisme, d'\u00e9tablissements h\u00f4teliers mobiles (bateaux de croisi\u00e8re, ...), de villages de vacances, en relation avec les clients et diff\u00e9rents services (r\u00e9ception, lingerie, maintenance, ...).\nElle varie selon le type de structure (h\u00f4tellerie traditionnelle, de cha\u00eene, de luxe, ...) et son mode d'organisation (lingerie int\u00e9gr\u00e9e ou sous-trait\u00e9e, ...).\nElle peut s'exercer les fins de semaine et les jours f\u00e9ri\u00e9s.\nLe port d'un uniforme est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9daction de documents",
+            "code_ogr": "21074",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chiffrage/calcul de co\u00fbt",
+            "code_ogr": "20813",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de r\u00e9servation",
+            "code_ogr": "21265",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tel 3 \u00e9toiles",
+            "code_ogr": "23960",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tel 4 \u00e9toiles",
+            "code_ogr": "23961",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tel 5 \u00e9toiles",
+            "code_ogr": "23962",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tellerie mobile (bateau de croisi\u00e8re, ...)",
+            "code_ogr": "23966",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9sidence de tourisme",
+            "code_ogr": "24051",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9sidence h\u00f4teli\u00e8re",
+            "code_ogr": "24052",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Village vacances",
+            "code_ogr": "24128",
+            "code_type_section_env": "1"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Planning d'occupation des chambres",
+            "code_ogr": "22297",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de propret\u00e9",
+            "code_ogr": "22647",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles et consignes de s\u00e9curit\u00e9",
+            "code_ogr": "22656",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de gestion de stocks",
+            "code_ogr": "22609",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Types de produits d'entretien",
+            "code_ogr": "23329",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Typologie des clients/consommateurs",
+            "code_ogr": "23348",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'animation d'\u00e9quipe",
+            "code_ogr": "22774",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modalit\u00e9s d'accueil",
+            "code_ogr": "22161",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'encaissement",
+            "code_ogr": "22454",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nOrganise et coordonne les activit\u00e9s du personnel d'\u00e9tage (femmes de chambre, valets de chambre, ...) d'un \u00e9tablissement d'h\u00e9bergement h\u00f4telier ou touristique (h\u00f4tels, bateaux de croisi\u00e8re, ...).\nContr\u00f4le la conformit\u00e9 du travail effectu\u00e9 selon la charte qualit\u00e9 de l'\u00e9tablissement et les normes d'hygi\u00e8ne et de s\u00e9curit\u00e9.\nPeut participer \u00e0 des travaux ou des services sp\u00e9cifiques (nettoyage, remise en ordre des chambres, petits-d\u00e9jeuners, ...).\n",
+    "intitule": "Management du personnel d'\u00e9tage",
+    "code_ogr": "197",
+    "code_rome": "G1503",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "G1401",
+            "libelle_rome_cible": "Assistance de direction d'h\u00f4tel-restaurant"
+        },
+        {
+            "code_rome_cible": "G1402",
+            "libelle_rome_cible": "Management d'h\u00f4tel-restaurant"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ]
+}

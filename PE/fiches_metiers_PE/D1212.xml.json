@@ -1,0 +1,923 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Cuisiniste",
+            "priorisation": "1",
+            "libelle": "Cuisiniste",
+            "code_ogr": "13869"
+        },
+        {
+            "libelle_court": "Droguiste",
+            "priorisation": "1",
+            "libelle": "Droguiste",
+            "code_ogr": "14535"
+        },
+        {
+            "libelle_court": "Quincaillier / Quincailli\u00e8re",
+            "priorisation": "1",
+            "libelle": "Quincaillier / Quincailli\u00e8re",
+            "code_ogr": "18262"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse de bois au d\u00e9tail",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse de bois au d\u00e9tail",
+            "code_ogr": "20521"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse de cuisines",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse de cuisines",
+            "code_ogr": "20523"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse de salles de bains",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse de salles de bains",
+            "code_ogr": "20532"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse de verre \u00e0 la coupe",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse de verre \u00e0 la coupe",
+            "code_ogr": "20536"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en accessoires automobile",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en accessoires automobile",
+            "code_ogr": "20537"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en am\u00e9nagement du foyer",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en am\u00e9nagement du foyer",
+            "code_ogr": "20541"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en articles de bazar",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en articles de bazar",
+            "code_ogr": "38381"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en articles de d\u00e9coration",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en articles de d\u00e9coration",
+            "code_ogr": "20547"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en articles d'\u00e9lectricit\u00e9",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en articles d'\u00e9lectricit\u00e9",
+            "code_ogr": "20553"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en arts de la table",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en arts de la table",
+            "code_ogr": "20555"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en bricolage",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en bricolage",
+            "code_ogr": "20561"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en carrelage",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en carrelage",
+            "code_ogr": "20563"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en chauffage-ventilation-isolation",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en chauffage-ventilation-isolation",
+            "code_ogr": "20565"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en droguerie",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en droguerie",
+            "code_ogr": "20573"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en \u00e9lectrom\u00e9nager",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en \u00e9lectrom\u00e9nager",
+            "code_ogr": "20574"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en \u00e9quipement du foyer",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en \u00e9quipement du foyer",
+            "code_ogr": "20579"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en image et son",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en image et son",
+            "code_ogr": "20585"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en informatique",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en informatique",
+            "code_ogr": "20587"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en linge de maison",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en linge de maison",
+            "code_ogr": "20595"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en literie",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en literie",
+            "code_ogr": "20597"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en luminaires",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en luminaires",
+            "code_ogr": "20599"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en mat\u00e9riaux de construction",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en mat\u00e9riaux de construction",
+            "code_ogr": "20601"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en menuiserie",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en menuiserie",
+            "code_ogr": "20603"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en meubles",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en meubles",
+            "code_ogr": "20604"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en motoculture de plaisance",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en motoculture de plaisance",
+            "code_ogr": "38327"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en outillage",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en outillage",
+            "code_ogr": "20607"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en petit \u00e9lectrom\u00e9nager",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en petit \u00e9lectrom\u00e9nager",
+            "code_ogr": "20610"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en plomberie sanitaire",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en plomberie sanitaire",
+            "code_ogr": "20611"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en produits blancs",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en produits blancs",
+            "code_ogr": "20618"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en produits bruns",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en produits bruns",
+            "code_ogr": "20619"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en produits multim\u00e9dia",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en produits multim\u00e9dia",
+            "code_ogr": "38572"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en quincaillerie",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en quincaillerie",
+            "code_ogr": "20625"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en rev\u00eatement de mur, sol",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en rev\u00eatement de mur, sol",
+            "code_ogr": "20626"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en t\u00e9l\u00e9phonie",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en t\u00e9l\u00e9phonie",
+            "code_ogr": "20629"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en tissus",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en tissus",
+            "code_ogr": "20630"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Accueillir le client, identifier ses besoins et le conseiller sur les produits et services",
+            "code_ogr": "3496",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les op\u00e9rations d'encaissement",
+            "code_ogr": "3546",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner le client sur les services compl\u00e9mentaires \u00e0 la vente (remise, livraison, cr\u00e9dit gratuit, carte de fid\u00e9lit\u00e9, ...)",
+            "code_ogr": "3598",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "3",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer la mise en rayon des produits, des articles (\u00e9tiquetage, antivol, balisage, ...) et les installer en magasin ou sur un stand",
+            "code_ogr": "2590",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le rangement et l'approvisionnement des rayons, de la r\u00e9serve (r\u00e9assort, retrait des produits d\u00e9fectueux, ...)",
+            "code_ogr": "1557",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9ceptionner les marchandises, les produits et contr\u00f4ler la conformit\u00e9 de la livraison",
+            "code_ogr": "3591",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1211",
+            "libelle_rome_cible": "Vente en articles de sport et loisirs"
+        },
+        {
+            "code_rome_cible": "D1214",
+            "libelle_rome_cible": "Vente en habillement et accessoires de la personne"
+        },
+        {
+            "code_rome_cible": "D1501",
+            "libelle_rome_cible": "Animation de vente"
+        },
+        {
+            "code_rome_cible": "D1505",
+            "libelle_rome_cible": "Personnel de caisse"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac+2 (BTS, DUT, ...) dans les secteurs de la vente et du commerce.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans les m\u00eames secteurs sans dipl\u00f4me particulier.\nUne connaissance ou une formation en ma\u00e7onnerie, m\u00e9canique, \u00e9lectricit\u00e9, couture, ... peut \u00eatre demand\u00e9e.\nUn ou plusieurs Certificat(s) d'Aptitude \u00e0 la Conduite En S\u00e9curit\u00e9 -CACES- conditionn\u00e9(s) par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement peu(ven)t \u00eatre requis.\nLa pratique d'outils informatiques (logiciel de gestion de stock, logiciel de conception de plan) peut \u00eatre requise.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Effectuer la vente de produits :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accessoires automobile",
+            "code_ogr": "5232",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Am\u00e9nagement ext\u00e9rieur (cl\u00f4ture, chalets, ...)",
+            "code_ogr": "5233",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ameublement (salons, chambres, ...)",
+            "code_ogr": "5234",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Articles d'\u00e9lectricit\u00e9",
+            "code_ogr": "5237",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Arts de la table",
+            "code_ogr": "5238",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "5",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chauffage/climatisation/isolation",
+            "code_ogr": "5240",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "6",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chemin\u00e9es/po\u00eales",
+            "code_ogr": "5242",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "7",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cuisines/Salles de bains",
+            "code_ogr": "5243",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "8",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9coration (luminaires, encadrement, ...)",
+            "code_ogr": "5244",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "9",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Electrom\u00e9nager",
+            "code_ogr": "5246",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "10",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Image et son",
+            "code_ogr": "38152",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "11",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Informatique",
+            "code_ogr": "5248",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "12",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Linge de maison",
+            "code_ogr": "5252",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "13",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mat\u00e9riaux de construction/Ma\u00e7onnerie",
+            "code_ogr": "5259",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "14",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Menuiserie",
+            "code_ogr": "5260",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "15",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mercerie/Laine/Tissus",
+            "code_ogr": "5261",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "16",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Outillage/Droguerie/Quincaillerie",
+            "code_ogr": "5262",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "17",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Plomberie",
+            "code_ogr": "5266",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "18",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Rev\u00eatement de sols, murs",
+            "code_ogr": "5268",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "19",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "T\u00e9l\u00e9phonie",
+            "code_ogr": "5270",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "20",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la maintenance de premier niveau de mat\u00e9riel :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mat\u00e9riel de t\u00e9l\u00e9phonie (changement de batterie, param\u00e9trages, ...)",
+            "code_ogr": "5152",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mat\u00e9riel informatique",
+            "code_ogr": "5154",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-1 (Transpalettes \u00e0 conducteur port\u00e9 et pr\u00e9parateurs de commandes au sol)",
+            "code_ogr": "10122",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-2 (Chariots tracteurs et \u00e0 plateau porteur de capacit\u00e9 inf\u00e9rieure \u00e0 6 000 kg)",
+            "code_ogr": "10123",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-3 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 inf\u00e9rieure ou \u00e9gale \u00e0 6000 kg)",
+            "code_ogr": "10124",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la d\u00e9coupe de mat\u00e9riaux (bois, contreplaqu\u00e9, verre, tissus, ...) selon les dimensions, formes, mesures d\u00e9finies par les clients",
+            "code_ogr": "5123",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des plans de cuisines, de salles de bains, ... et \u00e9tablir les devis de r\u00e9alisation",
+            "code_ogr": "9002",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les op\u00e9rations de service apr\u00e8s-vente (\u00e9change, retour fournisseur, remboursement, envoi en r\u00e9paration, ...)",
+            "code_ogr": "5409",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Informer les clients sur les modalit\u00e9s de location (conditions contractuelles, caution, ...) de mat\u00e9riels de bricolage (tron\u00e7onneuse, b\u00e9tonni\u00e8re, ponceuse, ...) et \u00e9tablir les contrats",
+            "code_ogr": "6168",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la gestion comptable et administrative d'une structure",
+            "code_ogr": "3533",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier le fonds de caisse \u00e0 la prise de poste et effectuer le comptage \u00e0 la fermeture de la caisse",
+            "code_ogr": "3453",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de magasins ind\u00e9pendants, de grands magasins, de grandes surfaces de bricolage, de grandes surfaces sp\u00e9cialis\u00e9es (\u00e9lectrom\u00e9nager, ...), ... en contact avec les clients, en relation avec diff\u00e9rents services et intervenants (chef de rayon, responsable de magasin, maintenance, livraison, ...).\nElle varie selon la taille de la structure et le type de produit vendu (tissus, meubles, outillage, ...).\nL'activit\u00e9 peut s'exercer en horaires fractionn\u00e9s, les fins de semaine, jours f\u00e9ri\u00e9s.\nL'activit\u00e9 peut s'effectuer \u00e0 l'ext\u00e9rieur, en environnement allerg\u00e8ne (pl\u00e2tre, ...) et impliquer la manipulation de charges.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Argumentation commerciale",
+            "code_ogr": "20786",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion de stocks",
+            "code_ogr": "21259",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outillages manuels (cl\u00e9, pince, scie, ...)",
+            "code_ogr": "21465",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Calcul de m\u00e9trage",
+            "code_ogr": "20803",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils de d\u00e9coupe",
+            "code_ogr": "21468",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Conception et de Dessin Assist\u00e9s par Ordinateur -CAO/DAO-",
+            "code_ogr": "21249",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Calcul dimensionnel (surface, volume, ...)",
+            "code_ogr": "20808",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Prise de mesures",
+            "code_ogr": "21061",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chiffrage/calcul de co\u00fbt",
+            "code_ogr": "20813",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Boutique, commerce de d\u00e9tail",
+            "code_ogr": "23725",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Boutique de luxe",
+            "code_ogr": "23724",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Grand magasin",
+            "code_ogr": "23949",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Grande et Moyenne Surface -GMS-",
+            "code_ogr": "23951",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Grande Surface de Bricolage -GSB-",
+            "code_ogr": "23953",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Grande Surface Sp\u00e9cialis\u00e9e -GSS-",
+            "code_ogr": "23954",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Jardinerie",
+            "code_ogr": "23979",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "March\u00e9, foire exposition",
+            "code_ogr": "24005",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de vente",
+            "code_ogr": "23168",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Typologie des clients/consommateurs",
+            "code_ogr": "23348",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'encaissement",
+            "code_ogr": "22454",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de gestion de stocks",
+            "code_ogr": "22609",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes de la relation client",
+            "code_ogr": "22323",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en \u00e9lectricit\u00e9",
+            "code_ogr": "21859",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en \u00e9lectronique",
+            "code_ogr": "21863",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9canique g\u00e9n\u00e9rale",
+            "code_ogr": "21882",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en ma\u00e7onnerie",
+            "code_ogr": "21879",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en menuiserie",
+            "code_ogr": "21885",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en plomberie",
+            "code_ogr": "21904",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Couture",
+            "code_ogr": "21760",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de d\u00e9coupe de mat\u00e9riaux",
+            "code_ogr": "22876",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Dessin technique (trac\u00e9, cotes, normalisation, ...)",
+            "code_ogr": "21778",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise la vente de produits destin\u00e9s \u00e0 l'am\u00e9nagement, la d\u00e9coration et l'\u00e9quipement du foyer aupr\u00e8s d'une client\u00e8le de particuliers selon la r\u00e9glementation du commerce, la strat\u00e9gie et les objectifs commerciaux de l'entreprise.\nPeut effectuer des op\u00e9rations de service apr\u00e8s-vente.\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "Vente en d\u00e9coration et \u00e9quipement du foyer",
+    "code_ogr": "98",
+    "code_rome": "D1212",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1201",
+            "libelle_rome_cible": "Achat vente d'objets d'art, anciens ou d'occasion"
+        },
+        {
+            "code_rome_cible": "D1213",
+            "libelle_rome_cible": "Vente en gros de mat\u00e9riel et \u00e9quipement"
+        },
+        {
+            "code_rome_cible": "D1301",
+            "libelle_rome_cible": "Management de magasin de d\u00e9tail"
+        },
+        {
+            "code_rome_cible": "D1402",
+            "libelle_rome_cible": "Relation commerciale grands comptes et entreprises"
+        },
+        {
+            "code_rome_cible": "D1403",
+            "libelle_rome_cible": "Relation commerciale aupr\u00e8s de particuliers"
+        },
+        {
+            "code_rome_cible": "D1503",
+            "libelle_rome_cible": "Management/gestion de rayon produits non alimentaires"
+        }
+    ]
+}

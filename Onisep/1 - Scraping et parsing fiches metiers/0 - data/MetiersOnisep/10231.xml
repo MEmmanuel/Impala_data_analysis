@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">psychomotricien/ne</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">soigner/aider, conseiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/libéral/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction diagnostic, prescription, intervention</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur santé/secteur social/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">psychomotricité</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE médical paramédical travail social soins personnels/psychomotricien</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10231</lien_onisep>
+<ROME Level="1B" csRelFld="10231">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="433" csRelFld="433">
+<CSLABELFLD label="">J1412</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Rééducation et appareillage</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">J1412</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Rééducation en psychomotricité</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10231">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1185" csRelFld="1185">
+<CSLABELFLD label="">psychomotricien / psychomotricienne en sophrologie</CSLABELFLD>
+<MET_ID label="Identifiant">10231</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">21/04/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1185</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">psychomotricien/ne en sophrologie</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1185">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16624" csRelFld="16624">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16624</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10231</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Mettre des mots sur les maux</inter>
+<p>Sur prescription et sous contrôle médical, le psychomotricien rééduque les troubles liés à des perturbations d'origine psychologique, mentale ou neurologique. La thérapie psychomotrice intervient sur des dysfonctionnements du mouvement et du geste : tics nerveux, agitation, difficultés de concentration ou de repérage dans l'espace et le temps, maladies psychosomatiques.</p>
+<inter>Poser un diagnostic</inter>
+<p>Le psychomotricien évalue les capacités psychomotrices de son patient et cherche à identifier l'origine de ses difficultés. Pour cela, il prend le temps de dialoguer avec lui. Il établit un projet de soins et anime les séances de rééducation motrice.</p>
+<inter>Rééduquer</inter>
+<p>En travaillant sur le corps, le psychomotricien favorise une évolution psychique chez le patient susceptible de lui apporter un meilleur équilibre. La rééducation proposée prend différentes formes : gymnastique, expression gestuelle, relaxation... Et s'adapte aux différents publics. Avec les plus jeunes : jeux de ballon, créations en terre, chansons, danses... Avec les plus âgés : activités d'équilibre, travail sur la mémoire. Chaque séance, individuelle ou collective, vise à procurer au patient une aisance gestuelle et une sensation de bien-être physique.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16636" csRelFld="16636">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16636</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10231</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>P<accr_p>our exercer ce métier, il faut être titulaire du diplôme d'État de psychomotricien. Il se</accr_p> prépare en 3 ans, en institut de formation. L'accès se fait sur concours, directement après le bac (1 année de préparation est souvent nécessaire) ou après la PACES (première année commune aux études de santé).</p>
+<liste>
+<tete>Niveau bac + 3 (reconnu bac + 2)</tete>
+<itsimp>Diplôme d'État de psychomotricien</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16623" csRelFld="16623">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16623</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10231</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Sans souci côté emploi</inter>
+<p>À ce jour, on compte environ 9 300 psychomotriciens en exercice. Les jeunes diplômés sortant des instituts de formation ne rencontrent guère de difficultés pour trouver un emploi.</p>
+<inter>Des passerelles pour évoluer</inter>
+<p>Après une expérience professionnelle de quelques années, les psychomotriciens peuvent préparer en 1 an le diplôme de cadre de santé qui leur permettra d'enseigner ou d'encadrer un service hospitalier. Ils peuvent aussi utiliser les passerelles qui ont été établies avec des métiers proches. Les titulaires du diplôme de psychomotricien sont ainsi autorisés à rejoindre directement la 2<exp>e</exp> année de préparation au diplôme d'État de masseur-kinésithérapeute et au diplôme d'État d'ergothérapeute.</p>
+<p>Se spécialiser </p>
+<p>La plupart des psychomotriciens poursuivent leur carrière dans leur domaine. Certains choisissent de se spécialiser sur des techniques particulières. Très riche et diversifiée, l'offre de formation continue permet aux professionnels d'élargir leurs compétences.</p>
+<remun>
+<inter>Salaire du débutant </inter>
+<p>A partir du <sal>Smic</sal> (pour salarié de la fonction publique).</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

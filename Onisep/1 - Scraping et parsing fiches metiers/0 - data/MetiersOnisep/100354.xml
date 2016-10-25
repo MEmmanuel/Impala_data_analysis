@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">consultant/e</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller/enquêter, rechercher, analyser l'information/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/indépendant</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur audit conseil</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">finances/gestion des ressources humaines/marketing</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé/consultant</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100354</lien_onisep>
+<ROME Level="1B" csRelFld="100354">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100354">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="31666" csRelFld="31666">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31666</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100354</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+   <inter>Apporter des solutions</inter>
+   <p>Le consultant est un " facilitateur " doublé d'un expert. L'entreprise cliente fait appel à ce professionnel pour identifier et analyser ses problèmes et rechercher des solutions. Par exemple, mettre en place un outil de ressources humaines ou une solution technologique innovante. Le consultant affine progressivement sa spécialisation dans un secteur (banque, industrie, BTP, santé, secteur public...).</p>
+   <inter>Une méthodologie bien rodée</inter>
+   <p>Si chaque mission est différente, elle se découpe toujours en plusieurs phases. Avant de poser un diagnostic, le consultant passe du temps sur le terrain : par exemple, il rencontre les dirigeants et le personnel. Il organise des entretiens et recoupe les informations recueillies. Il procède ensuite à l'analyse des solutions et de leurs enjeux, qui débouche sur des recommandations. Vient alors la phase de formulation des conclusions qui peut conduire à la mise en place du changement. L'objectif du consultant est toujours de rendre l'entreprise plus performante sur un point précis, grâce à son regard extérieur.</p>
+  </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="31670" csRelFld="31670">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31670</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100354</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Le métier est accessible aux titulaires d'un bac + 5.</accr_p> Les cabinets de conseil en management font appel à des profils variés (universitaires, diplômés d'écoles d'ingénieurs, de commerce et de gestion et d'IEP...). Les cabinets de conseil en informatique ou en ingénierie recrutent essentiellement des ingénieurs et des informaticiens. Dans tous les cas, l'anglais est indispensable.</p>
+<inter>Niveau bac + 5 et plus</inter>
+<liste>
+<itsimp>
+<em>Diplôme </em>d'école supérieure de commerce et de gestion avec une spécialisation en conseil en systèmes d'information, management industriel, GRH et conduite du changement, management stratégique, consulting, audit, conseil, management des nouvelles technologies, e-business...</itsimp>
+<itsimp>
+<em>Diplôme </em>d'ingénieur avec une spécialisation en systèmes d'information, ingénierie conseil, management...</itsimp>
+<itsimp>
+<em>Diplôme </em>d'institut d'études politiques (IEP) ; </itsimp>
+<itsimp>
+<em>Masters pro</em> gestion et droit, management, pilotage stratégique d'entreprise, marketing, entrepreneuriat, systèmes d'information, ressources humaines, conseil et dynamiques de changement dans les organisations...</itsimp>
+<itsimp>
+<em>Masters recherche </em>mention management socio-économique, spécialité consultant ;</itsimp>
+<itsimp>
+<em>Mastères spécialisés </em>conseil en organisation ; strategic management...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="31668" csRelFld="31668">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31668</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100354</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Les gros cabinets embauchent</inter>
+<p>Hormis pendant les années difficiles, les cabinets internationaux sont de gros recruteurs. Le volume annuel d'embauche varie ainsi de 200 à 1 000 postes dans des cabinets comme Ineum Consulting, Bearing Point ou Accenture. Les jeunes diplômés représentent souvent plus de la moitié des recrutés. Ce n'est pas le cas dans les petites structures qui privilégient souvent les professionnels confirmés. Un stage est la meilleure façon de mettre un pied dans les cabinets qui développent d'ailleurs de nombreux partenariats avec les écoles.</p>
+<inter>Un parcours gagnant</inter>
+<p>On peut faire carrière en cabinet en progressant vite au début. L'évolution classique se décompose en 2 ans comme junior, 2 à 3 ans comme senior, avec prise en charge d'une équipe, 6 à 10 ans comme manager. Environ 5 % des consultants accèdent ensuite au grade suprême d'associé et deviennent responsables des dossiers. Le consultant qui choisit d'exercer en entreprise en cours de carrière bénéficie d'une carte de visite très recherchée.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir de <sal>2500</sal> euros brut par mois.</p>
+<postit>
+<p>Source : Apec (Association pour l'emploi des cadres), 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

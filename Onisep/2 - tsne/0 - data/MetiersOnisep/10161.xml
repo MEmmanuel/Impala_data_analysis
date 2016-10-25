@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">barman (barmaid)</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">pratiquer les langues vivantes/aider, conseiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/saisonnier</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction vente</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur restauration/secteur hôtellerie</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">service bar</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE hôtellerie restauration tourisme loisirs/barman</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10161</lien_onisep>
+<ROME Level="1B" csRelFld="10161">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="250" csRelFld="250">
+<CSLABELFLD label="">G1801</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Service</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">G1801</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Café, bar brasserie</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10161">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="19002" csRelFld="19002">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">19002</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10161</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Préparer la salle</inter>
+<p>Le barman joue un rôle essentiel dans l'établissement qui l'emploie et assume des responsabilités au-delà du simple service des boissons. Avant l'ouverture du bar au public, il prépare la salle, procède au nettoyage et à l'entretien : mise en place des tables, de la plonge, mise en service des réfrigérateurs, des percolateurs, de la machine à laver les verres... </p>
+<inter>Réapprovisionner les stocks</inter>
+<p>Pas question de tomber en panne de boissons pendant le service ! Le barman veille à l'approvisionnement du bar pour la journée et réceptionne les produits commandés à l'économat (s'il s'agit d'un bar intégré à un hôtel) ou aux fournisseurs (si c'est un bar classique).</p>
+<inter>Accueillir les clients</inter>
+<p>Le bar ouvert, il accueille les clients, prépare et sert les boissons, réalise certains cocktails. Pour cela, il utilise les équipements du bar et un matériel spécifique, comme les shakers. Tout en servant, il converse avec les clients, les conseille dans leur choix de boisson et leur fait découvrir de nouvelles recettes. Souvent, c'est lui qui anime le bar et qui crée une ambiance. Il lui arrive, d'ailleurs, de participer à la décoration du lieu et au choix de la programmation musicale. </p>
+<inter>Encaisser et former</inter>
+<p>Il assure la facturation et l'encaissement des consommations. À la fin de la journée, il arrête les comptes et établit le relevé des ventes. Chef barman, il prend en charge les commandes de boissons et négocie les tarifs. Dans les grands établissements, il encadre le personnel, recrute les employés ou les apprentis, et assure leur formation.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16031" csRelFld="16031">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16031</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10161</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Pour accéder au métier de barman, deux principaux diplômes. <accr_p>La MC employé barman</accr_p> (préparée après un CAP services en brasserie-café, un CAP restaurant, un bac techno sciences et technologies de l'hôtellerie et de la restauration ou encore un bac pro commercialisation et services en restauration). <accr_p>Et le BP barman,</accr_p> accessible après au moins 2 ans d'expérience professionnelle (y compris comme apprenti), pour s'installer à son compte ou évoluer vers un poste de chef barman dans un grand établissement.</p>
+<liste>
+<tete>Après la 3<exp>e</exp>
+</tete>
+<itsimp>MC employé barman</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>BP barman</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16027" csRelFld="16027">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16027</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10161</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des stages et l'anglais nécessaires</inter>
+<p>Des stages dans différents établissements (en France et à l'étranger) sont utiles pour diversifier ses expériences. La connaissance d'au moins une langue étrangère (dont l'anglais) est exigée dans la plupart des cas. </p>
+<inter>Des emplois dans les grandes villes</inter>
+<p>En France, on compte environ 6000 employés barmen. Les emplois se situent principalement dans les villes dotées d'un tourisme d'affaires tout au long de l'année. Mais le barman peut aussi travailler pendant la haute saison dans une zone touristique. Le bouche à oreille est très efficace dans ce milieu, et le réseau d'offres d'emploi est soigneusement entretenu par les établissements de formation, les associations de barmen et les syndicats.</p>
+<inter>Des possibilités d'évolution</inter>
+<p>Après plusieurs années d'expérience, un commis ou un apprenti barman peut devenir barman, puis chef barman dans un établissement de luxe. Une formation complémentaire en gestion permet aux plus audacieux de s'installer à leur compte.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>A partir du <sal>Smic</sal> et jusqu'à 1540 euros au minimum (sur une base de 39 heures).</p>
+<postit>
+<p>Source : Convention collective nationale des hôtels, cafés, restaurants (HCR) du 30 avril 1997 : classification des emplois, avenant salaires 2011 (calcul à partir de la grille de salaires de janvier 2011).</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

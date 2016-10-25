@@ -1,0 +1,479 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Commis coursier / Commise coursi\u00e8re en douane",
+            "priorisation": "1",
+            "libelle": "Commis coursier / Commise coursi\u00e8re en douane",
+            "code_ogr": "12750"
+        },
+        {
+            "libelle_court": "Coursier / Coursi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Coursier / Coursi\u00e8re",
+            "code_ogr": "13795"
+        },
+        {
+            "libelle_court": "Coursier / Coursi\u00e8re de course express",
+            "priorisation": "1",
+            "libelle": "Coursier / Coursi\u00e8re de course express",
+            "code_ogr": "13796"
+        },
+        {
+            "libelle_court": "Coursier / Coursi\u00e8re V\u00e9hicule L\u00e9ger",
+            "priorisation": "1",
+            "libelle": "Coursier / Coursi\u00e8re V\u00e9hicule L\u00e9ger",
+            "code_ogr": "13801"
+        },
+        {
+            "libelle_court": "Coursier / Coursi\u00e8re v\u00e9hicules 2 roues",
+            "priorisation": "1",
+            "libelle": "Coursier / Coursi\u00e8re v\u00e9hicules 2 roues",
+            "code_ogr": "13802"
+        },
+        {
+            "libelle_court": "Coursier livreur / Coursi\u00e8re livreuse de pizzas",
+            "priorisation": "1",
+            "libelle": "Coursier livreur / Coursi\u00e8re livreuse de pizzas",
+            "code_ogr": "13798"
+        },
+        {
+            "libelle_court": "Coursier livreur / Coursi\u00e8re livreuse de plats cuisin\u00e9s",
+            "priorisation": "1",
+            "libelle": "Coursier livreur / Coursi\u00e8re livreuse de plats cuisin\u00e9s",
+            "code_ogr": "13799"
+        },
+        {
+            "libelle_court": "Coursier livreur/Coursi\u00e8re livreuse en bien de consommation",
+            "priorisation": "1",
+            "libelle": "Coursier livreur / Coursi\u00e8re livreuse en bien de consommation",
+            "code_ogr": "13800"
+        },
+        {
+            "libelle_court": "Releveur / Releveuse de compteurs",
+            "priorisation": "1",
+            "libelle": "Releveur / Releveuse de compteurs",
+            "code_ogr": "38096"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier le trajet en fonction des consignes de livraison et v\u00e9rifier les documents (horaires, commande, ...)",
+            "code_ogr": "2067",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Charger les colis, plis, plats cuisin\u00e9s sur ou dans le v\u00e9hicule",
+            "code_ogr": "2495",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Livrer ou enlever les colis chez le client selon la commande",
+            "code_ogr": "2273",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Communiquer les informations sur la r\u00e9alisation de la course et les anomalies rencontr\u00e9es",
+            "code_ogr": "857",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien de premier niveau et le nettoyage du v\u00e9hicule",
+            "code_ogr": "3545",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "G1702",
+            "libelle_rome_cible": "Personnel du hall"
+        },
+        {
+            "code_rome_cible": "K2303",
+            "libelle_rome_cible": "Nettoyage des espaces urbains"
+        },
+        {
+            "code_rome_cible": "N4102",
+            "libelle_rome_cible": "Conduite de transport de particuliers"
+        },
+        {
+            "code_rome_cible": "N4105",
+            "libelle_rome_cible": "Conduite et livraison par tourn\u00e9es sur courte distance"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle.\nLe permis A (motos) ou B (v\u00e9hicules l\u00e9gers) peut \u00eatre exig\u00e9.\nLe Brevet de S\u00e9curit\u00e9 Routi\u00e8re -BSR- est obligatoire pour la conduite de v\u00e9hicules deux roues de cylindr\u00e9e inf\u00e9rieure \u00e0 50cm3.\nLa connaissance du secteur g\u00e9ographique desservi ou la possession d'un v\u00e9hicule personnel assur\u00e9 pour usage professionnel peut \u00eatre demand\u00e9e.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser des livraisons en :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bicyclette",
+            "code_ogr": "8511",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Scooter <50 cm3",
+            "code_ogr": "8514",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Scooter - Moto >125 cm3",
+            "code_ogr": "8513",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Scooter - Moto <125 cm3",
+            "code_ogr": "8512",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9hicule automobile l\u00e9ger (moins de 3, 5 tonnes)",
+            "code_ogr": "8515",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9lomoteur",
+            "code_ogr": "8516",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9ceptionner et pr\u00e9parer des commandes \u00e0 livrer (pr\u00e9l\u00e8vement, emballage, ...)",
+            "code_ogr": "9428",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des pr\u00e9parations culinaires simples",
+            "code_ogr": "9032",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accomplir des formalit\u00e9s administratives aupr\u00e8s d'administrations et autorit\u00e9s (pr\u00e9fecture, ambassade, minist\u00e8re, ...)",
+            "code_ogr": "3641",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des op\u00e9rations en lien avec les formalit\u00e9s douani\u00e8res (v\u00e9rification de colis, d\u00e9p\u00f4t de d\u00e9clarations, ...)",
+            "code_ogr": "5012",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Compl\u00e9ter avec un client les documents li\u00e9s au d\u00e9p\u00f4t ou \u00e0 l'enl\u00e8vement de plis ou colis (\u00e9margement, bordereau, r\u00e9serve, ...)",
+            "code_ogr": "3923",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser une tourn\u00e9e de relev\u00e9 d'index de compteurs chez des clients",
+            "code_ogr": "38132",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les op\u00e9rations d'encaissement",
+            "code_ogr": "3546",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises sp\u00e9cialis\u00e9es en courses express ou de structures (entreprises, administrations, ...) int\u00e9grant un service de coursiers interne, en contact avec les clients (entreprises, particuliers, administrations, ...) et en liaison avec la structure (priorit\u00e9s de course, temps d'attente, ...).\nElle peut s'exercer en horaires fractionn\u00e9s, d\u00e9cal\u00e9s, les fins de semaine ou jours f\u00e9ri\u00e9s.\nL'activit\u00e9 s'effectue en zone de trafic (embouteillage, stationnement urbain, ...), dans un p\u00e9rim\u00e8tre g\u00e9ographique restreint (agglom\u00e9ration ou p\u00e9riph\u00e9rie, sites multiples, port, a\u00e9roport, ...).\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de carte routi\u00e8re",
+            "code_ogr": "20933",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Remplissage de bon de livraison",
+            "code_ogr": "21083",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de navigation (GPS, VHF, radar, ...)",
+            "code_ogr": "21329",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan urbain",
+            "code_ogr": "20955",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils de lecture optique de codes-barres (pistolet, flasheur, ...)",
+            "code_ogr": "21155",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Bureau d'\u00e9tudes et d'ing\u00e9nierie",
+            "code_ogr": "23735",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise",
+            "code_ogr": "23867",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de transport",
+            "code_ogr": "23888",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise publique/\u00e9tablissement public",
+            "code_ogr": "23912",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement de restauration rapide",
+            "code_ogr": "23918",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Laboratoire d'analyses",
+            "code_ogr": "23984",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Site de transit (port, a\u00e9roport, ...)",
+            "code_ogr": "24073",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de course express",
+            "code_ogr": "24083",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Administration / Services de l'Etat",
+            "code_ogr": "23388",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Douanes",
+            "code_ogr": "23466",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Finance",
+            "code_ogr": "23501",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Immobilier",
+            "code_ogr": "23523",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie",
+            "code_ogr": "23528",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sant\u00e9 et action sociale",
+            "code_ogr": "23625",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Transport/logistique",
+            "code_ogr": "23659",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de circulation et de stationnement en agglom\u00e9ration",
+            "code_ogr": "22596",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes de la relation client",
+            "code_ogr": "22323",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaire",
+            "code_ogr": "22649",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Formalit\u00e9s douani\u00e8res",
+            "code_ogr": "21963",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise, \u00e0 la demande, le transport express de tous types de colis (objets, pi\u00e8ces d\u00e9tach\u00e9es, plats cuisin\u00e9s, m\u00e9dicaments) ou de documents (plis, actes originaux, ...) n\u00e9cessitant un traitement particulier li\u00e9 \u00e0 l'urgence, la valeur, la fragilit\u00e9.\nConduit un v\u00e9hicule l\u00e9ger (scooter, moto, voiture, ...) selon les r\u00e8gles de s\u00e9curit\u00e9 et les imp\u00e9ratifs de d\u00e9lais.\nPeut effectuer des op\u00e9rations annexes (encaissement, pr\u00e9paration de commandes, relev\u00e9 de compteurs d'eau, d'\u00e9lectricit\u00e9, de gaz ...).\n",
+    "intitule": "Courses et livraisons express",
+    "code_ogr": "526",
+    "code_rome": "N4104",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1204",
+            "libelle_rome_cible": "Location de v\u00e9hicules ou de mat\u00e9riel de loisirs"
+        },
+        {
+            "code_rome_cible": "D1404",
+            "libelle_rome_cible": "Relation commerciale en vente de v\u00e9hicules"
+        },
+        {
+            "code_rome_cible": "I1303",
+            "libelle_rome_cible": "Installation et maintenance de distributeurs automatiques"
+        },
+        {
+            "code_rome_cible": "J1305",
+            "libelle_rome_cible": "Conduite de v\u00e9hicules sanitaires"
+        },
+        {
+            "code_rome_cible": "K2110",
+            "libelle_rome_cible": "Formation en conduite de v\u00e9hicules"
+        },
+        {
+            "code_rome_cible": "N1202",
+            "libelle_rome_cible": "Gestion des op\u00e9rations de circulation internationale des marchandises"
+        },
+        {
+            "code_rome_cible": "N4101",
+            "libelle_rome_cible": "Conduite de transport de marchandises sur longue distance"
+        },
+        {
+            "code_rome_cible": "N4103",
+            "libelle_rome_cible": "Conduite de transport en commun sur route"
+        },
+        {
+            "code_rome_cible": "N4203",
+            "libelle_rome_cible": "Intervention technique d'exploitation des transports routiers de marchandises"
+        },
+        {
+            "code_rome_cible": "N4204",
+            "libelle_rome_cible": "Intervention technique d'exploitation des transports routiers de personnes"
+        }
+    ]
+}

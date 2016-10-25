@@ -1,0 +1,433 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Kin\u00e9sith\u00e9rapeute",
+            "priorisation": "1",
+            "libelle": "Kin\u00e9sith\u00e9rapeute",
+            "code_ogr": "16136"
+        },
+        {
+            "libelle_court": "Kin\u00e9sith\u00e9rapeute chiropracteur / chiropractrice",
+            "priorisation": "1",
+            "libelle": "Kin\u00e9sith\u00e9rapeute chiropracteur / chiropractrice",
+            "code_ogr": "16137"
+        },
+        {
+            "libelle_court": "Kin\u00e9sith\u00e9rapeute chiropraticien / chiropraticienne",
+            "priorisation": "1",
+            "libelle": "Kin\u00e9sith\u00e9rapeute chiropraticien / chiropraticienne",
+            "code_ogr": "16138"
+        },
+        {
+            "libelle_court": "Kin\u00e9sith\u00e9rapeute ost\u00e9opathe",
+            "priorisation": "1",
+            "libelle": "Kin\u00e9sith\u00e9rapeute ost\u00e9opathe",
+            "code_ogr": "16139"
+        },
+        {
+            "libelle_court": "Masseur / Masseuse kin\u00e9sith\u00e9rapeute",
+            "priorisation": "1",
+            "libelle": "Masseur / Masseuse kin\u00e9sith\u00e9rapeute",
+            "code_ogr": "16419"
+        },
+        {
+            "libelle_court": "Masseur(se) kin\u00e9sith\u00e9rapeute r\u00e9\u00e9ducateur(trice)",
+            "priorisation": "1",
+            "libelle": "Masseur kin\u00e9sith\u00e9rapeute r\u00e9\u00e9ducateur / Masseuse kin\u00e9sith\u00e9rapeute r\u00e9\u00e9ducatrice",
+            "code_ogr": "16420"
+        },
+        {
+            "libelle_court": "Physioth\u00e9rapeute",
+            "priorisation": "1",
+            "libelle": "Physioth\u00e9rapeute",
+            "code_ogr": "17736"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier le besoin du patient et \u00e9changer des informations (traitements en cours, ant\u00e9c\u00e9dents m\u00e9dicaux, radiographies, ...)",
+            "code_ogr": "2056",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir le diagnostic masso kin\u00e9sith\u00e9rapique (bilan des d\u00e9ficiences, ...) \u00e0 partir de tests de force musculaire, de posture, ... et le pr\u00e9senter au patient",
+            "code_ogr": "1857",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9tecter des contre-indications suite \u00e0 des fractures, des infections osseuses, ... et orienter le patient vers un m\u00e9decin, psychologue, ...",
+            "code_ogr": "1368",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "3",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer le projet th\u00e9rapeutique et arr\u00eater les modalit\u00e9s d'intervention selon l'\u00e2ge, la pathologie, l'activit\u00e9 du patient",
+            "code_ogr": "1738",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mettre en place la s\u00e9ance de kin\u00e9sith\u00e9rapie et l'adapter",
+            "code_ogr": "2333",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser le bilan de fin d'intervention et conseiller le patient sur l'hygi\u00e8ne de vie",
+            "code_ogr": "2791",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "6",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les documents m\u00e9dico-administratifs et effectuer les op\u00e9rations relatives au r\u00e8glement",
+            "code_ogr": "3599",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "J1408",
+            "libelle_rome_cible": "Ost\u00e9opathie et chiropraxie"
+        },
+        {
+            "code_rome_cible": "K1103",
+            "libelle_rome_cible": "D\u00e9veloppement personnel et bien-\u00eatre de la personne"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec le Dipl\u00f4me d'Etat de Masseur Kin\u00e9sith\u00e9rapeute -DEMK-.\nDes formations compl\u00e9mentaires (kin\u00e9sith\u00e9rapie p\u00e9diatrique, reconstruction posturale, kin\u00e9sith\u00e9rapie respiratoire et cardio-vasculaire, ...) et des sp\u00e9cialisations (ost\u00e9opathie, chiropractie, myoth\u00e9rapie, ....) peuvent \u00eatre requises.\nDes vaccinations pr\u00e9vues par le Code de Sant\u00e9 Publique sont exig\u00e9es.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Mettre en place des s\u00e9ances de kin\u00e9sith\u00e9rapie :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9\u00e9ducation abdominale (urologie, gyn\u00e9cologie, proctologie, ...)",
+            "code_ogr": "7485",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9\u00e9ducation cardiovasculaire",
+            "code_ogr": "7486",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9\u00e9ducation de la d\u00e9glutition",
+            "code_ogr": "7487",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9\u00e9ducation des troubles de l'\u00e9quilibre",
+            "code_ogr": "7488",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9\u00e9ducation des troubles veino-lymphatiques",
+            "code_ogr": "7489",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9\u00e9ducation neurologique",
+            "code_ogr": "7490",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "6",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9\u00e9ducation orthop\u00e9dique",
+            "code_ogr": "7491",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "7",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9\u00e9ducation respiratoire",
+            "code_ogr": "7492",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "8",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener des actions :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bilan ergonomique",
+            "code_ogr": "7333",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Gymnastique aquatique",
+            "code_ogr": "7337",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivi d'activit\u00e9s physiques et sportives de comp\u00e9tition",
+            "code_ogr": "7347",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9terminer le mat\u00e9riel de contention, d'immobilisation adapt\u00e9 et proc\u00e9der \u00e0 la pose",
+            "code_ogr": "4664",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier le fonctionnement des appareils et informer le service maintenance, le responsable en cas de dysfonctionnement",
+            "code_ogr": "3626",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener des actions de formation au sein d'un organisme",
+            "code_ogr": "7395",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce en cabinet, au sein d'\u00e9tablissements de soins (h\u00f4pital, clinique, centre de r\u00e9\u00e9ducation, ...) ou de centres de remise en forme en contact avec des patients et en relation avec diff\u00e9rents intervenants (m\u00e9decins, infirmiers, ...).\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Identification des signes et du degr\u00e9 de la douleur",
+            "code_ogr": "20916",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Cabinet m\u00e9dical",
+            "code_ogr": "23750",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Centre de remise en forme",
+            "code_ogr": "23777",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Club sportif",
+            "code_ogr": "23807",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement m\u00e9dical (h\u00f4pital, clinique, ...)",
+            "code_ogr": "23922",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisation humanitaire",
+            "code_ogr": "24014",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Au domicile de particulier",
+            "code_ogr": "23375",
+            "code_type_section_env": "3"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Biom\u00e9canique",
+            "code_ogr": "21531",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Traumatologie",
+            "code_ogr": "23300",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Rhumatologie",
+            "code_ogr": "22671",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ergonomie",
+            "code_ogr": "21935",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Physioth\u00e9rapie",
+            "code_ogr": "22291",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de r\u00e9\u00e9ducation posturale",
+            "code_ogr": "23085",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'aspirations trach\u00e9ales, rhino-pharyng\u00e9es, ...",
+            "code_ogr": "22788",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de drainage lymphatique",
+            "code_ogr": "22900",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes d'urgence et de secours",
+            "code_ogr": "21991",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de fabrication d'appareillage (attelles, ...)",
+            "code_ogr": "22904",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de strapping",
+            "code_ogr": "23129",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9\u00e9duque et r\u00e9adapte les d\u00e9ficiences motrices, les limitations fonctionnelles de la personne selon la prescription m\u00e9dicale dans un but d'entretien, de restauration, d'adaptation de la gestuelle ou d'optimisation de la fonction motrice.\nPeut proposer un traitement selon une orientation th\u00e9rapeutique sp\u00e9cifique (ost\u00e9opathie, chiropractie, ...).\nPeut r\u00e9aliser des actions de pr\u00e9vention (bilans ergonomiques, suivi de sportifs, ...).\nPeut diriger un cabinet.\n",
+    "intitule": "Kin\u00e9sith\u00e9rapie",
+    "code_ogr": "348",
+    "code_rome": "J1404",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "J1502",
+            "libelle_rome_cible": "Coordination de services m\u00e9dicaux ou param\u00e9dicaux"
+        }
+    ]
+}

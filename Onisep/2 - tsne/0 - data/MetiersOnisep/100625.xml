@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">histologiste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire de la recherche</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction recherche</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique/secteur recherche/secteur santé/secteur de l'éducation</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">biologie/biochimie/biotechnologies</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE médical paramédical travail social soins personnels</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100625</lien_onisep>
+<ROME Level="1B" csRelFld="100625">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="411" csRelFld="411">
+<CSLABELFLD label="">J1201</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Praticiens médico-techniques</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">J1201</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Biologie médicale</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100625">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1530" csRelFld="1530">
+<CSLABELFLD label=""> chercheur / chercheuse en médecine spécialisée en histologie</CSLABELFLD>
+<MET_ID label="Identifiant">100625</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">18/11/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1530</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chercheur/euse en médecine spécialisée en histologie</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1530">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1531" csRelFld="1531">
+<CSLABELFLD label=""> médecin histologiste</CSLABELFLD>
+<MET_ID label="Identifiant">100625</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">18/11/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1531</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">médecin histologiste</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1531">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1532" csRelFld="1532">
+<CSLABELFLD label=""> vétérinaire histologiste</CSLABELFLD>
+<MET_ID label="Identifiant">100625</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">18/11/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1532</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">vétérinaire histologiste</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1532">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56144" csRelFld="56144">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56144</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100625</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter> Étudier les tissus et les cellules</inter>
+<p>L'histologiste étudie, à l'aide d'un microscope, les différents tissus organiques qui composent le vivant. Il travaille sur différents types de prélèvements : biopsies, frottis, ponctions, etc. Pour les tissus végétaux, il utilise des méthodes spécifiques (écrasement, empreinte sur vernis...). </p>
+<inter> Préparer les échantillons</inter>
+<p> Avant leur étude, l'histologiste procède à la préparation des échantillons, en leur faisant subir certaines réactions chimiques ou physiques pour pouvoir mieux les observer au microscope. La fixation au formol, par exemple, permet d'éviter la décomposition ou la dégradation. Il réalise aussi des inclusions, pour donner une consistance ferme aux tissus. L'inclusion dans des blocs de paraffine permet de réaliser ensuite des découpes en tranches très fines (de l'ordre du micron). Il utilise également la coloration des tissus, pour augmenter leur contraste et faciliter l'observation. </p>
+<inter> Interpréter les résultats </inter>
+<p> Il choisit les modalités de prélèvement en fonction des objectifs de l'examen (prélèvement pré ou post-opératoire, autopsie...). Il interprète ensuite les analyses histologiques. En médecine, ses analyses aident à déterminer l'évolution d'une pathologie. Elles sont parfois utilisées directement en salle d'opération. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56148" csRelFld="56148">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56148</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100625</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p> Le niveau de formation varie de bac + 5 à bac + 8 au minimum dans les domaines de la biologie, de la biochimie ou des biotechnologies. </p>
+<liste>
+<tete> Niveau bac + 5 </tete>
+<itsimp>Diplôme d'ingénieur en biochimie, biologie, biologie moléculaire et cellulaire, biotechnologie...</itsimp>
+<itsimp>Master en biochimie, biologie, biologie moléculaire et cellulaire, biotechnologie...</itsimp>
+<itsimp>Diplôme d'État (DE) de docteur vétérinaire </itsimp>
+</liste>
+<liste>
+<tete> Niveau bac + 8 et plus </tete>
+<itsimp> Diplôme d'État (DE) de docteur en médecine ou diplôme d'études spécialisées (DES) en biologie médicale ou en anatomie et cytologie pathologiques...</itsimp>
+<itsimp>Diplôme d'études spécialisées vétérinaires (DESV) en anatomie pathologique vétérinaire...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56146" csRelFld="56146">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56146</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100625</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter> Dans un centre hospitalier ou un laboratoire de recherche</inter>
+<p> Il travaille le plus souvent dans un laboratoire de biologie médicale, au sein d'un hôpital, d'une école vétérinaire, d'un organisme de contrôle sanitaire, ou dans un centre de lutte contre le cancer.</p>
+<p> Il peut aussi exercer dans un laboratoire de recherche en université, dans un laboratoire pharmaceutique, à l'institut Pasteur, au CNRS (Centre national de la recherche scientifique), à l'Inserm (Institut national de la santé et de la recherche médicale), à l'Inra (Institut national de la recherche agronomique)... </p>
+<inter> Dans l'industrie </inter>
+<p> Utilisées le plus souvent à des fins médicales, les techniques histologiques sont aussi pratiquées dans d'autres domaines d'activité. L'histologie alimentaire, par exemple, permet de détailler la composition des produits alimentaires et de déterminer à coup sûr quel type de viande, de poisson... a été cuisiné dans un plat préparé. À la faveur des scandales alimentaires, des laboratoires spécialisés sont même nés, qui proposent leurs services aux acteurs du secteur (distributeurs de l'agroalimentaire, restauration industrielle, organismes certificateurs, etc.). Plus généralement, l'histologiste se trouve aussi dans les laboratoires de biotechnologies et dans l'industrie pharmaceutique ou cosmétique. </p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir de <sal>2500</sal> euros brut par mois. Variable selon le lieu d'exercice et le statut. </p>
+<postit>
+<p> Source : Inserm, 2014. </p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

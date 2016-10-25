@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">chef/fe des ventes</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">me déplacer souvent/coordonner l'activité d'une équipe/faire du commerce</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction administration des ventes/fonction formation/fonction gestion des ressources humaines</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur commerce</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">direction commerciale/vente</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE commerce distribution/chef des ventes</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10065</lien_onisep>
+<ROME Level="1B" csRelFld="10065">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10065">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17610" csRelFld="17610">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17610</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10065</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+   <inter>Faire le lien</inter>
+   <p>Trait d'union entre la force de vente et la direction commerciale, le chef des ventes est chargé d'une clientèle sur une zone géographique donnée, ou spécialisé sur un type de produits ou une catégorie de clients. </p>
+   <inter>Motiver ses équipes</inter>
+   <p>Un peu comme un entraîneur sportif, le chef des ventes encadre, pilote et conseille ses collaborateurs. Il recrute lui-même ses attachés commerciaux et assure leur formation. Il n'hésite pas à accompagner les débutants, au moins une fois par semaine, en rendez-vous chez les clients. </p>
+   <inter>Améliorer le chiffre d'affaires</inter>
+   <p>Ce commercial ne perd jamais de vue les objectifs fixés par la direction. Avec ses vendeurs, il doit faire progresser le chiffre d'affaires de l'entreprise. S'informant des ventes réalisées par chacun, il s'assure que la totalité du secteur géographique affecté à un agent a bien été couverte et que tous les produits ont été présentés aux clients. Régulièrement, des réunions permettent de faire le point sur les résultats obtenus. </p>
+  </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17602" csRelFld="17602">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17602</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10065</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>La fonction de chef des ventes est accessible après un bac + 2 et une expérience professionnelle de plusieurs années. </accr_p>
+</p>
+<inter>Niveau bac + 2</inter>
+<liste>
+<itsimp>
+<em>BTS</em> négociation et relation client ; management des unités commerciales (MUC) ;</itsimp>
+<itsimp>
+<em>DUT</em> techniques de commercialisation ;</itsimp>
+<itsimp>
+<em>Diplôme d'école supérieure de commerce : </em>avec une spécialisation en distribution, marketing ou gestion.</itsimp>
+</liste>
+<inter>Niveau bac + 3</inter>
+<liste>
+<itsimp>
+<em>Diplôme des instituts des forces de vente</em> (IFV) : cycle supérieur en 1 an après un bac + 2 pouvant être suivi en alternance ;</itsimp>
+<itsimp>
+<em>Licence pro </em>commerce spécialité gestion de flux internationaux des PME-PMI, achats, ventes, négociation internationale (université du Littoral) ;</itsimp>
+<itsimp>
+<em>Diplôme d'école de commerce</em> du réseau EGC, de l'IDRAC, Sup'TG (Reims, Bordeaux), Sup'Est (Nancy, Metz), Bachelor Business spécialisé en commerce-vente (Sup de Co La Rochelle)...</itsimp>
+</liste>
+<inter>Niveau bac + 5</inter>
+<liste>
+<itsimp>
+<em>Master pro</em> du domaine commercial, dont sciences du management mention management et économie, spécialité ingénierie du commerce et de la vente (université de Savoie).</itsimp>
+</liste>
+<p/>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17612" csRelFld="17612">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17612</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10065</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+   <inter>Surtout dans les services</inter>
+   <p>On ne s'improvise pas chef des ventes. Les entreprises recherchent des commerciaux ayant déjà une expérience terrain et maîtrisant le produit dont ils font la promotion. Les débouchés se situent dans tous les domaines d'activité, en particulier dans les entreprises de services.</p>
+   <inter>Les jeunes diplômés aussi</inter>
+   <p>Les offres d'emploi concernent le plus souvent des trentenaires. Mais 3 annonces sur 10 s'adressent à des jeunes diplômés ayant acquis une première expérience au cours de leurs études (stages de longue durée ou " année sandwich ").</p>
+   <remun>
+    <inter>Salaire du débutant</inter>
+    <p>De <sal>2333</sal> à 2916 euros brut par mois. S'y ajoute une part variable en fonction des résultats obtenus.</p>
+    <p>Source : Apec, 2014.</p>
+   </remun>
+  </MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

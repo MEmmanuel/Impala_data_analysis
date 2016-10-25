@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">statisticien/ne</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">manier les chiffres</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction études économiques ou sociales </MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur assurances/secteur banque/secteur industrie pharmaceutique/secteur fonction publique/secteur audit conseil</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">statistiques/mathématiques</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit/statisticien</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100372</lien_onisep>
+<ROME Level="1B" csRelFld="100372">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="574" csRelFld="574">
+<CSLABELFLD label="">M1403</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Organisation et études</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1403</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Études et prospectives socio-économiques</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100372">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1078" csRelFld="1078">
+<CSLABELFLD label="">actuaire </CSLABELFLD>
+<MET_ID label="Identifiant">100372</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">03/01/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1078</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">actuaire</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1078">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1079" csRelFld="1079">
+<CSLABELFLD label="">attaché statisticien / attachée statisticienne de l'Insee</CSLABELFLD>
+<MET_ID label="Identifiant">100372</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">03/01/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1079</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">attaché/e statisticien/ne de l'Insee</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1079">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1080" csRelFld="1080">
+<CSLABELFLD label="">biostatisticien / biostatisticienne</CSLABELFLD>
+<MET_ID label="Identifiant">100372</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">03/01/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1080</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">biostatisticien/ne</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1080">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1081" csRelFld="1081">
+<CSLABELFLD label="">statisticien / statisticienne data manager</CSLABELFLD>
+<MET_ID label="Identifiant">100372</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">03/01/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1081</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">statisticien/ne data manager</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1081">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1082" csRelFld="1082">
+<CSLABELFLD label="">statisticien / statisticienne web analytique</CSLABELFLD>
+<MET_ID label="Identifiant">100372</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">03/01/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1082</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">statisticien/ne web analytique</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1082">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="32450" csRelFld="32450">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">32450</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100372</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Collecte</inter>
+<p>Enquête marketing, sondage d'opinions, essai clinique ou thérapeutique, contrôle de la qualité de la peinture appliquée sur des voitures neuves, etc. Quel que soit son sujet d'étude, le statisticien commence par collecter les informations et les chiffres qui l'intéressent en établissant un questionnaire ou une grille d'évaluation.</p>
+<inter>Encadrement</inter>
+<p>Il décide ensuite de la méthodologie à adopter (sondage par téléphone, par Internet, par courrier) et met en place une équipe composée d'assistants et d'enquêteurs.</p>
+<inter>Des chiffres à faire parler</inter>
+<p>Une fois les informations recueillies, le statisticien doit les traiter. Pour ce faire, il utilise des logiciels informatiques très performants. À lui d'analyser ensuite les courbes ou graphiques obtenus, et d'effectuer un travail de synthèse. La dernière étape de son travail consiste à présenter ses résultats au commanditaire de l'étude afin de l'aider dans sa prise de décision.</p> </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="32454" csRelFld="32454">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">32454</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100372</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Les grandes écoles spécialisées sont la voie royale pour devenir statisticien.</accr_p> Mais d'autres formations, courtes ou universitaires, sont également envisageables.</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>DUT statistique et informatique décisionnelle</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence mention économie et gestion, mention mathématiques et informatique appliquées aux sciences humaines et sociales (MIASHS) </itsimp>
+<itsimp>Licence pro mention métiers du décisionnel et de la statistique </itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master pro mention économétrie, statistiques ; mention mathématiques appliquées, statistiques ; mention mathématiques et applications, mention mathématiques... </itsimp>
+<itsimp>Diplôme d'une des 3 écoles de statistique : Ensae (École nationale supérieure de l'administration économique), Ensai (École nationale de la statistique et de l'analyse de l'information) ou Isup (Institut de statistique de l'université Pierre et Marie Curie)</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="32452" csRelFld="32452">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">32452</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100372</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Diversité des structures</inter>
+<p>Généralement rattachés à un département, à une direction des études ou à une cellule de prospective, le statisticien peut travailler dans différents environnements : instituts ou organismes d'études, grandes entreprises (banque, assurance, industrie...), secteur public ou parapublic, organismes consulaires, secteur associatif...</p>
+<inter>Sujets variés</inter>
+<p>Assurance, biologie, chimie, environnement, finance, éducation, informatique, médecine, physique, santé publique, sciences sociales, science politique, télécommunications, sport, zoologie... Difficile d'établir une liste exhaustive des secteurs d'activité du statisticien. Les débouchés ne manquent pas. Parmi ceux-ci, la banque et l'assurance sont les plus porteurs, ainsi que les biotechnologies et l'industrie pharmaceutique.</p>
+<p>Dans la fonction publique</p>
+<p>Le secteur public constitue toutefois l'un des principaux débouchés des statisticiens. Le système statistique public français emploie près de 10 000 personnes, dont les deux tiers travaillent à l'Insee (Institut national de la statistique et des études économiques). Chaque ministère dispose d'un service statistique adapté à ses missions.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>1800</sal> à 2800 euros brut par mois.</p>
+<postit>
+<p>Source : SFdS/Onisep 2011.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

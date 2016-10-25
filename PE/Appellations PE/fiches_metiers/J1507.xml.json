@@ -1,0 +1,415 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Infirmier / Infirmi\u00e8re en pu\u00e9riculture",
+            "priorisation": "1",
+            "libelle": "Infirmier / Infirmi\u00e8re en pu\u00e9riculture",
+            "code_ogr": "15548"
+        },
+        {
+            "libelle_court": "Pu\u00e9riculteur / Pu\u00e9ricultrice",
+            "priorisation": "1",
+            "libelle": "Pu\u00e9riculteur / Pu\u00e9ricultrice",
+            "code_ogr": "18238"
+        },
+        {
+            "libelle_court": "Pu\u00e9riculteur(trice) en structure d'accueil petite enfance",
+            "priorisation": "1",
+            "libelle": "Pu\u00e9riculteur / Pu\u00e9ricultrice en structure d'accueil petite enfance",
+            "code_ogr": "18240"
+        },
+        {
+            "libelle_court": "Pu\u00e9riculteur / Pu\u00e9ricultrice responsable de cr\u00e8che",
+            "priorisation": "1",
+            "libelle": "Pu\u00e9riculteur / Pu\u00e9ricultrice responsable de cr\u00e8che",
+            "code_ogr": "18242"
+        },
+        {
+            "libelle_court": "Pu\u00e9riculteur / Pu\u00e9ricultrice responsable de halte garderie",
+            "priorisation": "1",
+            "libelle": "Pu\u00e9riculteur / Pu\u00e9ricultrice responsable de halte garderie",
+            "code_ogr": "18243"
+        },
+        {
+            "libelle_court": "Pu\u00e9riculteur / Pu\u00e9ricultrice responsable de pouponni\u00e8re",
+            "priorisation": "1",
+            "libelle": "Pu\u00e9riculteur / Pu\u00e9ricultrice responsable de pouponni\u00e8re",
+            "code_ogr": "18244"
+        },
+        {
+            "libelle_court": "Pu\u00e9riculteur(trice) responsable struct accueil pte enfance",
+            "priorisation": "1",
+            "libelle": "Pu\u00e9riculteur / Pu\u00e9ricultrice responsable de structure d'accueil petite enfance",
+            "code_ogr": "18245"
+        },
+        {
+            "libelle_court": "Pu\u00e9riculteur(trice) coordinateur(trice) petite enfance",
+            "priorisation": "1",
+            "libelle": "Pu\u00e9riculteur coordinateur / Pu\u00e9ricultrice coordinatrice petite enfance",
+            "code_ogr": "18239"
+        },
+        {
+            "libelle_court": "Pu\u00e9riculteur hospitalier / Pu\u00e9ricultrice hospitali\u00e8re",
+            "priorisation": "1",
+            "libelle": "Pu\u00e9riculteur hospitalier / Pu\u00e9ricultrice hospitali\u00e8re",
+            "code_ogr": "18241"
+        },
+        {
+            "libelle_court": "Pu\u00e9riculteur(trice) responsable adjoint(e) de cr\u00e8che",
+            "priorisation": "1",
+            "libelle": "Pu\u00e9riculteur responsable adjoint de cr\u00e8che / Pu\u00e9ricultrice responsable adjointe de cr\u00e8che",
+            "code_ogr": "38063"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Recueillir les informations sur l'environnement de vie et l'\u00e9tat de sant\u00e9 de l'enfant",
+            "code_ogr": "2967",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Informer l'enfant sur le fonctionnement du service, de la structure ou sur les types de soins r\u00e9alis\u00e9s, la dur\u00e9e d'hospitalisation",
+            "code_ogr": "2214",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller l'\u00e9volution de l'enfant, rep\u00e9rer des modifications de l'\u00e9tat de sant\u00e9 ou des situations \u00e0 risque et informer les parents, l'\u00e9quipe soignante ou les services sociaux",
+            "code_ogr": "3353",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accompagner l'enfant dans la r\u00e9alisation des gestes de la vie quotidienne",
+            "code_ogr": "548",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mettre en place des actions d'\u00e9ducation \u00e0 la sant\u00e9 aupr\u00e8s des parents ou de professionnels de la petite enfance",
+            "code_ogr": "2330",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les documents m\u00e9dico administratifs et \u00e9changer des informations avec diff\u00e9rents interlocuteurs",
+            "code_ogr": "3037",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1405",
+            "libelle_rome_cible": "Conseil en information m\u00e9dicale"
+        },
+        {
+            "code_rome_cible": "J1505",
+            "libelle_rome_cible": "Soins infirmiers sp\u00e9cialis\u00e9s en pr\u00e9vention"
+        },
+        {
+            "code_rome_cible": "J1506",
+            "libelle_rome_cible": "Soins infirmiers g\u00e9n\u00e9ralistes"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec le Dipl\u00f4me d'Etat -DE- de pu\u00e9ricultrice.\nDes vaccinations pr\u00e9vues par le Code de Sant\u00e9 Publique sont exig\u00e9es.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Intervenir dans un service :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chirurgie infantile",
+            "code_ogr": "6767",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Hospitalisation \u00e0 domicile",
+            "code_ogr": "6769",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Maternit\u00e9",
+            "code_ogr": "6771",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "N\u00e9onatalogie",
+            "code_ogr": "6773",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "P\u00e9diatrie",
+            "code_ogr": "6775",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller l'\u00e9tat clinique d'un enfant, r\u00e9aliser les soins infirmiers et actualiser le dossier de soins",
+            "code_ogr": "9927",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Organiser la prise en charge d'un nouveau-n\u00e9 et r\u00e9aliser ou participer \u00e0 la r\u00e9alisation de l'examen de naissance",
+            "code_ogr": "7717",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner les activit\u00e9s des enfants au sein d'une structure d'accueil (cr\u00e8che, halte garderie, ...)",
+            "code_ogr": "4332",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et animer un r\u00e9seau d'assistants maternels (demandes d'agr\u00e9ment, formation, conseils, ...)",
+            "code_ogr": "9692",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9finir et suivre le budget d'une structure",
+            "code_ogr": "3524",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener des actions de formation au sein d'un organisme",
+            "code_ogr": "7395",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'\u00e9tablissements de soins (h\u00f4pital, clinique, ...) ou de structures d'accueil (cr\u00e8che, halte garderie, ...) en contact avec les enfants et les familles.\nElle varie selon la structure (maternit\u00e9, cr\u00e8che, ...), le public (enfants bien portants, malades, handicap\u00e9s, ...) et le type d'intervention (soins infirmiers, pr\u00e9vention, ...).\nElle peut s'exercer en horaires d\u00e9cal\u00e9s, par roulement, les fins de semaine, jours f\u00e9ri\u00e9s, de nuit et \u00eatre soumise \u00e0 des astreintes ou des gardes en milieu hospitalier.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Identification des signes et du degr\u00e9 de la douleur",
+            "code_ogr": "20916",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Centre de Protection Maternelle et Infantile",
+            "code_ogr": "23774",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement m\u00e9dical (h\u00f4pital, clinique, ...)",
+            "code_ogr": "23922",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lactarium",
+            "code_ogr": "23991",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisation humanitaire",
+            "code_ogr": "24014",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Structure d'accueil petite enfance",
+            "code_ogr": "24109",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail de nuit",
+            "code_ogr": "38055",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Psychologie de l'enfant",
+            "code_ogr": "22513",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etapes du d\u00e9veloppement de l'enfant",
+            "code_ogr": "21938",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et d'asepsie",
+            "code_ogr": "22646",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de gestion du stress",
+            "code_ogr": "22924",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaire Hazard Analysis Critical Control Point -HACCP-",
+            "code_ogr": "22650",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de communication",
+            "code_ogr": "22840",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de r\u00e9animation",
+            "code_ogr": "23076",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Circuit des vigilances",
+            "code_ogr": "21711",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de pr\u00e9l\u00e8vement biologique",
+            "code_ogr": "23056",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Protocoles de surveillance du nouveau-n\u00e9",
+            "code_ogr": "22506",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'animation de groupe",
+            "code_ogr": "22770",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestion budg\u00e9taire",
+            "code_ogr": "21994",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nOrganise la prise en charge d'enfants de 0 \u00e0 15 ans selon les imp\u00e9ratifs m\u00e9dicaux (soins infirmiers, ...) ou les orientations de la structure (halte garderie, cr\u00e8che, ...).\nPeut coordonner une \u00e9quipe (auxiliaires de pu\u00e9riculture, aides-soignants, assistants maternels, ...), diriger une structure d'accueil.\n",
+    "intitule": "Soins infirmiers sp\u00e9cialis\u00e9s en pu\u00e9riculture",
+    "code_ogr": "363",
+    "code_rome": "J1507",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "J1502",
+            "libelle_rome_cible": "Coordination de services m\u00e9dicaux ou param\u00e9dicaux"
+        },
+        {
+            "code_rome_cible": "J1503",
+            "libelle_rome_cible": "Soins infirmiers sp\u00e9cialis\u00e9s en anesth\u00e9sie"
+        },
+        {
+            "code_rome_cible": "J1504",
+            "libelle_rome_cible": "Soins infirmiers sp\u00e9cialis\u00e9s en bloc op\u00e9ratoire"
+        },
+        {
+            "code_rome_cible": "K1103",
+            "libelle_rome_cible": "D\u00e9veloppement personnel et bien-\u00eatre de la personne"
+        },
+        {
+            "code_rome_cible": "K1403",
+            "libelle_rome_cible": "Management de structure de sant\u00e9, sociale ou p\u00e9nitentiaire"
+        }
+    ]
+}

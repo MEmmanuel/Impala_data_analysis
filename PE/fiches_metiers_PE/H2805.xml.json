@@ -1,0 +1,721 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Chargeur(se) de four en production/transformation de verre",
+            "priorisation": "1",
+            "libelle": "Chargeur / Chargeuse de four en production/transformation de verre",
+            "code_ogr": "11949"
+        },
+        {
+            "libelle_court": "Conducteur(trice) four en production/transformation de verre",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de four en production/transformation de verre",
+            "code_ogr": "12951"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de ligne en production de verre",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de ligne en production de verre",
+            "code_ogr": "12998"
+        },
+        {
+            "libelle_court": "Conducteur(trice) fondeur(se) en industrie verri\u00e8re",
+            "priorisation": "1",
+            "libelle": "Conducteur-fondeur / Conductrice-fondeuse en industrie verri\u00e8re",
+            "code_ogr": "13297"
+        },
+        {
+            "libelle_court": "Fondeur / Fondeuse en production/transformation de verre",
+            "priorisation": "1",
+            "libelle": "Fondeur / Fondeuse en production/transformation de verre",
+            "code_ogr": "15103"
+        },
+        {
+            "libelle_court": "Fondeur-composeur/Fondeuse-composeuse en industrie verri\u00e8re",
+            "priorisation": "1",
+            "libelle": "Fondeur-composeur / Fondeuse-composeuse en industrie verri\u00e8re",
+            "code_ogr": "15107"
+        },
+        {
+            "libelle_court": "Lanceur / Lanceuse de fabrication en industrie verri\u00e8re",
+            "priorisation": "1",
+            "libelle": "Lanceur / Lanceuse de fabrication en industrie verri\u00e8re",
+            "code_ogr": "16156"
+        },
+        {
+            "libelle_court": "Pilote d'installation de production de mati\u00e8re verri\u00e8re",
+            "priorisation": "1",
+            "libelle": "Pilote d'installation de production de mati\u00e8re verri\u00e8re",
+            "code_ogr": "17768"
+        },
+        {
+            "libelle_court": "Surveillant(e) de four en prod/transformation de verre",
+            "priorisation": "1",
+            "libelle": "Surveillant / Surveillante de four en production/transformation de verre",
+            "code_ogr": "19588"
+        },
+        {
+            "libelle_court": "Technicien(ne) en production/transformation de verre",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en production/transformation de verre",
+            "code_ogr": "20106"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne fusion en industrie verri\u00e8re",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne fusion en industrie verri\u00e8re",
+            "code_ogr": "20152"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "V\u00e9rifier l'\u00e9tat de l'installation de fusion/transformation de mati\u00e8res",
+            "code_ogr": "3481",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9terminer la composition et la quantit\u00e9 de m\u00e9lange de silice, calcin, oxydes de fer, ... n\u00e9cessaire aux approvisionnements et aux changements de gammes",
+            "code_ogr": "1400",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller le d\u00e9roulement des phases de fusion/transformation du verre et contr\u00f4ler la temp\u00e9rature, le d\u00e9bit, ...",
+            "code_ogr": "3322",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier les causes de dysfonctionnement (d\u00e9fauts d'enfournement, de combustion, ...), signaler les anomalies et appliquer les mesures correctives",
+            "code_ogr": "2097",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports de suivi de production et transmettre les informations aux interlocuteurs concern\u00e9s",
+            "code_ogr": "3059",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "H2301",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de production chimique ou pharmaceutique"
+        },
+        {
+            "code_rome_cible": "H2701",
+            "libelle_rome_cible": "Pilotage d'installation \u00e9nerg\u00e9tique et p\u00e9trochimique"
+        },
+        {
+            "code_rome_cible": "H2801",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de transformation du verre"
+        },
+        {
+            "code_rome_cible": "H2804",
+            "libelle_rome_cible": "Pilotage de centrale \u00e0 b\u00e9ton pr\u00eat \u00e0 l'emploi, ciment, enrob\u00e9s et granulats"
+        },
+        {
+            "code_rome_cible": "H2907",
+            "libelle_rome_cible": "Conduite d'installation de production des m\u00e9taux"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau Bac (professionnel, technologique) \u00e0 Bac+2 (BTS/DUT) en \u00e9lectrom\u00e9canique, \u00e9lectrotechnique, automatisme, r\u00e9gulation.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle en production industrielle (verre, sid\u00e9rurgie, m\u00e9tallurgie, m\u00e9canique, ...) sans dipl\u00f4me particulier.\nUn ou plusieurs Certificat(s) d'Aptitude \u00e0 la Conduite En S\u00e9curit\u00e9 -CACES- conditionn\u00e9(s) par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement peu(ven)t \u00eatre requis.\nUne habilitation \u00e9lectrique peut \u00eatre demand\u00e9e.\n",
+    "activite_specifique": [
+        {
+            "libelle": "D\u00e9finir les donn\u00e9es de programmation ou intervenir sur un processus sp\u00e9cifique :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Affinage",
+            "code_ogr": "4536",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Argenture",
+            "code_ogr": "4537",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Assemblage de feuilles de verre (vitrages isolants, feuillet\u00e9s, ...)",
+            "code_ogr": "4538",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coupe",
+            "code_ogr": "4539",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etirage",
+            "code_ogr": "4540",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Formage par flottage (float)",
+            "code_ogr": "4541",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Fusion",
+            "code_ogr": "4542",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "7",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Laminage (verre arm\u00e9, imprim\u00e9, ...)",
+            "code_ogr": "4543",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Palettisation/emballage",
+            "code_ogr": "4544",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Recuisson/refroidissement",
+            "code_ogr": "4545",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "10",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Teinture dans la masse",
+            "code_ogr": "4546",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "11",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Traitement de surface",
+            "code_ogr": "4547",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "12",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Trempe (verre tremp\u00e9, ...)",
+            "code_ogr": "4548",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "13",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des op\u00e9rations de :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coul\u00e9e des fours",
+            "code_ogr": "4914",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Attrempage/d\u00e9trempage des fours",
+            "code_ogr": "4913",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Rin\u00e7age de fours (d\u00e9pose d'embouts, ...)",
+            "code_ogr": "4919",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyage de br\u00fbleur",
+            "code_ogr": "4916",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyage d'autres \u00e9quipements (chemin\u00e9e, hotte, tube d'\u00e9vent, ...)",
+            "code_ogr": "4915",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Red\u00e9marrage de four (br\u00fbleur, ...) et de d\u00e9pollueurs",
+            "code_ogr": "4918",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-1 (Transpalettes \u00e0 conducteur port\u00e9 et pr\u00e9parateurs de commandes au sol)",
+            "code_ogr": "10122",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-3 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 inf\u00e9rieure ou \u00e9gale \u00e0 6000 kg)",
+            "code_ogr": "10124",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-4 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 sup\u00e9rieure \u00e0 6000 kg)",
+            "code_ogr": "10125",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 318 (ponts roulants)",
+            "code_ogr": "10100",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des interventions n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation \u00e9lectrique, travaux hors tension (B0, B0V, B1 B1V, H0, ...)",
+            "code_ogr": "8481",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation \u00e9lectrique, travaux sous tension (B1T, BN, BR, H1T, ...)",
+            "code_ogr": "8482",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des pr\u00e9l\u00e8vements et contr\u00f4ler la conformit\u00e9 de mati\u00e8res, produits ou rejets gazeux",
+            "code_ogr": "5036",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Installer, monter et r\u00e9gler des moules et autres outillages (noyaux, cercles, ciseaux, goulottes, rouleaux de lamineuse, ...) et ajuster selon n\u00e9cessit\u00e9",
+            "code_ogr": "6220",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et analyser les donn\u00e9es de production d'une installation et d\u00e9terminer les actions correctives",
+            "code_ogr": "3609",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Apporter un appui technique aux services production, qualit\u00e9, maintenance, ...",
+            "code_ogr": "3503",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises industrielles de production de verre, en relation avec diff\u00e9rents services (composition, formage, maintenance, qualit\u00e9, ...). Elle peut impliquer des d\u00e9placements sur site (surveillance des installations, ...).\nElle peut s'exercer par roulement, les fins de semaine, jours f\u00e9ri\u00e9s ou de nuit.\nL'activit\u00e9 s'effectue en salle de pilotage, parfois en zone \u00e0 temp\u00e9rature \u00e9lev\u00e9e ou \u00e0 risques (explosivit\u00e9, toxicit\u00e9, ...).\nLe port d'Equipements de Protection Individuelle -EPI- (chaussures, lunettes, casque, gants, combinaison ignifug\u00e9e, ...) est exig\u00e9.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Pilotage en salle de commande",
+            "code_ogr": "21024",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciel de supervision",
+            "code_ogr": "21235",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pr\u00e9l\u00e8vement \u00e0 chaud",
+            "code_ogr": "21053",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils de contr\u00f4le et de mesure (microm\u00e8tre, analyseur de gaz, pyrom\u00e8tre ...)",
+            "code_ogr": "21137",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Interpr\u00e9tation de r\u00e9sultat d'analyse",
+            "code_ogr": "20921",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Gestion de Production Assist\u00e9e Par Ordinateur -GPAO-",
+            "code_ogr": "21258",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils de Gestion de Moyens de Production -GMP-",
+            "code_ogr": "21469",
+            "position_item": "2",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Verre",
+            "code_ogr": "23668",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Verre creux (emballage, bouteilles, ...)",
+            "code_ogr": "23669",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Verre de silice (verre de manipulation pour laboratoire, ...)",
+            "code_ogr": "23670",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Verre, mat\u00e9riaux de construction",
+            "code_ogr": "23673",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Verre plat (vitrage, b\u00e2timent, automobile, ...)",
+            "code_ogr": "23671",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Verre technique (optique, \u00e9crans de t\u00e9l\u00e9vision, ampoules, vitroc\u00e9ramique, ...)",
+            "code_ogr": "23672",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "En salle de pilotage, cabine de commande",
+            "code_ogr": "23381",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Fonctionnement des installations (r\u00e9fractaires, bouillonneurs, ventilateurs, br\u00fbleurs, ...)",
+            "code_ogr": "21958",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes qualit\u00e9",
+            "code_ogr": "22233",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9",
+            "code_ogr": "22621",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de propret\u00e9",
+            "code_ogr": "22647",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes environnementales",
+            "code_ogr": "22230",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des mati\u00e8res (sable, calcin, ...)",
+            "code_ogr": "21614",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Propri\u00e9t\u00e9s des combustibles (fuel, gaz, ...)",
+            "code_ogr": "22490",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Technologie verri\u00e8re, process de fusion",
+            "code_ogr": "23265",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electricit\u00e9",
+            "code_ogr": "21825",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Automatisme",
+            "code_ogr": "21522",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Thermique",
+            "code_ogr": "23282",
+            "position_item": "11",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9gulation et instrumentation",
+            "code_ogr": "22661",
+            "position_item": "12",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Colorim\u00e9trie",
+            "code_ogr": "21734",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chimie",
+            "code_ogr": "21706",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modalit\u00e9s de tests physico-chimiques",
+            "code_ogr": "22177",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9canique",
+            "code_ogr": "22098",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pneumatique",
+            "code_ogr": "22304",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9thodes de r\u00e9solution de probl\u00e8mes",
+            "code_ogr": "22138",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes de fusion des m\u00e9taux",
+            "code_ogr": "22321",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Analyse statistique",
+            "code_ogr": "22721",
+            "position_item": "3",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nSurveille et r\u00e9gule \u00e0 distance (salle de contr\u00f4le, ...) une installation automatis\u00e9e de fusion ou de transformation en continu de mati\u00e8re verri\u00e8re selon les r\u00e8gles de s\u00e9curit\u00e9, les normes environnementales et les imp\u00e9ratifs de production (qualit\u00e9, co\u00fbts, d\u00e9lais, ...). Contr\u00f4le l'\u00e9tat des \u00e9quipements de production et de r\u00e9gulation.\nPeut effectuer des op\u00e9rations d'entretien ou de r\u00e9paration sur les installations, installer et r\u00e9gler des moules et des outillages.\nPeut analyser les r\u00e9sultats de production et d\u00e9terminer des mesures correctives.\nPeut apporter un appui technique \u00e0 diff\u00e9rents services (production, qualit\u00e9, maintenance, ...) et coordonner une \u00e9quipe.\n",
+    "intitule": "Pilotage d'installation de production verri\u00e8re",
+    "code_ogr": "277",
+    "code_rome": "H2805",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "H1403",
+            "libelle_rome_cible": "Intervention technique en gestion industrielle et logistique"
+        },
+        {
+            "code_rome_cible": "H1404",
+            "libelle_rome_cible": "Intervention technique en m\u00e9thodes et industrialisation"
+        },
+        {
+            "code_rome_cible": "H1503",
+            "libelle_rome_cible": "Intervention technique en laboratoire d'analyse industrielle"
+        },
+        {
+            "code_rome_cible": "H2504",
+            "libelle_rome_cible": "Encadrement d'\u00e9quipe en industrie de transformation"
+        },
+        {
+            "code_rome_cible": "I1304",
+            "libelle_rome_cible": "Installation et maintenance d'\u00e9quipements industriels et d'exploitation"
+        }
+    ]
+}

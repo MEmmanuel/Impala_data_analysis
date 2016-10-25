@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">architecte réseau</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe/programmer, créer du contenu numérique</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction études développement informatique</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur sociétés de service et de conseil en informatique/secteur des télécommunications</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">réseau de télécommunication/ingénierie de réseau de télécommunication/réseau informatique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé/architecte réseaux</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10381</lien_onisep>
+<ROME Level="1B" csRelFld="10381">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="602" csRelFld="602">
+<CSLABELFLD label="">M1804</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Systèmes d'information et de télécommunication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1804</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Études et développement de réseaux de télécoms</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="600" csRelFld="600">
+<CSLABELFLD label="">M1802</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Systèmes d'information et de télécommunication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1802</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Expertise et support en systèmes d'information</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10381">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1555" csRelFld="1555">
+<CSLABELFLD label="">concepteur / conceptrice de circuits intégrés (architecture)</CSLABELFLD>
+<MET_ID label="Identifiant">10381</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/02/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1555</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">concepteur/trice de circuits intégrés (architecture)</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1555">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1554" csRelFld="1554">
+<CSLABELFLD label="">urbaniste réseaux et télécoms</CSLABELFLD>
+<MET_ID label="Identifiant">10381</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/02/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1554</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">urbaniste réseaux et télécoms</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1554">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18545" csRelFld="18545">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18545</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10381</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Analyser le réseau existant</inter>
+<p>À quoi va servir le réseau ? Quels en seront les utilisateurs ? À partir de l'analyse des réseaux en place et de la circulation de l'information dans l'entreprise, l'architecte réseaux fait le bilan des besoins techniques en communication : interconnexion des micro-ordinateurs, création et installation d'une messagerie électronique, d'un réseau intranet, intégration des lignes téléphoniques...</p>
+<inter>Élaborer et exécuter</inter>
+<p>Partant des attentes de l'entreprise, il sélectionne et teste des architectures, cherche et préconise des solutions. Puis il définit la configuration du réseau (en boucle, en étoile) et ses fonctionnalités d'ensemble selon les contraintes de débit. Son but : faire communiquer les machines d'origine avec de nouveaux matériels, plus sophistiqués.</p>
+<inter>Superviser et gérer</inter>
+<p>C'est lui qui assiste et conseille les techniciens dans leur travail, voire qui les dirige. Gestionnaire averti, il établit les plannings et les budgets, en fonction des contraintes économiques, réglementaires, techniques et des délais demandés. Enfin, il supervise les relations avec les fournisseurs et négocie les contrats au meilleur coût. Parfois, il rédige des appels d'offres et en assure le suivi.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18541" csRelFld="18541">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18541</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10381</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Pour devenir architecte réseaux, il faut posséder un diplôme de niveau bac + 5 (diplôme d'ingénieur ou master) au minimum.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur</itsimp>
+<itsimp>Master mention réseaux et télécommunications, mention informatique</itsimp>
+</liste>
+<liste>
+<tete>
+<accr_p>Niveau bac + 6</accr_p>
+</tete>
+<itsimp>Mastère spécialisé en systèmes de communication et réseaux, réseaux et systèmes d'information pour les entreprises...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18537" csRelFld="18537">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18537</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10381</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Une alternative aux ESN et aux télécoms</inter>
+<p>Ce ne sont plus seulement les grands opérateurs de télécommunications et les ESN (entreprises de services du numérique) qui recrutent des architectes réseaux. Les grandes entreprises (industrielles ou de services) et les administrations offrent maintenant elles aussi des opportunités d'emploi.</p>
+<inter>Priorité aux spécialistes</inter>
+<p>Dans le secteur des télécoms, 7 % seulement des jeunes diplômés se dirigent vers des fonctions liées à l'architecture réseaux. En effet, les recruteurs préfèrent généralement embaucher à ces postes des candidats expérimentés.</p>
+<inter>Évolution à la clé</inter>
+<p>Filière d'expertise et de conseil, l'architecture réseaux comporte de belles perspectives d'évolution. Un professionnel peut prendre en charge des projets de plus en plus complexes, avant d'atteindre un haut niveau de responsabilité, comme un poste de management d'équipes réseaux et télécoms ou de directeur technique chez un fabricant. Un architecte peut aussi se tourner vers la fonction commerciale (ingénieur d'affaires ou ingénieur commercial).</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2900</sal> à 4500 euros brut par mois.</p>
+<postit>
+<p>Source : Apec (Association pour l'emploi des cadres), 2015.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

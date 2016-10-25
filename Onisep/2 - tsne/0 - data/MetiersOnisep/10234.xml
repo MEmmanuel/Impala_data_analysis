@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">manipulateur/trice en électroradiologie médicale</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">soigner</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction diagnostic, prescription, intervention</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur santé/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">manipulation en électroradiologie médicale</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE médical paramédical travail social soins personnels/manipulateur d'électroradiologie médicale</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10234</lien_onisep>
+<ROME Level="1B" csRelFld="10234">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="419" csRelFld="419">
+<CSLABELFLD label="">J1306</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Professionnels médico-techniques</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">J1306</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Imagerie médicale</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10234">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16607" csRelFld="16607">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16607</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10234</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Une procédure bien définie</inter>
+<p>Le manipulateur en électroradiologie utilise, sous la responsabilité du médecin, différents types de matériels de radiologie médicale pour aider à poser un diagnostic ou pour traiter par radiothérapie (rayons X). Il prépare le matériel en vue des séances inscrites sur son emploi du temps et des examens prévus : radiographies, scanners, IRM (imageries par résonance magnétique), radiothérapie. Il vérifie qu'il a bien tous les produits et matériels annexes et contrôle le bon fonctionnement des appareils.</p>
+<inter>Images et traitement curatif</inter>
+<p>La procédure et le déroulement d'un examen radiologique doivent être respectés scrupuleusement. Ne plus bouger, ne plus respirer, respirer... Le manipulateur donne ces indications plusieurs fois par jour. Il met le patient dans la position requise en faisant en sorte de ne pas accentuer la douleur. Il veille à ce que celui-ci demeure immobile pendant le réglage des instruments.</p>
+<inter>Injections et radiographie</inter>
+<p>Quand l'endroit concerné est ciblé, il déclenche les appareils de radiologie. Pour réaliser certains actes, le manipulateur-radio effectue des injections ou passe une lotion sur les zônes concernées. En traitement radiothérapique, il se montre très attentif à son patient et aux réglage des appareils. Si une radiographie n'est pas satisfaisante à la lecture, le cliché est refait.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16609" csRelFld="16609">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16609</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10234</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<em>Pour exercer le métier de manipulateur en électroradiologie médicale,</em> il faut être titulaire du diplôme d'État de manipulateur d'électroradiologie médicale ou du diplôme de technicien supérieur en imagerie médicale et radiologie thérapeutique. Ces diplômes se préparent en 3 ans après le bac. Ils s'obtiennent par la validation de 180 crédits européens et confèrent le grade de licence.</p>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>DE manipulateur d'électroradiologie médicale </itsimp>
+<itsimp>DTS imagerie médicale et radiologie thérapeutique</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16910" csRelFld="16910">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16910</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10234</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Activité salariée</inter>
+<p>On dénombre actuellement environ 25 000 manipulateurs en électroradiologie médicale. 85 % d'entre eux travaillent dans les services d'imagerie médicale, en hôpitaux ou en cabinets privés. 15 % sont en services de cancérologie, soins par radiothérapie, médecine nucléaire. Les emplois se situent dans les hôpitaux, les centres anti-cancéreux, les départements d'imagerie médicale (radiologie conventionnelle et numérisée, scannographie, imagerie par résonance magnétique nucléaire, échographie, médecine nucléaire).</p>
+<inter>Faible taux de chômage</inter>
+<p>À côté des services de radiothérapie des établissements publics et privés, les manipulateurs-radio travaillent également en dispensaires, centres de dépistage et de médecine préventive. La profession connaît un faible taux de chômage. La demande en examens médicaux et l'augmentation des cabinets privés offrent de bonnes perspectives d'emploi pour les jeunes diplômés.</p>
+<inter>Évolutions possibles</inter>
+<p>Après quelques années de pratique à l'hôpital, le manipulateur-radio peut encadrer un service ou enseigner dans une école paramédicale. Le secteur industriel spécialisé dans le domaine de la radiologie lui offre aussi des débouchés. Ses compétences trouvent place dans les services techniques ou commerciaux de ces industries.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>Smic</sal> (en début de carrière hospitalière).</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

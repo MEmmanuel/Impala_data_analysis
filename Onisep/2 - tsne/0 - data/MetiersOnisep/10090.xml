@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">gérant/e de portefeuille</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">manier les chiffres/faire du commerce</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction vente/fonction achats approvisionnement</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur banque/secteur assurances</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">gestion de portefeuille</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé/gestionnaire de portefeuilles</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10090</lien_onisep>
+<ROME Level="1B" csRelFld="10090">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10090">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17456" csRelFld="17456">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17456</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10090</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Optimiser les placements</inter>
+<p>Le gérant de portefeuille fait fructifier des portefeuilles composés de différents produits financiers tels que des actions ou des obligations. Il peut le faire pour un client ou encore pour l'entreprise, la banque ou la compagnie d'assurances dans laquelle il travaille. Avant d'acheter ou de vendre, il s'informe sur la vie des sociétés et l'évolution de la Bourse. Ses sources ? Ses discussions avec les analystes financiers, les banques de données, la presse spécialisée et les publications des entreprises.</p>
+<inter>S'appuyer sur des analyses</inter>
+<p>Vendre ? Acheter ? À quel taux ? Le gérant participe à la discussion des orientations à prendre en tenant compte des finalités des portefeuilles. Il les choisit aussi en fonction des contraintes réglementaires et des meilleures opportunités d'investissement, mises en évidence par l'analyse financière.</p>
+<inter>Acheter ou vendre</inter>
+<p>Décideur, le gérant de portefeuille agit directement. Il choisit les valeurs et les quotités (parts) à acheter ou à vendre, passe des ordres d'achat ou de vente. Il est également chargé d'en suivre l'exécution.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16587" csRelFld="16587">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16587</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10090</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Le métier s'adresse à des spécialistes de la finance, titulaires d'un diplôme de niveau bac + 5 au moins (diplôme d'école de commerce et de gestion, diplôme d'ingénieur, master pro, mastère spécialisé...).</accr_p>
+</p>
+<inter>Niveau bac + 5 et plus</inter>
+<liste>
+<itsimp>
+<em>Diplôme</em>
+<em> d'école supérieure de commerce et de gestion</em> spécialisé en finance de marché...</itsimp>
+<itsimp>
+<em>Diplôme d'ingénieur </em>spécialisé en finance de marché...</itsimp>
+<itsimp>
+<em>Diplôme </em>de statisticien économiste de l'École nationale de la statistique et de l'administration économique (ENSAE) ;</itsimp>
+<itsimp>
+<em>Diplôme</em> d'institut d'études politiques, spécialisé en finance ;</itsimp>
+<itsimp>
+<em>Masters pro</em> sciences économiques, mention monnaie, banque, marchés financiers, spécialité métiers bancaires et gestion de portefeuille ; gestion, mention finance, spécialité gestion d'actifs ; droit, économie, gestion, mention banque, finance assurance, spécialité ingénierie financière et des marchés ; droit, économie, gestion, mention finance, spécialité management des opérations de marchés...</itsimp>
+<itsimp>
+<em>Masters recherche </em>droit, économie, gestion, mention finance, spécialité finance de marché ; mention économie et finance, spécialité banques : risques et marchés...</itsimp>
+<itsimp>
+<em>Mastères spécialisés</em> analyse financière internationale ; banque et ingénierie financière ; finance de marché et gestion de patrimoine ; ingénierie financière...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16584" csRelFld="16584">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16584</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10090</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des postes à pourvoir</inter>
+<p>Avec plus de 370 000 personnes tous métiers confondus, le secteur bancaire est l'un des premiers employeurs privés en France. Et son dynamisme n'est pas près de retomber. Pour remplacer les très nombreux départs à la retraite, des recrutements massifs sont prévus dans les années à venir.</p>
+<inter>Évoluer vers une autre fonction financière</inter>
+<p>Une expérience de quelques années, notamment en analyse financière, est recommandée pour occuper un poste de gérant de portefeuille. La gestion de portefeuille est une fonction exercée dans le secteur de la banque et de la finance. Le gérant peut s'orienter ensuite vers une autre fonction financière.</p>
+<inter>Devenir manager</inter>
+<p>Le gérant peut aussi devenir manager. Il encadre alors une équipe, organise et répartit les rôles de chacun. C'est également lui qui procède aux recrutements et qui choisit les formations nécessaires. Il anime les réunions et élabore les stratégies globales.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2900</sal> à 5000 euros brut par mois avec 5 à 7 ans d'expérience, auxquels s'ajoutent des bonus qui peuvent égaler, voire dépasser le salaire fixe.</p>
+<postit>
+<p>Source : Apec (Agence pour l'emploi des cadres), 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

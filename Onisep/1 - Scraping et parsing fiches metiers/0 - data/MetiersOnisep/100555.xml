@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">consultant/e green IT</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller/préserver l'environnement/convaincre, négocier</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/indépendant</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur sociétés d'ingénierie et d'études techniques</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">conseil en informatique/environnement/développement durable</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100555</lien_onisep>
+<ROME Level="1B" csRelFld="100555">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="573" csRelFld="573">
+<CSLABELFLD label="">M1402</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Organisation et études</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1402</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Conseil en organisation et management d'entreprise</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100555">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="53498" csRelFld="53498">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53498</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100555</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Audit et évaluation</inter>
+<p>Le consultant green IT peut être chargé de revoir l'ensemble de la consommation d'énergie d'une entreprise, d'acheter de l'informatique " responsable " ou de rationaliser l'usage des photocopieuses d'un service, par exemple. Sachant que la production mondiale de papier à imprimer a augmenté de 25% entre 1990 et 2010, cela lui laisse une belle marge de manoeuvre ! Il procède d'abord à un audit pour évaluer et quantifier, avant de pouvoir donner des pistes d'amélioration.</p>
+<inter>Prescription et développement</inter>
+<p>Son action peut s'arrêter à ce rôle de conseil ou aller jusqu'à la prescription et la mise en place (voire la conception) de nouveaux outils ou matériels. Il sera souvent chargé de faire passer ses solutions auprès du personnel ou de mettre l'entreprise en conformité avec la législation en matière de développement durable, de sélectionner des fournisseurs ou encore d'établir le bilan carbone d'un service.</p>
+<inter>Information et formation</inter>
+<p>En termes de développement durable, beaucoup de fausses idées circulent. Par exemple, saviez-vous que, si une page prend plus de 4 minutes à être lue à l'écran, il vaut mieux l'imprimer ? Le consultant green IT a un rôle important d'information et parfois de formation auprès de ses clients et des utilisateurs pour que son travail soit efficace.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="53502" csRelFld="53502">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53502</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100555</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Il n'existe pas de cursus en tant que tel, mais un diplôme de niveau bac + 5 au moins en informatique avec des compétences en développement durable est apprécié des employeurs.</p>
+<liste>
+<tete>Niveau bac + 5 </tete>
+<itsimp>Diplôme d'ingénieur généraliste ou spécialisé en informatique (avec spécialité green IT ) ; développement durable...</itsimp>
+<itsimp>Master mention énergétique, thermique ; mention informatique avec une spécialisation en développement durable...</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 6</tete>
+<itsimp>Mastère spécialisé en sciences ou en développement durable option green IT</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="53500" csRelFld="53500">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53500</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100555</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Évoluer en interne</inter>
+<p>Le consultant green IT est un métier émergent, aux contours encore flous. En entreprise, le poste est souvent proposé en interne, généralement aux informaticiens sensibilisés au développement durable. En entreprise, si la fonction est encore beaucoup exercée en plus du métier d'origine, elle tend à évoluer vers un poste à part entière et plus de spécialisation.</p>
+<inter>Diriger un service</inter>
+<p>Après quelques années d'expérience, le consultant green IT peut passer à la direction d'un service. Il peut, par exemple, devenir directeur de la stratégie et du développement durable d'une entreprise ou d'une collectivité, ou encore directeur de la communication et du développement durable.</p>
+<inter>Créer son entreprise</inter>
+<p>Le consultant green IT peut aussi se spécialiser dans un domaine ou un secteur d'activité et devenir un expert en gestion des déchets, bilan carbone, économies d'énergie, écoconception, etc., puis, après avoir engrangé de l'expérience, créer sa propre entreprise.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Entre <sal>2600</sal> et 3500 brut par mois. </p>
+<postit>
+<p>Source : Cadremploi, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

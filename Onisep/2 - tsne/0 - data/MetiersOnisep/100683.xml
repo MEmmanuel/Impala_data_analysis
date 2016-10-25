@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">responsable de fabrication en chimie</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie chimique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">chimie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE matériaux laboratoire organisation industrielle</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100683</lien_onisep>
+<ROME Level="1B" csRelFld="100683">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="265" csRelFld="265">
+<CSLABELFLD label="">H1206</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception, recherche, études et développement</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H1206</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie études, recherche et développement industriel</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100683">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56838" csRelFld="56838">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56838</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100683</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Gérer et coordonner</inter>
+<p>Le responsable de fabrication en chimie organise les activités de fabrication des produits (solvants, produits phytosanitaires, cosmétiques, médicaments...) en respectant un cahier des charges (quantité, délais...). Il établit le planning de ses équipes, lance la production puis en suit toutes les étapes, depuis la préparation jusqu'au produit final.</p>
+<inter>Développer la production</inter>
+<p>Véritable pilote de l'unité de production, il définit l'évolution des moyens technologiques en lien avec la fabrication (automatisation, informatisation...) et assure la liaison avec les autres services : approvisionnement, maintenance, logistique, contrôle, développement, sécurité, qualité. Il est aussi amené à gérer les problèmes techniques (appareils en panne...). </p>
+<inter>Faire respecter les réglementations</inter>
+<p>Il veille au respect des procédés de fabrication et consulte les indicateurs de performance. Il prend éventuellement les mesures nécessaires afin d'améliorer la production. Le responsable de fabrication en chimie a également un rôle d'écoute auprès des opérateurs, techniciens ou ingénieurs. Règles de sécurité du personnel, respect de l'environnement font également partie de ses attributions. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56842" csRelFld="56842">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56842</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100683</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le métier de responsable de fabrication en chimie s'adresse aux titulaires d'un bac + 5 (diplôme d'ingénieur spécialisé dans les procédés, par exemple) qui maîtrisent les aspects techniques du métier, avant de pouvoir manager une équipe d'opérateurs ou de contremaîtres en production.</p>
+<liste>
+<tete>Bac + 5</tete>
+<itsimp>Diplôme d'ingénieur en génie des procédés, génie chimique...</itsimp>
+<itsimp>Master en génie des procédés ; conception, formulation production de produits alimentaires innovants ; contrôle de l'environnement industriel ; procédés de production, qualité, et contrôle des produits de santé ; ingénierie chimique...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56840" csRelFld="56840">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56840</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100683</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Dans l'industrie chimique</inter>
+<p>Le responsable de fabrication exerce principalement dans l'industrie chimique qui regroupe des domaines d'activité très variés : chimie minérale (gaz industriels, colorants, produits azotés et fertilisants...), chimie organique (plastiques, caoutchouc...), les savons, parfums et produits d'entretien, les produits pharmaceutiques de base, les spécialités chimiques (produits phytosanitaires, peintures, vernbis, encres, explosifs, colles...). Il s'agit en très grande majorité de PME (petites et moyennes entreprises) et de quelques grands groupes (Bayer, BASF, Arkema, L'Oréal...). </p>
+<inter>Expérience souhaitée</inter>
+<p>Étant donné la diversité des entreprises, elles recrutent des responsables de fabrication ayant une expérience dans un domaine de production donné (en biotechnologies, dans les produits pharmaceutiques, les plastiques...).</p>
+<inter>Évolutions possibles</inter>
+<p>Le responsable de fabrication en chimie peut évoluer et devenir directeur d'usine, ou se spécialiser pour devenir responsable procédés ou responsable HSE (hygiène, sécurité, environnement).</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2500</sal> euros brut par mois. </p>
+<postit>
+<p>Apec. Date non communiquée.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

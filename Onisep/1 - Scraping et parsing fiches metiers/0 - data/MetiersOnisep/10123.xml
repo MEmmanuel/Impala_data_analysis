@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">technicien/ne forestier/ère</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">travailler en contact avec la nature/préserver l'environnement/travailler dehors/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction exploitation agricole</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur sylviculture et exploitation forestière/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">sylviculture/gestion forestière/travaux forestiers</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE agriculture/technicien forestier</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10123</lien_onisep>
+<ROME Level="1B" csRelFld="10123">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="11" csRelFld="11">
+<CSLABELFLD label="">A1301</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Etudes et assistance technique</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">A1301</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Conseil et assistance technique en agriculture</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10123">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16300" csRelFld="16300">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16300</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10123</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Surveiller et gérer la forêt </inter>
+<p>Le technicien surveille et gère la forêt, en accord avec les ingénieurs forestiers : il décide quels arbres doivent être abattus, quelles parcelles sont à replanter, avec quelles essences, quand et comment défricher les sous-bois... Il encadre sur le terrain une petite équipe lors des opérations d'élagage, d'abattage ou de reboisement. À l'ONF (Office national des forêts), il gère la forêt publique, dresse des bilans, réalise des enquêtes et des études, effectue un contrôle économique et technique. Il propose aussi des solutions : par exemple, pour aménager des sentiers dans des sites détériorés.</p>
+<p>Au ministère de l'Agriculture, il met en place la politique forestière : protection des forêts, reboisement, amélioration des essences...</p>
+<inter>Sensibiliser la population </inter>
+<p>Au technicien forestier de sensibiliser le public, en particulier les enfants, à la protection de la nature, grâce à la création de sentiers de découverte ou de parcours santé, par exemple. Portant uniforme et arme, il peut verbaliser les contrevenants au code forestier.</p>
+<inter>Exploiter la forêt</inter>
+<p>En domaine privé, le technicien forestier est chargé de développer et d'exploiter la forêt dans un but de rentabilité : coupes de bois et vente à des scieries, plantation, surveillance de la pousse. Il conseille aussi les propriétaires pour les aider à mettre leur domaine en valeur.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16303" csRelFld="16303">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16303</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10123</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Dans le secteur privé, le technicien forestier est titulaire du BTSA gestion forestière. Dans la fonction publique, il faut au minimum un bac (professionnel le plus souvent) pour se présenter aux concours, de l'ONF (Office national des forêts). Le BTSA est recommandé.</p>
+<p>Niveau bac</p>
+<liste>
+<itsimp>Bac pro forêt</itsimp>
+<itsimp>Bac pro gestion des milieux naturels et de la faune</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTSA gestion forestière</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16293" csRelFld="16293">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16293</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10123</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des postes au compte-gouttes</inter>
+<p>Administrations ou entreprises privées : les recrutements sont peu nombreux. Dans la fonction publique, entre l'ONF (Office national des forêts) et le ministère de l'Agriculture, seuls quelques postes de techniciens sont ouverts chaque année. En 2011, au concours externe, l'ONF a recruté 20 techniciens supérieurs forestiers (et 36 techniciens opérationnels forestiers) et le ministère a proposé 5 places. Dans la forêt privée et les entreprises de production de bois, les recrutements sont assez limités.</p>
+<inter>Évolution de carrière</inter>
+<p>Après 5 ans d'expérience, un technicien forestier de l'ONF ou du ministère de l'Agriculture peut accéder au grade de technicien principal. Puis, au bout de 8 ans, passer chef technicien. Autre évolution de carrière possible pour les fonctionnaires : intégrer le corps des ingénieurs des travaux des eaux et forêts, par concours interne. Là encore, le nombre de postes offerts est extrêmement restreint.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2035</sal> euros brut par mois à l'ONF.</p>
+<postit>
+<p>Source : ONF, chargée de mission « métiers » à la DRH - juin 2011</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">chef/fe de station de traitement des eaux</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe/préserver l'environnement</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction encadrement - coordination</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique/secteur environnement</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">traitement de l'eau/épuration des eaux usées</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE nettoyage assainissement environnement sécurité</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100586</lien_onisep>
+<ROME Level="1B" csRelFld="100586">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100586">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="55507" csRelFld="55507">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55507</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100586</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Coordonner les équipes</inter>
+<p>Le chef de station de traitement des eaux organise et assure le bon fonctionnement de son site d'épuration. Une usine d'épuration collecte en moyenne plus de 3 millions de m<exp>3</exp> d'eaux usées par an. Un énorme débit qu'il faut gérer, depuis l'arrivée des eaux jusqu'à leur rejet. Pour cela, le chef de station s'appuie sur ses équipes de techniciens. Aux uns, il fait effectuer les prélèvements d'eau et de boue qui sont analysés au laboratoire. Aux autres, il délègue la maintenance des équipements. </p>
+<inter>Contrôler les prélèvements</inter>
+<p>Tous les matins, le chef de station contrôle les analyses des prélèvements d'eau en étudiant les courbes éditées sur les dernières 24 heures. En fonction de ses observations, il donne ses instructions (modification des réglages, par exemple). Il observe tous les incidents qui ont eu lieu et désigne les personnes chargées de résoudre les problèmes de pollution éventuels.</p>
+<inter>Assurer le suivi commercial</inter>
+<p>Il contacte les fournisseurs pour obtenir des informations sur leur matériel. Il négocie les prix et achète les produits nécessaires à l'exploitation de la station (consommables, fournitures pour les réparations). Il tient un registre, qui indique la nature et la date des traitements mis en oeuvre, les éventuels incidents, les pannes, etc. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55511" csRelFld="55511">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55511</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100586</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Lorsqu'il est responsable d'une grosse unité, le chef de station de traitement des eaux a souvent suivi une formation à bac + 5 : master ou diplôme d'ingénieur (Engees, Engref...). Mais le métier est aussi accessible aux techniciens, titulaires d'un bac + 2/3, avec une certaine expérience professionnelle.</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS métiers de l'eau ; métiers des services à l'environnement ; bioanalyses et contrôles</itsimp>
+<itsimp>BTSA gestion et maîtrise de l'eau</itsimp>
+<itsimp>DUT génie électrique et informatique industrielle ; hygiène, sécurité, environnement</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence pro en protection de l'environnement, spécialité traitement des eaux </itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master en hydraulique ; biologie ; chimie</itsimp>
+<itsimp>Diplôme d'ingénieur</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55509" csRelFld="55509">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55509</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100586</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>En collectivité locale</inter>
+<p>Les emplois se trouvent dans les collectivités locales (communes, communautés de communes). Dans la fonction publique territoriale, le recrutement s'effectue sur concours. L'évolution de carrière dépend de la réussite à des concours internes. Un responsable de station peut décider d'exercer en agence régionale pour l'environnement et conseiller plusieurs exploitants de stations d'épuration. </p>
+<inter>Au sein d'un grand groupe de l'eau</inter>
+<p>Dans le privé, le chef de station de traitement de l'eau exerce pour le compte de grandes entreprises de la distribution de l'eau (Lyonnaise des eaux-Suez, Veolia, SAUR...). Il peut faire évoluer sa carrière vers d'autres responsabilités au sein du groupe, diriger des équipes plus importantes ou bouger géographiquement.</p>
+<inter>Des perspectives dans l'industrie</inter>
+<p>Malgré les progrès de l'automatisation et de la gestion à distance qui limitent les recrutements, de nouveaux emplois devraient apparaître dans l'industrie. En effet, certaines entreprises industrielles ayant des besoins en eau très importants ou ayant des pratiques polluantes mettent déjà en place leurs propres stations pour traiter l'eau qu'elles utilisent.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1830</sal> euros brut par mois pour un ingénieur de la fonction publique territoriale. 2500 euros brut par mois pour un ingénieur du secteur privé.</p>
+<postit>
+<p>Source : grille indiciaire territoriale 2014 et Apec (Association pour l'emploi des cadres), 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

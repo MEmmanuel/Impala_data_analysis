@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">charcutier/ère-traiteur/euse</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire du commerce/exercer un travail manuel</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">artisan/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction fabrication artisanale/fonction fabrication industrielle/fonction vente/fonction gestion financière et comptable</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie agroalimentaire/secteur commerce</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">commerce alimentaire/commerce distribution/charcuterie/viande/génie alimentaire/cuisine</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE production alimentaire /charcutier traiteur</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10077</lien_onisep>
+<ROME Level="1B" csRelFld="10077">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="100" csRelFld="100">
+<CSLABELFLD label="">D1103</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Commerce alimentaire et métiers de bouche</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">D1103</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Charcuterie - traiteur</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10077">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="869" csRelFld="869">
+<CSLABELFLD label="">chef de fabrication en laboratoire industriel</CSLABELFLD>
+<MET_ID label="Identifiant">10077</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">05/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">869</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chef/fe de fabrication en laboratoire industriel</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="869">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18755" csRelFld="18755">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18755</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10077</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>L'art du cochon</inter>
+<p>Rillettes du Mans, andouille de Vire, jambon de Bayonne... Le charcutier-traiteur est le garant d'une tradition culinaire ancienne. Sa spécialité : confectionner des préparations à base de viande de porc. Il travaille cependant aussi d'autres viandes (boeuf, volaille, gibier), des poissons et des légumes, et concocte une grande variété de hors-d'oeuvre et de plats cuisinés, chauds ou froids. Dans son laboratoire, le charcutier-traiteur découpe et désosse lui-même les bêtes, trie et répartit les morceaux de viande qu'il sale et fume avant la cuisson. </p>
+<inter>De la préparation à la vente</inter>
+<p>Cet artisan est aussi un commerçant. À lui de veiller à la qualité de ses produits, de soigner leur présentation et d'avoir de l'imagination pour suggérer des idées de repas à ses clients. En tant que traiteur, il peut les conseiller dans le choix d'un menu ou la composition d'un buffet. Il peut effectuer lui-même les livraisons des commandes. Voire prendre en charge l'organisation complète de réceptions, du décor jusqu'au service. Quand il est chef d'entreprise, ce professionnel est également un gestionnaire. Il établit alors des devis, planifie les achats et les commandes, et tient la comptabilité de son commerce.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17697" csRelFld="17697">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17697</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10077</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Le CAP charcutier-traiteur est le diplôme de référence pour débuter dans la profession.</accr_p> Il se prépare généralement en apprentissage.</p>
+<liste>
+<tete>Après la 3<exp>e</exp>
+</tete>
+<itsimp>CAP charcutier-traiteur </itsimp>
+<itsimp>MC employé traiteur</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>Bac pro boucher-charcutier-traiteur </itsimp>
+<itsimp>BP charcutier-traiteur</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17938" csRelFld="17938">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17938</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10077</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Embauche assurée</inter>
+<p>Comme d'autres professions de bouche, la charcuterie souffre d'un déficit de main-d'oeuvre qualifiée. Un jeune formé à ce métier n'a donc aucune difficulté à trouver un emploi. Commerces artisanaux, grandes surfaces, entreprises de fabrication industrielle ou encore chaînes de restauration... Tous ces secteurs offrent des débouchés nombreux en fabrication et en vente.</p>
+<inter>Réelle évolution de carrière</inter>
+<p>Côté carrière, un jeune débute le plus souvent en apprentissage avant d'occuper un poste de charcutier-traiteur qualifié. Dans l'artisanat, beaucoup d'employés expérimentés finissent par s'installer à leur compte. D'autres perspectives d'évolution existent dans l'industrie et la grande distribution. Un charcutier-traiteur peut, par exemple, devenir chef de fabrication en laboratoire industriel ou bien responsable d'une équipe de vente dans un hypermarché.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>A partir du <sal>Smic</sal>.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

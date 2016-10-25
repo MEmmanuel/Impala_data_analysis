@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">restaurateur/trice d'oeuvres d'art</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un métier artistique ou créatif/exercer un travail manuel/réparer, entretenir, installer des équipements</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire/salarié/artisan</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction maintenance</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique/secteur artisanat d'art/secteur culture et patrimoine</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">restauration d'art</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE arts appliqués arts du spectacle/restaurateur d'oeuvres d'art</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10162</lien_onisep>
+<ROME Level="1B" csRelFld="10162">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="44" csRelFld="44">
+<CSLABELFLD label="">B1302</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Décoration</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">B1302</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Décoration d'objets d'art et artisanaux</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10162">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="965" csRelFld="965">
+<CSLABELFLD label="">bronzier / bronzière</CSLABELFLD>
+<MET_ID label="Identifiant">10162</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">965</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">bronzier/ère</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="965">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="966" csRelFld="966">
+<CSLABELFLD label="">céramiste</CSLABELFLD>
+<MET_ID label="Identifiant">10162</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">966</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">céramiste</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="966">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="967" csRelFld="967">
+<CSLABELFLD label="">conservateur / conservatrice du patrimoine</CSLABELFLD>
+<MET_ID label="Identifiant">10162</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">967</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">conservateur/trice du patrimoine</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="967">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="968" csRelFld="968">
+<CSLABELFLD label="">ébéniste</CSLABELFLD>
+<MET_ID label="Identifiant">10162</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">968</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">ébéniste</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="968">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="969" csRelFld="969">
+<CSLABELFLD label="">facteur instrumental / factrice instrumentale</CSLABELFLD>
+<MET_ID label="Identifiant">10162</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">969</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">facteur/trice instrumental/e</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="969">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="970" csRelFld="970">
+<CSLABELFLD label="">ferronnier / ferronnière d'art</CSLABELFLD>
+<MET_ID label="Identifiant">10162</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">970</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">ferronnier/ère d'art</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="970">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="971" csRelFld="971">
+<CSLABELFLD label="">horloger / horlogère</CSLABELFLD>
+<MET_ID label="Identifiant">10162</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">971</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">horloger/ère</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="971">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="972" csRelFld="972">
+<CSLABELFLD label="">relieur-doreur / relieuse-doreuse</CSLABELFLD>
+<MET_ID label="Identifiant">10162</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">972</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">relieur/euse-doreur/euse</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="972">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="973" csRelFld="973">
+<CSLABELFLD label="">restaurateur / restauratrice de dorures et polychromies</CSLABELFLD>
+<MET_ID label="Identifiant">10162</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">973</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">restaurateur/trice de dorures et polychromies</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="973">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="974" csRelFld="974">
+<CSLABELFLD label="">restaurateur / restauratrice de mobilier</CSLABELFLD>
+<MET_ID label="Identifiant">10162</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">974</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">restaurateur/trice de mobilier</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="974">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="975" csRelFld="975">
+<CSLABELFLD label="">restaurateur / restauratrice de tableaux</CSLABELFLD>
+<MET_ID label="Identifiant">10162</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">975</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">restaurateur/trice de tableaux</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="975">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="976" csRelFld="976">
+<CSLABELFLD label="">restaurateur / restauratrice de vitraux</CSLABELFLD>
+<MET_ID label="Identifiant">10162</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">976</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">restaurateur/trice restauratrice de vitraux</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="976">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="977" csRelFld="977">
+<CSLABELFLD label="">verrier / verrière</CSLABELFLD>
+<MET_ID label="Identifiant">10162</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">977</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">verrier/ère</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="977">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16026" csRelFld="16026">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16026</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10162</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Valoriser les oeuvres</inter>
+<p>Le restaurateur d'oeuvres d'art assure la préservation d'objets, tableaux, livres, mobiliers, tapisseries, sculptures, vitraux... de valeur. Grâce à différentes techniques, il leur rend leur aspect initial. </p>
+<inter>Diagnostiquer</inter>
+<p>Le restaurateur identifie les altérations de l'oeuvre et dresse un constat d'état. Il détermine ensuite le type d'intervention, les traitements et le temps nécessaires à la restauration selon l'époque de création, le style de l'artiste, les matériaux employés, etc.</p>
+<inter>Restaurer et prévenir</inter>
+<p>D'abord, il faut désinfecter l'oeuvre pour arrêter les attaques biologiques. Puis, viennent les étapes de consolidation, démontage, nettoyage, retouche, réintègration ou création de certaines pièces. Le restaurateur rédige également un rapport de traitement, illustré de photos (avant, pendant et après) qui pourra être utilisé pour de futures restaurations. Enfin, des préconisations de conservation sont faites pour éviter de nouveaux dégâts.</p>
+<p>Le restaurateur s'occupe aussi de la conservation préventive des oeuvres. Il veille à ralentir leur vieillissement en agissant sur leur environnement : conditions d'emballage et de stockage, qualité de l'éclairage, taux d'humidité...</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16029" csRelFld="16029">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16029</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10162</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>La restauration d'oeuvres d'art exige une formation de haut niveau, dispensée par l'université ou des écoles spécialisées.</accr_p> Les musées nationaux recrutent à bac + 5 les restaurateurs du patrimoine. Cependant certaines formations, plus courtes, permettent de s'initier à la restauration. </p>
+<p>Après la 3<exp>e</exp>
+</p>
+<liste>
+<itsimp>CAP bronzier</itsimp>
+<itsimp>CAP ébéniste</itsimp>
+<itsimp>CAP arts du bois</itsimp>
+<itsimp>CAP arts et techniques du verre</itsimp>
+<itsimp>CAP décoration en céramique</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>Bac pro artisanat et métiers d'art, options facteur d'orgues</itsimp>
+<itsimp>Bac pro métiers et arts de la pierre</itsimp>
+<itsimp>BMA arts et techniques du tapis et de la tapisserie de lisse ; bijou ; broderie ; céramique ; ébéniste ; ferronnerie d'art...</itsimp>
+<itsimp>BP tailleur de pierre des monuments historiques</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>DMA arts de l'habitat option restauration de mobilier ; arts textiles et céramiques ; arts graphiques...</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme de restaurateur conservateur de biens culturels de l'École de Condé de Paris et de Lyon</itsimp>
+<itsimp>Master sciences humaines et sociales mention conservation-restauration des biens culturels</itsimp>
+<itsimp>Diplôme de restaurateur du patrimoine (Institut national du patrimoine)</itsimp>
+<itsimp>DNSEP (diplôme national supérieur d'expression plastique)</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="19034" csRelFld="19034">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">19034</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10162</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Indépendant</inter>
+<p>La majorité des restaurateurs montent leur propre entreprise. Lorsqu'ils travaillent (seuls ou en association) dans un atelier indépendant en tant qu'artisans, ils démarchent leur clientèle, répondent à des appels d'offres, établissent des devis, tiennent une comptabilité...</p>
+<inter>Salarié ou fonctionnaire</inter>
+<p>Environ 10 % des restaurateurs sont salariés d'une entreprise privée ou d'une association. Certaines d'entre elles appartiennent à un réseau national d'ateliers et de laboratoires des Musées de France. Quelques fonctionnaires sont recrutés par concours et attachés à un établissement public (Bibliothèque nationale, Archives...). Le restaurateur fonctionnaire affecté dans un grand établissement culturel, travaille en équipe, sur la durée, et autour d'une collection qu'il apprend peu à peu à connaître.</p>
+<inter>Besoins en peinture et sculpture</inter>
+<p>Parmi la quinzaine de spécialités recensées, ce sont la peinture et la sculpture qui répondent au plus grand nombre de commandes de restauration. Les spécialistes en peinture représentent 50 % des inscrits à la Fédération française des conservateurs-restaurateurs, les spécialistes en sculpture 24 %. D'autres genres restent néanmoins porteurs : le textile, la céramique, le bois...</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1615</sal> euros brut par mois pour les restaurateurs fonctionnaires.</p>
+<p>Salaire variable en fonction des commandes pour les restaurateurs indépendants.</p>
+<postit>
+<p>Source : grilles de salaires 2011 de la fonction publique.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

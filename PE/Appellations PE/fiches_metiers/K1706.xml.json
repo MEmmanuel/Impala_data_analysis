@@ -1,0 +1,603 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Adjoint / Adjointe de s\u00e9curit\u00e9 de la police nationale",
+            "priorisation": "1",
+            "libelle": "Adjoint / Adjointe de s\u00e9curit\u00e9 de la police nationale",
+            "code_ogr": "10293"
+        },
+        {
+            "libelle_court": "Agent(e) de constatation des douanes branche surveillance",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de constatation des douanes branche surveillance",
+            "code_ogr": "10411"
+        },
+        {
+            "libelle_court": "Agent / Agente motocycliste de la douane",
+            "priorisation": "1",
+            "libelle": "Agent / Agente motocycliste de la douane",
+            "code_ogr": "10751"
+        },
+        {
+            "libelle_court": "Brigadier / Brigadi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Brigadier / Brigadi\u00e8re",
+            "code_ogr": "11593"
+        },
+        {
+            "libelle_court": "Cadet de la police nationale",
+            "priorisation": "1",
+            "libelle": "Cadet de la police nationale",
+            "code_ogr": "11622"
+        },
+        {
+            "libelle_court": "Contr\u00f4leur / Contr\u00f4leuse des douanes branche surveillance",
+            "priorisation": "1",
+            "libelle": "Contr\u00f4leur / Contr\u00f4leuse des douanes branche surveillance",
+            "code_ogr": "13618"
+        },
+        {
+            "libelle_court": "Enqu\u00eateur / Enqu\u00eatrice de police",
+            "priorisation": "1",
+            "libelle": "Enqu\u00eateur / Enqu\u00eatrice de police",
+            "code_ogr": "14842"
+        },
+        {
+            "libelle_court": "Garde r\u00e9publicain / r\u00e9publicaine",
+            "priorisation": "1",
+            "libelle": "Garde r\u00e9publicain / r\u00e9publicaine",
+            "code_ogr": "15203"
+        },
+        {
+            "libelle_court": "Gardien / Gardienne de compagnie r\u00e9publicaine de s\u00e9curit\u00e9",
+            "priorisation": "1",
+            "libelle": "Gardien / Gardienne de compagnie r\u00e9publicaine de s\u00e9curit\u00e9",
+            "code_ogr": "15217"
+        },
+        {
+            "libelle_court": "Gardien / Gardienne de la paix",
+            "priorisation": "1",
+            "libelle": "Gardien / Gardienne de la paix",
+            "code_ogr": "15219"
+        },
+        {
+            "libelle_court": "Gendarme",
+            "priorisation": "1",
+            "libelle": "Gendarme",
+            "code_ogr": "15246"
+        },
+        {
+            "libelle_court": "Gendarme adjoint / adjointe",
+            "priorisation": "1",
+            "libelle": "Gendarme adjoint / adjointe",
+            "code_ogr": "15247"
+        },
+        {
+            "libelle_court": "Gendarme mobile",
+            "priorisation": "1",
+            "libelle": "Gendarme mobile",
+            "code_ogr": "15248"
+        },
+        {
+            "libelle_court": "Ma\u00eetre-chien / Ma\u00eetresse-chien de la gendarmerie",
+            "priorisation": "1",
+            "libelle": "Ma\u00eetre-chien / Ma\u00eetresse-chien de la gendarmerie",
+            "code_ogr": "16321"
+        },
+        {
+            "libelle_court": "Motard / Motarde de la police nationale",
+            "priorisation": "1",
+            "libelle": "Motard / Motarde de la police nationale",
+            "code_ogr": "16903"
+        },
+        {
+            "libelle_court": "Motocycliste de la gendarmerie",
+            "priorisation": "1",
+            "libelle": "Motocycliste de la gendarmerie",
+            "code_ogr": "16906"
+        },
+        {
+            "libelle_court": "Premier surveillant / Premi\u00e8re surveillante p\u00e9nitentiaire",
+            "priorisation": "1",
+            "libelle": "Premier surveillant / Premi\u00e8re surveillante p\u00e9nitentiaire",
+            "code_ogr": "17978"
+        },
+        {
+            "libelle_court": "Sous-officier / Sous-offici\u00e8re de gendarmerie",
+            "priorisation": "1",
+            "libelle": "Sous-officier / Sous-offici\u00e8re de gendarmerie",
+            "code_ogr": "19496"
+        },
+        {
+            "libelle_court": "Surveillant / Surveillante p\u00e9nitentiaire",
+            "priorisation": "1",
+            "libelle": "Surveillant / Surveillante p\u00e9nitentiaire",
+            "code_ogr": "19602"
+        },
+        {
+            "libelle_court": "Technicien(ne) de recherche et d'identification criminelle",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de recherche et d'identification criminelle",
+            "code_ogr": "19921"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne en investigation criminelle",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en investigation criminelle",
+            "code_ogr": "20081"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Renseigner le public (plainte, information, ...) et assister ou secourir les victimes d'accidents, d'agressions, de sinistres",
+            "code_ogr": "3030",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller les lieux, les agissements, les biens et pr\u00e9venir les risques de trouble \u00e0 l'ordre public, les atteintes \u00e0 la s\u00e9curit\u00e9 des personnes et des biens",
+            "code_ogr": "3339",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser les interventions de lutte contre les troubles \u00e0 la tranquillit\u00e9 et \u00e0 l'ordre public (maintien de l'ordre, lutte contre la d\u00e9linquance, la criminalit\u00e9, ...)",
+            "code_ogr": "2837",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les op\u00e9rations de pr\u00e9vention et de s\u00e9curisation de lieux, de r\u00e9seaux routiers (signalisation, balisage, protection, ...)",
+            "code_ogr": "1643",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler des personnes, des biens, des v\u00e9hicules, relever et verbaliser les infractions et les actes d\u00e9lictueux",
+            "code_ogr": "1010",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Rechercher et interpeller les contrevenants \u00e0 la loi, les auteurs d'actes d\u00e9lictueux et les suspects",
+            "code_ogr": "2937",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir les rapports, comptes rendus, proc\u00e8s verbaux, \u00e0 partir des informations recueillies",
+            "code_ogr": "2939",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "7",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "K1705",
+            "libelle_rome_cible": "S\u00e9curit\u00e9 civile et secours"
+        },
+        {
+            "code_rome_cible": "K1707",
+            "libelle_rome_cible": "Surveillance municipale"
+        },
+        {
+            "code_rome_cible": "K2503",
+            "libelle_rome_cible": "S\u00e9curit\u00e9 et surveillance priv\u00e9es"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible sur concours avec un Bac (g\u00e9n\u00e9ral, professionnel, ...).\nUne qualification judiciaire (Agent de Police Judiciaire -APJ-, Officier de Police Judiciaire -OPJ-) peut \u00eatre d\u00e9livr\u00e9e.\nUne bonne condition physique est requise.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Intervenir dans un milieu :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "A\u00e9rien, a\u00e9roportuaire",
+            "code_ogr": "6752",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Espace naturel",
+            "code_ogr": "6753",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ferroviaire, transport en commun",
+            "code_ogr": "6754",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Maritime, portuaire",
+            "code_ogr": "6756",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Montagne",
+            "code_ogr": "6757",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nucl\u00e9aire, radiologique, bact\u00e9riologique et chimique - NRBC -",
+            "code_ogr": "6759",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Routier, autoroutier",
+            "code_ogr": "6760",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des interventions :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Op\u00e9rations dans des zones d'acc\u00e8s difficile, en milieu souterrain, en tr\u00e8s grande hauteur",
+            "code_ogr": "8501",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Recherche de personnes disparues (ensevelissements, d\u00e9combres, ...)",
+            "code_ogr": "8506",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Recherche de produits stup\u00e9fiants",
+            "code_ogr": "8507",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9ceptionner, identifier des appels t\u00e9l\u00e9phoniques, des alarmes, ... et d\u00e9clencher des interventions de secours et d'assistance",
+            "code_ogr": "9438",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller des lieux, voiries, circulations par vid\u00e9osurveillance",
+            "code_ogr": "9860",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener des investigations, enqu\u00eates, recherches criminelles, rapprochements judiciaires (recherche, constat, analyse, ...)",
+            "code_ogr": "7419",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler des produits et identifier des non-conformit\u00e9s, des contrefa\u00e7ons, ... (fraudes, stup\u00e9fiants, faux, pollutions, ...)",
+            "code_ogr": "4187",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Diriger un chien sur une action de protection ou de recherche",
+            "code_ogr": "4744",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler, surveiller des d\u00e9tenus (pr\u00e9sence, appel, fouille, escorte, ...) et v\u00e9rifier des cellules",
+            "code_ogr": "4276",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sensibiliser ou former des publics \u00e0 des actions de pr\u00e9vention et de s\u00e9curit\u00e9",
+            "code_ogr": "9674",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Former des personnels aux techniques d'intervention et de secours",
+            "code_ogr": "6031",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de la police, de la gendarmerie, des douanes, de la p\u00e9nitentiaire, en contact avec de multiples intervenants (citoyens, justice, secours, arm\u00e9es, ...). Elle peut impliquer des d\u00e9placements et un \u00e9loignement du domicile de plusieurs jours ou mois.\nElle varie selon la structure (police, gendarmerie, douanes), la sp\u00e9cialit\u00e9 (maintien de l'ordre, s\u00e9curit\u00e9 routi\u00e8re, police judiciaire, ...), le lieu de conduite d'intervention (urbain, rural, maritime, a\u00e9roportuaire, ...).\nElle peut s'exercer les fins de semaine, jours f\u00e9ri\u00e9s, de nuit et \u00eatre soumise \u00e0 des astreintes.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan",
+            "code_ogr": "20946",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'\u00e9quipement de secours et de sauvetage",
+            "code_ogr": "21425",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Maniement d'arme",
+            "code_ogr": "20967",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pratique de ski de montagne",
+            "code_ogr": "21048",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Administration p\u00e9nitentiaire",
+            "code_ogr": "23389",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Douanes",
+            "code_ogr": "23466",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gendarmerie Nationale",
+            "code_ogr": "23509",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Police de l'air et des fronti\u00e8res",
+            "code_ogr": "23588",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Police judiciaire",
+            "code_ogr": "23589",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Police militaire",
+            "code_ogr": "23590",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Police nationale",
+            "code_ogr": "23591",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Renseignement",
+            "code_ogr": "23615",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Secours et assistance \u00e0 personnes",
+            "code_ogr": "23629",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "S\u00e9curit\u00e9 routi\u00e8re",
+            "code_ogr": "23630",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Surveillance du territoire",
+            "code_ogr": "23644",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Code de proc\u00e9dure p\u00e9nale",
+            "code_ogr": "21727",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de secourisme/sauvetage",
+            "code_ogr": "23114",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dure p\u00e9nale",
+            "code_ogr": "22378",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Risques naturels",
+            "code_ogr": "22673",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'alpinisme",
+            "code_ogr": "22763",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Nivologie",
+            "code_ogr": "22210",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9thodes d'investigation",
+            "code_ogr": "22145",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'analyse physico-chimique (chromatographie, spectrom\u00e9trie, ...)",
+            "code_ogr": "22766",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques cynophiles",
+            "code_ogr": "22758",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9 en milieu carc\u00e9ral",
+            "code_ogr": "22626",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques p\u00e9dagogiques",
+            "code_ogr": "23253",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise les op\u00e9rations d'assistance \u00e0 personnes, de lutte contre les troubles \u00e0 la tranquillit\u00e9 et \u00e0 l'ordre public, et de protection des biens et des institutions, selon la politique de l'Etat et la l\u00e9gislation.\nPeut effectuer des enqu\u00eates judiciaires.\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "S\u00e9curit\u00e9 publique",
+    "code_ogr": "396",
+    "code_rome": "K1706",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "K1701",
+            "libelle_rome_cible": "Personnel de la D\u00e9fense"
+        },
+        {
+            "code_rome_cible": "K1704",
+            "libelle_rome_cible": "Management de la s\u00e9curit\u00e9 publique"
+        },
+        {
+            "code_rome_cible": "K2502",
+            "libelle_rome_cible": "Management de s\u00e9curit\u00e9 priv\u00e9e"
+        }
+    ]
+}

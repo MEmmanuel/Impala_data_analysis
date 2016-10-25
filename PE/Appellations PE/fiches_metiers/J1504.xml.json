@@ -1,0 +1,373 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Infirmier / Infirmi\u00e8re aide op\u00e9ratoire",
+            "priorisation": "1",
+            "libelle": "Infirmier / Infirmi\u00e8re aide op\u00e9ratoire",
+            "code_ogr": "15531"
+        },
+        {
+            "libelle_court": "Infirmier / Infirmi\u00e8re chef de bloc op\u00e9ratoire",
+            "priorisation": "1",
+            "libelle": "Infirmier / Infirmi\u00e8re chef de bloc op\u00e9ratoire",
+            "code_ogr": "38162"
+        },
+        {
+            "libelle_court": "Infirmier / Infirmi\u00e8re de bloc op\u00e9ratoire circulant",
+            "priorisation": "1",
+            "libelle": "Infirmier / Infirmi\u00e8re de bloc op\u00e9ratoire circulant",
+            "code_ogr": "15536"
+        },
+        {
+            "libelle_court": "Infirmier(\u00e8re) de bloc op\u00e9ratoire Dipl\u00f4m\u00e9(e) d'Etat -IBODE-",
+            "priorisation": "1",
+            "libelle": "Infirmier / Infirmi\u00e8re de bloc op\u00e9ratoire Dipl\u00f4m\u00e9 / Dipl\u00f4m\u00e9e d'Etat -IBODE-",
+            "code_ogr": "15537"
+        },
+        {
+            "libelle_court": "Infirmier / Infirmi\u00e8re de bloc op\u00e9ratoire instrumentiste",
+            "priorisation": "1",
+            "libelle": "Infirmier / Infirmi\u00e8re de bloc op\u00e9ratoire instrumentiste",
+            "code_ogr": "15538"
+        },
+        {
+            "libelle_court": "Infirmier(\u00e8re) sp\u00e9cialis\u00e9(e) de bloc op\u00e9ratoire",
+            "priorisation": "1",
+            "libelle": "Infirmier sp\u00e9cialis\u00e9 / Infirmi\u00e8re sp\u00e9cialis\u00e9e de bloc op\u00e9ratoire",
+            "code_ogr": "15557"
+        },
+        {
+            "libelle_court": "Instrumentiste en bloc op\u00e9ratoire",
+            "priorisation": "1",
+            "libelle": "Instrumentiste en bloc op\u00e9ratoire",
+            "code_ogr": "16024"
+        },
+        {
+            "libelle_court": "Panseur / Panseuse en bloc op\u00e9ratoire",
+            "priorisation": "1",
+            "libelle": "Panseur / Panseuse en bloc op\u00e9ratoire",
+            "code_ogr": "17554"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Contr\u00f4ler l'environnement du site op\u00e9ratoire et v\u00e9rifier l'\u00e9tat de fonctionnement des \u00e9quipements, du mat\u00e9riel m\u00e9dico-chirurgical",
+            "code_ogr": "1124",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer la table d'instrumentation m\u00e9dico-chirurgicale selon le programme op\u00e9ratoire",
+            "code_ogr": "2593",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier les conditions de l'intervention lors de l'accueil du patient au bloc op\u00e9ratoire et le pr\u00e9parer",
+            "code_ogr": "3463",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Assister le praticien en lui pr\u00e9sentant les instruments, r\u00e9aliser les soins infirmiers et r\u00e9pertorier les instruments en fin d'intervention",
+            "code_ogr": "772",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9partir les instruments et les dispositifs m\u00e9dicaux selon le mode de traitement par st\u00e9rilisation ou par destruction et proc\u00e9der \u00e0 la remise en conformit\u00e9 du site op\u00e9ratoire",
+            "code_ogr": "3081",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les documents techniques lors d'une intervention chirurgicale et les transmettre \u00e0 l'interlocuteur concern\u00e9",
+            "code_ogr": "3039",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks de produits, identifier les besoins en approvisionnement et transmettre la commande \u00e0 l'interlocuteur concern\u00e9",
+            "code_ogr": "3616",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1405",
+            "libelle_rome_cible": "Conseil en information m\u00e9dicale"
+        },
+        {
+            "code_rome_cible": "J1505",
+            "libelle_rome_cible": "Soins infirmiers sp\u00e9cialis\u00e9s en pr\u00e9vention"
+        },
+        {
+            "code_rome_cible": "J1506",
+            "libelle_rome_cible": "Soins infirmiers g\u00e9n\u00e9ralistes"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec le Dipl\u00f4me d'Etat d'Infirmier de Bloc Op\u00e9ratoire -IBODE- ouvert aux titulaires d'un dipl\u00f4me d'Etat d'infirmier ou de sage femme justifiant de 2 ans d'exercice professionnel dans le m\u00e9tier d'origine.\nDes vaccinations pr\u00e9vues par le Code de Sant\u00e9 Publique sont exig\u00e9es.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Intervenir dans un service :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bloc op\u00e9ratoire",
+            "code_ogr": "6765",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Endoscopie",
+            "code_ogr": "6768",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Radiologie interventionnelle",
+            "code_ogr": "6779",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "St\u00e9rilisation",
+            "code_ogr": "6781",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener des actions :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Hygi\u00e8ne hospitali\u00e8re",
+            "code_ogr": "7370",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Participation \u00e0 la r\u00e9alisation d'examens endoscopiques",
+            "code_ogr": "7372",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9l\u00e8vement Multi Organes -PMO-",
+            "code_ogr": "7374",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Planifier la d\u00e9sinfection et v\u00e9rifier la remise en conformit\u00e9 du bloc op\u00e9ratoire",
+            "code_ogr": "7834",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer la phase de r\u00e9veil du patient et proc\u00e9der au transfert en Salle de Surveillance Post-Interventionnelle -SSPI -",
+            "code_ogr": "7974",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Communiquer et \u00e9changer des informations sur la r\u00e9glementation et les \u00e9volutions techniques aupr\u00e8s de l'\u00e9quipe de soins, des comit\u00e9s consultatifs sp\u00e9cialis\u00e9s",
+            "code_ogr": "3919",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener des actions de formation au sein d'un organisme",
+            "code_ogr": "7395",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'\u00e9tablissements de soins (h\u00f4pital, clinique, ...) en contact avec les patients.\nElle peut varier selon le service et les sp\u00e9cialit\u00e9s chirurgicales.\nElle peut s'exercer en horaires d\u00e9cal\u00e9s, par roulement, les fins de semaine, jours f\u00e9ri\u00e9s, de nuit et \u00eatre soumise \u00e0 des astreintes ou des gardes.\nElle s'effectue dans un environnement \u00e0 risques (toxicit\u00e9 des produits, agents infectieux, ...).\nLe port d'\u00e9quipements de protection st\u00e9riles (coiffe, masque chirurgical, gants, lunettes de protection, ...) est requis\n",
+    "savoir_action": [],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement m\u00e9dical (h\u00f4pital, clinique, ...)",
+            "code_ogr": "23922",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisation humanitaire",
+            "code_ogr": "24014",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail de nuit",
+            "code_ogr": "38055",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de contr\u00f4le du site op\u00e9ratoire",
+            "code_ogr": "22397",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en techniques chirurgicales",
+            "code_ogr": "21925",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Protocoles de soins d'urgence",
+            "code_ogr": "22504",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de r\u00e9animation",
+            "code_ogr": "23076",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Circuit des vigilances",
+            "code_ogr": "21711",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et d'asepsie",
+            "code_ogr": "22646",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'animation d'\u00e9quipe",
+            "code_ogr": "22774",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nOrganise la prise en charge de patients en bloc op\u00e9ratoire et apporte une aide technique au praticien tout au long de l'intervention selon le protocole chirurgical et les r\u00e8gles d'hygi\u00e8ne et d'asepsie.\nPeut intervenir en hygi\u00e8ne hospitali\u00e8re, en service de st\u00e9rilisation centrale, ...\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "Soins infirmiers sp\u00e9cialis\u00e9s en bloc op\u00e9ratoire",
+    "code_ogr": "360",
+    "code_rome": "J1504",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "J1502",
+            "libelle_rome_cible": "Coordination de services m\u00e9dicaux ou param\u00e9dicaux"
+        },
+        {
+            "code_rome_cible": "J1503",
+            "libelle_rome_cible": "Soins infirmiers sp\u00e9cialis\u00e9s en anesth\u00e9sie"
+        },
+        {
+            "code_rome_cible": "J1507",
+            "libelle_rome_cible": "Soins infirmiers sp\u00e9cialis\u00e9s en pu\u00e9riculture"
+        },
+        {
+            "code_rome_cible": "K1103",
+            "libelle_rome_cible": "D\u00e9veloppement personnel et bien-\u00eatre de la personne"
+        },
+        {
+            "code_rome_cible": "K1403",
+            "libelle_rome_cible": "Management de structure de sant\u00e9, sociale ou p\u00e9nitentiaire"
+        }
+    ]
+}

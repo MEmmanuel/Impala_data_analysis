@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">animalier/ère de laboratoire</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire de la recherche</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction administration des soins</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur recherche/secteur industrie pharmaceutique/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">soins aux animaux/biologie animale</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">animalier de laboratoire/GFE agriculture</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100311</lien_onisep>
+<ROME Level="1B" csRelFld="100311">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="22" csRelFld="22">
+<CSLABELFLD label="">A1408</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Production</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">A1408</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Élevage d'animaux sauvages ou de compagnie</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100311">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="30400" csRelFld="30400">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30400</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100311</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Élevage en laboratoire</inter>
+<p>Veiller au confort des animaux, à leurs conditions d'hébergement et aux soins qui leur sont prodigués est la principale mission de l'animalier de laboratoire. Dans le respect des règles d'hygiène et de sécurité, il assure l'entretien et l'aménagement des cages, des volières et autres équipements de l'animalerie. Il manie, bien sûr, pelle, seau et balai, mais aussi viande, fruits, pâtée, graines et écuelles.</p>
+<inter>Protocoles expérimentaux</inter>
+<p>L'animalier participe au bon déroulement des expériences. À lui de donner l'alerte dès les premiers signes de souffrance ou de comportement inhabituel qu'il constate chez un animal. Dans le cadre strict d'un protocole expérimental, il peut être chargé d'administrer des médicaments, ou d'effectuer des injections, des prélèvements, des soins pré et post-opératoires, des pesées... Il lui arrive également de pratiquer des autopsies sur des animaux, pour examiner leurs tissus et éventuellement détecter des maladies transmissibles à l'homme.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="30404" csRelFld="30404">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30404</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100311</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>La formation adaptée à cette profession est le bac pro technicien en expérimentation animale. Il se prépare dans 3 établissements : les lycées professionnels de Villars-les-Dombes (01) et de Vendôme (41) ainsi qu'à la Maison familiale rurale de Saint-Laurent-de-Chamousset (69). Il est ensuite possible de se présenter aux concours d'adjoint technique ou de technicien animalier organisés par les organismes de recherche publics. Selon la loi, toute personne en contact avec des animaux utilisés à des fins expérimentales doit détenir une autorisation réglementaire. Ce bac pro permet de participer aux expérimentations sous la responsabilité d'une personne détenant cette autorisation.</p>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>Bac pro technicien en expérimentation animale</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="30402" csRelFld="30402">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30402</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100311</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Surtout dans le secteur public</inter>
+<p>Les débouchés se situent essentiellement dans les laboratoires de recherche publics ou parapublics : l'Inserm (Institut national de la santé et de la recherche médicale), le CNRS (Centre national de la recherche scientifique), l'Inra (Institut national de la recherche agronomique)... Les services de recherche et développement des laboratoires pharmaceutiques, les grands hôpitaux, les centres universitaires emploient également des animaliers.</p>
+<inter>Concours obligatoire</inter>
+<p>L'accès à un emploi de fonctionnaire relevant d'un organisme public de recherche se fait obligatoirement sur concours. Cela concerne les postes d'adjoint technique animalier, de technicien en gestion d'élevage expérimental, de technicien en expérimentation animale. Ils sont regroupés dans la branche d'activité professionnelle « sciences du vivant », famille « production et expérimentation animale » des métiers de la recherche publique.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>A partir du <sal>Smic</sal>.</p>
+<postit>
+<p>Source : Legta Vendôme, 2011.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

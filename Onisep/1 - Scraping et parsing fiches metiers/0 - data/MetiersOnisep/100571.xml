@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e concepteur/trice en mécanique</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">concevoir, utiliser des technologies industrielles de pointe/coordonner l'activité d'une équipe/faire de la recherche</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction études développement industriel </MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur construction automobile/secteur construction aéronautique/secteur construction mécanique/secteur construction ferroviaire/secteur sociétés d'ingénierie et d'études techniques/secteur construction navale</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">génie mécanique/conception de produit/cao/fao/gpao</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE mécanique automatismes</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100571</lien_onisep>
+<ROME Level="1B" csRelFld="100571">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="320" csRelFld="320">
+<CSLABELFLD label="">H2502</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Direction, encadrement et pilotage de fabrication et production industrielles</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2502</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie de production</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100571">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="54710" csRelFld="54710">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">54710</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100571</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Études, calculs et essais</inter>
+<p>L'ingénieur concepteur en mécanique élabore l'architecture d'ensemble d'un produit (moteur, carrosserie...), choisit les solutions techniques et procède à des simulations numériques pour soumettre les pièces à différentes contraintes. À partir de ces calculs théoriques et des plans proposés par le dessinateur-projeteur, il prend en compte la dimension de chaque élément, la résistance des matériaux, etc. </p>
+<inter>Expérimentation physique</inter>
+<p>Après les tests numériques, place à l'expérimentation physique. L'ingénieur concepteur suit les essais et les mesures réalisés sur un prototype, en vérifiant que celui-ci est conforme aux performances attendues. En fonction des résultats, il peut effectuer des modifications sur la pièce (meilleure résistance, imperméabilité renforcée...).</p>
+<inter>Créer, innover</inter>
+<p>En général, il travaille dans différents domaines techniques (aérodynamique, performance, structure...). C'est lui qui effectue ou fait réaliser, selon sa spécialité et la taille de son entreprise, des calculs de structure (modélisation des éléments avant réalisation). L'objectif, souvent à moyen terme car les essais peuvent durer plusieurs années, est de proposer un produit final novateur (voiture électrique, instrument de mesure, robot...). </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="54714" csRelFld="54714">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">54714</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100571</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le poste d'ingénieur concepteur en mécanique est accessible avec un bac + 5: diplôme d'ingénieur ou masters équivalents pour la conception de structures, matériaux, calculs... </p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur en génie mécanique</itsimp>
+<itsimp>Master mention mécanique ou génie mécanique</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="54712" csRelFld="54712">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">54712</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100571</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des places à prendre</inter>
+<p>L'ingénieur concepteur en mécanique qui se destine à la R &amp; D (recherche et développement) est courtisé dès sa sortie de l'école. Notamment celui qui a décidé de travailler dans des secteurs très innovants utilisant la mécanique, l'électronique ou l'informatique : autant de domaines qui requièrent des spécialistes maîtrisant les nouvelles technologies. </p>
+<inter>Souvent dans les grandes entreprises</inter>
+<p>Il travaille principalement dans les grands groupes automobiles, qui sont dotés de leur propre service R &amp; D. En revanche, il est plus difficile pour une PME (petite et moyenne entreprise) de faire de la recherche, sauf s'il s'agit de son activité principale.</p>
+<inter>Déplacements possibles </inter>
+<p>S'il passe une grande partie de son temps au sein de son entreprise (services de recherche, d'essai ou de contrôle, bureau d'études ou site de production), l'ingénieur concepteur en mécanique peut aussi se rendre chez les clients (motoristes, équipementiers...) pour qui il conçoit des produits ou du matériel (moteur électrique, coquilles d'un avion, matériau composite ultra-résistant...).</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2600</sal> à 3400 euros brut par mois.</p>
+<postit>
+<p>Source : UIMM, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

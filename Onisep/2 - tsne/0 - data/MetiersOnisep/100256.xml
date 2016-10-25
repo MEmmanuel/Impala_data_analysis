@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">chaudronnier/ère</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">fabriquer, construire/travailler un matériau/exercer un travail manuel/concevoir, utiliser des technologies industrielles de pointe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/artisan</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction fabrication artisanale/fonction fabrication industrielle</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur construction aéronautique/secteur construction automobile/secteur construction mécanique/secteur construction navale/secteur industrie métallurgique et fonderie/secteur gros oeuvre bâtiment</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">chaudronnerie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE structures métalliques travail des métaux fonderie/chaudronnier</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100256</lien_onisep>
+<ROME Level="1B" csRelFld="100256">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="340" csRelFld="340">
+<CSLABELFLD label="">H2902</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Mécanique, travail des métaux et outillage</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2902</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Chaudronnerie - tôlerie</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100256">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1774" csRelFld="1774">
+<CSLABELFLD label="">chaudronnier / chaudronnière aéronautique</CSLABELFLD>
+<MET_ID label="Identifiant">100256</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1774</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chaudronnier/ère aéronautique</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1774">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1775" csRelFld="1775">
+<CSLABELFLD label="">chaudronnier / chaudronnière sur inox</CSLABELFLD>
+<MET_ID label="Identifiant">100256</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1775</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chaudronnier/ère sur inox</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1775">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1776" csRelFld="1776">
+<CSLABELFLD label="">technicien / technicienne</CSLABELFLD>
+<MET_ID label="Identifiant">100256</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1776</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">technicien/ne</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1776">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1777" csRelFld="1777">
+<CSLABELFLD label="">technicien / technicienne en chaudronnerie industrielle</CSLABELFLD>
+<MET_ID label="Identifiant">100256</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1777</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">technicien/ne en chaudronnerie industrielle</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1777">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1778" csRelFld="1778">
+<CSLABELFLD label="">tuyauteur / tuyauteuse</CSLABELFLD>
+<MET_ID label="Identifiant">100256</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1778</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">tuyauteur/euse</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1778">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16241" csRelFld="16241">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16241</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100256</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Établir le « développé »</inter>
+<p>Après avoir pris connaissance des plans de l'ouvrage à exécuter, le chaudronnier établit le « développé » du volume à obtenir (la représentation plane d'un cube, par exemple). Il prévoit également la quantité de matière à utiliser et choisit ses outillages.</p>
+<inter>Façonner le métal</inter>
+<p>Il trace sur une feuille de métal les divers éléments à fabriquer, à partir du développé obtenu. Il procède au découpage de chaque élément et donne la forme souhaitée par pliage, martelage, emboutissage... afin d'obtenir des formes cylindriques, comme celles des tuyaux. </p>
+<inter>Régler les machines</inter>
+<p>Même s'il effectue manuellement certaines de ces opérations, le chaudronnier utilise le plus souvent des machines automatisées qu'il doit d'abord régler, puis surveiller. Cela demande une connaissance de l'informatique appliquée à la commande numérique.</p>
+<inter>Contrôler la qualité</inter>
+<p>Une fois toutes les pièces fabriquées, il réalise leur assemblage provisoire, à l'aide de points de soudure. Il corrige les défauts constatés.</p>
+<p>Il procède alors à l'assemblage définitif des éléments puis participe aux opérations de contrôle qualité.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16290" csRelFld="16290">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16290</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100256</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Le niveau d'études est variable selon les postes occupés.</accr_p>
+</p>
+<inter>Niveau CAP</inter>
+<liste>
+<itsimp>
+<em>CAP </em> réalisation en chaudronnerie industrielle. </itsimp>
+</liste>
+<inter>Niveau bac</inter>
+<liste>
+<itsimp>
+<em>Bacs pro</em>  technicien en chaudronnerie industrielle  ; technicien outilleur ;</itsimp>
+<itsimp>
+<em>Bac techno </em>STI2D (développement durable) ;</itsimp>
+<itsimp>
+<em>MC</em> soudage.</itsimp>
+</liste>
+<inter>Niveau bac + 2</inter>
+<liste>
+<itsimp>
+<em>BTS </em>conception et réalisation en chaudronnerie industrielle</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16295" csRelFld="16295">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16295</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100256</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des secteurs variés</inter>
+<p>Plusieurs secteurs emploient des chaudronniers : l'aéronautique, l'automobile, la mécanique, la construction navale, la métallurgie, le bâtiment (construction d'ouvrages métalliques)... </p>
+<p>Mais les entreprises ont des difficultés à recruter des professionnels qualifiés pour ce métier qui reste peu connu.</p>
+<inter>Cadre ou technicien</inter>
+<p>Le chaudronnier peut évoluer vers un poste d'encadrement (chef d'équipe, contremaître, chef d'atelier) ou de technicien (dessinateur, préparateur de fabrication, technicien méthodes). Il peut aussi s'installer à son compte comme artisan.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>A partir du <sal>Smic</sal> et jusqu'à 2100 euros brut par mois.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

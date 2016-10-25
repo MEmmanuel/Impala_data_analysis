@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">consultant/e en systèmes d'information</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller/enquêter, rechercher, analyser l'information/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/indépendant</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur audit conseil/secteur sociétés de service et de conseil en informatique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">informatique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100677</lien_onisep>
+<ROME Level="1B" csRelFld="100677">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="604" csRelFld="604">
+<CSLABELFLD label="">M1806</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Systèmes d'information et de télécommunication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1806</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Conseil et maîtrise d'ouvrage en systèmes d'information</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100677">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56763" csRelFld="56763">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56763</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100677</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Analyse des besoins</inter>
+<p>Le consultant en SI (systèmes d'information) est sollicité par un client (entreprise, administration...) qui souhaite optimiser ses SI : bases de données, logiciels de gestion (des ressources humaines, de la relation client...), serveurs de données et d'applications, systèmes de stockage, systèmes de sécurité... Son intervention commence alors par un audit des performances, de la sécurité et de la fiabilité des SI en place, en concertation avec les dirigeants et les informaticiens de l'entreprise cliente.</p>
+<inter>Proposer des solutions informatiques</inter>
+<p>Après l'audit, il propose au client des préconisations en vue de l'amélioration des SI de l'entreprise. Il peut, par exemple, proposer l'externalisation des données de l'entreprise dans le cloud, la mise en réseau de certaines applications, la mutualisation de serveurs... L'ensemble de ces préconisations, qu'elles soient techniques, matérielles ou virtuelles, est alors transcrit dans un plan de développement.</p>
+<inter>Déploiement et suivi</inter>
+<p>Après accord du client, le consultant en SI fait appel à un ou plusieurs développeurs pour la mise en oeuvre du plan de développement : installation, déploiement puis maintenance des solutions informatiques. Par la suite, il suit l'exécution du plan et en contrôle chaque étape.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56767" csRelFld="56767">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56767</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100677</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le métier de consultant en SI est accessible au niveau ingénieur.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur en informatique, télécoms...</itsimp>
+<itsimp>Master mention informatique ou MIAGE (méthodes informatiques appliquées à la gestion des entreprises), ou réseaux et télécommunication </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56765" csRelFld="56765">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56765</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100677</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Du junior au senior</inter>
+<p>En règle générale, on commence sa carrière en tant que consultant junior au sein d'une ESN. Opérationnel avant tout, le junior travaille principalement pour développer et intégrer les solutions et les outils informatiques préconisés par le consultant senior. </p>
+<inter>Des missions d'importance croissante</inter>
+<p>Une des évolutions possibles pour un consultant consiste à se voir confier des missions de plus en plus complexes, voire à prendre la direction d'une équipe de consultants. Autre évolution possible : le consultant peut, au fur et à mesure de sa carrière, se spécialiser dans un secteur d'activité précis (finance, marketing, ressources humaines...) ou devenir expert technique dans un domaine de l'informatique (la sécurité des SI, par exemple). Il peut aussi intégrer une entreprise en tant que directeur des SI ou encore comme responsable de la sécurité des SI...</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Entre <sal>2500</sal> et 2900 euros brut par mois.</p>
+<postit>
+<p>Source : Apec (Association pour l'emploi des cadres), 2015.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

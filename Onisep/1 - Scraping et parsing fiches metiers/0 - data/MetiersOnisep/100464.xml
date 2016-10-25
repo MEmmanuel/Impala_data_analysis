@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">salesman</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller/avoir des sensations fortes/manier les chiffres/faire du commerce</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur banque</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">finances</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé/salesman</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100464</lien_onisep>
+<ROME Level="1B" csRelFld="100464">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100464">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1466" csRelFld="1466">
+<CSLABELFLD label="">salesman sur produits cash</CSLABELFLD>
+<MET_ID label="Identifiant">100464</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">15/04/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1466</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">salesman sur produits cash</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1466">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1467" csRelFld="1467">
+<CSLABELFLD label="">salesman sur produits dérivés</CSLABELFLD>
+<MET_ID label="Identifiant">100464</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">15/04/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1467</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">salesman sur produits dérivés</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1467">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1468" csRelFld="1468">
+<CSLABELFLD label="">salesman sur produits structurés</CSLABELFLD>
+<MET_ID label="Identifiant">100464</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">15/04/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1468</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">salesman sur produits structurés</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1468">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="37502" csRelFld="37502">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37502</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100464</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Acheter ou vendre</inter>
+<p>Téléphone à la main, un oeil sur les cours de la Bourse, l'autre sur les e-mails des analystes, le salesman informe ses clients des transactions les plus adaptées à leur stratégie. C'est donc lui qui conseille aux caisses de retraite, aux entreprises ou aux sociétés d'assurances de vendre ou d'acheter tel ou tel titre. Si ses avis sont suivis, il passe le relais au trader, qui est chargé d'investir sur le marché au nom du client.</p>
+<inter>Conseiller sur mesure</inter>
+<p>Ses conseils d'investissement ne seront pertinents que s'il maîtrise la composition du portefeuille financier de chacun de ses clients et qu'il sélectionne les opportunités adéquates. Objectif du salesman : augmenter et fidéliser sa clientèle.</p>
+<inter>Obligation de fiabilité</inter>
+<p>Porte-parole des analyses de sa banque, le salesman a une obligation de fiabilité, car les conseils qu'il prodigue portent sur des sommes considérables. Alors, pas de place à l'improvisation. Lecture de la presse, consultation de bases de données : chaque séance est minutieusement préparée et débute par une réunion (le morning meeting), au cours de laquelle les analystes financiers commentent leurs recommandations en fonction des derniers mouvements du marché.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="37506" csRelFld="37506">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37506</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100464</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Devenir salesman demande une excellente culture générale en finance de marché. Ce métier nécessite une formation supérieure de niveau bac + 5, qui pourra être complétée par un mastère spécialisé en finance.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'école supérieure de commerce et de gestion spécialisé en finance de marché</itsimp>
+<itsimp>Diplôme d'ingénieur spécialisé en finance de marché</itsimp>
+<itsimp>Masters pro ou recherche spécialisé en finance ; marchés financiers ; banque : risques et marchés ; banque et finance ; opérations de marchés financiers </itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 6</tete>
+<itsimp>Mastères spécialisés en finance, finances internationales, finance des marchés</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="37504" csRelFld="37504">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37504</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100464</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Une carrière courte</inter>
+<p>Comme la plupart des métiers en salle de marché, le métier de salesman est extrêmement éprouvant psychologiquement. Pour cette raison, il est difficile d'occuper ce poste pendant toute une carrière. Après quelques années d'activité, la plupart des professionnels se reconvertissent dans des métiers plus calmes.</p>
+<inter>Reconversion possible</inter>
+<p>Le salesman peut devenir responsable de desk (bureau), pour encadrer des équipes de salesmans, ou encore trader. Avec de l'expérience, il peut également évoluer au sein des salles de marché, s'orienter vers le middle office ou le back office, ou encore se tourner vers la gestion de portefeuille ou toute autre fonction commerciale. Mais si les possibilités de reconversion sont multiples, elles exigent souvent de revoir à la baisse ses prétentions salariales.</p>
+<inter>Un secteur très masculin</inter>
+<p>75 % des opérateurs de marché, traders et salesmans confondus, sont des hommes. Une tendance très forte, donc.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>3300 </sal>à <sal>5000</sal> euros brut par mois pour un jeune cadre, auxquels s'ajoutent des primes sur résultats obtenus.</p>
+<postit>
+<p>Source : Apec (Agence pour l'emploi des cadres), novembre 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

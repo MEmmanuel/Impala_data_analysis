@@ -1,0 +1,995 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente de d\u00e9bit de mat\u00e9riaux",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de d\u00e9bit de mat\u00e9riaux",
+            "code_ogr": "10430"
+        },
+        {
+            "libelle_court": "Agent / Agente de d\u00e9coupage de mat\u00e9riaux",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de d\u00e9coupage de mat\u00e9riaux",
+            "code_ogr": "10434"
+        },
+        {
+            "libelle_court": "Chalumiste de d\u00e9coupage des m\u00e9taux",
+            "priorisation": "1",
+            "libelle": "Chalumiste de d\u00e9coupage des m\u00e9taux",
+            "code_ogr": "11730"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe de d\u00e9coupe",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe de d\u00e9coupe",
+            "code_ogr": "12408"
+        },
+        {
+            "libelle_court": "Cintreur / Cintreuse aluminium",
+            "priorisation": "1",
+            "libelle": "Cintreur / Cintreuse aluminium",
+            "code_ogr": "38937"
+        },
+        {
+            "libelle_court": "Cisailleur / Cisailleuse de forge",
+            "priorisation": "1",
+            "libelle": "Cisailleur / Cisailleuse de forge",
+            "code_ogr": "12645"
+        },
+        {
+            "libelle_court": "Cisailleur / Cisailleuse de laminoir",
+            "priorisation": "1",
+            "libelle": "Cisailleur / Cisailleuse de laminoir",
+            "code_ogr": "12646"
+        },
+        {
+            "libelle_court": "Cisailleur / Cisailleuse de mat\u00e9riaux",
+            "priorisation": "1",
+            "libelle": "Cisailleur / Cisailleuse de mat\u00e9riaux",
+            "code_ogr": "12647"
+        },
+        {
+            "libelle_court": "Cisailleur / Cisailleuse en m\u00e9tallurgie",
+            "priorisation": "1",
+            "libelle": "Cisailleur / Cisailleuse en m\u00e9tallurgie",
+            "code_ogr": "12648"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de cisaille",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de cisaille",
+            "code_ogr": "12922"
+        },
+        {
+            "libelle_court": "Conducteur(trice) ligne presse \u00e0 emboutir et d\u00e9couper m\u00e9taux",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de ligne de presse \u00e0 emboutir et \u00e0 d\u00e9couper des m\u00e9taux",
+            "code_ogr": "12984"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice d'\u00e9quipements de d\u00e9coupe",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice d'\u00e9quipements de d\u00e9coupe",
+            "code_ogr": "13263"
+        },
+        {
+            "libelle_court": "Conducteur(trice) r\u00e9gleur(se) sur presse \u00e0 d\u00e9couper",
+            "priorisation": "1",
+            "libelle": "Conducteur r\u00e9gleur / Conductrice r\u00e9gleuse sur presse \u00e0 d\u00e9couper",
+            "code_ogr": "13320"
+        },
+        {
+            "libelle_court": "Coupeur / Coupeuse au chalumeau",
+            "priorisation": "1",
+            "libelle": "Coupeur / Coupeuse au chalumeau",
+            "code_ogr": "13772"
+        },
+        {
+            "libelle_court": "Coupeur / Coupeuse de forge",
+            "priorisation": "1",
+            "libelle": "Coupeur / Coupeuse de forge",
+            "code_ogr": "13777"
+        },
+        {
+            "libelle_court": "Coupeur / Coupeuse de verre plat",
+            "priorisation": "1",
+            "libelle": "Coupeur / Coupeuse de verre plat",
+            "code_ogr": "13779"
+        },
+        {
+            "libelle_court": "Coupeur-rompeur / Coupeuse-rompeuse en verre plat",
+            "priorisation": "1",
+            "libelle": "Coupeur-rompeur / Coupeuse-rompeuse en verre plat",
+            "code_ogr": "13793"
+        },
+        {
+            "libelle_court": "D\u00e9biteur / D\u00e9bitrice de mat\u00e9riaux",
+            "priorisation": "1",
+            "libelle": "D\u00e9biteur / D\u00e9bitrice de mat\u00e9riaux",
+            "code_ogr": "13889"
+        },
+        {
+            "libelle_court": "D\u00e9coupeur / D\u00e9coupeuse de m\u00e9taux",
+            "priorisation": "1",
+            "libelle": "D\u00e9coupeur / D\u00e9coupeuse de m\u00e9taux",
+            "code_ogr": "13913"
+        },
+        {
+            "libelle_court": "Emboutisseur / Emboutisseuse",
+            "priorisation": "1",
+            "libelle": "Emboutisseur / Emboutisseuse",
+            "code_ogr": "14746"
+        },
+        {
+            "libelle_court": "Grignoteur / Grignoteuse",
+            "priorisation": "1",
+            "libelle": "Grignoteur / Grignoteuse",
+            "code_ogr": "15427"
+        },
+        {
+            "libelle_court": "Guillotineur / Guillotineuse",
+            "priorisation": "1",
+            "libelle": "Guillotineur / Guillotineuse",
+            "code_ogr": "15457"
+        },
+        {
+            "libelle_court": "Machiniste sur presse de formage des m\u00e9taux",
+            "priorisation": "1",
+            "libelle": "Machiniste sur presse de formage des m\u00e9taux",
+            "code_ogr": "16244"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice de cintreuse",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de cintreuse",
+            "code_ogr": "17069"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice de d\u00e9coupe en m\u00e9tallurgie",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de d\u00e9coupe en m\u00e9tallurgie",
+            "code_ogr": "17083"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice de plieuse",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de plieuse",
+            "code_ogr": "17134"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice de redresseur",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de redresseur",
+            "code_ogr": "17157"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice de rouleuse",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de rouleuse",
+            "code_ogr": "17159"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice d'emboutissage/d\u00e9coupe",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice d'emboutissage/d\u00e9coupe",
+            "code_ogr": "17181"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice en repoussage des m\u00e9taux",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice en repoussage des m\u00e9taux",
+            "code_ogr": "17212"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice planeuse",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice planeuse",
+            "code_ogr": "17248"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice sur cintreuse",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice sur cintreuse",
+            "code_ogr": "17281"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur/Op\u00e9ratrice machine \u00e0 d\u00e9couper au laser avec -CN-",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice sur machine \u00e0 d\u00e9couper au laser avec Commande Num\u00e9rique -CN-",
+            "code_ogr": "17288"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur/Op\u00e9ratrice machine \u00e0 d\u00e9couper au plasma avec CN",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice sur machine \u00e0 d\u00e9couper au plasma avec Commande Num\u00e9rique -CN-",
+            "code_ogr": "17289"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur/Op\u00e9ratrice sur machine \u00e0 d\u00e9couper par jet d'eau CN",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice sur machine \u00e0 d\u00e9couper par jet d'eau avec Commande Num\u00e9rique -CN-",
+            "code_ogr": "17290"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur(trice) machine \u00e0 emboutir et \u00e0 d\u00e9couper des m\u00e9taux",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice sur machine \u00e0 emboutir et \u00e0 d\u00e9couper des m\u00e9taux",
+            "code_ogr": "17291"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur/Op\u00e9ratrice sur machine de d\u00e9coupage \u00e0 CN",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice sur machine de d\u00e9coupage \u00e0 Commande Num\u00e9rique -CN-",
+            "code_ogr": "17296"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice sur machine de d\u00e9coupage de mat\u00e9riaux",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice sur machine de d\u00e9coupage de mat\u00e9riaux",
+            "code_ogr": "17297"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice sur machine transfert",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice sur machine transfert",
+            "code_ogr": "17310"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice sur presse \u00e0 d\u00e9couper/\u00e0 emboutir",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice sur presse \u00e0 d\u00e9couper/\u00e0 emboutir",
+            "code_ogr": "17333"
+        },
+        {
+            "libelle_court": "Oxycoupeur / Oxycoupeuse",
+            "priorisation": "1",
+            "libelle": "Oxycoupeur / Oxycoupeuse",
+            "code_ogr": "17542"
+        },
+        {
+            "libelle_court": "Oxycoupeur / Oxycoupeuse plasma",
+            "priorisation": "1",
+            "libelle": "Oxycoupeur / Oxycoupeuse plasma",
+            "code_ogr": "17543"
+        },
+        {
+            "libelle_court": "Oxycoupeur/Oxycoupeuse sur machine \u00e0 Commande Num\u00e9rique -CN-",
+            "priorisation": "1",
+            "libelle": "Oxycoupeur / Oxycoupeuse sur machine \u00e0 Commande Num\u00e9rique -CN-",
+            "code_ogr": "17544"
+        },
+        {
+            "libelle_court": "Oxycoupeur(se) machine \u00e0 lecture optique de mat\u00e9riaux",
+            "priorisation": "1",
+            "libelle": "Oxycoupeur / Oxycoupeuse sur machine \u00e0 lecture optique de mat\u00e9riaux",
+            "code_ogr": "17545"
+        },
+        {
+            "libelle_court": "Pilote d'installation d'emboutissage/d\u00e9coupe",
+            "priorisation": "1",
+            "libelle": "Pilote d'installation d'emboutissage/d\u00e9coupe",
+            "code_ogr": "17772"
+        },
+        {
+            "libelle_court": "Plieur / Plieuse de verre plat",
+            "priorisation": "1",
+            "libelle": "Plieur / Plieuse de verre plat",
+            "code_ogr": "17833"
+        },
+        {
+            "libelle_court": "Poin\u00e7onneur / Poin\u00e7onneuse",
+            "priorisation": "1",
+            "libelle": "Poin\u00e7onneur / Poin\u00e7onneuse",
+            "code_ogr": "17857"
+        },
+        {
+            "libelle_court": "Poin\u00e7onneur plieur / Poin\u00e7onneuse plieuse",
+            "priorisation": "1",
+            "libelle": "Poin\u00e7onneur plieur / Poin\u00e7onneuse plieuse",
+            "code_ogr": "17858"
+        },
+        {
+            "libelle_court": "Presseur / Presseuse du travail des m\u00e9taux",
+            "priorisation": "1",
+            "libelle": "Presseur / Presseuse du travail des m\u00e9taux",
+            "code_ogr": "18057"
+        },
+        {
+            "libelle_court": "Ressortier / Ressorti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Ressortier / Ressorti\u00e8re",
+            "code_ogr": "19213"
+        },
+        {
+            "libelle_court": "Scieur / Scieuse",
+            "priorisation": "1",
+            "libelle": "Scieur / Scieuse",
+            "code_ogr": "19323"
+        },
+        {
+            "libelle_court": "Tourneur-repousseur / Tourneuse-repousseuse",
+            "priorisation": "1",
+            "libelle": "Tourneur-repousseur / Tourneuse-repousseuse",
+            "code_ogr": "20389"
+        },
+        {
+            "libelle_court": "Tron\u00e7onneur / Tron\u00e7onneuse",
+            "priorisation": "1",
+            "libelle": "Tron\u00e7onneur / Tron\u00e7onneuse",
+            "code_ogr": "20465"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "V\u00e9rifier les \u00e9l\u00e9ments de s\u00e9curit\u00e9 sur les \u00e9quipements de production (machine outil, ligne de montage, ...)",
+            "code_ogr": "3466",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9lectionner la pi\u00e8ce (mat\u00e9riaux, formes, dimensions, ...) et identifier l'ordre et la r\u00e9partition des mises en forme ou d\u00e9coupes",
+            "code_ogr": "3147",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Positionner la pi\u00e8ce sur le support et r\u00e9aliser la mise en forme ou la coupe",
+            "code_ogr": "2546",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier les dysfonctionnements des \u00e9quipements et appliquer les mesures correctives",
+            "code_ogr": "2114",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'enl\u00e8vement des pi\u00e8ces r\u00e9alis\u00e9es, contr\u00f4ler la qualit\u00e9 et isoler les non-conformit\u00e9s",
+            "code_ogr": "1582",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports qualit\u00e9 et de suivi de production/r\u00e9alisation (incidents, interventions, ...)",
+            "code_ogr": "3068",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la maintenance pr\u00e9ventive/curative de premier niveau des \u00e9quipements",
+            "code_ogr": "3534",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "H2801",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de transformation du verre"
+        },
+        {
+            "code_rome_cible": "H2903",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement d'usinage"
+        },
+        {
+            "code_rome_cible": "H2904",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de d\u00e9formation des m\u00e9taux"
+        },
+        {
+            "code_rome_cible": "H2906",
+            "libelle_rome_cible": "Conduite d'installation automatis\u00e9e ou robotis\u00e9e de fabrication m\u00e9canique"
+        },
+        {
+            "code_rome_cible": "H2907",
+            "libelle_rome_cible": "Conduite d'installation de production des m\u00e9taux"
+        },
+        {
+            "code_rome_cible": "H2909",
+            "libelle_rome_cible": "Montage-assemblage m\u00e9canique"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac (Bac professionnel, Brevet Professionnel -BP-, ...) en m\u00e9canique, productique ou travail des m\u00e9taux.\nIl est \u00e9galement accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle.\nDes habilitations sp\u00e9cifiques (soudure, ...) peuvent \u00eatre demand\u00e9es.\nUn ou plusieurs Certificat(s) d'Aptitude \u00e0 la Conduite En S\u00e9curit\u00e9 -CACES- conditionn\u00e9(s) par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement peu(ven)t \u00eatre requis.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations de d\u00e9coupage ou de formage :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bobinage",
+            "code_ogr": "8586",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cintrage, cambrage",
+            "code_ogr": "8587",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9coupage (presse \u00e0 d\u00e9couper, ...)",
+            "code_ogr": "8589",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9tourage (d\u00e9toureuse, ...)",
+            "code_ogr": "8591",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Emboutissage (presse \u00e0 emboutir, ...)",
+            "code_ogr": "8594",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Grignotage (grignoteuse, ...)",
+            "code_ogr": "8596",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Oxyd\u00e9coupage (chalumeau, plasma, ...)",
+            "code_ogr": "8598",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pliage, roulage (plieuse, formeuse, ...)",
+            "code_ogr": "8601",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Poin\u00e7onnage (poin\u00e7onneuse, ...)",
+            "code_ogr": "8602",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Redressage",
+            "code_ogr": "8603",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "10",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Refendage (ligne de refendage, refendeuse, ...)",
+            "code_ogr": "8604",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "11",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Repoussage sur tour, fluotournage (tour \u00e0 repousser, ...)",
+            "code_ogr": "8605",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "12",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sciage, tron\u00e7onnage (cisaille, scie, ...)",
+            "code_ogr": "8608",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "13",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Former/d\u00e9couper un mat\u00e9riau sp\u00e9cifique :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bois, agglom\u00e9r\u00e9",
+            "code_ogr": "6076",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "M\u00e9taux ferreux",
+            "code_ogr": "6077",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "M\u00e9taux non-ferreux",
+            "code_ogr": "6078",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Min\u00e9raux, pierre",
+            "code_ogr": "6079",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Plastiques, composites, \u00e9lastom\u00e8res",
+            "code_ogr": "6080",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Verre",
+            "code_ogr": "6081",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Intervenir sur des mat\u00e9riaux de forme :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Barres",
+            "code_ogr": "7099",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Fils",
+            "code_ogr": "7100",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Plaques",
+            "code_ogr": "7101",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Profil\u00e9s, poutres, poutrelles",
+            "code_ogr": "7102",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "T\u00f4les \u00e9paisses",
+            "code_ogr": "7103",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "T\u00f4les fines",
+            "code_ogr": "7104",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tubes, couronnes",
+            "code_ogr": "7105",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-1 (Transpalettes \u00e0 conducteur port\u00e9 et pr\u00e9parateurs de commandes au sol)",
+            "code_ogr": "10122",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-3 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 inf\u00e9rieure ou \u00e9gale \u00e0 6000 kg)",
+            "code_ogr": "10124",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 318 (ponts roulants)",
+            "code_ogr": "10100",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tracer et reporter des donn\u00e9es de fabrication sur des mat\u00e9riaux",
+            "code_ogr": "9979",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9gler un \u00e9quipement ou s\u00e9lectionner le programme correspondant",
+            "code_ogr": "9514",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des op\u00e9rations de protection de pi\u00e8ces (traitement anticorrosion, masquage, emballage, ...)",
+            "code_ogr": "4982",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises industrielles, de chantiers navals en relation avec diff\u00e9rents services (maintenance, m\u00e9thodes, qualit\u00e9, ...).\nElle varie selon le secteur (a\u00e9ronautique, automobile, ...), l'organisation (\u00eelots, lignes, ...), le degr\u00e9 d'automatisation du site (cha\u00eene automatis\u00e9e, ...), le type d'\u00e9quipements (conventionnels, num\u00e9riques).\nElle peut s'exercer par roulement, les fins de semaine, jours f\u00e9ri\u00e9s ou de nuit.\nLe port d'Equipements de Protection Individuelle -EPI- (chaussures de s\u00e9curit\u00e9, gants, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de documents techniques",
+            "code_ogr": "20939",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils de m\u00e9trologie",
+            "code_ogr": "21160",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outillages manuels (cl\u00e9, pince, scie, ...)",
+            "code_ogr": "21465",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outillages \u00e9lectroportatifs (scie \u00e9lectrique, ponceuse, ...)",
+            "code_ogr": "21464",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'\u00e9quipement conventionnel, semi automatique",
+            "code_ogr": "21419",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de machines \u00e0 commandes num\u00e9riques",
+            "code_ogr": "21309",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciel de supervision",
+            "code_ogr": "21235",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de machine \u00e0 coupe laser",
+            "code_ogr": "21283",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de machine transfert",
+            "code_ogr": "21303",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de machine de coupe \u00e0 jet d'eau",
+            "code_ogr": "21293",
+            "position_item": "6",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de presse \u00e0 d\u00e9couper/emboutir",
+            "code_ogr": "21364",
+            "position_item": "7",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "A\u00e9ronautique, spatial",
+            "code_ogr": "23391",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Armement",
+            "code_ogr": "23404",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Automobile",
+            "code_ogr": "23410",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Construction navale",
+            "code_ogr": "23453",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electrom\u00e9nager",
+            "code_ogr": "23476",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ferroviaire",
+            "code_ogr": "23498",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Machinisme",
+            "code_ogr": "23544",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9canique, travail des m\u00e9taux",
+            "code_ogr": "23552",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9tallurgie, sid\u00e9rurgie",
+            "code_ogr": "23558",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Nautisme",
+            "code_ogr": "23567",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Optique, optronique",
+            "code_ogr": "23568",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Plasturgie, caoutchouc, composites",
+            "code_ogr": "23585",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sport et loisirs",
+            "code_ogr": "23640",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Transport/logistique",
+            "code_ogr": "23659",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Verre",
+            "code_ogr": "23668",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Verre, mat\u00e9riaux de construction",
+            "code_ogr": "23673",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9",
+            "code_ogr": "22621",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes qualit\u00e9",
+            "code_ogr": "22233",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de manutention et de levage",
+            "code_ogr": "22961",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de formage \u00e0 froid",
+            "code_ogr": "22914",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de d\u00e9coupe de mat\u00e9riaux",
+            "code_ogr": "22876",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9d\u00e9s d'oxyd\u00e9coupage",
+            "code_ogr": "22369",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'emballage et de conditionnement",
+            "code_ogr": "23192",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nProduit des pi\u00e8ces, \u00e9l\u00e9ments finis, semi-finis par d\u00e9coupe et mise en forme de plaques, t\u00f4les, profil\u00e9s, barres, tubes au moyen de machines conventionnelles ou \u00e0 commande num\u00e9rique, selon les r\u00e8gles de s\u00e9curit\u00e9 et les imp\u00e9ratifs de production (qualit\u00e9, d\u00e9lais, ...).\n",
+    "intitule": "Conduite d'\u00e9quipement de formage et d\u00e9coupage des mat\u00e9riaux",
+    "code_ogr": "282",
+    "code_rome": "H2905",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "H2503",
+            "libelle_rome_cible": "Pilotage d'unit\u00e9 \u00e9l\u00e9mentaire de production m\u00e9canique ou de travail des m\u00e9taux"
+        }
+    ]
+}

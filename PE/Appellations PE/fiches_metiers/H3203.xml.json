@@ -1,0 +1,505 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Aide-mouleur-stratifieur / Aide-mouleuse-stratifieuse",
+            "priorisation": "1",
+            "libelle": "Aide-mouleur-stratifieur / Aide-mouleuse-stratifieuse",
+            "code_ogr": "10883"
+        },
+        {
+            "libelle_court": "Applicateur stratifieur / Applicatrice stratifieuse",
+            "priorisation": "1",
+            "libelle": "Applicateur stratifieur / Applicatrice stratifieuse",
+            "code_ogr": "11093"
+        },
+        {
+            "libelle_court": "Drapeur / Drapeuse",
+            "priorisation": "1",
+            "libelle": "Drapeur / Drapeuse",
+            "code_ogr": "14530"
+        },
+        {
+            "libelle_court": "Mouleur / Mouleuse en stratifi\u00e9s",
+            "priorisation": "1",
+            "libelle": "Mouleur / Mouleuse en stratifi\u00e9s",
+            "code_ogr": "16913"
+        },
+        {
+            "libelle_court": "Mouleur-stratifieur / Mouleuse-stratifieuse",
+            "priorisation": "1",
+            "libelle": "Mouleur-stratifieur / Mouleuse-stratifieuse",
+            "code_ogr": "16920"
+        },
+        {
+            "libelle_court": "Mouleur(se)-stratifieur(se) en thermodurcissables",
+            "priorisation": "1",
+            "libelle": "Mouleur-stratifieur / Mouleuse-stratifieuse en thermodurcissables",
+            "code_ogr": "16921"
+        },
+        {
+            "libelle_court": "Mouliste drapeur / drapeuse",
+            "priorisation": "1",
+            "libelle": "Mouliste drapeur / drapeuse",
+            "code_ogr": "16927"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice en mat\u00e9riaux composites",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice en mat\u00e9riaux composites",
+            "code_ogr": "17203"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice en stratification",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice en stratification",
+            "code_ogr": "17219"
+        },
+        {
+            "libelle_court": "Prototypiste en stratifi\u00e9s",
+            "priorisation": "1",
+            "libelle": "Prototypiste en stratifi\u00e9s",
+            "code_ogr": "18219"
+        },
+        {
+            "libelle_court": "Stratifieur / Stratifieuse",
+            "priorisation": "1",
+            "libelle": "Stratifieur / Stratifieuse",
+            "code_ogr": "19533"
+        },
+        {
+            "libelle_court": "Stratifieur / Stratifieuse en mat\u00e9riaux composites",
+            "priorisation": "1",
+            "libelle": "Stratifieur / Stratifieuse en mat\u00e9riaux composites",
+            "code_ogr": "19535"
+        },
+        {
+            "libelle_court": "Stratifieur / Stratifieuse mouliste",
+            "priorisation": "1",
+            "libelle": "Stratifieur / Stratifieuse mouliste",
+            "code_ogr": "19536"
+        },
+        {
+            "libelle_court": "Stratifieur drapeur / Stratifieuse drapeuse",
+            "priorisation": "1",
+            "libelle": "Stratifieur drapeur / Stratifieuse drapeuse",
+            "code_ogr": "19534"
+        },
+        {
+            "libelle_court": "Stratifieur(se)-usineur(se)-finisseur(se)",
+            "priorisation": "1",
+            "libelle": "Stratifieur-usineur-finisseur / Stratifieuse-usineuse-finisseuse",
+            "code_ogr": "19537"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier l'intervention et les modes op\u00e9ratoires \u00e0 partir des documents techniques",
+            "code_ogr": "2152",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Couper les renforts (tissus, ...) \u00e0 dimension et pr\u00e9parer la vari\u00e9t\u00e9 et la quantit\u00e9 de r\u00e9sine appropri\u00e9es \u00e0 la fabrication de la pi\u00e8ce",
+            "code_ogr": "1208",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Enduire le support (moule, forme, mod\u00e8le, ...) de cire \u00e0 d\u00e9mouler et le rev\u00eatir d'une protection (gel-coat, tissu d'arrachage, ...)",
+            "code_ogr": "1790",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Disposer les feuilles de renfort par couches au contact sur le support et impr\u00e9gner les renforts de r\u00e9sine",
+            "code_ogr": "1483",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Positionner les inserts (bois, plastique, m\u00e9tal, nid d'abeille, ...) entre les plis",
+            "code_ogr": "2550",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chasser les bulles d'air au rouleau selon la g\u00e9om\u00e9trie et la technicit\u00e9 des pi\u00e8ces",
+            "code_ogr": "817",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9poser la pi\u00e8ce dans le local de s\u00e9chage, le four, l'\u00e9tuve et s\u00e9lectionner ou contr\u00f4ler les cycles de traitement de solidification",
+            "code_ogr": "1356",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9mouler la pi\u00e8ce, la prot\u00e9ger et l'entreposer avant usinage",
+            "code_ogr": "1352",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "H3402",
+            "libelle_rome_cible": "Conduite de traitement par d\u00e9p\u00f4t de surface"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac (professionnel, ...) dans le secteur de la stratification.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans un m\u00e9tier manuel (m\u00e9canique, menuiserie, ...) sans dipl\u00f4me particulier.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Modifier les formes d'un moule ou d'un mod\u00e8le de fabrication de pi\u00e8ces en mat\u00e9riaux composites",
+            "code_ogr": "7573",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Densifier la structure d'un mat\u00e9riau composite par compactage de plis",
+            "code_ogr": "4607",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la conformit\u00e9 d'une pi\u00e8ce en mat\u00e9riaux composites et identifier les \u00e9carts",
+            "code_ogr": "4217",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9finir les traitements de pi\u00e8ces en mat\u00e9riaux composites en fonction des d\u00e9fauts (choc, bulle, manque, fissure, rayure, ...)",
+            "code_ogr": "4553",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser la finition d'une pi\u00e8ce en mat\u00e9riaux composites",
+            "code_ogr": "9155",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Positionner et fixer des pi\u00e8ces en mat\u00e9riaux composites entre elles ou avec des accessoires",
+            "code_ogr": "7895",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports de suivi d'activit\u00e9 et transmettre les informations au service concern\u00e9",
+            "code_ogr": "3600",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprise industrielle ou artisanale en relation avec diff\u00e9rents services (bureau d'\u00e9tudes, m\u00e9thodes, contr\u00f4le qualit\u00e9, ...). Elle peut impliquer des d\u00e9placements sur des chantiers (moulage sur site, installation, r\u00e9paration, ...).\nElle varie selon le secteur (fabrication de pi\u00e8ces en mati\u00e8re plastique, commerce de d\u00e9tail d'articles de sports et de loisirs, ...).\nL'activit\u00e9 s'effectue en atelier ou \u00e0 l'ext\u00e9rieur, en environnement allerg\u00e8ne ou inflammable.\nLe port d'Equipements de Protection Individuelle -EPI- (masque, gants, lunettes de protection, ...) est exig\u00e9.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan",
+            "code_ogr": "20946",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de gabarit",
+            "code_ogr": "21218",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Calcul dimensionnel (surface, volume, ...)",
+            "code_ogr": "20808",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de pompe \u00e0 vide",
+            "code_ogr": "21360",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils de m\u00e9trologie",
+            "code_ogr": "21160",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "D\u00e9tourage",
+            "code_ogr": "20855",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pon\u00e7age",
+            "code_ogr": "21028",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outillages \u00e9lectroportatifs (scie \u00e9lectrique, ponceuse, ...)",
+            "code_ogr": "21464",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Boutique, commerce de d\u00e9tail",
+            "code_ogr": "23725",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise artisanale",
+            "code_ogr": "23870",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "A\u00e9ronautique, spatial",
+            "code_ogr": "23391",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Automobile",
+            "code_ogr": "23410",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Construction navale",
+            "code_ogr": "23453",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ferroviaire",
+            "code_ogr": "23498",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Nautisme",
+            "code_ogr": "23567",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Plasturgie, caoutchouc, composites",
+            "code_ogr": "23585",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sport et loisirs",
+            "code_ogr": "23640",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des fibres, r\u00e9sines, colles",
+            "code_ogr": "21594",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de positionnement de renforts",
+            "code_ogr": "23052",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'impr\u00e9gnation des mat\u00e9riaux composites",
+            "code_ogr": "23222",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de moulage",
+            "code_ogr": "23005",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de projection simultan\u00e9e",
+            "code_ogr": "23068",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'injection basse pression",
+            "code_ogr": "23226",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'injection sous vide",
+            "code_ogr": "23228",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9",
+            "code_ogr": "22621",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de d\u00e9moulage",
+            "code_ogr": "22884",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de manipulation de produits toxiques",
+            "code_ogr": "22611",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de tra\u00e7age",
+            "code_ogr": "23149",
+            "position_item": "11",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des tissus et mati\u00e8res textiles",
+            "code_ogr": "21665",
+            "position_item": "12",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'usinage",
+            "code_ogr": "23243",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'\u00e9barbage",
+            "code_ogr": "23174",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Rivetage",
+            "code_ogr": "22675",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de collage",
+            "code_ogr": "22837",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nFabrique manuellement ou \u00e0 l'aide d'appareils, \u00e0 l'unit\u00e9 ou en petites s\u00e9ries, des pi\u00e8ces en mat\u00e9riaux composites selon divers proc\u00e9d\u00e9s de stratification sur moule ou mod\u00e8le.\nIntervient selon les r\u00e8gles de s\u00e9curit\u00e9 et les imp\u00e9ratifs de production (d\u00e9lais, qualit\u00e9, ...).\nPeut r\u00e9aliser des op\u00e9rations de parach\u00e8vement des pi\u00e8ces.\n",
+    "intitule": "Fabrication de pi\u00e8ces en mat\u00e9riaux composites",
+    "code_ogr": "296",
+    "code_rome": "H3203",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "H2908",
+            "libelle_rome_cible": "Modelage de mat\u00e9riaux non m\u00e9talliques"
+        },
+        {
+            "code_rome_cible": "H3201",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de formage des plastiques et caoutchoucs"
+        },
+        {
+            "code_rome_cible": "H3404",
+            "libelle_rome_cible": "Peinture industrielle"
+        }
+    ]
+}

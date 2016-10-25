@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">tapissier/ère d'ameublement </MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un métier artistique ou créatif/exercer un travail manuel/travailler un matériau</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/artisan</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie de l'ameublement/secteur artisanat d'art/secteur des arts du spectacle/secteur culture et patrimoine</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">tapisserie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE arts appliqués arts du spectacle/tapissier d'ameublement</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10403</lien_onisep>
+<ROME Level="1B" csRelFld="10403">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="64" csRelFld="64">
+<CSLABELFLD label="">B1806</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Tissu et cuirs</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">B1806</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Tapisserie - décoration en ameublement</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10403">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16773" csRelFld="16773">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16773</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10403</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Travailler à la commande</inter>
+<p>C'est à partir de la demande d'un client ou des indications d'un architecte d'intérieur que le tapissier d'ameublement habille et/ou restaure les sièges, et conçoit d'autres pièces d'ameublement (rideaux, literie&#8230;). Il commence par établir un devis, puis effectue les différents travaux nécessaires en utilisant de nombreux matériaux : soie, ouate, cuir, mousse, crin, etc. </p>
+<inter>Restauration de meubles</inter>
+<p>Après avoir soigneusement démonté et mis à nu le meuble à rénover (siège, banquette, fauteuil&#8230;), le tapissier le débarrasse de son ancien garnissage et effectue des mesures. Puis il le regarnit et procède à son habillage, en veillant à conserver le style de l'ouvrage.</p>
+<inter>Décoration intérieure</inter>
+<p>Le tapissier décorateur habille les fenêtres et les murs après avoir confectionné des tentures, voilages, embrasses, rideaux ou stores (réalisés à la main ou à la machine). Il prépare, coupe, assemble et coud tous les éléments textiles du décor.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17709" csRelFld="17709">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17709</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10403</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Le niveau CAP (certificat d'aptitude professionnelle) est suffisant pour exercer ce métier.</accr_p>Toutefois, une formation complémentaire permet de se spécialiser ou de s'installer à son compte.</p>
+<liste>
+<tete>Après la 3<exp>e</exp>
+</tete>
+<itsimp>CAP cannage paillage en ameublement</itsimp>
+<itsimp>CAP tapissier d'ameublement en décor </itsimp>
+<itsimp>CAP tapissier d'ameublement en siège </itsimp>
+<itsimp>MC (mention complémentaire) décors textiles permanents et éphémères</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac </tete>
+<itsimp>Bac pro artisanat et métiers d'art, option tapisserie d'ameublement </itsimp>
+<itsimp>BP (brevet professionnel) ameublement, option tapisserie décoration </itsimp>
+<itsimp>BTM (brevet technique des métiers) tapissier décorateur, options couture ; garniture</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2 </tete>
+<itsimp>DMA (diplôme des métiers d'art) arts de l'habitat, option décors et mobiliers</itsimp>
+<itsimp>DMA arts textiles et céramiques, option arts textiles</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17706" csRelFld="17706">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17706</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10403</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Une majorité d'artisans</inter>
+<p>L'essentiel de l'activité du tapissier se situe dans la restauration et non dans la fabrication : il est majoritairement employé par de petits artisans. Il peut aussi travailler dans les entreprises de fabrication de mobilier, même si les emplois dans ce secteur sont rares.</p>
+<inter>Activité complémentaire</inter>
+<p>L'intérêt grandissant pour la décoration d'intérieur confronte le tapissier à la concurrence des professionnels du bâtiment qui se sont perfectionnés dans la pose de tissus et de tentures. Cela le contraint souvent à développer une activité commerciale (vente de meubles, de tissus d'ameublement&#8230;) ou de conseil en aménagement d'intérieur.</p>
+<inter>S'installer à son compte</inter>
+<p>Après avoir travaillé quelques années en tant que salarié, un tapissier peut s'installer à son compte ou reprendre une entreprise. Il y a actuellement 3 500 entreprises artisanales de tapisserie d'ameublement.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>Smic</sal>.</p>
+<postit>
+<p>Source : convention collective de la fabrication de l'ameublement, 2011.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

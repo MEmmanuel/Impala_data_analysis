@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">libraire</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire du commerce/aider, conseiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/indépendant</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur commerce/secteur édition - presse</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">librairie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques de la communication média/libraire</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10080</lien_onisep>
+<ROME Level="1B" csRelFld="10080">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="116" csRelFld="116">
+<CSLABELFLD label="">D1211</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Commerce non alimentaire et de prestations de confort</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">D1211</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Vente en articles de sport et loisirs</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10080">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17936" csRelFld="17936">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17936</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10080</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Sélectionner les ouvrages</inter>
+<p>Par des canaux d'information professionnels ou en recevant les représentants des maisons d'édition, le libraire se tient au courant des parutions à venir. Il commande des nouveautés, mais travaille aussi sur son fonds pour proposer un choix de livres moins récents adapté à sa clientèle.</p>
+<inter>Gérer le stock</inter>
+<p>Administrateur confirmé, il assume toutes les tâches liées à la gestion des stocks (commandes, inventaire, retour des invendus...). Il doit également réceptionner les cartons de livres, les déballer, les trier et les disposer dans les rayons du magasin. </p>
+<inter>Conseiller, animer</inter>
+<p>Le libraire exerce un rôle fondamental d'accueil et de conseil. La clientèle, souvent exigeante, attend de lui une bonne dose de culture générale, qu'il se tienne au courant de l'actualité littéraire, qu'il organise régulièrement des animations : vitrines thématiques, rencontres avec des auteurs&#8230; Il s'intéresse également au multimédia à connotation culturelle.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17952" csRelFld="17952">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17952</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10080</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Aucun diplôme n'est exigé pour exercer la profession.</accr_p> La fonction tend toutefois à réclamer un niveau d'études correspondant à un bac + 2. Culture littéraire et sens commercial sont indispensables.</p>
+<liste>
+<tete>Après la 3<exp>e</exp>
+</tete>
+<itsimp>CAP (certificat d'aptitude professionnelle) employé de vente spécialisé, option D produits de librairie-papeterie-presse</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>BP (brevet professionnel) libraire </itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>DUT (diplôme universitaire de technologie) information-communication, option métiers du livre et du patrimoine</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence pro métiers du livre : édition et commerce du livre</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master Métiers du livre et de l'édition</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17962" csRelFld="17962">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17962</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10080</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Commerçant avant tout</inter>
+<p>Quel que soit son niveau de formation, l'apprenti libraire commence le plus souvent sa carrière en tant que vendeur débutant : il renseigne la clientèle, surveille les réassortiments et signale les livres manquants. Avec de l'expérience, il deviendra vendeur qualifié. Il pourra ensuite prendre la direction d'un secteur (littérature, histoire&#8230;) : en tant que chef de rayon, il sera ainsi spécialisé dans un domaine donné. Au sommet de la hiérarchie : le poste de directeur de la librairie&#8230; ou la perspective d'ouvrir son propre commerce.</p>
+<inter>Créer son emploi...</inter>
+<p>Les perspectives d'évolution de carrière restent réduites. La création, le rachat ou la rénovation d'une librairie nécessitent un lourd investissement financier. Il faut, de plus, pouvoir résister à la rude concurrence de la grande distribution, des librairies-papeteries, des maisons de la presse, des clubs et soldeurs, de la vente par correspondance (22 % des ventes de livres), d'Internet&#8230;</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Smic.</p>
+<postit>
+<p>Source : Syndicat de la librairie française, février 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

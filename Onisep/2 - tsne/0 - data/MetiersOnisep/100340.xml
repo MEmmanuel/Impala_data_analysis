@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">chercheur/euse en biologie</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire de la recherche</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction recherche appliquée/fonction recherche fondamentale</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur recherche/secteur industrie pharmaceutique/secteur fonction publique/secteur santé/secteur de l'éducation/secteur industrie agroalimentaire/secteur environnement</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">biologie cellulaire/biologie moléculaire/génétique/physiologie humaine/physiologie végétale/santé</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit/chercheur en biologie</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100340</lien_onisep>
+<ROME Level="1B" csRelFld="100340">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="411" csRelFld="411">
+<CSLABELFLD label="">J1201</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Praticiens médico-techniques</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">J1201</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Biologie médicale</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100340">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="31324" csRelFld="31324">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31324</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100340</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Étudier le vivant</inter>
+<p>Le chercheur en biologie est un scientifique de haut niveau qui étudie le vivant. Spécialisé dans un domaine (embryologie, zoologie, botanique, génomique&#8230;), il s'intéresse à une thématique spécifique et produit de nouveaux savoirs qui contribuent aux progrès de la science. Dans le domaine de la génomique, par exemple, les travaux de recherche peuvent permettre aux médecins d'envisager de nouveaux traitements contre le cancer et à l'industrie pharmaceutique d'élaborer des biomédicaments. </p>
+<inter>Créer son champ d'investigation</inter>
+<p>Quel que soit le type de recherche (fondamentale ou appliquée), la démarche du biologiste est toujours la même : il définit son champ d'investigation, effectue des expérimentations, dépouille les résultats obtenus et en fait une analyse critique&#8230; qui débouche généralement sur de nouvelles interrogations et de nouvelles recherches !</p>
+<inter>Échanger pour avancer</inter>
+<p>Les échanges scientifiques tiennent une place primordiale dans l'activité du chercheur : il participe régulièrement à des colloques nationaux et internationaux qui lui permettent de partager ses connaissances et de les étoffer. Il consacre également beaucoup de temps à la lecture de publications scientifiques et à la rédaction d'articles visant à faire connaître ses travaux. En effet, publier est primordial, car la recherche est un secteur particulièrement compétitif. Enfin, le biologiste peut aussi enseigner à l'université.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="31328" csRelFld="31328">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31328</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100340</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>L'obtention d'un doctorat est incontournable pour accéder au métier de chercheur.</accr_p> Après une licence, on peut décider de poursuivre par un master recherche ou par un diplôme équivalent (diplôme d'ingénieur, par exemple). Pour le doctorat, il faut choisir soigneusement son sujet de thèse et trouver un laboratoire d'accueil. Une fois le diplôme obtenu, il est possible de compléter son cursus par une expérience professionnelle de post-doctorat, en France ou à l'étranger. Mission scientifique, à durée déterminée et rémunérée, le post-doctorat est recommandé, car il constitue un atout lors des concours et recrutements.</p>
+<liste>
+<tete>Niveau bac + 3 </tete>
+<itsimp>Licence ou licence pro mention biologie, biologie-biochimie, biologie-santé, biologie-écologie, chimie et biologie&#8230;</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master recherche spécialisé dans un domaine précis de la biologie : biologie cellulaire et moléculaire, physiologie, génétique, génomique et protéomique, pharmacologie, biologie végétale ou animale, nutrition... </itsimp>
+<itsimp>Diplôme d'école d'ingénieurs</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 8 </tete>
+<itsimp>Doctorat (possibilité de réaliser sa thèse au sein d'une entreprise dans le cadre d'une convention CIFRE ; convention industrielle de formation par la recherche)</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="31326" csRelFld="31326">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31326</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100340</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des débuts difficiles</inter>
+<p>L'insertion professionnelle des chercheurs est assez difficile. La plupart d'entre eux se voient proposer des missions ponctuelles donnant lieu à des CCD (contrats à durée déterminée). Le secteur public effectue la majorité des recrutements, mais les concours sont très sélectifs, et les emplois proposés, souvent précaires. Les biologistes peinent donc à trouver un emploi stable.  </p>
+<inter>Des besoins en innovation</inter>
+<p>Malgré de gros besoins en innovation, la recherche-développement en biologie souffre d'un manque de financement. Elle profite cependant de la création de pôles de compétitivité (associations d'entreprises, de centres de recherche et d'organismes de formation destinées à dégager des synergies autour de projets innovants) consacrés notamment à l'agroalimentaire, aux biotechnologies, à la santé, aux biothérapies&#8230;</p>
+<inter>Évoluer vers l'encadrement</inter>
+<p>Avec l'expérience, un chercheur en biologie peut se voir confier des missions d'encadrement, et évoluer vers la direction d'une unité de recherche ou d'un laboratoire.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2100</sal> euros brut par mois.</p>
+<postit>
+<p>Source : grille indiciaire des salaires de la fonction publique, 2011.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

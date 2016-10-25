@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">animateur/trice du patrimoine</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">informer, communiquer/animer des activités culturelles, ludiques ou éducatives</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction animation</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique/secteur culture et patrimoine</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">animation tourisme/tourisme culturel/animation du patrimoine/valorisation du patrimoine culturel</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE hôtellerie restauration tourisme loisirs/animateur du patrimoine</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100419</lien_onisep>
+<ROME Level="1B" csRelFld="100419">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="218" csRelFld="218">
+<CSLABELFLD label="">G1102</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Accueil et promotion touristique</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">G1102</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Promotion du tourisme local</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="476" csRelFld="476">
+<CSLABELFLD label="">K1602</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Culture et gestion documentaire</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K1602</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Gestion de patrimoine culturel</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100419">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="36123" csRelFld="36123">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36123</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100419</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Sensibiliser les publics</inter>
+<p>Communes méconnues, monuments oubliés, sites naturels remarquables : l'animateur du patrimoine a pour mission de leur redonner vie. Comment ? En reconnaissant leur valeur historique et artistique afin de développer ou d'augmenter leur taux de fréquentation. Pour cela, il conçoit des circuits, des visites touristiques classiques ou originales (balades nocturnes, ateliers de découverte d'une époque particulière...). Ou met sur pied des expositions, des projets pédagogiques avec des groupes scolaires (planter des fleurs à l'emplacement d'un ancien jardin, créer la maquette du quartier d'une ville...).</p>
+<inter>Valoriser le patrimoine</inter>
+<p>La mission de l'animateur du patrimoine s'inscrit dans un objectif de valorisation du patrimoine. Il cherche à faire connaître les lieux ou les monuments auprès du grand public, mais aussi auprès des associations locales, des collectivités territoriales, etc. En bon communicant, l'animateur du patrimoine édite des publications, réalise des programmes, plaquettes d'information, répond aux questions des journalistes, etc. C'est encore lui qui forme et encadre les guides conférenciers.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36127" csRelFld="36127">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36127</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100419</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Pour devenir animateur du patrimoine, le minimum requis est un bac + 3, si possible en histoire de l'art. Mais d'autres disciplines sont possibles : histoire, archéologie, patrimoine, arts... Il est néanmoins conseillé d'avoir un bac + 5 pour réussir les concours d'attaché de conservation et d'animateur de l'architecture et du patrimoine.</accr_p>
+</p>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>
+<em>Licence histoire de l'art et archéologie</em>
+</itsimp>
+<itsimp>
+<em>Licence pro</em> mentions protection et valorisation du patrimoine historique et culturel ; métiers de l'information : archives, médiation et patrimoine </itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>
+<em>Masters pro</em> mentions patrimoine et musées ; histoire, civilisations, patrimoine ; techniques, patrimoine, territoires de l'industrie : histoire, valorisation, didactique ; conservation-restauration des biens culturels...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36125" csRelFld="36125">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36125</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100419</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Croissance mesurée</inter>
+<p>Phénomène de mode ou métier d'avenir ? Les animateurs du patrimoine s'inscrivent dans ce mouvement de retour au tourisme de proximité et de redécouverte des charmes d'antan des villes de France comme du patrimoine naturel. La Direction générale des patrimoines du ministère de la Culture signe au compte-gouttes les conventions à l'origine des villes et pays d'art et d'histoire. En 2011, on dénombrait 163 villes et pays « labellisés ».</p>
+<inter>Sur tout le territoire</inter>
+<p>Concarneau, Millau, Sartène... les postes nouvellement créés concernent l'ensemble du territoire. En 2011, on compte moins d'une dizaine d'ouvertures de postes. Pour en obtenir un, il faut passer le concours d'animateur de l'architecture et du patrimoine, ouvert par une collectivité. Ce concours est accessible aux attachés de conservation titulaires. Placés sous la tutelle de la Direction générale des patrimoines, les postes sont soumis à la réglementation de la fonction publique territoriale.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir de <sal>1615</sal> euros brut par mois.</p>
+<postit>
+<p>Source : grilles indiciaires de la fonction publique territoriale (indice 1 majoré).</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e technico-commercial/e en informatique</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire du commerce/convaincre, négocier/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction technico commercial</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur sociétés de service et de conseil en informatique/secteur des télécommunications/secteur commerce</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">informatique/technico-commercial</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé/technico-commercial en informatique</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100364</lien_onisep>
+<ROME Level="1B" csRelFld="100364">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="129" csRelFld="129">
+<CSLABELFLD label="">D1407</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Force de vente</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">D1407</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Relation technico-commerciale</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100364">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1560" csRelFld="1560">
+<CSLABELFLD label="">ingénieur / ingénieure avant-vente</CSLABELFLD>
+<MET_ID label="Identifiant">100364</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">02/03/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1560</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">ingénieur/e avant-vente</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1560">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1561" csRelFld="1561">
+<CSLABELFLD label="">ingénieur chargé d'affaires / ingénieure chargée d'affaires</CSLABELFLD>
+<MET_ID label="Identifiant">100364</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">02/03/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1561</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">ingénieur/e chargée d'affaires</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1561">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="32005" csRelFld="32005">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">32005</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100364</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Avant et après la vente</inter>
+<p>Avant la vente, la principale mission de l'ingénieur technico-commercial en informatique consiste à seconder le commercial, afin de convaincre techniquement un client pour que celui-ci achète du matériel, des logiciels ou des prestations informatiques, adaptés à ses besoins. Après la vente, l'ingénieur technico-commercial supervise la réalisation du projet jusqu'à son terme, afin de donner entière satisfaction au client.</p>
+<inter>Technicien et commercial</inter>
+<p>L'ingénieur technico-commercial en informatique ne fait pas que du chiffre ! Toujours informé des évolutions techniques, il connaît parfaitement les produits ou les prestations offerts par son entreprise, ainsi que ceux de la concurrence. Ses arguments techniques lui permettent de démontrer aux clients (entreprises, administrations, etc.) que leur investissement sera réellement utile pour améliorer leurs performances. Commercial, il est capable d'adapter son offre à la demande en fonction de la concurrence. Et surtout, il sait mettre en confiance la clientèle pour la satisfaire et la fidéliser.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="32009" csRelFld="32009">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">32009</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100364</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Les parcours de formation les plus appréciés des recruteurs sont les cursus hybrides en technologie et management/vente, proposés conjointement par une école d'ingénieurs et une école de commerce, afin d'acquérir une double compétence. Par exemple : Télécom ParisTech avec l'Essec ; mastère spécialisé chargé d'affaires en technologies de l'information proposé par l'ESC Rennes et Supélec. Les écoles privées spécialisées en informatique sont nombreuses et de niveau inégal.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'école supérieure de commerce</itsimp>
+<itsimp>Diplôme d'ingénieur avec spécialisation en commerce, vente, informatique</itsimp>
+<itsimp>Master mention MIAGE (méthodes informatiques appliquées à la gestion des entreprises)</itsimp>
+<itsimp>Master des IAE (instituts d'administration des entreprises)</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="32007" csRelFld="32007">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">32007</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100364</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des postes à pourvoir</inter>
+<p>Les perspectives de recrutement des ingénieurs technico-commerciaux en informatique sont favorables. Le secteur se porte plutôt bien sur le plan économique car les investissements informatiques des entreprises et des administrations ne faiblissent pas, avec la révolution numérique et le développement du <etranger>cloud computing</etranger> (externalisation des services <etranger>via</etranger> Internet). </p>
+<inter>Spécialisations possibles</inter>
+<p>L'ingénieur technico-commercial en informatique peut se spécialiser dans l'après-vente : dans ce cas, il devient chargé d'affaires. Son rôle est alors d'informer et de conseiller le client quant à l'utilisation du produit vendu (logiciels, etc.). À l'aise dans le cadre des négociations avec les clients, il peut s'orienter vers le poste d'ingénieur commercial " pur ".</p>
+<inter>Plus de responsabilités</inter>
+<p>L'ingénieur technico-commercial en informatique peut également se diriger vers des fonctions similaires mais où les responsabilités commerciales sont plus importantes. C'est le cas de l'ingénieur d'affaires qui prend en charge la vente d'un ensemble de produits informatiques en pilotant à la fois le travail des ingénieurs commerciaux et celui des ingénieurs technico-commerciaux.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2500</sal> euros brut par mois. </p>
+<postit>
+<p>Source : Apec, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

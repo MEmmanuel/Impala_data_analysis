@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">coordonnateur/trice d'études cliniques</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe/contrôler la qualité, expertiser</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction encadrement - coordination</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie pharmaceutique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">pharmacie industrielle/pharmacie/biologie humaine</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE matériaux laboratoire organisation industrielle</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100607</lien_onisep>
+<ROME Level="1B" csRelFld="100607">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="265" csRelFld="265">
+<CSLABELFLD label="">H1206</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception, recherche, études et développement</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H1206</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie études, recherche et développement industriel</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100607">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="55954" csRelFld="55954">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55954</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100607</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter> Superviser les études </inter>
+<p> Planification d'études internationales, coordination du travail des attachés de recherche clinique (ARC), gestion des budgets... autant d'attributions du coordonnateur d'études cliniques. Il participe à l'élaboration des protocoles, met au point l'ensemble du matériel de l'étude (élaboration d'un cahier d'observation, d'une brochure investigateur...) et veille à la bonne organisation de l'étude (en termes de monitoring, de biologie...). Ensuite, il met en place l'étude (sélection et ouverture des centres de test) et s'assure de son bon déroulement, en collaboration avec les services des affaires réglementaires, biométrie, assurance qualité... Il contrôle la qualité des cahiers d'observation CRF (Case Report Form) et valide la base de données, assure le rapatriement du matériel de l'étude, des unités thérapeutiques non consommées... </p>
+<inter> En interne ou en externe</inter>
+<p> Le département de recherche clinique d'un labo pharmaceutique possède tous les services nécessaires à la bonne réalisation d'un essai clinique. Cependant, les organismes de contrôle du médicament exigent parfois qu'une étude soit réalisée par des prestataires externes, pour garantir l'indépendance des données. Le coordonnateur d'études cliniques fait alors un appel d'offres pour choisir le prestataire. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55958" csRelFld="55958">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55958</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100607</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p> Le niveau de formation se situe à partir de bac + 5, assorti d'une solide expérience dans le domaine de la biologie-santé. </p>
+<liste>
+<tete> Niveau bac + 5 </tete>
+<itsimp>Master sciences du médicament, essais cliniques et développement du médicament, génie cellulaire...</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 6</tete>
+<itsimp>Diplôme d'État (DE) de docteur en pharmacie</itsimp>
+</liste>
+<liste>
+<tete> Niveau bac + 9 et plus </tete>
+<itsimp>Diplôme d'État (DE) de docteur en médecine </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55956" csRelFld="55956">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55956</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100607</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter> Dans l'industrie pharmaceutique </inter>
+<p> Le coordonnateur d'études cliniques exerce dans l'industrie pharmaceutique. Il travaille soit dans un laboratoire pharmaceutique, soit dans une société de services spécialisée dans les essais cliniques (CRO : Contract Research Organization). </p>
+<p>La France reste l'un des premiers producteurs de médicaments en Europe. Toutefois, la situation se tend en termes de recrutement. Selon la fédération Leem (Les Entreprises du médicament), l'industrie a connu une baisse de ses effectifs. Paradoxalement, les entreprises du médicament rencontrent des difficultés de recrutement pour certains métiers en recherche et développement ou pour les diplômes de pharmacien ou de médecin. </p>
+<p>Il existe aussi des possibilités d'embauche dans les pays proches (Suisse, Allemagne, Belgique, Danemark...). </p>
+<inter> La France et la recherche clinique</inter>
+<p> La France demeure un pays attractif pour la recherche clinique internationale. Ses domaines d'excellence sont notamment les phases précoces de développement : la phase I qui consiste à prouver la sécurité de l'étude d'un nouveau médicament et la phase II qui consiste à faire des essais pour déterminer la dose de médicament que l'on devrait prescrire. Elle est aussi performante dans l'étude des cancers et la mise au point de vaccins. </p>
+<remun>
+<inter> Salaire du débutant </inter>
+<p>Salaire variable en fonction du lieu d'exercice et du type d'entreprise.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

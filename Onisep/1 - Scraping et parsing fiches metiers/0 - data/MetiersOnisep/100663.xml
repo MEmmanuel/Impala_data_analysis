@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">web-ergonome</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">enquêter, rechercher, analyser l'information/aider, conseiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/indépendant</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur sociétés d'ingénierie et d'études techniques</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">ergonomie/multimédia</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques de la communication média</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100663</lien_onisep>
+<ROME Level="1B" csRelFld="100663">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100663">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56645" csRelFld="56645">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56645</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100663</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Anticiper le comportement des internautes</inter>
+<p>Chargé d'améliorer l'interface d'un site Internet et de garantir son accès à tous, le web-ergonome en optimise la rentabilité. Sa mission : cerner les attentes (réelles ou supposées) des utilisateurs. Pour cela, il mène des études détaillées sur les comportements des internautes. Il les interroge, analyse leur navigation, teste de nouvelles approches... Conscient qu'il ne peut pas se mettre à la place de tous les utilisateurs, le web-ergonome s'efforce, néanmoins, de réfléchir comme eux : c'est la psychologie cognitive. Mais il ne se contente pas d'imaginer le comportement des internautes ! Il s'appuie sur des méthodes et des outils (enregistrement et analyse des consultations d'usagers...).</p>
+<inter>Favoriser l'accessibilité des sites </inter>
+<p>Pour obtenir une visibilité parfaite, le web-ergonome doit respecter des standards précis (par exemple, ne pas dépasser 3 clics pour accéder à une information car lire sur Internet est moins facile que sur papier) tout en touchant un large public. Pour les consommateurs " classiques ", tout est fait pour qu'ils s'attardent sur le site. Pour les déficients visuels, une légende ou un texte sont prévus. Pour les daltoniens, les couleurs sont adaptées. Le site doit aussi pouvoir passer facilement d'une interface d'application mobile à celle d'un site web classique.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56649" csRelFld="56649">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56649</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100663</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le web-ergonome est le plus souvent titulaire d'un bac + 5. Quelques masters (M1) sont orientés vers l'ergonomie, la psychologie cognitive et les sciences cognitives.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur</itsimp>
+<itsimp>Master en psychologie, sociologie et ergonomie des technologies numériques, informatique, interface numérique, multimédia, design interactif</itsimp>
+<itsimp>Diplôme d'école spécialisée dans l'Internet</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56647" csRelFld="56647">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56647</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100663</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Souvent un consultant</inter>
+<p>Le web-ergonome est généralement sollicité comme consultant par les cabinets de conseil et les grandes entreprises en lien avec le Web pour les sites d'e-commerce, les sites institutionnels, les sites d'information et de communication (presse) car il sait optimiser l'architecture d'un site pour que le visiteur se transforme en consommateur.</p>
+<p>En revanche, il est encore rare de faire appel à lui dans les PME (petites et moyennes entreprises). Le web-ergonome exerce en tant que libéral ou salarié.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir de <sal>2000</sal> euros brut par mois et jusqu'à 6000 euros brut par mois en fin de carrière.</p>
+<postit>
+<p>Sources : Journal du Net ; 01.net ; ergonautes.fr ; www.mavoiescientifque.fr 2015</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

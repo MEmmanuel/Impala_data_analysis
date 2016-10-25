@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e intégration satellite</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe/concevoir, utiliser des technologies industrielles de pointe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur sociétés de service et de conseil en informatique/secteur construction aéronautique/secteur des télécommunications</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">aéronautique espace/télécommunications/industrie spatiale/propulsion avion/mécanique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE mécanique automatismes</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100680</lien_onisep>
+<ROME Level="1B" csRelFld="100680">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="265" csRelFld="265">
+<CSLABELFLD label="">H1206</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception, recherche, études et développement</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H1206</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie études, recherche et développement industriel</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100680">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56817" csRelFld="56817">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56817</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100680</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Mettre sur orbite</inter>
+<p>Outils de navigation, mécanismes de propulsion et d'alimentation, instruments scientifiques de haute technologie qui accompliront une mission scientifique (appelés aussi " charge utile ") : un satellite est composé de nombreux éléments, eux-mêmes constitués de milliers de pièces. C'est à l'ingénieur intégration d'organiser leur assemblage pour constituer un ensemble cohérent prêt à être envoyé dans l'espace. Il planifie et coordonne donc le travail des différents intervenants sur l'intégration du satellite : monteurs, techniciens essais... </p>
+<inter>Simuler des conditions spatiales</inter>
+<p>Au cours de son lancement et de son voyage dans l'espace, un satellite est mis à rude épreuve : vibrations, chocs, froid... Pour s'assurer qu'il résistera une dizaine d'années à ces contraintes, l'ingénieur intégrateur réalise des campagnes d'essais au sol. Il soumet l'engin à de forts champs électromagnétiques comme ceux qu'on trouve en orbite terrestre, au vide thermique (températures extrêmes), à l'accélération... et vérifie qu'aucune pièce ne casse ou ne se détache. Car, une fois en orbite, impossible de réparer le satellite. Une grande partie de son temps est donc consacrée à vérifier le positionnement des pièces grâce à des instruments très spécifiques (théodolite, laser tracker...). </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56821" csRelFld="56821">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56821</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100680</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>L'accès au métier est accessible avec un bac + 5 au minimum, voire un bac + 8 (doctorat). </p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur en aéronautique et spatial (spécialisé en télécommunications, électronique, mécanique, électrique, avionique, optique, propulsion, thermique...)</itsimp>
+<itsimp>Master mention aéronautique et espace ou autres mentions en lien avec télécommunications, électronique, mécanique, électrique, avionique, optique, propulsion, thermique...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56819" csRelFld="56819">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56819</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100680</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>L'aéronautique, un vaste secteur</inter>
+<p>Le poste d'ingénieur intégration satellite est accessible après une évolution interne en tant qu'expert en ingénierie, intégration, essais des sous-ensembles ou systèmes du satellite (mécanique, électrique, électronique, avionique, radio-fréquence, optique, propulsion, thermique). Il travaille généralement chez un constructeur, un opérateur de télécommunications ou dans une ESN (entreprise de services du numérique). Les filiales de groupes aéronautiques sont friands de ce genre de profils (lanceurs, satellites, équipements et services satellitaires...).</p>
+<inter>Des perspectives d'évolution</inter>
+<p>Considéré comme le chef de mission pour les activités sur le site mais aussi hors du site, l'ingénieur intégration satellite est amené à voyager régulièrement. C'est lui qui est le représentant légitime du programme et de la mission satellitaire, en France et/ou à l'étranger. Ses qualités d'ingénieur et d'expert peuvent également le conduire à exercer d'autres fonctions : ingénieur études et développement, chef de projet, consultant ou encore ingénieur systèmes et réseaux. </p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Environ <sal>3000</sal> euros bruts par mois. </p>
+<postit>
+<p>Gifas, 2013</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

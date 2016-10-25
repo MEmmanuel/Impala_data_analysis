@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">inspecteur/trice du permis de conduire et de la sécurité routière</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">me déplacer souvent/enseigner, éduquer</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction encadrement - coordination</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">transport routier/sécurité des biens et des personnes</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE transports conduite manutention magasinage/inspecteur du permis de conduire</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10119</lien_onisep>
+<ROME Level="1B" csRelFld="10119">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="503" csRelFld="503">
+<CSLABELFLD label="">K2110</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Formation initiale et continue</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K2110</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Formation en conduite de véhicules</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10119">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1617" csRelFld="1617">
+<CSLABELFLD label="">délégué / déléguée au permis de conduire et à la sécurité routière</CSLABELFLD>
+<MET_ID label="Identifiant">10119</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1617</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">délégué/e au permis de conduire et à la sécurité routière</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1617">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16326" csRelFld="16326">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16326</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10119</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Délivrer le permis </inter>
+<p>Chaque année, près de 1 million de candidats obtiennent leur permis. Attestant d'un niveau suffisant pour être laissé seul aux commandes d'un véhicule, ce titre est délivré par l'inspecteur du permis de conduire. Les modalités des épreuves varient selon le type de véhicule (voiture, moto, camion...) et suivant le profil des candidats : particuliers ou professionnels (chauffeurs de bus ou de taxi, conducteurs de poids lourd...).</p>
+<inter>Faire passer les épreuves</inter>
+<p>L'inspecteur intervient dans plusieurs centres d'examens. Suivant son planning du jour, il fait passer l'épreuve théorique de connaissance du code de la route ou l'épreuve pratique de conduite : respect du code, réflexes d'anticipation, appréciation des distances... Il a l'oeil à tout et un jugement sûr car il ne dispose que d'une demi-heure environ pour évaluer les compétences d'un candidat. </p>
+<inter>Apporter son expertise</inter>
+<p>Certaines de ses missions sont moins connues du grand public. Sait-on, par exemple, qu'il joue un rôle de contrôle pédagogique et administratif auprès des auto-écoles et qu'il siège parmi les jurés chargés de décerner le brevet aux futurs moniteurs ? Il participe aussi aux commissions de suspension du permis de conduire et apporte son expertise lors des campagnes de prévention routière.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16322" csRelFld="16322">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16322</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10119</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Sur concours</accr_p>
+</p>
+<p>Plusieurs conditions sont requises pour passer le concours d'inspecteur du permis de conduire et de la sécurité routière : </p>
+<liste>
+<itsimp>être titulaire du bac ou d'un autre diplôme homologué au niveau IV, par exemple le BEPECASER (brevet pour l'exercice de la profession d'enseignant de la conduite automobile et de la sécurité routière) ou encore le BAFM (brevet d'aptitude à la formation des moniteurs) ; </itsimp>
+<itsimp>être français ou membre de la Communauté européenne ;</itsimp>
+<itsimp>être titulaire du permis de conduire automobile depuis plus de 3 ans. </itsimp>
+</liste>
+<p>Naturellement, pas question d'avoir fait l'objet d'une suspension de permis !</p>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16328" csRelFld="16328">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16328</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10119</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Réussir un concours</inter>
+<p>Les inspecteurs du permis du conduire sont peu nombreux : on n'en compte pas plus de 1 millier sur l'ensemble du territoire. Pour devenir inspecteur, il faut réussir un concours de la fonction publique organisé par le ministère de l'Écologie, de l'Énergie, du Développement durable et de la Mer.</p>
+<inter>Des recrutements limités</inter>
+<p>Le concours a lieu chaque année. Au menu des épreuves : un exercice de conduite ; des questions orales et écrites sur le code de la route, le droit administratif et le droit pénal ; des mises en situation face à un jury. Le nombre de places est limité : 48 au concours externe de 2008 (pour 1 106 candidats présents aux épreuves), 45 seulement en 2009. </p>
+<inter>Du stage à la titularisation</inter>
+<p>Les lauréats sont nommés inspecteurs stagiaires pendant 1 an. Ils suivent une formation de 6 mois à l'ENSRR (École nationale de sécurité routière et de recherches) de Nevers, complétée par un stage de terrain dans le département où ils ont été nommés. Ils sont titularisés à condition d'avoir obtenu des résultats corrects aux contrôles de connaissances et d'avoir décroché le permis moto pendant leur formation.</p>
+<inter>Évoluer via un concours interne</inter>
+<p>En fonction de son ancienneté, un inspecteur peut évoluer vers plus de responsabilités en passant des concours internes. Le grade le plus élevé est celui de délégué au permis de conduire et à la sécurité routière : un poste de catégorie A qui permet d'encadrer l'activité des inspecteurs.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Le futur inspecteur est rémunéré dès son entrée en formation. À ses débuts, il gagne environ le <sal>Smic</sal>. </p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

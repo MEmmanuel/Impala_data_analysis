@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">géochimiste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">travailler en contact avec la nature/travailler dehors/faire de la recherche/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction recherche appliquée/fonction recherche fondamentale</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur environnement/secteur recherche/secteur de l'éducation/secteur énergie/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">géologie/géochimie/chimie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100539</lien_onisep>
+<ROME Level="1B" csRelFld="100539">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="175" csRelFld="175">
+<CSLABELFLD label="">F1105</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception et études</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">F1105</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Études géologiques</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100539">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="53386" csRelFld="53386">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53386</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100539</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Prélever et analyser des échantillons</inter>
+<p>Le géochimiste est à la fois un géologue et un chimiste. Spécialiste de l'analyse des roches, de la composition et de la répartition des éléments chimiques contenus dans les sols, l'atmosphère ou l'eau qui nous entourent, il étudie l'interaction de polluants sur les milieux souterrains et leur évolution dans le temps. Pour cela, il est amené à faire de nombreux prélèvements qu'il analyse ensuite en laboratoire. Puis il interprète les résultats de ses observations et, le cas échéant, répond aux interrogations en rédigeant des rapports.</p>
+<inter>Enrichir sa discipline</inter>
+<p>Le géochimiste peut également faire de la recherche fondamentale afin de mieux comprendre certains phénomènes dans des domaines variés (volcanisme, océanographie, eaux continentales...). À partir d'un travail en bibliothèque ou en laboratoire, et d'une réflexion personnelle, il participe à l'enrichissement de sa discipline dans le cadre d'objectifs définis au niveau national ou régional. </p>
+<inter>Diffuser les connaissances</inter>
+<p>Scientifique expert de son domaine, le géochimiste est amené à répondre à des questions précises en se servant de données existantes et/ou d'explorations spécifiques qu'il pourra conduire sur le terrain, souvent en association avec d'autres scientifiques de disciplines complémentaires. Il participe aussi à la diffusion des connaissances scientifiques en publiant ses travaux et en participant à des conférences et à des colloques.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="53390" csRelFld="53390">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53390</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100539</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Les formations spécifiques à la géochimie sont peu nombreuses, mais se situent toutes au moins au niveau bac + 5 (diplôme d'ingénieur ou master). Ceux qui souhaitent s'orienter vers la recherche appliquée pourront compléter leur formation d'ingénieur avec un master ; ceux qui visent la recherche fondamentale privilégieront un cursus universitaire (doctorat).</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur spécialisé en géologie ou en chimie</itsimp>
+<itsimp>Master sciences de la Terre spécialité géochimie ; géo-environnement spécialité géomatériaux et environnement ; sciences de la Terre et environnement, écologie spécialité génie géologique, spécialité H3 : hydrogéologie, hydrobiogéochimie, hydropédologie ; sciences de la Terre et de l'univers spécialité génie géologique ; géologie appliquée...</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 8</tete>
+<itsimp>Doctorat</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="53388" csRelFld="53388">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53388</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100539</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Dans les centres de recherche...</inter>
+<p>Comme pour tous les métiers très spécialisés, les débouchés sont relativement limités pour les géochimistes. Le ministère de l'Écologie, du Développement durable et de l'Énergie estime le recrutement total de géologues dans le secteur de l'environnement à une centaine par an. Pour la recherche fondamentale, des postes sont à prendre dans des organismes tels que le CNRS (Centre national de la recherche scientifique), le CEA (Commissariat à l'énergie atomique et aux énergies alternatives), l'Inra (Institut national de la recherche agronomique), l'IRD (Institut de recherche pour le développement), l'Irstea (Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture), le BRGM (Bureau de recherches géologiques et minières), le Cirad (Centre de coopération internationale en recherche agronomique pour le développement). Le géochimiste pourra également devenir enseignant-chercheur ou intégrer un service déconcentré de l'État. </p>
+<inter>... et les entreprises spécialisées</inter>
+<p>Parce qu'il travaille sur la gestion raisonnée et l'exploitation durable des ressources de la planète, le géochimiste intéresse également les entreprises spécialisées du secteur pétrolier ou minier ou les collectivités locales.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2000</sal> à 2900 euros brut par mois.</p>
+<postit>
+<p>Source : SGF, 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

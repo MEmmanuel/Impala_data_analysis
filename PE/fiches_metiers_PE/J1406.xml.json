@@ -1,0 +1,444 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Logop\u00e8de",
+            "priorisation": "1",
+            "libelle": "Logop\u00e8de",
+            "code_ogr": "16213"
+        },
+        {
+            "libelle_court": "Logop\u00e9diste",
+            "priorisation": "1",
+            "libelle": "Logop\u00e9diste",
+            "code_ogr": "16214"
+        },
+        {
+            "libelle_court": "Orthophoniste",
+            "priorisation": "1",
+            "libelle": "Orthophoniste",
+            "code_ogr": "17367"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier le besoin du patient et l'informer sur la d\u00e9marche orthophonique (objectif, \u00e9tapes, ...)",
+            "code_ogr": "2057",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cerner le type de dysfonctionnement (troubles de la voix, du langage oral, ...), les difficult\u00e9s (g\u00eane, manifestations, ...) et l'environnement du patient",
+            "code_ogr": "791",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "2",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9terminer le besoin de r\u00e9\u00e9ducation orthophonique \u00e0 partir de tests ou conseiller le patient sur un suivi compl\u00e9mentaire (soutien scolaire, accompagnement psychologique, ...)",
+            "code_ogr": "1406",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "3",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer le projet de r\u00e9\u00e9ducation orthophonique et arr\u00eater les modalit\u00e9s d'intervention (d\u00e9roulement, part de travail personnel, ...) selon la situation du patient (\u00e2ge, pathologie, activit\u00e9, ...)",
+            "code_ogr": "1734",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Concevoir le programme de la s\u00e9ance d'orthophonie et adapter les exercices selon l'\u00e9tat du patient",
+            "code_ogr": "897",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser le bilan de fin de r\u00e9\u00e9ducation avec la personne et \u00e9changer des informations avec le m\u00e9decin, l'enseignant, ...",
+            "code_ogr": "2789",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "6",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les documents m\u00e9dicoadministratifs de la personne",
+            "code_ogr": "3038",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "K1103",
+            "libelle_rome_cible": "D\u00e9veloppement personnel et bien-\u00eatre de la personne"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec le Certificat de Capacit\u00e9 d'Orthophonie.\nDes formations compl\u00e9mentaires (Oto-rhino-laryngologie -ORL-, neurologie, th\u00e9rapie comportementale et cognitive, ...) peuvent \u00eatre requises.\nDes vaccinations pr\u00e9vues par le Code de Sant\u00e9 Publique sont exig\u00e9es.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Mettre en place une r\u00e9\u00e9ducation orthophonique :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "anomalies des fonctions oro-faciales (paralysie faciale, bec de li\u00e8vre, ...)",
+            "code_ogr": "7549",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "langage \u00e9crit (dyslexie, dysorthographie, ...)",
+            "code_ogr": "7550",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "langage oral (b\u00e9gaiement, articulation, ...)",
+            "code_ogr": "7551",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "raisonnement logico-math\u00e9matique (dyscalculie, ...)",
+            "code_ogr": "7552",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "troubles de la d\u00e9glutition (dysphagie, ...) et/ou r\u00e9-alimentation",
+            "code_ogr": "7553",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "troubles neurologiques (dysphasie, ...)",
+            "code_ogr": "7555",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "6",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "voix oro-oesophagienne",
+            "code_ogr": "7556",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "7",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "voix trach\u00e9o-oesophagienne",
+            "code_ogr": "7557",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "8",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "troubles de la voix (dysphonie, ...)",
+            "code_ogr": "7554",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "9",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Intervenir aupr\u00e8s d'un type de public :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Adultes",
+            "code_ogr": "6298",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Enfants",
+            "code_ogr": "6306",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sourds/malentendants",
+            "code_ogr": "6332",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener des actions d'information, de conseil, de sensibilisation ou de pr\u00e9vention aupr\u00e8s de diff\u00e9rents publics (professionnels, parents, ...)",
+            "code_ogr": "7391",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener des actions de formation au sein d'un organisme",
+            "code_ogr": "7395",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce en cabinet d'orthophonie ou au sein d'\u00e9tablissements de soins en contact avec les patients et en relation avec diff\u00e9rents intervenants (m\u00e9decins, personnel param\u00e9dical, enseignants, ...).\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'a\u00e9rophonoscope, de m\u00e9tronome, de dictaphone, ...",
+            "code_ogr": "21126",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Cabinet d'orthophonie",
+            "code_ogr": "23747",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Centre de r\u00e9\u00e9ducation et de r\u00e9adaptation fonctionnelle",
+            "code_ogr": "23776",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Centre m\u00e9dico-psychologique",
+            "code_ogr": "23788",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement m\u00e9dical (h\u00f4pital, clinique, ...)",
+            "code_ogr": "23922",
+            "code_type_section_env": "1"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Neuropsychologie",
+            "code_ogr": "22208",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pathologies psychiatriques",
+            "code_ogr": "22279",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pathologies d\u00e9g\u00e9n\u00e9ratives",
+            "code_ogr": "22275",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Phoniatrie (troubles de la voix)",
+            "code_ogr": "22285",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Psychologie",
+            "code_ogr": "22511",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Classification internationale des d\u00e9ficiences",
+            "code_ogr": "21722",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques p\u00e9dagogiques",
+            "code_ogr": "23253",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes r\u00e9dactionnelles",
+            "code_ogr": "22235",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'\u00e9veil de l'enfant",
+            "code_ogr": "23205",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Grille de codification S\u00e9curit\u00e9 Sociale",
+            "code_ogr": "22012",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Technique de d\u00e9glutition",
+            "code_ogr": "22747",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'\u00e9chauffement de la voix",
+            "code_ogr": "23176",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de gymnastique faciale",
+            "code_ogr": "22938",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de r\u00e9\u00e9ducation par le geste",
+            "code_ogr": "23084",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de lecture sur les l\u00e8vres",
+            "code_ogr": "22947",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Langue des signes",
+            "code_ogr": "22065",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Langage Parl\u00e9 Compl\u00e9t\u00e9 -LPC-",
+            "code_ogr": "22073",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques respiratoires",
+            "code_ogr": "23255",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'utilisation de proth\u00e8ses phonatoires",
+            "code_ogr": "23245",
+            "position_item": "9",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nCorrige ou am\u00e9liore la communication orale, \u00e9crite de personnes atteintes de troubles du langage, de la parole ou de la voix. R\u00e9alise le bilan orthophonique et met en place les s\u00e9ances de r\u00e9\u00e9ducation sur prescription m\u00e9dicale.\nPeut effectuer une r\u00e9\u00e9ducation orthophonique pour des publics atteints de handicaps particuliers (surdit\u00e9, laryngectomie, ...).\nPeut diriger un cabinet.\n",
+    "intitule": "Orthophonie",
+    "code_ogr": "350",
+    "code_rome": "J1406",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1405",
+            "libelle_rome_cible": "Conseil en information m\u00e9dicale"
+        },
+        {
+            "code_rome_cible": "J1502",
+            "libelle_rome_cible": "Coordination de services m\u00e9dicaux ou param\u00e9dicaux"
+        }
+    ]
+}

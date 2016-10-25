@@ -1,0 +1,604 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Embo\u00eeteur / Embo\u00eeteuse en horlogerie",
+            "priorisation": "1",
+            "libelle": "Embo\u00eeteur / Embo\u00eeteuse en horlogerie",
+            "code_ogr": "14744"
+        },
+        {
+            "libelle_court": "Horloger / Horlog\u00e8re",
+            "priorisation": "1",
+            "libelle": "Horloger / Horlog\u00e8re",
+            "code_ogr": "15474"
+        },
+        {
+            "libelle_court": "Horloger-r\u00e9parateur / Horlog\u00e8re-r\u00e9paratrice",
+            "priorisation": "1",
+            "libelle": "Horloger-r\u00e9parateur / Horlog\u00e8re-r\u00e9paratrice",
+            "code_ogr": "15475"
+        },
+        {
+            "libelle_court": "Monteur / Monteuse en syst\u00e8mes horlogers",
+            "priorisation": "1",
+            "libelle": "Monteur / Monteuse en syst\u00e8mes horlogers",
+            "code_ogr": "16842"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice d'assemblage en horlogerie",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice d'assemblage en horlogerie",
+            "code_ogr": "17061"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice de posage embo\u00eetage en horlogerie",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de posage embo\u00eetage en horlogerie",
+            "code_ogr": "17136"
+        },
+        {
+            "libelle_court": "Pendulier / Penduli\u00e8re",
+            "priorisation": "1",
+            "libelle": "Pendulier / Penduli\u00e8re",
+            "code_ogr": "17652"
+        },
+        {
+            "libelle_court": "R\u00e9parateur / R\u00e9paratrice en syst\u00e8mes horlogers",
+            "priorisation": "1",
+            "libelle": "R\u00e9parateur / R\u00e9paratrice en syst\u00e8mes horlogers",
+            "code_ogr": "18529"
+        },
+        {
+            "libelle_court": "R\u00e9parateur rhabilleur/R\u00e9paratrice rhabilleuse en horlogerie",
+            "priorisation": "1",
+            "libelle": "R\u00e9parateur rhabilleur / R\u00e9paratrice rhabilleuse en horlogerie",
+            "code_ogr": "18531"
+        },
+        {
+            "libelle_court": "Visiteur horloger / Visiteuse horlog\u00e8re",
+            "priorisation": "1",
+            "libelle": "Visiteur horloger / Visiteuse horlog\u00e8re",
+            "code_ogr": "20703"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier le dysfonctionnement d'un produit horloger (banc de contr\u00f4le, d\u00e9montage, ...) et informer le client sur la nature de l'intervention, son prix, ...",
+            "code_ogr": "2060",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler l'\u00e9tat d'usure des diff\u00e9rentes pi\u00e8ces du mouvement (platines, ponts, jeu de rouage, ...) et s'approvisionner en fournitures",
+            "code_ogr": "1167",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Remplacer les pi\u00e8ces d\u00e9fectueuses par \u00e9change standard (mouvement quartz, aiguilles, cadrans, ...) et assembler les \u00e9l\u00e9ments",
+            "code_ogr": "3012",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien des pi\u00e8ces d'un mouvement horloger",
+            "code_ogr": "1590",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la marche, l'\u00e9tanch\u00e9it\u00e9, la pr\u00e9cision et l'autonomie du syst\u00e8me ou r\u00e9gler la pr\u00e9cision du mouvement",
+            "code_ogr": "1050",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Consigner les donn\u00e9es d'activit\u00e9 (nature de l'intervention, ...)",
+            "code_ogr": "973",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1214",
+            "libelle_rome_cible": "Vente en habillement et accessoires de la personne"
+        },
+        {
+            "code_rome_cible": "H2901",
+            "libelle_rome_cible": "Ajustement et montage de fabrication"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un CAP/BEP en horlogerie, en microm\u00e9canique, ou microtechnique.\nUn dipl\u00f4me de niveau Bac professionnel \u00e0 Bac+2 (Dipl\u00f4me des M\u00e9tiers d'Arts -DMA -) en horlogerie est exig\u00e9 dans le secteur de la montre m\u00e9canique ou \u00e0 complications et de la restauration de pi\u00e8ces anciennes.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Intervenir sur des syst\u00e8mes horlogers :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chronom\u00e8tre",
+            "code_ogr": "7145",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Horloge",
+            "code_ogr": "7146",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Horlogerie technique (dispositifs de commandes horaires, syst\u00e8mes de s\u00e9curit\u00e9 \u00e9lectrom\u00e9caniques, ...)",
+            "code_ogr": "7147",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Montre, chronom\u00e8tre, r\u00e9veil",
+            "code_ogr": "7148",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pendule",
+            "code_ogr": "7149",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9veil",
+            "code_ogr": "7150",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Intervenir dans une \u00e9tape d'horlogerie :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Embo\u00eetage du mouvement et habillage (cadrans, aiguilles, poussoir, bracelet ...)",
+            "code_ogr": "6841",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Assemblage des composants du mouvement",
+            "code_ogr": "6840",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations de microm\u00e9canique sur des pi\u00e8ces d'horlogerie par :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Usinage",
+            "code_ogr": "8663",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ebarbage, polissage, pon\u00e7age",
+            "code_ogr": "8662",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chassage",
+            "code_ogr": "8661",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Concevoir une montre, une horloge et intervenir dans la ou le :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Dessin artistique du produit",
+            "code_ogr": "4041",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conception du mouvement",
+            "code_ogr": "4040",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conception d'outils de fabrication (fraises, ...)",
+            "code_ogr": "4039",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaboration de gammes de plans et de fabrication",
+            "code_ogr": "4042",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Montage de dossier de pr\u00e9sentation",
+            "code_ogr": "4043",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la vente d'articles d'horlogerie (montre, pendule, r\u00e9veil, ...) et d'accessoires (pile, bracelet-montre, ...)",
+            "code_ogr": "5227",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations de restauration/conservation sur des pi\u00e8ces d'horlogerie anciennes",
+            "code_ogr": "8763",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Authentifier ou r\u00e9aliser des expertises (judiciaires, achat, vente, ...) de pi\u00e8ces d'horlogerie",
+            "code_ogr": "3855",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises de fabrication, de r\u00e9paration, de magasins de vente d'articles d'horlogerie ou en ind\u00e9pendant en contact avec des clients et des fournisseurs.\nL'activit\u00e9 s'effectue en atelier, en magasin, parfois sur site.\nElle n\u00e9cessite une dext\u00e9rit\u00e9 fine, une attention visuelle permanente et l'utilisation d'appareil de vision (micros, loupes, ...).\nElle peut impliquer un travail en grande hauteur pour certaines sp\u00e9cialisations (horloge de clocher, ...).\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Chiffrage/calcul de co\u00fbt",
+            "code_ogr": "20813",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de dessins techniques",
+            "code_ogr": "20937",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ajustage",
+            "code_ogr": "20749",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils de contr\u00f4le (vibrographe, contr\u00f4leur \u00e9lectronique, ...)",
+            "code_ogr": "21152",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Achevage-r\u00e9glage",
+            "code_ogr": "20744",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "6",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de fours/d'\u00e9tuves",
+            "code_ogr": "21215",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Conception et de Dessin Assist\u00e9s par Ordinateur -CAO/DAO-",
+            "code_ogr": "21249",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Publication Assist\u00e9e par Ordinateur -PAO-",
+            "code_ogr": "21264",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Argumentation commerciale",
+            "code_ogr": "20786",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Atelier de r\u00e9paration/Service Apr\u00e8s-Vente -SAV-",
+            "code_ogr": "23715",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Boutique, commerce de d\u00e9tail",
+            "code_ogr": "23725",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Centre technique agr\u00e9\u00e9",
+            "code_ogr": "23791",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise artisanale",
+            "code_ogr": "23870",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Manufacture",
+            "code_ogr": "24003",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisme culturel, du patrimoine",
+            "code_ogr": "24016",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Bijouterie, joaillerie",
+            "code_ogr": "23422",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Fabrication et r\u00e9paration de syst\u00e8mes horlogers",
+            "code_ogr": "23496",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Horlogerie",
+            "code_ogr": "23517",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Microm\u00e9canique",
+            "code_ogr": "22158",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Propri\u00e9t\u00e9s des m\u00e9taux pr\u00e9cieux",
+            "code_ogr": "22494",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9thodes de classement et de montage de pi\u00e8ces microm\u00e9caniques",
+            "code_ogr": "22128",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Cin\u00e9matique des mouvements",
+            "code_ogr": "21710",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation en Hygi\u00e8ne, S\u00e9curit\u00e9, Environnement -HSE-",
+            "code_ogr": "22567",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Mouvements horlogers m\u00e9caniques",
+            "code_ogr": "22200",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Mouvements horlogers \u00e9lectroniques",
+            "code_ogr": "22199",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des alliages de m\u00e9taux",
+            "code_ogr": "21555",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de soudure",
+            "code_ogr": "23128",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Dessin industriel",
+            "code_ogr": "21777",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en chimie",
+            "code_ogr": "21844",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Histoire de l'horlogerie",
+            "code_ogr": "22024",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nMet en service ou remet en \u00e9tat des produits d'horlogerie de petit ou de gros volume (montre, pendule, horloge d'\u00e9difice, ...).\nPeut assembler des composants de mouvements complexes, habiller les mouvements d'horlogerie et usiner des pi\u00e8ces d\u00e9fectueuses ou manquantes.\nPeut effectuer la vente de pi\u00e8ces d'horlogerie et intervenir sur la restauration de pi\u00e8ces anciennes.\nPeut coordonner une \u00e9quipe et diriger une structure.\n",
+    "intitule": "R\u00e9paration - montage en syst\u00e8mes horlogers",
+    "code_ogr": "47",
+    "code_rome": "B1604",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "B1603",
+            "libelle_rome_cible": "R\u00e9alisation d'ouvrages en bijouterie, joaillerie et orf\u00e8vrerie"
+        },
+        {
+            "code_rome_cible": "D1301",
+            "libelle_rome_cible": "Management de magasin de d\u00e9tail"
+        },
+        {
+            "code_rome_cible": "D1402",
+            "libelle_rome_cible": "Relation commerciale grands comptes et entreprises"
+        },
+        {
+            "code_rome_cible": "D1503",
+            "libelle_rome_cible": "Management/gestion de rayon produits non alimentaires"
+        },
+        {
+            "code_rome_cible": "H1203",
+            "libelle_rome_cible": "Conception et dessin produits m\u00e9caniques"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e cloud computing</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">contrôler la qualité, expertiser/programmer, créer du contenu numérique</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur sociétés de service et de conseil en informatique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">cloud computing</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100611</lien_onisep>
+<ROME Level="1B" csRelFld="100611">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="600" csRelFld="600">
+<CSLABELFLD label="">M1802</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Systèmes d'information et de télécommunication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1802</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Expertise et support en systèmes d'information</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100611">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="55982" csRelFld="55982">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55982</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100611</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Choisir les prestataires</inter>
+<p>Le cloud computing (littéralement " informatique dans les nuages ") permet de stocker d'énormes masses de données (big data) sur des serveurs dématérialisés, en dehors de l'entreprise. La première mission de l'ingénieur cloud computing est donc de sélectionner les prestataires qui répondront le mieux aux besoins de son entreprise en termes de logiciels, de plates-formes et d'infrastructures. Pour cela, il doit définir précisément les besoins, étudier les offres des prestataires et passer des appels d'offres.</p>
+<inter>Gérer la mise en place</inter>
+<p>Il gère ensuite la mise en place des nouvelles solutions de stockage des données et leur intégration dans l'architecture système de l'entreprise. Pour cela, il réalise des tests techniques et fonctionnels. Il est responsable de la relation entreprise/fournisseur, et doit s'assurer de la sécurisation des données et de leur accès possible à tout moment depuis tous les types d'appareils : smartphones, tablettes, postes de travail, etc. </p>
+<inter>Former et ajuster</inter>
+<p>Enfin, il assure le transfert des compétences en réalisant de la documentation et des formations spécifiques à l'usage des utilisateurs. Il s'occupe également de la maintenance du nouveau système.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55986" csRelFld="55986">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55986</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100611</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Il existe encore peu de formations initiales spécifiques au cloud mais elles se développent. Le métier est accessible avec un diplôme bac + 5 au minimum.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur spécialisé en informatique et réseaux...</itsimp>
+<itsimp>Master mention informatique, spécialisé cloud computing, ex. : cloud computing &amp; mobility (Insset)...</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 6</tete>
+<itsimp>Mastère spécialisé expert cloud computing et SAAS (Isep)...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55984" csRelFld="55984">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55984</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100611</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Très bons débouchés</inter>
+<p>Les ingénieurs cloud computing sont très recherchés pour leurs connaissances sur un secteur nouveau et pour leurs compétences transversales. Les formations spécifiques étant encore rares, les jeunes diplômés sont accueillis à bras ouverts par les entreprises avec des salaires supérieurs à ceux offerts aux profils système et réseaux, plus généralistes.</p>
+<inter>Employeurs multiples</inter>
+<p>Ils peuvent être employés soit chez les prestataires (éditeurs de logiciels, fournisseurs de plates-formes ou d'infrastructures...), soit dans les entreprises ou les administrations utilisatrices de services cloud ou souhaitant le devenir.</p>
+<inter>Vers les plus hautes responsabilités</inter>
+<p>Le cloud étant en voie de généralisation dans les entreprises, la demande est forte en experts du domaine et elle n'est pas près de se tarir, car les techniques évoluent encore beaucoup. Après quelques années d'expérience, l'ingénieur cloud peut s'orienter vers des postes à hautes responsabilités dans l'entreprise.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Entre <sal>3300</sal> et 4160 euros brut par mois en fonction de l'expérience, du poste et de l'entreprise.</p>
+<postit>
+<p>Source : Cabinet Robert Walters, 2014.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e technico-commercial/e</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">me déplacer souvent/convaincre, négocier/faire du commerce</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction technico commercial</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur commerce</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">technico-commercial/commerce de gros/commerce non alimentaire</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE commerce distribution/ingénieur technico-commercial</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10066</lien_onisep>
+<ROME Level="1B" csRelFld="10066">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10066">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1246" csRelFld="1246">
+<CSLABELFLD label="">chargé / chargée d'affaires en SSII (production automatisée)</CSLABELFLD>
+<MET_ID label="Identifiant">10066</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">09/07/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1246</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chargé/e d'affaires en SSII (production automatisée)</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1246">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1247" csRelFld="1247">
+<CSLABELFLD label="">chargé /chargée d'affaires industrielles</CSLABELFLD>
+<MET_ID label="Identifiant">10066</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">09/07/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1247</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chargé/e d'affaires industrielles</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1247">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1248" csRelFld="1248">
+<CSLABELFLD label="">responsable commerce électronique</CSLABELFLD>
+<MET_ID label="Identifiant">10066</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">09/07/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1248</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">responsable commerce électronique</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1248">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17606" csRelFld="17606">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17606</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10066</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Intermédiaire</inter>
+<p>Qu'il vende une carte électronique, une machine agricole ou un nouvel engrais, le technico-commercial joue un rôle d'intermédiaire entre la production et le client. Dans son offre, il tient compte du planning de fabrication de son entreprise, des stocks et des délais de livraison. </p>
+<inter>Des solutions adaptées</inter>
+<p>Comme tout commercial, il est capable de convaincre un client et de négocier un contrat. Mais il dispose d'un atout supplémentaire : ses connaissances techniques lui permettent d'analyser précisément les besoins de son interlocuteur et de lui proposer une solution sur mesure. </p>
+<inter>Une assistance technique</inter>
+<p>Le technico-commercial ne se contente pas de vendre un produit. Suivant de près l'installation et la mise en route des appareils, il assure la formation des utilisateurs. Il garantit aussi l'efficacité du service après-vente : entretien régulier et intervention rapide en cas de panne.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17617" csRelFld="17617">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17617</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10066</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Pour vendre des produits de haute technologie, les recruteurs donneront la préférence à des titulaires d'un bac + 5. Les entreprises peuvent donner le titre d'ingénieur technico-commercial à un salarié titulaire d'un bac+2 après quelques années d'expérience (à la production, par exemple).</p>
+<liste>
+<tete>Niveau bac + 5 </tete>
+<itsimp>Masters pro du domaine commercial avec spécialisation en technico-commercial </itsimp>
+<itsimp>Diplôme d'école d'ingénieurs (Esme-Sudria pour le génie électrique, ESB Nantes pour le bois et ECE pour l'électronique)</itsimp>
+<itsimp>Diplôme d'école supérieure de commerce et de gestion</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17613" csRelFld="17613">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17613</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10066</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un marché porteur</inter>
+<p>La dominante technique du métier entraîne un nombre plus faible de candidatures. La concurrence est donc moins rude que sur un poste purement commercial. Autre bonne nouvelle : 20 % des offres d'emploi s'adressent à des débutants. </p>
+<inter>Des besoins dans le high-tech</inter>
+<p>Plus un produit est complexe et spécifique, plus le recrutement d'un ingénieur technico-commercial devient indispensable. De nombreux postes sont donc à prendre dans les entreprises commercialisant des biens d'équipement ou des produits à technologie avancée (téléphones portables, outils de télécommunications...). </p>
+<inter>Bouger pour mieux évoluer</inter>
+<p>Les changements d'entreprise au cours des premières années de vie active sont fréquents et recommandés, car ils permettent de ne pas s'enfermer dans une spécialisation. On peut aussi évoluer au sein d'une seule et même société, vers des fonctions d'ingénieur d'affaires, de consultant ou de directeur commercial.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2500</sal> à 3000 euros brut par mois. </p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

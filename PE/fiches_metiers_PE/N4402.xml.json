@@ -1,0 +1,456 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente d'exploitation des remont\u00e9es m\u00e9caniques",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'exploitation des remont\u00e9es m\u00e9caniques",
+            "code_ogr": "10706"
+        },
+        {
+            "libelle_court": "Assistant / Assistante de piste - remont\u00e9es m\u00e9caniques",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante de piste - remont\u00e9es m\u00e9caniques",
+            "code_ogr": "11241"
+        },
+        {
+            "libelle_court": "Chef de secteur remont\u00e9es m\u00e9caniques",
+            "priorisation": "1",
+            "libelle": "Chef de secteur remont\u00e9es m\u00e9caniques",
+            "code_ogr": "12328"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de funiculaire",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de funiculaire",
+            "code_ogr": "12953"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de remont\u00e9es m\u00e9caniques",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de remont\u00e9es m\u00e9caniques",
+            "code_ogr": "13162"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de t\u00e9l\u00e9cabine",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de t\u00e9l\u00e9cabine",
+            "code_ogr": "13192"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de t\u00e9l\u00e9ph\u00e9rique",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de t\u00e9l\u00e9ph\u00e9rique",
+            "code_ogr": "13193"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de t\u00e9l\u00e9si\u00e8ge",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de t\u00e9l\u00e9si\u00e8ge",
+            "code_ogr": "13194"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de t\u00e9l\u00e9ski",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de t\u00e9l\u00e9ski",
+            "code_ogr": "13195"
+        },
+        {
+            "libelle_court": "Employ\u00e9 / Employ\u00e9e de remont\u00e9es m\u00e9caniques",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 / Employ\u00e9e de remont\u00e9es m\u00e9caniques",
+            "code_ogr": "14781"
+        },
+        {
+            "libelle_court": "Machiniste des remont\u00e9es m\u00e9caniques",
+            "priorisation": "1",
+            "libelle": "Machiniste des remont\u00e9es m\u00e9caniques",
+            "code_ogr": "16238"
+        },
+        {
+            "libelle_court": "Perchiste de remont\u00e9es m\u00e9caniques",
+            "priorisation": "1",
+            "libelle": "Perchiste de remont\u00e9es m\u00e9caniques",
+            "code_ogr": "17659"
+        },
+        {
+            "libelle_court": "Technicien(ne) exploitation maintenance remont\u00e9es m\u00e9caniques",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne d'exploitation et de maintenance de remont\u00e9es m\u00e9caniques",
+            "code_ogr": "19979"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Contr\u00f4ler la mise en s\u00e9curit\u00e9 des acc\u00e8s aux \u00e9quipements et maintenir en \u00e9tat les zones d'embarquement/d\u00e9barquement",
+            "code_ogr": "1051",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler l'\u00e9tat de fonctionnement et de s\u00e9curit\u00e9 des installations et du mat\u00e9riel (\u00e9tat des c\u00e2bles, des attaches, alimentation \u00e9lectrique, ...)",
+            "code_ogr": "1158",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Actionner les syst\u00e8mes des remont\u00e9es m\u00e9caniques, surveiller le passage des cabines, perches et le flux des passagers",
+            "code_ogr": "587",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Informer les clients sur les horaires, le plan, l'\u00e9tat des pistes et les assister en cas de besoin lors de l'embarquement/d\u00e9barquement",
+            "code_ogr": "2215",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mettre en place les mesures appropri\u00e9es en cas de panne, incident, chute ou de changement m\u00e9t\u00e9orologique",
+            "code_ogr": "2342",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports d'exploitation (registre d'exploitation, d'incident, de r\u00e9clamation, ...)",
+            "code_ogr": "3066",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "G1205",
+            "libelle_rome_cible": "Personnel d'attractions ou de structures de loisirs"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible \u00e0 partir d'un CAP/BEP en transport par c\u00e2bles et remont\u00e9es m\u00e9caniques, m\u00e9canique, \u00e9lectrom\u00e9canique, ...\nLa pratique du ski peut \u00eatre requise pour exercer en station de montagne.\nLa pratique d'une langue \u00e9trang\u00e8re peut \u00eatre demand\u00e9e.\nLes recrutements peuvent \u00eatre ouverts sur contrats de travail saisonniers (sports d'hiver).\n",
+    "activite_specifique": [
+        {
+            "libelle": "Transporter des passagers au moyen d'une installation sp\u00e9cifique :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ascenseur inclin\u00e9",
+            "code_ogr": "10032",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Funiculaire",
+            "code_ogr": "10033",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "T\u00e9l\u00e9 corde",
+            "code_ogr": "10035",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "T\u00e9l\u00e9benne",
+            "code_ogr": "10036",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "T\u00e9l\u00e9cabine fixe",
+            "code_ogr": "10037",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "T\u00e9l\u00e9ph\u00e9rique",
+            "code_ogr": "10038",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "T\u00e9l\u00e9si\u00e8ge d\u00e9brayable",
+            "code_ogr": "10039",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "T\u00e9l\u00e9si\u00e8ge fixe",
+            "code_ogr": "10040",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "T\u00e9l\u00e9ski",
+            "code_ogr": "10041",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tapis",
+            "code_ogr": "10034",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "10",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner des clients et effectuer la vente de titres de transport",
+            "code_ogr": "9542",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler les titres de transport",
+            "code_ogr": "4262",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la maintenance corrective et pr\u00e9ventive d'installations et de mat\u00e9riel de remont\u00e9es m\u00e9caniques",
+            "code_ogr": "5149",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accompagner des pisteurs ou des sauveteurs pour des op\u00e9rations d'assistance en montagne",
+            "code_ogr": "3634",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce en stations de montagne (sports d'hiver, randonn\u00e9e, ...) ou en milieu urbain (funiculaire, ...), pour le compte de soci\u00e9t\u00e9s d'exploitation de remont\u00e9es m\u00e9caniques, d'entreprises de transport urbain de personnes ou de collectivit\u00e9s locales, en contact avec les usagers.\nElle peut s'exercer les fins de semaine et jours f\u00e9ri\u00e9s.\nL'activit\u00e9 peut s'effectuer en environnement m\u00e9t\u00e9orologique difficile (froid, neige, brouillard, ...).\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de bulletin m\u00e9t\u00e9orologique",
+            "code_ogr": "20929",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'an\u00e9mom\u00e8tre",
+            "code_ogr": "21133",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils de radiocommunication",
+            "code_ogr": "21472",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pratique de ski de montagne",
+            "code_ogr": "21048",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de transport",
+            "code_ogr": "23888",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 d'exploitation des remont\u00e9es m\u00e9caniques",
+            "code_ogr": "24101",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "En environnement climatique difficile",
+            "code_ogr": "23377",
+            "code_type_section_env": "3"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "En ext\u00e9rieur",
+            "code_ogr": "23378",
+            "code_type_section_env": "3"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "En grande hauteur",
+            "code_ogr": "23379",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de fonctionnement d'une installation de remont\u00e9es m\u00e9caniques",
+            "code_ogr": "22608",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en \u00e9lectrom\u00e9canique",
+            "code_ogr": "21862",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9canique g\u00e9n\u00e9rale",
+            "code_ogr": "21882",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en hydraulique",
+            "code_ogr": "21875",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9 des biens et des personnes",
+            "code_ogr": "22623",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Signal\u00e9tique de balisage des pistes de ski",
+            "code_ogr": "22687",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'entretien et de contr\u00f4le d'installation de remont\u00e9es m\u00e9caniques",
+            "code_ogr": "22461",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes de la relation client",
+            "code_ogr": "22323",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de maintenance de remont\u00e9es m\u00e9caniques",
+            "code_ogr": "22954",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de secourisme/sauvetage",
+            "code_ogr": "23114",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise des op\u00e9rations de mise en fonction, de conduite et de surveillance des installations de remont\u00e9es m\u00e9caniques (t\u00e9l\u00e9ski, t\u00e9l\u00e9ph\u00e9rique, funiculaire, ...) pour acheminer des clients sur des domaines skiables, ou en agglom\u00e9ration, selon les r\u00e8gles de s\u00e9curit\u00e9 des biens et des personnes.\nContr\u00f4le tout ou partie des \u00e9l\u00e9ments techniques des \u00e9quipements.\nPeut informer les clients sur les caract\u00e9ristiques et l'organisation des domaines (pistes de ski, horaires, risques m\u00e9t\u00e9orologiques, r\u00e8gles de s\u00e9curit\u00e9, ...) et des \u00e9quipements (utilisation t\u00e9l\u00e9si\u00e8ge, t\u00e9l\u00e9cabines, ...).\nPeut coordonner l'activit\u00e9 d'une \u00e9quipe.\n",
+    "intitule": "Exploitation et manoeuvre des remont\u00e9es m\u00e9caniques",
+    "code_ogr": "535",
+    "code_rome": "N4402",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "I1101",
+            "libelle_rome_cible": "Direction et ing\u00e9nierie en entretien infrastructure et b\u00e2ti"
+        },
+        {
+            "code_rome_cible": "I1301",
+            "libelle_rome_cible": "Installation et maintenance d'ascenseurs"
+        },
+        {
+            "code_rome_cible": "N4204",
+            "libelle_rome_cible": "Intervention technique d'exploitation des transports routiers de personnes"
+        }
+    ]
+}

@@ -1,0 +1,468 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Vendeur / Vendeuse conseil en aquariophilie",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse conseil en aquariophilie",
+            "code_ogr": "38630"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse d'animaux",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse d'animaux",
+            "code_ogr": "20520"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en alimentation animale",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en alimentation animale",
+            "code_ogr": "20539"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en animalerie",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en animalerie",
+            "code_ogr": "20542"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en articles d'animalerie",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en articles d'animalerie",
+            "code_ogr": "20544"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en produits animaliers",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en produits animaliers",
+            "code_ogr": "20617"
+        },
+        {
+            "libelle_court": "Vendeur animalier / Vendeuse animali\u00e8re",
+            "priorisation": "1",
+            "libelle": "Vendeur animalier / Vendeuse animali\u00e8re",
+            "code_ogr": "20511"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Accueillir le client, le renseigner sur les races, modes de vie des animaux, sur les articles d'animalerie et le conseiller",
+            "code_ogr": "567",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les op\u00e9rations d'encaissement et remettre les factures, carnet de sant\u00e9, ...",
+            "code_ogr": "1651",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner le client sur les services compl\u00e9mentaires \u00e0 la vente (remise, livraison, cr\u00e9dit gratuit, carte de fid\u00e9lit\u00e9, ...)",
+            "code_ogr": "3598",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "3",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9ceptionner les animaux, v\u00e9rifier leur \u00e9tat, carnet de sant\u00e9 et les r\u00e9partir dans les cages, les aquariums",
+            "code_ogr": "2917",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9ceptionner les articles d'animalerie, contr\u00f4ler les livraisons selon les commandes et effectuer la mise en rayon",
+            "code_ogr": "2920",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier les troubles et sympt\u00f4mes des animaux et d\u00e9finir l'intervention appropri\u00e9e",
+            "code_ogr": "2162",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "6",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien et le nettoyage de l'espace de vie des animaux",
+            "code_ogr": "1606",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1209",
+            "libelle_rome_cible": "Vente de v\u00e9g\u00e9taux"
+        },
+        {
+            "code_rome_cible": "D1211",
+            "libelle_rome_cible": "Vente en articles de sport et loisirs"
+        },
+        {
+            "code_rome_cible": "D1212",
+            "libelle_rome_cible": "Vente en d\u00e9coration et \u00e9quipement du foyer"
+        },
+        {
+            "code_rome_cible": "D1214",
+            "libelle_rome_cible": "Vente en habillement et accessoires de la personne"
+        },
+        {
+            "code_rome_cible": "D1501",
+            "libelle_rome_cible": "Animation de vente"
+        },
+        {
+            "code_rome_cible": "D1505",
+            "libelle_rome_cible": "Personnel de caisse"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac+2 (L2, BTS, ...) dans les secteurs de la vente et du commerce.\nDes formations sp\u00e9cifiques (vente en animalerie, ...) peuvent en faciliter l'acc\u00e8s.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans la vente sans dipl\u00f4me particulier.\nUn certificat de capacit\u00e9 d\u00e9livr\u00e9 par le Minist\u00e8re de l'Agriculture ou de l'Environnement peut \u00eatre requis pour la vente d'animaux.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Effectuer la vente d'animaux :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Arachnides, insectes",
+            "code_ogr": "5208",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Batraciens, tortues",
+            "code_ogr": "5209",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chats",
+            "code_ogr": "5210",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chiens",
+            "code_ogr": "5211",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Oiseaux",
+            "code_ogr": "5212",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Poissons",
+            "code_ogr": "5213",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "6",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Reptiles",
+            "code_ogr": "5214",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "7",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Rongeurs et petits mammif\u00e8res",
+            "code_ogr": "5215",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "8",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9terminer les rations alimentaires des animaux et proc\u00e9der aux soins de toilettage",
+            "code_ogr": "4677",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier le fonds de caisse \u00e0 la prise de poste et effectuer le comptage \u00e0 la fermeture de la caisse",
+            "code_ogr": "3453",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de magasins sp\u00e9cialis\u00e9s (jardineries, animaleries), de grandes surfaces de bricolage, au rayon animalerie de grandes et moyennes surfaces, de libres-services agricoles, en contact avec les clients et en relation avec diff\u00e9rents intervenants (chef de rayon, responsable de magasin, fournisseurs, services v\u00e9t\u00e9rinaires, ...).\nL'activit\u00e9 peut s'exercer les fins de semaine, jours f\u00e9ri\u00e9s.\nL'activit\u00e9 peut s'effectuer en environnement allerg\u00e8ne (plumes, poils, ...).\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Argumentation commerciale",
+            "code_ogr": "20786",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de toilettage",
+            "code_ogr": "21336",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pratique de soins aux animaux",
+            "code_ogr": "21049",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion de stocks",
+            "code_ogr": "21259",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Animalerie",
+            "code_ogr": "23702",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Boutique, commerce de d\u00e9tail",
+            "code_ogr": "23725",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Grande et Moyenne Surface -GMS-",
+            "code_ogr": "23951",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Grande Surface de Bricolage -GSB-",
+            "code_ogr": "23953",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Jardinerie",
+            "code_ogr": "23979",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Commerce de gros",
+            "code_ogr": "23444",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de vente",
+            "code_ogr": "23168",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Typologie des clients/consommateurs",
+            "code_ogr": "23348",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en biologie animale",
+            "code_ogr": "21842",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en zoologie",
+            "code_ogr": "21930",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en parasitologie",
+            "code_ogr": "21898",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'encaissement",
+            "code_ogr": "22454",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de pr\u00e9vention des risques sanitaires",
+            "code_ogr": "22422",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pathologies animales",
+            "code_ogr": "22271",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de propret\u00e9",
+            "code_ogr": "22647",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes de la relation client",
+            "code_ogr": "22323",
+            "position_item": "11",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'approche et de manipulation des animaux",
+            "code_ogr": "22825",
+            "position_item": "12",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en nutrition animale",
+            "code_ogr": "21891",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de gestion de stocks",
+            "code_ogr": "22609",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise la vente d'animaux vivants domestiques ou non domestiques et d'articles destin\u00e9s \u00e0 leur entretien et leur bien-\u00eatre (aliments, cages, jouets, ...) selon la r\u00e9glementation du commerce, les r\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 et la strat\u00e9gie commerciale de l'entreprise.\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "Vente en animalerie",
+    "code_ogr": "96",
+    "code_rome": "D1210",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "A1408",
+            "libelle_rome_cible": "\u00c9levage d'animaux sauvages ou de compagnie"
+        },
+        {
+            "code_rome_cible": "A1501",
+            "libelle_rome_cible": "Aide aux soins animaux"
+        },
+        {
+            "code_rome_cible": "D1301",
+            "libelle_rome_cible": "Management de magasin de d\u00e9tail"
+        },
+        {
+            "code_rome_cible": "D1402",
+            "libelle_rome_cible": "Relation commerciale grands comptes et entreprises"
+        },
+        {
+            "code_rome_cible": "D1503",
+            "libelle_rome_cible": "Management/gestion de rayon produits non alimentaires"
+        },
+        {
+            "code_rome_cible": "D1508",
+            "libelle_rome_cible": "Encadrement du personnel de caisses"
+        }
+    ]
+}

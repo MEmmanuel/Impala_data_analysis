@@ -1,0 +1,486 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Di\u00e9t\u00e9ticien / Di\u00e9t\u00e9ticienne",
+            "priorisation": "1",
+            "libelle": "Di\u00e9t\u00e9ticien / Di\u00e9t\u00e9ticienne",
+            "code_ogr": "14169"
+        },
+        {
+            "libelle_court": "Di\u00e9t\u00e9ticien / Di\u00e9t\u00e9ticienne conseil",
+            "priorisation": "1",
+            "libelle": "Di\u00e9t\u00e9ticien / Di\u00e9t\u00e9ticienne conseil",
+            "code_ogr": "14171"
+        },
+        {
+            "libelle_court": "Di\u00e9t\u00e9ticien / Di\u00e9t\u00e9ticienne nutritionniste",
+            "priorisation": "1",
+            "libelle": "Di\u00e9t\u00e9ticien / Di\u00e9t\u00e9ticienne nutritionniste",
+            "code_ogr": "14172"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Prendre en compte les habitudes alimentaires, ant\u00e9c\u00e9dents m\u00e9dicaux, traitements des personnes et d\u00e9terminer leurs besoins nutritionnels",
+            "code_ogr": "793",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accompagner les personnes dans la mise en oeuvre du programme nutritionnel",
+            "code_ogr": "2653",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer des menus selon la prescription m\u00e9dicale ou les besoins individuels et informer le personnel de cuisine",
+            "code_ogr": "1698",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Informer et sensibiliser en mati\u00e8re d'alimentation, d'hygi\u00e8ne de vie et de pr\u00e9vention des risques (allergies, ob\u00e9sit\u00e9, maladies cardio-vasculaires, ...)",
+            "code_ogr": "2197",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser le suivi di\u00e9t\u00e9tique et \u00e9changer des informations avec diff\u00e9rents intervenants (\u00e9quipe soignante, \u00e9ducative, ...)",
+            "code_ogr": "2811",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9tecter des situations \u00e0 risques (troubles du comportement alimentaire, d\u00e9nutrition, ...) et orienter les personnes vers un m\u00e9decin, psychologue, ...",
+            "code_ogr": "1369",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "6",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1405",
+            "libelle_rome_cible": "Conseil en information m\u00e9dicale"
+        },
+        {
+            "code_rome_cible": "H1502",
+            "libelle_rome_cible": "Management et ing\u00e9nierie qualit\u00e9 industrielle"
+        },
+        {
+            "code_rome_cible": "H2502",
+            "libelle_rome_cible": "Management et ing\u00e9nierie de production"
+        },
+        {
+            "code_rome_cible": "K1205",
+            "libelle_rome_cible": "Information sociale"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec le BTS de di\u00e9t\u00e9tique ou le DUT G\u00e9nie biologique option di\u00e9t\u00e9tique.\nDes formations compl\u00e9mentaires (nutrition et di\u00e9t\u00e9tique de l'adulte, sport et nutrition, aliments et sant\u00e9, s\u00e9curit\u00e9 alimentaire, ...) peuvent \u00eatre requises.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Mettre en place une d\u00e9marche de soin di\u00e9t\u00e9tique lors de :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Affections cardiaques (hypertension, maladies cardio vasculaires, ...)",
+            "code_ogr": "7537",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Allergies alimentaires",
+            "code_ogr": "7538",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9s\u00e9quilibre du poids (surcharge pond\u00e9rale, ob\u00e9sit\u00e9, ...)",
+            "code_ogr": "7539",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Maladies m\u00e9taboliques (diab\u00e8te, ...)",
+            "code_ogr": "7540",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pathologies digestives",
+            "code_ogr": "7541",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Troubles du comportement alimentaire (anorexie, boulimie, ...)",
+            "code_ogr": "7542",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Concevoir ou adapter des menus selon les imp\u00e9ratifs budg\u00e9taires de la structure de restauration collective et les sp\u00e9cificit\u00e9s du public (\u00e2ge, r\u00e9gimes alimentaires, ...)",
+            "code_ogr": "4026",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mettre en place un circuit alimentaire (achat de denr\u00e9es, pr\u00e9paration et distribution des repas, ...) au sein d'une structure",
+            "code_ogr": "7523",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer ou faire \u00e9voluer des proc\u00e9dures, les protocoles en mati\u00e8re alimentaire (manipulation et conservation de denr\u00e9es, liaisons chaudes/froides, ...) et en contr\u00f4ler la conformit\u00e9 d'application",
+            "code_ogr": "5639",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Concevoir et mettre en place des actions d'\u00e9ducation nutritionnelle (ateliers d'initiation au go\u00fbt, semaine \u00e0 th\u00e8me, ...)",
+            "code_ogr": "4000",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le suivi administratif et comptable d'une structure",
+            "code_ogr": "3540",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener des actions :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Animation de commissions de menus",
+            "code_ogr": "7366",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Participation \u00e0 des instances (Comit\u00e9s de Liaison Alimentation Nutrition -CLAN-, ...)",
+            "code_ogr": "7371",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9alisation d'enqu\u00eates (\u00e9pid\u00e9miologiques, alimentaires, ...)",
+            "code_ogr": "7335",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivi consommateurs",
+            "code_ogr": "7381",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des soins di\u00e9t\u00e9tiques aupr\u00e8s de :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Adultes",
+            "code_ogr": "5504",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Curistes",
+            "code_ogr": "5505",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Enfants, adolescents",
+            "code_ogr": "5506",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Patients aliment\u00e9s par voie parent\u00e9rale et/ou ent\u00e9rale",
+            "code_ogr": "5507",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Patients hospitalis\u00e9s",
+            "code_ogr": "5508",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Personnes \u00e2g\u00e9es",
+            "code_ogr": "5509",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "6",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sportifs",
+            "code_ogr": "5510",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "7",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce en cabinet ou au sein d'\u00e9tablissements de soins, de collectivit\u00e9s, d'entreprises de restauration, ... en relation avec diff\u00e9rents intervenants (personnels de restauration, soignants, service d'hygi\u00e8ne, ...).\nElle peut varier selon le secteur (restaurant scolaire, restaurant d'entreprise, cabinet, h\u00f4pital, ...) ou le public (sportifs, personnes \u00e2g\u00e9es, ...).\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Prise de mesures anthropom\u00e9triques (poids, indice de masse corporelle, ...)",
+            "code_ogr": "21062",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Cabinet m\u00e9dical",
+            "code_ogr": "23750",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise alimentaire",
+            "code_ogr": "23868",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement m\u00e9dical (h\u00f4pital, clinique, ...)",
+            "code_ogr": "23922",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Infrastructure sportive",
+            "code_ogr": "23970",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Restaurant de collectivit\u00e9",
+            "code_ogr": "24054",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Au domicile de particulier",
+            "code_ogr": "23375",
+            "code_type_section_env": "3"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en psychologie",
+            "code_ogr": "21908",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Physiopathologie du comportement alimentaire (conduites alimentaires, ...)",
+            "code_ogr": "22290",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaire Hazard Analysis Critical Control Point -HACCP-",
+            "code_ogr": "22650",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de production culinaire",
+            "code_ogr": "23066",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de r\u00e9\u00e9ducation nutritionnelle",
+            "code_ogr": "23083",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etapes du d\u00e9veloppement de l'enfant",
+            "code_ogr": "21938",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en g\u00e9rontologie",
+            "code_ogr": "21870",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en p\u00e9diatrie",
+            "code_ogr": "21901",
+            "position_item": "3",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nElabore le bilan di\u00e9t\u00e9tique et r\u00e9alise le suivi nutritionnel de personnes bien portantes ou de malades (patients hospitalis\u00e9s, diab\u00e9tiques, ...) selon la prescription m\u00e9dicale ou la demande individuelle.\nConseille et informe les professionnels (de restauration, de sant\u00e9, ...) sur la di\u00e9t\u00e9tique et l'hygi\u00e8ne alimentaire.\nPeut contr\u00f4ler la cha\u00eene alimentaire en collectivit\u00e9 (de la conception des menus \u00e0 la distribution des repas) selon la r\u00e9glementation en mati\u00e8re d'hygi\u00e8ne alimentaire.\nPeut diriger un cabinet.\n",
+    "intitule": "Di\u00e9t\u00e9tique",
+    "code_ogr": "346",
+    "code_rome": "J1402",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "J1502",
+            "libelle_rome_cible": "Coordination de services m\u00e9dicaux ou param\u00e9dicaux"
+        },
+        {
+            "code_rome_cible": "K1103",
+            "libelle_rome_cible": "D\u00e9veloppement personnel et bien-\u00eatre de la personne"
+        }
+    ]
+}

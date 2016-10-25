@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">enseignant/e-chercheur/euse</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">enseigner, éduquer/faire de la recherche/animer des activités culturelles, ludiques ou éducatives</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur de l'éducation/secteur recherche/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">enseignement - formation</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10204</lien_onisep>
+<ROME Level="1B" csRelFld="10204">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="501" csRelFld="501">
+<CSLABELFLD label="">K2108</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Formation initiale et continue</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K2108</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Enseignement supérieur</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10204">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16527" csRelFld="16527">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16527</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10204</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Creuser un sujet</inter>
+<p>Architecture, biologie ou sciences politiques... l'enseignant-chercheur est passionné par un sujet qu'il souhaite développer en se consacrant à la recherche fondamentale ou appliquée. À partir d'un travail en bibliothèque ou en laboratoire, et d'une réflexion personnelle, il participe à l'enrichissement de sa discipline dans le cadre d'objectifs définis au niveau national ou régional. Dans les filières professionnalisées, il participe à la coopération entre l'université et le monde professionnel. </p>
+<inter>Diffuser et partager les connaissances</inter>
+<p>Le chercheur participe à la diffusion des connaissances scientifiques en publiant ses travaux et en participant à des conférences et des colloques. À partir de ses lectures et de ses recherches, il s'interroge, émet des hypothèses, conduit des expériences, analyse, interprète et exploite les résultats. S'il est professeur d'université, il impulse et dirige les activités du centre de recherche auquel il appartient : centre ou laboratoire, universitaire ou associé au CNRS (Centre national de la recherche scientifique).</p>
+<inter>Conseiller les étudiants</inter>
+<p>En tant qu'enseignant, il transmet les connaissances récentes issues des recherches conduites dans son domaine de spécialisation aux étudiants. L'enseignant-chercheur participe aussi à la définition des orientations des activités du laboratoire, aux demandes de financement. Il organise la communication du labo, à travers colloques et publications. Il met au point des modules d'enseignement, participe à des jurys d'examen, encadre les travaux de préparation des thèses des doctorants, assure le suivi des mémoires et des stages des étudiants en master. Il les conseille dans leurs choix d'orientation.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16523" csRelFld="16523">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16523</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10204</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>L'enseignant-chercheur est un doctorant qui prépare une thèse (en 3 ou 4 ans) après un master recherche (bac + 5). Durant cette période, il bénéficie d'une allocation de recherche et peut assurer des cours en tant qu'ATER (attaché temporaire d'enseignement et de recherche). Dans les universités, les écoles doctorales accompagnent l'apprenti chercheur. Elles l'initient aux contacts avec les entreprises, l'aident à trouver un financement : bourse, contrat doctoral, convention CIFRE (convention industrielle de formation par la recherche), etc. </p>
+<p>Pour devenir maître de conférences ou professeur des universités, l'enseignant-chercheur doit être inscrit sur une liste nationale de qualification du CNU (Conseil national des universités). Après avoir obtenu la qualification, il peut se présenter aux concours de recrutement organisés par les établissements d'enseignement supérieur. L'HDR (habilitation à diriger des recherches) est indispensable pour se présenter au concours de professeur des universités. À noter : dans les disciplines juridiques, politiques, économiques et de gestion, les professeurs sont recrutés par le concours de l'agrégation.</p>
+<liste>
+<tete>Niveau bac + 5 et plus</tete>
+<itsimp>Doctorat</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16528" csRelFld="16528">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16528</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10204</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un marché concurrentiel</inter>
+<p>Le marché du travail pour les doctorants reste très concurrentiel et les recrutements d'enseignants-chercheurs sont relativement stables. Les disciplines qui recrutent le plus sont les lettres, les sciences humaines, le droit, l'économie et la gestion, et les sciences pour l'ingénieur.</p>
+<inter>Les femmes en progression</inter>
+<p>Ces métiers sont surtout exercés par des hommes, mais la proportion de femmes est en constante progression : 28 % parmi les professeurs d'université et 43 % parmi les maîtres de conférences (MESR, 2009). Les femmes sont plus nombreuses en lettres et en sciences humaines (57 % des maîtres de conférences) qu'en sciences pour l'ingénieur ou en informatique (21 %).</p>
+<inter>Habilitation à diriger des recherches</inter>
+<p>Après quelques années d'enseignement et de recherche, un maître de conférences peut présenter ses travaux et publications devant un jury pour obtenir l'HDR (habilitation à diriger des recherches). Ce diplôme atteste de la capacité à encadrer les activités d'un jeune chercheur. Il permet d'être directeur de thèse pour un doctorant et de postuler au corps des professeurs des universités. Avec de l'expérience, un enseignant-chercheur peut aussi prendre la responsabilité d'une équipe ou diriger une unité de recherche composée de chercheurs et de techniciens.</p>
+<remun>
+<p>Salaire du débutant</p>
+<p>
+<sal>2100 </sal>euros brut par mois environ pour un maître de conférences ; autour de <sal>3000 </sal>euros brut par mois pour un professeur des universités. </p>
+<p>Chiffres auxquels peuvent s'ajouter diverses primes : prime de recherche et d'enseignement supérieur (1245 euros brut par an), prime de responsabilité pédagogique (de 3500 à 15 000 euros par an), prime d'excellence scientifique (de 3500 à 15 000 euros par an)...</p>
+<postit>
+<p> Source : décret n° 2013-305 du 10 avril 2013 relatif à l'échelonnement indiciaire applicable aux corps d'enseignants-chercheurs.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

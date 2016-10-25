@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e en génie climatique</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">concevoir, utiliser des technologies industrielles de pointe/coordonner l'activité d'une équipe/faire de la recherche</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction études développement industriel /fonction maintenance</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur second oeuvre bâtiment/secteur sociétés d'ingénierie et d'études techniques/secteur maintenance/secteur gros oeuvre bâtiment/secteur recherche/secteur énergie</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">climatisation/énergie thermique/équipement technique du bâtiment/chauffage</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE bâtiment équipements et finitions/ingénieur en génie climatique</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100407</lien_onisep>
+<ROME Level="1B" csRelFld="100407">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="176" csRelFld="176">
+<CSLABELFLD label="">F1106</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception et études</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">F1106</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Ingénierie et études du BTP</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100407">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="34627" csRelFld="34627">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">34627</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100407</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Confort</inter>
+<p>Planchers chauffants, ventilation par déplacement d'air, climatisation à basse consommation... L'ingénieur en génie climatique utilise des procédés visant à optimiser le confort thermique de différents types de bâtiments (habitations, hôpitaux, bureaux, centres commerciaux...). De la conception à la maintenance en passant par l'installation, cet expert en énergies renouvelables sait jongler avec les contraintes : maîtrise des consommations énergétiques, préservation de l'environnement et respect des normes de sécurité. </p>
+<inter>Conception et essais</inter>
+<p>Lors de la phase de conception, il effectue des études techniques et des chiffrages, rédige des devis descriptifs, réalise des plans, choisit les meilleurs matériaux... Puis il procède à la réalisation de plates-formes d'essai et effectue de nombreux tests. Réglages, régulations et contrôles font partie de son quotidien en laboratoire de mesures. </p>
+<inter>Exploitation et maintenance</inter>
+<p>L'installation est opérationnelle : il faut s'occuper du suivi des équipements dans les bâtiments, c'est-à-dire veiller à ce que tout fonctionne normalement, chercher à réduire les coûts et proposer des améliorations.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="34631" csRelFld="34631">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">34631</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100407</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>La plupart des ingénieurs en génie climatique sont passés par une école d'ingénieurs généraliste ou spécialisée.</accr_p> L'Insa (Strasbourg) est la seule école qui possède une filière complète en génie climatique et énergétique, créée à la demande de la profession. Certains, cependant, ont choisi un parcours universitaire, mentions énergétique, thermique, ou énergie</p>
+<liste>
+<tete>Niveau bac + 5 </tete>
+<itsimp>Diplôme d'une école d'ingénieurs </itsimp>
+<itsimp>Master mention énergie, ou énergétique, thermique </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="34629" csRelFld="34629">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">34629</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100407</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Nombreux débouchés</inter>
+<p>Développement durable aidant, l'ingénieur en génie climatique est de plus en plus demandé. Les lieux d'exercice sont multiples : entreprise d'installation (ingénieur chargé d'affaires), bureau d'études du génie climatique (ingénieur d'études), société d'exploitation et de services, constructeur (ingénieur R &amp; D, marketing...), producteur et distributeur d'énergie, bureau de contrôle, organisation professionnelle, établissement de recherche et de formation, compagnie d'assurances, administration...</p>
+<inter>Perspectives d'évolution</inter>
+<p>Avec de l'expérience, il peut notamment devenir chef dans une petite ou une moyenne entreprise. Chez des exploitants, il devient rapidement directeur d'exploitation et est souvent responsable de plusieurs sites. Il peut encore devenir ingénieur expert. </p>
+<inter>Formation continue indispensable</inter>
+<p>Nouvelle réglementation, nouveaux produits, nouvelles attentes professionnelles... L'ingénieur en génie climatique doit en permanence se former et se tenir informé. De nombreuses formations lui sont proposées pour lui permettre de développer son champ de compétences tout au long de sa carrière.</p>
+<remun>
+<inter>Salaire débutant</inter>
+<p>
+<sal>2500</sal> euros brut par mois.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

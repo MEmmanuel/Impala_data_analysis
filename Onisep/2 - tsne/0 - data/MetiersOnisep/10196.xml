@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">rédacteur/trice en chef</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">informer, communiquer/coordonner l'activité d'une équipe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction information - communication</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur de l'audiovisuel/secteur édition - presse</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">journalisme</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques de la communication média/rédacteur en chef</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10196</lien_onisep>
+<ROME Level="1B" csRelFld="10196">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="148" csRelFld="148">
+<CSLABELFLD label="">E1106</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Edition et communication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">E1106</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Journalisme et information média</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10196">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16353" csRelFld="16353">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16353</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10196</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Donner le ton</inter>
+<p>Au sein d'un journal, d'une radio, d'une télévision ou d'un site web d'information, le rédacteur en chef est celui qui choisit des sujets à traiter. Toute idée d'article lui est obligatoirement soumise. Il dirige les conférences de rédaction, détermine les sujets (angle, nombre de pages, de minutes...), répartit le travail entre les journalistes, et choisit le titre de la une (première page), l'ouverture du journal télévisé... La relecture des textes et des reportages fait également partie de ses missions. </p>
+<inter>Garantir la ligne éditoriale</inter>
+<p>À la tête de l'équipe rédactionnelle, ce journaliste expérimenté est le garant de la ligne éditoriale du média pour lequel il exerce. Il réfléchit à la mise en pages de la publication, donne son aval sur le contenu rédactionnel et visuel, veille au ton des papiers ou des flashs info, insuffle une orientation ou une neutralité de style selon le média pour lequel il travaille.</p>
+<inter>Défendre l'image de son média</inter>
+<p>Défendre l'image du journal relève aussi de ses fonctions. Il cherche à développer la notoriété de son titre auprès du public, mais aussi auprès de différents milieux (politiques, économiques, culturels, publicitaires, médiatiques). En relation étroite avec la direction, il veille au respect des budgets et des délais, établit les plannings et participe à l'élaboration des stratégies marketing et publicitaires.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16354" csRelFld="16354">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16354</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10196</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Les 14 écoles de journalisme reconnues par la profession constituent la voie la plus sûre pour accéder aux différents métiers du journalisme : l'ESJ à Lille ; le CFJ à Paris, l'IPJ, l'École de journalisme de Sciences Po, le Celsa, l'IFP à Paris ; le CUEJ à Strasbourg ; l'IJBA à Bordeaux ; l'EJDG à Grenoble; l'EJT à Toulouse ; l'EJCM à Marseille ; et les trois départements information-communication option journalisme des IUT (instituts universitaires de technologie) de Lannion, de Tours (EPJT) et Nice. L'entrée se fait sur concours, très sélectifs, accessibles aux titulaires d'un bac pour le DUT (diplôme universitaire de technologie), d'un bac + 2 pour la licence pro journalisme de Tours, et d'un bac + 3 pour les autres écoles (dans la réalité, la majorité des candidats possède un niveau bac + 4, voire + 5). Des écoles privées et des masters peuvent également mener au journalisme.</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>DUT information-communication option journalisme</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licences en information-communication</itsimp>
+<itsimp>Licences pro Métiers de l'information : métiers du journalisme et de la presse</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 4/5</tete>
+<itsimp>Diplômes d'écoles de jo urnalisme reconnues par la profession </itsimp>
+<itsimp>Diplômes d'écoles privées en journalisme </itsimp>
+<itsimp>Masters journalisme</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16473" csRelFld="16473">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16473</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10196</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des postes au compte-gouttes</inter>
+<p>Avec un rédacteur en chef par rédaction, les places sont chères ! La fonction de rédacteur en chef est occupée par 7 % des journalistes titulaires de la carte de presse ; 67 % sont des hommes (chiffres 2011, CCIJP). Il existe autant d'itinéraires que de professionnels recrutés. Les relations et les rencontres peuvent jouer un rôle important. Avec l'essor du Web, de nouvelles opportunités se présentent. Dans la sphère Internet, l'ascension professionnelle est généralement plus rapide que dans les médias traditionnels, et les entreprises confient volontiers des responsabilités à de jeunes journalistes justifiant de compétences techniques et informatiques.</p>
+<inter>Une fonction à risques</inter>
+<p>Accéder à cet échelon de la hiérarchie ne met pas ce journaliste expérimenté à l'abri d'une certaine précarité professionnelle. En cas de changement de propriétaire ou d'actionnaire majoritaire du média, le rédacteur en chef est souvent le premier à être remplacé...</p>
+<inter>À Paris ou en région</inter>
+<p>Le métier s'exerce plutôt en région parisienne, où les médias sont concentrés. Néanmoins, l'évolution vers la fonction de rédacteur en chef est généralement plus aisée en région. On peut, après quelques années d'expérience dans un média de proximité, se voir confier une antenne locale, puis régionale.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2006</sal> à 5275 euros brut par mois</p>
+<postit>
+<p>(source : Syndicat national des journalistes, grille des salaires au 1<exp>er</exp> mai 2012).</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

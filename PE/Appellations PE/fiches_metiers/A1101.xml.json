@@ -1,0 +1,556 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Chauffeur / Chauffeuse de machines agricoles",
+            "priorisation": "1",
+            "libelle": "Chauffeur / Chauffeuse de machines agricoles",
+            "code_ogr": "11987"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice d'abatteuses",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice d'abatteuses",
+            "code_ogr": "12862"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice d'automoteur de r\u00e9colte",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice d'automoteur de r\u00e9colte",
+            "code_ogr": "38874"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de machines \u00e0 vendanger",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de machines \u00e0 vendanger",
+            "code_ogr": "13232"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de mat\u00e9riels de semis",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de mat\u00e9riels de semis",
+            "code_ogr": "38878"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de pulv\u00e9risateur",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de pulv\u00e9risateur",
+            "code_ogr": "38875"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice  de t\u00eate d'abattage",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de t\u00eate d'abattage",
+            "code_ogr": "13197"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de tracteur",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de tracteur",
+            "code_ogr": "13201"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de tracto-benne",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de tracto-benne",
+            "code_ogr": "38879"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice d'engins de d\u00e9bardage",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice d'engins de d\u00e9bardage",
+            "code_ogr": "13248"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice d'engins d'exploitation agricole",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice d'engins d'exploitation agricole",
+            "code_ogr": "13254"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice d'engins d'exploitation foresti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice d'engins d'exploitation foresti\u00e8re",
+            "code_ogr": "13255"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice d'engins forestiers",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice d'engins forestiers",
+            "code_ogr": "13256"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice d'\u00e9pareuse",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice d'\u00e9pareuse",
+            "code_ogr": "38877"
+        },
+        {
+            "libelle_court": "D\u00e9bardeur / D\u00e9bardeuse",
+            "priorisation": "1",
+            "libelle": "D\u00e9bardeur / D\u00e9bardeuse",
+            "code_ogr": "13886"
+        },
+        {
+            "libelle_court": "D\u00e9bardeur forestier / D\u00e9bardeuse foresti\u00e8re",
+            "priorisation": "1",
+            "libelle": "D\u00e9bardeur forestier / D\u00e9bardeuse foresti\u00e8re",
+            "code_ogr": "13887"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice d'abatteuse",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice d'abatteuse",
+            "code_ogr": "17055"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice d'\u00e9pandage",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice d'\u00e9pandage",
+            "code_ogr": "38876"
+        },
+        {
+            "libelle_court": "Pilote de machines d'abattage",
+            "priorisation": "1",
+            "libelle": "Pilote de machines d'abattage",
+            "code_ogr": "17751"
+        },
+        {
+            "libelle_court": "Tractoriste agricole",
+            "priorisation": "1",
+            "libelle": "Tractoriste agricole",
+            "code_ogr": "20404"
+        },
+        {
+            "libelle_court": "Tractoriste forestier / Tractoriste foresti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Tractoriste forestier / Tractoriste foresti\u00e8re",
+            "code_ogr": "20405"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier le type et le lieu d'intervention \u00e0 partir du planning, pr\u00e9parer et param\u00e9trer le mat\u00e9riel",
+            "code_ogr": "2072",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Atteler les \u00e9quipements (charrue, semoir, ...) et installer les protections et s\u00e9curit\u00e9s",
+            "code_ogr": "780",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conduire les engins agricoles sur les chantiers et sur la route vers le lieu de production (champs, for\u00eat, ...), de stockage, de livraison (fermes, coop\u00e9ratives, ...)",
+            "code_ogr": "923",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mat\u00e9rialiser des limites de parcelles, de passage de mat\u00e9riel agricole, ... avec des rep\u00e8res informatiques (\u00e9crans embarqu\u00e9s) et visuels, des balises, drapeaux, ...",
+            "code_ogr": "2291",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Approvisionner les engins en produits phytosanitaires, engrais, semences et en carburant",
+            "code_ogr": "745",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien et la maintenance de premier niveau du mat\u00e9riel et des locaux",
+            "code_ogr": "1600",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "A1416",
+            "libelle_rome_cible": "Polyculture, \u00e9levage"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un CAP/BEP dans le secteur agricole (production agricole, agro\u00e9quipement, ...) ou forestier (travaux forestiers, ...).\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans le m\u00eame secteur sans dipl\u00f4me particulier.\nUn Certificat de Sp\u00e9cialisation Agricole -CSA- tracteurs et machines agricoles (utilisation et maintenance) peut en faciliter l'acc\u00e8s.\nUn Bac ou un BTS peut \u00eatre demand\u00e9 selon la technicit\u00e9 des engins utilis\u00e9s.\nLes permis C, C1, CE, C1E (pr\u00e9c\u00e9demment C et EC) peuvent \u00eatre requis.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 372-1 (Tracteur et petits engins de chantiers mobiles)",
+            "code_ogr": "10104",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 372-2 (Engins d'extraction ou de chargement \u00e0 d\u00e9placement s\u00e9quentiel)",
+            "code_ogr": "10106",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 372-8 (Engins de transport ou d'extraction transport (tombereau, d\u00e9capeuses, tracteur agricole > 50 ch, ...))",
+            "code_ogr": "10112",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 372- 9 (Engins de manutention (chariot \u00e9l\u00e9vateur))",
+            "code_ogr": "10102",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-5 (Chariots \u00e9l\u00e9vateurs \u00e0 m\u00e2t r\u00e9tractable)",
+            "code_ogr": "10126",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 390 (Grues auxiliaires de chargement de v\u00e9hicules)",
+            "code_ogr": "10128",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des r\u00e9visions de mat\u00e9riels et renseigner les livrets d'entretien",
+            "code_ogr": "5082",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9barder des grumes et les empiler, les stocker",
+            "code_ogr": "4430",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9colter des produits \u00e0 maturit\u00e9 par fauchage, moissonnage, pressage",
+            "code_ogr": "3593",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser l'abattage d'arbres et le d\u00e9bitage de troncs",
+            "code_ogr": "9184",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les op\u00e9rations de pr\u00e9paration des sols et de plantation (\u00e9pandage, semis, r\u00e9colte, ...)",
+            "code_ogr": "1639",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Entretenir des espaces naturels, des foss\u00e9s et rivi\u00e8res",
+            "code_ogr": "38887",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cr\u00e9er et entretenir des pistes",
+            "code_ogr": "38888",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de structures agricoles (exploitation, Entreprise de Travaux Agricoles -ETA-, Coop\u00e9rative d'Utilisation du Mat\u00e9riel Agricole -CUMA-, ...) ou foresti\u00e8res (p\u00e9pini\u00e8res foresti\u00e8res, Entreprises de Travaux Forestiers - ETF, exploitations foresti\u00e8res, ...), en contact avec diff\u00e9rents intervenants (techniciens de coop\u00e9ratives, clients, ...).\nElle varie selon le secteur (agricole, forestier), le type d'\u00e9quipement et le degr\u00e9 de m\u00e9canisation de la structure.\nL'activit\u00e9 peut impliquer la manipulation de charges.\nLe port d'Equipements de Protection Individuelle -EPI- (casque anti-bruit, lunettes, pantalon de s\u00e9curit\u00e9, ...) peut \u00eatre exig\u00e9.\nCet emploi/m\u00e9tier peut s'exercer en horaires fractionn\u00e9s, en soir\u00e9e, les fins de semaines, jours f\u00e9ri\u00e9s et \u00eatre soumis \u00e0 des pics d'activit\u00e9.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Soudage",
+            "code_ogr": "21100",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outillages manuels (cl\u00e9, pince, scie, ...)",
+            "code_ogr": "21465",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'engins agricoles",
+            "code_ogr": "21413",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'engins forestiers",
+            "code_ogr": "21416",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de syst\u00e8me informatique (embarqu\u00e9 ou fixe)",
+            "code_ogr": "21390",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de d\u00e9busqueur",
+            "code_ogr": "21198",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Coop\u00e9rative agricole",
+            "code_ogr": "23833",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de travaux agricoles",
+            "code_ogr": "23902",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de travaux forestiers",
+            "code_ogr": "23904",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Exploitation agricole",
+            "code_ogr": "23929",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Exploitation foresti\u00e8re",
+            "code_ogr": "23932",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Exploitation viticole / vinicole",
+            "code_ogr": "23933",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "P\u00e9pini\u00e8re",
+            "code_ogr": "24033",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Techniques culturales",
+            "code_ogr": "22757",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9canique g\u00e9n\u00e9rale",
+            "code_ogr": "21882",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en hydraulique",
+            "code_ogr": "21875",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en pneumatique",
+            "code_ogr": "21905",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes environnementales",
+            "code_ogr": "22230",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9",
+            "code_ogr": "22621",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de pr\u00e9servation de la biodiversit\u00e9",
+            "code_ogr": "38314",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Biologie v\u00e9g\u00e9tale",
+            "code_ogr": "21530",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en agronomie",
+            "code_ogr": "38886",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des \u00e9cosyst\u00e8mes",
+            "code_ogr": "21572",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise des travaux m\u00e9canis\u00e9s agricoles, sylvicoles ou forestiers (pr\u00e9paration des sols, semis, r\u00e9colte, abattage d'arbres, ...) selon les objectifs de production (quantit\u00e9, qualit\u00e9, ...), la commande du client, les r\u00e8gles d'hygi\u00e8ne, de s\u00e9curit\u00e9 et la r\u00e9glementation environnementale.\n",
+    "intitule": "Conduite d'engins agricoles et forestiers",
+    "code_ogr": "6",
+    "code_rome": "A1101",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "A1201",
+            "libelle_rome_cible": "B\u00fbcheronnage et \u00e9lagage"
+        },
+        {
+            "code_rome_cible": "A1202",
+            "libelle_rome_cible": "Entretien des espaces naturels"
+        },
+        {
+            "code_rome_cible": "A1203",
+            "libelle_rome_cible": "Entretien des espaces verts"
+        },
+        {
+            "code_rome_cible": "A1205",
+            "libelle_rome_cible": "Sylviculture"
+        },
+        {
+            "code_rome_cible": "A1302",
+            "libelle_rome_cible": "Contr\u00f4le et diagnostic technique en agriculture"
+        },
+        {
+            "code_rome_cible": "A1405",
+            "libelle_rome_cible": "Arboriculture et viticulture"
+        },
+        {
+            "code_rome_cible": "A1414",
+            "libelle_rome_cible": "Horticulture et mara\u00eechage"
+        },
+        {
+            "code_rome_cible": "D1402",
+            "libelle_rome_cible": "Relation commerciale grands comptes et entreprises"
+        },
+        {
+            "code_rome_cible": "F1302",
+            "libelle_rome_cible": "Conduite d'engins de terrassement et de carri\u00e8re"
+        },
+        {
+            "code_rome_cible": "I1603",
+            "libelle_rome_cible": "Maintenance d'engins de chantier, levage, manutention et de machines agricoles"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        },
+        {
+            "code_rome_cible": "N1104",
+            "libelle_rome_cible": "Manoeuvre et conduite d'engins lourds de manutention"
+        },
+        {
+            "code_rome_cible": "N4101",
+            "libelle_rome_cible": "Conduite de transport de marchandises sur longue distance"
+        }
+    ]
+}

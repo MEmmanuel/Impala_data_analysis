@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">technicien/ne d'exploitation de l'eau</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">contrôler la qualité, expertiser/préserver l'environnement</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction qualité</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur du traitement et de la distribution des eaux/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">traitement de l'eau</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE nettoyage assainissement environnement sécurité/technicien d'exploitation de l'eau</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100327</lien_onisep>
+<ROME Level="1B" csRelFld="100327">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="517" csRelFld="517">
+<CSLABELFLD label="">K2306</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Propreté et environnement urbain</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K2306</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Supervision d'exploitation éco-industrielle</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100327">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="30665" csRelFld="30665">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30665</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100327</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Pilote de l'usine</inter>
+<p>Le technicien d'exploitation surveille les différents paramètres de débit et de qualité de l'eau grâce à un tableau électronique mural, tout en commandant à distance, depuis un système de gestion technique centralisée. De là, il va, par exemple, agir sur les pompes pour réguler le débit en fonction du niveau dans les réservoirs, modifier le taux de chlore ou d'ozone pour le traitement de l'eau, ou encore mettre en marche un filtre.</p>
+<inter>Surveillant général</inter>
+<p>Plus encore que la quantité, il doit assurer la qualité de l'eau distribuée. À la production, le technicien est donc aux ordres du laboratoire : c'est celui-ci qui dictera le taux de traitement d'après les résultats des analyses ou qui décidera de l'arrêt de l'usine s'il y a, par exemple, une alarme hydrocarbure signalant, au niveau de la prise d'eau, une pollution en rivière.</p>
+<inter>Chef de la maintenance</inter>
+<p>En cas d'incident, le technicien d'exploitation cherche, dans l'urgence, à comprendre ce qui se passe, pose un diagnostic et aiguille au plus vite l'équipe de maintenance. Puis il remet l'usine en route. De fait, si le processus de traitement de l'eau est presque entièrement automatisé, le technicien doit être capable de reproduire manuellement chaque séquence du procédé de traitement des eaux.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="30669" csRelFld="30669">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30669</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100327</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Le BTS est la principale voie d'accès au métier.</accr_p> Un diplôme de niveau bac + 2 est généralement demandé pour exercer la fonction de technicien d'exploitation de l'eau. Il n'est cependant pas indispensable d'être issu de filières spécialisées. Les sociétés d'exploitation ont tendance à diversifier les profils. Vous pouvez ainsi choisir un BTS, un DUT ou une licence professionnelle dans les domaines du contrôle industriel, de l'électrotechnique, de la chimie, de la biologie... Dans tous les cas, la réactualisation fréquente des connaissances est indispensable, ce métier étant en perpétuelle évolution technique.</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS Métiers de l'eau</itsimp>
+<itsimp>BTSA Gestion et maîtrise de l'eau </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="30667" csRelFld="30667">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30667</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100327</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Les entreprises privées</inter>
+<p>Un technicien d'exploitation de l'eau peut travailler dans la fonction publique ou dans le privé. Les entreprises privées sont représentées par de grandes compagnies de distribution d'eau (Suez Environnement, Lyonnaise des eaux, Veolia Environnement Générale des eaux...) auxquelles des communes ont délégué le traitement de leurs eaux usées. Certaines grandes usines de fabrication (raffineries, industries agroalimentaires...) doivent épurer elles-mêmes leurs eaux usées et emploient des techniciens spécialisés.</p>
+<inter>La fonction publique</inter>
+<p>La fonction publique territoriale représente un quart du marché du travail. Le technicien d'exploitation de l'eau y travaille comme fonctionnaire, pour les collectivités locales (communes ou regroupements de communes). Le recrutement s'effectue alors sur concours, parfois sur contrat à durée déterminée.</p>
+<inter>Des promotions en vue </inter>
+<p>Après quelques années à la production, un technicien peut encadrer une équipe de maintenance ou même assumer la responsabilité d'une unité d'exploitation, dans une station d'épuration par exemple.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>A partir du <sal>Smic</sal>.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

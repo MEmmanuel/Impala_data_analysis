@@ -1,0 +1,965 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Aide tuyauteur / tuyauteuse",
+            "priorisation": "1",
+            "libelle": "Aide tuyauteur / tuyauteuse",
+            "code_ogr": "10860"
+        },
+        {
+            "libelle_court": "Chef de chantier tuyauteur / tuyauteuse",
+            "priorisation": "1",
+            "libelle": "Chef de chantier tuyauteur / tuyauteuse",
+            "code_ogr": "12103"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe tuyauteur / tuyauteuse",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe tuyauteur / tuyauteuse",
+            "code_ogr": "12494"
+        },
+        {
+            "libelle_court": "Tuyauteur / Tuyauteuse",
+            "priorisation": "1",
+            "libelle": "Tuyauteur / Tuyauteuse",
+            "code_ogr": "20475"
+        },
+        {
+            "libelle_court": "Tuyauteur / Tuyauteuse en a\u00e9ronautique",
+            "priorisation": "1",
+            "libelle": "Tuyauteur / Tuyauteuse en a\u00e9ronautique",
+            "code_ogr": "20476"
+        },
+        {
+            "libelle_court": "Tuyauteur / Tuyauteuse en basse pression",
+            "priorisation": "1",
+            "libelle": "Tuyauteur / Tuyauteuse en basse pression",
+            "code_ogr": "20477"
+        },
+        {
+            "libelle_court": "Tuyauteur / Tuyauteuse en construction navale",
+            "priorisation": "1",
+            "libelle": "Tuyauteur / Tuyauteuse en construction navale",
+            "code_ogr": "20478"
+        },
+        {
+            "libelle_court": "Tuyauteur / Tuyauteuse en haute pression",
+            "priorisation": "1",
+            "libelle": "Tuyauteur / Tuyauteuse en haute pression",
+            "code_ogr": "20479"
+        },
+        {
+            "libelle_court": "Tuyauteur / Tuyauteuse en instrumentation",
+            "priorisation": "1",
+            "libelle": "Tuyauteur / Tuyauteuse en instrumentation",
+            "code_ogr": "20480"
+        },
+        {
+            "libelle_court": "Tuyauteur / Tuyauteuse en mati\u00e8res plastiques",
+            "priorisation": "1",
+            "libelle": "Tuyauteur / Tuyauteuse en mati\u00e8res plastiques",
+            "code_ogr": "20481"
+        },
+        {
+            "libelle_court": "Tuyauteur / Tuyauteuse en milieu nucl\u00e9aire",
+            "priorisation": "1",
+            "libelle": "Tuyauteur / Tuyauteuse en milieu nucl\u00e9aire",
+            "code_ogr": "20482"
+        },
+        {
+            "libelle_court": "Tuyauteur / Tuyauteuse sur acier inox",
+            "priorisation": "1",
+            "libelle": "Tuyauteur / Tuyauteuse sur acier inox",
+            "code_ogr": "20484"
+        },
+        {
+            "libelle_court": "Tuyauteur / Tuyauteuse sur non-ferreux",
+            "priorisation": "1",
+            "libelle": "Tuyauteur / Tuyauteuse sur non-ferreux",
+            "code_ogr": "20485"
+        },
+        {
+            "libelle_court": "Tuyauteur industriel / Tuyauteuse industrielle",
+            "priorisation": "1",
+            "libelle": "Tuyauteur industriel / Tuyauteuse industrielle",
+            "code_ogr": "20483"
+        },
+        {
+            "libelle_court": "Tuyauteur-cintreur / Tuyauteuse-cintreuse",
+            "priorisation": "1",
+            "libelle": "Tuyauteur-cintreur / Tuyauteuse-cintreuse",
+            "code_ogr": "20486"
+        },
+        {
+            "libelle_court": "Tuyauteur-monteur / Tuyauteuse-monteuse",
+            "priorisation": "1",
+            "libelle": "Tuyauteur-monteur / Tuyauteuse-monteuse",
+            "code_ogr": "20487"
+        },
+        {
+            "libelle_court": "Tuyauteur-soudeur / Tuyauteuse-soudeuse",
+            "priorisation": "1",
+            "libelle": "Tuyauteur-soudeur / Tuyauteuse-soudeuse",
+            "code_ogr": "20488"
+        },
+        {
+            "libelle_court": "Tuyauteur(se)-soudeur(se) en tuyauterie thermoplastique",
+            "priorisation": "1",
+            "libelle": "Tuyauteur-soudeur / Tuyauteuse-soudeuse en tuyauterie thermoplastique",
+            "code_ogr": "20489"
+        },
+        {
+            "libelle_court": "Tuyauteur-traceur / Tuyauteuse-traceuse",
+            "priorisation": "1",
+            "libelle": "Tuyauteur-traceur / Tuyauteuse-traceuse",
+            "code_ogr": "20490"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier les op\u00e9rations de r\u00e9alisation de tuyauterie, les mat\u00e9riaux et \u00e9l\u00e9ments \u00e0 partir des dossiers techniques, plans, ...",
+            "code_ogr": "2141",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Reporter les cotes et mesures sur les mat\u00e9riaux et effectuer les trac\u00e9s",
+            "code_ogr": "3111",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9couper les \u00e9l\u00e9ments et les mettre \u00e0 dimensions et en forme par pliage, cintrage, oxycoupage",
+            "code_ogr": "1236",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer les embouts et les bords \u00e0 souder, \u00e0 visser et les ajuster",
+            "code_ogr": "2574",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9-assembler, raccorder et fixer les lignes et les accessoires de tuyauterie (tron\u00e7ons, embouts, coudes, ...)",
+            "code_ogr": "2558",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la r\u00e9sistance, l'\u00e9tanch\u00e9it\u00e9 du tron\u00e7on, de la ligne, de l'installation et r\u00e9aliser les retouches, r\u00e9alignements",
+            "code_ogr": "1116",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports qualit\u00e9 et de suivi de production/r\u00e9alisation (incidents, interventions, ...)",
+            "code_ogr": "3068",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "H2902",
+            "libelle_rome_cible": "Chaudronnerie - t\u00f4lerie"
+        },
+        {
+            "code_rome_cible": "H2911",
+            "libelle_rome_cible": "R\u00e9alisation de structures m\u00e9talliques"
+        },
+        {
+            "code_rome_cible": "H2913",
+            "libelle_rome_cible": "Soudage manuel"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac (Bac professionnel, technologique, ...) en chaudronnerie, serrurerie, soudage ou tuyauterie.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle sans dipl\u00f4me particulier.\nDes habilitations sp\u00e9cifiques (soudure, contr\u00f4le, ...) peuvent \u00eatre exig\u00e9es.\nUn ou plusieurs Certificat(s) d'Aptitude \u00e0 la Conduite En S\u00e9curit\u00e9 -CACES- conditionn\u00e9(s) par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement peu(ven)t \u00eatre requis.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Intervenir sur des tuyauteries :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Basse pression",
+            "code_ogr": "7151",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "En milieu froid",
+            "code_ogr": "7154",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Forte \u00e9paisseur, grand diam\u00e8tre de tube",
+            "code_ogr": "7152",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Haute pression",
+            "code_ogr": "7153",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Intervenir sur des mat\u00e9riaux :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "M\u00e9taux ferreux (fonte, acier, ...)",
+            "code_ogr": "7093",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cuivre et ses alliages",
+            "code_ogr": "7089",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Aluminium et ses alliages",
+            "code_ogr": "7084",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Inox",
+            "code_ogr": "7092",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Plastiques, composites",
+            "code_ogr": "7096",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer un soudage n\u00e9cessitant une qualification :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Soudage \u00e0 la flamme",
+            "code_ogr": "5465",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Avec \u00e9lectrodes enrob\u00e9es SMAW (Soudage \u00e0 l'arc \u00e0 \u00e9lectrodes enrob\u00e9es - 111)",
+            "code_ogr": "5466",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Avec fil fourr\u00e9 sans gaz Innershield (Soudage \u00e0 l'arc avec fil fourr\u00e9 autoprotecteur - 114)",
+            "code_ogr": "5469",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sous flux en poudre SAW (Soudage \u00e0 l'arc sous flux (en poudre) avec un seul fil - 121)",
+            "code_ogr": "5477",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Metal Inert Gas -MIG- (Soudage \u00e0 l'arc semi automatique MIG avec fil \u00e9lectrode fusible - 131)",
+            "code_ogr": "5471",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Metal Active Gas -MAG- (Soudage \u00e0 l'arc semi automatique MAG avec fil \u00e9lectrode fusible - 135)",
+            "code_ogr": "5470",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Avec fil fourr\u00e9 sous gaz actif (Soudage \u00e0 l'arc MAG avec fil fourr\u00e9 de flux - 136)",
+            "code_ogr": "5467",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Avec fil fourr\u00e9 sous gaz inerte (Soudage \u00e0 l'arc MIG avec fil fourr\u00e9 - 137)",
+            "code_ogr": "5468",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Avec fil fourr\u00e9 sans laitier (Soudage \u00e0 l'arc semi automatique Metal Active Gas - MAG avec fil poudre m\u00e9tallique - 138)",
+            "code_ogr": "38807",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tungsten Inert Gas -TIG- (Soudage \u00e0 l'arc TIG avec fil d'apport - 141)",
+            "code_ogr": "5478",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "10",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Soudage \u00e0 la flamme oxyac\u00e9tyl\u00e9nique - 311",
+            "code_ogr": "5472",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "11",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Soudage par brasage",
+            "code_ogr": "5473",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "12",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Soudage par soudobrasage - 97",
+            "code_ogr": "5475",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "13",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Soudage plasma, micro plasma - 15",
+            "code_ogr": "5476",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "14",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Soudage par point",
+            "code_ogr": "5474",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "15",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des contr\u00f4les sp\u00e9cifiques de tuyauterie :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etanch\u00e9it\u00e9",
+            "code_ogr": "8315",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Examen visuel",
+            "code_ogr": "8316",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ressuage",
+            "code_ogr": "8317",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ultrasons",
+            "code_ogr": "8318",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des interventions n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation Nucl\u00e9aire HN 2",
+            "code_ogr": "8485",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation Nucl\u00e9aire HN1",
+            "code_ogr": "8486",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9vention des risques PR 1",
+            "code_ogr": "8490",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9vention des risques PR 2",
+            "code_ogr": "8491",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Qualit\u00e9, S\u00fbret\u00e9, Prestataires -QSP-",
+            "code_ogr": "8492",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-3 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 inf\u00e9rieure ou \u00e9gale \u00e0 6000 kg)",
+            "code_ogr": "10124",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 318 (ponts roulants)",
+            "code_ogr": "10100",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 386 (Plates-formes \u00e9l\u00e9vatrices mobiles de personnes)",
+            "code_ogr": "10120",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9terminer des modifications d'installation (retraits, rajouts, remplacements) et \u00e9tablir ou modifier des plans (cotation, positionnement d'\u00e9l\u00e9ments, ...)",
+            "code_ogr": "4648",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser un gabarit d'\u00e9l\u00e9ments de tuyauterie (dimensionnelle, g\u00e9om\u00e9trique, ...)",
+            "code_ogr": "9311",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Isoler des tuyauteries (calorifugeage, ...)",
+            "code_ogr": "7287",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des branchements, isolements ou purges de tuyauterie",
+            "code_ogr": "4859",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des r\u00e9parations ou modifications de tuyauteries (d\u00e9capage, d\u00e9montage d'\u00e9l\u00e9ments, d\u00e9coupage de tron\u00e7ons, ...)",
+            "code_ogr": "9079",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la conformit\u00e9 de r\u00e9alisations de fournisseurs, sous-traitants, prestataires",
+            "code_ogr": "3513",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises industrielles, chantiers navals en relation avec diff\u00e9rents services (maintenance, m\u00e9thodes, qualit\u00e9, ...), parfois en contact avec les clients. Elle peut impliquer des d\u00e9placements.\nElle varie selon le secteur (\u00e9nergie, maintenance, ...), le type d'\u00e9quipements et d'installations.\nElle peut s'exercer par roulement, les fins de semaine, jours f\u00e9ri\u00e9s ou de nuit.\nElle peut s'effectuer en hauteur et impliquer le port de charges.\nLe port d'Equipements de Protection Individuelle -EPI- (casque, gants, chaussures de s\u00e9curit\u00e9, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan isom\u00e9trique",
+            "code_ogr": "20954",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outillages manuels (cl\u00e9, pince, scie, ...)",
+            "code_ogr": "21465",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outillages \u00e9lectroportatifs (scie \u00e9lectrique, ponceuse, ...)",
+            "code_ogr": "21464",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'instruments d'alignement",
+            "code_ogr": "21433",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils de m\u00e9trologie",
+            "code_ogr": "21160",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils de mesure dimensionnelle",
+            "code_ogr": "21452",
+            "position_item": "6",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Tra\u00e7age Assist\u00e9 par Ordinateur -TAO-",
+            "code_ogr": "21268",
+            "position_item": "7",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de machines \u00e0 commandes num\u00e9riques",
+            "code_ogr": "21309",
+            "position_item": "8",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9alisation d'\u00e9preuve de ligne",
+            "code_ogr": "21070",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Localisation de fuite",
+            "code_ogr": "20963",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Conception et de Dessin Assist\u00e9s par Ordinateur -CAO/DAO-",
+            "code_ogr": "21249",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "A\u00e9ronautique, spatial",
+            "code_ogr": "23391",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Alimentaire",
+            "code_ogr": "23395",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Armement",
+            "code_ogr": "23404",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Automobile",
+            "code_ogr": "23410",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chauffage",
+            "code_ogr": "23434",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chimie",
+            "code_ogr": "23436",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chimie fine",
+            "code_ogr": "23437",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Construction navale",
+            "code_ogr": "23453",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Eco-industrie",
+            "code_ogr": "23469",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Energie, nucl\u00e9aire, fluide",
+            "code_ogr": "23480",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ferroviaire",
+            "code_ogr": "23498",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Froid et conditionnement d'air",
+            "code_ogr": "23504",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie cosm\u00e9tique",
+            "code_ogr": "23530",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Machinisme",
+            "code_ogr": "23544",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9canique, travail des m\u00e9taux",
+            "code_ogr": "23552",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9tallurgie, sid\u00e9rurgie",
+            "code_ogr": "23558",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Nautisme",
+            "code_ogr": "23567",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Parachimie",
+            "code_ogr": "23573",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "P\u00e9trochimie",
+            "code_ogr": "23582",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Transport/logistique",
+            "code_ogr": "23659",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9",
+            "code_ogr": "22621",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes qualit\u00e9",
+            "code_ogr": "22233",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Dessin industriel",
+            "code_ogr": "21777",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de d\u00e9coupe de mat\u00e9riaux",
+            "code_ogr": "22876",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de coupage thermique",
+            "code_ogr": "22857",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de cintrage",
+            "code_ogr": "22831",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9d\u00e9s de formage",
+            "code_ogr": "22351",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques et proc\u00e9d\u00e9s d'assemblage",
+            "code_ogr": "23249",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soudure nucl\u00e9aire",
+            "code_ogr": "22695",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soudure chimie",
+            "code_ogr": "22694",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soudure a\u00e9ronautique",
+            "code_ogr": "22693",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques des d\u00e9velopp\u00e9s",
+            "code_ogr": "23203",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chaudronnerie",
+            "code_ogr": "21705",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise les sous-ensembles de tuyauteries de transport et d'acheminement de fluides (a\u00e9rolique, hydraulique, ...) \u00e0 partir de tubes m\u00e9talliques et accessoires (coudes, vannes, brides, ...). Assure leur montage sur site selon les r\u00e8gles de s\u00e9curit\u00e9 et imp\u00e9ratifs de fabrication (d\u00e9lais, qualit\u00e9, ...).\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "R\u00e9alisation et montage en tuyauterie",
+    "code_ogr": "291",
+    "code_rome": "H2914",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "H1203",
+            "libelle_rome_cible": "Conception et dessin produits m\u00e9caniques"
+        },
+        {
+            "code_rome_cible": "H2503",
+            "libelle_rome_cible": "Pilotage d'unit\u00e9 \u00e9l\u00e9mentaire de production m\u00e9canique ou de travail des m\u00e9taux"
+        }
+    ]
+}

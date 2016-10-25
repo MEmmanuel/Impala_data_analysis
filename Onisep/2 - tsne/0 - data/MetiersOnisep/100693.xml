@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">technicien/ne réalisateur/trice radio</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un métier artistique ou créatif</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur de l'audiovisuel</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">audiovisuel/son</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques de la communication média</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100693</lien_onisep>
+<ROME Level="1B" csRelFld="100693">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="554" csRelFld="554">
+<CSLABELFLD label="">L1508</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Techniciens du spectacle</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">L1508</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Prise de son et sonorisation</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100693">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1853" csRelFld="1853">
+<CSLABELFLD label="">réalisateur / réalisatrice radiophonique</CSLABELFLD>
+<MET_ID label="Identifiant">100693</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">15/11/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1853</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">réalisateur/trice radiophonique</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1853">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="59088" csRelFld="59088">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59088</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100693</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>À l'attention des auditeurs</inter>
+<p>En tant que technicien du son, le technicien réalisateur radio assure les opérations de la chaîne audio depuis la captation jusqu'à la diffusion aux auditeurs. En tant que réalisateur, il sélectionne les sons et les musiques, et effectue le montage. Il réalise des fictions, des documentaires, des publicités, des jingles, des podcasts.</p>
+<inter>De la technique mais pas seulement</inter>
+<p>Les musiques, les voix ou les sons non musicaux forment sa matière de base. À lui de les capter, de les traiter, de les mixer, de les monter, de les transporter, de les éditer et de les diffuser. Il dispose de micros, de casques, de bancs de montage, de consoles... et utilise des technologies et des matériels issus de l'électronique et de l'informatique. Mais c'est son sens artistique musical qui le guide dans ses choix techniques pour produire un son propre, esthétique, équilibré, agréable à écouter.</p>
+<inter>De la souplesse dans un environnement contraint</inter>
+<p>À l'antenne, tous les événements à diffuser sont consignés dans un " conducteur ", qui indique à chacun la nature et l'ordre des interventions et leur durée. Le technicien gère l'ensemble des voix et assure le défilement des séquences avec fluidité. Hors antenne, en post-production, il élabore des produits prêts à diffuser, qui composeront les futures émissions.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="59092" csRelFld="59092">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59092</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100693</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>Le BTS métiers de l'audiovisuel option métiers du son correspond bien aux besoins des employeurs. Ce BTS forme des opérateurs de prise de son, des mixeurs et des monteurs son, des sonorisateurs, des techniciens d'antenne et des régisseurs son. L'accès à cette formation est très sélectif (50 demandes pour 1 place). </itsimp>
+<itsimp>L'établissement privé Studio École de France à Boulogne-Billancourt prépare au titre professionnel du ministère de l'Emploi de technicien réalisateur radiophonique. Admission au niveau bac sur tests de culture générale et entretien de motivation.</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Certaines licences professionnelles de l'audiovisuel portent sur le son, notamment sur le design sonore, les logiciels son, l'ingénierie du son numérique ou le son dans un spectacle.</itsimp>
+<itsimp>Plusieurs écoles privées proposent des formations de niveau bac + 3 dans le domaine du son, comme l'école Esra, qui propose 2 sections son audiovisuel et son musical et sonorisation.</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme de l'École nationale supérieure Louis-Lumière, section son. </itsimp>
+<itsimp>Diplôme de l'École nationale supérieure des métiers de l'image et du son (La Fémis), spécialisation son. Accès sur concours au niveau bac + 2.</itsimp>
+<itsimp>Il existe aussi de nombreux masters préparés à l'université.</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="59090" csRelFld="59090">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59090</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100693</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Mettre un pied à l'étrier</inter>
+<p>Le stage en cours de formation est un moyen de découvrir la radio et de s'investir dans ce média. La carrière commence bien souvent par des contrats courts, des remplacements, avant un emploi plus stable en CDI (contrat à durée indéterminée). Les emplois se situent dans les réseaux nationaux du service public ou des radios privées, les radios locales indépendantes, les radios associatives.</p>
+<inter>Deux métiers en un</inter>
+<p>Technicien réalisateur radio est la synthèse de technicien opérateur son et de réalisateur. Ce regroupement est devenu possible grâce au déploiement de l'informatique, qui a rendu les opérations techniques plus rapides et plus aisées. Ce métier concentre sur un seul professionnel des exigences techniques et des exigences artistiques. Les petites structures indépendantes emploient plutôt des techniciens réalisateurs polyvalents ; les grandes stations culturelles conservent pour le moment les deux métiers.</p>
+<inter>Évolution de carrière</inter>
+<p>Il est très formateur de travailler dans plusieurs radios ou dans plusieurs services d'une même radio de façon à acquérir des savoir-faire complémentaires et de l'assurance. Après quelques années d'expérience, il est possible d'évoluer vers des emplois de réalisateur radio ou de responsable technique coordinateur d'antenne.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>Smic</sal>. Les salaires dépendent du niveau de qualification et sont régis par les conventions collectives des métiers de la radio, qui sont différentes selon les secteurs, public ou privé. Au salaire de base peuvent s'ajouter diverses primes.</p>
+<postit>
+<p>Source : non indiquée.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

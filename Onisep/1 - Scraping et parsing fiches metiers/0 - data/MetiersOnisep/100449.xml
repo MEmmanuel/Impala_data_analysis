@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">développeur/euse rural/e humanitaire</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller/travailler à l'étranger/me déplacer souvent/pratiquer les langues vivantes</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/contrat de volontariat</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur social</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">agronomie/économie sociale et solidaire/développement agricole</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE médical paramédical travail social soins personnels/développeur rural humanitaire</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100449</lien_onisep>
+<ROME Level="1B" csRelFld="100449">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="487" csRelFld="487">
+<CSLABELFLD label="">K1802</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Développement territorial et emploi</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K1802</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Développement local</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100449">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="36783" csRelFld="36783">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36783</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100449</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Relancer l'économie</inter>
+<p>Après une catastrophe ou un conflit, l'économie d'une région ou d'un pays est endommagée ou anéantie. Les ONG (organisations non gouvernementales) mettent alors en oeuvre des programmes d'urgence et de développement. En fonction de sa spécialité de base, le développeur rural humanitaire étudie l'impact des projets à long terme pour relancer la production et la commercialisation.</p>
+<inter>Conseil agricole</inter>
+<p>Le développeur rural humanitaire établit un diagnostic détaillé de la situation : besoins des populations, productions, marchés... Il élabore ensuite une stratégie de développement. Selon le contexte, il applique différents moyens : programmes d'introduction et de multiplication de semences, développement de parcelles maraîchères, création de poulaillers collectifs ou de petits élevages, installation de fermes de pisciculture, amélioration de l'irrigation, etc. </p>
+<inter>Développement durable</inter>
+<p>Conduire les populations vers l'autosuffisance alimentaire ne suffit pas. Le développeur rural doit pérenniser l'action en créant des coopératives communautaires, en développant des marchés locaux et des micro-financements... Cela passe également par la formation de cultivateurs et d'éleveurs locaux.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36787" csRelFld="36787">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36787</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100449</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Les ONG (organisations non gouvernementales) recrutent surtout des ingénieurs agricoles et agronomes, ainsi que quelques vétérinaires, économistes et sociologues. Des postes d'animateur rural peuvent être accessibles avec un bac + 2. La pratique de l'anglais est obligatoire.</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTSA développement de l'agriculture des régions chaudes</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Formation de coordonnateur de projet de solidarité internationale et locale de l'Ifaid (Institut de formation et d'appui aux initiatives de développement)</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur agricoles ou d'agronome </itsimp>
+<itsimp>Master Gestion des territoires et développement local</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 6</tete>
+<itsimp>Mastère de l'Institut des régions chaudes de SupAgro Montpellier</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36785" csRelFld="36785">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36785</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100449</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Expérience recommandée</inter>
+<p>Le développeur rural humanitaire doit avoir une expérience professionnelle significative. Les ONG (organisations non gouvernementales) qui assurent des programmes de développement rural recrutent des responsables techniques et des experts en agronomie, des vétérinaires, des spécialistes en économie sociale ou en développement, tous expérimentés. Le développement rural représente 5 % des volontaires en mission. Certaines organisations, comme Première Urgence, Acted, ACF (Action contre la faim), l'Association française des volontaires du progrès ou Agronomes et Vétérinaires sans frontières ont une forte implication dans ce domaine.</p>
+<inter>Retour en France possible</inter>
+<p>Les missions durent entre 6 et 12 mois et sont parfois renouvelables. Avec l'expérience, les humanitaires qui ont déjà à leur actif plusieurs missions peuvent évoluer vers des postes de coordination de programmes. Ceux qui souhaitent quitter l'action humanitaire peuvent reprendre une activité en France en tant que conseiller agricole, développeur rural, vétérinaire...</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Très variable, la rémunération est fonction du niveau de qualification, de responsabilité et est basée sur la grille salariale de l'association. </p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

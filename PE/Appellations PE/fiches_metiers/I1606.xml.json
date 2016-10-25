@@ -1,0 +1,889 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente de ma\u00eetrise en t\u00f4lerie-carrosserie",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de ma\u00eetrise en t\u00f4lerie-carrosserie",
+            "code_ogr": "10518"
+        },
+        {
+            "libelle_court": "Aide carrossier / carrossi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Aide carrossier / carrossi\u00e8re",
+            "code_ogr": "10817"
+        },
+        {
+            "libelle_court": "Carrossier / Carrossi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Carrossier / Carrossi\u00e8re",
+            "code_ogr": "11698"
+        },
+        {
+            "libelle_court": "Carrossier / Carrossi\u00e8re en v\u00e9hicules industriels",
+            "priorisation": "1",
+            "libelle": "Carrossier / Carrossi\u00e8re en v\u00e9hicules industriels",
+            "code_ogr": "11699"
+        },
+        {
+            "libelle_court": "Carrossier / Carrossi\u00e8re poids lourds",
+            "priorisation": "1",
+            "libelle": "Carrossier / Carrossi\u00e8re poids lourds",
+            "code_ogr": "11700"
+        },
+        {
+            "libelle_court": "Carrossier-peintre / Carrossi\u00e8re-peintre",
+            "priorisation": "1",
+            "libelle": "Carrossier-peintre / Carrossi\u00e8re-peintre",
+            "code_ogr": "11701"
+        },
+        {
+            "libelle_court": "Carrossier-r\u00e9parateur / Carrossi\u00e8re-r\u00e9paratrice",
+            "priorisation": "1",
+            "libelle": "Carrossier-r\u00e9parateur / Carrossi\u00e8re-r\u00e9paratrice",
+            "code_ogr": "11702"
+        },
+        {
+            "libelle_court": "Carrossier-t\u00f4lier / Carrossi\u00e8re-t\u00f4li\u00e8re",
+            "priorisation": "1",
+            "libelle": "Carrossier-t\u00f4lier / Carrossi\u00e8re-t\u00f4li\u00e8re",
+            "code_ogr": "11703"
+        },
+        {
+            "libelle_court": "Chef d'atelier de carrosserie",
+            "priorisation": "1",
+            "libelle": "Chef d'atelier de carrosserie",
+            "code_ogr": "12033"
+        },
+        {
+            "libelle_court": "D\u00e9bosseleur / D\u00e9bosseleuse",
+            "priorisation": "1",
+            "libelle": "D\u00e9bosseleur / D\u00e9bosseleuse",
+            "code_ogr": "13894"
+        },
+        {
+            "libelle_court": "Ouvrier / Ouvri\u00e8re finition carrosserie",
+            "priorisation": "1",
+            "libelle": "Ouvrier / Ouvri\u00e8re finition carrosserie",
+            "code_ogr": "17500"
+        },
+        {
+            "libelle_court": "Peintre automobile",
+            "priorisation": "1",
+            "libelle": "Peintre automobile",
+            "code_ogr": "17612"
+        },
+        {
+            "libelle_court": "Peintre en carrosserie",
+            "priorisation": "1",
+            "libelle": "Peintre en carrosserie",
+            "code_ogr": "17620"
+        },
+        {
+            "libelle_court": "Peintre en carrosserie automobile",
+            "priorisation": "1",
+            "libelle": "Peintre en carrosserie automobile",
+            "code_ogr": "17621"
+        },
+        {
+            "libelle_court": "Peintre en v\u00e9hicules industriels",
+            "priorisation": "1",
+            "libelle": "Peintre en v\u00e9hicules industriels",
+            "code_ogr": "17628"
+        },
+        {
+            "libelle_court": "Peintre raccordeur / raccordeuse en carrosserie",
+            "priorisation": "1",
+            "libelle": "Peintre raccordeur / raccordeuse en carrosserie",
+            "code_ogr": "17639"
+        },
+        {
+            "libelle_court": "Peintre retoucheur / retoucheuse en carrosserie",
+            "priorisation": "1",
+            "libelle": "Peintre retoucheur / retoucheuse en carrosserie",
+            "code_ogr": "17642"
+        },
+        {
+            "libelle_court": "Rayonneur / Rayonneuse de roue",
+            "priorisation": "1",
+            "libelle": "Rayonneur / Rayonneuse de roue",
+            "code_ogr": "18296"
+        },
+        {
+            "libelle_court": "R\u00e9parateur / R\u00e9paratrice de carrosserie automobile",
+            "priorisation": "1",
+            "libelle": "R\u00e9parateur / R\u00e9paratrice de carrosserie automobile",
+            "code_ogr": "18516"
+        },
+        {
+            "libelle_court": "R\u00e9parateur / R\u00e9paratrice en carrosserie",
+            "priorisation": "1",
+            "libelle": "R\u00e9parateur / R\u00e9paratrice en carrosserie",
+            "code_ogr": "18524"
+        },
+        {
+            "libelle_court": "Responsable atelier carrosserie",
+            "priorisation": "1",
+            "libelle": "Responsable atelier carrosserie",
+            "code_ogr": "18586"
+        },
+        {
+            "libelle_court": "T\u00f4lier / T\u00f4li\u00e8re automobile",
+            "priorisation": "1",
+            "libelle": "T\u00f4lier / T\u00f4li\u00e8re automobile",
+            "code_ogr": "20353"
+        },
+        {
+            "libelle_court": "T\u00f4lier-carrossier / T\u00f4li\u00e8re-carrossi\u00e8re",
+            "priorisation": "1",
+            "libelle": "T\u00f4lier-carrossier / T\u00f4li\u00e8re-carrossi\u00e8re",
+            "code_ogr": "20355"
+        },
+        {
+            "libelle_court": "T\u00f4lier-d\u00e9bosseleur / T\u00f4li\u00e8re-d\u00e9bosseleuse en carrosserie",
+            "priorisation": "1",
+            "libelle": "T\u00f4lier-d\u00e9bosseleur / T\u00f4li\u00e8re-d\u00e9bosseleuse en carrosserie",
+            "code_ogr": "20357"
+        },
+        {
+            "libelle_court": "T\u00f4lier-ferreur / T\u00f4li\u00e8re-ferreuse en automobile",
+            "priorisation": "1",
+            "libelle": "T\u00f4lier-ferreur / T\u00f4li\u00e8re-ferreuse en automobile",
+            "code_ogr": "20358"
+        },
+        {
+            "libelle_court": "T\u00f4lier-formeur / T\u00f4li\u00e8re-formeuse en carrosserie",
+            "priorisation": "1",
+            "libelle": "T\u00f4lier-formeur / T\u00f4li\u00e8re-formeuse en carrosserie",
+            "code_ogr": "20360"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier l'intervention \u00e0 partir de l'ordre de r\u00e9paration ou des indications de l'expert mandat\u00e9, du client",
+            "code_ogr": "2146",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser la d\u00e9pose/pose et le r\u00e9glage des \u00e9l\u00e9ments amovibles de carrosserie, des \u00e9quipements , des fermetures et des garnissages",
+            "code_ogr": "2770",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la g\u00e9om\u00e9trie des ch\u00e2ssis, coques, berceaux, ... et redresser les \u00e9l\u00e9ments de carrosserie d\u00e9form\u00e9s ou les remplacer",
+            "code_ogr": "1049",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Remplacer les vitres ou r\u00e9parer les impacts et fissures",
+            "code_ogr": "3013",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer les surfaces avant peinture du v\u00e9hicule",
+            "code_ogr": "2633",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Doser, adapter les tons des peintures et des laques de finition au v\u00e9hicule (r\u00e9f\u00e9rences d'origine, vieillissement, effets vis\u00e9s) et les appliquer",
+            "code_ogr": "1491",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports de suivi d'intervention et transmettre les informations au service concern\u00e9",
+            "code_ogr": "3063",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer le v\u00e9hicule pour restitution au client, ranger et entretenir l'espace de travail (atelier, magasin, ...)",
+            "code_ogr": "2417",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "H2902",
+            "libelle_rome_cible": "Chaudronnerie - t\u00f4lerie"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac (Bac professionnel, ...) en r\u00e9paration de carrosserie automobile.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans le m\u00eame secteur sans dipl\u00f4me particulier.\nLes permis B, BE, C, C1, CE, C1E, D, D1, DE, D1E (pr\u00e9c\u00e9demment B, C, D et E) peuvent \u00eatre requis.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9parer la carrosserie de :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9hicules anciens",
+            "code_ogr": "9573",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Caravanes/camping-car",
+            "code_ogr": "9574",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9hicules de comp\u00e9tition",
+            "code_ogr": "9579",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9hicules de collection",
+            "code_ogr": "9578",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Motocycles",
+            "code_ogr": "9575",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Remorques",
+            "code_ogr": "9576",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9hicules de BTP (grue, bennes, malaxeur, ...)",
+            "code_ogr": "9577",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9hicules de nettoyage (benne \u00e0 ordures, multi-caissons, ...)",
+            "code_ogr": "9580",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9hicules de transport de mati\u00e8res dangereuses",
+            "code_ogr": "9581",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9hicules de transport routier de marchandises (isothermes, frigorifiques, produits en vrac, ...)",
+            "code_ogr": "9582",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "10",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9hicules de transport routier de voyageurs (autocar, autobus, ...)",
+            "code_ogr": "9583",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "11",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9hicules forestiers (bardage, ...)",
+            "code_ogr": "9584",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "12",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9hicules industriels (poids lourds, autocars, ...)",
+            "code_ogr": "9585",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "13",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9hicules l\u00e9gers",
+            "code_ogr": "9586",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "14",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des r\u00e9parations ou des finitions sur :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Aluminium",
+            "code_ogr": "5057",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bois",
+            "code_ogr": "5058",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mat\u00e9riaux composites",
+            "code_ogr": "5059",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mat\u00e9riaux de synth\u00e8se",
+            "code_ogr": "5060",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Zinc",
+            "code_ogr": "5061",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Installer des \u00e9l\u00e9ments ou am\u00e9nagements :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Caches sous cabine",
+            "code_ogr": "6178",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Car\u00e9nages",
+            "code_ogr": "6179",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9coration de carrosserie",
+            "code_ogr": "6180",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9flecteurs",
+            "code_ogr": "6181",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habillages de tableaux de bord (titane, alu, ronce de noyer, ...)",
+            "code_ogr": "6182",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Jupes",
+            "code_ogr": "6183",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Kits de protections moteurs",
+            "code_ogr": "6184",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Rangements",
+            "code_ogr": "6187",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "11",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Visi\u00e8res de pavillon",
+            "code_ogr": "6188",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "12",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ailerons",
+            "code_ogr": "6177",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "13",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Modification de carrosserie (tuning, comp\u00e9tition, ...)",
+            "code_ogr": "6185",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "14",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pavillons",
+            "code_ogr": "6186",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "15",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9parer des roues et jantes",
+            "code_ogr": "9571",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conditionner des fluides r\u00e9cup\u00e9r\u00e9s et effectuer leur recyclage",
+            "code_ogr": "4046",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations de sellerie",
+            "code_ogr": "8772",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir la planification d'interventions \u00e0 partir de besoins ou de commandes clients",
+            "code_ogr": "5823",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Evaluer des co\u00fbts et d\u00e9lais de remise en \u00e9tat et \u00e9tablir un devis d'intervention",
+            "code_ogr": "5868",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises de r\u00e9paration, de garages, de concessions automobiles, des arm\u00e9es, ...\nElle varie selon le secteur (carrosserie, peinture, ...) et le type de structure (garage ind\u00e9pendant, concessionnaire, ...).\nElle peut s'exercer les fins de semaine et \u00eatre soumise \u00e0 des variations saisonni\u00e8res.\nElle peut s'effectuer en environnement bruyant et impliquer des positions p\u00e9nibles.\nLe port d'\u00e9quipements de protection (gants, masque, lunettes de protection, ...) est exig\u00e9.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'\u00e9quipements de contr\u00f4le de g\u00e9om\u00e9trie (marbre, pont de mesure, ...)",
+            "code_ogr": "21429",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'\u00e9quipement de redressage de carrosserie",
+            "code_ogr": "21424",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Brasage",
+            "code_ogr": "20797",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de levage",
+            "code_ogr": "21327",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareil de r\u00e9glage d'optique (r\u00e9gloscope, ...)",
+            "code_ogr": "21142",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Gestion de Maintenance Assist\u00e9e par Ordinateur -GMAO-",
+            "code_ogr": "21256",
+            "position_item": "6",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chiffrage/calcul de co\u00fbt",
+            "code_ogr": "20813",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Atelier de r\u00e9paration/Service Apr\u00e8s-Vente -SAV-",
+            "code_ogr": "23715",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Atelier int\u00e9gr\u00e9",
+            "code_ogr": "23716",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Concession automobile",
+            "code_ogr": "23826",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ecurie de course auto/moto",
+            "code_ogr": "23856",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise publique/\u00e9tablissement public",
+            "code_ogr": "23912",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Garage automobile",
+            "code_ogr": "23947",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Cycle, motocycle",
+            "code_ogr": "23457",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sport et loisirs",
+            "code_ogr": "23640",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Transport de marchandises",
+            "code_ogr": "23656",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Transport de personnes",
+            "code_ogr": "23657",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "V\u00e9hicules industriels",
+            "code_ogr": "23665",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "V\u00e9hicules particuliers",
+            "code_ogr": "23666",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9",
+            "code_ogr": "22621",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "T\u00f4lerie",
+            "code_ogr": "23283",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en \u00e9lectricit\u00e9 automobile",
+            "code_ogr": "21860",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9canique automobile",
+            "code_ogr": "22100",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de peinture",
+            "code_ogr": "23024",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de manipulation de produits toxiques",
+            "code_ogr": "22611",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des peintures",
+            "code_ogr": "21632",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des solvants",
+            "code_ogr": "21656",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des enduits",
+            "code_ogr": "21574",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des colles",
+            "code_ogr": "21566",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de soudure",
+            "code_ogr": "23128",
+            "position_item": "11",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation du transport de mati\u00e8res et produits dangereux",
+            "code_ogr": "22564",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation li\u00e9e aux v\u00e9hicules",
+            "code_ogr": "22573",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de rayonnage de roue",
+            "code_ogr": "23075",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de retraitement des d\u00e9chets",
+            "code_ogr": "22430",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des mat\u00e9riaux souples",
+            "code_ogr": "21609",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de montage de sellerie",
+            "code_ogr": "22990",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9pare par remise en forme ou remplacement des \u00e9l\u00e9ments endommag\u00e9s de carrosserie ou de structure (passage au marbre, ...)\nR\u00e9alise des op\u00e9rations de finition (pr\u00e9paration de surface, peinture, ...) selon les r\u00e8gles de s\u00e9curit\u00e9 et la r\u00e9glementation.\nPeut effectuer des modifications de carrosserie et des petits travaux de sellerie.\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "R\u00e9paration de carrosserie",
+    "code_ogr": "330",
+    "code_rome": "I1606",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1402",
+            "libelle_rome_cible": "Relation commerciale grands comptes et entreprises"
+        },
+        {
+            "code_rome_cible": "D1404",
+            "libelle_rome_cible": "Relation commerciale en vente de v\u00e9hicules"
+        },
+        {
+            "code_rome_cible": "H3203",
+            "libelle_rome_cible": "Fabrication de pi\u00e8ces en mat\u00e9riaux composites"
+        },
+        {
+            "code_rome_cible": "H3404",
+            "libelle_rome_cible": "Peinture industrielle"
+        },
+        {
+            "code_rome_cible": "I1604",
+            "libelle_rome_cible": "M\u00e9canique automobile et entretien de v\u00e9hicules"
+        }
+    ]
+}

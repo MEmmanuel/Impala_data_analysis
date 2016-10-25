@@ -1,0 +1,701 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Animateur / Animatrice en d\u00e9chets en industrie",
+            "priorisation": "1",
+            "libelle": "Animateur / Animatrice en d\u00e9chets en industrie",
+            "code_ogr": "11054"
+        },
+        {
+            "libelle_court": "Animateur/Animatrice en Hygi\u00e8ne S\u00e9curit\u00e9 Environnement -HSE-",
+            "priorisation": "1",
+            "libelle": "Animateur / Animatrice en Hygi\u00e8ne S\u00e9curit\u00e9 Environnement -HSE-",
+            "code_ogr": "11055"
+        },
+        {
+            "libelle_court": "Animateur / Animatrice en s\u00e9curit\u00e9 du travail",
+            "priorisation": "1",
+            "libelle": "Animateur / Animatrice en s\u00e9curit\u00e9 du travail",
+            "code_ogr": "11056"
+        },
+        {
+            "libelle_court": "Animateur / Animatrice s\u00e9curit\u00e9 environnement",
+            "priorisation": "1",
+            "libelle": "Animateur / Animatrice s\u00e9curit\u00e9 environnement",
+            "code_ogr": "11063"
+        },
+        {
+            "libelle_court": "Contr\u00f4leur / Contr\u00f4leuse de s\u00e9curit\u00e9 en risques industriels",
+            "priorisation": "1",
+            "libelle": "Contr\u00f4leur / Contr\u00f4leuse de s\u00e9curit\u00e9 en risques industriels",
+            "code_ogr": "13616"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne en analyse de pollution",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en analyse de pollution",
+            "code_ogr": "20038"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne en environnement industriel",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en environnement industriel",
+            "code_ogr": "20062"
+        },
+        {
+            "libelle_court": "Technicien(ne) environ, s\u00e9curit\u00e9 et conditions de travail",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en environnement, s\u00e9curit\u00e9 et conditions de travail",
+            "code_ogr": "20063"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne en g\u00e9nie sanitaire en industrie",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en g\u00e9nie sanitaire en industrie",
+            "code_ogr": "20068"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne en hygi\u00e8ne et environnement",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en hygi\u00e8ne et environnement",
+            "code_ogr": "20071"
+        },
+        {
+            "libelle_court": "Technicien/Technicienne Hygi\u00e8ne S\u00e9curit\u00e9 Environ industriel",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en Hygi\u00e8ne, S\u00e9curit\u00e9, Environnement industriel -HSE-",
+            "code_ogr": "20072"
+        },
+        {
+            "libelle_court": "Technicien(ne) en pr\u00e9vention des risques industriels",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en pr\u00e9vention des risques industriels",
+            "code_ogr": "20105"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne en radioprotection",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en radioprotection",
+            "code_ogr": "20111"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne en s\u00e9curit\u00e9 industrielle",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en s\u00e9curit\u00e9 industrielle",
+            "code_ogr": "20124"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "D\u00e9cliner et contr\u00f4ler l'application de la r\u00e9glementation, des consignes et proc\u00e9dures d'hygi\u00e8ne, s\u00e9curit\u00e9 et environnement",
+            "code_ogr": "1229",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier et analyser les dysfonctionnements, non-conformit\u00e9s et risques aux personnes et aux biens",
+            "code_ogr": "2014",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9finir et proposer les actions correctives et de pr\u00e9vention des risques et suivre leur mise en oeuvre",
+            "code_ogr": "1266",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et mettre \u00e0 jour les outils et indicateurs de suivi hygi\u00e8ne, s\u00e9curit\u00e9 et environnement",
+            "code_ogr": "3235",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir des rapports, documents ou comptes rendus d'analyses, d'accidents et d'incidents",
+            "code_ogr": "1829",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sensibiliser et former \u00e0 la d\u00e9marche hygi\u00e8ne, s\u00e9curit\u00e9 et environnement et \u00e0 la pr\u00e9vention des risques",
+            "code_ogr": "3198",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "6",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "H1301",
+            "libelle_rome_cible": "Inspection de conformit\u00e9"
+        },
+        {
+            "code_rome_cible": "H1503",
+            "libelle_rome_cible": "Intervention technique en laboratoire d'analyse industrielle"
+        },
+        {
+            "code_rome_cible": "H1506",
+            "libelle_rome_cible": "Intervention technique qualit\u00e9 en m\u00e9canique et travail des m\u00e9taux"
+        },
+        {
+            "code_rome_cible": "K1705",
+            "libelle_rome_cible": "S\u00e9curit\u00e9 civile et secours"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau Bac+2 (BTS, DUT) en hygi\u00e8ne, s\u00e9curit\u00e9 et environnement ou dans le secteur technique ou scientifique de l'entreprise.\nDes habilitations sp\u00e9cifiques (radioprotection, \u00e9lectricit\u00e9, audit, ...) ou des vaccinations particuli\u00e8res peuvent \u00eatre requises selon le secteur d'activit\u00e9.\nLa pratique de l'anglais (vocabulaire technique) peut \u00eatre exig\u00e9e.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Intervenir dans un domaine :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9curit\u00e9 du travail, hygi\u00e8ne industrielle",
+            "code_ogr": "6661",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Environnement",
+            "code_ogr": "6472",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Risque technologique, biologique, chimique",
+            "code_ogr": "6656",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Radioprotection",
+            "code_ogr": "6636",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9curit\u00e9 des biens et des personnes",
+            "code_ogr": "6660",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Qualit\u00e9",
+            "code_ogr": "6632",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "6",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la validit\u00e9 de qualification de personnes et/ou la conformit\u00e9 de r\u00e9alisation de travaux, chantiers en termes d'hygi\u00e8ne, s\u00e9curit\u00e9 et environnement",
+            "code_ogr": "4235",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Apporter un appui technique aux services production, qualit\u00e9, maintenance, ...",
+            "code_ogr": "3503",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9diger et faire \u00e9voluer des consignes, proc\u00e9dures (hygi\u00e8ne, s\u00e9curit\u00e9, environnement) et les mettre \u00e0 disposition des services",
+            "code_ogr": "9467",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser la pose, l'entretien et la maintenance de premier niveau d'appareils et instruments de contr\u00f4le et de mesure",
+            "code_ogr": "9171",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des relev\u00e9s, mesures, pr\u00e9l\u00e8vements, identifier des \u00e9carts (taux, seuil, ...) et pr\u00e9coniser des mesures correctives",
+            "code_ogr": "9074",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser ou participer \u00e0 la r\u00e9alisation d'\u00e9tudes de risques (identification, recensement, \u00e9valuation, ...)",
+            "code_ogr": "9264",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer et faire \u00e9voluer les plans de pr\u00e9vention et de s\u00e9curit\u00e9",
+            "code_ogr": "3550",
+            "code_type_activite": "3",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier le fonctionnement d'installations de surveillance et de traitement de rejets (eau, fum\u00e9es, ...) ou de d\u00e9chets",
+            "code_ogr": "10183",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9lectionner des fili\u00e8res de traitement des d\u00e9chets (industriels, sp\u00e9ciaux, ...) et tracer leur parcours",
+            "code_ogr": "9649",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises industrielles, d'organismes de contr\u00f4le, de laboratoires de recherche, de bureaux d'\u00e9tudes et d'ing\u00e9nierie, de services de l'Etat, des arm\u00e9es, en relation avec l'ensemble du personnel, diff\u00e9rents services et intervenants (production/exploitation, maintenance, transport, secours, sous-traitants, prestataires, ...). Elle peut impliquer des d\u00e9placements.\nElle varie selon le secteur (nucl\u00e9aire, chimie, alimentaire, ...), la r\u00e9glementation de l'\u00e9tablissement (SEVESO, Installation Class\u00e9e pour la Protection de l'Environnement -ICPE-, ...), le type de process et la nature des produits fabriqu\u00e9s ou stock\u00e9s.\nElle peut s'exercer les fins de semaine, jours f\u00e9ri\u00e9s et \u00eatre soumise \u00e0 des astreintes.\nLe port d'Equipements de Protection Individuelle -EPI- (masque, gants, casque de protection, ...) peut \u00eatre exig\u00e9.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de contr\u00f4le et mesure",
+            "code_ogr": "21322",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de mod\u00e9lisation et simulation",
+            "code_ogr": "21261",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "A\u00e9roport",
+            "code_ogr": "23682",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Bureau d'\u00e9tudes et d'ing\u00e9nierie",
+            "code_ogr": "23735",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisme de contr\u00f4le et de certification",
+            "code_ogr": "24017",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Site portuaire",
+            "code_ogr": "24076",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 d'autoroute",
+            "code_ogr": "24078",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Administration / Services de l'Etat",
+            "code_ogr": "23388",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "A\u00e9ronautique, spatial",
+            "code_ogr": "23391",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Alimentaire",
+            "code_ogr": "23395",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Armement",
+            "code_ogr": "23404",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Automobile",
+            "code_ogr": "23410",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Bois, ameublement",
+            "code_ogr": "23424",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chimie",
+            "code_ogr": "23436",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chimie fine",
+            "code_ogr": "23437",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Construction navale",
+            "code_ogr": "23453",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Eco-industrie",
+            "code_ogr": "23469",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electricit\u00e9",
+            "code_ogr": "23474",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electrom\u00e9nager",
+            "code_ogr": "23476",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electronique",
+            "code_ogr": "23477",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Energie, nucl\u00e9aire, fluide",
+            "code_ogr": "23480",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ferroviaire",
+            "code_ogr": "23498",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Habillement, cuir, textile",
+            "code_ogr": "23515",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie cosm\u00e9tique",
+            "code_ogr": "23530",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie du papier, carton",
+            "code_ogr": "23531",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Information et communication",
+            "code_ogr": "23534",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Machinisme",
+            "code_ogr": "23544",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9canique, travail des m\u00e9taux",
+            "code_ogr": "23552",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9tallurgie, sid\u00e9rurgie",
+            "code_ogr": "23558",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Nautisme",
+            "code_ogr": "23567",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Optique, optronique",
+            "code_ogr": "23568",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Parachimie",
+            "code_ogr": "23573",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "P\u00e9trochimie",
+            "code_ogr": "23582",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Plasturgie, caoutchouc, composites",
+            "code_ogr": "23585",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sport et loisirs",
+            "code_ogr": "23640",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Transport/logistique",
+            "code_ogr": "23659",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Verre, mat\u00e9riaux de construction",
+            "code_ogr": "23673",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation en Hygi\u00e8ne, S\u00e9curit\u00e9, Environnement -HSE-",
+            "code_ogr": "22567",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes environnementales",
+            "code_ogr": "22230",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation des Installations Class\u00e9es pour la Protection de l'Environnement",
+            "code_ogr": "22543",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation du transport de mati\u00e8res et produits dangereux",
+            "code_ogr": "22564",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation s\u00e9curit\u00e9 incendie",
+            "code_ogr": "22580",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9thodes d'analyse de risques",
+            "code_ogr": "22118",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ergonomie",
+            "code_ogr": "21935",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Toxicologie",
+            "code_ogr": "23288",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chimie",
+            "code_ogr": "21706",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des \u00e9quipements de protection",
+            "code_ogr": "21580",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques p\u00e9dagogiques",
+            "code_ogr": "23253",
+            "position_item": "11",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de protection et de pr\u00e9vention des pollutions",
+            "code_ogr": "23070",
+            "position_item": "12",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9trologie",
+            "code_ogr": "22153",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nSuit et v\u00e9rifie la d\u00e9clinaison des r\u00e8gles d'hygi\u00e8ne, s\u00e9curit\u00e9 et environnement aupr\u00e8s des \u00e9quipes et des installations par rapport \u00e0 la r\u00e9glementation et aux normes.\nIdentifie des \u00e9volutions de pr\u00e9vention des risques (consignes, m\u00e9thodes, moyens de protection,...) et suit leur mise en oeuvre dans un objectif de protection et de r\u00e9duction des impacts et des risques de l'activit\u00e9 industrielle sur les personnes, les biens et l'environnement.\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "Intervention technique en Hygi\u00e8ne S\u00e9curit\u00e9 Environnement -HSE- industriel",
+    "code_ogr": "224",
+    "code_rome": "H1303",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "H1302",
+            "libelle_rome_cible": "Management et ing\u00e9nierie Hygi\u00e8ne S\u00e9curit\u00e9 Environnement -HSE- industriels"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        },
+        {
+            "code_rome_cible": "K2306",
+            "libelle_rome_cible": "Supervision d'exploitation \u00e9co-industrielle"
+        }
+    ]
+}

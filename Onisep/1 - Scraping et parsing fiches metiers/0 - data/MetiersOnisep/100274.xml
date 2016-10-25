@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">parfumeur/euse</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un métier artistique ou créatif/faire de la recherche</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction essais/fonction qualité/fonction études développement industriel </MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie agroalimentaire/secteur industrie chimique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">industrie chimique/parfumerie cosmétologie arôme</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE matériaux laboratoire organisation industrielle/nez</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100274</lien_onisep>
+<ROME Level="1B" csRelFld="100274">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100274">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17601" csRelFld="17601">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17601</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100274</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Un mariage de senteurs</inter>
+<p>Arômes floraux, boisés, orientaux, chyprés... le créateur parfumeur mélange différentes essences naturelles ou produits de synthèse qu'il va utiliser en notes de tête, de coeur ou de fond selon son inspiration et les souhaits de son client. Il prend connaissance de l'univers olfactif de la marque, du positionnement du produit sur le marché, avant de retranscrire ce qu'il a imaginé sous la forme d'une odeur... et d'une formule chimique. Face à son orgue à parfums où sont rangées des centaines de fioles odorantes, il réalise des dizaines d'essais et de tests avec des dosages chimiques très précis, fait des retouches, affine son projet. Une semaine est nécessaire pour créer un shampoing, 2 à 3 mois pour une eau de toilette.</p>
+<inter>Une création sous surveillance</inter>
+<p>Que ce soit pour un parfum de luxe ou pour un nettoyant ménager, l'alchimie opérée par le parfumeur n'est jamais totalement libre. Il faut tenir compte de contraintes réglementaires très strictes pour protéger environnement et consommateurs. Des tests d'innocuité sont ainsi réalisés pour éviter tout risque de réaction cutanée et d'allergie. Il est présent au laboratoire pour juger sa formule, s'assurer que le produit résiste sur la durée.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17817" csRelFld="17817">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17817</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100274</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Pour devenir parfumeur, il est nécessaire d'avoir au moins un bac + 3 scientifique. Les universités proposent des licences de chimie ou biochimie avec un parcours parfums, arômes et cosmétiques (Montpellier 2), ou des licences professionnelles du secteur des industries chimiques et pharmaceutiques. L'université de Versailles Saint-Quentin-en-Yvelines propose, avec l'Isipca (Institut supérieur international du parfum, de la cosmétique et de l'aromatique alimentaire), un master de chimie spécialité formulation et évaluation sensorielle des industries des parfums, cosmétique et aromatique alimentaire en apprentissage.</p>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence chimie ; biochimie</itsimp>
+<itsimp>Licence pro industries chimiques et pharmaceutiques, spécialités analyse et contrôle ; parfums, arômes et cosmétiques</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master sciences, technologies, santé mention chimie, spécialité formulation et évaluation sensorielle des industries des parfums, cosmétique et aromatique alimentaire</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18752" csRelFld="18752">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18752</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100274</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un long apprentissage</inter>
+<p>Il faut de nombreuses années pour mémoriser, assimiler et identifier les innombrables senteurs. La première opération consiste à sentir, chaque jour, les matières premières pour apprendre à les reconnaître et à les nommer. Cela prend beaucoup de temps avant d'associer les accords, mélanger et marier les essences pour obtenir une note et imaginer de nouvelles odeurs.</p>
+<inter>Peu d'élus</inter>
+<p>Les formations de parfumeurs sont peu nombreuses car les débouchés sont limités. Il existe un peu plus d'une centaine de nez en France. Les échelons à gravir sont nombreux. On peut démarrer comme assistant parfumeur pourprépare les mélanges de matières premières en suivant les formules créées par le parfumeur créateur. Devenir ensuite " parfumeur training ", puis junior afin d'approfondir les différentes facettes du métier. Occuper ensuite un poste d'évaluateur, qui interprète les souhaits du client, apporte un regard critique et émet des avis pendant l'élaboration du parfum. Ou encore effectuer du contrôle qualité. Avec l'expérience, les postes concerneront davantage la formulation chimique et la création de nouvelles odeurs.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De<sal> 1800</sal> à 2500 euros brut par mois.</p>
+<postit>
+<p>Source : Pôle Pass, 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

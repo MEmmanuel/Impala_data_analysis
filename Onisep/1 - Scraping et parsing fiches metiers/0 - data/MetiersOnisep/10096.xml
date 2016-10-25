@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">analyste financier/ère</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller/enquêter, rechercher, analyser l'information/manier les chiffres</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur banque</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">analyse financière/finances</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé/analyste financier</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10096</lien_onisep>
+<ROME Level="1B" csRelFld="10096">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10096">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1469" csRelFld="1469">
+<CSLABELFLD label="">analyste buy-side</CSLABELFLD>
+<MET_ID label="Identifiant">10096</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">07/04/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1469</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">analyste buy-side</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1469">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1470" csRelFld="1470">
+<CSLABELFLD label="">analyste sell-side</CSLABELFLD>
+<MET_ID label="Identifiant">10096</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">07/04/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1470</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">analyste sell-side</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1470">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18424" csRelFld="18424">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18424</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10096</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Collecte</inter>
+<p>L'analyste financier étudie la presse économique et les rapports annuels des entreprises, participe à des réunions internes pour mieux comprendre la stratégie de développement ou les méthodes de gestion d'un groupe. À l'affût de la moindre information, il est régulièrement en contact avec les managers.</p>
+<inter>Analyse</inter>
+<p>Il dresse ensuite le bilan complet d'une entreprise. Pour cela, il utilise des modèles financiers qui lui servent à interpréter les chiffres, à évaluer les bénéfices dégagés, à établir des comparaisons avec la concurrence... tout en gardant un oeil sur les grandes tendances économiques.</p>
+<inter>Conseil</inter>
+<p>Se fiant à ses calculs mais également à son flair, l'analyste financier prévoit quelles valeurs vont grimper ou chuter et à quel moment. Il est donc en mesure de conseiller l'achat de tel titre ou la vente de tel autre. Il rédige des notes de synthèse à l'intention des traders et des gérants de portefeuille. Celles-ci peuvent être très brèves, quand elles sont écrites en réaction à une information importante imprévue.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18426" csRelFld="18426">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18426</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10096</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Ce poste nécessite un diplôme de niveau bac + 5, avec des compétences pointues en finance. Les diplômés d'une école de commerce et de gestion, d'une école d'ingénieurs ou d'un IEP (institut d'études politiques) sont bien placés pour être recrutés. Parmi les diplômes universitaires, les titulaires d'un master en banque et finance sont appréciés. Plus rares, les " matheux " remportent un grand succès. En complément de leur formation initiale, les diplômés recrutés dans les services d'analyse financière reçoivent une formation au Centre de formation des analystes financiers dépendant de la Société française des analystes financiers. </p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'école supérieure de commerce et de gestion, avec spécialisation en finance</itsimp>
+<itsimp>Diplôme d'ingénieur complété par une spécialisation en finance</itsimp>
+<itsimp>Diplôme d'IEP spécialisé en économie et finance</itsimp>
+<itsimp>Master pro ou recherche spécialisé en finance, en analyse et stratégie financière, en finance d'entreprise et de marché, en économie appliquée, en comptabilité-contrôle-audit, etc.</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 6</tete>
+<itsimp>Mastère spécialisé banque et ingénierie financière ; finance internationale ; analyse financière internationale</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18979" csRelFld="18979">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18979</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10096</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>De bonnes opportunités d'emploi</inter>
+<p>Chaque année, à Paris, une centaine de valeurs nouvelles apparaissent. Des professionnels doivent donc être recrutés pour suivre l'évolution des marchés financiers. Confrontées à une vague de départs à la retraite, les banques offrent quelques bonnes opportunités d'emploi.</p>
+<inter>Concentration des emplois en Ile-de-France</inter>
+<p>La quasi-totalité des analystes financiers est salariée en Ile-de-France, en particulier à Paris, au sein d'un siège social. Leurs employeurs sont des sociétés de bourse, des banques, des assurances et, dans une moindre mesure, des bureaux d'études indépendants.</p>
+<inter>De nombreuses passerelles</inter>
+<p>Ce poste est un très bon tremplin pour un jeune diplômé car il est très formateur. Après quelques années d'expérience, un analyste financier peut accéder à des fonctions portant sur la gestion de portefeuille, la vente en salle de marché ou l'ingénierie financière. Des passerelles existent aussi vers la communication, voire la direction financière.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2500 </sal>à <sal>4100</sal> euros brut par mois. </p>
+<postit>
+<p>Source : Apec (Agence pour l'emploi des cadres), août 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

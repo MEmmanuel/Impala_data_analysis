@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">archéologue</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire de la recherche/enquêter, rechercher, analyser l'information</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur recherche/secteur fonction publique/secteur culture et patrimoine/secteur de l'éducation</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">archéologie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit/archéologue</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10291</lien_onisep>
+<ROME Level="1B" csRelFld="10291">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10291">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17227" csRelFld="17227">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17227</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10291</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Un travail de terrain</inter>
+<p>L'archéologue acquiert l'essentiel de sa documentation à travers des travaux de fouille. Il met au jour des vestiges des temps les plus reculés, qui deviennent des objets de sciences, pour reconstituer la manière dont était occupé le territoire, quelles étaient les activités des hommes, leurs modes de vie et leurs comportements sociaux.</p>
+<inter>Interpréter les traces du passé</inter>
+<p>Sépultures, tessons d'amphores, éclats de métal, empreintes, pollens... ces indices sont analysés en laboratoire par l'archéologue. Il fait appel à d'autres spécialistes selon la nature des vestiges : anthropologue, physicien chargé de la datation, zoologiste, botaniste, etc. Les études post-fouilles sont les étapes de lavage des objets, de tri, d'analyse de chaque élément trouvé. Ces indices sont regroupés pour élaborer des hypothèses et rédiger un rapport final des opérations effectuées.</p>
+<inter>Diffuser ses recherches</inter>
+<p>L'archéologue diffuse le résultat de ses recherches par le biais de publications, de conférences et d'expositions. Il peut aussi participer à la mise à jour de la carte archéologique nationale. Il travaille sur un SIG (système d'information géographique) en utilisant des logiciels cartographiques.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17222" csRelFld="17222">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17222</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10291</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>L'archéologue est diplômé d'un master (bac+5) avec une très bonne maîtrise des langues. Le doctorat (bac + 8)  permet de devenir chercheur, au CNRS ou à l'Inrap, ou enseignant-chercheur à l'université.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master mention archéologie, sciences pour l'archéologie</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 8</tete>
+<itsimp>Doctorat en archéologie</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17211" csRelFld="17211">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17211</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10291</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Principal employeur : l'État</inter>
+<p>On compte environ 3 000 archéologues professionnels, dont près de 50 % travaillent pour l'Inrap (Institut national de recherches archéologiques préventives). Les services régionaux de l'archéologie, ainsi que certains départements et communes, emploient des fonctionnaires. Un archéologue peut exercer en tant qu'enseignant-chercheur à l'université, chercheur au CNRS (Centre national de la recherche scientifique) ou encore conservateur dans un musée. Les fouilles peuvent également être confiées à des sociétés privées agréées.</p>
+<inter>Des postes au compte-gouttes</inter>
+<p>Ce métier est difficile d'accès. Pour la fonction publique, les recrutements se font par voie de concours. En 2011, le concours d'entrée à l'INP (Institut national du patrimoine) offrait 5 postes de conservateur du patrimoine avec la spécialité archéologie (1 pour l'État et 4 pour les collectivités territoriales). Après la réussite au concours, les lauréats sont formés pendant 18 mois.</p>
+<inter>Initiation bénévole</inter>
+<p>La participation à un chantier de fouilles constitue la meilleure initiation à l'archéologie. Certains chantiers recrutent des fouilleurs bénévoles et de nombreux amateurs. Le ministère de la Culture diffuse chaque année, au mois d'avril, la liste nationale des chantiers ouverts aux bénévoles.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2200 </sal>euros brut par mois.</p>
+<postit>
+<p>Source : INP, mars 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

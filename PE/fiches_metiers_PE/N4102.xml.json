@@ -1,0 +1,467 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Chauffeur / Chauffeuse de direction",
+            "priorisation": "1",
+            "libelle": "Chauffeur / Chauffeuse de direction",
+            "code_ogr": "11984"
+        },
+        {
+            "libelle_court": "Chauffeur / Chauffeuse de ma\u00eetre",
+            "priorisation": "1",
+            "libelle": "Chauffeur / Chauffeuse de ma\u00eetre",
+            "code_ogr": "11988"
+        },
+        {
+            "libelle_court": "Chauffeur / Chauffeuse de taxi",
+            "priorisation": "1",
+            "libelle": "Chauffeur / Chauffeuse de taxi",
+            "code_ogr": "11992"
+        },
+        {
+            "libelle_court": "Chauffeur / Chauffeuse de taxi animalier",
+            "priorisation": "1",
+            "libelle": "Chauffeur / Chauffeuse de taxi animalier",
+            "code_ogr": "11993"
+        },
+        {
+            "libelle_court": "Chauffeur(se) accompagnateur(trice) pers \u00e0 mobilit\u00e9 r\u00e9duite",
+            "priorisation": "1",
+            "libelle": "Chauffeur accompagnateur / Chauffeuse accompagnatrice de personnes \u00e0 mobilit\u00e9 r\u00e9duite",
+            "code_ogr": "11982"
+        },
+        {
+            "libelle_court": "Chauffeur accompagnateur/Chauffeuse accompagnatrice tourisme",
+            "priorisation": "1",
+            "libelle": "Chauffeur accompagnateur / Chauffeuse accompagnatrice tourisme",
+            "code_ogr": "11983"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice d'autorit\u00e9 de l'arm\u00e9e",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice d'autorit\u00e9 de l'arm\u00e9e",
+            "code_ogr": "12878"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de cyclo taxi",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de cyclo taxi",
+            "code_ogr": "38168"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de grande remise",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de grande remise",
+            "code_ogr": "12954"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de navette de moins de 9 personnes",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de navette de moins de 9 personnes",
+            "code_ogr": "13116"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de taxi",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de taxi",
+            "code_ogr": "13190"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de taxi moto",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de taxi moto",
+            "code_ogr": "13191"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de transport de particuliers",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de transport de particuliers",
+            "code_ogr": "13207"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de voiture particuli\u00e8re",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de voiture particuli\u00e8re",
+            "code_ogr": "13234"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice V\u00e9hicule L\u00e9ger de l'arm\u00e9e",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice V\u00e9hicule L\u00e9ger de l'arm\u00e9e",
+            "code_ogr": "13333"
+        },
+        {
+            "libelle_court": "Motard / Motarde de presse",
+            "priorisation": "1",
+            "libelle": "Motard / Motarde de presse",
+            "code_ogr": "16904"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Accueillir la client\u00e8le \u00e0 bord du v\u00e9hicule et pr\u00e9ciser la destination et les imp\u00e9ratifs avec le client",
+            "code_ogr": "558",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier l'itin\u00e9raire en fonction des d\u00e9lais et des particularit\u00e9s du trafic",
+            "code_ogr": "2168",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conduire et d\u00e9poser le client \u00e0 son lieu de destination",
+            "code_ogr": "921",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les documents de bord du v\u00e9hicule (feuille de route, carnet de bord, ...)",
+            "code_ogr": "3035",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien de premier niveau et le nettoyage du v\u00e9hicule",
+            "code_ogr": "3545",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "G1702",
+            "libelle_rome_cible": "Personnel du hall"
+        },
+        {
+            "code_rome_cible": "N4104",
+            "libelle_rome_cible": "Courses et livraisons express"
+        },
+        {
+            "code_rome_cible": "N4105",
+            "libelle_rome_cible": "Conduite et livraison par tourn\u00e9es sur courte distance"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle.\nLe permis B (v\u00e9hicules l\u00e9gers de moins de 9 personnes) d'au moins 2 ans est exig\u00e9.\nUn Certificat de Capacit\u00e9 de Conducteur de taxi ou de Conduite de v\u00e9hicule \u00ab grande remise \u00bb ou une Autorisation de Transport de Personnes est obligatoire selon le type de fonction.\nUne formation continue doit \u00eatre suivie tous les 5 ans par les conducteurs de taxi.\nUn agr\u00e9ment d\u00e9livr\u00e9 par le pr\u00e9fet (Direction des Services V\u00e9t\u00e9rinaires) est n\u00e9cessaire pour le transport d'animaux.\nLa formation Pr\u00e9vention et Secours Civiques de niveau 1 -PSC1- peut \u00eatre requise.\nUn casier judiciaire exempt de toute mention contradictoire est g\u00e9n\u00e9ralement exig\u00e9.\nLa pratique d'une langue \u00e9trang\u00e8re peut \u00eatre demand\u00e9e.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser des d\u00e9placements :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Urbains",
+            "code_ogr": "8339",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9gionaux",
+            "code_ogr": "8338",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nationaux",
+            "code_ogr": "8337",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Internationaux",
+            "code_ogr": "8335",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conduire un v\u00e9hicule n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Certificat d'aptitude \u00e0 la conduite \u00ab grande remise \u00bb",
+            "code_ogr": "4070",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Certificat de Capacit\u00e9 Professionnelle \u00e0 la conduite de taxi",
+            "code_ogr": "4072",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9vention et Secours Civiques de niveau 1 -PSC1-",
+            "code_ogr": "4068",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Autorisation Transport de Personnes",
+            "code_ogr": "4069",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Certificat de transport d'animaux vivants",
+            "code_ogr": "8351",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conduire un v\u00e9hicule sp\u00e9cifique :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Berline limousine de luxe",
+            "code_ogr": "4084",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cycle",
+            "code_ogr": "38177",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Moto",
+            "code_ogr": "4095",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Encaisser le paiement d'un d\u00e9placement, \u00e9tablir un devis ou d\u00e9livrer une facture",
+            "code_ogr": "5844",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer un circuit touristique ou personnalis\u00e9 et dispenser un commentaire \u00e0 la demande du client",
+            "code_ogr": "5450",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Transporter des animaux pour le compte d'un client",
+            "code_ogr": "10031",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Consigner les \u00e9l\u00e9ments d'activit\u00e9 d'une mission (horaires, trajet, incidents, ...)",
+            "code_ogr": "4161",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce pour le compte de soci\u00e9t\u00e9s priv\u00e9es (r\u00e9seaux de taxis, location de v\u00e9hicule avec chauffeurs, ...), d'administrations (services de l'Etat, arm\u00e9e, ...), de particuliers, en contact avec une client\u00e8le diversifi\u00e9e (professionnelle, touristique, ...).\nElle peut s'exercer les fins de semaine, jours f\u00e9ri\u00e9s, de nuit et impliquer des d\u00e9placements de plusieurs jours.\nLa r\u00e9mun\u00e9ration des chauffeurs de taxi varie selon leur statut (salari\u00e9 au compteur, actionnaire, artisan ou travailleur ind\u00e9pendant).\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de carte routi\u00e8re",
+            "code_ogr": "20933",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de navigation (GPS, VHF, radar, ...)",
+            "code_ogr": "21329",
+            "position_item": "2",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise artisanale",
+            "code_ogr": "23870",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de location de v\u00e9hicules",
+            "code_ogr": "23881",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de taxis",
+            "code_ogr": "24097",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Administration / Services de l'Etat",
+            "code_ogr": "23388",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation du transport de personnes",
+            "code_ogr": "22565",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9 des biens et des personnes",
+            "code_ogr": "22623",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Environnement g\u00e9ographique et culturel (sites touristiques, ...)",
+            "code_ogr": "21933",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9canique automobile",
+            "code_ogr": "21881",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes de la relation client",
+            "code_ogr": "22323",
+            "position_item": "5",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise des prestations de transport de personnes (transfert de client\u00e8le vari\u00e9e, circuit touristique,...) au moyen d'un v\u00e9hicule l\u00e9ger (capacit\u00e9 de moins de 9 personnes), selon la r\u00e9glementation routi\u00e8re, les r\u00e8gles de s\u00e9curit\u00e9 des biens et des personnes, et les imp\u00e9ratifs de d\u00e9lai et de qualit\u00e9.\nPeut transporter des animaux pour le compte d'un client.\n",
+    "intitule": "Conduite de transport de particuliers",
+    "code_ogr": "524",
+    "code_rome": "N4102",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1204",
+            "libelle_rome_cible": "Location de v\u00e9hicules ou de mat\u00e9riel de loisirs"
+        },
+        {
+            "code_rome_cible": "D1404",
+            "libelle_rome_cible": "Relation commerciale en vente de v\u00e9hicules"
+        },
+        {
+            "code_rome_cible": "J1305",
+            "libelle_rome_cible": "Conduite de v\u00e9hicules sanitaires"
+        },
+        {
+            "code_rome_cible": "K2110",
+            "libelle_rome_cible": "Formation en conduite de v\u00e9hicules"
+        },
+        {
+            "code_rome_cible": "N4103",
+            "libelle_rome_cible": "Conduite de transport en commun sur route"
+        },
+        {
+            "code_rome_cible": "N4202",
+            "libelle_rome_cible": "Direction d'exploitation des transports routiers de personnes"
+        },
+        {
+            "code_rome_cible": "N4204",
+            "libelle_rome_cible": "Intervention technique d'exploitation des transports routiers de personnes"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">greffier/ère</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">défendre, secourir, surveiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction juridique/fonction administrative</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">activité judiciaire</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit/greffier</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10306</lien_onisep>
+<ROME Level="1B" csRelFld="10306">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10306">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1036" csRelFld="1036">
+<CSLABELFLD label="">greffier / greffière en chef</CSLABELFLD>
+<MET_ID label="Identifiant">10306</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">03/01/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1036</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">greffier/ère en chef</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1036">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="19047" csRelFld="19047">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">19047</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10306</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Technicien de la procédure</inter>
+<p>Le greffier a pour première mission d'enregistrer les demandes des plaignants, de rédiger les actes et d'assembler les pièces. Il doit également informer les différentes « parties », c'est-à-dire l'accusation et la défense, des dates d'audience. Sa principale tâche consiste à authentifier les décisions de justice. La rigueur est de mise : une procédure mal engagée peut entraîner l'annulation d'un jugement.</p>
+<inter>Scripte aux audiences</inter>
+<p>Le greffier joue également un rôle clé à l'audience. Sa présence y est obligatoire. Il retranscrit officiellement les débats, note les déclarations des personnes à la demande des avocats ou des magistrats. Il rédige aussi les arrêts du tribunal et dresse les procès-verbaux.</p>
+<inter>Premier interlocuteur au tribunal</inter>
+<p>Enfin, son rôle est d'accueillir et d'informer le public. C'est lui qui explique aux plaignants la manière de constituer un dossier, comment lancer une procédure... Chaque greffier est rattaché à une juridiction (tribunal de grande instance, cour d'appel...). Après 4 ans d'expérience, le greffier peut passer le concours interne pour devenir greffier en chef.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17111" csRelFld="17111">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17111</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10306</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Fonctionnaire, le greffier est recruté sur concours du ministère de la Justice ouvert aux titulaires d'un bac</accr_p>
+<accr_p>+</accr_p>
+<accr_p>2 (de droit généralement).</accr_p> De plus en plus de candidats se présentent avec un bac + 3 au minimum. Le taux de sélection est d'environ 10 %. La formation se déroule à l'ENG (École nationale des greffes), à Dijon. Les études durent 18 mois, pendant lesquels les élèves sont rémunérés (environ 1500 euros net par mois). </p>
+<p>La formation se compose de cours théoriques et de nombreux stages pratiques dans différentes juridictions. Le greffier stagiaire est titularisé au terme du cursus. Comme les magistrats, il dispose d'un éventail de choix de postes plus ou moins large, en fonction de son rang de sortie de l'école. Il doit s'engager à accomplir 4 ans au service de l'État en qualité de titulaire.</p>
+<p>À noter : dans le cadre du dispositif sur l'égalité des chances, l'ENG propose une préparation au concours aux jeunes diplômés issus de quartiers ou de milieux sociaux défavorisés.</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>Concours de greffier du ministère de la Justice</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17113" csRelFld="17113">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17113</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10306</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des places à prendre</inter>
+<p>Le ministère de la Justice poursuit son opération de recrutement. La création de 399 postes de greffiers est prévue en 2011, pour des arrivées prévues en juridictions en 2012 et 2013.</p>
+<inter>Élargir ses compétences</inter>
+<p>Un greffier peut gérer un des services du greffe ou décider de changer de juridiction, afin d'élargir ses compétences au cours de sa carrière. Il peut envisager également, après 4 ans d'expérience et la réussite à un concours interne de l'École nationale des greffes, d'accéder au statut de greffier en chef, qui offre de plus grandes responsabilités.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1700</sal> euros brut par mois.</p>
+<postit>
+<p>Source : site du ministère de la Justice (fiche greffier).</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

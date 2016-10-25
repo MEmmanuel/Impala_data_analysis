@@ -1,0 +1,512 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Affineur / Affineuse de fromages",
+            "priorisation": "1",
+            "libelle": "Affineur / Affineuse de fromages",
+            "code_ogr": "10329"
+        },
+        {
+            "libelle_court": "Fabricant-affineur / Fabricante-affineuse de fromages",
+            "priorisation": "1",
+            "libelle": "Fabricant-affineur / Fabricante-affineuse de fromages",
+            "code_ogr": "15028"
+        },
+        {
+            "libelle_court": "Fromager / Fromag\u00e8re",
+            "priorisation": "1",
+            "libelle": "Fromager / Fromag\u00e8re",
+            "code_ogr": "15170"
+        },
+        {
+            "libelle_court": "Fromager-affineur / Fromag\u00e8re-affineuse",
+            "priorisation": "1",
+            "libelle": "Fromager-affineur / Fromag\u00e8re-affineuse",
+            "code_ogr": "15171"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Proc\u00e9der au caillage du lait apr\u00e8s sa mise en cuve",
+            "code_ogr": "2703",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la mise en forme des fromages et proc\u00e9der au salage du caill\u00e9 en surface ou par bain de saumure",
+            "code_ogr": "1697",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Disposer les fromages en caves ou h\u00e2loirs et contr\u00f4ler leur affinage par des manipulations (retournement, brossage des fromages, mac\u00e9ration, ...)",
+            "code_ogr": "1485",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conditionner les produits selon leurs caract\u00e9ristiques, les commandes et le mode de transport",
+            "code_ogr": "3509",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Maintenir en \u00e9tat de propret\u00e9 et d'hygi\u00e8ne le mat\u00e9riel, les installations (cuves, ...) et les locaux",
+            "code_ogr": "2281",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "A1413",
+            "libelle_rome_cible": "Fermentation de boissons alcoolis\u00e9es"
+        },
+        {
+            "code_rome_cible": "D1106",
+            "libelle_rome_cible": "Vente en alimentation"
+        },
+        {
+            "code_rome_cible": "D1107",
+            "libelle_rome_cible": "Vente en gros de produits frais"
+        },
+        {
+            "code_rome_cible": "H2102",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de production alimentaire"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac+2 (BTSA, ...) en agriculture ou industrie laiti\u00e8re.\nIl est \u00e9galement accessible sans dipl\u00f4me particulier ni exp\u00e9rience professionnelle.\nUn agr\u00e9ment d\u00e9livr\u00e9 par la Direction des Services V\u00e9t\u00e9rinaires ou la Pr\u00e9fecture de Police est requis pour exercer l'activit\u00e9 d'affineur.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Fabriquer et affiner des fromages :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "De ch\u00e8vre (chabichou, chevrotin, ...)",
+            "code_ogr": "5931",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "A p\u00e2te molle et \u00e0 cro\u00fbte fleurie (camembert, brie, ...)",
+            "code_ogr": "5926",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "A p\u00e2te molle et \u00e0 cro\u00fbte lav\u00e9e (munster, ...)",
+            "code_ogr": "5927",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "A p\u00e2te press\u00e9e non cuite (tomme, cantal, ...)",
+            "code_ogr": "5930",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "A p\u00e2te press\u00e9e et cuite (gruy\u00e8re, parmesan, ...)",
+            "code_ogr": "5929",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "A p\u00e2te persill\u00e9e (roquefort, gorgonzola, ...)",
+            "code_ogr": "5928",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Frais",
+            "code_ogr": "5932",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9lectionner des fromages aupr\u00e8s de producteurs et d\u00e9finir les conditions d'achat (quantit\u00e9s, co\u00fbt, ...)",
+            "code_ogr": "9652",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer et r\u00e9aliser la traite (lavage des pis, branchement aux trayons, stockage du lait, ...)",
+            "code_ogr": "7966",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des tests de contr\u00f4le (chimiques, sensoriels) de maturit\u00e9, d'\u00e9volution de produits",
+            "code_ogr": "5083",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les clients sur les produits et effectuer la vente",
+            "code_ogr": "9543",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des actions de communication et de promotion des produits aupr\u00e8s de clients/prospects",
+            "code_ogr": "4842",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la gestion comptable et administrative d'une structure",
+            "code_ogr": "3533",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de fromageries traditionnelles ou industrielles, de coop\u00e9ratives agricoles de fromages, de fermes d'\u00e9levage, de caves d'affinage en relation avec les services d'hygi\u00e8ne, parfois en contact avec les clients.\nElle peut s'exercer les fins de semaine, jours f\u00e9ri\u00e9s et est soumise au rythme des saisons.\nLe port d'\u00e9quipements d'hygi\u00e8ne (tablier, bottes, gants, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Empr\u00e9surage du lait",
+            "code_ogr": "20883",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pressage manuel du caill\u00e9",
+            "code_ogr": "21058",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Salage manuel",
+            "code_ogr": "21092",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'instruments de mesure (hygrom\u00e8tre, PH-m\u00e8tre, ...)",
+            "code_ogr": "21442",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "D\u00e9coupe manuelle de fromage",
+            "code_ogr": "20847",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de nettoyage",
+            "code_ogr": "21330",
+            "position_item": "6",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils d'emballage/conditionnement",
+            "code_ogr": "21163",
+            "position_item": "7",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chiffrage/calcul de co\u00fbt",
+            "code_ogr": "20813",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de traite",
+            "code_ogr": "21338",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Appr\u00e9ciation sensorielle de fromage (au toucher, au palais, ...)",
+            "code_ogr": "20777",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Composition de plateaux de fromages",
+            "code_ogr": "20819",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion de stocks",
+            "code_ogr": "21259",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion comptable",
+            "code_ogr": "21252",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Cave d'affinage",
+            "code_ogr": "23755",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Coop\u00e9rative agricole",
+            "code_ogr": "23833",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ferme d'\u00e9levage",
+            "code_ogr": "23938",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Fromagerie artisanale",
+            "code_ogr": "23944",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Fromagerie industrielle",
+            "code_ogr": "23945",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaire Hazard Analysis Critical Control Point -HACCP-",
+            "code_ogr": "22650",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Fabrication de fromages",
+            "code_ogr": "21941",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9d\u00e9s de pasteurisation",
+            "code_ogr": "22355",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Types de lait (ch\u00e8vre, brebis, vache)",
+            "code_ogr": "23316",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Tra\u00e7abilit\u00e9 des produits",
+            "code_ogr": "23289",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Processus de fermentation des fromages",
+            "code_ogr": "22479",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation de l'AOC (Appellation d'Origine Contr\u00f4l\u00e9e)",
+            "code_ogr": "22538",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modalit\u00e9s de stockage",
+            "code_ogr": "22175",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Conditions d'affinage des fromages",
+            "code_ogr": "21740",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Conditions de stockage de produits alimentaires",
+            "code_ogr": "21742",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de vente",
+            "code_ogr": "23168",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'encaissement",
+            "code_ogr": "22454",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Circuits de distribution commerciale",
+            "code_ogr": "21713",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de gestion de stocks",
+            "code_ogr": "22609",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "L\u00e9gislation sociale",
+            "code_ogr": "22086",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise la fabrication et l'affinage de fromages selon les r\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaires, la r\u00e9glementation des AOC (Appellation d'Origine Contr\u00f4l\u00e9e) et les r\u00e9f\u00e9rentiels qualit\u00e9 de l'entreprise.\nPeut effectuer des op\u00e9rations de commercialisation des produits.\nPeut coordonner une \u00e9quipe ou g\u00e9rer une entreprise (fromagerie, ...).\n",
+    "intitule": "Fabrication et affinage de fromages",
+    "code_ogr": "26",
+    "code_rome": "A1412",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "A1407",
+            "libelle_rome_cible": "\u00c9levage bovin ou \u00e9quin"
+        },
+        {
+            "code_rome_cible": "A1410",
+            "libelle_rome_cible": "\u00c9levage ovin ou caprin"
+        },
+        {
+            "code_rome_cible": "D1301",
+            "libelle_rome_cible": "Management de magasin de d\u00e9tail"
+        },
+        {
+            "code_rome_cible": "D1502",
+            "libelle_rome_cible": "Management/gestion de rayon produits alimentaires"
+        }
+    ]
+}

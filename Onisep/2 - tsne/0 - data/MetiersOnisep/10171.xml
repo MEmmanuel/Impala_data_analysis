@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">comédien/ne</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un métier artistique ou créatif/me déplacer souvent/travailler à l'étranger</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">intermittent du spectacle</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur des arts du spectacle/secteur de l'audiovisuel/secteur de la publicité</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">cinéma/théâtre/jeu de l'acteur</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE arts appliqués arts du spectacle/comédien</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10171</lien_onisep>
+<ROME Level="1B" csRelFld="10171">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="537" csRelFld="537">
+<CSLABELFLD label="">L1203</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Artistes - interprètes du spectacle</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">L1203</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Art dramatique</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10171">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1118" csRelFld="1118">
+<CSLABELFLD label="">metteur / metteuse en scène</CSLABELFLD>
+<MET_ID label="Identifiant">10171</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">21/04/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1118</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">metteur/euse en scène</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1118">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="15953" csRelFld="15953">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">15953</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10171</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Mémoriser et interpréter</inter>
+<p>Incarner un personnage, communiquer des émotions, faire vivre un texte... Tel est l'art du comédien. Sous la direction d'un metteur en scène ou d'un réalisateur, il consacre de longues heures à la mémorisation de dialogues, aux répétitions, à l'écriture... Figurant, premier ou second rôle, il utilise différentes techniques (vocales, gestuelles, corporelles et respiratoires) pour donner vie à son personnage et captiver son auditoire.</p>
+<inter>Ne pas relâcher ses efforts</inter>
+<p>Chaque spectacle nécessite un travail particulier. L'apprentissage du texte, les répétitions, les représentations, les tournées, les tournages ou les enregistrements constituent le quotidien du comédien. Son calendrier est rythmé par des périodes de travail intense, qui ne laissent guère de place à la routine.</p>
+<inter>Du théâtre au cinéma</inter>
+<p>Beaucoup de comédiens appartiennent à une compagnie rattachée à un théâtre ou à une troupe. Bien que le théâtre constitue l'essentiel de leur activité, celle-ci peut s'étendre au cinéma, à la télévision, à la radio, à la publicité, au doublage, à l'animation, au cirque...</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="15968" csRelFld="15968">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">15968</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10171</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Conservatoires, écoles nationales, cours privés, universités... Selon les structures, l'offre de formations est plus ou moins coûteuse, les enseignements diffèrent (plutôt pratiques ou théoriques) et les diplômes délivrés sont reconnus ou non par l'État. Suivre l'un de ces cursus est vivement recommandé, de même qu'une pratique régulière de l'art dramatique.</p>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>DNOP (diplôme national d'orientation professionnelle) d'art dramatique</itsimp>
+<itsimp>DET (diplôme d'études théâtrales)</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>Classe d'art dramatique en conservatoire</itsimp>
+<itsimp>DEUST art du spectacle spécialité théâtre ; formation de base aux métiers du théâtre</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>DNSP (diplôme national supérieur professionnel) de comédien</itsimp>
+<itsimp>Licence arts du spectacle ; licence pro concepteur-réalisateur d'interventions théâtrales ; encadrement de pratiques théâtrales...</itsimp>
+<itsimp>Formation de comédien en écoles privées</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme de l'Ensatt Lyon, parcours acteur</itsimp>
+<itsimp>Masters arts du spectacle, études théâtrales, conception de projet artistique</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="15956" csRelFld="15956">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">15956</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10171</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>L'importance du réseau professionnel</inter>
+<p>Au-delà des auditions, le réseau professionnel constitue un atout indiscutable pour tout artiste. Le « bouche à oreille » et les connaissances sont de bons moyens pour se tenir au courant des futurs castings, auditions ou projets et pour faire parler de soi. Multiplier les rencontres renforce les chances d'obtenir un contrat.</p>
+<inter>Compléter ses revenus</inter>
+<p>Il est très difficile de vivre du métier de comédien. Faute de proposition, on peut rester plusieurs mois sans jouer. La plupart des artistes du spectacle multiplient donc leurs activités pour compléter leurs revenus. Les plus chanceux trouvent des opportunités dans leur domaine (tournage de film publicitaire, doublage de film, spectacle d'entreprise, animation dans des parcs de loisirs...) ; les autres sont contraints de se tourner vers d'autres secteurs (enseignement, administration...).</p>
+<inter>Évoluer vers la mise en scène</inter>
+<p>S'agissant des perspectives d'évolution professionnelle, chaque parcours est personnel et unique. Néanmoins, quelques tendances se dégagent : certains acteurs se tournent vers la mise en scène, d'autres montent leur propre compagnie de théâtre ou encore se lancent dans la gestion d'une structure artistique.</p>
+<remun>
+<p>Les comédiens sont le plus souvent payés au contrat ou au cachet (très peu d'entre eux touchent un salaire fixe mensuel).</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

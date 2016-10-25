@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">chargé/e d'affaires en génie mécanique</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire du commerce/convaincre, négocier/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction vente</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur construction mécanique/secteur sociétés d'ingénierie et d'études techniques</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">génie mécanique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE mécanique automatismes</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100575</lien_onisep>
+<ROME Level="1B" csRelFld="100575">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="258" csRelFld="258">
+<CSLABELFLD label="">H1102</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Affaires et support technique client</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H1102</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie d'affaires</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100575">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="55430" csRelFld="55430">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55430</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100575</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Prospection</inter>
+<p>Comme tout commercial, le chargé d'affaires en génie mécanique doit d'abord établir ou étoffer son fichier de clients potentiels afin de leur proposer ses produits et services. Il s'agit de vendre des produits industriels plus ou moins standardisés, ou des produits qu'il devra adapter aux besoins spécifiques du client. Il est chargé d'une zone géographique ainsi que d'un ou plusieurs produits de l'entreprise. Il étudie les appels d'offres en termes de faisabilité et de rentabilité pour son entreprise avant d'y répondre éventuellement.</p>
+<inter>Négociation</inter>
+<p>Parallèlement, le chargé d'affaires en génie mécanique doit fidéliser ses clients grâce à des rendez-vous et appels réguliers, et négocier de nouveaux contrats. Il doit alors coordonner les études techniques (surtout dans le cas de produits spécifiques) et les études de prix, rechercher d'éventuels partenaires sous-traitants (si le projet inclut des éléments qui dépassent les compétences de son entreprise). Il rédige les offres et les contrats.</p>
+<inter>Suivi</inter>
+<p>Il assiste ses clients dans la mise en place du projet de génie mécanique vendu. Il est à l'interface entre son entreprise et le client pour que tout se passe comme prévu. Il assure le transfert du dossier aux équipes chargées de la production mais reste l'interlocuteur du client.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55434" csRelFld="55434">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55434</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100575</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Différents niveaux permettent d'accéder à ce métier, du bac + 2 (BTS) complété d'une première expérience de vente, au bac + 5 (diplôme d'ingénieur, d'école de commerce ou master) en passant par un bac + 3 (licence pro).</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS management des unités commerciales ; négociation et relation client ; automatismes...</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence pro mention métiers de l'industrie : mécanique ou métiers de l'industrie : mécatronique, robotique...</itsimp>
+<itsimp>Diplôme d'école de commerce</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur</itsimp>
+<itsimp>Diplôme d'école de commerce</itsimp>
+<itsimp>Master mention automatique, robotique ; génie mécanique ; mécanique...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55432" csRelFld="55432">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55432</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100575</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Plus de responsabilités</inter>
+<p>Avec l'expérience, le chargé d'affaires en génie mécanique peut se voir confier des zones géographiques plus vastes, des clients et des projets de plus en plus importants, dans son entreprise ou dans une autre, après quelques années d'expérience. Il peut éventuellement former des débutants qui pourront l'accompagner sur le terrain.</p>
+<inter>Changement de poste</inter>
+<p>Après plusieurs années d'expérience réussie, le chargé d'affaires peut viser les postes de directeur commercial, directeur des achats, négociateur à l'international (s'il maîtrise l'anglais au minimum), responsable relation clients, etc.</p>
+<inter>PME, grand groupe ou bureau d'études</inter>
+<p>Les jeunes diplômés sont appréciés pour ce poste, surtout s'ils ont une double compétence technique et commerciale. Les débouchés existent et se situent dans les entreprises de production, d'installation et d'exploitation en génie mécanique, dans les bureaux d'ingénierie ou bureaux d'études en génie mécanique. Les PME (petites et moyennes entreprises) ne sont pas à négliger car elles ont besoin, comme les plus grandes entreprises, de trouver des débouchés pour leurs produits.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Salaire variable en fonction du lieu d'exercice et du type d'entreprise. Une partie de la rémunération est généralement liée aux résultats.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

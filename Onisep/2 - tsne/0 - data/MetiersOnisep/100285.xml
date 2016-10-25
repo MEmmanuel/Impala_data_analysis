@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">commercial/e export</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">convaincre, négocier/faire du commerce/me déplacer souvent/pratiquer les langues vivantes/travailler à l'étranger</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction import-export/fonction marketing/fonction formation/fonction vente</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur commerce</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">commerce international/vente</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">commercial export/GFE commerce distribution</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100285</lien_onisep>
+<ROME Level="1B" csRelFld="100285">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100285">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17635" csRelFld="17635">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17635</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100285</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+   <inter>Décrocher de nouveaux contrats</inter>
+   <p>Il étudie les marchés et les entreprises susceptibles de devenir de nouveaux clients, puis planifie des rendez-vous avec ces " prospects " (clients potentiels). Il n'hésite pas à se déplacer à l'étranger pour négocier les contrats. Pour enrichir son carnet d'adresses, il participe à des salons internationaux et à des foires.</p>
+   <inter>Fidéliser sa clientèle</inter>
+   <p>Soucieux d'entretenir de bonnes relations avec ses clients, il les contacte régulièrement pour faire avec eux le bilan de leurs commandes, les conseiller, noter leurs attentes. Analysant en permanence la concurrence, il essaie de s'en démarquer pour développer les ventes.</p>
+   <inter>Polyvalent en PME</inter>
+   <p>Dans les PME (petites et moyennes entreprises), le commercial export gère ses dossiers de A à Z, autrement dit du premier contact à la livraison des produits. Il doit donc connaître les formalités de douane, ainsi que les techniques particulières d'assurance, de transport et de paiement qui se pratiquent à l'exportation. </p>
+   <p>Dans les grandes entreprises, il s'appuie sur des équipes de vente à l'international qu'il doit former et encadrer lors des négociations techniques et commerciales.</p>
+  </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17584" csRelFld="17584">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17584</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100285</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Un bac + 2 est suffisant pour débuter dans la profession, mais les grandes entreprises préfèrent les titulaires d'un bac + 5</accr_p> .</p>
+<inter>Niveau bac + 2</inter>
+<liste>
+<itsimp>
+<em>BTS</em> commerce international ;</itsimp>
+<itsimp>
+<em>DUT</em> techniques de commercialisation ;</itsimp>
+<itsimp>
+<em>Diplôme des écoles de commerce </em>dépendant des chambres de commerce et d'industrie (CCI).</itsimp>
+</liste>
+<inter>Niveau bac + 3</inter>
+<liste>
+<itsimp>
+<em>Licence pro</em> ;</itsimp>
+<itsimp>
+<em>Diplôme des écoles de gestion et de commerce (EGC) </em>dépendant des chambres de commerce et d'industrie (CCI).</itsimp>
+</liste>
+<inter>Niveau bac + 4 et 5</inter>
+<liste>
+<itsimp>
+<em>Master pro </em>commerce international et langues étrangères appliquées (LEA) ;</itsimp>
+<itsimp>
+<em>Diplôme d'école de commerce </em>avec une orientation vers l'international.</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17594" csRelFld="17594">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17594</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100285</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+   <inter>Surtout dans l'industrie</inter>
+   <p>Chaque année, environ 3 000 postes de commerciaux export se libèrent sur le marché de l'emploi. Tous les secteurs d'activité sont concernés, en particulier l'industrie (agroalimentaire, notamment), les services aux entreprises (transporteurs, par exemple) et le commerce en général. Pour développer leurs exportations, les PME/PMI (petites et moyennes industries) recrutent. Les jeunes diplômés débutent souvent en tant qu'assistants export basés en France.</p>
+   <inter>Responsable d'une zone </inter>
+   <p>Après 4 ou 5 ans d'expérience, un commercial export peut occuper un poste de chef de zone export, c'est-à-dire d'animateur du réseau commercial d'une zone. En milieu de carrière, il peut devenir directeur export.</p>
+   <inter>Diriger une filiale</inter>
+   <p>Autre évolution possible : prendre la direction d'une filiale à l'étranger. Attention : ce poste à responsabilités n'est accessible qu'après une longue expérience comme commercial export.</p>
+   <remun>
+    <inter>Salaire du débutant</inter>
+    <p>À partir de <sal>2083</sal> euros brut par mois (+ primes).</p>
+    <p>Source : Apec, août 2012. </p>
+   </remun>
+  </MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

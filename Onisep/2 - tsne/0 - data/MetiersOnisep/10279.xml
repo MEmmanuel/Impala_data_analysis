@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">zoologiste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">travailler en contact avec la nature/faire de la recherche/travailler dehors/me déplacer souvent/m'occuper d'animaux</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur recherche/secteur de l'éducation</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">zoologie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit/zoologiste</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10279</lien_onisep>
+<ROME Level="1B" csRelFld="10279">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="520" csRelFld="520">
+<CSLABELFLD label="">K2402</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Recherche</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K2402</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Recherche en sciences de l'univers, de la matière et du vivant</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10279">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17315" csRelFld="17315">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17315</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10279</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Observation sur le terrain</inter>
+<p>Le zoologiste se rend sur le terrain : une forêt vosgienne, la savane africaine ou les fonds marins australiens. Armé d'une caméra, d'un appareil photo ou d'un carnet, il étudie une ou plusieurs espèces. C'est grâce à ses clichés, ses films, ses prélèvements et ses notes que les connaissances sur le comportement animal progressent.</p>
+<inter>Travail en laboratoire</inter>
+<p>De retour dans son laboratoire, le zoologiste analyse les relevés, les observations ou les échantillons prélevés sur le terrain. Ce travail lui permet d'étudier les relations entre le mode de vie des espèces, l'évolution de leur milieu et le fonctionnement de leur organisme.</p>
+<inter>Activité de chercheur</inter>
+<p>Généralement, le zoologiste est spécialiste d'une famille d'animaux (oiseaux, reptiles, insectes&#8230;) ou d'une discipline (biologie de la reproduction, migrations, communication&#8230;). Ses recherches peuvent aussi être effectuées sur des animaux en captivité.</p>
+<p>En tant que chercheur, il participe à des conférences, publie des rapports et des articles dans des revues spécialisées. Souvent, il enseigne également les sciences naturelles et la biologie à l'université. Il peut aussi devenir directeur ou conservateur d'un musée consacré à des espèces animales.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17312" csRelFld="17312">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17312</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10279</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Les candidats au métier de zoologiste doivent se préparer à des études longues (au mois 8 ans). Si l'université est la principale voie d'accès avec la licence (bac + 3 en biologie des organismes, par exemple), le master (bac + 5) et le doctorat (bac + 8),  un cursus en école d'ingénieurs spécialisée en biologie, biochimie, biotechnologies, océanologie, agronomie peut remplacer un bac + 5 universitaire. On peut aussi opter pour un cursus en école vétérinaire, éventuellement complété par une formation universitaire. Pour intégrer un organisme de recherche public, il faudra encore passer un concours.</p>
+<liste>
+<tete>Niveau bac + 8</tete>
+<itsimp>Doctorat</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17297" csRelFld="17297">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17297</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10279</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Très peu d'emplois dans la recherche pure</inter>
+<p>Les emplois de chercheur se trouvent dans les grands organismes de recherche publics et privés : Inra (Institut national de la recherche agronomique), Cirad (Centre de coopération internationale en recherche agronomique pour le développement), CNRS (Centre national de la recherche scientifique), IRD (Institut de recherche pour le développement)&#8230; Les chercheurs en zoologie des laboratoires publics sont des fonctionnaires ; ils ont le titre d'ingénieur de recherche ou de chargé de recherche (au CNRS, par exemple). Le recrutement s'effectue sur concours, à très haut niveau. Mais la recherche publique n'offre que quelques postes chaque année.</p>
+<inter>À l'université, dans les musées</inter>
+<p>Les zoos et, plus rarement, les parcs naturels constituent un débouché restreint, mais à ne pas négliger. Les perspectives concernant l'enseignement universitaire (maître de conférences, professeur ou chargé de cours), en biologie animale par exemple, sont un peu meilleures. Il est également possible de devenir chargé de recherche (enseignant et chercheur à la fois), ou d'obtenir un poste de directeur ou de conservateur de musée.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2200</sal> à 2600 euros brut par mois (pour un chargé de recherche au CNRS).</p>
+<postit>
+<p>Source : CNRS, 2011.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

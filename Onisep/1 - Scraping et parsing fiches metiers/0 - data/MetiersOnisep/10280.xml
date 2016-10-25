@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">botaniste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">travailler en contact avec la nature/faire de la recherche/préserver l'environnement/travailler dehors</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction recherche</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur recherche/secteur de l'éducation/secteur industrie pharmaceutique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">botanique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit/botaniste</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10280</lien_onisep>
+<ROME Level="1B" csRelFld="10280">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="520" csRelFld="520">
+<CSLABELFLD label="">K2402</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Recherche</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K2402</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Recherche en sciences de l'univers, de la matière et du vivant</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10280">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17303" csRelFld="17303">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17303</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10280</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>L'étude des plantes</inter>
+<p>Le botaniste est un spécialiste des plantes : observer, répertorier, trier et classer la flore, tel est son rôle. Pour étudier les plantes, dans ou hors leur milieu naturel, il utilise divers procédés scientifiques tels que des analyses morphologiques (formes), anatomiques (structures internes et externes), phytochimiques (réactions chimiques). Sa mission est d'analyser le développement, la reproduction et la biodégradabilité des végétaux, c'est-à-dire leur décomposition par les micro-organismes.</p>
+<inter>Des recherches utiles à tous</inter>
+<p>À quoi servent les recherches effectuées par le botaniste ? Elles portent sur l'utilisation des plantes dans l'industrie alimentaire, en pharmacologie (étude des médicaments et de leur emploi), en cosmétologie (étude des soins du corps), en parfumerie, etc. Il peut mesurer les effets de la pollution industrielle ou du déboisement sur les milieux naturels, afin de mieux les maîtriser. Il peut également faire avancer la recherche médicale en exploitant les vertus naturellement thérapeutiques d'une plante. Il peut aussi associer tel pigment d'écorce à une peinture pour fabriquer une couleur à la mode, ou encore utiliser le goût sucré d'une plante comme édulcorant pour des produits diététiques.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17317" csRelFld="17317">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17317</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10280</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Pour devenir botaniste, une formation universitaire en biologie végétale, au moins égale à un bac + 5 (master) et de préférence un bac + 8 (doctorat), est indispensable. Les formations des écoles d'ingénieurs agronomes sont également de bons tremplins pour une insertion professionnelle, à compléter par un master recherche biologie si l'on souhaite s'orienter vers la recherche.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master biologie des plantes et des micro-organismes, biotechnologies, bioprocédés spécialité biologie des plantes ; vie et santé, spécialité biologie et valorisation des plantes ; biologie et santé sciences du végétal</itsimp>
+<itsimp>Master recherche biologie, géosciences, agroressources, environnement, spécialité biologie et évolution des plantes ; biologie, santé, spécialité biologie végétale intégrative : gène, plante, agrosystème</itsimp>
+<itsimp>Diplôme d'ingénieur agronome</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5 et plus</tete>
+<itsimp>Doctorat en biologie végétale</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17305" csRelFld="17305">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17305</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10280</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Dans le secteur public</inter>
+<p>Le rêve de tout botaniste est d'entrer au Muséum national d'histoire naturelle. Toutefois, comme pour tout établissement de grande renommée, les places y sont très chères. Les chercheurs peuvent se diriger vers d'autres institutions. Les principaux employeurs sont le CNRS (Centre national de la recherche scientifique), l'Inra (Institut national de la recherche agronomique), l'Inserm (Institut national de la santé et de la recherche médicale) et l'IRD (Institut de recherche pour le développement). Les possibilités d'emploi sont plus fréquentes dans les universités, les écoles ou les instituts d'agronomie en tant qu'enseignant-chercheur. Les postes dans l'enseignement secondaire (collège, lycée) sont nombreux mais ne comportent pas d'activité de recherche.</p>
+<inter>Dans le secteur privé</inter>
+<p>Le botaniste peut être employé dans un bureau d'études pour étudier la flore et réaliser des études sectorielles très précises liées à l'environnement et à l'aménagement en réalisant, par exemple, des diagnostics de pollution d'un milieu. La nécessité de limiter les dommages à la nature s'est concrétisée en effet par une loi rendant obligatoires des études d'impact environnemental. Les laboratoires pharmaceutiques proposent de rares emplois, de même que les établissements horticoles.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir de <sal>2000 </sal>euros brut par mois.</p>
+<postit>
+<p>Source: non communiquée</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">chef/fe de cultures légumières</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">travailler en contact avec la nature/travailler dehors/coordonner l'activité d'une équipe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction exploitation agricole</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur agriculture</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">cultures de légumes et de petits fruits</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE agriculture/chef de cultures légumières</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100309</lien_onisep>
+<ROME Level="1B" csRelFld="100309">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="28" csRelFld="28">
+<CSLABELFLD label="">A1414</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Production</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">A1414</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Horticulture et maraîchage</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100309">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="22972" csRelFld="22972">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">22972</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100309</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Expert du végétal et des ressources humaines</inter>
+<p>L'activité du chef de cultures légumières est rythmée par les cycles saisonniers. Il planifie et gère la production de légumes selon les objectifs de vente. Il utilise des techniques agronomiques de précision, parfois entièrement automatisées, pour la préparation des sols ou substrats, l'irrigation, la fertilisation, le soin des cultures et la maîtrise du climat. Outre la technique et le suivi de son évolution, les ressources humaines et la qualité du travail d'équipe sont des facteurs clés de la réussite des entreprises légumières.</p>
+<inter>Gestionnaire d'une équipe</inter>
+<p>Le chef de cultures organise le travail d'une ou plusieurs équipes en animant, motivant, expliquant les consignes de travail. Il suit l'état des cultures, observe leur développement et choisit les végétaux à récolter. Il fait aussi appel à ses talents d'organisateur pour préparer les commandes, en prévoyant l'approvisionnement en plants et fournitures. Il gère les relations avec les techniciens de coopérative ou les commerciaux. Il contrôle et analyse les temps de travaux, les coûts de production et rend compte du déroulement des activités au responsable d'exploitation.</p> </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="22977" csRelFld="22977">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">22977</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100309</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Outre la maîtrise des techniques agronomiques, le chef de cultures légumières possède aussi</accr_p> des compétences en gestion, encadrement, vente. Les formations s'étendent du bac au bac + 3.</p>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>Bac pro productions horticoles </itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTSA productions horticoles</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence pro dans le domaine du management des entreprises horticoles ou des productions végétales</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="22975" csRelFld="22975">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">22975</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100309</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Une activité très demandeuse de main-d'oeuvre</inter>
+<p>Exigeant des compétences agricoles et techniques pointues, le secteur de la production de légumes est aussi l'un des plus importants employeurs de main-d'oeuvre en France, après la viticulture et la production fruitière. Plus de 200 000 personnes travaillent dans les exploitations légumières, dont la moitié en activité saisonnière, principalement pour les récoltes, le conditionnement et l'éclaircissage des semis. </p>
+<inter>Une large palette de métiers </inter>
+<p>Agents de production, responsables de serre ou de culture, chefs d'équipe, conducteurs de machines agricoles, caristes, mécaniciens, agents de conditionnement, secrétaires, comptables, responsables logistiques et commerciaux... Avec des compétences en économie et en gestion, ainsi que des connaissances plus pointues en horticulture, il pourra également devenir maraîcher. </p>
+<remun>
+<inter>Salaire du débutant </inter>
+<p>
+<sal>1700</sal> euros brut par mois.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,314 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Assistant / Assistante concierge d'h\u00f4tel",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante concierge d'h\u00f4tel",
+            "code_ogr": "11215"
+        },
+        {
+            "libelle_court": "Chef concierge d'h\u00f4tel",
+            "priorisation": "1",
+            "libelle": "Chef concierge d'h\u00f4tel",
+            "code_ogr": "12015"
+        },
+        {
+            "libelle_court": "Concierge d'entreprise",
+            "priorisation": "1",
+            "libelle": "Concierge d'entreprise",
+            "code_ogr": "12844"
+        },
+        {
+            "libelle_court": "Concierge d'h\u00f4tel",
+            "priorisation": "1",
+            "libelle": "Concierge d'h\u00f4tel",
+            "code_ogr": "12845"
+        },
+        {
+            "libelle_court": "Majordome en h\u00f4tellerie",
+            "priorisation": "1",
+            "libelle": "Majordome en h\u00f4tellerie",
+            "code_ogr": "38085"
+        },
+        {
+            "libelle_court": "Premier / Premi\u00e8re concierge d'h\u00f4tel",
+            "priorisation": "1",
+            "libelle": "Premier / Premi\u00e8re concierge d'h\u00f4tel",
+            "code_ogr": "17975"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Accueillir les clients et les renseigner sur les services de l'\u00e9tablissement et les activit\u00e9s gastronomiques et culturelles",
+            "code_ogr": "575",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conseiller et orienter les clients dans leurs d\u00e9marches durant leur s\u00e9jour (choix de visite, achat d'objets particuliers, ...)",
+            "code_ogr": "950",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer, confirmer des r\u00e9servations de billets d'avion, de tickets de spectacle, de restaurant pour les clients de l'\u00e9tablissement",
+            "code_ogr": "1694",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Superviser le service de la bagagerie, le stationnement des v\u00e9hicules et organiser le transport des bagages",
+            "code_ogr": "3291",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir le planning des employ\u00e9s du hall (bagagistes, voituriers, chasseurs, ...) selon les r\u00e9servations enregistr\u00e9es",
+            "code_ogr": "1861",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "G1503",
+            "libelle_rome_cible": "Management du personnel d'\u00e9tage"
+        },
+        {
+            "code_rome_cible": "G1703",
+            "libelle_rome_cible": "R\u00e9ception en h\u00f4tellerie"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau Bac (professionnel, technologique, ...) \u00e0 Bac+2 (BTS, dipl\u00f4me de l'Institut de Conciergerie Internationale) en h\u00f4tellerie.\nIl est \u00e9galement accessible avec un CAP/BEP compl\u00e9t\u00e9 par une exp\u00e9rience professionnelle en h\u00f4tellerie ou en restauration.\nLa pratique de l'outil informatique (logiciel de r\u00e9servation, tableur, ...) et des technologies de l'information et de la communication (Internet, intranet, ...) est requise.\nLa pratique d'une ou plusieurs langue(s) \u00e9trang\u00e8re(s), en particulier l'anglais, est exig\u00e9e.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9ceptionner des appels t\u00e9l\u00e9phoniques internes ou externes et transmettre des messages aux clients",
+            "code_ogr": "9418",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Enregistrer des r\u00e9servations de chambres, de suites et actualiser le planning d'occupation",
+            "code_ogr": "5684",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des courses \u00e0 la demande d'un client ou pour les besoins de l'\u00e9tablissement",
+            "code_ogr": "4865",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller les lieux, les biens et effectuer des rondes de pr\u00e9vention et de d\u00e9tection de risques",
+            "code_ogr": "3623",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Apporter les bagages, les paquets des clients dans leur chambre, leur suite, leur v\u00e9hicule",
+            "code_ogr": "3793",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Recruter du personnel et le former aux proc\u00e9dures de l'\u00e9tablissement",
+            "code_ogr": "3594",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Former des employ\u00e9s aux techniques du m\u00e9tier",
+            "code_ogr": "4764",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'h\u00f4tels 3, 4 ou 5 \u00e9toiles, de r\u00e9sidences h\u00f4teli\u00e8res, de r\u00e9sidences de tourisme, de villages de vacances en relation avec les clients et diff\u00e9rents intervenants (r\u00e9ception, bagagerie, restaurant, service d'\u00e9tage, ...).\nElle peut s'exercer par roulement, les fins de semaine, jours f\u00e9ri\u00e9s et de nuit.\nLa r\u00e9mun\u00e9ration est constitu\u00e9e d'un fixe parfois associ\u00e9 \u00e0 des avantages (repas, logement, ...) et des pourboires.\nLe port d'un uniforme est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Tenue de livre de compte",
+            "code_ogr": "21112",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de r\u00e9servation",
+            "code_ogr": "21265",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de syst\u00e8me d'information et de communication",
+            "code_ogr": "21388",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de standard t\u00e9l\u00e9phonique",
+            "code_ogr": "21382",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tel 3 \u00e9toiles",
+            "code_ogr": "23960",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tel 4 \u00e9toiles",
+            "code_ogr": "23961",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tel 5 \u00e9toiles",
+            "code_ogr": "23962",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9sidence de tourisme",
+            "code_ogr": "24051",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9sidence h\u00f4teli\u00e8re",
+            "code_ogr": "24052",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Village vacances",
+            "code_ogr": "24128",
+            "code_type_section_env": "1"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Modalit\u00e9s d'accueil",
+            "code_ogr": "22161",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes de la relation client",
+            "code_ogr": "22323",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Environnement culturel et touristique",
+            "code_ogr": "21932",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles et consignes de s\u00e9curit\u00e9",
+            "code_ogr": "22656",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation s\u00e9curit\u00e9 incendie",
+            "code_ogr": "22580",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Fonctionnalit\u00e9s des \u00e9quipements et syst\u00e8mes de s\u00e9curit\u00e9 (alarmes, d\u00e9tecteurs, ...)",
+            "code_ogr": "21950",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nOrganise et coordonne les services du hall (bagagerie, voiturier, ...) et contribue au confort des clients de l'h\u00f4tel durant leur s\u00e9jour (r\u00e9servation des spectacles, location de voitures, achats divers, ...) selon la charte qualit\u00e9 de l'\u00e9tablissement.\nPeut effectuer des r\u00e9servations de chambres.\nPeut recruter et former du personnel pour le hall.\n",
+    "intitule": "Conciergerie en h\u00f4tellerie",
+    "code_ogr": "203",
+    "code_rome": "G1701",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "G1401",
+            "libelle_rome_cible": "Assistance de direction d'h\u00f4tel-restaurant"
+        },
+        {
+            "code_rome_cible": "G1402",
+            "libelle_rome_cible": "Management d'h\u00f4tel-restaurant"
+        },
+        {
+            "code_rome_cible": "G1403",
+            "libelle_rome_cible": "Gestion de structure de loisirs ou d'h\u00e9bergement touristique"
+        }
+    ]
+}

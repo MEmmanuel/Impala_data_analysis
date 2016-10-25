@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">cuisinier/ère</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un métier artistique ou créatif/travailler à l'étranger/exercer un travail manuel</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/saisonnier/artisan</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction fabrication, réalisation</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur restauration/secteur hôtellerie</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">cuisine</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE hôtellerie restauration tourisme loisirs/cuisinier</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10153</lien_onisep>
+<ROME Level="1B" csRelFld="10153">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="241" csRelFld="241">
+<CSLABELFLD label="">G1602</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Production culinaire</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">G1602</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Personnel de cuisine</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10153">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="898" csRelFld="898">
+<CSLABELFLD label="">contrôleur territorial de travaux (restauration) / contrôleuse territoriale de travaux (restauration)</CSLABELFLD>
+<MET_ID label="Identifiant">10153</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">05/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">898</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">contrôleur/euse territorial/e de travaux (restauration)</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="898">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="899" csRelFld="899">
+<CSLABELFLD label="">cuisinier-pâtissier / cuisinière-pâtissière</CSLABELFLD>
+<MET_ID label="Identifiant">10153</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">05/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">899</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">cuisinier/ère-pâtissier/ère</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="899">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16088" csRelFld="16088">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16088</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10153</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Élaborer des plats</inter>
+<p>Avec ou sans étoile, le cuisinier maîtrise les recettes de base, les principes de cuisson et de conservation des aliments pour élaborer des plats. Créateur inspiré et appliqué, il exerce un art difficile et passionnant où tous les sens sont sollicités.</p>
+<inter>Organiser le travail en cuisine</inter>
+<p>Dans les grands restaurants, à la tête d'une brigade de cuisiniers, le chef dirige l'ensemble des personnels en cuisine. Il organise leurs tâches et veille au respect des normes d'hygiène et de sécurité. Il élabore les recettes et les menus, en tenant compte des stocks de marchandises, des possibilités d'approvisionnement, de la saison, du type de clientèle, des plats réalisés précédemment.</p>
+<inter>Choisir une catégorie</inter>
+<p>Dans les restaurants gastronomiques, sous les ordres du chef ou du second de cuisine, le chef de partie est responsable d'une catégorie de plats : les poissons, les sauces, les hors-d'oeuvre... Dans un établissement au nombre de couverts important, c'est surtout un chef d'équipe, responsable d'une partie du menu et capable d'occuper différents postes de travail.</p>
+<p>Enfin, le commis est présent pour apprendre le métier et soulager ses aînés des tâches les plus fastidieuses.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16079" csRelFld="16079">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16079</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10153</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Du CAP au bac + 2,</accr_p>  il existe de nombreuses formations pour accéder au métier de cuisinier. À noter : le BTS hôtellerie-restauration permet d'occuper un emploi de premier commis ou de chef de partie. </p>
+<liste>
+<tete>Après la 3<exp>e</exp>
+</tete>
+<itsimp>CAP cuisine</itsimp>
+<itsimp>MC art de la cuisine allégée</itsimp>
+<itsimp>MC cuisinier en desserts de restaurant </itsimp>
+</liste>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>Bac pro cuisine </itsimp>
+<itsimp>Bac techno hôtellerie </itsimp>
+<itsimp>BP cuisinier </itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS hôtellerie-restauration option art culinaire, art de la table et du service</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16073" csRelFld="16073">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16073</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10153</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des postes à pourvoir</inter>
+<p>Métier passion, l'art culinaire rebute souvent par son rythme de travail, intense et décalé. Pourtant, les offres d'emploi ne sont pas négligeables : chaque année, 14 000 postes de cuisinier sont proposés en France !</p>
+<inter>Emplois saisonniers possibles</inter>
+<p>Le cuisinier peut occuper des postes saisonniers, notamment sur les plages ou dans les stations de ski. Il peut aussi tenter sa chance à l'étranger : États-Unis, Grande-Bretagne, Australie... Partout dans le monde, on raffole de la gastronomie française !</p>
+<inter>L'expérience pour alliée</inter>
+<p>En cuisine, c'est l'expérience qui fait progresser. Un titulaire de CAP ne gagnera ses galons de chef cuisinier qu'au terme de plusieurs années d'activité professionnelle. Un chef cuisinier peut devenir directeur de la restauration ou gérant d'un restaurant de collectivité, ou encore s'installer à son compte.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Le <sal>Smic</sal> pour un commis de cuisine, 1550 euros brut par mois pour un cuisinier.</p>
+<postit>
+<p>Source : L'hôtellerie-restauration/CHD-Expert (enquête, 2010).</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

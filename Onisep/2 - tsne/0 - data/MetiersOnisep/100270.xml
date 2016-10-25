@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">chef/fe de rayon</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire du commerce/coordonner l'activité d'une équipe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction distribution</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur commerce</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">grande distribution/réalisation d'étalage</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE commerce distribution/chef de rayon</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100270</lien_onisep>
+<ROME Level="1B" csRelFld="100270">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="133" csRelFld="133">
+<CSLABELFLD label="">D1502</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Grande distribution</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">D1502</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management/gestion de rayon produits alimentaires</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="134" csRelFld="134">
+<CSLABELFLD label="">D1503</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Grande distribution</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">D1503</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management/gestion de rayon produits non alimentaires</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100270">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1784" csRelFld="1784">
+<CSLABELFLD label="">chef / cheffe de rayon bricolage</CSLABELFLD>
+<MET_ID label="Identifiant">100270</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1784</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chef/fe de rayon bricolage</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1784">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1785" csRelFld="1785">
+<CSLABELFLD label="">chef / cheffe de rayon produits alimentaires frais</CSLABELFLD>
+<MET_ID label="Identifiant">100270</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1785</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chef/fe de rayon produits alimentaires frais</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1785">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1786" csRelFld="1786">
+<CSLABELFLD label="">chef / cheffe de rayon produits culturels </CSLABELFLD>
+<MET_ID label="Identifiant">100270</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1786</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chef/fe de rayon produits culturels </METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1786">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1787" csRelFld="1787">
+<CSLABELFLD label="">chef / cheffe de rayon sport</CSLABELFLD>
+<MET_ID label="Identifiant">100270</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1787</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chef/fe de rayon sport</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1787">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18261" csRelFld="18261">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18261</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100270</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Mettre en scène le rayon</inter>
+<p>Textile, boissons, électroménager, pâtisserie... quel qu'il soit, un rayon a besoin, pour attirer le client, d'animations, de renouvellement et surtout d'être approvisionné. C'est le rôle du chef de rayon. Selon l'enseigne, il dispose de plus ou moins de liberté par rapport à la centrale d'achats pour sélectionner les gammes des produits qui s'aligneront dans son rayon. Il réceptionne les marchandises selon un planning précis et décide de leur implantation. Ses choix stratégiques peuvent être guidés par la saison, les tendances du moment, l'action publicitaire d'une marque, etc. Pour favoriser encore plus la vente, il organise des opérations de promotion avec l'aide des commerciaux de ses fournisseurs. Le but final étant de déclencher l'acte d'achat du client.</p>
+<inter>Gérer les stocks</inter>
+<p>Dans les coulisses, il surveille les stocks sur son ordinateur afin d'éviter tout surplus ou manque. Pour séduire une clientèle exigeante, il veille à la propreté et à l'attrait des linéaires, ainsi qu'au bon étiquetage des produits. Parallèlement, il recrute, anime et motive les membres de son équipe de vente (en les informant, par exemple, des objectifs fixés par la direction), qu'ils soient simples vendeurs ou employés libre-service (ceux qui assurent la mise en rayon).</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17621" csRelFld="17621">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17621</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100270</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>En fonction du type de produit et de la taille de l'entreprise, le niveau d'accès peut varier entre bac+2 à bac+5.</accr_p>
+</p>
+<inter>Niveau bac + 2</inter>
+<liste>
+<itsimp>
+<em>BTS</em> management des unités commerciales (MUC) ;</itsimp>
+<itsimp>
+<em>DUT</em> techniques de commercialisation ;</itsimp>
+<itsimp>
+<em>Titre RCNP</em> dans le domaine de la distribution, la vente, le marketing, le management etc...</itsimp>
+</liste>
+<inter>Niveau bac + 3</inter>
+<liste>
+<itsimp>
+<em>Licence pro</em> mention commerce et distribution notamment celles du réseau DISTRISUP fruit d'un partenariat entre des enseignes leaders de la distribution (Auchan, Casino, Carrefour, Jardiland etc...) et une vingtaine d'universités.</itsimp>
+<itsimp>
+<em>Diplôme d'école de commerce et de gestion </em>
+</itsimp>
+<itsimp>
+<em>Titre RNCP</em> dans le domaine de la distribution, la vente, le marketing, le management etc</itsimp>
+</liste>
+<inter>Niveau bac + 4</inter>
+<liste>
+<itsimp>
+<em>Diplôme d'école de commerce et de gestion spécialisé</em> en distribution, marketing, management etc...</itsimp>
+</liste>
+<inter>Niveau bac + 5</inter>
+<liste>
+<itsimp>
+<em>Diplôme national de master</em>  mention marketing, vente ; mention management.</itsimp>
+<itsimp>
+<em>Diplôme d'école supérieure de commerce et de gestion</em> spécialisé en distribution, marketing, management etc...</itsimp>
+</liste>
+<p/>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18262" csRelFld="18262">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18262</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100270</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des emplois à saisir</inter>
+<p>Avec plus de 1 7500 hypermarchés, 5 400 supermarchés, des grandes surfaces spécialisées en alimentation, en bricolage, en informatique, en sport, en culture... les débouchés ne manquent pas. La grande distribution (rayons alimentation, équipements sportifs, bricolage, mobilier, télé, hi-fi, etc.) apprécie les débutants et constitue un véritable vivier d'emplois pour les jeunes diplômés.</p>
+<inter>Promotion interne</inter>
+<p>La progression d'un chef de rayon est à la fois verticale et horizontale. Ainsi, après avoir assuré la responsabilité d'un rayon, il peut en prendre plusieurs sous sa houlette. Il est alors chef de département ou chef de secteur. Mais une promotion peut aussi le conduire à prendre en charge toujours un seul rayon, mais doté d'un chiffre d'affaires beaucoup plus important. Enfin, avec quelques années d'expérience, la direction d'un magasin peut lui être confiée. Par ailleurs, la mobilité géographique en France comme à l'étranger est un atout : de nombreuses enseignes sont également présentes à l'étranger.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2400</sal> à 3300 euros brut par mois, hors primes, intéressement et 13<exp>e</exp> mois.</p>
+<postit>
+<p>Source : magazine LSA, juin 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

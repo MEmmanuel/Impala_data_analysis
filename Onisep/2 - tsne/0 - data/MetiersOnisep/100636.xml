@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">programmiste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur cabinets d'architecte</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">architecture/urbanisme/aménagement du bâtiment</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE bâtiment gros oeuvre génie civil</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100636</lien_onisep>
+<ROME Level="1B" csRelFld="100636">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100636">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56413" csRelFld="56413">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56413</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100636</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Indispensable dans le public</inter>
+<p>Devenu incontournable dans les projets d'aménagement ou de bâtiments publics, le programmiste intervient pour cadrer un projet. Son étude préalable, qui peut prendre plusieurs mois, a pour objectif de permettre au maître d'ouvrage d'exprimer les objectifs et contraintes du projet. Grâce à des observations précises, des entretiens, une recherche exhaustive des contraintes, etc., le travail du programmiste permet de réduire le coût final de la construction, trop souvent alourdi par des modifications de plans ou des travaux supplémentaires en cours de chantier.</p>
+<inter>Gain de temps et d'argent</inter>
+<p>Mauvaise organisation des locaux, manque de sécurité des accès, inconfort thermique ou sonore, difficultés d'entretien sont les dysfonctionnements les plus fréquents dans les bâtiments publics. Outre la maîtrise des coûts, le programmiste prend en compte les aspects environnementaux et d'économie d'énergie, mais aussi fonctionnels, pour éviter ces problèmes et faire en sorte que le bâtiment corresponde bien aux attentes des décideurs comme des usagers. Il effectue alors des simulations.</p>
+<p>Après la rédaction du programme qui décrit précisément qui fait quoi, comment et dans quels délais, il peut assister le maître d'ouvrage jusqu'à la livraison des travaux.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56417" csRelFld="56417">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56417</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100636</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Il existe des formations spécifiques de programmiste (de niveau bac + 5) qui s'adressent, en particulier, aux architectes et aux urbanistes. Mais on peut également se spécialiser après une formation de technicien ou d'ingénieur dans le bâtiment, ou des études de géographie, d'ergonomie, de sociologie, etc. en obtenant une certification et/ou une qualification en programmation via le SYPAA (Syndicat des programmistes en architecture et aménagement).</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'État d'architecte</itsimp>
+<itsimp>Diplôme d'ingénieur spécialisé en BTP</itsimp>
+<itsimp>Master de l'Institut d'urbanisme de Paris ; master mention urbanisme et aménagement, ou ville et envrionnement urbain ; géographie, aménagement, environnement et développement</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56415" csRelFld="56415">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56415</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100636</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Dans le public avant tout</inter>
+<p>La loi relative à la maîtrise d'ouvrage publique (loi MOP) impose à toute organisation publique de faire rédiger, en amont du projet de construction ou d'aménagement, le " programme de l'opération " à partir duquel est défini le montant des investissements. Le recours à un programmiste professionnel n'est pas spécifié, et son travail peut encore être réalisé par les services internes des collectivités. Cependant, il est de plus en plus fréquent que les pouvoirs publics fassent appel à lui, que ce soit pour la construction ou l'aménagement d'un hôpital, d'un aéroport, d'une école, d'une prison ou d'équipements sportifs.</p>
+<inter>D'autres pistes</inter>
+<p>Par ailleurs, de plus en plus de sociétés privées font également appel au programmiste pour maîtriser leur projet immobilier le plus en amont possible. Son travail leur permet d'évaluer les opportunités constructives et la faisabilité du projet, avant même de se lancer dans des investissements souvent très importants.</p>
+<inter>Une spécialisation convoitée</inter>
+<p>La spécialité programmation est de plus en plus proposée par des architectes ou des urbanistes ayant suivi, par exemple, une formation professionnelle complémentaire spécifique. De fait, les programmistes trouvent leur place dans de grands cabinets pluridisciplinaires ou spécialisés.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2400</sal> euros brut par mois. </p>
+<postit>
+<p>Source : SYPAA (Syndicat des programmistes en architecture et aménagement).</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

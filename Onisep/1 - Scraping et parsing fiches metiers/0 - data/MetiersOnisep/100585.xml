@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e analyste de l'air</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction encadrement - coordination/fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique/secteur recherche/secteur sociétés d'ingénierie et d'études techniques/secteur environnement/secteur construction automobile/secteur industrie chimique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">environnement/prévention de la pollution atmosphérique/chimie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE nettoyage assainissement environnement sécurité</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100585</lien_onisep>
+<ROME Level="1B" csRelFld="100585">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="280" csRelFld="280">
+<CSLABELFLD label="">H1501</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Qualité et analyses industrielles</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H1501</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Direction de laboratoire d'analyse industrielle</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100585">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="55500" csRelFld="55500">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55500</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100585</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Surveillance et alerte</inter>
+<p>L'ingénieur analyste de l'air surveille l'air et informe la population. Il utilise les données relevées par un technicien sur les stations de captage (différents appareils de mesure y enregistrent la présence de polluants) pour définir la qualité de l'air à un instant T. Particules fines issues du Diesel, monoxyde de carbone, ozone, dioxines... les pollutions sont diverses et peuvent s'avérer dangereuses passé certains seuils de concentration. En cas de forte pollution atmosphérique, l'ingénieur analyste de l'air rédige un rapport (sur le niveau d'émission, l'origine des polluants...) et alerte les autorités compétentes. En tant qu'expert, il préconise des solutions afin de réduire la pollution. </p>
+<inter>Modélisation</inter>
+<p>Il travaille aussi sur le long terme, en mettant en place des modélisations informatiques. Son objectif est alors la prévention des risques. Par exemple, dans 20 ans, quel impact aura le trafic aérien pour la région Ile-de-France ? Pour le savoir, l'ingénieur utilise des ordinateurs spécialisés, croise une masse importante de données (simulation de trafic, normes environnementales en vigueur, causes identifiées de pollution dans la région...). Il envisage plusieurs scénarios possibles et propose aux autorités des solutions pour diminuer cet impact.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55504" csRelFld="55504">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55504</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100585</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Souvent chimiste de formation, l'ingénieur analyste de l'air possède un bac + 5 (diplôme d'ingénieur ou master).</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur spécialisé en chimie ou en génie de l'environnement...</itsimp>
+<itsimp>Master dans les domaines de la qualité de l'air et et de la lutte contre le bruit, des sciences et du génie de l'environnement, de la qualité chimique, de la chimie de la pollution, des environnements urbains...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55502" csRelFld="55502">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55502</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100585</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un métier avec des perspectives</inter>
+<p>Le Grenelle de l'environnement a prévu la mise en place d'un schéma " climat air énergie " pour évaluer les émissions au niveau de chaque région. La mesure de l'air (intérieur ou extérieur) est en fort développement. L'ingénieur analyste de l'air travaille dans des organismes de recherche (publics et privés), des centres agréés pour la surveillance de l'air, dans l'industrie chimique, automobile, et en bureaux d'études. </p>
+<p>Dans l'industrie, il est le garant du respect de la législation : à lui de trouver des solutions pour qu'une entreprise polluante réduise ses émissions et respecte les normes admises. Il peut devenir responsable de laboratoire d'analyse de l'air ou encore directeur d'un service dont il gère le budget.</p>
+<inter>Une ouverture à l'international</inter>
+<p>Dans la recherche, il peut travailler sur des problématiques internationales et échanger sur le résultat de ses travaux avec des équipes étrangères. Mieux comprendre le cycle du carbone, trouver le moyen de capturer les émissions de CO2... un enjeu planétaire à ne pas négliger.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2000</sal> à 2500 euros brut par mois.</p>
+<postit>
+<p>Source : Apec (Association pour l'emploi des cadres), 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

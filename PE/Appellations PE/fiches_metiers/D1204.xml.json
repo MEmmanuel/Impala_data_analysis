@@ -1,0 +1,470 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent(e) de comptoir en location de mat\u00e9riel de transport",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de comptoir en location de mat\u00e9riel de transport",
+            "code_ogr": "10402"
+        },
+        {
+            "libelle_court": "Agent / Agente de comptoir en location de v\u00e9hicules",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de comptoir en location de v\u00e9hicules",
+            "code_ogr": "10403"
+        },
+        {
+            "libelle_court": "Agent / Agente d'op\u00e9rations de location de v\u00e9hicules",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'op\u00e9rations de location de v\u00e9hicules",
+            "code_ogr": "10727"
+        },
+        {
+            "libelle_court": "Chaisier / Chaisi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Chaisier / Chaisi\u00e8re",
+            "code_ogr": "11729"
+        },
+        {
+            "libelle_court": "Charg\u00e9(e) de location de mat\u00e9riel de transport ou de loisirs",
+            "priorisation": "1",
+            "libelle": "Charg\u00e9 / Charg\u00e9e de location de mat\u00e9riel de transport ou de loisirs",
+            "code_ogr": "11810"
+        },
+        {
+            "libelle_court": "Charg\u00e9 / Charg\u00e9e de location de moyen de transport",
+            "priorisation": "1",
+            "libelle": "Charg\u00e9 / Charg\u00e9e de location de moyen de transport",
+            "code_ogr": "11811"
+        },
+        {
+            "libelle_court": "Charg\u00e9(e) de location d'engins et de mat\u00e9riel de chantier",
+            "priorisation": "1",
+            "libelle": "Charg\u00e9 / Charg\u00e9e de location d'engins et de mat\u00e9riel de chantier",
+            "code_ogr": "38214"
+        },
+        {
+            "libelle_court": "Loueur / Loueuse d'avions de tourisme",
+            "priorisation": "1",
+            "libelle": "Loueur / Loueuse d'avions de tourisme",
+            "code_ogr": "16217"
+        },
+        {
+            "libelle_court": "Loueur / Loueuse de bateaux",
+            "priorisation": "1",
+            "libelle": "Loueur / Loueuse de bateaux",
+            "code_ogr": "16218"
+        },
+        {
+            "libelle_court": "Loueur / Loueuse de bateaux avec permis",
+            "priorisation": "1",
+            "libelle": "Loueur / Loueuse de bateaux avec permis",
+            "code_ogr": "16219"
+        },
+        {
+            "libelle_court": "Loueur / Loueuse de bateaux sans permis",
+            "priorisation": "1",
+            "libelle": "Loueur / Loueuse de bateaux sans permis",
+            "code_ogr": "16220"
+        },
+        {
+            "libelle_court": "Loueur / Loueuse de bicyclettes",
+            "priorisation": "1",
+            "libelle": "Loueur / Loueuse de bicyclettes",
+            "code_ogr": "16221"
+        },
+        {
+            "libelle_court": "Loueur / Loueuse de cano\u00eb kayak",
+            "priorisation": "1",
+            "libelle": "Loueur / Loueuse de cano\u00eb kayak",
+            "code_ogr": "16222"
+        },
+        {
+            "libelle_court": "Loueur / Loueuse de p\u00e9dalos",
+            "priorisation": "1",
+            "libelle": "Loueur / Loueuse de p\u00e9dalos",
+            "code_ogr": "16223"
+        },
+        {
+            "libelle_court": "Loueur / Loueuse de v\u00e9hicules automobiles",
+            "priorisation": "1",
+            "libelle": "Loueur / Loueuse de v\u00e9hicules automobiles",
+            "code_ogr": "16224"
+        },
+        {
+            "libelle_court": "Loueur / Loueuse de v\u00e9hicules hippomobiles",
+            "priorisation": "1",
+            "libelle": "Loueur / Loueuse de v\u00e9hicules hippomobiles",
+            "code_ogr": "16225"
+        },
+        {
+            "libelle_court": "Loueur / Loueuse de voiliers",
+            "priorisation": "1",
+            "libelle": "Loueur / Loueuse de voiliers",
+            "code_ogr": "16226"
+        },
+        {
+            "libelle_court": "Loueur / Loueuse d'engins nautiques",
+            "priorisation": "1",
+            "libelle": "Loueur / Loueuse d'engins nautiques",
+            "code_ogr": "16227"
+        },
+        {
+            "libelle_court": "Plagiste",
+            "priorisation": "1",
+            "libelle": "Plagiste",
+            "code_ogr": "17809"
+        },
+        {
+            "libelle_court": "Responsable de comptoir en location de voitures",
+            "priorisation": "1",
+            "libelle": "Responsable de comptoir en location de voitures",
+            "code_ogr": "18694"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Accueillir le client, le renseigner sur les produits/services de location (tarifs, formalit\u00e9s, ...) et lui remettre une documentation",
+            "code_ogr": "570",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Analyser la demande du client et proposer une solution commerciale (type de mat\u00e9riel, formules d'abonnement, ...)",
+            "code_ogr": "637",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9senter les modalit\u00e9s de location et \u00e9tablir le contrat avec le client",
+            "code_ogr": "2663",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler l'\u00e9tat du mat\u00e9riel de location lors de la restitution du mat\u00e9riel et consigner les donn\u00e9es (relev\u00e9 kilom\u00e9trique, anomalies, ...)",
+            "code_ogr": "1166",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Enregistrer les r\u00e9clamations et proposer au client des solutions selon le type d'incidents (casses, retards, pannes, ...)",
+            "code_ogr": "3553",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "5",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le suivi administratif du contrat de location et renseigner les supports de suivi d'activit\u00e9",
+            "code_ogr": "1563",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier l'\u00e9tat g\u00e9n\u00e9ral, le fonctionnement du mat\u00e9riel de location, identifier des anomalies et effectuer l'entretien de premier niveau",
+            "code_ogr": "3487",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "G1101",
+            "libelle_rome_cible": "Accueil touristique"
+        },
+        {
+            "code_rome_cible": "I1103",
+            "libelle_rome_cible": "Supervision d'entretien et gestion de v\u00e9hicules"
+        },
+        {
+            "code_rome_cible": "M1601",
+            "libelle_rome_cible": "Accueil et renseignements"
+        },
+        {
+            "code_rome_cible": "N4203",
+            "libelle_rome_cible": "Intervention technique d'exploitation des transports routiers de marchandises"
+        },
+        {
+            "code_rome_cible": "N4204",
+            "libelle_rome_cible": "Intervention technique d'exploitation des transports routiers de personnes"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec une exp\u00e9rience professionnelle dans le secteur de la location de mat\u00e9riel de transport sans dipl\u00f4me particulier.\nUn dipl\u00f4me de niveau Bac (professionnel, ...) \u00e0 BTS dans le secteur tertiaire (tourisme, gestion, ...) peut en faciliter l'acc\u00e8s.\nLa pratique d'une ou plusieurs langues \u00e9trang\u00e8res, en particulier l'anglais, est requise.\nUn permis de conduire (voiture, bateau, ...) peut \u00eatre demand\u00e9.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Effectuer la location de v\u00e9hicules ou mat\u00e9riels :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Avions de tourisme, h\u00e9licopt\u00e8res",
+            "code_ogr": "5142",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bateaux, voiliers et engins nautiques",
+            "code_ogr": "5143",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mat\u00e9riel de plage",
+            "code_ogr": "5144",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9hicules de tourisme",
+            "code_ogr": "5145",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9hicules deux roues",
+            "code_ogr": "5146",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9hicules hippomobiles",
+            "code_ogr": "5147",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "6",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9hicules utilitaires",
+            "code_ogr": "5148",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "7",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Assister le client lors de la prise en main d'un mat\u00e9riel de transport dans son fonctionnement, les manoeuvres, ...",
+            "code_ogr": "3833",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer un v\u00e9hicule avant livraison/utilisation (nettoyage int\u00e9rieur, ext\u00e9rieur, niveau, ...)",
+            "code_ogr": "8024",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Organiser et planifier l'activit\u00e9 d'un parc de v\u00e9hicules (affectation, suivi maintenance, ...)",
+            "code_ogr": "7709",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir les modalit\u00e9s de r\u00e8glement d'un litige ou transmettre aux services juridiques, contentieux",
+            "code_ogr": "3556",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'agences de location de mat\u00e9riels de transport ou de loisirs en contact avec la client\u00e8le et en relation avec diff\u00e9rents interlocuteurs (transporteurs, fournisseurs, ...).\nElle peut varier selon le type de mat\u00e9riel lou\u00e9 (v\u00e9hicules de tourisme, bateaux, ...).\nElle peut s'exercer les fins de semaine, jours f\u00e9ri\u00e9s.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Agence commerciale",
+            "code_ogr": "23684",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de location de v\u00e9hicules",
+            "code_ogr": "23881",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Commerce/vente",
+            "code_ogr": "23446",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en droit commercial",
+            "code_ogr": "21850",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'entretien de premier niveau des \u00e9quipements et mat\u00e9riels",
+            "code_ogr": "22458",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modalit\u00e9s d'accueil",
+            "code_ogr": "22161",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de pr\u00e9vention et de gestion de conflits",
+            "code_ogr": "23058",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de vente",
+            "code_ogr": "23168",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9canique automobile",
+            "code_ogr": "21881",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en nautisme",
+            "code_ogr": "21888",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation li\u00e9e aux v\u00e9hicules",
+            "code_ogr": "22573",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise tout ou partie des op\u00e9rations de location de mat\u00e9riels de transport ou de loisirs selon les r\u00e8gles de s\u00e9curit\u00e9 des biens et des personnes.\nPeut coordonner l'activit\u00e9 d'une \u00e9quipe.\n",
+    "intitule": "Location de v\u00e9hicules ou de mat\u00e9riel de loisirs",
+    "code_ogr": "90",
+    "code_rome": "D1204",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1401",
+            "libelle_rome_cible": "Assistanat commercial"
+        },
+        {
+            "code_rome_cible": "D1402",
+            "libelle_rome_cible": "Relation commerciale grands comptes et entreprises"
+        },
+        {
+            "code_rome_cible": "D1403",
+            "libelle_rome_cible": "Relation commerciale aupr\u00e8s de particuliers"
+        },
+        {
+            "code_rome_cible": "D1404",
+            "libelle_rome_cible": "Relation commerciale en vente de v\u00e9hicules"
+        },
+        {
+            "code_rome_cible": "M1302",
+            "libelle_rome_cible": "Direction de petite ou moyenne entreprise"
+        },
+        {
+            "code_rome_cible": "N4201",
+            "libelle_rome_cible": "Direction d'exploitation des transports routiers de marchandises"
+        }
+    ]
+}

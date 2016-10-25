@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">éditeur/trice</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">décider/coordonner l'activité d'une équipe/informer, communiquer</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur édition - presse</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">livre/édition</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques de la communication média/éditeur</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10201</lien_onisep>
+<ROME Level="1B" csRelFld="10201">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="147" csRelFld="147">
+<CSLABELFLD label="">E1105</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Edition et communication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">E1105</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Coordination d'édition</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10201">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1330" csRelFld="1330">
+<CSLABELFLD label="">éditeur / éditrice jeunesse</CSLABELFLD>
+<MET_ID label="Identifiant">10201</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">01/07/2013</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1330</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">éditeur/trice jeunesse</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1330">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1331" csRelFld="1331">
+<CSLABELFLD label="">éditeur / éditrice scolaire et parascolaire</CSLABELFLD>
+<MET_ID label="Identifiant">10201</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">01/07/2013</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1331</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">éditeur/trice scolaire et parascolaire</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1331">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17722" csRelFld="17722">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17722</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10201</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Sélectionner des auteurs</inter>
+<p>Être éditeur, c'est permettre à un texte d'être publié et... lu ! Pour repérer les nouveaux talents parmi les nombreux manuscrits reçus, l'éditeur s'appuie sur un comité de lecture, qui effectue un premier tri. Parallèlement, il travaille avec des auteurs confirmés. Dans l'édition scolaire ou pratique, il recherche des auteurs spécialisés (psychologie, sport, cuisine...). Son rôle consiste aussi à étoffer les collections, en proposant de nouvelles idées, de nouveaux supports (numérique, multimédia...). </p>
+<inter>Assurer le suivi des manuscrits</inter>
+<p>En moyenne, 6 à 9 mois s'écoulent entre la première lecture d'un manuscrit et la parution d'un livre. Dans une petite structure, l'éditeur gère les relations avec les auteurs, signe les contrats, relit et corrige les ouvrages avant leur impression. Lorsqu'il travaille dans une grande maison, il coordonne une équipe de collaborateurs (secrétaire d'édition, correcteur...). Veiller au respect du budget</p>
+<p>L'éditeur ne perd jamais de vue les contraintes financières (droits d'auteur, coûts de fabrication, tirage, diffusion...). S'il se préoccupe de la qualité des ouvrages, il doit aussi, dans un secteur très concurrentiel, rendre des comptes et suivre les chiffres de vente.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16502" csRelFld="16502">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16502</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10201</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Il n'existe pas de formation spécifique pour devenir éditeur. Néanmoins, plusieurs masters, de niveau bac + 5, proposés par l'université, préparent à ces fonctions d'encadrement ou de gestion de projet dans l'édition. À noter : les profils scientifiques et juridiques sont très appréciés par certaines maisons d'édition spécialisées dans les ouvrages scolaires, l'édition scientifique, etc. Les diplômés d'écoles de commerce gagnent aussi du terrain pour leurs compétences en marketing-vente, désormais essentielles au sein des sociétés du secteur. </p>
+<liste>
+<tete>Niveau bac + 5 et plus</tete>
+<itsimp>Master Métiers du livre et de l'édition</itsimp>
+<itsimp>Mastère spécialisé en management de l'édition numérique de l'École supérieure de commerce ESCP Europe, en association avec l'Asfored</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16505" csRelFld="16505">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16505</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10201</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un nombre limité de recrutements</inter>
+<p>La production de livres a quasiment doublé en 20 ans, mais le nombre des emplois demeure stable. Particularité du secteur : des candidats qui se bousculent pour un nombre très limité de recrutements. À noter que le domaine littéraire est le plus difficile d'accès. Les manuels scolaires, les ouvrages pratiques et de loisirs (tourisme, cuisine, bien-être...) offrent davantage de débouchés. </p>
+<inter>D'abord assistant d'édition</inter>
+<p>Quel que soit le diplôme obtenu, on débute souvent avec un CDD (contrat à durée déterminée) et sur un poste d'assistant d'édition. Le métier d'éditeur s'apprend vraiment sur le terrain. Ce n'est qu'au bout de quelques années d'expérience au sein d'une maison d'édition qu'il est possible d'accéder aux responsabilités éditoriales. Et les places sont rares à ce niveau ! </p>
+<inter>Un sésame : les stages</inter>
+<p>Dans ce milieu, le stage constitue la porte d'entrée pour les jeunes diplômés. Un stage chez un éditeur renommé est toujours apprécié sur un CV. Dans une petite maison, il permet aussi d'être plus polyvalent et d'acquérir une vision globale de la chaîne du livre. D'une manière générale, quand une opportunité d'emploi se présente, on fait d'abord appel aux stagiaires ayant été jugés compétents. Savoir se constituer un bon carnet d'adresses est essentiel. </p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Variable selon la taille de la maison d'édition. <sal>1890</sal> euros brut par mois en 2012</p>
+<postit>
+<p>(source : Rapport de branche édition 2012).</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,446 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente d'entretien des parcs et jardins",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'entretien des parcs et jardins",
+            "code_ogr": "10675"
+        },
+        {
+            "libelle_court": "Aide jardinier / jardini\u00e8re",
+            "priorisation": "1",
+            "libelle": "Aide jardinier / jardini\u00e8re",
+            "code_ogr": "38436"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe d'entretien des espaces verts",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe d'entretien des espaces verts",
+            "code_ogr": "12439"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe paysagiste",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe paysagiste",
+            "code_ogr": "12482"
+        },
+        {
+            "libelle_court": "Jardinier / Jardini\u00e8re",
+            "priorisation": "1",
+            "libelle": "Jardinier / Jardini\u00e8re",
+            "code_ogr": "16067"
+        },
+        {
+            "libelle_court": "Jardinier / Jardini\u00e8re d'espaces verts",
+            "priorisation": "1",
+            "libelle": "Jardinier / Jardini\u00e8re d'espaces verts",
+            "code_ogr": "16068"
+        },
+        {
+            "libelle_court": "Jardinier / Jardini\u00e8re paysagiste",
+            "priorisation": "1",
+            "libelle": "Jardinier / Jardini\u00e8re paysagiste",
+            "code_ogr": "16069"
+        },
+        {
+            "libelle_court": "Manoeuvre des espaces verts",
+            "priorisation": "1",
+            "libelle": "Manoeuvre des espaces verts",
+            "code_ogr": "38437"
+        },
+        {
+            "libelle_court": "Ouvrier / Ouvri\u00e8re d'entretien des espaces verts",
+            "priorisation": "1",
+            "libelle": "Ouvrier / Ouvri\u00e8re d'entretien des espaces verts",
+            "code_ogr": "17475"
+        },
+        {
+            "libelle_court": "Ouvrier / Ouvri\u00e8re des espaces verts",
+            "priorisation": "1",
+            "libelle": "Ouvrier / Ouvri\u00e8re des espaces verts",
+            "code_ogr": "17480"
+        },
+        {
+            "libelle_court": "Ouvrier / Ouvri\u00e8re du paysage",
+            "priorisation": "1",
+            "libelle": "Ouvrier / Ouvri\u00e8re du paysage",
+            "code_ogr": "17487"
+        },
+        {
+            "libelle_court": "Ouvrier / Ouvri\u00e8re paysagiste",
+            "priorisation": "1",
+            "libelle": "Ouvrier / Ouvri\u00e8re paysagiste",
+            "code_ogr": "17515"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne paysagiste",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne paysagiste",
+            "code_ogr": "38077"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "S\u00e9curiser le chantier et son environnement (signalisation, ...)",
+            "code_ogr": "3136",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer les sols par drainage, terrassements, ... et r\u00e9aliser les semis ou les plantations",
+            "code_ogr": "2630",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der \u00e0 l'engazonnement selon la topographie des lieux",
+            "code_ogr": "2696",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Entretenir les massifs ext\u00e9rieurs ou d\u00e9cors d'int\u00e9rieur (a\u00e9ration du sol, traitement, remplacement de plantes, ...)",
+            "code_ogr": "1819",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Entretenir les gazons selon les consignes (pr\u00e9sence de motifs, hauteur de coupe, ...)",
+            "code_ogr": "1818",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tailler les arbres selon l'orientation de croissance ou la forme recherch\u00e9e et supprimer les branches ind\u00e9sirables",
+            "code_ogr": "3356",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la maintenance pr\u00e9ventive/curative de premier niveau des \u00e9quipements",
+            "code_ogr": "3534",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "A1202",
+            "libelle_rome_cible": "Entretien des espaces naturels"
+        },
+        {
+            "code_rome_cible": "A1405",
+            "libelle_rome_cible": "Arboriculture et viticulture"
+        },
+        {
+            "code_rome_cible": "A1414",
+            "libelle_rome_cible": "Horticulture et mara\u00eechage"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un CAP/BEP Agricole en horticulture, travaux paysagers, ...\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans le secteur sans dipl\u00f4me particulier.\nUn Bac professionnel ou un BTS Agricole en horticulture, travaux paysagers, ... peut \u00eatre demand\u00e9 pour les fonctions d'encadrement.\nLes recrutements peuvent \u00eatre ouverts sur contrat de travail saisonnier, \u00e0 dur\u00e9e d\u00e9termin\u00e9e ou sur vacation.\nUn ou plusieurs Certificat(s) d'Aptitude \u00e0 la Conduite En S\u00e9curit\u00e9 -CACES- conditionn\u00e9(s) par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement peu(ven)t \u00eatre exig\u00e9(s).\nLes permis BE, C, C1 (pr\u00e9c\u00e9demment EB et C) peuvent \u00eatre requis.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 372-1 (Tracteur et petits engins de chantiers mobiles)",
+            "code_ogr": "10104",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 386 (Plates-formes \u00e9l\u00e9vatrices mobiles de personnes)",
+            "code_ogr": "10120",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 390 (Grues auxiliaires de chargement de v\u00e9hicules)",
+            "code_ogr": "10128",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Installer et entretenir des mobiliers urbains de parcs et jardins (balan\u00e7oires, toboggans, cl\u00f4tures, ...)",
+            "code_ogr": "6199",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Installer des syst\u00e8mes d'irrigation (canalisations, c\u00e2bles \u00e9lectriques, programmation de syst\u00e8mes automatiques, ...) ou d'\u00e9clairage",
+            "code_ogr": "6196",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner des documents de suivi d'activit\u00e9 (lieu, date, type d'intervention, temps de pr\u00e9sence, ...)",
+            "code_ogr": "9545",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9finir et planifier les travaux d'entretien et d'am\u00e9nagement d'un site paysag\u00e9",
+            "code_ogr": "4519",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Construire de petits ouvrages de ma\u00e7onnerie",
+            "code_ogr": "4172",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises du paysage, de collectivit\u00e9s territoriales, de bureaux d'\u00e9tudes, de syndics de copropri\u00e9t\u00e9, en relation avec diff\u00e9rents intervenants (conducteurs de travaux, services de l'urbanisme, de la voirie, clients, ...).\nElle varie selon le secteur (cr\u00e9ation, am\u00e9nagement, entretien d'espaces verts int\u00e9rieurs ou ext\u00e9rieurs) et le mode d'organisation (pr\u00e9sence de serres, ...).\nElle peut impliquer la manipulation de charges.\nLe port d'\u00e9quipements de protection (veste renforc\u00e9e anti-coupe, protecteurs anti-bruit, ...) peut \u00eatre requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Aff\u00fbtage",
+            "code_ogr": "20747",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan",
+            "code_ogr": "20946",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'engins de tonte (autotract\u00e9/autoport\u00e9)",
+            "code_ogr": "21415",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils de taille (s\u00e9cateur, tron\u00e7onneuse, ...)",
+            "code_ogr": "21473",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion de stocks",
+            "code_ogr": "21259",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils de planification",
+            "code_ogr": "21471",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Agence et syndic immobilier",
+            "code_ogr": "23698",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Bureau d'\u00e9tudes et d'ing\u00e9nierie",
+            "code_ogr": "23735",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise d'insertion",
+            "code_ogr": "23906",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise du paysage",
+            "code_ogr": "23907",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Infrastructure sportive",
+            "code_ogr": "23970",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Am\u00e9nagement d'espaces verts, de parcs et de jardins",
+            "code_ogr": "23397",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Au domicile de particulier",
+            "code_ogr": "23375",
+            "code_type_section_env": "3"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des sols",
+            "code_ogr": "21655",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques culturales",
+            "code_ogr": "22757",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de taille de v\u00e9g\u00e9taux",
+            "code_ogr": "23133",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en hydraulique",
+            "code_ogr": "21875",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des v\u00e9g\u00e9taux",
+            "code_ogr": "21666",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9canique g\u00e9n\u00e9rale",
+            "code_ogr": "21882",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de gestion de stocks",
+            "code_ogr": "22609",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nAm\u00e9nage et entretient des espaces verts (parcs, jardins, terrains de sport, ...) et des d\u00e9cors v\u00e9g\u00e9taux d'int\u00e9rieur ou d'ext\u00e9rieur (bureaux, commerces, halls d'accueil, murs v\u00e9g\u00e9taux, ...) selon les r\u00e8gles de s\u00e9curit\u00e9 et la r\u00e9glementation environnementale.\nPeut proc\u00e9der \u00e0 l'installation de mobilier urbain.\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "Entretien des espaces verts",
+    "code_ogr": "9",
+    "code_rome": "A1203",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "A1205",
+            "libelle_rome_cible": "Sylviculture"
+        },
+        {
+            "code_rome_cible": "A1302",
+            "libelle_rome_cible": "Contr\u00f4le et diagnostic technique en agriculture"
+        },
+        {
+            "code_rome_cible": "D1209",
+            "libelle_rome_cible": "Vente de v\u00e9g\u00e9taux"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ]
+}

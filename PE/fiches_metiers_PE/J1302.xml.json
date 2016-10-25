@@ -1,0 +1,408 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Laborantin / Laborantine d'analyses m\u00e9dicales",
+            "priorisation": "1",
+            "libelle": "Laborantin / Laborantine d'analyses m\u00e9dicales",
+            "code_ogr": "16143"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne de biologie m\u00e9dicale",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de biologie m\u00e9dicale",
+            "code_ogr": "19720"
+        },
+        {
+            "libelle_court": "Technicien/Technicienne de laboratoires d'analyses m\u00e9dicales",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de laboratoires d'analyses m\u00e9dicales",
+            "code_ogr": "19807"
+        },
+        {
+            "libelle_court": "Technicien(ne) biologiste m\u00e9dical(e)",
+            "priorisation": "1",
+            "libelle": "Technicien biologiste m\u00e9dical / Technicienne biologiste m\u00e9dicale",
+            "code_ogr": "19676"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "R\u00e9ceptionner et contr\u00f4ler le pr\u00e9l\u00e8vement biologique et consigner la date, l'heure de pr\u00e9l\u00e8vement, les coordonn\u00e9es du patient, ...",
+            "code_ogr": "2909",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer les analyseurs, les r\u00e9actifs, ... et l'\u00e9chantillon biologique (fractionnement, r\u00e9partition, ...) selon le type d'analyse",
+            "code_ogr": "2595",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der au traitement de l'\u00e9chantillon par centrifugation, dilution, chauffage, ... , surveiller le d\u00e9roulement de l'analyse et consigner les donn\u00e9es",
+            "code_ogr": "2707",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Comparer les r\u00e9sultats de l'analyse aux r\u00e9sultats ant\u00e9rieurs, aux valeurs minimales/maximales, ... et \u00e9tablir le compte rendu",
+            "code_ogr": "858",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks de produits, \u00e9tablir les commandes de r\u00e9approvisionnement et effectuer le rangement des produits selon leur date de validit\u00e9, leurs conditions de conservation",
+            "code_ogr": "3268",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier le fonctionnement des analyseurs, actualiser le registre de maintenance et informer en cas de dysfonctionnement",
+            "code_ogr": "3444",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9sinfecter, d\u00e9contaminer, ranger le poste de travail et le mat\u00e9riel et proc\u00e9der \u00e0 l'\u00e9vacuation, \u00e0 la destruction des d\u00e9chets",
+            "code_ogr": "3568",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1405",
+            "libelle_rome_cible": "Conseil en information m\u00e9dicale"
+        },
+        {
+            "code_rome_cible": "H1210",
+            "libelle_rome_cible": "Intervention technique en \u00e9tudes, recherche et d\u00e9veloppement"
+        },
+        {
+            "code_rome_cible": "H1503",
+            "libelle_rome_cible": "Intervention technique en laboratoire d'analyse industrielle"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un BTS en analyse biologique, biochimie agricole, un Dipl\u00f4me d'Etat de Technicien en Analyses Biom\u00e9dicales -DETAB- ou un DUT en g\u00e9nie biologie.\nDes formations compl\u00e9mentaires (certificats de biochimie, s\u00e9rologie, h\u00e9matologie, ...) peuvent \u00eatre requises.\nLe certificat de capacit\u00e9 de pr\u00e9l\u00e8vement est obligatoire pour effectuer les pr\u00e9l\u00e8vements sanguins.\nL'acc\u00e8s \u00e0 la fonction publique hospitali\u00e8re s'effectue sur concours sur titre.\nDes vaccinations pr\u00e9vues par le Code de Sant\u00e9 Publique sont exig\u00e9es.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Effectuer des analyses biologiques sur des pr\u00e9l\u00e8vements de :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9cr\u00e9tions",
+            "code_ogr": "4850",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sang",
+            "code_ogr": "4849",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tissus",
+            "code_ogr": "4851",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des analyses de biologie en :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Anatomo-cytopathologie",
+            "code_ogr": "8237",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bact\u00e9riologie",
+            "code_ogr": "8238",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Biochimie",
+            "code_ogr": "8239",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cytologie",
+            "code_ogr": "8240",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "H\u00e9matologie",
+            "code_ogr": "8241",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Immunologie",
+            "code_ogr": "8243",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Parasitologie",
+            "code_ogr": "8244",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Virologie",
+            "code_ogr": "8245",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "8",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier les conditions de faisabilit\u00e9 d'un pr\u00e9l\u00e8vement biologique et informer le patient sur son d\u00e9roulement",
+            "code_ogr": "10191",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer un pr\u00e9l\u00e8vement sanguin, surveiller les r\u00e9actions du patient et intervenir selon n\u00e9cessit\u00e9",
+            "code_ogr": "5458",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "G\u00e9rer le stock de produits sanguins labiles d'un \u00e9tablissement et approvisionner les unit\u00e9s de soins",
+            "code_ogr": "6091",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener des actions de formation au sein d'un organisme",
+            "code_ogr": "7395",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de laboratoires (analyses m\u00e9dicales, recherche, ...), d'\u00e9tablissements de soins, ... en relation avec diff\u00e9rents intervenants (biologiste, personnel m\u00e9dical, soignants, chercheurs, ...) et parfois en contact avec les patients.\nElle peut s'exercer en horaires fractionn\u00e9s, les fins de semaine, jours f\u00e9ri\u00e9s, de nuit, et \u00eatre soumise \u00e0 des astreintes ou des gardes en milieu hospitalier.\nElle implique la manipulation de produits \u00e0 risque (agents infectieux, ...).\nLe port d'\u00e9quipements de protection (blouse, masque, gants, ...) est requis.\n",
+    "savoir_action": [],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement du sang",
+            "code_ogr": "23921",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement/organisme de recherche",
+            "code_ogr": "23925",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Laboratoire d'analyses",
+            "code_ogr": "23984",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Laboratoire d'analyses m\u00e9dicales",
+            "code_ogr": "23985",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Administration / Services de l'Etat",
+            "code_ogr": "23388",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Guide de Bonne Ex\u00e9cution des Analyses M\u00e9dicales -GBEA-",
+            "code_ogr": "22013",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Guide de Bonne Utilisation de l'Informatique -GBUI-",
+            "code_ogr": "28989",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de validation biologique",
+            "code_ogr": "22446",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et d'asepsie",
+            "code_ogr": "22646",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9d\u00e9s de st\u00e9rilisation",
+            "code_ogr": "22361",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de bio nettoyage",
+            "code_ogr": "22384",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de pr\u00e9l\u00e8vement biologique",
+            "code_ogr": "23056",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes d'urgence et de secours",
+            "code_ogr": "21991",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des Produits Sanguins Labiles",
+            "code_ogr": "21648",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de stockage des produits sanguins labiles",
+            "code_ogr": "22436",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques p\u00e9dagogiques",
+            "code_ogr": "23253",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise et traite des pr\u00e9l\u00e8vements biologiques en vue d'analyses biom\u00e9dicales selon la prescription m\u00e9dicale, dans un objectif de diagnostic, d\u00e9pistage, traitement, pr\u00e9vention ou de recherche.\nPeut r\u00e9aliser des pr\u00e9l\u00e8vements biologiques sp\u00e9cifiques (sang, s\u00e9cr\u00e9tions, ...).\n",
+    "intitule": "Analyses m\u00e9dicales",
+    "code_ogr": "339",
+    "code_rome": "J1302",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "J1502",
+            "libelle_rome_cible": "Coordination de services m\u00e9dicaux ou param\u00e9dicaux"
+        }
+    ]
+}

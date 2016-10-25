@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">technicien/ne de forge</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">concevoir, utiliser des technologies industrielles de pointe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction méthodes industrialisation/fonction organisation de la production industrielle</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur construction automobile/secteur construction aéronautique/secteur construction ferroviaire/secteur construction mécanique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">forge</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE structures métalliques travail des métaux fonderie/technicien de forge</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10355</lien_onisep>
+<ROME Level="1B" csRelFld="10355">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="342" csRelFld="342">
+<CSLABELFLD label="">H2904</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Mécanique, travail des métaux et outillage</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2904</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Conduite d'équipement de déformation des métaux</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10355">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18771" csRelFld="18771">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18771</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10355</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+   <inter>Déterminer le type de forgeage</inter>
+   <p>À partir d'un dossier technique, le technicien de forge commence par étudier le plan de la pièce à réaliser (bielle, vilebrequin de moteur...) et la nature du métal à former. Ensuite, il détermine le procédé de forgeage le plus approprié (estampage, frappe à froid...), puis définit la suite des opérations (étirage, roulage...) qui donneront la forme et les dimensions souhaitées au métal brut présenté en rouleau, en feuilles ou en blocs. Il conçoit également l'outillage.</p>
+   <inter>Assurer la logistique</inter>
+   <p>Gestionnaire, il vérifie, avant le début de la fabrication, la disponibilité des moyens matériels et humains, prévoit les approvisionnements à effectuer, établit le planning de travail... Il doit également préparer l'outillage qui servira à la production dont il a la charge, et gérer le flux des pièces et des outils.</p>
+   <inter>Surveiller la fabrication</inter>
+   <p>Responsable de la production d'un atelier, il règle les machines, lance la fabrication et en assure le suivi. Il repère les retards et les dérives (problèmes de qualité...) et procède aux ajustements nécessaires. Il veille également à la qualité des produits finis.</p>
+  </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18770" csRelFld="18770">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18770</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10355</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Le BTS est le niveau minimum requis pour occuper un emploi de technicien.</accr_p>
+</p>
+<inter>Niveau bac + 2</inter>
+<liste>
+<itsimp>
+<em>BTS</em> forge ;</itsimp>
+</liste>
+<inter>Niveau bac + 3</inter>
+<liste>
+<itsimp>
+<em>Licences pro</em> transformations des métaux spécialité forge.</itsimp>
+</liste>
+<p/>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18769" csRelFld="18769">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18769</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10355</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Qualification exigée</inter>
+<p>La forge française se place 3<exp>e</exp> au rang européen et compte encore une centaine de forges. La concurrence d'autres pays comme le Japon pousse à se montrer compétitif et c'est notamment pour cela qu'un diplôme bac + 2 représente un avantage, car les industries, qu'elles soient traditionnelles ou de pointe, font appel à du personnel de plus en plus qualifié.</p>
+<inter>Premier employeur : l'automobile</inter>
+<p>Ce technicien travaille majoritairement dans le secteur de l'automobile, au sein d'entreprises spécialisées dans la fabrication de pièces ou de sous-ensembles mécaniques. D'autres débouchés sont possibles dans les secteurs de l'aéronautique, de l'armement, de la pétrochimie, de la robinetterie, de la production d'énergie (EDF), des transports (SNCF, RATP)...</p>
+<inter>Des évolutions possibles</inter>
+<p>Le technicien de forge expérimenté pourra envisager de devenir chef d'atelier ou chef d'équipe après avoir fait ses preuves sur le terrain. Il pourra également, dans certains cas, accéder au poste d'ingénieur fonderie-gorge, responsable méthodes, ou se spécialiser en tant que technicien fonderie ou technicien usinage par exemple.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1550</sal> euros brut par mois.</p>
+<postit>
+<p>Source : non indiquée.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

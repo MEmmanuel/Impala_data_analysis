@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">horloger/ère</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">fabriquer, construire/exercer un travail manuel/réparer, entretenir, installer des équipements/concevoir, utiliser des technologies industrielles de pointe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/artisan</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction fabrication industrielle/fonction service après vente</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur construction mécanique/secteur artisanat d'art/secteur commerce</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">horlogerie/artisanat d'art</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE mécanique automatismes/horloger</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10367</lien_onisep>
+<ROME Level="1B" csRelFld="10367">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="347" csRelFld="347">
+<CSLABELFLD label="">H2909</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Mécanique, travail des métaux et outillage</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2909</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Montage-assemblage mécanique</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="55" csRelFld="55">
+<CSLABELFLD label="">B1604</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Métal, verre, bijouterie et horlogerie</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">B1604</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Réparation - montage en systèmes horlogers</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10367">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="988" csRelFld="988">
+<CSLABELFLD label="">horloger-bijoutier / horlogère-bijoutière</CSLABELFLD>
+<MET_ID label="Identifiant">10367</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">988</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">horloger/ère-bijoutier/ère</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="988">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="987" csRelFld="987">
+<CSLABELFLD label="">pendulier / pendulière</CSLABELFLD>
+<MET_ID label="Identifiant">10367</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">987</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">pendulier/ère</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="987">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18666" csRelFld="18666">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18666</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10367</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Réparation, réglage, montage</inter>
+<p>L'horloger répare des montres, des horloges, des réveils chez un artisan ou en magasin. Il démonte et nettoie les objets qui lui sont confiés. Il localise les éléments défectueux (composants électroniques : bobine, circuit...) et les remplace par une pièce standard. À l'aide d'appareils d'étalonnage, il effectue les contrôles et réglages nécessaires à une bonne précision. Il peut aussi faire du montage de composants dans un atelier de fabrication ou vendre en magasin.</p>
+<inter>Gestion et assistance</inter>
+<p>En atelier ou en entreprise, l'horloger assure parfois aussi la gestion des approvisionnements ou des stocks (pièces, produits, documentation...), l'organisation des postes de travail (outils, appareils de mesure...), ainsi que l'assistance technique au personnel (conseil, formation...).</p>
+<inter>Réalisation de pièces</inter>
+<p>Spécialiste de la restauration de l'horlogerie ancienne, ce professionnel sait reconstituer ou modifier le mécanisme d'une montre haut de gamme. Il fabrique de nouvelles pièces respectant le style et les normes imposés par la marque d'origine, puis il réalise leur montage. Il peut travailler dans l'industrie, à la fabrication ou au contrôle des produits.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18668" csRelFld="18668">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18668</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10367</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Le CAP est le diplôme de base pour exercer comme agent d'atelier.</accr_p> Poursuivre ses études en BMA puis un DMA permet d'accéder à des postes de technicien et de s'installer à son compte.</p>
+<liste>
+<tete>Après la 3<exp>e</exp>
+</tete>
+<itsimp>CAP horlogerie </itsimp>
+</liste>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>BMA horlogerie</itsimp>
+<itsimp>FCIL (Formation complémentaire d'initiative locale) horloger spécialisation montres à complication </itsimp>
+</liste>
+<liste>
+<tete>Niveau Bac + 2</tete>
+<itsimp>DMA horlogerie</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18659" csRelFld="18659">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18659</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10367</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un secteur réduit mais porteur</inter>
+<p>Avec 150 emplois d'horloger-réparateur qui se libèrent chaque année, les besoins du secteur se maintiennent. Ce sont surtout les services après-vente des marques et les stations techniques de réparation qui offrent des débouchés. Les emplois se situent en majorité en régions parisienne et lyonnaise, dans l'Est de la France et en Suisse. Une certaine mobilité s'avère donc nécessaire. </p>
+<inter>Côté tradition et luxe</inter>
+<p>Si la montre à quartz a remplacé la belle mécanique, la montre traditionnelle de luxe connaît un regain d'intérêt. Le commerce de la montre dépend du marché mondial : le haut de gamme offre des débouchés, le créneau des produits de luxe est stable, le bas de gamme est concurrencé par les produits du Sud-Est asiatique. </p>
+<inter>De possibles spécialisations</inter>
+<p>Dans l'artisanat, l'horloger peut se spécialiser dans la fabrication et la restauration de « gros volumes » : réveils, carillons, pendules, régulateurs, horloges d'édifice... Ou encore vers la restauration de montres de collection (réparation ou réfection des pièces, de la boîte, du cadran ou des aiguilles). Quant au technicien spécialisé en microtechniques, il intéresse les secteurs de l'armement, de la construction aéronautique et de la fabrication de matériel médical.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>A partir du <sal>Smic</sal> et 1500 euros brut par mois.</p>
+<p>La rémunération varie en fonction du niveau d'études, des qualifications complémentaires et du lieu d'exercice (boutique, manufacture, atelier indépendant ou intégré à une marque).</p>
+<postit>
+<p>Source : Fédération nationale de l'horlogerie</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

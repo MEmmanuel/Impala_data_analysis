@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">préparateur/trice en pharmacie</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller/soigner</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction vente</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur santé/secteur fonction publique/secteur industrie pharmaceutique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">pharmacie/pharmacologie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE médical paramédical travail social soins personnels/préparateur en pharmacie</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10222</lien_onisep>
+<ROME Level="1B" csRelFld="10222">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="420" csRelFld="420">
+<CSLABELFLD label="">J1307</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Professionnels médico-techniques</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">J1307</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Préparation en pharmacie</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10222">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="995" csRelFld="995">
+<CSLABELFLD label="">préparateur / préparatrice en pharmacie hospitalière</CSLABELFLD>
+<MET_ID label="Identifiant">10222</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">995</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">préparateur/trice en pharmacie hospitalière</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="995">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16688" csRelFld="16688">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16688</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10222</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Adjoint du pharmacien</inter>
+<p>C'est le seul autorisé à seconder le pharmacien titulaire de l'officine. Devant une ordonnance, le préparateur en pharmacie traduit les doses prescrites en nombre de boîtes ou de flacons. Il est à même de vérifier que l'association de plusieurs médicaments n'est pas dangereuse, qu'il n'y a pas d'erreur de dosage ou qu'un traitement délivré à un jeune enfant correspond bien à son âge. Au comptoir, il précise au client les conditions dans lesquelles le traitement doit être suivi. Pour tout produit dangereux délivré, il enregistre le nom du médecin et celui du patient. </p>
+<inter>Gestionnaire des stocks</inter>
+<p>Une partie importante de son travail consiste à s'occuper des stocks. Concrètement, il élimine les produits périmés, vérifie les livraisons, range et classe avec précision tous les produits reçus. Lorsqu'un médicament n'est plus disponible, il appelle les fournisseurs afin de passer commande. À lui aussi de saisir les feuilles d'assurance maladie et de faire le lien avec la Sécurité sociale et les mutuelles. </p>
+<inter>Peu de préparations</inter>
+<p>Paradoxalement, et contrairement à ce que laisse entendre son nom, préparer des pommades, des solutions ou des gélules et faire des analyses (albumine, glucose) ne constitue pas l'essentiel de son activité...</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16692" csRelFld="16692">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16692</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10222</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Un seul diplôme permet d'exercer le métier de préparateur en pharmacie :</accr_p> le brevet professionnel de préparateur en pharmacie, accessible après un diplôme de niveau bac, dans le cadre d'un contrat d'apprentissage. </p>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>BP préparateur en pharmacie</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16695" csRelFld="16695">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16695</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10222</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>L'officine, premier employeur</inter>
+<p>Environ 63 000 préparateurs exercent en France. Le métier est largement féminisé, avec 90 % de femmes. La très grande majorité des emplois (90 %) se trouve dans les pharmacies. 3 000 préparateurs exercent en hôpital (délivrance des médicaments aux services, achats...). Certains rejoignent l'industrie où ils assurent le contrôle des matières premières et l'encadrement des équipes de fabrication. </p>
+<inter>Des inégalités régionales</inter>
+<p>La profession connaît une situation de l'emploi variable selon les régions. Alors qu'ils sont trop nombreux en région Languedoc-Roussillon, on observe une pénurie de préparateurs dans les grandes villes (Paris, Lyon, Marseille...). Les professionnels doivent parfois accepter d'être mobiles pour saisir les opportunités.</p>
+<inter>Des spécialisations possibles</inter>
+<p>Le préparateur en pharmacie peut se spécialiser en cosmétologie, phytologie, homéopathie ou orthopédie. Évolution possible vers le métier de préparateur en pharmacie hospitalière. Ce dernier ne délivre pas les médicaments aux patients mais au personnel hospitalier.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Le <sal>Smic</sal> en officine. S'y ajoutent des primes d'ancienneté. Dans certaines régions, touchées par une pénurie de préparateurs en pharmacie, les salaires sont à la hausse.</p>
+<postit>
+<p>Source : www.wk-pharma.fr.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

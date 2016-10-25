@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">assistant/e de gestion en PME</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">informer, communiquer/manier les chiffres</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction administrative</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur commerce</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">comptabilité/administration de l'entreprise</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé/assistant de gestion en PME</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100349</lien_onisep>
+<ROME Level="1B" csRelFld="100349">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100349">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="31636" csRelFld="31636">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31636</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100349</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Un touche-à-tout</inter>
+<p>Réponse au téléphone, classement de dossiers, relance de facture : les activités de l'assistant de gestion changent d'une heure à l'autre. Il peut débuter sa journée par une commande à un fournisseur, la poursuivre en préparant les déclarations de TVA et terminer par une prospection téléphonique.</p>
+<inter>Sur tous les fronts</inter>
+<p>Bras droit du patron de sa PME, l'assistant de gestion veille au grain. Il tient la comptabilité à jour et l'analyse, à la recherche de tout ce qui peut être source de gain ou d'économie. Il se met dans la peau d'un acheteur pour comparer les tarifs des fournisseurs et les négocier. Et se transforme en credit manager quand il faut suivre les impayés.</p>
+<inter>Faire tourner l'entreprise</inter>
+<p>À la fois, assistant de direction, commercial et comptable, il répond au courrier, contacte de futurs clients, édite les bulletins de salaire. Le côté ressources humaines ne lui échappe pas. Au besoin, il prépare les plannings du personnel de l'entreprise.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="31640" csRelFld="31640">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31640</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100349</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<titre>Viser la pluridisciplinarité</titre>
+<liste>
+<tete>
+<accr_p>De la bureautique, de la comptabilité, de la gestion administrative et commerciale... Ces compétences font partie du bagage de l'assistant de gestion.</accr_p> On les acquiert dans des formations de niveau bac + 2 (BTS et DUT) que l'on peut compléter par une licence professionnelle.</tete>
+<itsimp>Le BTS assistant de gestion PME-PMI et le BTS comptabilité et gestion des organisations apportent une formation généraliste en gestion, avec une compétence plus pointue en comptabilité pour le second. On les prépare dans des classes de lycées, qui accueillent principalement des bacheliers STMG, mais aussi des bacheliers professionnels (15 à 20 %).</itsimp>
+<itsimp>Le DUT gestion des entreprises et des administrations (GEA) et le DUT gestion administrative et commerciale des organisations (GACO) sont préparés dans les IUT (instituts universitaires de technologie). Le DUT GEA accueille plus de 8 000 entrants, principalement des bacheliers ES et STMG. La seconde année comporte une option petites et moyennes organisations. Le DUT GACO donne une double compétence en commerce et gestion.</itsimp>
+<itsimp>Quelques licences professionnelles (assistant de gestion administrative, assistant manager, assistant export, gestion de PME-PMI...) pour acquérir une spécialisation assortie d'un stage long.</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="31638" csRelFld="31638">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31638</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100349</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Viser les petites entreprises</inter>
+<p>Les postes se concentrent dans les PME-PMI et les très petites entreprises (environ 2 millions). Lorsqu'ils bénéficient d'une conjoncture favorable, les diplômés de BTS ou de DUT préparant à ce métier ont peu de difficultés à s'insérer sur le marché du travail. À condition d'accepter, parfois, des situations d'emploi inférieures à leur niveau de formation ou des rémunérations faibles.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>A partir du <sal>Smic</sal>
+</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

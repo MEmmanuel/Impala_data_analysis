@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">machiniste constructeur ou plateau</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">fabriquer, construire/me déplacer souvent/exercer un travail manuel</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">intermittent du spectacle</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction création artistique</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur de l'audiovisuel/secteur des arts du spectacle</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">machinisme de spectacle/bois</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE arts appliqués arts du spectacle/machiniste</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100428</lien_onisep>
+<ROME Level="1B" csRelFld="100428">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="552" csRelFld="552">
+<CSLABELFLD label="">L1506</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Techniciens du spectacle</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">L1506</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Machinerie spectacle</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100428">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="956" csRelFld="956">
+<CSLABELFLD label="">chef constructeur / constructrice</CSLABELFLD>
+<MET_ID label="Identifiant">100428</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">956</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chef/fe constructeur/trice</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="956">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="957" csRelFld="957">
+<CSLABELFLD label="">régisseur / régisseuse de plateau</CSLABELFLD>
+<MET_ID label="Identifiant">100428</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">957</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">régisseur/euse de plateau</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="957">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="958" csRelFld="958">
+<CSLABELFLD label="">régisseur / régisseuse de scène</CSLABELFLD>
+<MET_ID label="Identifiant">100428</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">958</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">régisseur/euse de scène</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="958">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="36171" csRelFld="36171">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36171</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100428</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Un nom, deux fonctions</inter>
+<p>Embauché sous l'appellation unique de « machiniste-constructeur », ce professionnel exerce en réalité deux fonctions distinctes. Le machiniste-constructeur fabrique le décor ; le machiniste de plateau le fait fonctionner.</p>
+<inter>Multitâche et polyvalent</inter>
+<p>Dans un atelier de construction, le machiniste-constructeur fabrique des décors à partir des plans fournis par le décorateur-scénographe. Bois, métal, latex... Il peut utiliser toutes sortes de matériaux. Polyvalent, il est à la fois menuisier, soudeur et même ferronnier. </p>
+<inter>Jamais sans sa boîte à outils</inter>
+<p>Avant et pendant le spectacle, le machiniste de plateau assure les mouvements de décors et d'accessoires entre deux scènes. Sa boîte à outils ne le quitte jamais (pour poser ou enlever une vis, par exemple). Responsable des tâches liées au fonctionnement du lieu, il se charge d'entretenir le matériel, de réceptionner les marchandises.</p>
+<inter>Responsable du décor</inter>
+<p>Affecté au plateau ou à l'atelier, le machiniste évolue ensuite vers le métier de régisseur plateau ou chef constructeur. Avec son équipe, il est responsable du décor, depuis le transport jusqu'à la machinerie. Avec le décorateur, il étudie la faisabilité technique, choisit les matériaux, passe les commandes et organise l'atelier en coordonnant les différents corps de métiers.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36175" csRelFld="36175">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36175</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100428</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Traditionnellement, le métier de machiniste est accessible après un CAP de menuisier, d'ébéniste, de serrurier, de tapissier...</accr_p> Toutefois, le niveau d'entrée tend à s'élever jusqu'à bac + 2.</p>
+<liste>
+<tete>Après la 3<exp>e</exp>
+</tete>
+<itsimp>CAP menuisier installateur</itsimp>
+<itsimp>CAP menuisier fabricant de menuiserie, mobilier et agencement</itsimp>
+<itsimp>CAP serrurier-métallier</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>Diplôme de technicien des métiers du spectacle option machiniste-constructeur</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>Régisseur spécialisé du spectacle option plateau, en alternance au CFA du spectacle vivant et de l'audiovisuel à Bagnolet</itsimp>
+<itsimp>Formations professionnelles du CFPTS (Centre de formation professionnelle aux techniques du spectacle)</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36173" csRelFld="36173">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36173</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100428</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un statut d'intermittent</inter>
+<p>La plupart des machinistes-constructeurs ont le statut d'intermittent du spectacle. On compte aujourd'hui environ 4 000 ouvriers du décor et du plateau dont un peu plus de la moitié seulement travaille régulièrement. Les machinistes travaillent en moyenne 87 jours par an. La durée de chaque contrat d'un constructeur est très variable et dépend de l'importance des projets. Dans les grosses structures, un chantier peut prendre 5 jours comme une année complète !</p>
+<inter>Un savoir-faire très apprécié</inter>
+<p>Pour augmenter ses revenus, le machiniste peut exercer dans d'autres secteurs d'activité. Le développement des salons professionnels lui offre des débouchés. Plus largement, ses compétences dans les domaines du bois, de l'électricité ou de la peinture lui permettent de s'intégrer dans de nombreux secteurs avec un minimum d'adaptation.</p>
+<inter>La scène à portée de main</inter>
+<p>Certains machinistes franchissent le pas séparant la construction de la conception et suivent des formations de scénographe. D'autres s'appuient sur leur connaissance du monde du spectacle pour monter leur propre compagnie.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Le <sal>Smic</sal> (pour un machiniste de plateau) ; 1451 euros brut par mois, pour un machiniste-constructeur.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

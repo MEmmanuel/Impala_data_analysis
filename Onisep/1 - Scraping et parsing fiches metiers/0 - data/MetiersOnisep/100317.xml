@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">vendeur/euse-conseil en matériel agricole</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">convaincre, négocier/me déplacer souvent/faire du commerce</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction vente</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur commerce</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">vente/agroéquipement/technico-commercial/commerce non alimentaire</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE commerce distribution/vendeur-conseil en matériel agricole</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100317</lien_onisep>
+<ROME Level="1B" csRelFld="100317">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100317">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="30454" csRelFld="30454">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30454</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100317</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Du neuf et de l'occasion</inter>
+<p>Ce professionnel assure la vente de matériel agricole, neuf ou d'occasion : tracteurs, moissonneuses, épandeuses et toutes autres machines agricoles, matériel d'irrigation, d'entretien des espaces verts, d'équipements pour l'élevage...</p>
+<p>Pour bien vendre, il doit connaître les caractéristiques techniques des matériels, les attentes des clients, leurs préoccupations et leurs besoins, les techniques de culture et d'élevage les plus récentes, toute l'actualité de l'agriculture. </p>
+<inter>Des objectifs à remplir</inter>
+<p>Il rencontre les clients, les écoute, les informe, les conseille sur le matériel qui répond au mieux à leurs besoins. Il peut exécuter des démonstrations et faire faire des essais. Il négocie les prix et les conditions de vente. Son but : remplir les objectifs commerciaux de l'entreprise (volume de vente, marges de bénéfices...).</p>
+<inter>Prospection et fidélisation</inter>
+<p>Il peut procéder au rachat d'anciens matériels et équipements et proposer des plans de financement. Il assure la mise en service et l'après-vente. Il prospecte de nouveaux clients, tente de fidéliser les autres. Dans les salons et les foires, il présente son entreprise et ses produits et services..</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="30458" csRelFld="30458">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30458</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100317</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<titre>Bac + 2 demandé</titre>
+<liste>
+<tete>Pour accéder à la profession, on demande le plus souvent de détenir un niveau bac + 2, tel qu'un BTSA ou un BTS.</tete>
+<itsimp>Le BTSA technico-commercial spécialité agrofournitures, le BTS agroéquipement et le BTSA génie des équipements agricoles se préparent en 2 ans après le baccalauréat (S, STI2D, bac technologique agricole, bac pro agroéquipement ou autres bacs pro du domaine de l'agriculture...) ;</itsimp>
+<itsimp>Le CS responsable technico-commercial en agroéquipements et le CS responsable technico-commercial en agrofournitures sont accessibles après un BTS ou un BTSA. Il se prépare en 1 an après un bac ou un diplôme de niveau bac + 2.</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="30456" csRelFld="30456">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30456</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100317</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un secteur méconnu</inter>
+<p>L'agroéquipement reste un petit secteur du point de vue de l'emploi. Mais il peine à recruter, tant il est mal connu et souvent jugé peu attractif. Les jeunes diplômés de ce domaine ne restent donc pas longtemps sans emploi.</p>
+<inter>Un secteur qui va mieux</inter>
+<p>La profession a traversé une crise durant les années 1990. Elle semble s'être restructurée au profit des moyens et grands points de vente qui devraient proposer l'essentiel des offres d'emploi à l'avenir.</p>
+<inter>Toujours plus de machines</inter>
+<p>La distribution de matériel agricole reste très dépendante du revenu aléatoire des agriculteurs. Toutefois, la diminution du nombre d'exploitants et la concentration des surfaces agricoles accroît le besoin en machines, toujours plus sophistiquées.</p>
+<inter>Évolution de carrière</inter>
+<p>Un bon vendeur peut évoluer vers le métier de chef des ventes à l'intérieur de la même entreprise. Ce dernier encadre une équipe de vendeurs. Après une expérience réussie, il pourra évoluer ensuite vers le poste d'inspecteur commercial auprès d'un constructeur, chargé de former et de manager les chefs de vente et vendeurs d'un secteur géographique donné.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2200</sal> euros brut, en moyenne.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">technicien/ne en engins de travaux publics</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">réparer, entretenir, installer des équipements/me déplacer souvent/exercer un travail manuel</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction maintenance</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur maintenance</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">engins de chantier/travaux publics</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE bâtiment gros oeuvre génie civil/technicien en engins de travaux publics</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100232</lien_onisep>
+<ROME Level="1B" csRelFld="100232">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="399" csRelFld="399">
+<CSLABELFLD label="">I1603</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Véhicules, engins, aéronefs</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">I1603</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Maintenance d'engins de chantier, levage, manutention et de machines agricoles</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="373" csRelFld="373">
+<CSLABELFLD label="">I1103</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Encadrement</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">I1103</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Supervision d'entretien et gestion de véhicules</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100232">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1742" csRelFld="1742">
+<CSLABELFLD label="">agent / agente de maintenance de matériel</CSLABELFLD>
+<MET_ID label="Identifiant">100232</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1742</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">agent/e de maintenance de matériel</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1742">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1743" csRelFld="1743">
+<CSLABELFLD label="">agent / agente de maîtrise de la ville de Paris (travaux publics - maintenance)</CSLABELFLD>
+<MET_ID label="Identifiant">100232</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1743</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">agent/e de maîtrise de la ville de Paris (travaux publics - maintenance)</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1743">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1744" csRelFld="1744">
+<CSLABELFLD label="">chef / cheffe d'atelier de maintenance des matériels de travaux publics et de manutention</CSLABELFLD>
+<MET_ID label="Identifiant">100232</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1744</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chef/fe d'atelier de maintenance des matériels de travaux publics et de manutention</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1744">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1745" csRelFld="1745">
+<CSLABELFLD label="">dépanneur / dépanneuse</CSLABELFLD>
+<MET_ID label="Identifiant">100232</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1745</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">dépanneur/euse</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1745">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1747" csRelFld="1747">
+<CSLABELFLD label="">mécanicien / mécanicienne de matériels de travaux publics, de manutention et de levage</CSLABELFLD>
+<MET_ID label="Identifiant">100232</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1747</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">mécanicien/ne de matériels de travaux publics, de manutention et de levage</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1747">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1748" csRelFld="1748">
+<CSLABELFLD label="">mécanicien / mécanicienne de réparation de matériels de travaux publics, de manutention et de levage</CSLABELFLD>
+<MET_ID label="Identifiant">100232</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1748</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">mécanicien/ne de réparation de matériels de travaux publics, de manutention et de levage</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1748">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1746" csRelFld="1746">
+<CSLABELFLD label="">mécanicien / mécanicienne d'équipements et d'engins motorisés - matériels de manutention</CSLABELFLD>
+<MET_ID label="Identifiant">100232</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1746</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">mécanicien/ne d'équipements et d'engins motorisés - matériels de manutention</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1746">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1749" csRelFld="1749">
+<CSLABELFLD label="">technicien / technicienne d'atelier</CSLABELFLD>
+<MET_ID label="Identifiant">100232</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1749</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">technicien/ne d'atelier</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1749">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1751" csRelFld="1751">
+<CSLABELFLD label="">technicien / technicienne de maintenance de matériels de chantier et de manutention</CSLABELFLD>
+<MET_ID label="Identifiant">100232</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1751</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">technicien/ne de maintenance de matériels de chantier et de manutention</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1751">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1750" csRelFld="1750">
+<CSLABELFLD label="">technicien / technicienne d'intervention</CSLABELFLD>
+<MET_ID label="Identifiant">100232</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1750</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">technicien/ne d'intervention</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1750">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1752" csRelFld="1752">
+<CSLABELFLD label="">technicien / technicienne en maintenance d'engins de travaux publics et de manutention</CSLABELFLD>
+<MET_ID label="Identifiant">100232</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1752</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">technicien/ne en maintenance d'engins de travaux publics et de manutention</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1752">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1753" csRelFld="1753">
+<CSLABELFLD label="">technicien itinérant / technicienne itinérante de maintenance des matériels de manutention</CSLABELFLD>
+<MET_ID label="Identifiant">100232</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1753</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">technicien/ne itinérant/e de maintenance des matériels de manutention</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1753">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17031" csRelFld="17031">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17031</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100232</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Prévention et dépannage</inter>
+<p>Le mécanicien d'engins de chantier entretient à titre préventif les différentes machines et se déplace sur un chantier en cas de panne. Il peut être polyvalent et s'occuper de plusieurs engins différents ou être spécialisé dans un seul type de machine.</p>
+<inter>Entretien périodique</inter>
+<p>Lorsqu'il effectue une maintenance périodique, ce technicien procède aux vidanges, au graissage, au contrôle des pièces. Il observe les éléments relevant spécifiquement de l'entretien : filtres, fluides, analyses d'huiles... Il effectue les remplacements nécessaires et remplit le carnet d'entretien.</p>
+<inter>Diagnostic en urgence</inter>
+<p>Le mécanicien se déplace aussi chez le client en cas de panne d'un engin, il l'examine, puis, grâce à ses compétences techniques, établit un diagnostic. À lui de déterminer si la panne est d'origine mécanique, hydraulique, pneumatique ou électrique, en utilisant un appareil d'aide au diagnostic (ordinateur, scanner...).</p>
+<inter>Réparations et réglages</inter>
+<p>Une fois la cause identifiée, il démonte, répare et remonte les pièces défectueuses. Il effectue les réglages nécessaires et rédige des comptes-rendus d'intervention.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16842" csRelFld="16842">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16842</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100232</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<titre>Du CAP au BTS</titre>
+<p>Pour entretenir et réparer des engins de plus en plus sophistiqués, les entreprises font appel à un personnel dont la qualification s'adapte à l'évolution rapide du matériel.</p>
+<liste>
+<itsimp>Le CAP maintenance des matériels option matériels de travaux publics et de manutention se prépare en 2 ans, après la classe de 3<exp>e</exp> , en lycée professionnel ou par apprentissage.</itsimp>
+<itsimp>Le bac pro maintenance des matériels option travaux publics et manutention se prépare en 3 ans, aaprès la classe de 3<exp>e</exp> . Le titulaire de ce diplôme a des responsabilités plus importantes et une évolution de carrière plus rapide.</itsimp>
+<itsimp>Le BTS maintenance et après-vente des engins de travaux publics et de manutention forme des agents de maîtrise et des cadres qui pourront occuper des emplois dans la maintenance, dans la distribution des pièces de rechange et dans le secteur de développement des produits. Le BTS se prépare en 2 ans après le bac.</itsimp>
+<itsimp>des mentions complémentaires (MC) permettent d'approfondir un aspect de la profession. Les MC se préparent en 1 an après certains CAP, bacs pro ou un bac techno. Il s'agit des MC maintenance des installations oléohydrauliques et pneumatiques, MC maintenance des moteurs diesel et de leurs équipements, MC maintenance et conrôles des matériels</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17807" csRelFld="17807">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17807</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100232</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Le choix du secteur</inter>
+<p>Les débouchés les plus importants se situent chez les concessionnaires, les loueurs et les réparateurs de matériel, ainsi que chez les constructeurs et utilisateurs d'engins, plutôt que dans les entreprises de construction elles-mêmes. Des débouchés existent également dans les collectivités locales (services techniques municipaux, syndicats de communes...).</p>
+<inter>Des places à prendre</inter>
+<p>Quel que soit le secteur, beaucoup d'entreprises ont des difficultés à recruter des mécaniciens qualifiés. Le technicien de maintenance peut bénéficier d'un certain nombre d'avantages : véhicule de fonction, primes... Après quelques années d'expérience, il peut évoluer vers l'encadrement et devenir chef d'équipe, chef d'atelier, responsable de service après-vente ou responsable technique. Il peut aussi créer son entreprise et devenir gérant de concession pour une marque de matériels.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>A partir du <sal>Smic</sal> et jusqu'à 1600 euros brut du CAP au bac pro, environ 2000 euros avec un BTS.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

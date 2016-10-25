@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e technico-commercial en chimie</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire du commerce/convaincre, négocier/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction technico commercial</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie pharmaceutique/secteur industrie agroalimentaire/secteur construction aéronautique/secteur énergie/secteur transformation des matières plastiques/secteur industrie chimique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">chimie/technico-commercial</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE matériaux laboratoire organisation industrielle</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100606</lien_onisep>
+<ROME Level="1B" csRelFld="100606">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="265" csRelFld="265">
+<CSLABELFLD label="">H1206</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception, recherche, études et développement</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H1206</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie études, recherche et développement industriel</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100606">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="55947" csRelFld="55947">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55947</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100606</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter> Vendre au client </inter>
+<p> Tous les produits (colorants pour peintures, polymères...) issus de l'industrie chimique sont vendus aux entreprises par l'ingénieur technico-commercial en chimie. Un pied chez le client, l'autre dans son entreprise, il présente d'abord aux clients le ou les produits correspondant au mieux à leurs besoins, puis fait remonter les informations récoltées aux ingénieurs. Pour cela, il rédige souvent un rapport selon un format déterminé qu'on appelle " reporting ". Durant cette phase d'avant-vente, il peut être accompagné d'un ingénieur d'application, en fonction de la complexité des produits proposés. Il négocie ensuite les conditions commerciales de la vente. </p>
+<inter> Assurer un suivi </inter>
+<p> Ensuite, il prend en compte les contraintes de la production, de la gestion des stocks et des délais de livraison. Expert sur son produit, il assure aussi un suivi technique auprès des clients. Lorsque le client souhaite une amélioration, il rédige un cahier des charges qui indique les éventuelles modifications à apporter. Il a un rôle de conseil important et veille à l'efficacité du service après-vente. Il est aussi chargé de prospecter de nouveaux clients. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55951" csRelFld="55951">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55951</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100606</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p> Si certains postes sont ouverts aux titulaires d'un bac + 2/3 pour vendre des produits de haute technologie, les recruteurs donneront la préférence aux titulaires de bac + 5, ayant de l'expérience dans la vente B to B (business to business).</p>
+<liste>
+<tete> Niveau bac + 2 </tete>
+<itsimp> BTS technico-commercial...</itsimp>
+</liste>
+<liste>
+<tete> Niveau bac + 3 </tete>
+<itsimp> Licence pro droit, économie, gestion, commerce spécialité technico-commercial en produits industriels ou spécialité technico-commercial en milieu industriel ; sciences, technologies, santé commerce spécialité technico-commercial des produits et services industriels ou spécialité technico-commercial en nutricosmétique et cosmétologie...</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5 </tete>
+<itsimp>Master sciences, technologies, santé mention chimie ou mention sciences de la vie et de la matière spécialité chimie : conseil et ingénierie technico-commerciale ; sciences et technologies mention chimie spécialité commercialisation en cosmétique et chimie fine ; sciences et technologies mention chimie spécialité ingénierie chimique ; master of Science ingénierie commerciale et management de projets... </itsimp>
+<itsimp> Diplôme d'ingénieur en chimie </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55949" csRelFld="55949">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55949</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100606</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter> Dans tous les secteurs de la chimie </inter>
+<p> Il exerce dans tous les secteurs d'activité ayant recours à la chimie (pharmacie, pétrochimie, agroalimentaire, aéronautique, nucléaire, etc.) ou à la parachimie (cosmétiques, peintures, adhésifs, matériaux, verres, plasturgie, élastomères, agrochimie, etc.), essentiellement dans les régions Ile-de-France, Rhône-Alpes, PACA, Nord-Pas-de-Calais et Aquitaine (source : Observatoire des industries chimiques). </p>
+<inter> Des opportunités à l'étranger </inter>
+<p> L'internationalisation de l'industrie chimique (exportations et investissements extérieurs importants) crée de nombreuses opportunités de postes à l'étranger, surtout dans les grands groupes industriels. Il peut s'agir de missions ponctuelles ou d'expatriations. L'anglais courant est alors indispensable. </p>
+<inter> Des évolutions possibles </inter>
+<p> Après quelques années d'expérience, le technico-commercial peut évoluer vers un poste de directeur commercial, directeur des achats, des ventes... Il travaille alors avec la direction pour définir la politique commerciale de son entreprise. Des fonctions plus orientées vers le marketing sont aussi envisageables. </p>
+<remun>
+<inter>Salaire du débutant </inter>
+<p>
+<sal>2080</sal> euros brut par mois (+ part variable en fonction des ventes réalisées).</p>
+<postit>
+<p> Source : Apec (Association pour l'emploi des cadres), 2014. </p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

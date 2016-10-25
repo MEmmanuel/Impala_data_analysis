@@ -1,0 +1,385 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Chef d'\u00e9quipe de laveurs de vitres",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe de laveurs de vitres",
+            "code_ogr": "12413"
+        },
+        {
+            "libelle_court": "Laveur / Laveuse de carreaux",
+            "priorisation": "1",
+            "libelle": "Laveur / Laveuse de carreaux",
+            "code_ogr": "16165"
+        },
+        {
+            "libelle_court": "Laveur / Laveuse de vitres",
+            "priorisation": "1",
+            "libelle": "Laveur / Laveuse de vitres",
+            "code_ogr": "16166"
+        },
+        {
+            "libelle_court": "Laveur / Laveuse de vitres de plain-pied",
+            "priorisation": "1",
+            "libelle": "Laveur / Laveuse de vitres de plain-pied",
+            "code_ogr": "16167"
+        },
+        {
+            "libelle_court": "Laveur / Laveuse de vitres polyvalent / polyvalente",
+            "priorisation": "1",
+            "libelle": "Laveur / Laveuse de vitres polyvalent / polyvalente",
+            "code_ogr": "16168"
+        },
+        {
+            "libelle_court": "Laveur / Laveuse de vitres-nacelliste",
+            "priorisation": "1",
+            "libelle": "Laveur / Laveuse de vitres-nacelliste",
+            "code_ogr": "16169"
+        },
+        {
+            "libelle_court": "Nettoyeur / Nettoyeuse de vitres",
+            "priorisation": "1",
+            "libelle": "Nettoyeur / Nettoyeuse de vitres",
+            "code_ogr": "16979"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Pr\u00e9parer les produits de nettoyage et le mat\u00e9riel (raclettes, perche, \u00e9chelle, ...) et prot\u00e9ger les abords de la zone d'intervention",
+            "code_ogr": "2629",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer et essuyer les surfaces vitr\u00e9es, les bordures et encadrements",
+            "code_ogr": "2422",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la prestation avec le client et l'informer des dysfonctionnements, d\u00e9gradations",
+            "code_ogr": "1053",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer et entretenir le mat\u00e9riel de nettoyage",
+            "code_ogr": "2403",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "I1201",
+            "libelle_rome_cible": "Entretien d'affichage et mobilier urbain"
+        },
+        {
+            "code_rome_cible": "I1501",
+            "libelle_rome_cible": "Intervention en grande hauteur"
+        },
+        {
+            "code_rome_cible": "K2204",
+            "libelle_rome_cible": "Nettoyage de locaux"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle.\nUn CAP/BEP ou une exp\u00e9rience professionnelle dans le secteur de l'hygi\u00e8ne et du nettoyage de locaux peut en faciliter l'acc\u00e8s.\nUn Certificat d'Aptitude \u00e0 la Conduite en S\u00e9curit\u00e9 -CACES- conditionn\u00e9 par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement peut \u00eatre exig\u00e9 pour l'utilisation de nacelles.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 386 (Plates-formes \u00e9l\u00e9vatrices mobiles de personnes)",
+            "code_ogr": "10120",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des op\u00e9rations d'entretien :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyage de car, structure d'a\u00e9ronef, voiture de train",
+            "code_ogr": "5003",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyage de fa\u00e7ades, enseignes",
+            "code_ogr": "5004",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyage de locaux",
+            "code_ogr": "5005",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyage de mobilier urbain",
+            "code_ogr": "5006",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pose de film de protection",
+            "code_ogr": "5008",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Remise en \u00e9tat de vitrerie",
+            "code_ogr": "5009",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Planifier une tourn\u00e9e d'intervention et mettre \u00e0 jour les documents de suivi",
+            "code_ogr": "7845",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des devis clients et facturer les prestations",
+            "code_ogr": "8355",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de soci\u00e9t\u00e9s de services et de propret\u00e9, de collectivit\u00e9s territoriales, d'associations en contact avec diff\u00e9rents intervenants (clients, usagers, ...).\nElle varie selon le secteur (commerce, h\u00f4tellerie, ...) et le type de chantiers (de plain-pied, en nacelle, ...).\nL'activit\u00e9 peut s'effectuer en hauteur et \u00e0 proximit\u00e9 du vide.\nLe port d'\u00e9quipements de protection (gants, harnais, ...) peut \u00eatre requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de fiche technique",
+            "code_ogr": "20943",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chiffrage/calcul de co\u00fbt",
+            "code_ogr": "20813",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Association",
+            "code_ogr": "23706",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Equipementier du transport (a\u00e9ronef, car, train, ...)",
+            "code_ogr": "23913",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Site de transit (port, a\u00e9roport, gare, ...)",
+            "code_ogr": "24074",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent industriel",
+            "code_ogr": "23417",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent tertiaire",
+            "code_ogr": "23419",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Commerce/grande distribution",
+            "code_ogr": "23445",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ev\u00e8nementiel",
+            "code_ogr": "23487",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tellerie",
+            "code_ogr": "23519",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Patrimoine culturel et historique",
+            "code_ogr": "23576",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Propret\u00e9, nettoyage",
+            "code_ogr": "23602",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9sidentiel",
+            "code_ogr": "23621",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Spectacle",
+            "code_ogr": "23638",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sport et loisirs",
+            "code_ogr": "23640",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9",
+            "code_ogr": "22621",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques am\u00e9ricaines de lavage de vitres",
+            "code_ogr": "22754",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques fran\u00e7aises de lavage de vitres",
+            "code_ogr": "23250",
+            "position_item": "3",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nProc\u00e8de au nettoyage int\u00e9rieur ou ext\u00e9rieur des surfaces vitr\u00e9es (vitres, vitrines, ...) de locaux commerciaux, tertiaires, ... selon les imp\u00e9ratifs de qualit\u00e9.\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "Lavage de vitres",
+    "code_ogr": "417",
+    "code_rome": "K2202",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1402",
+            "libelle_rome_cible": "Relation commerciale grands comptes et entreprises"
+        },
+        {
+            "code_rome_cible": "I1203",
+            "libelle_rome_cible": "Maintenance des b\u00e2timents et des locaux"
+        },
+        {
+            "code_rome_cible": "K2203",
+            "libelle_rome_cible": "Management et inspection en propret\u00e9 de locaux"
+        },
+        {
+            "code_rome_cible": "K2304",
+            "libelle_rome_cible": "Revalorisation de produits industriels"
+        },
+        {
+            "code_rome_cible": "K2305",
+            "libelle_rome_cible": "Salubrit\u00e9 et traitement de nuisibles"
+        }
+    ]
+}

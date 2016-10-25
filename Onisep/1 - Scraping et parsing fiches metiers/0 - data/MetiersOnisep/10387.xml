@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e en aéronautique</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe/faire de la recherche/concevoir, utiliser des technologies industrielles de pointe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction études développement industriel /fonction essais/fonction méthodes industrialisation/fonction organisation de la production industrielle/fonction technico commercial/fonction recherche appliquée</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur construction aéronautique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">structure aeronef/propulsion avion/maintenance aéronautique/construction aéronautique/industrie spatiale/mécanique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE mécanique automatismes/ingénieur aéronautique</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10387</lien_onisep>
+<ROME Level="1B" csRelFld="10387">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="372" csRelFld="372">
+<CSLABELFLD label="">I1102</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Encadrement</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">I1102</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie de maintenance industrielle</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="265" csRelFld="265">
+<CSLABELFLD label="">H1206</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception, recherche, études et développement</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H1206</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie études, recherche et développement industriel</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="320" csRelFld="320">
+<CSLABELFLD label="">H2502</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Direction, encadrement et pilotage de fabrication et production industrielles</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2502</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie de production</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10387">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18593" csRelFld="18593">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18593</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10387</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Concevoir des pièces et des ensembles</inter>
+<p>Chez les constructeurs aéronautiques, l'ingénieur peut exercer différentes activités en fonction de la spécialité (électronique, mécanique, optique, télécommunications, matériaux composites, etc.) qu'il maîtrise. Ainsi, avec un profil mécanicien, il conçoit des pièces et des ensembles : cellules d'avion, voilures (les ailes), tuyères (pour les réacteurs), trains d'atterrissage... Légèreté des matériaux, tenue des pièces et sécurité sont alors ses priorités.</p>
+<inter>Développer et tester des appareils de contrôle</inter>
+<p>Avec un profil en électronique, il travaille sur les écrans des radars aériens, les systèmes de radiotransmission ou encore les appareils de détection aérienne. Selon les cas, il développe ces produits de haute technologie, les teste, en supervise la fabrication ou les commercialise.</p>
+<inter>Développer des logiciels</inter>
+<p>Enfin, l'ingénieur en aéronautique peut se spécialiser en informatique embarquée à bord des appareils ou en informatique liée au contrôle de la trajectoire des satellites. Il met au point les logiciels des calculateurs qui contrôlent les manoeuvres, enregistrent les pannes ou les défaillances.</p> </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18504" csRelFld="18504">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18504</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10387</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p> Passage quasi obligé : les écoles d'ingénieurs généralistes avec des options en aéronautique (Centrale Paris, Centrale Lyon, Ensta, EPF...) ou des écoles plus spécialisées (Enac, Isae Supaéro, Isae Ensica, Ipsa, Isae Ensma, Estaca). Toutefois, les formations universitaires (master, doctorat) intéressent aussi les industriels.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur généraliste ou spécialisé</itsimp>
+<itsimp>Master en génie mécanique, aéronautique, maintenance aéronautique, énergétique, électronique...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18491" csRelFld="18491">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18491</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10387</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Dans 3 régions</inter>
+<p>L'industrie aéronautique et spatiale se concentre principalement dans 3 régions : Ile-de-France, Midi-Pyrénées (qui comptabilisent chacune 28 % des effectifs) et Aquitaine (11 % des effectifs).</p>
+<inter>Différents types d'entreprises</inter>
+<p>Au premier rang des employeurs, on compte les grandes entreprises qui conçoivent et fabriquent les avions ou les véhicules spatiaux (EADS, Dassault Aviation, Eurocopter). Viennent ensuite les motoristes (comme la Snecma) qui réalisent les moteurs d'avion et d'hélicoptère ainsi que les systèmes de propulsion des fusées ou des engins militaires tactiques. Dernier vivier d'emplois, les équipementiers fournissent les constructeurs en sièges, systèmes informatiques, équipements électriques et hydrauliques...</p>
+<inter>Des embauches à l'horizon</inter>
+<p>La tendance est plutôt au ralentissement des recrutements. Les entreprises de l'aéronautique maintiennent toutefois un certain volume d'embauches pour faire face aux départs à la retraite (environ 2 000 ingénieurs recrutés par an). </p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2800 </sal>euros brut par mois.</p>
+<postit>
+<p>Source : Airemploi, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

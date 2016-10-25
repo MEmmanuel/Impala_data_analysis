@@ -1,0 +1,358 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Auxiliaire de pu\u00e9riculture",
+            "priorisation": "1",
+            "libelle": "Auxiliaire de pu\u00e9riculture",
+            "code_ogr": "11448"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Accueillir l'enfant et le guider \u00e0 son arriv\u00e9e dans la structure",
+            "code_ogr": "3497",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer et donner le repas, la prescription m\u00e9dicale \u00e0 l'enfant",
+            "code_ogr": "2578",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser les soins et signaler les modifications de l'\u00e9tat de sant\u00e9 de l'enfant aux pu\u00e9ricultrices, aux parents, ...",
+            "code_ogr": "2873",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accompagner l'enfant dans l'apprentissage des gestes de la vie quotidienne",
+            "code_ogr": "549",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports de suivi d'activit\u00e9 et \u00e9changer des informations avec l'\u00e9quipe",
+            "code_ogr": "3051",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer, d\u00e9sinfecter et ranger la chambre et l'installation sanitaire",
+            "code_ogr": "3569",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Am\u00e9nager le lieu de vie, d'accueil des enfants et v\u00e9rifier la s\u00e9curit\u00e9 des \u00e9quipements",
+            "code_ogr": "626",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "G1203",
+            "libelle_rome_cible": "Animation de loisirs aupr\u00e8s d'enfants ou d'adolescents"
+        },
+        {
+            "code_rome_cible": "J1501",
+            "libelle_rome_cible": "Soins d'hygi\u00e8ne, de confort du patient"
+        },
+        {
+            "code_rome_cible": "K1301",
+            "libelle_rome_cible": "Accompagnement m\u00e9dicosocial"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec le Dipl\u00f4me d'Etat d'Auxiliaire de Pu\u00e9riculture -DEAP-.\nDes formations compl\u00e9mentaires (prise en charge de la douleur, ...) peuvent \u00eatre requises.\nDes vaccinations pr\u00e9vues par le Code de Sant\u00e9 Publique sont exig\u00e9es.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Intervenir dans un service :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chirurgie infantile",
+            "code_ogr": "6767",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Maternit\u00e9",
+            "code_ogr": "6771",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "N\u00e9onatalogie",
+            "code_ogr": "6773",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "P\u00e9diatrie",
+            "code_ogr": "6775",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Psychiatrie infantile",
+            "code_ogr": "6778",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer la salle d'accouchement, le mat\u00e9riel d'accueil et d'examen de l'enfant et aider l'\u00e9quipe de soins lors de la naissance",
+            "code_ogr": "7975",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accompagner la m\u00e8re dans les premiers gestes maternels (mise au sein, prise du biberon, toilette, change, ...)",
+            "code_ogr": "3636",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller l'\u00e9tat clinique d'un enfant et informer l'\u00e9quipe soignante selon n\u00e9cessit\u00e9",
+            "code_ogr": "9926",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proposer et animer des activit\u00e9s d'\u00e9veil et intervenir en cas de chute, dispute, ...",
+            "code_ogr": "8195",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la prise des mesures biom\u00e9triques (poids, taille, ...) d'un enfant et communiquer les informations \u00e0 l'\u00e9quipe m\u00e9dicale",
+            "code_ogr": "5188",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Trier le mat\u00e9riel, les instruments m\u00e9dicaux selon le type de traitement (st\u00e9rilisation, destruction, ...)",
+            "code_ogr": "10058",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce en \u00e9tablissements de soins (h\u00f4pital, clinique, ...), en structures d'accueil (cr\u00e8che, halte-garderie, ...) en contact avec les enfants et les familles et au sein d'une \u00e9quipe pluridisciplinaire (pu\u00e9ricultrice, sage-femme, \u00e9ducateur de jeunes enfants, ...).\nElle varie selon la structure (maternit\u00e9, cr\u00e8che, ...) et le public (enfants bien portants, malades, handicap\u00e9s).\nElle peut s'exercer en horaires d\u00e9cal\u00e9s, par roulement, les fins de semaine, de nuit et \u00eatre soumise \u00e0 des gardes en milieu hospitalier.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Identification des signes et du degr\u00e9 de la douleur",
+            "code_ogr": "20916",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Centre de Protection Maternelle et Infantile",
+            "code_ogr": "23774",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement m\u00e9dical (h\u00f4pital, clinique, ...)",
+            "code_ogr": "23922",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Structure d'accueil petite enfance",
+            "code_ogr": "24109",
+            "code_type_section_env": "1"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Psychologie de l'enfant",
+            "code_ogr": "22513",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pathologies de l'enfant",
+            "code_ogr": "22274",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Nursing",
+            "code_ogr": "22238",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en psychomotricit\u00e9",
+            "code_ogr": "21910",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en di\u00e9t\u00e9tique",
+            "code_ogr": "21849",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'\u00e9veil de l'enfant",
+            "code_ogr": "23205",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaire Hazard Analysis Critical Control Point -HACCP-",
+            "code_ogr": "22650",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et d'asepsie",
+            "code_ogr": "22646",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en obst\u00e9trique",
+            "code_ogr": "21892",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Protocoles de soins pr\u00e9 et post-op\u00e9ratoires",
+            "code_ogr": "22505",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pathologies psychiatriques",
+            "code_ogr": "22279",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Protocoles de prise en charge d'un enfant en n\u00e9o-natalogie",
+            "code_ogr": "22503",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Protocoles de lutte contre les infections nosocomiales",
+            "code_ogr": "22501",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9d\u00e9s de st\u00e9rilisation",
+            "code_ogr": "22361",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise la prise en charge d'enfants de la naissance \u00e0 quinze ans, les guide dans les gestes de la vie quotidienne et effectue des soins d'hygi\u00e8ne, de confort afin de contribuer \u00e0 leur bien-\u00eatre et leur d\u00e9veloppement.\n",
+    "intitule": "Aide en pu\u00e9riculture",
+    "code_ogr": "341",
+    "code_rome": "J1304",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "J1505",
+            "libelle_rome_cible": "Soins infirmiers sp\u00e9cialis\u00e9s en pr\u00e9vention"
+        },
+        {
+            "code_rome_cible": "J1506",
+            "libelle_rome_cible": "Soins infirmiers g\u00e9n\u00e9ralistes"
+        },
+        {
+            "code_rome_cible": "J1507",
+            "libelle_rome_cible": "Soins infirmiers sp\u00e9cialis\u00e9s en pu\u00e9riculture"
+        },
+        {
+            "code_rome_cible": "K1202",
+            "libelle_rome_cible": "\u00c9ducation de jeunes enfants"
+        }
+    ]
+}

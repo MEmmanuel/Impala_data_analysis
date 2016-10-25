@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">mécanicien/ne d'entretien d'avion</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">réparer, entretenir, installer des équipements/concevoir, utiliser des technologies industrielles de pointe/exercer un travail manuel</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction maintenance</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur transports aériens/secteur construction aéronautique/secteur maintenance</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">avionique/structure aeronef/propulsion avion/maintenance aéronautique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE mécanique automatismes/mécanicien d'entretien d'avion</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10365</lien_onisep>
+<ROME Level="1B" csRelFld="10365">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="398" csRelFld="398">
+<CSLABELFLD label="">I1602</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Véhicules, engins, aéronefs</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">I1602</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Maintenance d'aéronefs</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10365">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1708" csRelFld="1708">
+<CSLABELFLD label="">technicien / technicienne (construction aéronautique et spatiale)</CSLABELFLD>
+<MET_ID label="Identifiant">10365</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1708</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">technicien/ne (construction aéronautique et spatiale)</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1708">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1709" csRelFld="1709">
+<CSLABELFLD label="">technicien / technicienne contrôle</CSLABELFLD>
+<MET_ID label="Identifiant">10365</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1709</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">technicien/ne contrôle</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1709">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1710" csRelFld="1710">
+<CSLABELFLD label="">technicien / technicienne électronautique</CSLABELFLD>
+<MET_ID label="Identifiant">10365</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1710</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">technicien/ne électronautique</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1710">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1711" csRelFld="1711">
+<CSLABELFLD label="">technicien / technicienne en avionique</CSLABELFLD>
+<MET_ID label="Identifiant">10365</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1711</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">technicien/ne en avionique</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1711">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1712" csRelFld="1712">
+<CSLABELFLD label="">technicien / technicienne en ingénierie de maintenance</CSLABELFLD>
+<MET_ID label="Identifiant">10365</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1712</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">technicien/ne en ingénierie de maintenance</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1712">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1713" csRelFld="1713">
+<CSLABELFLD label="">technicien / technicienne support client</CSLABELFLD>
+<MET_ID label="Identifiant">10365</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1713</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">technicien/ne support client</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1713">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18680" csRelFld="18680">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18680</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10365</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Objectif : zéro panne</inter>
+<p>Le travail du mécanicien sur les avions consiste essentiellement à prévenir les pannes. La sécurité des passagers et des personnels de bord réclame un entretien régulier et rigoureux. Pour les avions de transport, il faut respecter un protocole très précis, prévu par le constructeur. Les mécaniciens inspectent toutes les parties de l'appareil. Des personnes différentes effectuent souvent les mêmes tests, à plusieurs reprises, par sécurité. Démontage et examen précis des pièces métalliques et de l'habitacle permettent de repérer les défauts éventuels. Le mécanicien expérimenté règle ou échange les moteurs et les commandes de vol.</p>
+<inter>Sur les avions légers </inter>
+<p>En aéroclub, il conduit les visites d'inspection régulières, et assure la révision complète dès 2 000 heures de vol. Polyvalent, il intervient sur l'ensemble des structures.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18678" csRelFld="18678">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18678</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10365</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le mécanicien d'entretien d'avion est au moins diplômé d'un CAP, mais le plus souvent un bac pro est nécessaire. Les diplômes sont préparés en lycée professionnel, en CFA (centre de formation d'apprentis), en école spécialisée ou dans l'armée. </p>
+<liste>
+<tete>Après la 3<exp>e</exp>
+</tete>
+<itsimp>CAP aéronautique (3 options : avionique, systèmes, structure), en 2 ans</itsimp>
+<itsimp>Bac pro aéronautique (3 options : avionique, systèmes, structure) ou aviation générale (seulement pour les avions de moins de 2 tonnes utilisés dans les aéroclubs), en 3 ans</itsimp>
+</liste>
+<liste>
+<tete>Après le bac pro </tete>
+<itsimp>MC aéronautique (5 options : avionique, avions à moteurs à pistons, avions à moteurs à turbines, hélicoptères à moteurs à pistons, hélicoptères à moteurs à turbines), en 1 an</itsimp>
+<itsimp>BTS aéronautique</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18669" csRelFld="18669">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18669</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10365</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Concentrés dans quelques régions</inter>
+<p>Compagnies aériennes, sociétés de maintenance, équipementiers, aéroports ou armée : les mécaniciens du ciel ont l'embarras du choix. Malgré la crise, les entreprises recherchent des professionnels de la maintenance. Les emplois se trouvent en grande majorité en Ile-de-France, puis en Provence-Alpes-Côte d'azur, Rhône-Alpes et Midi-Pyrénées. </p>
+<inter>Promotion possible</inter>
+<p>Si le débutant effectue les montages et démontages simples, après 2 ans de pratique, il peut se charger d'opérations plus complexes en assistant le metteur au point. Lorsque son expérience est solide, il devient à son tour metteur au point et intervient seul dans les dépannages. Il peut ensuite être promu chef d'équipe, puis contrôleur. Selon la mobilité interne et son diplôme de départ, il peut éventuellement évoluer vers des fonctions en bureau d'études. </p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir du <sal>Smic</sal>.</p>
+<postit>
+<p>Source : non indiquée.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">opérateur/trice prépresse</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un métier artistique ou créatif</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur imprimerie/secteur édition - presse</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">pré presse</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques graphiques impression/opérateur de prépresse</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10008</lien_onisep>
+<ROME Level="1B" csRelFld="10008">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="163" csRelFld="163">
+<CSLABELFLD label="">E1306</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Industries graphiques</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">E1306</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Prépresse</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10008">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17840" csRelFld="17840">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17840</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10008</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Premier maillon de la chaîne graphique</inter>
+<p>Situé après la création graphique, le prépresse est la première étape de la réalisation d'un imprimé. Elle précède l'impression proprement dite et la finition (massicotage, reliure...). Auparavant appelé photograveur, compositeur ou monteur, l'opérateur prépresse a pour mission de mettre en forme les contenus des futurs imprimés afin qu'ils soient prêts à imprimer.</p>
+<inter>Enrichir et mettre en pages</inter>
+<p>Première phase du travail : enrichir les fichiers informatiques transmis par un client en leur apportant des corrections orthotypographiques ou colorimétriques si nécessaire... Vient ensuite la mise en pages sur écran : il s'agit alors de caler les textes et les images. L'opérateur prépresse respecte généralement un cahier des charges, ou dossier de fabrication, qui contient les indications à suivre. Il sort ensuite les épreuves sur " traceur ", afin que le client donne son accord par un BAT (bon à tirer). Enfin, il envoie le fichier validé au CTP (computer to plate) qui va produire les plaques nécessaires pour l'impression.</p>
+<inter>Travailler les photos</inter>
+<p>L'opérateur prépresse peut modifier les couleurs des illustrations, recadrer ou détourer les photos. Il est aussi amené à résoudre d'éventuels problèmes techniques sur les fichiers pour les rendre exploitables.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17847" csRelFld="17847">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17847</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10008</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>L'accès au métier se fait avec le bac pro</accr_p> qui peut être complété par le BTS et une licence pro qui permet d'accéder, après expérience, à des postes d'encadrement et de gestion de production.</p>
+<inter>Niveau bac</inter>
+<liste>
+<itsimp>
+<em>Bac professionnel</em> réalisation de produits imprimés et plurimédia</itsimp>
+</liste>
+<inter>Niveau bac + 2</inter>
+<liste>
+<itsimp>
+<em>BTS</em> communication et industries graphiques, option A étude et réalisation de produits graphiques</itsimp>
+</liste>
+<inter>Niveau bac + 3</inter>
+<liste>
+<itsimp>
+<em>Licences pro</em> en flux numériques, édition et productions imprimés, intégrateur et gestionnaire de flux numériques pour les industries graphiques</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17853" csRelFld="17853">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17853</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10008</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Le poids important du prépresse</inter>
+<p>L'informatique a entraîné des mutations radicales dans le secteur de l'imprimerie et réduit le nombre de postes. Mais le prépresse au contraire se développe depuis 10 ans. Il concentre 13 % des salariés de l'industrie graphique et représente 36 % des entreprises graphiques (source : Observatoire des industries graphiques). En outre, l'aspect informatisé du métier attire de nombreux jeunes.</p>
+<inter>Un secteur concurrentiel et des bassins d'emploi</inter>
+<p>Le nombre d'entreprises de prépresse augmente, mais la plupart sont petites : la proportion d'entreprises de moins de 10 salariés est en effet de 87 %. À noter également qu'elles se concentrent en Ile-de-France, puis en Rhône-Alpes, dans les Pays de la Loire et du Nord-Pas-de-Calais. Ce fort développement et ces bassins d'emploi intensifient la concurrence.</p>
+<inter>La synergie des médias</inter>
+<p>Depuis 2000, la production d'imprimés est en chute libre, en raison de l'arrivée des médias numériques (Internet, smartphones, e-books...) qui pourraient mettre en danger le métier. Cependant, on constate une complémentarité papier-numérique, la tendance actuelle étant à la " synergie des médias ". L'opérateur prépresse devient donc polyvalent et peut désormais mettre en forme des productions imprimées comme numériques.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir du <sal>Smic</sal>.</p>
+<postit>
+<p>Source : Convention collective nationale du travail du personnel des imprimeries de labeur et des industries graphiques.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

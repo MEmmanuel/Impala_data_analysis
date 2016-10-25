@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">secrétaire médical/e</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">informer, communiquer</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction administrative</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur santé/secteur social/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">secrétariat médical/bureautique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé/secrétaire médicale</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100289</lien_onisep>
+<ROME Level="1B" csRelFld="100289">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="589" csRelFld="589">
+<CSLABELFLD label="">M1609</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Secrétariat et assistance</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1609</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Secrétariat et assistanat médical ou médico-social</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100289">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16913" csRelFld="16913">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16913</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100289</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>50 % de relationnel</inter>
+<p>Que ce soit au téléphone pour une demande de rendez-vous ou au cabinet lors d'une consultation, la secrétaire médicale est le premier interlocuteur du patient. Elle filtre les demandes, oriente en cas d'urgence, accueille en salle d'attente ou en service hospitalier. Toujours avec le souci de mettre en confiance. Elle répond à l'angoisse ou à l'impatience en restant compréhensive.</p>
+<inter>Du dictaphone aux archives</inter>
+<p>Rompue à la frappe sous dictaphone et à la saisie informatique rapide, la secrétaire médicale prépare au quotidien les comptes rendus des consultations, des examens ou des interventions chirurgicales. Elle tient à jour les dossiers médicaux, les classe et les archive. La gestion courante du cabinet médical est aussi de son ressort (plannings, factures, comptabilité courante, commandes de fournitures et de matériels).</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18454" csRelFld="18454">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18454</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100289</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<titre>Des formations en un an</titre>
+<liste>
+<tete>
+<accr_p>Il n'existe pas de diplôme d'État propre à la profession.</accr_p> Par contre, certains établissements proposent des formations spécifiques :</tete>
+<itsimp>Six écoles de la Croix-Rouge (Aix-en-Provence, Besançon, Bordeaux, Montpellier, Moulins, Nancy) organisent une préparation au certificat de secrétaire médico-sociale de la Croix-Rouge. La formation dure une année, incluant des stages. Elle s'adresse aux bacheliers, mais aussi aux diplômés de niveau brevet, CAP qui ont 3 ans d'expérience dans le secteur médico-social ou 5 ans d'expérience dans un autre domaine.</itsimp>
+<itsimp>Des lycées publics et privés proposent des formations sur une année.</itsimp>
+<itsimp>Le CNED organise une formation à distance sur une année (avec un stage), qui prépare notamment aux concours de la fonction publique hospitalière.</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18983" csRelFld="18983">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18983</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100289</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Le tiers à l'hôpital</inter>
+<p>On dénombre environ 50 000 secrétaires médicales dont un tiers exercent dans le secteur public hospitalier. Le métier s'implante dans les établissements sociaux. Cependant, le développement des cabinets de groupe et des centrales de secrétariat téléphonique ne joue pas en faveur de la profession. Trouver un premier emploi n'est pas toujours facile, les diplômés subissant la concurrence de personnes expérimentées.</p>
+<inter>Différents concours</inter>
+<p>Dans la fonction publique hospitalière, deux concours sont ouverts aux bacheliers : secrétaire médical et adjoint des cadres hospitaliers. Avec la possibilité d'évoluer comme attaché par concours interne. Dans la fonction publique territoriale, la spécialité secteur sanitaire et social du concours de rédacteur (niveau bac) conduit à des postes de secrétaire médico-sociale.</p>
+<p>La fonction de technicien de l'information médicale, préparée dans le cadre de diplômes d'université, est une évolution possible. Elle consiste à gérer l'information médicale d'un établissement de santé.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>A partir du <sal>Smic</sal> et jusqu'à 1600 euros brut/mois. </p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

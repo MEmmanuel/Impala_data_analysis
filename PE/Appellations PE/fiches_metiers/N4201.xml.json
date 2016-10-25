@@ -1,0 +1,504 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Chef d'agence transport routier de marchandises",
+            "priorisation": "1",
+            "libelle": "Chef d'agence transport routier de marchandises",
+            "code_ogr": "12026"
+        },
+        {
+            "libelle_court": "Chef de service d\u00e9m\u00e9nagement",
+            "priorisation": "1",
+            "libelle": "Chef de service d\u00e9m\u00e9nagement",
+            "code_ogr": "12348"
+        },
+        {
+            "libelle_court": "Directeur(trice) d'exploitation transp routier marchandises",
+            "priorisation": "1",
+            "libelle": "Directeur / Directrice d'exploitation transport routier de marchandises",
+            "code_ogr": "14412"
+        },
+        {
+            "libelle_court": "Responsable d'agence messagerie",
+            "priorisation": "1",
+            "libelle": "Responsable d'agence messagerie",
+            "code_ogr": "18619"
+        },
+        {
+            "libelle_court": "Responsable d'agence transport routier de marchandises",
+            "priorisation": "1",
+            "libelle": "Responsable d'agence transport routier de marchandises",
+            "code_ogr": "18620"
+        },
+        {
+            "libelle_court": "Responsable d'exploitation de transports multimodaux",
+            "priorisation": "1",
+            "libelle": "Responsable d'exploitation de transports multimodaux",
+            "code_ogr": "18986"
+        },
+        {
+            "libelle_court": "Responsable d'exploitation messagerie",
+            "priorisation": "1",
+            "libelle": "Responsable d'exploitation messagerie",
+            "code_ogr": "18990"
+        },
+        {
+            "libelle_court": "Responsable d'exploitation transport routier de marchandises",
+            "priorisation": "1",
+            "libelle": "Responsable d'exploitation transport routier de marchandises",
+            "code_ogr": "18994"
+        },
+        {
+            "libelle_court": "Responsable gestionnaire d'unit\u00e9 transp routier marchandises",
+            "priorisation": "1",
+            "libelle": "Responsable gestionnaire d'unit\u00e9s de transport routier de marchandises",
+            "code_ogr": "19098"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Superviser les plannings du service ou de l'exploitation \u00e0 partir des carnets de commande",
+            "code_ogr": "3294",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Organiser et contr\u00f4ler l'activit\u00e9 de tout ou partie des \u00e9quipes (techniciens d'exploitation, conducteurs, ...) selon les priorit\u00e9s et les al\u00e9as",
+            "code_ogr": "2435",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir les modalit\u00e9s de prestation et les conditions de r\u00e9alisation de transport avec la client\u00e8le ou les prestataires",
+            "code_ogr": "1884",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Organiser et coordonner le circuit des informations sur le fonctionnement du service ou de la structure (notes de service, r\u00e9unions, ...)",
+            "code_ogr": "2440",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et analyser les donn\u00e9es d'activit\u00e9 du service ou de la structure et proposer des axes d'\u00e9volution",
+            "code_ogr": "3608",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir et suivre les \u00e9l\u00e9ments du budget du service ou de l'exploitation (achats, facturation, charges, ...)",
+            "code_ogr": "1842",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Superviser la gestion administrative du personnel",
+            "code_ogr": "3619",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier et mettre en place des actions de gestion de ressources humaines",
+            "code_ogr": "3560",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "8",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1407",
+            "libelle_rome_cible": "Relation technico-commerciale"
+        },
+        {
+            "code_rome_cible": "I1103",
+            "libelle_rome_cible": "Supervision d'entretien et gestion de v\u00e9hicules"
+        },
+        {
+            "code_rome_cible": "M1101",
+            "libelle_rome_cible": "Achats"
+        },
+        {
+            "code_rome_cible": "M1302",
+            "libelle_rome_cible": "Direction de petite ou moyenne entreprise"
+        },
+        {
+            "code_rome_cible": "N4202",
+            "libelle_rome_cible": "Direction d'exploitation des transports routiers de personnes"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible \u00e0 partir d'un dipl\u00f4me de niveau Bac+2 (BTS, DUT, ...) en transport, logistique, commerce et gestion compl\u00e9t\u00e9 par une exp\u00e9rience professionnelle dans le transport.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle de plusieurs ann\u00e9es dans le transport sans dipl\u00f4me particulier.\nL'Attestation de Capacit\u00e9 Professionnelle de Transport de Marchandises peut \u00eatre requise.\nLa pratique d'une langue \u00e9trang\u00e8re, en particulier l'anglais, peut \u00eatre exig\u00e9e.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Coordonner des op\u00e9rations de transport/logistique :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Convoi exceptionnel",
+            "code_ogr": "4291",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9m\u00e9nagement",
+            "code_ogr": "4292",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Entreposage",
+            "code_ogr": "4293",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Produits dangereux",
+            "code_ogr": "4294",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "4",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Produits p\u00e9rissables",
+            "code_ogr": "4295",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "5",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Transport multimodal",
+            "code_ogr": "4296",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "6",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Diriger une entreprise de transport n\u00e9cessitant une attestation de capacit\u00e9 :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Transport marchandises moins de 3,5t",
+            "code_ogr": "4755",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Transport marchandises plus de 3,5t",
+            "code_ogr": "4756",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9m\u00e9nagement",
+            "code_ogr": "4753",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener des op\u00e9rations de transport en relation avec une client\u00e8le internationale",
+            "code_ogr": "7420",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9finir ou participer \u00e0 la d\u00e9finition de la strat\u00e9gie commerciale et \u00e0 sa d\u00e9clinaison",
+            "code_ogr": "4557",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Traiter des dossiers particuliers (litiges, ...)",
+            "code_ogr": "9987",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Prospecter de nouveaux clients, n\u00e9gocier et contractualiser des prestations (r\u00e9ponse \u00e0 appel d'offres, devis, ...)",
+            "code_ogr": "8204",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises de messagerie, de transport routier de marchandises, dans les services transport d'entreprises, en contact avec de multiples intervenants (clients, fournisseurs, administrations, instances portuaires, a\u00e9riennes, ...). Elle peut impliquer des d\u00e9placements au sein du site d'exploitation (quai, zone de fret, parc de v\u00e9hicules, autres services de l'entreprise, ...).\nElle varie selon le mode d'organisation (groupe, r\u00e9seau, ind\u00e9pendant, ...) et le type de trafic (r\u00e9gional, national, international).\nElle peut s'exercer les fins de semaine, jours f\u00e9ri\u00e9s ou de nuit.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils de planification",
+            "code_ogr": "21471",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciel professionnel d'exploitation de transport routier",
+            "code_ogr": "21243",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de navigation (GPS, VHF, radar, ...)",
+            "code_ogr": "21329",
+            "position_item": "3",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Commissionnaire de transport",
+            "code_ogr": "23811",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de d\u00e9m\u00e9nagement",
+            "code_ogr": "23873",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de messagerie/fret express",
+            "code_ogr": "23884",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de transport",
+            "code_ogr": "23888",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de transport exceptionnel",
+            "code_ogr": "23890",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de transport multi-modal (fret maritime, fluvial, ferroviaire, ...)",
+            "code_ogr": "23897",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise publique/\u00e9tablissement public",
+            "code_ogr": "23912",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation du transport de marchandises",
+            "code_ogr": "22563",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisation de la cha\u00eene de transport national et international",
+            "code_ogr": "22248",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation du transport de mati\u00e8res et produits dangereux",
+            "code_ogr": "22564",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestion comptable et administrative",
+            "code_ogr": "21995",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "L\u00e9gislation sociale",
+            "code_ogr": "22086",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestion des Ressources Humaines",
+            "code_ogr": "22000",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestion budg\u00e9taire",
+            "code_ogr": "21994",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques commerciales",
+            "code_ogr": "23012",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation du transport en convoi exceptionnel",
+            "code_ogr": "22566",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modalit\u00e9s de traitement de litiges",
+            "code_ogr": "22180",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de chiffrage tarifaire",
+            "code_ogr": "22830",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'appel d'offres",
+            "code_ogr": "22381",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nSupervise et coordonne l'activit\u00e9 d'un site ou d'un service d'exploitation de transport routier de marchandises, dans ses dimensions techniques, commerciales, sociales et financi\u00e8res, selon la r\u00e9glementation du transport routier, les r\u00e8gles de s\u00e9curit\u00e9 et dans un objectif de qualit\u00e9 (service, co\u00fbt, d\u00e9lais).\nDirige tout ou partie des \u00e9quipes d'un site d'exploitation (techniciens exploitants, conducteurs, personnel administratif et commercial, ...).\n",
+    "intitule": "Direction d'exploitation des transports routiers de marchandises",
+    "code_ogr": "528",
+    "code_rome": "N4201",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        },
+        {
+            "code_rome_cible": "M1402",
+            "libelle_rome_cible": "Conseil en organisation et management d'entreprise"
+        },
+        {
+            "code_rome_cible": "M1503",
+            "libelle_rome_cible": "Management des ressources humaines"
+        },
+        {
+            "code_rome_cible": "N1302",
+            "libelle_rome_cible": "Direction de site logistique"
+        },
+        {
+            "code_rome_cible": "N3201",
+            "libelle_rome_cible": "Exploitation des op\u00e9rations portuaires et du transport maritime"
+        },
+        {
+            "code_rome_cible": "N3202",
+            "libelle_rome_cible": "Exploitation du transport fluvial"
+        }
+    ]
+}

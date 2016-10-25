@@ -1,0 +1,351 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Ambulancier / Ambulanci\u00e8re",
+            "priorisation": "1",
+            "libelle": "Ambulancier / Ambulanci\u00e8re",
+            "code_ogr": "10927"
+        },
+        {
+            "libelle_court": "Ambulancier / Ambulanci\u00e8re urgentiste",
+            "priorisation": "1",
+            "libelle": "Ambulancier / Ambulanci\u00e8re urgentiste",
+            "code_ogr": "10929"
+        },
+        {
+            "libelle_court": "Ambulancier hospitalier / Ambulanci\u00e8re hospitali\u00e8re",
+            "priorisation": "1",
+            "libelle": "Ambulancier hospitalier / Ambulanci\u00e8re hospitali\u00e8re",
+            "code_ogr": "10928"
+        },
+        {
+            "libelle_court": "Auxiliaire ambulancier / ambulanci\u00e8re",
+            "priorisation": "1",
+            "libelle": "Auxiliaire ambulancier / ambulanci\u00e8re",
+            "code_ogr": "38052"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de V\u00e9hicule Sanitaire",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de V\u00e9hicule Sanitaire",
+            "code_ogr": "13229"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de V\u00e9hicule Sanitaire L\u00e9ger -VSL-",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de V\u00e9hicule Sanitaire L\u00e9ger -VSL-",
+            "code_ogr": "13230"
+        },
+        {
+            "libelle_court": "Conducteur ambulancier / Conductrice ambulanci\u00e8re",
+            "priorisation": "1",
+            "libelle": "Conducteur ambulancier / Conductrice ambulanci\u00e8re",
+            "code_ogr": "12853"
+        },
+        {
+            "libelle_court": "Conducteur(trice) ambulancier(\u00e8re) de services d'urgence",
+            "priorisation": "1",
+            "libelle": "Conducteur ambulancier / Conductrice ambulanci\u00e8re de services d'urgence",
+            "code_ogr": "12854"
+        },
+        {
+            "libelle_court": "Conducteur(trice) ambulancier(\u00e8re) hospitalier(\u00e8re)",
+            "priorisation": "1",
+            "libelle": "Conducteur ambulancier hospitalier / Conductrice ambulanci\u00e8re hospitali\u00e8re",
+            "code_ogr": "12855"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "V\u00e9rifier le fonctionnement des \u00e9quipements du v\u00e9hicule sanitaire, rep\u00e9rer les dysfonctionnements et informer le responsable, le m\u00e9canicien",
+            "code_ogr": "3449",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Installer le patient dans le v\u00e9hicule sanitaire selon la pr\u00e9conisation m\u00e9dicale, et lui apporter une assistance",
+            "code_ogr": "2600",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les d\u00e9marches m\u00e9dico administratives pour le patient et proc\u00e9der aux op\u00e9rations de facturation, et d'encaissement de la prestation",
+            "code_ogr": "1621",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports de suivi d'activit\u00e9 et transmettre les informations au service concern\u00e9",
+            "code_ogr": "3600",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks de produits, identifier les besoins en approvisionnement et transmettre la commande \u00e0 l'interlocuteur concern\u00e9",
+            "code_ogr": "3616",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer, d\u00e9sinfecter, ranger la cellule sanitaire et proc\u00e9der au tri des d\u00e9chets",
+            "code_ogr": "2690",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "J1301",
+            "libelle_rome_cible": "Personnel polyvalent des services hospitaliers"
+        },
+        {
+            "code_rome_cible": "J1303",
+            "libelle_rome_cible": "Assistance m\u00e9dico-technique"
+        },
+        {
+            "code_rome_cible": "K1705",
+            "libelle_rome_cible": "S\u00e9curit\u00e9 civile et secours"
+        },
+        {
+            "code_rome_cible": "N4102",
+            "libelle_rome_cible": "Conduite de transport de particuliers"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec le dipl\u00f4me d'Etat d'Ambulancier pour la conduite d'ambulance.\nLe permis B d'au moins 2 ans, compl\u00e9t\u00e9 par une autorisation pr\u00e9fectorale d'aptitude \u00e0 la conduite d'ambulance sont obligatoires.\nLes permis C, C1, D, D1 (pr\u00e9c\u00e9demment C ou D) compl\u00e9t\u00e9s par une formation sp\u00e9cifique sont requis pour la conduite de v\u00e9hicules de type fourgon (Unit\u00e9s Mobiles Hospitali\u00e8res).\nUne attestation de formation est requise pour le poste d'auxiliaire ambulancier.\nDes vaccinations pr\u00e9vues par le Code de Sant\u00e9 Publique sont exig\u00e9es.\nL'agr\u00e9ment de la Direction D\u00e9partementale des Affaires Sanitaires et Sociales -DDASS- est obligatoire pour exercer en tant qu'artisan.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Intervenir \u00e0 bord d'un v\u00e9hicule sanitaire :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9hicule de cat\u00e9gorie A : ambulance de secours et de soins d'urgence (ASSU)",
+            "code_ogr": "6273",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9hicule de cat\u00e9gorie B : v\u00e9hicule de secours et d'assistance aux victimes (VSAV)",
+            "code_ogr": "6274",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9hicule de cat\u00e9gorie C : ambulance",
+            "code_ogr": "6275",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9hicule de cat\u00e9gorie D (v\u00e9hicule sanitaire l\u00e9ger -VSL- destin\u00e9 au transport en position assise)",
+            "code_ogr": "6276",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer le mat\u00e9riel m\u00e9dico-technique et apporter une assistance technique (positionnement, immobilisation, ventilation, ...) \u00e0 l'\u00e9quipe m\u00e9dicale pour un transport d'urgence",
+            "code_ogr": "7981",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien de premier niveau et le nettoyage du v\u00e9hicule",
+            "code_ogr": "3545",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener les actions de gestion de ressources humaines (recrutement, formation, ...)",
+            "code_ogr": "3563",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises de transport sanitaire, d'\u00e9tablissements de soins (h\u00f4pital, clinique, ...), de services sp\u00e9cialis\u00e9s d'urgence, ... en contact avec les patients et en relation avec diff\u00e9rents intervenants (m\u00e9decins, infirmiers, pompiers, ...).\nElle peut s'exercer les fins de semaine, jours f\u00e9ri\u00e9s, de nuit et \u00eatre soumise \u00e0 des astreintes ou des gardes.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de navigation (GPS, VHF, radar, ...)",
+            "code_ogr": "21329",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de transport sanitaire",
+            "code_ogr": "23899",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement m\u00e9dical (h\u00f4pital, clinique, ...)",
+            "code_ogr": "23922",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisation humanitaire",
+            "code_ogr": "24014",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Service sp\u00e9cialis\u00e9 d'urgence m\u00e9dicale",
+            "code_ogr": "24069",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de contr\u00f4le de mat\u00e9riel et d'\u00e9quipements m\u00e9dico-techniques",
+            "code_ogr": "22390",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de manutention de patients",
+            "code_ogr": "22960",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Terminologie m\u00e9dicale",
+            "code_ogr": "23279",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes d'urgence et de secours",
+            "code_ogr": "21991",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Grille de codification S\u00e9curit\u00e9 Sociale",
+            "code_ogr": "22012",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de gestion de stocks",
+            "code_ogr": "22609",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et d'asepsie",
+            "code_ogr": "22646",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de nettoyage et de d\u00e9sinfection",
+            "code_ogr": "22418",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation de l'aide m\u00e9dicale d'urgence",
+            "code_ogr": "22537",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9canique automobile",
+            "code_ogr": "21881",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "L\u00e9gislation sociale",
+            "code_ogr": "22086",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise le transport sanitaire ou l'accompagnement de personnes (patients, personnes bless\u00e9es ou accident\u00e9es, ...) vers les structures de soins selon les r\u00e8gles d'hygi\u00e8ne, de confort et de s\u00e9curit\u00e9.\nPeut transporter des personnes en conditions d'urgence et pratiquer les gestes de secours (massages cardiaques, respiratoires, ...).\nPeut accomplir des op\u00e9rations ou missions annexes (formalit\u00e9s administratives, transport group\u00e9 de public sp\u00e9cifique, missions d'assistance humanitaire, ...).\nPeut coordonner une \u00e9quipe ou diriger une structure.\n",
+    "intitule": "Conduite de v\u00e9hicules sanitaires",
+    "code_ogr": "342",
+    "code_rome": "J1305",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "J1304",
+            "libelle_rome_cible": "Aide en pu\u00e9riculture"
+        },
+        {
+            "code_rome_cible": "J1501",
+            "libelle_rome_cible": "Soins d'hygi\u00e8ne, de confort du patient"
+        },
+        {
+            "code_rome_cible": "N4204",
+            "libelle_rome_cible": "Intervention technique d'exploitation des transports routiers de personnes"
+        }
+    ]
+}

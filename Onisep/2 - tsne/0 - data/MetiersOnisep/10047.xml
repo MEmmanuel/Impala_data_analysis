@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">responsable des ressources humaines</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe/décider</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction gestion des ressources humaines/fonction direction</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur ressources humaines</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">direction des ressources humaines/gestion des ressources humaines</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé/directeur des ressources humaines</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10047</lien_onisep>
+<ROME Level="1B" csRelFld="10047">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10047">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1597" csRelFld="1597">
+<CSLABELFLD label="">directeur / directrice des ressources humaines (DRH)</CSLABELFLD>
+<MET_ID label="Identifiant">10047</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1597</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">directeur/trice des ressources humaines (DRH)</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1597">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18876" csRelFld="18876">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18876</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10047</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Un stratège</inter>
+<p>Fini le temps des chefs du personnel autoritaires. Aujourd'hui, le responsable RH est chargé de mettre en musique la stratégie définie au siège de l'entreprise en matière de gestion du personnel et de développement des effectifs. </p>
+<inter>Sur tous les fronts </inter>
+<p>Le responsable RH veille au respect des obligations légales en appliquant la réglementation relative au droit du travail et cherche à améliorer les conditions et l'organisation du travail. Il conçoit et organise des actions de communication interne, supervise la gestion de la paie, entretient des relations avec les partenaires sociaux (délégués du personnel, comité d'entreprise). </p>
+<inter>Développer les compétences</inter>
+<p>Dans un contexte de compétition accrue entre les entreprises, il doit aussi veiller au développement des compétences des salariés par l'évaluation, la formation et l'évolution de carrières. Le responsable RH accompagne tous les grands chantiers conduits par ses équipes, en leur apportant les outils et les appuis méthodologiques.</p>
+<p>C'est un manager doublé d'un professionnel de terrain, partagé entre les entretiens, la gestion des dossiers administratifs et les réunions avec ses collaborateurs et les partenaires sociaux.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18875" csRelFld="18875">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18875</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10047</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<titre>À la croisée des formations</titre>
+<p>
+<accr_p>De nombreuses filières mènent au métier de responsable RH touchant à la fois au droit social, à la gestion et à l'économie, à la psychologie... De plus en plus, on exige un diplôme de niveau bac + 5, indispensable à un poste aussi stratégique.</accr_p> Mais le diplôme suffit rarement. Rappelons qu'une expérience à un poste d'assistant ou de chargé de recrutement est en général exigée.</p>
+<liste>
+<itsimp>De nombreux masters en ressources humaines sont accessibles après une licence en droit ou en psychologie, ou encore après un IEP (sciences politiques). Citons par exemple le master du CIFFOP de Paris 2 ou celui de Lille 1. Mais attention : ces diplômes, très sélectifs, recherchent des candidats motivés, capables de mener une amorce de réflexion sur des problèmes de ressources humaines. Le fait d'avoir auparavant effectué un stage en entreprise est incontournable, encore faut-il y avoir abordé certains aspects de la fonction. </itsimp>
+<itsimp>Les écoles de commerce, elles aussi, préparent à la fonction d'assistant. Certaines comme Audencia à Nantes proposent des spécialisations en ressources humaines en 3e année. Un profil recherché, surtout si la formation commerciale fait suite à une licence en droit.</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17476" csRelFld="17476">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17476</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10047</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Une fonction qui a la cote</inter>
+<p>D'un côté, les plans sociaux se multiplient, de l'autre, les entreprises misent gros sur la gestion prévisionnelle des compétences. Autant de facteurs contribuant à revaloriser la fonction ressources humaines après le déclin des années 90. Dans les entreprises, ces professionnels représentent environ 2 % des effectifs, soit une population de 40 000 personnes environ.</p>
+<inter>Pas sans expérience</inter>
+<p>Dans les équipes de ressources humaines, il n'y a qu'un seul responsable, d'où des effectifs peu nombreux. On accède rarement à ce poste sans expérience préalable. En général, les jeunes diplômés débutent en tant qu'assistants ou chargés de recrutement. Certains d'ailleurs sont d'anciens chefs de service opérationnels. </p>
+<inter>Coacher les cadres dirigeants</inter>
+<p>Après de nombreuses années d'expérience, certains responsables RH choisissent de travailler au sein d'un cabinet, éventuellement en libéral, en devenant consultants en ressources humaines, voire coaches, un métier très en vogue visant à développer le potentiel et le savoir-faire des cadres dirigeants.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p/>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

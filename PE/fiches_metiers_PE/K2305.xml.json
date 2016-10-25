@@ -1,0 +1,475 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente de d\u00e9sinsectisation",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de d\u00e9sinsectisation",
+            "code_ogr": "10436"
+        },
+        {
+            "libelle_court": "Agent / Agente de destruction d'insectes",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de destruction d'insectes",
+            "code_ogr": "10438"
+        },
+        {
+            "libelle_court": "Agent / Agente de mise en fourri\u00e8re animale",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de mise en fourri\u00e8re animale",
+            "code_ogr": "10529"
+        },
+        {
+            "libelle_court": "Applicateur / Applicatrice hygi\u00e9niste",
+            "priorisation": "1",
+            "libelle": "Applicateur / Applicatrice hygi\u00e9niste",
+            "code_ogr": "11091"
+        },
+        {
+            "libelle_court": "Applicateur d\u00e9sinfecteur / Applicatrice d\u00e9sinfectrice",
+            "priorisation": "1",
+            "libelle": "Applicateur d\u00e9sinfecteur / Applicatrice d\u00e9sinfectrice",
+            "code_ogr": "11086"
+        },
+        {
+            "libelle_court": "Capteur / Capteuse d'animaux errants",
+            "priorisation": "1",
+            "libelle": "Capteur / Capteuse d'animaux errants",
+            "code_ogr": "11674"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe hygi\u00e9niste",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe hygi\u00e9niste",
+            "code_ogr": "12476"
+        },
+        {
+            "libelle_court": "D\u00e9ratiseur / D\u00e9ratiseuse",
+            "priorisation": "1",
+            "libelle": "D\u00e9ratiseur / D\u00e9ratiseuse",
+            "code_ogr": "13984"
+        },
+        {
+            "libelle_court": "D\u00e9sinfecteur / D\u00e9sinfectrice de b\u00e2timents",
+            "priorisation": "1",
+            "libelle": "D\u00e9sinfecteur / D\u00e9sinfectrice de b\u00e2timents",
+            "code_ogr": "14009"
+        },
+        {
+            "libelle_court": "D\u00e9sinsectisateur / D\u00e9sinsectisatrice",
+            "priorisation": "1",
+            "libelle": "D\u00e9sinsectisateur / D\u00e9sinsectisatrice",
+            "code_ogr": "14010"
+        },
+        {
+            "libelle_court": "Inspecteur / Inspectrice technique hygi\u00e9niste",
+            "priorisation": "1",
+            "libelle": "Inspecteur / Inspectrice technique hygi\u00e9niste",
+            "code_ogr": "15995"
+        },
+        {
+            "libelle_court": "Nettoyeur / Nettoyeuse de vide-ordures",
+            "priorisation": "1",
+            "libelle": "Nettoyeur / Nettoyeuse de vide-ordures",
+            "code_ogr": "16978"
+        },
+        {
+            "libelle_court": "Taupier / Taupi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Taupier / Taupi\u00e8re",
+            "code_ogr": "19643"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne de d\u00e9ratisation",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de d\u00e9ratisation",
+            "code_ogr": "19747"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne de d\u00e9sinfection",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de d\u00e9sinfection",
+            "code_ogr": "19748"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne hygi\u00e9niste",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne hygi\u00e9niste",
+            "code_ogr": "20166"
+        },
+        {
+            "libelle_court": "Technicien(ne) applicateur(trice) traitement des charpentes",
+            "priorisation": "1",
+            "libelle": "Technicien applicateur / Technicienne applicatrice en traitement des charpentes",
+            "code_ogr": "19655"
+        },
+        {
+            "libelle_court": "Technicien applicateur/Technicienne applicatrice hygi\u00e9niste",
+            "priorisation": "1",
+            "libelle": "Technicien applicateur / Technicienne applicatrice hygi\u00e9niste",
+            "code_ogr": "19656"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Pr\u00e9parer le mat\u00e9riel, l'\u00e9quipement et s\u00e9curiser le p\u00e9rim\u00e8tre d'intervention",
+            "code_ogr": "2601",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Rep\u00e9rer la pr\u00e9sence d'esp\u00e8ces nuisibles et constater la nature et l'\u00e9tendue des d\u00e9g\u00e2ts",
+            "code_ogr": "2232",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Diagnostiquer le type d'infestation et d\u00e9terminer le mode de traitement (d\u00e9sinfection, d\u00e9sinsectisation, d\u00e9ratisation, fumigation, ...)",
+            "code_ogr": "1461",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9poser des app\u00e2ts, des pi\u00e8ges ou des produits sur les lieux d'infestation",
+            "code_ogr": "1355",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der \u00e0 la d\u00e9sinfection des surfaces, locaux, lieux insalubres par pulv\u00e9risation ou n\u00e9bulisation",
+            "code_ogr": "3584",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports de suivi d'intervention ou informer des d\u00e9g\u00e2ts, infections, d\u00e9gradations constat\u00e9s",
+            "code_ogr": "3064",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "K2303",
+            "libelle_rome_cible": "Nettoyage des espaces urbains"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un CAP/BEP en hygi\u00e8ne et environnement.\nDes habilitations sp\u00e9cifiques (\u00e9lectrique, chimique, ...) peuvent \u00eatre requises.\nUn ou plusieurs Certificats d'Aptitude \u00e0 la Conduite en S\u00e9curit\u00e9 -CACES- conditionn\u00e9(s) par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement peu(ven)t \u00eatre exig\u00e9(s).\nDes vaccinations sp\u00e9cifiques (leptospirose, ...) sont requises.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser des interventions :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9pigeonnisation",
+            "code_ogr": "8503",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9ratisation",
+            "code_ogr": "8504",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9sinsectisation, destruction de nid de gu\u00eapes, frelons",
+            "code_ogr": "8505",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Traitement de l'humidit\u00e9 (mousses, moisissures, champignons, ...)",
+            "code_ogr": "8508",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Traitement des xylophages (vrillettes, termites, ...)",
+            "code_ogr": "8509",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des interventions n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation \u00e9lectrique, travaux hors tension (B0, B0V, B1 B1V, H0, ...)",
+            "code_ogr": "8481",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitations risques chimiques, biologiques",
+            "code_ogr": "8487",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 386 (Plates-formes \u00e9l\u00e9vatrices mobiles de personnes)",
+            "code_ogr": "10120",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer des colonnes s\u00e8ches, gaines et locaux de vide-ordures (d\u00e9bouchage, nettoyage, d\u00e9sinfection, ...)",
+            "code_ogr": "7637",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la capture d'animaux errants ou dangereux et leur mise en fourri\u00e8re",
+            "code_ogr": "5116",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Informer les clients sur des traitements et des r\u00e8gles sanitaires",
+            "code_ogr": "6167",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la conformit\u00e9 de r\u00e9alisations de fournisseurs, sous-traitants, prestataires",
+            "code_ogr": "3513",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Former des personnels aux techniques de d\u00e9sinfection, de d\u00e9sinsectisation, de d\u00e9ratisation et aux r\u00e8gles de s\u00e9curit\u00e9",
+            "code_ogr": "6033",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de soci\u00e9t\u00e9s de services, de collectivit\u00e9s territoriales en contact avec les clients.\nElle varie selon le type d'intervention (d\u00e9ratisation, d\u00e9pigeonnisation, capture d'animaux errants, ...) et les m\u00e9thodes de traitement.\nElle peut s'exercer les fins de semaine.\nElle peut s'effectuer en hauteur et impliquer le port de charges.\nLe port d'\u00e9quipements de protection (combinaison, masque, gants, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan",
+            "code_ogr": "20946",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de nettoyage",
+            "code_ogr": "21330",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services d'assainissement",
+            "code_ogr": "24094",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Agriculture",
+            "code_ogr": "23394",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent industriel",
+            "code_ogr": "23417",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent second oeuvre",
+            "code_ogr": "23418",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent tertiaire",
+            "code_ogr": "23419",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9seau d'assainissement",
+            "code_ogr": "23618",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation sanitaire",
+            "code_ogr": "22579",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de propret\u00e9",
+            "code_ogr": "22647",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9",
+            "code_ogr": "22621",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Types de traitements de nuisibles",
+            "code_ogr": "23339",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pathologies v\u00e9g\u00e9tales",
+            "code_ogr": "22280",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Bact\u00e9riologie",
+            "code_ogr": "21523",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques cynophiles",
+            "code_ogr": "22758",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nElimine ou limite la propagation d'esp\u00e8ces nuisibles (insectes, rongeurs, ...) par capture (pi\u00e8ges, ...) ou destruction (traitements chimiques, ...) et r\u00e9alise les traitements de salubrit\u00e9 et de d\u00e9sinfection de locaux et de colonnes, selon les r\u00e8gles de s\u00e9curit\u00e9 et la r\u00e9glementation sanitaire.\nPeut r\u00e9aliser la capture d'animaux errants.\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "Salubrit\u00e9 et traitement de nuisibles",
+    "code_ogr": "424",
+    "code_rome": "K2305",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1402",
+            "libelle_rome_cible": "Relation commerciale grands comptes et entreprises"
+        },
+        {
+            "code_rome_cible": "F1103",
+            "libelle_rome_cible": "Contr\u00f4le et diagnostic technique du b\u00e2timent"
+        },
+        {
+            "code_rome_cible": "H1303",
+            "libelle_rome_cible": "Intervention technique en Hygi\u00e8ne S\u00e9curit\u00e9 Environnement -HSE- industriel"
+        },
+        {
+            "code_rome_cible": "K2301",
+            "libelle_rome_cible": "Distribution et assainissement d'eau"
+        },
+        {
+            "code_rome_cible": "K2306",
+            "libelle_rome_cible": "Supervision d'exploitation \u00e9co-industrielle"
+        }
+    ]
+}

@@ -1,0 +1,621 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Bourrelier-matelassier / Bourreli\u00e8re-matelassi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Bourrelier-matelassier / Bourreli\u00e8re-matelassi\u00e8re",
+            "code_ogr": "11579"
+        },
+        {
+            "libelle_court": "Couturier / Couturi\u00e8re d'ameublement",
+            "priorisation": "1",
+            "libelle": "Couturier / Couturi\u00e8re d'ameublement",
+            "code_ogr": "13813"
+        },
+        {
+            "libelle_court": "Couturier tapissier / Couturi\u00e8re tapissi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Couturier tapissier / Couturi\u00e8re tapissi\u00e8re",
+            "code_ogr": "13821"
+        },
+        {
+            "libelle_court": "Litier / Liti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Litier / Liti\u00e8re",
+            "code_ogr": "16202"
+        },
+        {
+            "libelle_court": "Matelassier / Matelassi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Matelassier / Matelassi\u00e8re",
+            "code_ogr": "16424"
+        },
+        {
+            "libelle_court": "Tapissier / Tapissi\u00e8re d'ameublement",
+            "priorisation": "1",
+            "libelle": "Tapissier / Tapissi\u00e8re d'ameublement",
+            "code_ogr": "19632"
+        },
+        {
+            "libelle_court": "Tapissier / Tapissi\u00e8re en si\u00e8ges",
+            "priorisation": "1",
+            "libelle": "Tapissier / Tapissi\u00e8re en si\u00e8ges",
+            "code_ogr": "19633"
+        },
+        {
+            "libelle_court": "Tapissier-d\u00e9corateur / Tapissi\u00e8re-d\u00e9coratrice",
+            "priorisation": "1",
+            "libelle": "Tapissier-d\u00e9corateur / Tapissi\u00e8re-d\u00e9coratrice",
+            "code_ogr": "19636"
+        },
+        {
+            "libelle_court": "Tapissier-ensemblier / Tapissi\u00e8re-ensembli\u00e8re",
+            "priorisation": "1",
+            "libelle": "Tapissier-ensemblier / Tapissi\u00e8re-ensembli\u00e8re",
+            "code_ogr": "19637"
+        },
+        {
+            "libelle_court": "Tapissier-garnisseur / Tapissi\u00e8re-garnisseuse",
+            "priorisation": "1",
+            "libelle": "Tapissier-garnisseur / Tapissi\u00e8re-garnisseuse",
+            "code_ogr": "19638"
+        },
+        {
+            "libelle_court": "Tapissier-villier / Tapissi\u00e8re-villi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Tapissier-villier / Tapissi\u00e8re-villi\u00e8re",
+            "code_ogr": "19641"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "D\u00e9finir les conditions de r\u00e9fection ou de r\u00e9alisation de l'article (si\u00e8ge, tenture, ...) ou d'un ensemble d'ameublement selon l'\u00e9tat, le style de mobilier, le d\u00e9lai, le co\u00fbt des mat\u00e9riaux",
+            "code_ogr": "1301",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9senter les caract\u00e9ristiques des mat\u00e9riaux de rev\u00eatement (luminosit\u00e9, r\u00e9sistance, ...), de garnissage et de d\u00e9coration (embrases, ...) au client",
+            "code_ogr": "2657",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mesurer les murs, fen\u00eatres, carcasses, ... et d\u00e9terminer les quantit\u00e9s de mat\u00e9riaux et accessoires n\u00e9cessaires",
+            "code_ogr": "2303",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9garnir les si\u00e8ges, matelas, ... ou les supports muraux",
+            "code_ogr": "1336",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Positionner la toile sur l'assise ou le patron/gabarit sur le tissu, marquer les rep\u00e8res et couper \u00e0 dimension",
+            "code_ogr": "2547",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser l'enveloppe (housse de coussin, matelas, ...) ou le support de l'assise (sangles, ressorts, ...)",
+            "code_ogr": "2818",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser les op\u00e9rations de mise en volume/garnissage de l'article",
+            "code_ogr": "3589",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Recouvrir l'article ou le support mural du rev\u00eatement de d\u00e9coration et poser les \u00e9l\u00e9ments d'ornement ou de fixation",
+            "code_ogr": "2950",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "B1802",
+            "libelle_rome_cible": "R\u00e9alisation d'articles en cuir et mat\u00e9riaux souples (hors v\u00eatement)"
+        },
+        {
+            "code_rome_cible": "B1803",
+            "libelle_rome_cible": "R\u00e9alisation de v\u00eatements sur mesure ou en petite s\u00e9rie"
+        },
+        {
+            "code_rome_cible": "D1212",
+            "libelle_rome_cible": "Vente en d\u00e9coration et \u00e9quipement du foyer"
+        },
+        {
+            "code_rome_cible": "G1202",
+            "libelle_rome_cible": "Animation d'activit\u00e9s culturelles ou ludiques"
+        },
+        {
+            "code_rome_cible": "H2402",
+            "libelle_rome_cible": "Assemblage - montage de v\u00eatements et produits textiles"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac (Bac professionnel, Brevet de Compagnon, ...) en tapisserie d'ameublement, artisanat et m\u00e9tier d'art,...\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser des articles et garnitures :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coussin, nappe, d\u00e9cor de literie, ...",
+            "code_ogr": "8268",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9cor de fen\u00eatres (rideaux, voilages, stores, ...)",
+            "code_ogr": "8269",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Garniture de si\u00e8ge",
+            "code_ogr": "8270",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Matelas",
+            "code_ogr": "8271",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sellerie auto/moto/nautique",
+            "code_ogr": "8272",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sommier",
+            "code_ogr": "8273",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer les mat\u00e9riaux de garnissage (laine, mousse, ...) par des op\u00e9rations de :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cardage",
+            "code_ogr": "7988",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9poussi\u00e9rage/d\u00e9sinfection",
+            "code_ogr": "7990",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9coupe/fa\u00e7onnage de mousse",
+            "code_ogr": "7989",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer chez un client la pose de :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tringlerie",
+            "code_ogr": "4841",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Supports muraux (lattes \u00e0 tenture, ...)",
+            "code_ogr": "4840",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Plafond tendu",
+            "code_ogr": "4837",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Rev\u00eatement de sol souple (moquette, ...)",
+            "code_ogr": "4838",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Stores",
+            "code_ogr": "4839",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations de remise en \u00e9tat sur un article (f\u00fbts de si\u00e8ge, lattes de fixation murale, ...)",
+            "code_ogr": "8751",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Concevoir ou reproduire des mod\u00e8les de si\u00e8ge sur demande ou pour de nouvelles collections",
+            "code_ogr": "4032",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations de restauration/conservation sur des si\u00e8ges",
+            "code_ogr": "8764",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Transmettre les techniques du m\u00e9tier ou mener des actions de sensibilisation au m\u00e9tier",
+            "code_ogr": "10026",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations de :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9tachage",
+            "code_ogr": "8908",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Imperm\u00e9abilisation, Traitement anti-tache",
+            "code_ogr": "8909",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Repassage",
+            "code_ogr": "9277",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises artisanales, industrielles, de mus\u00e9es, en contact avec des clients et des intervenants (\u00e9b\u00e9niste, architecte d'int\u00e9rieur, ...). Elle peut impliquer des d\u00e9placements (livraisons, interventions sur site, ...).\nL'activit\u00e9 s'effectue en atelier, boutique, parfois en ext\u00e9rieur (d\u00e9poussi\u00e9rage, cardage, ...) et en hauteur (plafond tendu, toiles murales, ...).\nElle peut impliquer la manipulation de charges et le port d'\u00e9quipements de protection (blouse, masque, gants ...).\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Clouage, cloutage, rivetage",
+            "code_ogr": "20815",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Couture manuelle",
+            "code_ogr": "20832",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chiffrage/calcul de co\u00fbt",
+            "code_ogr": "20813",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Trac\u00e9 de croquis",
+            "code_ogr": "21118",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Calcul de m\u00e9trage",
+            "code_ogr": "20803",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Application de vernis",
+            "code_ogr": "20765",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise artisanale",
+            "code_ogr": "23870",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisme culturel, du patrimoine",
+            "code_ogr": "24016",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ameublement",
+            "code_ogr": "23398",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Spectacle",
+            "code_ogr": "23638",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des tissus et mati\u00e8res textiles",
+            "code_ogr": "21665",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des cuirs et peaux",
+            "code_ogr": "21569",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des mat\u00e9riaux de garnissage (laine, crin, mousse, ...)",
+            "code_ogr": "21607",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Histoire de l'art et des styles",
+            "code_ogr": "22023",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des si\u00e8ges",
+            "code_ogr": "21654",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de piq\u00fbre machine",
+            "code_ogr": "23029",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de guindage de ressorts",
+            "code_ogr": "22937",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de garnissage",
+            "code_ogr": "22917",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de capitonnage",
+            "code_ogr": "22824",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de plissage",
+            "code_ogr": "23036",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de s\u00e9curit\u00e9 sur chantier",
+            "code_ogr": "22435",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en menuiserie",
+            "code_ogr": "21885",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de restauration",
+            "code_ogr": "23102",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes de conservation pr\u00e9ventive",
+            "code_ogr": "22312",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise \u00e0 la main et \u00e0 la machine les op\u00e9rations de fabrication (garnissage, recouvrement, ...) et de r\u00e9novation d'assises de si\u00e8ges, de matelas, d'\u00e9l\u00e9ments d'ameublement (rideaux, voilages, tentures, ...) \u00e0 l'unit\u00e9 ou en petite s\u00e9rie.\nPeut remettre en \u00e9tat les carcasses de si\u00e8ges, r\u00e9aliser la pose de tentures, plafonds tendus, toiles murales, ... chez les clients.\nPeut coordonner une \u00e9quipe et diriger une structure.\n",
+    "intitule": "Tapisserie - d\u00e9coration en ameublement",
+    "code_ogr": "54",
+    "code_rome": "B1806",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "B1301",
+            "libelle_rome_cible": "D\u00e9coration d'espaces de vente et d'exposition"
+        },
+        {
+            "code_rome_cible": "D1301",
+            "libelle_rome_cible": "Management de magasin de d\u00e9tail"
+        },
+        {
+            "code_rome_cible": "D1402",
+            "libelle_rome_cible": "Relation commerciale grands comptes et entreprises"
+        },
+        {
+            "code_rome_cible": "F1102",
+            "libelle_rome_cible": "Conception - am\u00e9nagement d'espaces int\u00e9rieurs"
+        },
+        {
+            "code_rome_cible": "K1203",
+            "libelle_rome_cible": "Encadrement technique en insertion professionnelle"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ]
+}

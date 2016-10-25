@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">chef/fe de fabrication des industries graphiques</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction organisation de la production industrielle</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur imprimerie</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">impression</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques graphiques impression/chef de fabrication des industries graphiques</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10005</lien_onisep>
+<ROME Level="1B" csRelFld="10005">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="160" csRelFld="160">
+<CSLABELFLD label="">E1303</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Industries graphiques</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">E1303</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Encadrement des industries graphiques</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10005">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17820" csRelFld="17820">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17820</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10005</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Au service du client</inter>
+<p>Le chef de fabrication supervise la réalisation des imprimés d'un bout à l'autre de la chaîne. Jonglant avec les plannings, il fait le lien entre les commerciaux et les conducteurs de l'atelier, intervenant particulièrement entre le prépresse (PAO : publication assistée par ordinateur) et le façonnage. À l'écoute du client, il analyse sa demande et peut le conseiller.</p>
+<inter>Du devis au dossier de fabrication</inter>
+<p>Pour établir un devis, le chef de fabrication évalue le coût des différentes étapes de la fabrication. Il lui faut choisir à la fois la qualité et la quantité des matières premières en fonction du produit final, déterminer les moyens techniques à utiliser, et établir la durée de chaque phase de production dans les délais prévus. Il peut prévoir de recourir à un ou plusieurs sous-traitants. Une fois le devis accepté par le client, il monte le dossier de fabrication comprenant les éléments techniques indispensables à la fabrication.</p>
+<inter>Suivre la production</inter>
+<p>Pour chaque imprimé, il répartit le travail et suit sa production, s'assure que les matières premières sont disponibles et coordonne les actions des ateliers. Il vérifie que tout se déroule correctement et dans les délais. L'impression terminée, il contrôle la conformité de l'imprimé par rapport au dossier de fabrication et à la maquette initiale.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17825" csRelFld="17825">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17825</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10005</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Le BTS communication et industries graphiques est le diplôme clé du métier, formant des techniciens à la fois à la gestion d'équipe et à tous les aspects de la chaîne graphique</accr_p> .</p>
+<inter>Niveau bac</inter>
+<liste>
+<itsimp>Bac pro Réalisation de produits imprimés</itsimp>
+</liste>
+<inter>Niveau bac + 2</inter>
+<liste>
+<itsimp>BTS communication et industries graphiques, option A étude et réalisation de produits graphiques</itsimp>
+<itsimp>BTS communication et industries graphiques, option B étude et réalisation de produits imprimés</itsimp>
+</liste>
+<inter>Niveau bac + 3</inter>
+<liste>
+<itsimp>Licence pro flux numériques, édition et production d'imprimés</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17818" csRelFld="17818">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17818</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10005</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un secteur fragilisé</inter>
+<p>Depuis 2000, la production d'imprimés est en chute libre, tout comme le nombre d'entreprises et de salariés : l'Observatoire des industries graphiques compte ainsi 50 900 salariés en 2010 contre 82 800 en 2000. La plupart des entreprises sont situées en région parisienne, Rhône-Alpes, PACA, Pays de la Loire et Nord-Pas-de-Calais et ont moins de 10 salariés. Pourtant majoritaires, ces PME souffrent de la concurrence des grands groupes. Pour résister, elles choisissent souvent de se diversifier en proposant du prépresse et du conseil en communication.</p>
+<inter>Un métier en mutation</inter>
+<p>Le métier a connu de profonds bouleversements, ces dernières années : les chefs de fabrication ont dû s'adapter au développement rapide des médias numériques (Web, tablettes, smartphones) qui remplacent peu à peu les imprimés. De même, l'impression numérique tend à s'imposer dans le monde de l'imprimerie.</p>
+<inter>Une dimension multimédia</inter>
+<p>Malgré le recul de la production d'imprimés et le développement des médias numériques, ces deux types de support sont complémentaires. Le chef de fabrication prend donc peu à peu une " dimension multicanal ", c'est-à-dire qu'il gère la fabrication de produits imprimés mais également une diffusion sous format numérique, sur le Web, les tablettes, les mobiles, etc.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir de <sal>3394</sal> euros brut par mois.</p>
+<postit>
+<p>Source : Convention collective nationale du travail du personnel des imprimeries de labeur et des industries graphiques.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

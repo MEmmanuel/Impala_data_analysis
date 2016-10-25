@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">huissier/ère de justice</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">défendre, secourir, surveiller/aider, conseiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">libéral/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur juridique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">activité judiciaire</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit/huissier de justice</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10303</lien_onisep>
+<ROME Level="1B" csRelFld="10303">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10303">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17133" csRelFld="17133">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17133</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10303</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Informer les justiciables</inter>
+<p>Officier ministériel, l'huissier a le monopole de certaines activités. Il informe les personnes qu'une action de justice est engagée contre elles en leur remettant une convocation : une assignation en matière civile (divorce, par exemple) ou une citation en matière pénale. Une fois le jugement rendu, il porte à la connaissance des intéressés la décision de justice.</p>
+<inter>Exécuter les jugements</inter>
+<p>À l'exception des peines d'emprisonnement, son intervention est essentielle pour faire appliquer les jugements rendus par la justice, notamment le recouvrement des créances (factures, loyers, pensions alimentaires... restés impayés). Il recherche des solutions en proposant au débiteur un plan de remboursement. En l'absence de tout accord, et après décision de justice, l'huissier procède au recouvrement forcé des dettes : saisies (meubles, salaire...), expulsions lorsqu'il s'agit de loyers impayés...</p>
+<inter>Établir des constats</inter>
+<p>L'huissier est également compétent pour établir des constats (dégâts des eaux, malfaçons...). Ces derniers servent de preuve incontestable devant les tribunaux et permettent aux victimes d'obtenir réparation du préjudice. Autres missions possibles : l'organisation de ventes aux enchères, la validation du règlement d'un jeu, l'administration d'immeubles...</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17135" csRelFld="17135">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17135</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10303</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<em>La formation d'huissier de justice est</em>accessible aux titulaires d'un master 1 de droit (de préférence en droit privé avec une spécialisation en procédure civile et voies d'exécution), mais près de la moitié des candidats possèdent un master 2. Très concrète, la formation comprend un stage professionnel de 2 ans dans une étude d'huissier, doublé d'un enseignement assuré dans chaque région par la Chambre des huissiers. Il est vivement recommandé de suivre la préparation de l'ENP (École nationale de procédure) avant de passer l'examen final, car la sélection est rude (25 % de candidats admis).</p>
+<liste>
+<tete>Niveau bac + 4</tete>
+<itsimp>Master 1 ou 2 en droit</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17127" csRelFld="17127">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17127</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10303</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Nombre de places limité</inter>
+<p>En 2011, on comptait 3237 huissiers de justice en France (source : « Chiffres clés de la Justice »). Aujourd'hui, peu de charges sont à vendre. Environ la moitié des jeunes stagiaires parviennent à reprendre une étude ou à acheter des parts en s'associant avec d'autres confrères.</p>
+<inter>S'associer pour exercer</inter>
+<p>L'acquisition d'une étude reste très onéreuse : entre 23 000 euros (en milieu rural) et 1 500 000 euros (à Paris). De plus en plus d'huissiers préfèrent donc s'associer à d'autres confrères, au sein de SCP (sociétés civiles professionnelles).  </p>
+<inter>Des revenus très variables</inter>
+<p>Même si la profession se porte plutôt bien, les rémunérations varient beaucoup selon l'activité et la localisation de l'étude. De plus, la plupart des actes dont l'huissier a le monopole sont tarifés par l'État. La rémunération devient libre lorsque la prestation relève de l'activité hors monopole : constats, consultations, conseil juridique...</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>La rémunération varie en fonction des actes tarifés par l'État et des prestations à honoraires libres.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">éclairagiste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">me déplacer souvent/travailler à l'étranger/exercer un métier artistique ou créatif/coordonner l'activité d'une équipe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/intermittent du spectacle</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur de l'audiovisuel/secteur des arts du spectacle</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">régie-lumière</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques de la communication média/éclairagiste</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100425</lien_onisep>
+<ROME Level="1B" csRelFld="100425">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="550" csRelFld="550">
+<CSLABELFLD label="">L1504</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Techniciens du spectacle</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">L1504</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Éclairage spectacle</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100425">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="36153" csRelFld="36153">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36153</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100425</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Un concepteur au service de la scène </inter>
+<p>En tête dans la hiérarchie de la filière lumière, l'éclairagiste conçoit les éclairages d'un spectacle en fonction du projet artistique. En amont, il élabore donc un projet, puis intervient au début des répétitions et propose des jeux de lumière au metteur en scène (ou chorégraphe) à partir des volumes créés par le décorateur-scénographe. Par la direction des éclairages, il apporte une profondeur à la scène. Et, sur l'ensemble du spectacle, il permet au spectateur, par des effets successifs, de suivre le déroulement du texte, du jeu ou du concert.</p>
+<inter>Collaboration</inter>
+<p>L'éclairagiste travaille en étroite collaboration avec le régisseur lumière qui prend en charge avec l'équipe de techniciens la réalisation matérielle des effets. Il lui donne les indications pour enregistrer toutes les combinaisons d'effets lumineux voulus. Il lui confie dans la plupart des cas la conduite de la lumière durant la représentation.</p>
+<inter>Un traducteur d'intentions </inter>
+<p>Des projecteurs traditionnels aux programmations sur console (jeux d'orgues) en passant par les appareils d'optique, les sources de lumière sont très variées. L'éclairagiste doit constamment se documenter pour s'adapter rapidement aux évolutions des matériels et développer de nouvelles compétences. Si l'informatique est devenue omniprésente, rien ne l'empêche d'avoir recours à des techniques ancestrales. Par exemple, un écran de tissu pour un jeu d'ombres chinoises. Tout dépend des choix qu'il opère pour traduire l'intention du metteur en scène.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36157" csRelFld="36157">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36157</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100425</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Hier, nombre d'éclairagistes étaient des autodidactes.</accr_p> Les évolutions techniques du métier nécessitent maintenant un niveau de qualification de plus en plus élevé, et un cursus scientifique est un atout. Quelques écoles réputées forment des diplômés de niveau supérieur après un passage par la régie lumière.</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>DMA (diplôme des métiers d'art) régie de spectacle option lumière </itsimp>
+<itsimp>Formation en alternance du CFPTS (Centre de formation professionnelle aux techniques du spectacle) de Bagnolet</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Diplôme de régisseur technicien de spectacles de École supérieure d'art dramatique rattachée au Théâtre national de Strasbourg (Esad Strasbourg)</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme arts et techniques du théâtre parcours concepteur lumière de l'École nationale supérieure des arts et techniques du théâtre (Ensatt, Lyon)</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36155" csRelFld="36155">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36155</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100425</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Une majorité de CDD </inter>
+<p>L'emploi salarié est en constante diminution. Les CDI (contrats à durée indéterminée) sont majoritairement offerts par les théâtres nationaux ou les scènes conventionnées. Dans les autres cas, le CDD (contrat à durée déterminée) est à présent très répandu. </p>
+<inter>Des contrats courts</inter>
+<p>59 % des professionnels de l'éclairage sont engagés pour des contrats de plus en plus courts (moins de 8 jours), avec un temps de travail très réduit sur l'ensemble de l'année. Et seuls près de 70 % d'entre eux perçoivent des indemnités en cas de chômage (source : Pôle emploi spectacle).</p>
+<inter>Deux années probatoires</inter>
+<p>Dans ce métier, le plus difficile est de durer. Presque 50 % des jeunes arrivant sur le marché du travail quittent le métier dans les 2 premières années. Une fois passé ce cap, ils réussissent, dans l'ensemble, à se stabiliser.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2035</sal> euros brut par mois</p>
+<postit>
+<p>(source : convention collective nationale des entreprises artistiques et culturelles, janvier 2012).</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

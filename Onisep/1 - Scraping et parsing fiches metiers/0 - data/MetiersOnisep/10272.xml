@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">sous-officier/ère de l'armée de l'air</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">défendre, secourir, surveiller/me déplacer souvent/avoir des sensations fortes</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">militaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction sécurité, protection, défense</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique/secteur Défense</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">transport aérien/armée de l'air</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE nettoyage assainissement environnement sécurité/sous-officier de l'armée de l'air</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10272</lien_onisep>
+<ROME Level="1B" csRelFld="10272">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="478" csRelFld="478">
+<CSLABELFLD label="">K1701</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Défense, sécurité publique et secours</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K1701</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Personnel de la Défense</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10272">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18061" csRelFld="18061">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18061</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10272</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Gérer les opérations aériennes...</inter>
+<p>Dans une tour de contrôle, avec le météorologiste à ses côtés, le sous-officier de l'armée de l'air veille au bon déroulement des décollages et des atterrissages des avions. Il détecte et identifie tous les appareils qui pénètrent dans l'espace aérien ou les suit via un radar pendant leur phase de vol.</p>
+<inter>... et la maintenance des appareils</inter>
+<p>Mécanicien ou électronicien, le sous-officier de l'armée de l'air peut prendre en charge l'entretien des moteurs ou de la structure des aéronefs, la maintenance des systèmes et matériels électroniques (radars, par exemple), le suivi technique des armements de bord conventionnels et nucléaires...</p>
+<inter>Assurer les renseignements et la sécurité...</inter>
+<p>Chargé du renseignement, le spécialiste transmission intercepte, déchiffre et achemine des messages dans les centraux radiotéléphoniques ou télégraphiques, exploite les photographies aériennes, les communications radio en langues étrangères... Fusilier commando, accompagné de maîtres-chiens, il assure la sécurité des bases aériennes ;  pompier de l'air, il lutte contre les incendies.</p>
+<inter>... et le fonctionnement de la base</inter>
+<p>Le sous-officier de l'armée de l'air peut enfin contribuer au bon fonctionnement de la base aérienne. Il sera alors secrétaire, comptable, informaticien, chargé de l'entretien des installations, ou encore moniteur d'entraînement physique et sportif, maître d'hôtel, infirmier...</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18057" csRelFld="18057">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18057</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10272</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Pour devenir sous-officier de l'armée de l'air, il faut passer un concours. Conditions d'accès : être de nationalité française ; être âgé de moins de 24 ans ; être bachelier. Après la réussite au concours, le sous-officier suit une formation (16 semaines) propre à sa spécialité, à l'Efsoaa (école des sous-officiers l'armée de l'air) à Rochefort (17).</p>
+<p>À noter : il est aussi possible de devenir sous-officier en passant par le CETAA (cours d'enseignement technique de l'armée de l'air) à Saintes (17) qui prépare au bac général S, spécialité sciences de l'ingénieur, au bac techno STI2D, spécialité système d'information et numérique, ou au bac pro aéronautique, option systèmes. Durée des études : 2 ans (pour ceux qui intègrent l'école après la 2de) ou 1 an (pour ceux qui l'intègrent après la 1<exp>re</exp> ). Conditions d'accès : concours ; être de nationalité française ; être âgé de 16 à 18 ans. Après l'obtention du bac et du certificat d'aptitude militaire, les élèves suivent une formation de sous-officier dans une école militaire de spécialisation.</p> </MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18050" csRelFld="18050">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18050</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10272</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Recrutements réguliers</inter>
+<p>Sur les 52 000 militaires travaillant pour l'armée de l'air (22 % de femmes), on compte 55 % de sous-officiers. Chaque année, environ 1 000 postes sont proposés à des candidats externes.  </p>
+<inter>D'abord contractuel</inter>
+<p>Le sous-officier de l'armée de l'air commence obligatoirement son parcours en qualité de contractuel. Il signe un premier contrat (de 5 ans à 8 ans) selon sa spécialité, et peut ensuite cumuler différents contrats. Au bout de 1 an, il est nommé sergent. Par la suite, la réussite à des concours internes et son ancienneté peuvent lui permettre d'évoluer vers les grades de sergent-chef, d'adjudant, d'adjudant-chef, de major. Au bout de 10 ans de service, il peut devenir sous-officier de carrière, voire devenir officier.</p>
+<remun>
+<p>Smic (pour élève sous-officier).</p>
+<postit>
+<p>Source : décret n° 2012-593 modifiant le décret n° 2009-21.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

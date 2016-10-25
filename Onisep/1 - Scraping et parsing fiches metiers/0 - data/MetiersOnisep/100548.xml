@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">chef/fe de projet sites et sols pollués</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">préserver l'environnement/coordonner l'activité d'une équipe/me déplacer souvent/aider, conseiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur environnement/secteur sociétés d'ingénierie et d'études techniques/secteur industrie chimique/secteur énergie</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">géologie/lutte contre la pollution et prévention des risques environnementaux</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE nettoyage assainissement environnement sécurité</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100548</lien_onisep>
+<ROME Level="1B" csRelFld="100548">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100548">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="53449" csRelFld="53449">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53449</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100548</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter> Diagnostiquer la pollution </inter>
+<p>Le chef de projet sites et sols pollués réalise le diagnostic d'un site à partir d'analyses qui lui permettent d'identifier les pollutions. Pour cela, il peut faire effectuer des sondages ou des carottages en vue de prélever et d'analyser des échantillons du sol. Selon le terrain et les types de pollution décelés, plusieurs solutions s'offrent à lui. Il rédige alors un cahier des charges, définit les objectifs et propose des solutions de dépollution.</p>
+<inter> Traiter le site </inter>
+<p>Une fois le diagnostic établi et les solutions de dépollution trouvées, il supervise les travaux, en encadrant une équipe d'ingénieurs et de techniciens spécialisés (hydrologues, géologues, géophysiciens...). Il a le choix entre différentes techniques de dépollution : excaver les terres polluées et les transporter vers un site de traitement ou de stockage de déchets inertes ; les traiter directement sur place, par oxydation ou par des procédés biologiques divers. </p>
+<inter> Gérer le budget </inter>
+<p>Il gère aussi le suivi administratif et financier : il établit le budget du projet global, facture les prestations lorsqu'il agit pour une entreprise cliente. Il se porte garant du respect des délais, des coûts et de la qualité des opérations.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="53453" csRelFld="53453">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53453</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100548</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le poste de chef de projet sites et sols pollués n'est pas accessible aux jeunes diplômés ; une première expérience et la pratique du terrain s'imposent. Il n'existe pas de formation polyvalente dédiée. La plupart des chefs de projet sites et sols pollués ont un diplôme d'ingénieur ou équivalent. D'autre part, certains organismes comme le BRGM (Bureau de recherche géologique minière) ou l'Ineris (Institut national de l'environnement industriel et des risques) proposent des stages de formation continue.</p>
+<liste>
+<tete> Niveau bac + 5 </tete>
+<itsimp>Diplôme d'ingénieur en chimie, géologie, hydrologie et techniques de l'environnement, sciences de la Terre, géographie</itsimp>
+<itsimp>Masters mentions risques et environnement ; qualité, hygiène, sécurité ; bio-géosciences ; géoressources, géorisques, géotechnique ; gestion de l'environnement</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="53451" csRelFld="53451">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53451</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100548</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter> Un métier en forte expansion </inter>
+<p>Le chef de projet sites et sols pollués exerce principalement en bureau d'études ou en sociétés de conseil et d'ingénierie en environnement. Selon la taille et la structure de l'organisation qui l'emploie, il intervient sur une phase (études, travaux) ou sur l'ensemble du projet.</p>
+<p>De grandes industries disposant d'un département HSE (hygiène-sécurité-environnement) dans le secteur des mines, du pétrole, de la chimie, etc. font aussi appel à lui. Il réalise alors des audits sur leurs sites, pour vérifier leur conformité à la réglementation environnementale du pays où ils se trouvent.</p>
+<p>Des organismes publics tels le BRGM (Bureau de recherche géologique minière), l'Ineris (Institut national de l'environnement industriel et des risques) et le CSTB (Centre scientifique et technique du bâtiment) emploient aussi des ingénieurs spécialisés en dépollution.</p>
+<inter> Des évolutions de poste </inter>
+<p>Avec l'expérience, le chef de projet peut évoluer vers le poste d'expert spécialisé en dépollution ou de directeur de projet en bureau d'études. Dans l'industrie, il peut devenir responsable d'un département HSE. Il peut également être consultant en cabinet-conseil privé ou inspecteur des installations d'une Dreal (direction régionale de l'environnement, de l'aménagement et du logement).</p>
+<remun>
+<inter> Salaire du débutant </inter>
+<p>Entre <sal>2500 </sal>et 3000 euros brut par mois.</p>
+<postit>
+<p>Source : Apec, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

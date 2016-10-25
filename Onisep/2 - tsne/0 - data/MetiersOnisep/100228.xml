@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">éleveur/euse</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">travailler dehors/travailler en contact avec la nature/m'occuper d'animaux</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">indépendant</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction exploitation agricole</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur agriculture</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">production animale/élevage bovin/élevage porcin/élevage ovin caprin/élevage du cheval/élevage de volailles/élevage laitier</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE agriculture/éleveur</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100228</lien_onisep>
+<ROME Level="1B" csRelFld="100228">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="22" csRelFld="22">
+<CSLABELFLD label="">A1408</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Production</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">A1408</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Élevage d'animaux sauvages ou de compagnie</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="21" csRelFld="21">
+<CSLABELFLD label="">A1407</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Production</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">A1407</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Élevage bovin ou équin</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100228">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="900" csRelFld="900">
+<CSLABELFLD label="">aquaculteur / aquacultrice</CSLABELFLD>
+<MET_ID label="Identifiant">100228</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">05/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">900</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">aquaculteur/trice</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="900">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18896" csRelFld="18896">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18896</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100228</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Rentabiliser l'exploitation</inter>
+<p>Élever, c'est alimenter les animaux, mais pas seulement. C'est aussi veiller à leur développement, les soigner et entretenir les locaux et les pâturages. Qu'il s'occupe de vaches, de porcs, de chèvres ou de volailles, l'éleveur peut vendre les animaux dès leur naissance ou en prendre soin sur la durée. Le temps de les faire grossir ou de commercialiser ce qu'ils produisent (oeufs, lait, miel, fromage, viande...). Pour rentabiliser une exploitation, un éleveur peut accueillir des touristes dans sa ferme (table d'hôtes ou auberge-gîte).</p>
+<inter>Élevage industriel ou bio</inter>
+<p>Dans un élevage industriel, les animaux sont élevés dans des bâtiments ou des hangars (en batterie ou en « hors sol »). Certains animaux bénéficient d'une semi-liberté, à l'intérieur ou en plein air. Certains modes d'élevage privilégient l'obtention de labels officiels : en plein air, nourris aux grains, biologique. Un éleveur peut produire ses propres cultures pour nourrir ses bêtes. </p>
+<inter>Améliorer la qualité et la productivité</inter>
+<p>L'éleveur travaille à son compte, mais il est aidé parfois d'un employé d'élevage salarié. L'éleveur est souvent amené à travailler avec l'inséminateur, le contrôleur de performances ou encore le vétérinaire. Un conseiller agricole peut aussi l'aider à améliorer la qualité et la productivité.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18905" csRelFld="18905">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18905</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100228</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Les formations pour travailler dans un élevage s'étendent du CAP à bac + 2.</accr_p> Les employés dans un élevage doivent être titulaires d'un CAPA (CAP agricole) ou d'un BPA (brevet professionnel agricole) du secteur souhaité. Ces diplômes peuvent être complétés par un CS (certificat de spécialisation) agricole en élevage avicole, caprin, ovin... Ces formations se font le plus souvent par apprentissage ou en cours d'emploi. Pour s'installer et bénéficier des aides, il faut posséder au moins un diplôme de niveau bac. Les écoles d'ingénieurs en agriculture ou agronomie proposent aussi des options en productions animales. Les diplômés s'orientent alors davantage vers la recherche (fondamentale ou appliquée) ou travaillent au sein d'industries agro-alimentaires.</p>
+<liste>
+<tete>Après la 3<exp>e</exp>
+</tete>
+<itsimp>CAP agricole métiers de l'agriculture</itsimp>
+<itsimp>CAP agricole agriculture des régions chaudes</itsimp>
+<itsimp>BPA travaux de production animale</itsimp>
+<itsimp>BPA travaux de l'élevage canin et félin</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>Bac pro conduite et gestion de l'exploitation agricole option système à dominante élevage</itsimp>
+<itsimp>Bac pro conduite et gestion d'une entreprise du secteur canin et félin</itsimp>
+<itsimp>BP responsable d'exploitation agricole</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTSA productions animales</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="15917" csRelFld="15917">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">15917</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100228</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des éleveurs agriculteurs</inter>
+<p>On recense 191 500 exploitations qui font de l'élevage et dont les terres sont aussi souvent cultivées pour nourrir les animaux. Ces exploitations sont généralement familiales, gérées par deux personnes (père et fils, par exemple). Les nombreux départs à la retraite ont contribué cependant au rajeunissement des exploitants : la moitié d'entre eux ont moins de 50 ans. D'autant que des mesures facilitent aujourd'hui l'installation : dotation aux jeunes agriculteurs ou prêts à taux bonifiés.</p>
+<inter>De l'indépendance à l'EARL</inter>
+<p>Les matériels et équipements peuvent atteindre des sommes importantes qu'il faut amortir. D'où la nécessité pour celui qui s'installe à son compte d'opter pour la spécialisation adéquate dès le départ. Mais il est difficile parfois de survivre dans de petites exploitations individuelles. C'est pourquoi elles se transforment souvent en EARL (exploitations agricoles ýý responsabilité limitée), surtout dans les élevages hors sol de volailles et de porcs.</p>
+<inter>Les tendances du marché</inter>
+<p>Vache folle, tremblante du mouton, grippe aviaire... Malgré les crises sanitaires des dernières années, l'élevage des bovins, destiné à commercialiser la viande, se maintient à un haut niveau, tandis que le nombre d'élevages laitiers tend à diminuer.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Pour un chef d'exploitation, le revenu est variable en fonction de la taille de l'exploitation, de la région et du résultat dégagé.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

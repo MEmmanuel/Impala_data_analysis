@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e fluides, énergies, réseaux, environnement</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">préserver l'environnement/aider, conseiller/convaincre, négocier</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique/secteur énergie/secteur bâtiment travaux publics/secteur industrie chimique/secteur industrie pharmaceutique/secteur sociétés d'ingénierie et d'études techniques</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">environnement/mécanique des fluides/énergétique/énergie thermique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE nettoyage assainissement environnement sécurité</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100594</lien_onisep>
+<ROME Level="1B" csRelFld="100594">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100594">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1513" csRelFld="1513">
+<CSLABELFLD label="">responsable de site éco-industriel</CSLABELFLD>
+<MET_ID label="Identifiant">100594</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">24/10/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1513</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">responsable de site éco-industriel</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1513">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1512" csRelFld="1512">
+<CSLABELFLD label="">responsable d'unité de valorisation énergétique</CSLABELFLD>
+<MET_ID label="Identifiant">100594</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">24/10/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1512</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">responsable d'unité de valorisation énergétique</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1512">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="55563" csRelFld="55563">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55563</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100594</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Produire propre</inter>
+<p>L'ingénieur fluides, énergies, réseaux, environnement conçoit ou exploite des installations techniques qui font circuler l'eau (glacée, sous forme de vapeur...), l'air (chaud, froid, conditionné, pressurisé...) ou le gaz, pour produire de l'énergie propre. Son premier défi : diminuer la pollution. Il doit trouver des solutions pour qu'une entreprise réduise ses émissions polluantes. Il réalise une expertise énergétique et propose des solutions d'optimisation. Il peut s'agir, par exemple, de développer la combustion sans flamme, avec un brûleur de foyer industriel adapté.</p>
+<inter>Économiser l'énergie</inter>
+<p>Second défi à relever : faire des économies. Une usine d'incinération de déchets peut devenir une unité de valorisation énergétique lorsqu'elle produit de la chaleur qui n'est pas perdue. En transformant cette chaleur en vapeur d'eau et en la raccordant à un réseau basse température, on peut chauffer des bâtiments proches. L'ingénieur fluides, énergies, réseaux, environnement utilise aussi la biomasse (matières organiques transformées en énergie) et la géothermie. Dans le secteur du bâtiment, il conseille les maîtres d'oeuvre ou d'ouvrage sur les différents moyens de réduire la facture énergétique, dès la construction. Les BBC (bâtiments basse consommation) deviennent la règle.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55567" csRelFld="55567">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55567</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100594</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Pour cet ingénieur de l'énergie et du bâtiment formé à l'environnement, il faut compter 5 ans d'études après le bac. Certains diplômes sont accessibles par la formation continue pour un professionnel qui complète un cursus.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur avec une spécialité en fluides et énergie ; en génie de l'eau et de l'environnement ; en gouvernance des risques...</itsimp>
+<itsimp>Master dans les domaines de l'énergétique, de la mécanique des fluides et de l'environnement, etc.</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55565" csRelFld="55565">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55565</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100594</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un métier en plein essor</inter>
+<p>L'exigence croissante de qualité et d'amélioration de l'environnement se traduit dans la loi (loi sur l'eau en 2006, Grenelle 2 en 2010) et dans des évolutions techniques complexes sur le plan industriel. Les entreprises ont besoin d'ingénieurs formés non seulement dans leur domaine technique traditionnel, mais aussi capables de répondre à l'évolution de leurs métiers vers l'efficacité énergétique et l'intégration des énergies renouvelables. Comme l'ingénieur fluides, énergies, réseaux, environnement répond à ces besoins, il est très recherché. </p>
+<inter>Dans l'industrie ou en cabinet de conseil</inter>
+<p>Il travaille dans divers secteurs industriels : l'énergie, le bâtiment et les travaux publics, la chimie et l'industrie pharmaceutique, les transports, etc. Il exerce dans un département recherche et développement, ou comme responsable d'exploitation. Il est employé dans un groupe industriel ou travaille en cabinet d'études, conseil et assistance ; il gère des projets dans une entreprise spécialisée dans la construction de bâtiments industriels. Les possibilités sont diverses et ces ingénieurs n'ont aucun mal à trouver un emploi. </p>
+<inter>Évolution de carrière</inter>
+<p>L'ingénieur fluides, énergies, réseaux, environnement peut ensuite diriger un bureau d'études, devenir ingénieur d'affaires.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2500</sal> à 3300 euros brut par mois.</p>
+<postit>
+<p>Sources : Apec (Association pour l'emploi des cadres), 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

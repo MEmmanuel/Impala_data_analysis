@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e d'affaires en génie électrique</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire du commerce/convaincre, négocier/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction vente</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur construction électrique/secteur construction électronique/secteur énergie/secteur des transports/secteur transports ferroviaires/secteur industrie agroalimentaire/secteur industrie chimique/secteur construction automobile</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">construction électrique/construction électronique/robotique/automatismes</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE commerce distribution</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100679</lien_onisep>
+<ROME Level="1B" csRelFld="100679">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100679">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56810" csRelFld="56810">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56810</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100679</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Superviser un projet </inter>
+<p>L'ingénieur d'affaires en génie électrique remplit une mission essentielle : chiffrer et superviser un projet d'étude dont le budget est souvent très important. Pour cela, il prospecte, identifie les besoins du client (ou de son entreprise), propose et monte un projet commercial, avant d'en négocier les conditions. Pour chaque projet, il rédige avec le plus grand soin un cahier des charges faisant la synthèse entre les attentes du client donneur d'ordres et des compétences internes et externes de l'entreprise qu'il représente. Suivant de près les travaux d'installation ou d'aménagements électriques, il valide les tests de conformité et édite les documents de fabrication.</p>
+<inter>Suivre l'installation</inter>
+<p>Après la signature du contrat, il suit l'installation des matériels et équipements (radiateur, moteur de Formule 1, etc.) sur le site et s'assure du bon déroulement du projet (respect des coûts, de la qualité et des délais). Une fois les travaux terminés, il assure la mise en service de l'installation, en présence du client et de ses collègues du service après-vente.</p>
+<inter>Un commercial avant tout</inter>
+<p>Rouage essentiel de la stratégie de l'entreprise, l'ingénieur d'affaires en génie électrique contribue à l'amélioration de l'activité commerciale, en étudiant les projets en cours et à venir. Il se positionne souvent sur des marchés de niche où les projets et les clients sont peu nombreux.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56814" csRelFld="56814">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56814</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100679</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Les écoles d'ingénieurs demeurent la voie classique de formation pour devenir ingénieur d'affaires en génie électrique. Mais le métier est également accessible aux titulaires d'un master, ou d'un titre d'ingénieur délivré par de nombreuses universités. </p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur</itsimp>
+<itsimp>Master</itsimp>
+<itsimp>Titre d'ingénieur universitaire</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56812" csRelFld="56812">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56812</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100679</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Dans les industries de pointe </inter>
+<p>L'électronique et l'électrotechnique sont omniprésentes dans les secteurs qui utilisent de nombreuses fonctions automatisées : BTP (bâtiment et travaux publics), électronique et produits high-tech, transports, construction électrique, agroalimentaire, chimie, automobile... Les ingénieurs d'affaires en génie électrique y trouvent naturellement leur place. De grandes entreprises comme EDF, la SNCF ou la RATP figurent parmi les employeurs potentiels. Autres débouchés à ne pas négliger : les fabricants de matériels électriques et les industries de production. Ces dernières recrutent des ingénieurs pour calculer l'économie réalisée selon qu'elles achètent l'électricité à EDF ou qu'elles la produisent elles-mêmes. </p>
+<inter>Énergie et transports </inter>
+<p>Après le secteur des transports, l'énergie recrute le plus grand nombre d'ingénieurs spécialisés en génie électrique. Les débouchés sont nombreux : centrales nucléaires, blocs électriques, téléphonie, audiovisuel, données informatiques... Ces entreprises recherchent des experts pouvant leur apporter à la fois la compétence et la connaissance du marché du génie électrique (fournisseurs, innovations...). Au niveau des offres d'emploi, selon le montant des marchés visés par l'entrepise, des postes de chargé d'affaires junior ou senior sont affichés. Avec de l'expérience, on peut évoluer vers des postes d'encadrement (chef de service, voire responsable d'entreprise).</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2600</sal> à 4000 euros brut par mois. </p>
+<postit>
+<p>Source : études Michael Page, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

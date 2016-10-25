@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">facteur/trice</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">me déplacer souvent/travailler dehors</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction distribution</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur postes et télécommunications/secteur logistique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">logistique/transport de marchandises</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé/facteur</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100288</lien_onisep>
+<ROME Level="1B" csRelFld="100288">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="583" csRelFld="583">
+<CSLABELFLD label="">M1603</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Secrétariat et assistance</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1603</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Distribution de documents</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100288">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18984" csRelFld="18984">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18984</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100288</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+   <inter>Trier : une étape décisive</inter>
+   <p>L'agent de tri joue un rôle capital pour acheminer près de 15 milliards de plis par an en France. Il ouvre les sacs postaux et veille au bon fonctionnement des machines à trier et à oblitérer. Si la plupart des tâches sont automatisées, certaines opérations continuent de s'effectuer à la main : tri des courriers fragiles, rangement du courrier classé, transfert dans les caissettes et les sacs postaux avant la réexpédition, etc.</p>
+   <inter>Distribuer le courrier </inter>
+   <p>Lettres, cartes postales, plis administratifs et commerciaux classés en fonction des rues et des numéros : la tournée du facteur peut commencer. Il part sur le secteur qui lui a été attribué et dépose le courrier dans les boîtes aux lettres des particuliers ou à l'accueil des entreprises. Le facteur sonne au domicile des clients pour leur remettre directement les recommandés. En cas d'absence, il laisse un avis de passage invitant le destinataire à venir retirer sa lettre ou son colis au bureau de poste.</p>
+   <inter>Relever le courrier </inter>
+   <p>Le facteur est également chargé, à heures fixes, de relever le courrier déposé dans les boîtes aux lettres réparties aux quatre coins de la ville. </p>
+  </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18993" csRelFld="18993">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18993</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100288</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Pour devenir facteur, agent de tri ou opérateur de colis, il faut être titulaire au minimum du diplôme national du brevet ou d'un CAP et avoir le permis de conduire B.</accr_p>
+</p>
+<p>La Poste offre la possibilité de préparer en apprentissage le CAP distribution d'objets et de services à la clientèle. Cette formation alterne sur 1 an un enseignement théorique (dispensé dans les lycées partenaires de l'entreprise) et un enseignement technique et professionnel (assuré par La Poste).</p> </MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18991" csRelFld="18991">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18991</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100288</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Miser sur l'alternance</inter>
+<p>Les formations en alternance mises en place par La Poste permettent de tester le potentiel des candidats et d'effectuer des sortes de prérecrutements. Selon le diplôme préparé, entre 75 et 90 % des jeunes diplômés sont embauchés à l'issue de leur formation.</p>
+<inter>Un gros employeur</inter>
+<p>Toutes activités confondues, La Poste emploie 270 000 personnes. 2 600 facteurs ont été recrutés par le biais de l'alternance en 2011. En 2014, La Poste prévoyait de réserver 750 postes de facteurs dans le cadre des contrats d'avenir, réservés aux jeunes peu ou pas qualifiés.</p>
+<inter>Recrutement de contractuels</inter>
+<p>Confrontée à la concurrence, La Poste vit d'importantes mutations. Aujourd'hui, le recrutement des facteurs, agents de courrier et opérateurs de colis s'effectue par la voie contractuelle (en CDD, contrat à durée déterminée, ou en CDI, contrat à durée indéterminée). Les candidats sont sélectionnés sur CV, lettre de motivation et tests écrits, suivis d'un entretien avec un jury.</p>
+<inter>Des carrières évolutives</inter>
+<p>Un facteur expérimenté peut prendre en charge un secteur et encadrer une équipe de facteurs. Il peut aussi s'orienter vers la vente et l'accueil du public en devenant guichetier. Quant à l'agent de tri, il peut devenir pilote de machine de tri ou accéder à un poste de chef d'équipe.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir du <sal>Smic</sal>.</p>
+<postit>
+<p>Source : La Poste, 2015.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

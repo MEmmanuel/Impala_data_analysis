@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">halieute</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">préserver l'environnement/faire de la recherche</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction recherche</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur recherche/secteur de l'éducation/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">agronomie/biologie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100609</lien_onisep>
+<ROME Level="1B" csRelFld="100609">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="13" csRelFld="13">
+<CSLABELFLD label="">A1303</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Etudes et assistance technique</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">A1303</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Ingénierie en agriculture et environnement naturel</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100609">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="55968" csRelFld="55968">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55968</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100609</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter> Évaluer les stocks de poissons </inter>
+<p>L'halieutique est la science de l'exploitation des ressources vivantes aquatiques : l'équivalent en milieu aquatique de l'agronomie en milieu terrestre. L'halieute anticipe et prévient les risques de surpêche en procédant à des analyses biologiques et économiques. Cet expert évalue les stocks de poissons exploités dans un espace marin déterminé et collecte des données qui sont ensuite transmises aux instances internationales.</p>
+<inter> Analyser la dynamique des espèces</inter>
+<p> Il étudie également les paramètres biologiques des différentes espèces de poissons : il s'intéresse aux modalités de reproduction (périodes et lieux de ponte), au régime alimentaire de chaque espèce, évalue leur taux de mortalité naturelle et celui imputé à la pêche. Il surveille les campagnes de pêche déployées par secteur, notamment en menant des enquêtes sur l'activité des navires. </p>
+<inter> Modéliser tout un écosystème </inter>
+<p> Il identifie les processus qui ont un impact sur les ressources. Il s'intéresse aux apports en nutriments, à l'évolution des usages, à la pollution... Son but est de mieux connaître l'influence de l'environnement sur la reproduction, afin d'établir des modèles prédictifs visant à rendre la pêche industrielle compatible avec l'intégration d'une politique environnementale. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55972" csRelFld="55972">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55972</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100609</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p> Le niveau de formation se situe à bac + 5 au minimum, dans les domaines de l'agronomie spécialité halieutique, de la biologie marine ou de la qualité des procédés agroalimentaires et halieutiques, ou encore en environnement marin. </p>
+<liste>
+<tete> Niveau bac + 5 </tete>
+<itsimp> Diplôme d'ingénieur agronome option sciences halieutiques et aquacoles</itsimp>
+<itsimp> Master sciences biologiques marines spécialité AEH (approche écosystémique de l'halieutique) ; biodiversité, écologie, environnement spécialité READ (ressources aquatiques et exploitation durable) ; sciences agronomiques et agroalimentaires spécialité ingénierie environnementale option sciences halieutiques et aquacoles ; sciences de la mer et du littoral mention économie appliquée : agriculture, mer, environnement (E2AME)... </itsimp>
+</liste>
+<liste>
+<tete> Niveau bac + 8 </tete>
+<itsimp> Doctorat dans la spécialité halieutique</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55970" csRelFld="55970">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55970</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100609</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter> Dans la recherche publique principalement </inter>
+<p> Dans le domaine de la recherche, les débouchés, peu nombreux, se situent à l'université, dans les grands organismes spécialisés comme l'Ifremer (Institut français de recherche pour l'exploitation de la mer), l'IRD (Institut de recherche pour le développement), l'Inra (Institut national de la recherche agronomique)... Le métier reste rare et conditionné à la réussite de concours pour intégrer ces organismes de recherche publics. Après quelques années, l'halieute peut intégrer des postes de direction au sein des organismes de recherche publics ou des universités. </p>
+<inter> En laboratoire privé </inter>
+<p> La gestion de la pêche et de l'aquaculture, qui connaît un développement spectaculaire, est un domaine d'application qui peut intéresser des organismes privés. Le savoir de l'halieute participe à la sélection des espèces aptes à être élevées : tilapia, perche, carpe... en eau douce ; bar, dorade, turbot... en mer. Par conséquent, les laboratoires privés, les associations pour le développement de l'aquaculture et les sociétés d'élevage aquacole peuvent faire appel à des halieutes en appui technique. Mais là encore, les postes restent peu nombreux. </p>
+<remun>
+<inter> Salaire du débutant </inter>
+<p>
+<sal>2024</sal> euros brut par mois. </p>
+<postit>
+<p> Source : ministère de l'Enseignement supérieur et de la Recherche. </p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

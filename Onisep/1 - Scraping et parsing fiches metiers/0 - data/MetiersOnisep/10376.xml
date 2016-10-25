@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">technicien/ne en lignes haute tension </MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">réparer, entretenir, installer des équipements/travailler dehors/me déplacer souvent/exercer un travail manuel</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction maintenance/fonction contrôle</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur énergie</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">réseau électrique/distribution d'énergie électrique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE électricité électrotechnique électronique/technicien de maintenance de ligne à haute tension</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10376</lien_onisep>
+<ROME Level="1B" csRelFld="10376">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="199" csRelFld="199">
+<CSLABELFLD label="">F1605</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Second oeuvre</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">F1605</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Montage de réseaux électriques et télécoms</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10376">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18580" csRelFld="18580">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18580</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10376</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Transporter l'électricité</inter>
+<p>Le technicien surveille et entretient les installations électriques. Objectif : assurer le transport permanent de l'énergie électrique d'un point à un autre.</p>
+<inter>Surveiller les installations</inter>
+<p>Des inspections à bord d'un hélicoptère permettent d'observer l'état général de la ligne et de détecter, par caméra infrarouge, les points anormaux d'échauffement. C'est pourquoi le lignard est amené à grimper très fréquemment le long des pylônes afin de vérifier les câbles, les isolateurs ou les supports.</p>
+<inter>Dépanner en urgence</inter>
+<p>Un appel d'urgence (EDF, riverain, etc.) déclenche souvent l'intervention du technicien. Rapidement sur les lieux, il met en oeuvre le dispositif le mieux adapté. Parfois, il intervient sur les lignes elles-mêmes pour remplacer un isolateur ou renforcer une protection.</p>
+<inter>Maintenir en état</inter>
+<p>Pour éviter les incidents, le technicien élague les arbres et entretient les supports. Il participe aux travaux de modernisation des lignes existantes. Avec l'équipe de maintenance, il modifie l'implantation des pylônes ou le trajet des lignes pour des raisons techniques.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18585" csRelFld="18585">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18585</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10376</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Le premier diplôme adapté à la profession est le bac techno STI2D sciences et technologies industrielles, complété par le BTS électrotechnique.</accr_p>
+</p>
+<p/>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18582" csRelFld="18582">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18582</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10376</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>EDF et secteur privé</inter>
+<p>Le technicien en lignes haute tension est employé par l'entreprise EDF. Ce n'est pas là son seul débouché. Les entreprises d'installation de réseaux et de construction électrique (sous-traitantes d'EDF) recherchent aussi ses compétences. </p>
+<inter>Chef d'équipe</inter>
+<p>Par promotion, le technicien devient chef d'équipe ou responsable de maintenance pour un secteur géographique donné. Il peut éventuellement s'orienter vers un service méthodes. Dans ce cas, il prendra en charge la planification des travaux à effectuer, la définition des nouvelles procédures d'intervention...</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>A partir du <sal>Smic</sal> et jusuqu'à 1500 euros brut par mois.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

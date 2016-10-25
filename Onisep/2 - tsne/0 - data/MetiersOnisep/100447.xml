@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">conseiller/ère en insertion sociale et professionnelle</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">m'occuper d'enfants ou d'adolescents/aider, conseiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction information - communication/fonction sociale</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur social</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">aide à l'insertion professionnelle</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE médical paramédical travail social soins personnels/conseiller en insertion sociale et professionnelle</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100447</lien_onisep>
+<ROME Level="1B" csRelFld="100447">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="486" csRelFld="486">
+<CSLABELFLD label="">K1801</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Développement territorial et emploi</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K1801</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Conseil en emploi et insertion socioprofessionnelle</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100447">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="896" csRelFld="896">
+<CSLABELFLD label="">chargé / chargée de projet d'insertion</CSLABELFLD>
+<MET_ID label="Identifiant">100447</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">05/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">896</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chargé/e de projet d'insertion</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="896">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="897" csRelFld="897">
+<CSLABELFLD label="">directeur / directrice de mission locale</CSLABELFLD>
+<MET_ID label="Identifiant">100447</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">05/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">897</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">directeur/trice de mission locale</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="897">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="36771" csRelFld="36771">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36771</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100447</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Au service des jeunes</inter>
+<p>Problèmes d'orientation, de choix de projet professionnel, de manque de qualification ; difficultés de logement ou de santé, difficultés financières... Les jeunes de 16 à 25 ans confrontés à ces obstacles peuvent rencontrer un CISP (conseiller en insertion sociale et professionnelle). Il les accompagnera dans leur parcours et mobilisera l'offre de services et les dispositifs adaptés à leurs besoins.</p>
+<inter>Le temps du bilan</inter>
+<p>Lors du premier entretien avec un jeune, le CISP établit un bilan complet (niveau de formation, expérience professionnelle, centres d'intérêt, revenus, accès aux soins...) pour initier un parcours d'accompagnement individualisé. Les services apportés peuvent aller d'une simple information à l'élaboration d'un projet professionnel.</p>
+<inter>Un accompagnement global</inter>
+<p>Le CISP consacre une grande partie de son temps aux entretiens individuels. Par ailleurs, il anime régulièrement des séances d'information, des ateliers collectifs (techniques de recherche d'emploi, simulations d'entretiens...).</p>
+<p>Il intervient auprès des entreprises (recherche d'offres d'emploi, de stages) et développe des partenariats avec le monde économique.</p>
+<p>Il est le référent du jeune et coordonne l'accompagnement global de ce dernier.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36775" csRelFld="36775">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36775</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100447</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Il n'existe pas de diplôme précis pour accéder à ce métier. Les formations privilégiées sont celles du domaine de la psychologie, de l'économie, du droit, du développement social et de l'insertion, de niveau bac + 3 à bac + 5.</accr_p> Dans tous les cas, une expérience auprès des jeunes, la connaissance du monde du travail et le parcours personnel du candidat sont des critères de sélection.</p>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licences en sciences de l'éducation, en psychologie, en sociologie</itsimp>
+<itsimp>Licences professionnelles mention Insertion sociale : insertion et réinsertion sociale et professionnelle</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Masters en économie, droit, sociologie, intervention sociale, psychologie sociale</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36773" csRelFld="36773">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36773</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100447</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des emplois en progression</inter>
+<p>Environ 11 000 personnes travaillent dans le réseau des missions locales. Cet effectif, variable en fonction des dispositifs mis en place et des orientations politiques, reste en constante progression, car le nombre de jeunes en difficulté et sans qualification génère des besoins importants. Si le recrutement des conseillers fait partie des priorités des missions locales, il reste néanmoins soumis aux financements publics. </p>
+<inter>De plus en plus de responsabilités </inter>
+<p>Avec une expérience d'environ une dizaine d'années, le CISP (conseiller en insertion sociale et professionnelle) peut devenir chargé de projet (insertion, logement, santé, citoyenneté...). Il occupera alors la majorité de son temps au montage de projets en relation avec des partenaires locaux. Il peut également devenir chef de secteur pour gérer une antenne de la mission locale (encadrement d'une équipe). Au-delà, se situent les postes de direction. Le CISP peut encore évoluer vers les métiers de Pôle emploi, la gestion de structures associatives, la formation...</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1700</sal> euros brut par mois.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

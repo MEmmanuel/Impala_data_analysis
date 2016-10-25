@@ -1,0 +1,439 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Pharmacien / Pharmacienne",
+            "priorisation": "1",
+            "libelle": "Pharmacien / Pharmacienne",
+            "code_ogr": "17676"
+        },
+        {
+            "libelle_court": "Pharmacien / Pharmacienne chimiste des arm\u00e9es",
+            "priorisation": "1",
+            "libelle": "Pharmacien / Pharmacienne chimiste des arm\u00e9es",
+            "code_ogr": "17680"
+        },
+        {
+            "libelle_court": "Pharmacien / Pharmacienne en officine",
+            "priorisation": "1",
+            "libelle": "Pharmacien / Pharmacienne en officine",
+            "code_ogr": "17686"
+        },
+        {
+            "libelle_court": "Pharmacien assistant / Pharmacienne assistante",
+            "priorisation": "1",
+            "libelle": "Pharmacien assistant / Pharmacienne assistante",
+            "code_ogr": "17677"
+        },
+        {
+            "libelle_court": "Pharmacien hospitalier / Pharmacienne hospitali\u00e8re",
+            "priorisation": "1",
+            "libelle": "Pharmacien hospitalier / Pharmacienne hospitali\u00e8re",
+            "code_ogr": "17687"
+        },
+        {
+            "libelle_court": "Pharmacien r\u00e9partiteur / Pharmacienne r\u00e9partitrice",
+            "priorisation": "1",
+            "libelle": "Pharmacien r\u00e9partiteur / Pharmacienne r\u00e9partitrice",
+            "code_ogr": "17691"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "V\u00e9rifier la recevabilit\u00e9 de la prescription, rep\u00e9rer les incompatibilit\u00e9s, contre-indications, ... et contacter le prescripteur si n\u00e9cessaire",
+            "code_ogr": "3428",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9livrer les m\u00e9dicaments au client/patient ou au personnel soignant et informer sur les modalit\u00e9s de la prescription",
+            "code_ogr": "1338",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "2",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les op\u00e9rations administratives et le suivi de d\u00e9livrance des m\u00e9dicaments dans l'ordonnancier, le registre des stup\u00e9fiants, ...",
+            "code_ogr": "1629",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Apporter un appui technique au personnel dans l'interpr\u00e9tation d'ordonnances, la posologie et contr\u00f4ler les modalit\u00e9s de d\u00e9livrance des m\u00e9dicaments",
+            "code_ogr": "719",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser la pr\u00e9paration pharmaceutique ou en contr\u00f4ler les \u00e9tapes de r\u00e9alisation par le personnel",
+            "code_ogr": "2778",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks de produits, \u00e9tablir les commandes de r\u00e9approvisionnement, contr\u00f4ler la conformit\u00e9 de la livraison \u00e0 la commande et disposer les articles sur les pr\u00e9sentoirs",
+            "code_ogr": "3615",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1406",
+            "libelle_rome_cible": "Management en force de vente"
+        },
+        {
+            "code_rome_cible": "K2108",
+            "libelle_rome_cible": "Enseignement sup\u00e9rieur"
+        },
+        {
+            "code_rome_cible": "K2402",
+            "libelle_rome_cible": "Recherche en sciences de l'univers, de la mati\u00e8re et du vivant"
+        },
+        {
+            "code_rome_cible": "M1703",
+            "libelle_rome_cible": "Management et gestion de produit"
+        },
+        {
+            "code_rome_cible": "M1707",
+            "libelle_rome_cible": "Strat\u00e9gie commerciale"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec le Dipl\u00f4me d'Etat de Docteur en pharmacie.\nLe Dipl\u00f4me d'Etudes Sp\u00e9cialis\u00e9es -DES- de pharmacie hospitali\u00e8re et des collectivit\u00e9s est exig\u00e9 pour exercer au sein d'\u00e9tablissements hospitaliers.\nDes formations compl\u00e9mentaires (Dipl\u00f4me d'Universit\u00e9 -DU- orthop\u00e9die, st\u00e9rilisation, Master r\u00e9partition pharmaceutique, ...) peuvent \u00eatre requises.\nL'acc\u00e8s dans les \u00e9tablissements de la fonction publique hospitali\u00e8re s'effectue sur concours sur titre.\nL'inscription au tableau de l'Ordre des pharmaciens est obligatoire.\nDes vaccinations pr\u00e9vues par le Code de Sant\u00e9 Publique sont exig\u00e9es.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Mettre en place des actions :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4le des circuits de distribution des gaz m\u00e9dicaux",
+            "code_ogr": "7474",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaboration et suivi du circuit des vigilances",
+            "code_ogr": "7475",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Participation \u00e0 des essais cliniques",
+            "code_ogr": "7476",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des pr\u00e9parations pharmaceutiques de :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "M\u00e9dicaments cytotoxiques",
+            "code_ogr": "9033",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nutrition parent\u00e9rale",
+            "code_ogr": "9034",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parations radio-pharmaceutiques",
+            "code_ogr": "9035",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Intervenir dans un service :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pharmacie \u00e0 Usage Interne (PUI)",
+            "code_ogr": "6776",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "St\u00e9rilisation",
+            "code_ogr": "6781",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9finir les orientations strat\u00e9giques (investissements, \u00e9quipements, sp\u00e9cialisation, ...) d'une structure ou participer \u00e0 leur d\u00e9finition",
+            "code_ogr": "3525",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Informer et conseiller un client sur des produits de parapharmacie, de mat\u00e9riel m\u00e9dical, des dispositifs orthop\u00e9diques, ... et proc\u00e9der \u00e0 la vente ou \u00e0 la location",
+            "code_ogr": "6157",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener des actions de sensibilisation et de pr\u00e9vention (diab\u00e8te, hypertension, ...) aupr\u00e8s du public",
+            "code_ogr": "7409",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le suivi administratif et comptable d'une structure",
+            "code_ogr": "3540",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener les actions de gestion de ressources humaines (recrutement, formation, ...)",
+            "code_ogr": "3563",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener des actions de formation au sein d'un organisme",
+            "code_ogr": "7395",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'officines ou d'\u00e9tablissements de soins en contact avec des clients, des patients et en relation avec diff\u00e9rents intervenants (m\u00e9decins prescripteurs, personnels de soins, cadres de sant\u00e9, fournisseurs, ...).\nElle peut s'exercer les fins de semaine et \u00eatre soumise \u00e0 des astreintes ou des gardes.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Argumentation commerciale",
+            "code_ogr": "20786",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement m\u00e9dical (h\u00f4pital, clinique, ...)",
+            "code_ogr": "23922",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisation humanitaire",
+            "code_ogr": "24014",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pharmacie",
+            "code_ogr": "24034",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9partiteur pharmaceutique",
+            "code_ogr": "24048",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Code de sant\u00e9 publique",
+            "code_ogr": "21728",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Classification des m\u00e9dicaments",
+            "code_ogr": "21720",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et d'asepsie",
+            "code_ogr": "22646",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Guide des Bonnes Pratiques de Pr\u00e9paration Officinale -G.B.P.O-",
+            "code_ogr": "22015",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Bonnes Pratiques de Pharmacie Hospitali\u00e8re -B.P.P.H-",
+            "code_ogr": "21533",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de gestion de stocks",
+            "code_ogr": "22609",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Analyse statistique",
+            "code_ogr": "22721",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pharmacovigilance",
+            "code_ogr": "22283",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Circuit des vigilances",
+            "code_ogr": "21711",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Hom\u00e9opathie",
+            "code_ogr": "22033",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Phytoth\u00e9rapie",
+            "code_ogr": "22293",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "L\u00e9gislation sociale",
+            "code_ogr": "22086",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques p\u00e9dagogiques",
+            "code_ogr": "23253",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nD\u00e9livre des produits pharmaceutiques et r\u00e9alise des pr\u00e9parations pharmaceutiques pour des clients/patients selon la prescription m\u00e9dicale ou la demande individuelle.\nPeut conseiller, vendre d'autres produits (parapharmacie, mat\u00e9riel m\u00e9dical, orthop\u00e9dique, ...).\nPeut intervenir dans le cadre d'actions de formation.\nPeut coordonner une \u00e9quipe, diriger une officine ou un service.\n",
+    "intitule": "Pharmacie",
+    "code_ogr": "337",
+    "code_rome": "J1202",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "J1201",
+            "libelle_rome_cible": "Biologie m\u00e9dicale"
+        },
+        {
+            "code_rome_cible": "K1402",
+            "libelle_rome_cible": "Conseil en Sant\u00e9 Publique"
+        }
+    ]
+}

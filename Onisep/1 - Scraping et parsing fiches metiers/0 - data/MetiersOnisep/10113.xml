@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">consignataire de navire</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire du commerce</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction organisation et suivi de transports</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur transports maritimes et fluviaux</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">transport de marchandises/transport/logistique/transport international de marchandises/transport maritime</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE pêche mer aquaculture/consignataire de navire</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10113</lien_onisep>
+<ROME Level="1B" csRelFld="10113">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="619" csRelFld="619">
+<CSLABELFLD label="">N1202</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Organisation de la circulation des marchandises</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">N1202</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Gestion des opérations de circulation internationale des marchandises</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10113">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18313" csRelFld="18313">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18313</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10113</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+   <inter>Superviser l'escale</inter>
+   <p>Le consignataire de navire organise l'escale des navires et prend en charge le suivi des marchandises transportées : récupération des titres de propriété des marchandises, analyse des documents pour l'exportation, déclaration aux services des douanes, répartition des frais d'escale... Il résout les problèmes d'un équipage : consultation de médecin, entretien du bateau, etc.</p>
+   <inter>Être au service de l'armateur</inter>
+   <p>Au service du commandant de bord, le consignataire de navire travaille pour le compte d'un armateur (propriétaire du navire). Son rôle est commercial et administratif : négociation de tarifs préférentiels, optimisation des capacités du navire, prospection auprès des clients potentiels... Il ressemble à un capitaine de bateau, mais à terre. Sur les lignes régulières, un agent maritime joue le rôle commercial en complément du consignataire de navire qui assume le rôle technique et administratif.</p>
+   <inter>Exploiter au mieux les bateaux</inter>
+   <p>Le consignataire de navire est chargé de prendre les mesures techniques nécessaires à la bonne exploitation des navires qui transitent au port : élaboration du plan de chargement, négociation avec les entreprises de manutention pour l'emploi de dockers et la mise à disposition de matériels, etc.</p>
+  </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18311" csRelFld="18311">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18311</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10113</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Même si le métier s'apprend sur le terrain (ou par le biais de la formation continue), un bac + 2 (voire un diplôme d'école de commerce) en gestion, économie, droit, transport, logistique... constitue un réel atout pour débuter.</accr_p>
+</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>
+<em>BTS</em> transport et prestations logistiques ;</itsimp>
+<itsimp>
+<em>DUT</em> gestion logistique et transport ;</itsimp>
+<itsimp>
+<em>Diplôme de l'Institut national des transports internationaux et des ports</em> (ITIP) : rattaché au Conservatoire national des arts et métiers (CNAM), il se prépare en 2 ans dans les universités du Havre, de Marseille et de Paris;</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18310" csRelFld="18310">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18310</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10113</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>En entreprise ou sous contrat</inter>
+<p>Le consignataire de navire travaille dans une entreprise de consignation ou dans une agence maritime, sous contrat avec des armateurs. Pour satisfaire une clientèle de plus en plus exigeante, les armateurs font appel au consignataire de navire. Le recrutement est essentiellement masculin, mais les femmes commencent à investir la profession. </p>
+<inter>Deux types d'agent</inter>
+<p>Il existe deux types d'emploi différents pour deux types d'agent. L'agent de lignes régulières est le correspondant habituel d'un ou de plusieurs armateurs. L'agent " au tramping " est le consignataire occasionnel d'un navire.</p>
+<inter>Attendre un poste vacant</inter>
+<p>Mieux vaut bien réfléchir avant de s'engager. Les salaires de départ dépassent rarement le Smic, et la progression de carrière est longue et non automatique. Un employé reste à son grade tant qu'aucun poste n'est déclaré vacant. Mais, avec de l'expérience, le consignataire de navire peut être promu chef de consignation, chef d'agence, puis directeur.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Variable en fonction du lieu d'exercice et du type d'entreprise. </p>
+<postit>
+<p>Source : Snam (Syndicat national des agents maritimes).</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

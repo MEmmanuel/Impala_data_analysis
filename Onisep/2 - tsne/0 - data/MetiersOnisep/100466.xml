@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">conseiller/ère en fusion-acquisition</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller/convaincre, négocier/me déplacer souvent/faire du commerce/manier les chiffres</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur banque/secteur audit conseil</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">finances</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé/conseiller en fusions-acquisitions</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100466</lien_onisep>
+<ROME Level="1B" csRelFld="100466">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100466">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="37484" csRelFld="37484">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37484</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100466</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Conseiller en amont</inter>
+<p>Achat, vente, fusion ou introduction en Bourse sont autant d'opérations financières qui nécessitent l'intervention du conseiller en fusions-acquisitions. Sa première mission : dénicher les bonnes affaires ! À lui de détecter, pour ses clients, les cibles potentiellement rentables en suivant de très près l'actualité du marché et en s'appuyant sur une vraie culture spécialisée et sectorielle.</p>
+<inter>Remporter un appel d'offres</inter>
+<p>Après avoir évalué les facteurs de risque et construit un dossier financier et juridique complet, le conseiller en fusions-acquisitions doit démontrer l'intérêt stratégique de l'opération au client. Le montage des dossiers prend plusieurs mois au minimum - voire 2 ans - mais sans aucune certitude de conclure l'affaire. Toutes les banques sont en compétition pour obtenir les mandats de conseils : un carnet d'adresses bien rempli fait souvent la différence.</p>
+<inter>Piloter les transactions</inter>
+<p>Lorsque ses propositions sont acceptées, le conseiller en fusions-acquisitions s'entoure de juristes, d'économistes et d'autres experts. De conseiller, il devient un véritable négociateur et pilote la transaction. Il s'implique dans les phases de valorisation et de rédaction des protocoles d'accord qui précèdent la conclusion de l'affaire pour laquelle il a été mandaté.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="37488" csRelFld="37488">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37488</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100466</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Le conseiller en fusions-acquisitions ne possède pas de formation type, même si le niveau de qualification pour ce poste est très élevé.</accr_p> Les banques d'affaires recrutent des jeunes diplômés des meilleurs écoles de commerce et d'ingénieurs, souvent titulaires de mastères spécialisés et/ou de MBA en finance. </p>
+<p>Les masters universitaires en finance d'entreprise, ingénierie financière ou comptabilité, contrôle, audit sont également très prisés. Idéalement, ce cursus se complète avec un diplôme de la filière expertise comptable (DCG, DSCG ou DEC). Une première expérience en audit ou en banque d'affaires est souvent demandée.</p>
+<inter>Niveau bac + 5 et plus</inter>
+<liste>
+<itsimp>
+<em>Masters pro</em> gestion, mention finance, spécialités banque et finance ; finance d'entreprise et ingénierie ; sciences économiques, mention monnaie finance, spécialité techniques financières et bancaires ; gestion, mention sciences du management, spécialité gestion financière et fiscalité ; droit, économie, gestion, mention finance, spécialité finance d'entreprise...</itsimp>
+<itsimp>
+<em>Master recherche</em> sciences du management, spécialité finance d'entreprise...</itsimp>
+<itsimp>
+<em>Diplôme</em> d'école supérieure de commerce ;</itsimp>
+<itsimp>
+<em>Diplôme</em> d'école d'ingénieur</itsimp>
+<itsimp>
+<em>Mastères</em>
+<em>spécialisés</em> dans le domaine de la finance...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="37486" csRelFld="37486">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37486</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100466</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Plus nombreux, plus compétitifs</inter>
+<p>Les privatisations et la mondialisation multiplient les contrats (ou deals) potentiels et les rend de plus en plus complexes. Cette évolution du marché pousse à une professionnalisation accrue des conseillers en fusions-acquisitions. Plus nombreux et plus compétitifs, ces spécialistes renouent avec la mobilité, y compris à l'international.</p>
+<inter>Vers des postes de direction</inter>
+<p>Les jeunes diplômés débutent généralement comme auditeurs ou analystes juniors avant d'acquérir une certaine expertise. C'est un métier très formateur. L'évolution classique consiste à mener des transactions de plus en plus nombreuses et importantes. Autour de la trentaine, on peut devenir senior. Si les possibilités d'évolution vers d'autres filières restent limitées, le métier ouvre vers des postes de direction : directeur financier d'une entreprise cliente ou associé-gérant dans une banque spécialisée dans le conseil aux entreprises.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>3300</sal> à 4100 euros brut par mois auxquels s'ajoute une part variable. </p>
+<postit>
+<p>Source : Apec (Agence pour l'emploi des cadres), mars 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

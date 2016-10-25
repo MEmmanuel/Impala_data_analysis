@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">critique d'art</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">informer, communiquer/exercer un métier artistique ou créatif</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">indépendant</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction information - communication</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur édition - presse/secteur culture et patrimoine</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">histoire de l'art/arts plastiques/archéologie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques de la communication média</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100696</lien_onisep>
+<ROME Level="1B" csRelFld="100696">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="148" csRelFld="148">
+<CSLABELFLD label="">E1106</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Edition et communication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">E1106</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Journalisme et information média</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100696">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="59203" csRelFld="59203">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59203</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100696</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Différents types d'écrits</inter>
+<p>La principale activité du critique d'art consiste à écrire sur l'art. Mais pas question d'écrire sans avoir effectué en amont un long travail de recherche ou rencontré l'artiste et vu ses oeuvres ! Souvent associé aux métiers de journaliste et d'écrivain, le critique d'art s'en distingue par sa prise de position et l'analyse critique des arts sur lesquels il travaille. Selon son commanditaire (éditeur, revue, musée, artiste) ou les projets qu'il mène, les sujets varient et les écrits peuvent être de différents types : préfaces de catalogues, livres, articles, etc.</p>
+<inter>Commissaire d'exposition</inter>
+<p>Le critique d'art peut également être sollicité pour concevoir et organiser une exposition artistique temporaire : il est alors commissaire d'exposition ou " curator ". Sous ce statut, il définit la problématique ou la thématique de l'exposition, sélectionne les oeuvres et les artistes, détermine la mise en espace des oeuvres dans le lieu accueillant le projet ainsi que leur restitution auprès des publics sous toute forme de diffusion (affiches publicitaires, catalogue, etc.). Et, lorsqu'un catalogue est imprimé, il en rédige les textes.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="59207" csRelFld="59207">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59207</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100696</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Aucune formation spécifique ne prépare à l'activité de critique d'art. Cependant, avoir des connaissances pointues en art et histoire de l'art est indispensable pour exercer ce métier. Il est donc vivement recommandé de suivre un parcours en histoire de l'art.</p>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licences Histoire de l'art et archéologie; Arts ; Arts plastiques</itsimp>
+<itsimp>Diplôme de 1<exp>er</exp> cycle de l'École du Louvre</itsimp>
+<itsimp>Diplôme de l'Iesa (Institut d'études supérieures des arts)</itsimp>
+<itsimp>Diplôme de l'Icart (Institut supérieur des carrières artistiques)</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Masters Histoire de l'art, Arts, Arts platiques, Création artistique</itsimp>
+<itsimp>Diplôme de 2<exp>e</exp> cycle de l'École du Louvre</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="59205" csRelFld="59205">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59205</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100696</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Une insertion difficile</inter>
+<p>Il est extrêmement difficile de devenir critique d'art. L'accès à la profession est souvent une question de chance et de rencontres. Autant dire que le réseau professionnel tient une place déterminante, et participer activement à l'actualité artistique (vernissages, expositions, débats, conférences) est capital.</p>
+<p>De plus, seuls les membres de l'Aica (Association internationale des critiques d'art) sont officiellement reconnus par la profession. Pour être accepté dans l'association, il faut déjà avoir produit différents écrits, s'être fait remarquer et être parrainé par deux critiques d'art, eux-mêmes membres de l'Aica.</p>
+<inter>Une activité complémentaire</inter>
+<p>La critique d'art est une activité très précaire, qui ne permet pas de vivre décemment, surtout lorsque l'on ne bénéficie pas d'une certaine notoriété. Il est donc nécessaire d'avoir une activité principale qui assure une rémunération fixe. La plupart des critiques d'art sont avant tout des enseignants, des conseillers artistiques dans des municipalités, etc.</p>
+<p>Pour les débutants, la critique est souvent une activité bénévole, le temps de percer et de se faire un nom dans le milieu.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Variable selon les contrats et la notoriété du critique.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

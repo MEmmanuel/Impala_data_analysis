@@ -1,0 +1,335 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent(e) am\u00e9nagement des circuits p\u00e9destres, \u00e9questres, VTT",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'am\u00e9nagement des circuits p\u00e9destres, \u00e9questres et Vtt",
+            "code_ogr": "10382"
+        },
+        {
+            "libelle_court": "Agent / Agente d'am\u00e9nagement des haies et foss\u00e9s",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'am\u00e9nagement des haies et foss\u00e9s",
+            "code_ogr": "10383"
+        },
+        {
+            "libelle_court": "Agent / Agente d'entretien de la nature",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'entretien de la nature",
+            "code_ogr": "10664"
+        },
+        {
+            "libelle_court": "Agent / Agente d'entretien de l'espace rural",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'entretien de l'espace rural",
+            "code_ogr": "10667"
+        },
+        {
+            "libelle_court": "Agent / Agente d'entretien des espaces naturels",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'entretien des espaces naturels",
+            "code_ogr": "10673"
+        },
+        {
+            "libelle_court": "Agent / Agente d'entretien des rivi\u00e8res",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'entretien des rivi\u00e8res",
+            "code_ogr": "10677"
+        },
+        {
+            "libelle_court": "Agent / Agente d'entretien nature du littoral",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'entretien nature du littoral",
+            "code_ogr": "10685"
+        },
+        {
+            "libelle_court": "Agent / Agente d'entretien nature et biodiversit\u00e9",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'entretien nature et biodiversit\u00e9",
+            "code_ogr": "38323"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe d'entretien d'espaces naturels",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe d'entretien d'espaces naturels",
+            "code_ogr": "12440"
+        },
+        {
+            "libelle_court": "Ouvrier / Ouvri\u00e8re d'entretien des espaces naturels",
+            "priorisation": "1",
+            "libelle": "Ouvrier / Ouvri\u00e8re d'entretien des espaces naturels",
+            "code_ogr": "17474"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier le type et le lieu d'intervention \u00e0 partir du planning, pr\u00e9parer et param\u00e9trer le mat\u00e9riel",
+            "code_ogr": "2072",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer la zone et collecter manuellement les d\u00e9chets sur le site (rivi\u00e8re, littoral, parc naturel, ...)",
+            "code_ogr": "2415",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Entretenir le site (d\u00e9broussaillage, fauchage, faucardage, ...)",
+            "code_ogr": "1816",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la maintenance pr\u00e9ventive/curative de premier niveau des \u00e9quipements",
+            "code_ogr": "3534",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la pose et l'entretien des installations de terrain et petit b\u00e2ti de protection d'espaces naturels (murets, piquets, mobiliers r\u00e9cr\u00e9atifs, escaliers)",
+            "code_ogr": "1527",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les op\u00e9rations de pr\u00e9paration des sols et de plantation (\u00e9pandage, semis, r\u00e9colte, ...)",
+            "code_ogr": "1639",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "A1203",
+            "libelle_rome_cible": "Entretien des espaces verts"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un CAP/BEP agricole en entretien et am\u00e9nagement des espaces naturels ruraux.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle sans dipl\u00f4me particulier.\nLa vaccination anti-t\u00e9tanique peut \u00eatre requise.\nUn ou plusieurs Certificat(s) d'Aptitude \u00e0 la Conduite En S\u00e9curit\u00e9 -CACES- conditionn\u00e9(s) par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement peu(ven)t \u00eatre exig\u00e9(s).\nLes permis BE, C, C1 (pr\u00e9c\u00e9demment EB et C) peuvent \u00eatre requis.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 372-1 (Tracteur et petits engins de chantiers mobiles)",
+            "code_ogr": "10104",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 386 (Plates-formes \u00e9l\u00e9vatrices mobiles de personnes)",
+            "code_ogr": "10120",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 390 (Grues auxiliaires de chargement de v\u00e9hicules)",
+            "code_ogr": "10128",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser les op\u00e9rations d'ouverture et d'am\u00e9nagement de sentiers pour le public",
+            "code_ogr": "9248",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der \u00e0 l'entretien des plantations par tron\u00e7onnage, \u00e9lagage, taille des arbustes, ...",
+            "code_ogr": "8118",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la restauration \u00e9cologique de milieux naturels (lande, marais, mare, ...)",
+            "code_ogr": "38315",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser la pose et l'entretien de filets, murets de sout\u00e8nement pour la stabilisation des dunes",
+            "code_ogr": "9170",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de parcs naturels, de collectivit\u00e9s territoriales, en relation avec diff\u00e9rents intervenants (\u00e9co garde, conducteurs de travaux, services de la voirie, ...).\nElle varie selon le lieu d'intervention (parc naturel, espace rural, rivi\u00e8re, littoral, ...).\nElle s'effectue \u00e0 l'ext\u00e9rieur et peut impliquer la manipulation de charges.\nLe port d'\u00e9quipements de protection (veste renforc\u00e9e anti-coupe, protecteurs anti-bruit, ...) peut \u00eatre requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan",
+            "code_ogr": "20946",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils de taille (s\u00e9cateur, tron\u00e7onneuse, ...)",
+            "code_ogr": "21473",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise d'insertion",
+            "code_ogr": "23906",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Parc naturel",
+            "code_ogr": "24031",
+            "code_type_section_env": "1"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des \u00e9cosyst\u00e8mes",
+            "code_ogr": "21572",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des sols",
+            "code_ogr": "21655",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques culturales",
+            "code_ogr": "22757",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en ma\u00e7onnerie",
+            "code_ogr": "21879",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de taille de v\u00e9g\u00e9taux",
+            "code_ogr": "23133",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes environnementales",
+            "code_ogr": "22230",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation des espaces et esp\u00e8ces prot\u00e9g\u00e9s",
+            "code_ogr": "22542",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Classification des esp\u00e8ces animales",
+            "code_ogr": "21717",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des v\u00e9g\u00e9taux",
+            "code_ogr": "21666",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de pr\u00e9servation de la biodiversit\u00e9",
+            "code_ogr": "38314",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nAm\u00e9nage et entretient des espaces naturels (bordures de cours d'eau, dunes, talus, ...) afin de pr\u00e9server leurs qualit\u00e9s biologiques selon les r\u00e8gles de s\u00e9curit\u00e9 et la r\u00e9glementation environnementale.\nPeut installer des \u00e9quipements de pr\u00e9servation du littoral.\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "Entretien des espaces naturels",
+    "code_ogr": "8",
+    "code_rome": "A1202",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "A1204",
+            "libelle_rome_cible": "Protection du patrimoine naturel"
+        },
+        {
+            "code_rome_cible": "K2303",
+            "libelle_rome_cible": "Nettoyage des espaces urbains"
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent administratif / Agente administrative",
+            "priorisation": "1",
+            "libelle": "Agent administratif / Agente administrative",
+            "code_ogr": "10349"
+        },
+        {
+            "libelle_court": "Auxiliaire de bureau",
+            "priorisation": "1",
+            "libelle": "Auxiliaire de bureau",
+            "code_ogr": "11445"
+        },
+        {
+            "libelle_court": "Employ\u00e9 / Employ\u00e9e aux archives",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 / Employ\u00e9e aux archives",
+            "code_ogr": "14751"
+        },
+        {
+            "libelle_court": "Employ\u00e9 / Employ\u00e9e de bureau",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 / Employ\u00e9e de bureau",
+            "code_ogr": "14757"
+        },
+        {
+            "libelle_court": "Employ\u00e9 administratif / Employ\u00e9e administrative",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 administratif / Employ\u00e9e administrative",
+            "code_ogr": "14748"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Proc\u00e9der \u00e0 l'enregistrement, au tri, \u00e0 l'affranchissement du courrier",
+            "code_ogr": "3587",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations de saisie de courrier, de tableaux, ... selon les consignes",
+            "code_ogr": "2758",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Constituer les dossiers administratifs et contr\u00f4ler les donn\u00e9es, leur mise \u00e0 jour, les retours ou les relances",
+            "code_ogr": "987",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9ceptionner les appels t\u00e9l\u00e9phoniques et les orienter vers les interlocuteurs demand\u00e9s ou prendre des messages",
+            "code_ogr": "2918",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "E1307",
+            "libelle_rome_cible": "Reprographie"
+        },
+        {
+            "code_rome_cible": "M1601",
+            "libelle_rome_cible": "Accueil et renseignements"
+        },
+        {
+            "code_rome_cible": "M1606",
+            "libelle_rome_cible": "Saisie de donn\u00e9es"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de fin d'\u00e9tudes secondaires (brevet des coll\u00e8ges) \u00e0 Bac (professionnel, Brevet Professionnel, ...) dans le secteur tertiaire.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle sans dipl\u00f4me particulier.\nLa ma\u00eetrise de l'outil bureautique (traitement de texte, tableur, ...) peut \u00eatre requise.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Accueillir les personnes et identifier leur demande",
+            "code_ogr": "3499",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der \u00e0 l'indexation, au classement et \u00e0 l'archivage de documents",
+            "code_ogr": "8149",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des travaux de reprographie",
+            "code_ogr": "9123",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises priv\u00e9es ou publiques, de collectivit\u00e9s territoriales ou des services de l'Etat.\nElle varie selon le secteur (commerce, industrie, Services de l'Etat, ...) et l'organisation de la structure.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise",
+            "code_ogr": "23867",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise publique/\u00e9tablissement public",
+            "code_ogr": "23912",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Administration / Services de l'Etat",
+            "code_ogr": "23388",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Au domicile de particulier",
+            "code_ogr": "23375",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de prise de notes",
+            "code_ogr": "23061",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'\u00e9criture rapide",
+            "code_ogr": "23185",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9thodes de classement et d'archivage",
+            "code_ogr": "22127",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nEx\u00e9cute des travaux administratifs courants (v\u00e9rification de documents, frappe et mise en forme de courriers pr\u00e9-\u00e9tablis, suivi de dossier administratifs, ...) selon l'organisation de la structure ou du service.\nPeut \u00eatre en charge d'activit\u00e9s de reprographie et d'archivage.\nPeut r\u00e9aliser l'accueil de la structure.\n",
+    "intitule": "Op\u00e9rations administratives",
+    "code_ogr": "475",
+    "code_rome": "M1602",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "C1401",
+            "libelle_rome_cible": "Gestion en banque et assurance"
+        },
+        {
+            "code_rome_cible": "M1607",
+            "libelle_rome_cible": "Secr\u00e9tariat"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">plombier/ère</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">réparer, entretenir, installer des équipements/me déplacer souvent/exercer un travail manuel</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">artisan/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction installation/fonction maintenance</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur second oeuvre bâtiment</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">plomberie/installation sanitaire</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE bâtiment équipements et finitions/plombier</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10027</lien_onisep>
+<ROME Level="1B" csRelFld="10027">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="197" csRelFld="197">
+<CSLABELFLD label="">F1603</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Second oeuvre</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">F1603</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Installation d'équipements sanitaires et thermiques</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10027">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1073" csRelFld="1073">
+<CSLABELFLD label="">plombier-chauffagiste / plombière-chauffagiste</CSLABELFLD>
+<MET_ID label="Identifiant">10027</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">03/01/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1073</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">plombier/ère-chauffagiste</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1073">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18252" csRelFld="18252">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18252</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10027</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Relevés et schémas</inter>
+<p>Spécialiste des installations sanitaires (tuyaux, robinets, chauffe-eau, compteurs...), le plombier s'inspire des plans de l'architecte pour étudier la localisation des appareils, le parcours des canalisations et la conformité de l'ensemble aux normes de sécurité. Il peut être amené à effectuer lui-même des relevés pour établir les schémas d'installation.</p>
+<inter>Pose des conduites</inter>
+<p>Il trace des repères le long des murs et des planchers, il perce les trous nécessaires à la pose des conduites. Puis il façonne la tuyauterie en coupant les tubes aux dimensions voulues. La soudure permettra de les relier les uns aux autres, ou de les connecter à un appareil (machine à laver, radiateur...).</p>
+<inter>Ultimes réglages</inter>
+<p>Une fois le système installé, le plombier vérifie l'étanchéité et l'isolation. Si aucune fuite n'est décelée et que tout fonctionne bien, il peut poser les appareils sanitaires (baignoire, lavabo, évier...), procéder aux raccordements électriques, aux réglages et à la mise en service.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18248" csRelFld="18248">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18248</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10027</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<inter>CAP, le minimum requis</inter>
+<liste>
+<itsimp>Le CAP constitue la formation de base. Il se prépare en 2 ans, après la classe de 3<exp>e</exp> , dans un lycée professionnel ou par apprentissage.</itsimp>
+<itsimp>La formation la plus adaptée pour exercer le métier de plombier est le CAP installateur sanitaire. Le CAP peut être utilement complété par une MC. La MC zinguerie permet d'acquérir une double compétence plombier-zingueur, très appréciée par les recruteurs. La MC maintenance en équipement thermique individuel permet d'évoluer, à terme, vers un poste de technicien de maintenance en génie climatique (voir la fiche consacrée à ce métier).</itsimp>
+<itsimp>Avec le bac pro technicien en installation ou technicien de maintenance des systèmes énergétiques et climatiques, préparés en 3 ans après la 3<exp>e</exp> , on peut intégrer un service technico-commercial ou accéder à des fonctions d'encadrement. L'obtention du BTS fluides, énergies, environnements option génie sanitaire et thermique permet de conduire un chantier.</itsimp>
+<itsimp>Le BP monteur en installations du génie climatique et sanitaires et le BP métiers de la piscine permettent d'acquérir une qualification supérieure en se formant, notamment, à la gestion d'entreprise : 2 ans d'études après un CAP ou un autre diplôme de niveau V.</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18250" csRelFld="18250">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18250</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10027</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des professionnels très demandés</inter>
+<p>Entre la rénovation de la plomberie des bâtiments anciens et l'installation dans les nouvelles constructions, les chantiers ne manquent pas. La demande des entreprises est d'autant plus pressante qu'elles ont du mal à trouver du personnel qualifié.</p>
+<inter>Double compétence appréciée</inter>
+<p>Les candidats qui se présentent avec une double compétence (plombier-chauffagiste, plombier-couvreur ou plombier-zingueur) sont particulièrement appréciés.</p>
+<inter>Des perspectives d'évolution</inter>
+<p>Après quelques années de pratique, le plombier peut évoluer vers un poste de chef de chantier ou de conducteur de travaux. Il peut aussi se mettre à son compte, comme artisan installateur ou dépanneur.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1500</sal> euros brut par mois, voire davantage.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

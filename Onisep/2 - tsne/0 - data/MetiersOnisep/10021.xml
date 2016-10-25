@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">tailleur/euse de pierre</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">fabriquer, construire/exercer un métier artistique ou créatif/exercer un travail manuel/travailler un matériau</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">artisan/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction fabrication artisanale</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur gros oeuvre bâtiment</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">pierre/restauration d'art/bâtiment - gros oeuvre</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">tailleur de pierre/GFE bâtiment gros oeuvre génie civil</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10021</lien_onisep>
+<ROME Level="1B" csRelFld="10021">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="206" csRelFld="206">
+<CSLABELFLD label="">F1612</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Second oeuvre</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">F1612</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Taille et décoration de pierres</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10021">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16880" csRelFld="16880">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16880</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10021</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Ne pas confondre</inter>
+<p>Cette profession est différente de celle du sculpteur. Le tailleur de pierre réalise la « structure » de l'édifice en pierre (murs, voûtes..) ; le sculpteur, lui, exécute tout ce qui concerne la décoration et l'embellissement (bas-reliefs...).</p>
+<inter>Façonner la roche </inter>
+<p>Les roches extraites des carrières arrivent à l'atelier sous forme d'épaisses tranches. Avant de se lancer dans les délicates opérations du façonnage, le tailleur de pierre commence par scier et débiter ces gros blocs de pierre. Un travail qui s'effectue aujourd'hui à l'aide de tronçonneuses équipées d'un disque en diamant.</p>
+<inter>De la pierre de taille à la cheminée</inter>
+<p>S'inspirant des dessins qui lui ont été transmis par l'architecte, le tailleur modèle la pierre de taille jusqu'à lui donner la forme recherchée. Selon la commande, il fabrique un dallage, une rampe, une corniche, une voûte, une colonne ou une cheminée. Il polit ou vernit son ouvrage avant de le livrer au client ou de le poser sur un chantier.</p>
+<inter>Se spécialiser </inter>
+<p>Le tailleur de pierre peut se spécialiser dans les travaux marbriers, y compris la marbrerie funéraire (fabrication et entretien de stèles). Il peut aussi choisir la gravure et réaliser des bas-reliefs. Ou se consacrer à la restauration des monuments historiques.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18059" csRelFld="18059">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18059</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10021</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Le CAP tailleur de pierre, même assorti d'une MC, ne suffit pas toujours pour se faire recruter. Il est donc conseillé de poursuivre ses études jusqu'au niveau bac.</accr_p>
+</p>
+<inter>Niveau CAP</inter>
+<p>
+<em>CAP</em> tailleur de pierre</p>
+<inter>Niveau bac</inter>
+<liste>
+<itsimp>
+<em>Bac pro</em> métiers et arts de la pierre</itsimp>
+<itsimp>BP (<em>brevet professionnel</em> ) métiers de la pierre</itsimp>
+<itsimp>BP (brevet professionnel) tailleur de pirerre des monuments historiques</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16857" csRelFld="16857">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16857</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10021</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Besoin de jeunes qualifiés</inter>
+<p>Dans un contexte de pénurie de main-d'oeuvre qualifiée, les jeunes titulaires d'un BP ou d'un bac pro n'ont pas trop de difficultés à trouver du travail. Les principaux recruteurs sont les entreprises du bâtiment. Les programmes de restauration des monuments historiques créent également de l'emploi. Quelques débouchés du côté des marbriers funéraires.</p>
+<inter>Endosser des responsabilités</inter>
+<p>Avec une bonne formation de base et une solide expérience, un tailleur de pierre peut espérer devenir chef d'équipe, puis chef de chantier, voire conducteur de travaux.</p>
+<inter>Créer son entreprise</inter>
+<p>Le tailleur de pierre peut également reprendre ou créer sa propre entreprise. Dans ce cas, il lui faudra maintenir ou développer une clientèle. Ses meilleures alliées sont la psychologie (pour comprendre le désir du client et l'amener, parfois, à renoncer aux idées qui ne sont pas réalisables) et la rigueur (respect des délais et du devis).</p>
+<remun>
+<inter>Salaire brut mensuel du débutant</inter>
+<p>À partir du <sal>Smic</sal>.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

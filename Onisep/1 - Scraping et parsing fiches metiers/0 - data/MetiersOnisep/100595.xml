@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">rudologue</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">me déplacer souvent/préserver l'environnement</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique/secteur sociétés d'ingénierie et d'études techniques/secteur industrie</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">valorisation des déchets</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE nettoyage assainissement environnement sécurité</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100595</lien_onisep>
+<ROME Level="1B" csRelFld="100595">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="265" csRelFld="265">
+<CSLABELFLD label="">H1206</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception, recherche, études et développement</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H1206</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie études, recherche et développement industriel</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100595">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1515" csRelFld="1515">
+<CSLABELFLD label="">animateur / animatrice en rudologie</CSLABELFLD>
+<MET_ID label="Identifiant">100595</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">24/10/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1515</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">animateur/trice en rudologie</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1515">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1514" csRelFld="1514">
+<CSLABELFLD label="">chargé / chargée de recherche et développement déchets</CSLABELFLD>
+<MET_ID label="Identifiant">100595</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">24/10/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1514</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chargé/e de recherche et développement déchets</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1514">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="55570" csRelFld="55570">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55570</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100595</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Analyser la production des déchets </inter>
+<p>Du latin " rudus " qui signifie décombres, la rudologie est l'étude sociologique des déchets : déchets ménagers, hospitaliers, nucléaires... Cette nouvelle science a de beaux jours devant elle. Le rudologue est chargé de l'analyse de la production des déchets et des nuisances qu'ils génèrent. Il effectue des prélèvements sur des sites suspects et analyse en laboratoire ces échantillons. Il définit les caractéristiques de chaque déchet et, après synthèse, communique ses données aux organismes responsables des collectes et des traitements. </p>
+<inter>Mettre en place des solutions</inter>
+<p>Le rudologue scrute les tonnages de déchets et cherche des solutions en amont de la production, afin d'éviter une augmentation trop importante des quantités produites. Il favorise la valorisation : le réemploi (avec des emballages consignés, par exemple), la réutilisation (nouvel emploi pour un usage différent), le recyclage et l'utilisation des déchets comme source d'énergie. Afin de réduire la fréquence des risques environnementaux, il surveille les installations (centre d'enfouissement, station d'épuration...) pouvant provoquer des pollutions. Il propose l'exécution de travaux pour diminuer les nuisances détectées, la mise en place de la collecte sélective, etc.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55574" csRelFld="55574">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55574</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100595</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Si le métier est accessible aux titulaires d'un bac + 3 (licence pro), ce sont les titulaires d'un bac + 5 (master ou diplôme d'ingénieur) au minimum qui sont plus facilement recrutés, notamment par les grandes entreprises du secteur privé.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master dans les domaines de l'ingénierie des déchets, de la gestion des risques industriels, de la pollution atmosphérique, de la physique de l'environnement, de la microbiologie de l'environnement, de l'aménagement et de la gestion des déchets...</itsimp>
+<itsimp>Diplôme d'ingénieur en chimie, rudologie, génie des procédés, fluides et énergie...</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 6</tete>
+<itsimp>Mastère spécialisé en gestion, traitement et valorisation des déchets</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55572" csRelFld="55572">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55572</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100595</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un métier en croissance</inter>
+<p>Depuis le 1<exp>er</exp>  janvier 2012, la loi Grenelle 2 rend obligatoire la mise en oeuvre de programmes locaux de prévention dans les collectivités en charge de la gestion des déchets. Réduire les déchets ménagers permet d'économiser les matières premières. La plupart des emballages plastiques et de nombreux objets proviennent en effet du pétrole. La réduction des déchets permet d'éviter le gaspillage des ressources. L'enjeu est de taille et la gestion des déchets est un secteur de recrutement dynamique.</p>
+<inter>Dans une collectivité locale...</inter>
+<p>Les emplois se trouvent dans les collectivités locales (villes, communautés de communes). Dans la fonction publique territoriale, le recrutement s'effectue sur concours. L'évolution de carrière dépend aussi de la réussite à des concours internes.</p>
+<inter>... ou au sein d'un grand groupe</inter>
+<p>Le rudologue travaille aussi en bureau d'études ou dans un grand groupe industriel. Dans l'industrie, il est généralement ingénieur de formation. Il supervise la réduction des déchets produits par l'usine et travaille en relation avec le département recherche et développement, pour que les modes de fabrication soient moins polluants. Il peut évoluer vers d'autres responsabilités au sein du groupe, diriger des équipes plus importantes ou bouger géographiquement.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1615</sal> euros brut par mois (pour un ingénieur rudologue dans la fonction publique territoriale).</p>
+<p>2500 euros brut par mois (pour un ingénieur rudologue dans le secteur privé).</p>
+<postit>
+<p>Sources : grille indiciaire territoriale, 2014 ; Apec (Association pour l'emploi des cadres), 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

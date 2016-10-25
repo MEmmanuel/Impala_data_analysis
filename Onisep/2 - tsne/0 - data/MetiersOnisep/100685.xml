@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e qualité moteur</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe/concevoir, utiliser des technologies industrielles de pointe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur construction aéronautique/secteur construction automobile/secteur industrie chimique/secteur industrie agroalimentaire/secteur énergie/secteur construction ferroviaire</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">aéronautique espace/industrie spatiale/construction automobile/mécanique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE mécanique automatismes</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100685</lien_onisep>
+<ROME Level="1B" csRelFld="100685">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="281" csRelFld="281">
+<CSLABELFLD label="">H1502</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Qualité et analyses industrielles</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H1502</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie qualité industrielle</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="265" csRelFld="265">
+<CSLABELFLD label="">H1206</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception, recherche, études et développement</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H1206</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie études, recherche et développement industriel</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100685">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56852" csRelFld="56852">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56852</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100685</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Spécialiste du démarrage </inter>
+<p>L'ingénieur qualité moteur conçoit, par exemple, des systèmes de propulsion qui, en éjectant des gaz à grande vitesse, permettent de lancer un satellite en orbite ou de faire décoller un aéronef. Son premier travail : choisir les composants, définir l'architecture de l'élément et son intégration dans l'aéronef. À lui de repérer et de supprimer toute défaillance. Ensuite, il élabore le réservoir où l'on stockera les fluides propulsifs, le moteur dans lequel ils seront brûlés, la tuyère pour éjecter les gaz, le système de pressurisation... </p>
+<inter>Vérifier la conformité </inter>
+<p>Une fois la phase d'études terminée, un prototype est construit. Des équipes internes d'essais et des organismes de certification le testent au sol, et éventuellement en vol (pour les avions, fusées...). L'ingénieur qualité moteur analyse ensuite les résultats, et vérifie qu'ils sont conformes aux attentes établies durant la conception, en termes de performances et de sécurité. </p>
+<inter>Coordonner les équipes </inter>
+<p>L'ingénieur qualité moteur anime et coordonne les actions menées, de la conception au développement du moteur en passant par les essais et la production des composants, pour s'assurer de la qualité à chaque étape. Toujours dans ce souci, il prévient ou traite chaque anomalie qui survient dans le processus. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56856" csRelFld="56856">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56856</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100685</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Pour devenir ingénieur qualité moteur, il faut être titulaire d'un bac + 5 (diplôme d'ingénieur) voire d'un bac + 6 (mastère spécialisé) dans le domaine de la mécanique. </p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur en mécanique, automobile, aéronautique...</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 6</tete>
+<itsimp>Mastère spécialisé en aéronautique et spatial, propulsion, thermique, mécanique, énergétique, fluidique... </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56854" csRelFld="56854">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56854</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100685</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Grands espaces</inter>
+<p>L'ingénieur qualité moteur exerce son métier principalement au sein des (très) grandes entreprises de construction et de maintenance aéronautique (motoristes, avionneurs, équipementiers, compagnies aériennes...) ou des organismes de recherche spatiale. D'autres secteurs industriels sont aussi concernés : automobile, énergie, agroalimentaire, chimie...</p>
+<inter>Des profils rares</inter>
+<p>Le poste d'ingénieur qualité moteur est relativement récent. Il offre de nouvelles perspectives pour l'ingénierie de demain. Les entreprises de pointe s'intéressent de plus en plus à ce genre de profils.</p>
+<inter>Des perspectives d'évolution </inter>
+<p>Certes, la majorité des postes d'ingénieur qualité moteur concerne le domaine technique, mais de nombreuses carrières, notamment dans l'industrie automobile, se poursuivent dans le marketing, la R &amp; D (recherche et développement), le commercial... L'ingénieur qualité moteur peut, par exemple, intégrer le support clients de son entreprise, ou devenir responsable de production ou de conception. La mobilité est également possible, au gré des opportunités d'évolution de carrière, comme auditeur, expert technique, ingénieur en bureau d'études, ingénieur marketing, ingénieur méthodes... </p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2600</sal> à 3400 euros bruts par mois.</p>
+<postit>
+<p>UIMM 2013</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

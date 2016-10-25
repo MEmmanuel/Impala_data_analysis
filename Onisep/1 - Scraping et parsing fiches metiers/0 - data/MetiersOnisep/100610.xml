@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">designer sonore</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un métier artistique ou créatif</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/indépendant</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur de l'audiovisuel/secteur de la publicité/secteur édition - presse/secteur construction automobile</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">son</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques de la communication média</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100610</lien_onisep>
+<ROME Level="1B" csRelFld="100610">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="553" csRelFld="553">
+<CSLABELFLD label="">L1507</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Techniciens du spectacle</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">L1507</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Montage audiovisuel et post-production</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100610">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="55975" csRelFld="55975">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55975</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100610</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>De nombreuses applications</inter>
+<p>Il y a autant de réalités professionnelles pour le designer sonore que de secteurs dans lesquels il peut exercer ses talents. Mais, avec toujours un même objectif : donner du sens au son. Dans l'audiovisuel et le multimédia, le designer sonore crée les bruitages d'un logiciel, compose la musique d'un jeu vidéo, d'un site web ou d'une émission, par exemple.</p>
+<inter>Différents domaines</inter>
+<p>S'il travaille dans la communication, il compose ou trouve la musique originale d'une publicité ou invente le jingle qui rendra une marque immédiatement reconnaissable et inoubliable. Le but : changer l'image d'une entreprise ou influencer l'achat d'un produit. Dans l'industrie, il peut, par exemple, trouver le meilleur son pour chaque voyant d'alerte d'une voiture, ou veiller à rendre le son des appareils électroménagers moins bruyant. Dans le domaine artistique, il peut être amené à créer l'environnement sonore d'un spectacle ou d'une exposition, ou encore habiller l'espace public en lui donnant une dimension sonore.</p>
+<inter>Différentes étapes</inter>
+<p>Dans tous les cas, il procède par étapes : identification du projet, conception, réalisation technique, assemblage et mise en forme des sons, finalisation et suivi. Un travail très complet !</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55979" csRelFld="55979">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55979</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100610</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>En dehors du diplôme (de niveau bac + 5) de l'Esbam (École supérieure des beaux-arts du Mans) délivré en partenariat avec l'Ensci et l'Ircam, plusieurs écoles proposent des formations au design sonore. Quelle que soit la formation, l'employeur demandera avant tout d'écouter quelques-unes des réalisations avant de se faire une opinion.</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>
+<em>Diplôme d'écoles</em> : Diplôme de réalisation sonore (Eicar)</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>
+<em>Licence pro</em> réalisation audiovisuelle et design sonore</itsimp>
+<itsimp>
+<em>Diplôme d'écoles</em> : Designer sonore (Afca Multimédia)</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>
+<em>DNSEP</em> (diplôme national supérieur d'expression plastique) spécialité design sonore (Le Mans) </itsimp>
+<itsimp>
+<em>Master</em> jeux et médias interactifs numériques parcours conception sonore (Cnam, Angoulême)</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55977" csRelFld="55977">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55977</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100610</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Toujours à l'écoute</inter>
+<p>L'habillage sonore prend une place de plus en plus importante dans notre environnement. Les techniques évoluent sans cesse et les attentes des consommateurs sont de plus en plus grandes. Le designer sonore doit sans cesse se remettre en question et se réinventer en étant à l'écoute des tendances. Même s'il acquiert une certaine notoriété, pas question de s'endormir sur ses lauriers !</p>
+<inter>Plusieurs types d'employeurs</inter>
+<p>Les créateurs de jeux vidéo et les sociétés spécialisées du Web sont les premiers recruteurs de designers sonores. Il existe également un petit nombre d'agences spécialisées en design musical et sonore qui salarient des designers sonores ou font travailler des professionnels indépendants. Certains secteurs de l'industrie, comme l'automobile ou les transports, peuvent également les embaucher.</p>
+<inter>À son compte</inter>
+<p>S'il a acquis une certaine notoriété et peut justifier d'un certain nombre de réalisations remarquées, le designer sonore peut créer sa propre agence ou travailler à la demande, en tant que free-lance. Dans ce cas, une grande partie de son temps sera consacrée à la recherche de clients ou à la réponse à des appels d'offres. À l'inverse, il peut se spécialiser et devenir ingénieur du son dans un studio, par exemple.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2131</sal> euros brut par mois en CDI (contrat à durée indéterminée).</p>
+<postit>
+<p>Source : grille salariale de l'Union syndicale de la production audiovisuelle, 2014.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

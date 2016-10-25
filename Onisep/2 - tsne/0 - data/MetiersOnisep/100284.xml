@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">télévendeur/euse</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">convaincre, négocier/faire du commerce</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction vente</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur banque/secteur assurances/secteur des télécommunications/secteur du tourisme/secteur commerce</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">vente/commerce distribution</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE commerce distribution/télévendeur</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100284</lien_onisep>
+<ROME Level="1B" csRelFld="100284">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100284">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18970" csRelFld="18970">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18970</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100284</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Répondre aux questions</inter>
+<p>Le télévendeur renseigne les clients et dissipe leurs inquiétudes. Il apporte une réponse claire et précise à toutes les questions qui lui sont posées : délais, modalités de paiement, possibilités de remboursement, existence ou non d'un service clientèle... L'enregistrement des commandes et leur suivi informatique font également partie de ses attributions.</p>
+<inter>Fidéliser les clients</inter>
+<p>Le télévendeur joue un rôle essentiel dans la stratégie de fidélisation de son entreprise. Il signale aux clients la sortie d'un nouveau produit, attire leur attention sur une offre intéressante... Il mène aussi des enquêtes pour évaluer leur degré de satisfaction.</p>
+<inter>Une offre sur mesure</inter>
+<p>Comme tout commercial, le télévendeur démarche une liste de clients potentiels. Il utilise tous les moyens à sa disposition pour établir un contact : téléphone, courriels... Ciblant ses offres en fonction du profil de son interlocuteur (âge, sexe, centres d'intérêt, pouvoir d'achat...), il prépare soigneusement son argumentaire.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17837" csRelFld="17837">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17837</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100284</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Un diplôme de niveau bac dans le domaine commercial est le minimum requis. Exemple : un bac pro vente ou commerce, complété par une mention complémentaire (MC) assistance, conseil, vente à distance. Un bac + 2 (BTS, DUT), voire un bac + 3 (licence pro) permet d'évoluer plus facilement vers un poste à responsabilités. À noter : il n'existe pas de formation spécifique au métier de télévendeur.</p>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>Bac pro vente ; commerce</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 1</tete>
+<itsimp>MC assistance, conseil, vente à distance</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS MUC (management des unités commerciales) ; BTS NRC (négociation et relation client) ; BTS technico-commercial ; BTS tourisme</itsimp>
+<itsimp>DUT techniques de commercialisation</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence pro mention métiers du marketing opérationnel ; commerce et distribution ; commercialisation de produits et services ; e-commerce et marketing numérique ; métiers du tourisme : commercialisation des produits touristiques</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18973" csRelFld="18973">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18973</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100284</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Tous secteurs confondus</inter>
+<p>La télévente s'est imposée dans tous les secteurs d'activité : banque, assurance, mais aussi tourisme, informatique, téléphonie... La plupart des entreprises externalisent cette activité via des centres d'appels situés à l'étranger. Cependant, la France abrite 3 500 centres de relation client sur son territoire.</p>
+<inter>Des places à prendre</inter>
+<p>On recense déjà plus de 273 000 télévendeurs. Avec une progression continue des effectifs. La relation client résiste donc à la crise. Elle pourrait même se trouver renforcée par ce contexte difficile : sur un marché concurrentiel, les entreprises ont bien compris qu'elles avaient intérêt à soigner leurs clients...</p>
+<inter>Évolution rapide</inter>
+<p>Après une expérience réussie de 2 ou 3 ans, on peut devenir superviseur et encadrer une équipe de 10 à 20 personnes. À plus long terme, on peut accéder à un poste de chef de plateau. Il est également possible de devenir formateur ou de s'orienter vers d'autres fonctions commerciales au sein de l'entreprise.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Variable en fonction du lieu d'exercice et du type d'entreprise.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

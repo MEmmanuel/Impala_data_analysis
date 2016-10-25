@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">bio-informaticien/ne</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">programmer, créer du contenu numérique</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conception </MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie pharmaceutique/secteur industrie agroalimentaire/secteur recherche/secteur sociétés de service et de conseil en informatique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">biologie/informatique/santé</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit/bio-informaticien</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100339</lien_onisep>
+<ROME Level="1B" csRelFld="100339">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100339">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="31318" csRelFld="31318">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31318</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100339</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Informatiser le vivant</inter>
+<p>Grâce au bio-informaticien et à la puissance de calcul de son ordinateur, les milliards de données produites par l'organisation des gènes peuvent être exploitées, analysées et comparées par les chercheurs en biologie. Les enjeux sont importants : découverte de nouveaux traitements, amélioration des espèces, préservation de la biodiversité, contrôle qualité dans l'agro-industrie et l'environnement...</p>
+<inter>Modéliser les données</inter>
+<p>Que ce soit pour modéliser des structures de protéines ou annoter des génomes, l'outil informatique est indispensable. C'est le bio-informaticien qui est chargé de créer les logiciels et bases de données recueillant les informations issues du vivant.</p>
+<inter>Programmer et analyser</inter>
+<p>Des spécialisations du métier se font jour. Soit dans le développement d'outils informatiques et statistiques : programmation, création et gestion de bases de données, interfaçage homme-machine. Soit dans l'utilisation de ces outils à des fins d'analyse, par exemple pour identifier la fonction de gènes ou modéliser des processus biologiques...</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="31322" csRelFld="31322">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31322</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100339</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Les bio-informaticiens ont une double compétence en sciences de la vie et en informatique, de niveau bac + 5.</p>
+<p>Deux voies de formation possibles : </p>
+<p>1/ avec un master universitaire mention Bio-informatique. <em>La plupart des cursus</em> (comme à Montpellier 2, Nantes ....) <em>s'adressent à des biologistes ou des biochimistes</em> . D'autres (Aix-Marseille 2, Rennes 1 ...) accueillent également des <em>informaticiens</em> ou des <em>mathématiciens</em> . <em>Certaines universités</em> , comme Poitiers, <em>proposent des parcours</em> de bio-informatique <em>dès la licence</em> . </p>
+<p>2/ Avec un diplôme d'ingénieur en bio-informatique, le plus souvent dans le cadre d'une option ou d'une majeure de dernière année. Elle fait l'objet d'une filière complète de formation à l'Insa Lyon, une école d'ingénieurs pluridisciplinaire en biologie, informatique et mathématiques.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master en bio-informatique</itsimp>
+<itsimp>Diplôme d'ingénieur</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="31320" csRelFld="31320">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31320</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100339</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Une discipline qui s'affirme</inter>
+<p>La bio-informatique bénéficie de facteurs favorables, comme l'importance de la génomique et de la protéomique. Un des thèmes porteurs est l'analyse des interactions moléculaires à l'intérieur des cellules, qui pourra déboucher sur de nouvelles cibles thérapeutiques et de nouvelles méthodes de diagnostic.</p>
+<inter>Un marché concurrentiel</inter>
+<p>Parallèlement à la croissance des données à gérer, les équipes s'étoffent. On reste cependant sur un marché de niche : les formations s'étant développées, le nombre de diplômés augmente, rendant l'accès à l'emploi plus concurrentiel. D'autant plus que le marché de l'emploi de la bio-informatique est international. Il faut donc faire preuve de mobilité.</p>
+<p>Par ailleurs, la bio-informatique pourrait se banaliser, les biologistes s'appropriant peu à peu ses outils. Les bio-informaticiens auraient alors un rôle essentiellement de conseil, sans que leur effectif s'accroisse de manière significative.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2431</sal> euros brut par mois. </p>
+<postit>
+<p>Source : convention collective des laboratoires de biologie médicale, 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

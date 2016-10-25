@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">consultant/e en solutions intégrées</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller/enquêter, rechercher, analyser l'information/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">indépendant/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur audit conseil/secteur sociétés de service et de conseil en informatique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">informatique/électronique/réseau de télécommunication</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100631</lien_onisep>
+<ROME Level="1B" csRelFld="100631">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="604" csRelFld="604">
+<CSLABELFLD label="">M1806</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Systèmes d'information et de télécommunication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1806</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Conseil et maîtrise d'ouvrage en systèmes d'information</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100631">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56186" csRelFld="56186">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56186</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100631</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Analyser</inter>
+<p>Lorsqu'il démarre sa mission dans une entreprise, le consultant en solutions intégrées commence par analyser la situation afin de repérer et comprendre les points de blocage. Pour cela, il procède à un audit durant lequel il rencontre un grand nombre de responsables et de salariés de l'entreprise cliente. Cela lui permet de mieux identifier les besoins des utilisateurs et leurs attentes. </p>
+<inter>Proposer</inter>
+<p>Grâce à son analyse technique, le consultant est capable de poser un diagnostic précis sur les points défaillants ou à améliorer. Il proposera une solution informatique adaptée aux objectifs visés par l'entreprise. Il étudie les différentes solutions possibles grâce à sa bonne connaissance des fabricants de matériel et de logiciels, puis présente ses suggestions sous forme écrite et orale avec une seule préoccupation en tête : la satisfaction du client. Il peut aussi participer à la rédaction des appels d'offres et à la sélection des prestataires.</p>
+<inter>Former</inter>
+<p>Enfin, il veille à la bonne mise en place des solutions retenues et au respect de leur planning en accompagnant les équipes de son client dans l'aménagement des réseaux. Selon le cas et l'ampleur du projet, il peut, par exemple, superviser des développeurs ou déléguer, concevoir et parfois animer un plan de formation technique.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56190" csRelFld="56190">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56190</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100631</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p> Une formation bac + 5 en informatique, électronique, sciences et technologies de l'information ou télécoms réseaux est souvent demandée aux futurs consultants. Les doubles compétences en droit, gestion ou marketing ont la cote. </p>
+<liste>
+<tete> Niveau bac + 5 </tete>
+<itsimp>Diplôme d'ingénieur généraliste ou spécialisé en informatique, électronique, sciences et technologies de l'information, télécoms réseaux......</itsimp>
+<itsimp>Master mentions informatique, réseaux et télécommunications, mention électronique, énergie électrique, automatique...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56188" csRelFld="56188">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56188</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100631</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Progression régulière</inter>
+<p>Le consultant en solutions intégrées débute sa carrière avec le statut junior et se voit confier des projets de plus en plus importants, jusqu'à devenir consultant senior. Il encadrera alors une équipe de consultants juniors et prendra généralement part au démarchage commercial. Il pourra également envisager de créer sa propre activité.</p>
+<inter>La spécialisation paie</inter>
+<p>Afin de pouvoir donner des conseils pointus qui apporteront une réelle valeur ajoutée à son client, le consultant se spécialise généralement dans un type d'activité (architecture, réseau, sécurité, e-commerce, cloud...) ou dans un secteur d'activité (banque, industrie, services juridiques, administrations...).</p>
+<inter>Des besoins constants</inter>
+<p>Le consultant informatique travaille généralement en cabinet de conseil, en ESN (entreprise de services du numérique) ou en indépendant libéral. Dans ce cas, il devra souvent aller chercher les clients lui-même. De manière générale, le secteur informatique continue de créer des emplois, notamment dans les ESN. C'est un secteur en évolution permanente où les consultants ont de l'avenir.</p>
+<remun>
+<inter> Salaire du débutant </inter>
+<p> De <sal>2750</sal> à 3160 euros brut par mois. </p>
+<postit>
+<p> Source : cabinet Hays, étude salaire 2014. </p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

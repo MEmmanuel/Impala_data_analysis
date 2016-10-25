@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">façonnier/ère des industries graphiques</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">concevoir, utiliser des technologies industrielles de pointe/fabriquer, construire</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">indépendant/salarié/artisan</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction fabrication industrielle/fonction fabrication artisanale</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur imprimerie</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">impression/finition - industries graphiques/conduite de machine automatisée</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques graphiques impression/façonnier des industries graphiques</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100266</lien_onisep>
+<ROME Level="1B" csRelFld="100266">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="159" csRelFld="159">
+<CSLABELFLD label="">E1302</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Industries graphiques</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">E1302</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Conduite de machines de façonnage routage</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100266">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1780" csRelFld="1780">
+<CSLABELFLD label="">chef / cheffe de fabrication des industries graphiques </CSLABELFLD>
+<MET_ID label="Identifiant">100266</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1780</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chef/fe de fabrication des industries graphiques </METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1780">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1781" csRelFld="1781">
+<CSLABELFLD label="">conducteur / conductrice de machines à imprimer </CSLABELFLD>
+<MET_ID label="Identifiant">100266</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1781</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">conducteur/trice de machines à imprimer </METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1781">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18641" csRelFld="18641">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18641</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100266</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Donner son aspect définitif à l'imprimé</inter>
+<p>Le façonnage est la dernière étape de la réalisation d'un imprimé. Aux commandes d'une machine de finition, le façonnier rassemble les différents éléments imprimés : par exemple, les pages intérieures d'un livre (cahiers) et la couverture. Puis il réalise les opérations de finition pour en faire un document unique, finalisé et prêt à être envoyé au client.</p>
+<inter>Couper, plier et assembler</inter>
+<p>Ces opérations sont réalisées sur des machines différentes. Le façonnier peut ainsi travailler sur une massicoteuse et prendre en charge la coupe des produits imprimés en veillant au respect des dimensions préalablement définies. Sur une plieuse, il constitue des cahiers à partir des piles de feuilles. Sur une assembleuse, il assemble les cahiers entre eux par agrafage, couture ou collage, selon la reliure choisie. Polyvalent, il peut être amené à conduire une ou plusieurs de ces machines.</p>
+<inter>Programmer, contrôler</inter>
+<p>Après avoir étudié le dossier de fabrication transmis par le service impression, le façonnier procède aux réglages et à l'approvisionnement de sa machine. Il la programme, charge les documents à façonner, puis contrôle la qualité des travaux de finition. Chargé de l'entretien de la machine, il doit également être capable d'intervenir en cas de panne simple.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18640" csRelFld="18640">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18640</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100266</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Il existe essentiellement 2 diplômes de niveau ouvrier qualifié, formant des professionnels polyvalents sur des machines de finition de plus en plus complexes : la MC finition-façonnage de produits imprimés et le bac pro production imprimée</accr_p> . </p>
+<p>En ce qui concerne les techniques traditionnelles de conception à la main, on peut citer le CAP arts de la reliure, le BMA art de la reliure et de la dorure.</p>
+<inter>Niveau CAP-BEP</inter>
+<liste>
+<itsimp>CAP arts de la reliure</itsimp>
+</liste>
+<inter>Niveau bac</inter>
+<liste>
+<itsimp>Bac pro Réalisation de produits imprimés et plurimédia</itsimp>
+<itsimp>Bac pro Façonnage de produits imprimés routage</itsimp>
+<itsimp>BMA art de la reliure et de la dorure</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18639" csRelFld="18639">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18639</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100266</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>De réels débouchés</inter>
+<p>Les métiers du façonnage regroupent 26 % des effectifs salariés des industries graphiques, d'après l'Observatoire des industries graphiques. Ils ont même connu depuis 2010 une légère augmentation de leurs effectifs, contrairement à la plupart des métiers des industries graphiques. Un dynamisme qui s'explique par la volonté des entreprises de rebondir et de se diversifier afin de sortir de la crise qui les touche depuis 10 ans environ : les façonnages sophistiqués et de qualité permettent en effet d'apporter de la valeur ajoutée aux imprimés.</p>
+<inter>Un niveau de recrutement en hausse</inter>
+<p>Les salariés bénéficient donc de réels débouchés et de nombreuses possibilités d'évolution. Le niveau de recrutement s'est nettement accru depuis 25 ans et la part des non-diplômés a été divisée par 2. Aujourd'hui, les services de façonnage recherchent des personnels qualifiés et capables de conduire des machines complexes, d'un niveau bac essentiellement. Après plusieurs années d'expérience, le façonnier pourra envisager de devenir chef d'atelier ou responsable de façonnage.</p>
+<inter>Quelques bassins d'emploi</inter>
+<p>La majorité des salariés, en particulier des femmes (en grand nombre dans la profession), se concentre en région parisienne, puis en Rhône-Alpes, dans les Pays de la Loire et le Nord.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir du <sal>Smic</sal>.</p>
+<postit>
+<p>Source : Convention collective nationale du travail du personnel des imprimeries de labeur et des industries graphiques.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

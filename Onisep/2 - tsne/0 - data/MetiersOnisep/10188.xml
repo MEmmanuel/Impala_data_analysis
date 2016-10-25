@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">archiviste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">enquêter, rechercher, analyser l'information/aider, conseiller/informer, communiquer</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction information - communication</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur bibliothèque, archives, documentation/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">archive</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques de la communication média/archiviste</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10188</lien_onisep>
+<ROME Level="1B" csRelFld="10188">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="475" csRelFld="475">
+<CSLABELFLD label="">K1601</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Culture et gestion documentaire</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K1601</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Gestion de l'information et de la documentation</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10188">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17718" csRelFld="17718">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17718</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10188</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Collecter des documents...</inter>
+<p>L'archiviste est chargé de réunir l'ensemble des documents qui retracent l'histoire d'une administration ou d'une entreprise. Il collecte les archives publiques produites par les collectivités, les notaires, ou des archives privées issues d'entreprises, de syndicats, d'associations ou de particuliers. Pour enrichir son fonds, l'archiviste est amené à rechercher lui-même de nouveaux documents. Certains sont achetés lors de ventes aux enchères.</p>
+<inter>... les classer, les conserver...</inter>
+<p>Une fois les documents acquis, l'archiviste les trie. Il les classe et en établit une liste détaillée en mentionnant leur origine. En cas de don ou d'achat par lots, il détermine, après avoir analysé leur contenu, ceux qui doivent être conservés. Puis il les indexe, les protège et les range. Les documents abîmés, fragiles ou trop précieux pour être manipulés sont stockés sur des microfilms.</p>
+<inter>... et les communiquer au public</inter>
+<p>L'archiviste met ses " trésors " à disposition du public : chercheurs, professeurs, étudiants, généalogistes, journalistes, particuliers... Médiateur, il organise l'accueil et l'information des utilisateurs, oriente leurs recherches et les aide à déchiffrer les documents anciens. Il met en place des opérations de valorisation : atelier pédagogique, exposition, conférence...</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="19030" csRelFld="19030">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">19030</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10188</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Si un bac + 2 ou un bac + 3 est nécessaire pour exercer dans les entreprises privées, il faut compter 5 années d'études très sélectives après le bac pour occuper un poste de conservateur.</accr_p>
+</p>
+<p>Outre les formations universitaires, l'École nationale des chartes propose une formation de conservateur-paléographe (en 3 ans) accessible sur concours aux élèves issus de classes préparatoires littéraires.</p>
+<p>L' Institut national du patrimoine forme en 18 mois des conservateurs du patrimoine (titulaires d'au moins un bac + 3).</p>
+<inter>Niveau bac + 2</inter>
+<liste>
+<itsimp>DUT information-communication options métiers du livre et du patrimoine</itsimp>
+</liste>
+<inter>Niveau bac + 3</inter>
+<liste>
+<itsimp>Licences professionnelles Métiers de l'information : archives, médiation et patrimoine </itsimp>
+</liste>
+<inter>Niveau bac + 5</inter>
+<liste>
+<itsimp>Master en sciences humaines (souvent avec la mention histoire) spécialité archivistique ; Masters mention Archives ; </itsimp>
+<itsimp>Diplôme d'archiviste-paléographe de l'École nationale des chartes</itsimp>
+<itsimp>Diplôme de conservateur du patrimoine de l'Institut national du patrimoine</itsimp>
+<itsimp>Diplôme de gestion de patrimoines audiovisuels (Ina Sup)</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17720" csRelFld="17720">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17720</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10188</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Dans la fonction publique</inter>
+<p>La fonction publique, notamment territoriale (archives régionales, départementales, municipales), est l'employeur du plus grand nombre d'archivistes. Les ministères (Culture, Défense, Affaires étrangères) ne proposent que peu de débouchés. Des postes sont accessibles par la voie des concours (conservateur, attaché, assistant qualifié et assistant) en nombre réduit : moins de 10 postes par an.</p>
+<inter>Des opportunités dans le secteur privé</inter>
+<p>En raison du développement du volume d'archives et des obligations légales en matière de conservation des documents et de la gestion des risques (risques industriels et chimiques), des emplois émergent dans le secteur privé. Ces postes sont à pourvoir dans les services d'archives des grandes entreprises ou chez des prestataires de services spécialisés dans la gestion des archives matérielles et/ou virtuelles. </p>
+<inter>Précarité et mobilité</inter>
+<p>L'emploi de courte durée (missions ponctuelles, vacations) caractérise l'entrée dans ce métier, où une certaine mobilité s'impose. La région parisienne est la région qui propose le plus de postes (administrations centrales, sièges d'entreprises, etc.).</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Dans la fonction publique, de <sal>1450</sal> euros brut par mois pour un assistant de conservation du patrimoine à 1990 euros brut par mois pour un conservateur.</p>
+<postit>
+<p>Source : grille indiciaire de la fonction publique.</p>
+<p>Dans le privé, le salaire varie en fonction de la taille de l'entreprise.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

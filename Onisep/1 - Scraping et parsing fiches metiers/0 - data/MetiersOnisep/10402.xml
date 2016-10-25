@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ébéniste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">fabriquer, construire/exercer un métier artistique ou créatif/exercer un travail manuel/travailler un matériau/faire du dessin</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">artisan/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction fabrication artisanale</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie de l'ameublement/secteur artisanat d'art/secteur culture et patrimoine</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">ébénisterie/restauration d'art/bois/agencement/ameublement</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE travail du bois/ébéniste</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10402</lien_onisep>
+<ROME Level="1B" csRelFld="10402">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="294" csRelFld="294">
+<CSLABELFLD label="">H2204</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Bois</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2204</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Encadrement des industries de l'ameublement et du bois</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="297" csRelFld="297">
+<CSLABELFLD label="">H2207</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Bois</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2207</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Réalisation de meubles en bois</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10402">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1034" csRelFld="1034">
+<CSLABELFLD label="">ébéniste-marqueteur / ébéniste-marqueteuse</CSLABELFLD>
+<MET_ID label="Identifiant">10402</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">03/01/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1034</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">ébéniste-marqueteur/euse</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1034">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17714" csRelFld="17714">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17714</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10402</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Concevoir</inter>
+<p>En respectant les choix de son client, l'ébéniste définit le modèle et son ornementation, établit ses dimensions et les espèces de bois qui seront utilisées. Il dessine une esquisse, puis un plan grandeur nature du meuble avec tous ses détails (ornements, bronzes...). </p>
+<p>Réaliser</p>
+<p>Il scie les pièces de bois et les rabote pour les mettre aux dimensions exactes. Il assemble et colle de fines feuilles de bois, selon l'effet décoratif recherché (motifs droits ou courbes). Il vérifie ensuite le parfait ajustement des pièces par un montage « à blanc ». La finition se fait par raclage, ponçage, vernissage ou cirage. Parfois, un spécialiste (marqueteur, doreur, sculpteur sur bois) parfait la décoration en travaillant le bois ou en incrustant des motifs en nacre, ivoire, ébène...</p>
+<inter>Restaurer ou copier</inter>
+<p>L'ébéniste peut également restaurer des meubles anciens appartenant à des collections de musées ou à des particuliers : il participe ainsi à la conservation du patrimoine. Enfin, certains clients font appel à son savoir-faire pour copier des meubles d'époque (buffet Louis XV, commode Louis-Philippe).</p> </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17716" csRelFld="17716">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17716</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10402</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Plusieurs formations sont proposées, du CAP (en 2 ans après la 3<exp>e</exp> ) au DMA (en 2 ans après le bac).</accr_p>
+</p>
+<liste>
+<tete>Après la 3<exp>e</exp>
+</tete>
+<itsimp>CAP ébéniste ou arts du bois option marqueteur</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>BMA (brevet des métiers d'art) ébéniste</itsimp>
+<itsimp>BM (brevet de maîtrise) ébéniste</itsimp>
+<itsimp>BTM (brevet technique des métiers) ébéniste</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTMS (brevet technique des métiers supérieur) ébéniste</itsimp>
+<itsimp>DMA (diplôme des métiers d'art) arts de l'habitat, option décors et mobiliers et option restauration de mobilier</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17713" csRelFld="17713">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17713</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10402</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>S'accrocher</inter>
+<p>Véritable métier d'art, l'ébénisterie est une spécialité difficile d'accès. Seuls les plus doués et les plus motivés perceront. Mieux vaut donc se préparer à de longues années d'apprentissage comme salarié au sein d'une entreprise artisanale. Et compter au moins 5 ans d'expérience avant d'être qualifié. S'il s'installe à son compte, l'ébéniste doit savoir qu'il est extrêmement difficile de vivre de la confection ou réparation de meubles. </p>
+<inter>Des débouchés limités</inter>
+<p>La clientèle privée fournit 80 % du travail des entreprises artisanales. Si la restauration a le vent en poupe, la copie de meubles anciens, elle, a atteint ses limites. L'industrie du meuble, concurrente de l'ébénisterie, offre de sérieux débouchés aux jeunes diplômés qui ne trouvent pas de place dans les entreprises traditionnelles. </p>
+<inter>Spécialisation souhaitée</inter>
+<p>Depuis une trentaine d'années, la fabrication du mobilier de pièces entières (salle à manger, chambre) laisse la place aux meubles pouvant trouver leur place dans un ensemble préexistant. L'agencement (ou installation sur mesure) constitue un autre créneau porteur : fabrication de placards et de cuisines chez les particuliers, aménagement de boutiques et d'espaces publics, travaux pour l'industrie nautique...</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>Smic</sal>.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

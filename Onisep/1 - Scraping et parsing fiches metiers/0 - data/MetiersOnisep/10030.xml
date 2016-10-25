@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">serrurier/ère-métallier/ère</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">fabriquer, construire/travailler un matériau/exercer un travail manuel/concevoir, utiliser des technologies industrielles de pointe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">artisan/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction fabrication artisanale</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur second oeuvre bâtiment</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">agencement/métallerie/construction métallique/soudage</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE structures métalliques travail des métaux fonderie/serrurier-métallier</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10030</lien_onisep>
+<ROME Level="1B" csRelFld="10030">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="340" csRelFld="340">
+<CSLABELFLD label="">H2902</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Mécanique, travail des métaux et outillage</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2902</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Chaudronnerie - tôlerie</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="349" csRelFld="349">
+<CSLABELFLD label="">H2911</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Mécanique, travail des métaux et outillage</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2911</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Réalisation de structures métalliques</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="201" csRelFld="201">
+<CSLABELFLD label="">F1607</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Second oeuvre</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">F1607</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Pose de fermetures menuisées</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10030">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18227" csRelFld="18227">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18227</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10030</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>De la clé à la ferronnerie d'art</inter>
+<p>Le serrurier-métallier ne façonne plus uniquement les serrures, les clés et les gonds. Il travaille sur tout type de construction métallique : menuiserie (porte, fenêtre, véranda...) et charpente (pont, passerelle, pylône...) où il intervient après le charpentier métallique.</p>
+<p>Spécialisé dans la ferronnerie d'art, ce professionnel dessine et fabrique des balcons, des portails, des volutes, des feuilles nervurées... Il connaît les différents styles et l'histoire de l'art. Ce qui lui permet de collaborer, sur le chantier, avec le décorateur et l'architecte.</p>
+<inter>Fabriquer, monter, entretenir</inter>
+<p>À partir des plans, le métallier prend ses mesures et dessine son ouvrage. Puis, il effectue la découpe des pièces, qu'il plie, meule, ajuste et soude. Il se rend ensuite sur le chantier pour procéder au montage définitif des éléments. Il en assure également la maintenance et l'entretien.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18223" csRelFld="18223">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18223</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10030</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Les diplômes sont très nombreux dans le secteur du travail des métaux. Tout serrurier-métallier possède, au moins, l'un des diplômes suivants :</accr_p>
+</p>
+<inter>Niveau CAP</inter>
+<liste>
+<itsimp>
+<em>CAP</em> serrurier-métallier ; ferronnier d'art ;</itsimp>
+<itsimp> soudage.</itsimp>
+</liste>
+<inter>Niveau bac</inter>
+<liste>
+<itsimp>
+<em>Bacs pro</em>  technicien en chaudronnerie industrielle ; ouvrages du bâtiment : métallerie ;</itsimp>
+<itsimp>
+<em>Bacs techno</em> STI2D (développement durable) ;</itsimp>
+<itsimp>
+<em>BP</em> métallier.</itsimp>
+</liste>
+<inter>Niveau bac + 1, bac +2</inter>
+<liste>
+<itsimp> technicien(ne) en soudage ;</itsimp>
+<itsimp>
+<em>BTS</em> constructions métalliques.</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17345" csRelFld="17345">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17345</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10030</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Surtout dans le BTP</inter>
+<p>Étant donné la diversité des ouvrages fabriqués à partir des métaux, le secteur de la serrurerie-métallerie offre de nombreux débouchés. Les principaux se situent dans les petites entreprises du bâtiment.</p>
+<inter>Se spécialiser</inter>
+<p>Certains métalliers se spécialisent dans l'une des branches de la profession : serrurerie, construction métallique, menuiserie métallique, agencement et décoration, ferronnerie d'art, menuiserie aluminium et PVC.</p>
+<inter>Encadrer une équipe</inter>
+<p>Après quelques années d'expérience, le serrurier-métallier peut devenir chef d'équipe ou chef de chantier. Il dirige alors les ouvriers à l'atelier ou sur le chantier. S'il possède des bases en gestion et en comptabilité, il peut s'installer à son compte en tant qu'artisan.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>A partir du <sal>Smic</sal>
+</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">coiffeur/euse</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un métier artistique ou créatif/faire du commerce/exercer un travail manuel</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/artisan</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur des soins personnels</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">coiffure</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE médical paramédical travail social soins personnels/coiffeur</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10244</lien_onisep>
+<ROME Level="1B" csRelFld="10244">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="107" csRelFld="107">
+<CSLABELFLD label="">D1202</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Commerce non alimentaire et de prestations de confort</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">D1202</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Coiffure</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10244">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1116" csRelFld="1116">
+<CSLABELFLD label="">coloriste</CSLABELFLD>
+<MET_ID label="Identifiant">10244</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">21/04/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1116</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">coloriste</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1116">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1117" csRelFld="1117">
+<CSLABELFLD label="">visagiste</CSLABELFLD>
+<MET_ID label="Identifiant">10244</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">21/04/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1117</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">visagiste</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1117">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16824" csRelFld="16824">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16824</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10244</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Répondre aux souhaits des clients</inter>
+<p>Après avoir accueilli ses clients, le coiffeur établit un diagnostic de leur cuir chevelu et de leurs cheveux et leur propose une coupe et des soins appropriés. Il prend le temps de discuter avec eux pour cerner leurs envies et les conseiller au vu de la morphologie de leur visage et de leur style. La propreté du salon et du matériel utilisé est aussi de son ressort.</p>
+<inter>Pratiquer son art</inter>
+<p>Coupe, brushing, coloration... Le coiffeur maîtrise différentes techniques. Il se voit parfois confier des interventions particulières : confection de chignons, pose de postiches ou d'extensions... La clientèle masculine peut aussi demander des soins spécifiques : rasage, taille de la barbe ou de la moustache.</p>
+<inter>Vendre et former </inter>
+<p>Le coiffeur arrondit son chiffre d'affaires en vendant des produits capillaires (shampooings, baumes, laques...) dont il sait vanter les vertus. S'il est propriétaire de son salon, il s'occupe de toutes les questions relatives à la gestion et à la comptabilité. Enfin, titulaire d'un brevet professionnel ou d'un brevet de maîtrise, il peut être amené à former des apprentis.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16846" csRelFld="16846">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16846</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10244</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Diplôme de base, le CAP, complété éventuellement par une mention complémentaire, permet de travailler en tant qu'ouvrier qualifié</accr_p> . Pour ouvrir un salon de coiffure, le BP (brevet professionnel) ou le BM (brevet de maîtrise) sont nécessaires. Il est possible d'acheter un salon sans ces diplômes, à condition d'en confier l'exploitation à une personne qualifiée. Le BP et le BM permettent en outre à leurs titulaires de former des apprentis. </p>
+<p>Le BTS "Métiers de la coiffure" est destiné aux futurs chefs d'entreprise ou responsables de points de vente dans les grandes enseignes de coiffure. Son titulaire peut également travailler dans des entreprises de fabrication de produits capillaires en tant qu'expert-évaluateur, ou devenir technico-commercial dans des entreprises de distribution de produits et de matériels destinés aux professionnels.</p>
+<liste>
+<tete>Après la 3<exp>e</exp>
+</tete>
+<itsimp>CAP coiffure</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>BP coiffure </itsimp>
+<itsimp>Bac pro perruquier-posticheur</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BM coiffeur</itsimp>
+<itsimp>BTS Métiers de la coiffure</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16826" csRelFld="16826">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16826</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10244</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des emplois à condition de bouger</inter>
+<p>Si le marché de l'emploi est en légère progression (en particulier dans les régions Ile-de-France, Rhône-Alpes et Provence-Alpes-Côte d'Azur), les jeunes diplômés, qui sont nombreux, peinent parfois à s'insérer. La mobilité ainsi qu'une grande motivation sont donc nécessaires pour trouver du travail. </p>
+<inter>Possibilité de se spécialiser </inter>
+<p>Le coiffeur peut se spécialiser en devenant coloriste-permanentiste ou styliste-visagiste, voire perruquier-posticheur. Cette dernière spécialisation permettant d'exercer dans les milieux très convoités du cinéma et du théâtre, mais attention, les places sont rares.</p>
+<inter>Élargir sa palette</inter>
+<p>Le titulaire du CAP coiffure peut aussi diversifier son activité en suivant une formation en esthétique. Un coiffeur-esthéticien est habilité à dispenser des soins du visage et du corps, à faire des manucures et à vendre des produits de beauté. Une double compétence fort appréciée.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Smic. S'y ajoutent éventuellement des primes et des pourboires.</p>
+<postit>
+<p>(source : Fédération nationale de la coiffure)</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

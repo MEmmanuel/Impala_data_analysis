@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">enseignant/e spécialisé/e</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">enseigner, éduquer/m'occuper d'handicapés/m'occuper d'enfants ou d'adolescents/animer des activités culturelles, ludiques ou éducatives</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur de l'éducation/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">enseignement - formation/éducation spécialisée</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit/enseignant spécialisé</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10213</lien_onisep>
+<ROME Level="1B" csRelFld="10213">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="502" csRelFld="502">
+<CSLABELFLD label="">K2109</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Formation initiale et continue</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K2109</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Enseignement technique et professionnel</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10213">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16766" csRelFld="16766">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16766</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10213</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Comprendre, mettre en confiance</inter>
+<p>Avant toute transmission de savoirs, l'enseignant spécialisé doit comprendre et mettre l'élève en confiance, d'où la nécessité d'une écoute attentive et d'une observation et une analyse préliminaires des lacunes scolaires et des problèmes psychologiques. Un travail qui peut prendre plusieurs mois selon le handicap de l'enfant. </p>
+<inter>Adapter sa pédagogie</inter>
+<p>L' enseignant spécialisé éduque et prend en charge des élèves aux déficiences diverses : inadaptation scolaire, troubles de la santé, du comportement, psychologiques... handicaps moteur, visuel ou auditif... Avec une quinzaine d'élèves par classe, il adapte ses méthodes et ses techniques d'apprentissage. Par exemple, communiquer en langue des signes avec des enfants sourds ; lire le braille avec des enfants aveugles.</p>
+<inter>Un travail d'équipe fondamental</inter>
+<p>Pour s'occuper d'enfants en difficulté, l'enseignant spécialisé effectue un travail d'équipe important. Il exerce en collaboration avec des éducateurs, des psychologues, des médecins, des assistants sociaux... Le contact fréquent avec les parents est aussi fondamental pour aider à mieux comprendre le handicap de l'enfant.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="19033" csRelFld="19033">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">19033</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10213</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<titre>Spécialisations pour professeur</titre>
+<liste>
+<tete>
+<accr_p>À l'Éducation nationale, pour devenir enseignant spécialisé, il faut d'abord être enseignant titulaire et exercer dans le primaire ou le secondaire.</accr_p> Des établissements du ministère de la Santé recrutent des professeurs pour déficients visuels ou auditifs.</tete>
+<itsimp>Dans le primaire, le professeur des écoles doit obtenir le certificat d'aptitude professionnelle pour les aides spécialisées, les enseignements adaptés et la scolarisation des enfants en situation de handicap (CAPA-SH).</itsimp>
+<itsimp>Les professeurs du secondaire (certifiés ou agrégés) doivent réussir le certificat complémentaire pour les enseignements adaptés et la scolarisation des élèves en situation de handicap (2CA-SH).</itsimp>
+<itsimp>CAPA-SH et 2CA-SH se préparent en centre de formation et à l'Institut national supérieur de formation et de recherche pour l'éducation des jeunes handicapés et les enseignements adaptés (INS-HEA). </itsimp>
+<itsimp>Le ministère de la Santé recrute des professeurs titulaires de certificats d'aptitude à l'enseignement pour enseigner à de jeunes déficients visuels ou auditifs. Pour préparer l'un de ces diplômes, il faut être titulaire d'une licence.</itsimp>
+</liste>
+<p>La <em>réforme des concours de l'enseignement</em>  <em>(CRPE, CAPES, CAPET, CAPLP, agrégation)</em> a conduit à élever le niveau d'accès au concours (en cours ou après l'obtention du master 2 préparant au métier de l'enseignement). Après avoir obtenu le concours, les professeurs stagiaires exercent leurs fonctions à temps plein. La réussite au concours et la validation du master sont obligatoires pour être recruté définitivement.</p> </MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16765" csRelFld="16765">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16765</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10213</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des postes limités</inter>
+<p>Les postes offerts aux différents concours de recrutement des enseignants spécialisés sont peu nombreux. Dans les structures associatives pour jeunes aveugles ou jeunes sourds, les recrutements se font directement, et de façon très limitée, par les directeurs des établissements.</p>
+<inter>Et après</inter>
+<p>Après cinq ans d'ancienneté, l'enseignant spécialisé de l'Éducation nationale peut préparer, en un an, le diplôme de directeur d'établissement d'éducation adaptée et spécialisée (DDEEAS), proposé à l'Institut national supérieur de formation et de recherche pour l'éducation des jeunes handicapés et les enseignements adaptés (INS-HEA). Les postes de directeur adjoint de SEGPA ou de directeur d'EREA sont alors accessibles.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1557</sal> euros brut/mois (certifiés INJA et INJS) et 2200 euros brut/mois minimum (titulaires du CAPA-SH ou du 2CA-SH.)</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

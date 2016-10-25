@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">maquettiste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un métier artistique ou créatif/faire du dessin/programmer, créer du contenu numérique</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">indépendant/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction création artistique</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur de la publicité/secteur imprimerie/secteur édition - presse</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">pré presse</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques graphiques impression/maquettiste</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10166</lien_onisep>
+<ROME Level="1B" csRelFld="10166">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10166">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1174" csRelFld="1174">
+<CSLABELFLD label="">directeur / directrice artistique</CSLABELFLD>
+<MET_ID label="Identifiant">10166</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">21/04/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1174</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">directeur/trice artistique</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1174">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="15998" csRelFld="15998">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">15998</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10166</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Définir une ligne graphique</inter>
+<p>Le maquettiste est un créateur. En fonction des attentes d'un client, il conçoit des modèles de pages (maquettes) précisant toutes les indications techniques nécessaires : choix des polices de caractères et des couleurs utilisées, mise en valeur des titres, répartition des blancs... Ses missions s'apparentent alors à celles du graphiste.</p>
+<inter>Appliquer la ligne graphique au support</inter>
+<p>Une fois la maquette réalisée, le maquettiste organise l'ensemble des éléments qui composent la page. Il définit la forme et la place des textes et des images en veillant constamment à leur équilibre à l'intérieur du gabarit, afin d'obtenir des pages harmonieuses. Il positionne et hiérarchise les titres, « chapôs », encadrés, textes, et détermine l'emplacement des illustrations (photos, dessins, graphiques). Son objectif : attirer le regard.</p>
+<inter>Sur tous types de supports</inter>
+<p>Les maquettes réalisées par le maquettiste tiennent compte du support de communication qui peut être imprimé (magazine, livre, journal, plaquette, dépliant...) ou multimédia (site Internet, CD, DVD...). La cible entre aussi en ligne de compte : on ne traite pas une revue pour les adolescents comme un guide touristique.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16003" csRelFld="16003">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16003</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10166</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>La formation technique et artistique des maquettistes se fait principalement par le biais de BTS et de diplômes d'écoles d'art : diplômes des écoles nationales supérieures des beaux-arts (DNA et DNSEP), diplômes des écoles nationales supérieures d'arts appliqués (DMA, DSAA), diplômes d'écoles d'art privées (ECV, Esag, Gobelins...). </p>
+<p/>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>
+<em>BTS</em> design graphique ; BTS communication et industries graphiques ; DMA (diplôme des métiers d'art) arts graphiques</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>DNA (diplôme national d'art) option communication ou option design</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 4</tete>
+<itsimp>DSAA (diplôme supérieur d'arts appliqués) Design mention graphisme</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>DNSEP (diplôme national supérieur d'expression plastique) option communication ou option design</itsimp>
+<itsimp>Diplôme national supérieur des arts décoratifs (ENSAD)</itsimp>
+<itsimp>Directeur artistique en art graphique et design numérique (Esag Penninghen)</itsimp>
+<itsimp>Directeur artistique en communication visuelle et multimédia (ECV)</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="15997" csRelFld="15997">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">15997</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10166</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Salarié ou indépendant</inter>
+<p>Le maquettiste est le plus souvent salarié. Indispensable dans un journal, il est aussi très présent chez les éditeurs, dans les agences de publicité, les studios de création, les industries graphiques ou les services communication des grandes sociétés. Quand il est indépendant (free-lance), il démarche lui-même les entreprises pour proposer ses services, et doit souvent faire face à de nombreuses commandes.</p>
+<inter>Une insertion difficile</inter>
+<p>D'après l'Insee et le ministère de l'Économie, de l'Industrie et de l'Emploi, les industries graphiques comptent 5050 entreprises. Mais le prépresse ne représente que 17 % de l'effectif total. Pas facile donc pour les nombreux jeunes formés à la PAO de s'insérer sur le marché du travail. D'autant que la majorité des emplois est concentrée en région parisienne (21,5 %) suivie du Nord, du Centre, des Pays de la Loire et enfin de la région Rhône-Alpes.</p>
+<inter>Vers le poste de directeur artistique</inter>
+<p>Après plusieurs années d'expérience, un maquettiste peut évoluer vers la fonction de graphiste ou de DA (directeur artistique) s'il a le talent nécessaire. Il peut également s'installer à son compte et devenir free-lance.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Entre <sal>1600</sal> et 1800 euros brut par mois.</p>
+<postit>
+<p>Source : cadreonline</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,266 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Embaumeur / Embaumeuse",
+            "priorisation": "1",
+            "libelle": "Embaumeur / Embaumeuse",
+            "code_ogr": "14743"
+        },
+        {
+            "libelle_court": "Responsable des soins mortuaires",
+            "priorisation": "1",
+            "libelle": "Responsable des soins mortuaires",
+            "code_ogr": "18947"
+        },
+        {
+            "libelle_court": "Thanatopracteur / Thanatopractrice",
+            "priorisation": "1",
+            "libelle": "Thanatopracteur / Thanatopractrice",
+            "code_ogr": "20315"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Informer la personne, la famille sur les soins fun\u00e9raires et les d\u00e9marches administratives n\u00e9cessaires",
+            "code_ogr": "2203",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier les documents administratifs post mortem (certificat de d\u00e9c\u00e8s, autorisation de transport, d'inhumer, de cr\u00e9mation, ...)",
+            "code_ogr": "3627",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der aux op\u00e9rations de transfert, de r\u00e9ception de corps, de pr\u00e9paration, d'aide aux autopsies",
+            "code_ogr": "2709",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des soins de conservation du corps (aspiration et \u00e9limination de liquides corporels, injection de m\u00e9langes antiseptiques, ...)",
+            "code_ogr": "2760",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la restauration esth\u00e9tique du corps ou le remodelage post-traumatique du visage du d\u00e9funt",
+            "code_ogr": "1533",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser la toilette post mortem, le maquillage et la pr\u00e9sentation du d\u00e9funt",
+            "code_ogr": "2783",
+            "code_type_activite": "2",
+            "riasec_majeur": "A",
+            "position_item": "6",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien et la maintenance de premier niveau du mat\u00e9riel et des locaux",
+            "code_ogr": "1600",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et renseigner les documents administratifs de l'activit\u00e9",
+            "code_ogr": "3612",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "8",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "J1303",
+            "libelle_rome_cible": "Assistance m\u00e9dico-technique"
+        },
+        {
+            "code_rome_cible": "K2602",
+            "libelle_rome_cible": "Conseil en services fun\u00e9raires"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec le dipl\u00f4me national de thanatopracteur.\nDes vaccinations sp\u00e9cifiques (DTPolio, h\u00e9patite B, ...) sont obligatoires.\nUn casier judiciaire exempt de toute mention contradictoire est exig\u00e9.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Proc\u00e9der \u00e0 des op\u00e9rations de manipulation et de pr\u00e9sentation de corps (mise en bi\u00e8re, habillage, ...)",
+            "code_ogr": "8117",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9ceptionner les marchandises, les produits et contr\u00f4ler la conformit\u00e9 de la livraison",
+            "code_ogr": "3591",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir les modalit\u00e9s et conditions d'une prestation mortuaire",
+            "code_ogr": "5834",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises de services fun\u00e9raires, complexes fun\u00e9raires, collectivit\u00e9s territoriales ou en ind\u00e9pendant, en contact avec diff\u00e9rents intervenants (familles, repr\u00e9sentants du culte, personnels de services administratifs, police, ...).\nElle peut s'exercer les fins de semaine, jours f\u00e9ri\u00e9s, de nuit et \u00eatre soumise \u00e0 des astreintes.\nElle implique le port de charges et la manipulation de corps.\nLe port d'\u00e9quipements d'hygi\u00e8ne (gants, masque, ...) est exig\u00e9.\n",
+    "savoir_action": [],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise artisanale",
+            "code_ogr": "23870",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de services fun\u00e9raires",
+            "code_ogr": "23885",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Service fun\u00e9raire",
+            "code_ogr": "23635",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Au domicile de particulier",
+            "code_ogr": "23375",
+            "code_type_section_env": "3"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9decine l\u00e9gale",
+            "code_ogr": "21884",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en histologie",
+            "code_ogr": "21874",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "L\u00e9gislation fun\u00e9raire",
+            "code_ogr": "22084",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en psychologie",
+            "code_ogr": "21908",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9",
+            "code_ogr": "22648",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de maquillage mortuaire",
+            "code_ogr": "22966",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de soins mortuaires",
+            "code_ogr": "23124",
+            "position_item": "7",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise l'ensemble des soins de conservation, de pr\u00e9sentation et d'habillage du d\u00e9funt selon les souhaits de la famille, les protocoles fun\u00e9raires et la r\u00e9glementation de sant\u00e9 publique et des collectivit\u00e9s territoriales.\n",
+    "intitule": "Thanatopraxie",
+    "code_ogr": "433",
+    "code_rome": "K2603",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1405",
+            "libelle_rome_cible": "Conseil en information m\u00e9dicale"
+        },
+        {
+            "code_rome_cible": "J1410",
+            "libelle_rome_cible": "Proth\u00e8ses dentaires"
+        },
+        {
+            "code_rome_cible": "J1411",
+            "libelle_rome_cible": "Proth\u00e8ses et orth\u00e8ses"
+        },
+        {
+            "code_rome_cible": "J1501",
+            "libelle_rome_cible": "Soins d'hygi\u00e8ne, de confort du patient"
+        }
+    ]
+}

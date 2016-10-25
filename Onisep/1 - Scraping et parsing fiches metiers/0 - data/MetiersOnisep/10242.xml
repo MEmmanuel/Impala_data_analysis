@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">prothésiste dentaire</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un travail manuel/travailler un matériau/fabriquer, construire</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/artisan</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction fabrication artisanale</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur santé</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">prothèse dentaire</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE médical paramédical travail social soins personnels/prothésiste dentaire</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10242</lien_onisep>
+<ROME Level="1B" csRelFld="10242">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="431" csRelFld="431">
+<CSLABELFLD label="">J1410</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Rééducation et appareillage</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">J1410</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Prothèses dentaires</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10242">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16836" csRelFld="16836">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16836</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10242</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Mouler des maquettes</inter>
+<p>Les dentistes, stomatologues ou orthodontistes relèvent la première empreinte dentaire de leur client. Ils transmettent au prothésiste dentaire ce moule et les indications de l'appareil dentaire à réaliser. À partir de cette empreinte faite d'une sorte de mastic, le prothésiste fait un moule en plâtre, « objet de travail » qu'il ponce et modèle jusqu'à obtenir l'appareil voulu. Puis il fait une dernière maquette en cire correspondant exactement à la commande.</p>
+<inter>Fabriquer la prothèse</inter>
+<p>Après ces étapes de moulage, quand il est bien certain de remplir les préconisations demandées, le prothésiste fabrique le dernier appareil en remplaçant la cire par de la céramique, du métal, de la résine ou tout autre matériau adapté. Il fait les finitions par ponçage, meulage, polissage. Ces opérations peuvent prendre plusieurs heures. Il contrôle très régulièrement chaque intervention, car l'ajustement est défini à bien moins d'un millimètre près.</p>
+<inter>Poser et réajuster</inter>
+<p>La prothèse terminée, elle retourne dans les mains du dentiste ou stomatologue pour la pose et l'ajustage. Le prothésiste n'intervient que pour des retouches importantes. En plus des créations de prothèses dentaires, il répare, modifie des appareils dentaires, et réalise des appareils d'orthodontie.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16858" csRelFld="16858">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16858</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10242</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Pour exercer ce métier, il est indispensable d'obtenir le bac professionnel prothèse dentaire.</accr_p> Accessible après la 3<exp>e</exp> , il est le point d'entrée dans la filière, et débouche sur des postes de technicien, sous l'autorité d'un supérieur hiérarchique ou d'un chef de laboratoire. Il peut être complété par le BTS prothésiste dentaire qui permet de devenir à la fois un technicien hautement qualifié dans la conception de prothèses, et un véritable chef d'entreprise, capable de gérer un laboratoire.</p>
+<p>Ceux qui visent un poste à responsabilité peuvent aussi choisir la filière artisanale en préparant le BTM (brevet technique des métiers ; en 3 ans après un bac général, ou en 1 an après le bac pro prothèse dentaire), puis le BTMS (brevet technique des métiers supérieur ; en 2 ans après le BTM, reconnu à bac + 2).</p>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>Bac pro prothèse dentaire</itsimp>
+<itsimp>BTM prothésiste dentaire</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTMS prothésiste dentaire</itsimp>
+<itsimp>BTS prothésiste dentaire</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16847" csRelFld="16847">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16847</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10242</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Surtout en laboratoire</inter>
+<p>On dénombre environ 6 000 laboratoires de fabrication de prothèses dentaires employant 85 % des professionnels diplômés.</p>
+<inter>Une situation moins favorable</inter>
+<p>Sur les 6 millions de prothèses posées chaque année, on estime à environ 2 millions celles qui seraient fabriquées à l'étranger. Face à cette concurrence internationale, le secteur recherche en permanence des améliorations, aussi bien sur le plan technique (matériaux, procédés de calcul et de fabrication...) que sur le plan commercial. La demande en prothèses dentaires reste cependant assez stable.</p>
+<inter>Devenir indépendant</inter>
+<p>Après quelques années d'expérience, le prothésiste peut reprendre ou créer son laboratoire. Compte tenu de la concurrence, l'installation doit être très bien préparée. La responsabilité du prothésiste évolue vers la gestion administrative courante (stocks, moyens techniques et financiers, ressources humaines) et l'organisation de la production.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1725</sal> euros brut par mois.</p>
+<postit>
+<p>Sources : Enquête de branche Prothésiste Dentaires, juin 2010, UNPPD</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

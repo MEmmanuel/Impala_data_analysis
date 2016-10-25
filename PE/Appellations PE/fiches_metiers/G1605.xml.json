@@ -1,0 +1,363 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente de cuisine",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de cuisine",
+            "code_ogr": "10427"
+        },
+        {
+            "libelle_court": "Aide de cuisine",
+            "priorisation": "1",
+            "libelle": "Aide de cuisine",
+            "code_ogr": "10826"
+        },
+        {
+            "libelle_court": "Aide de cuisine de collectivit\u00e9",
+            "priorisation": "1",
+            "libelle": "Aide de cuisine de collectivit\u00e9",
+            "code_ogr": "10827"
+        },
+        {
+            "libelle_court": "Ecailler / Ecaill\u00e8re de restaurant",
+            "priorisation": "1",
+            "libelle": "Ecailler / Ecaill\u00e8re de restaurant",
+            "code_ogr": "14547"
+        },
+        {
+            "libelle_court": "Plongeur / Plongeuse en restauration",
+            "priorisation": "1",
+            "libelle": "Plongeur / Plongeuse en restauration",
+            "code_ogr": "17846"
+        },
+        {
+            "libelle_court": "Plongeur-batterie / Plongeuse-batterie en restauration",
+            "priorisation": "1",
+            "libelle": "Plongeur-batterie / Plongeuse-batterie en restauration",
+            "code_ogr": "17849"
+        },
+        {
+            "libelle_court": "Responsable de la plonge en restauration",
+            "priorisation": "1",
+            "libelle": "Responsable de la plonge en restauration",
+            "code_ogr": "18748"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Effectuer la plonge",
+            "code_ogr": "3535",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Essuyer et ranger la vaisselle, la verrerie, les ustensiles de cuisine",
+            "code_ogr": "1823",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien et le nettoyage du poste de travail, des ustensiles, des \u00e9quipements ou de la cuisine",
+            "code_ogr": "1608",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'\u00e9pluchage et le lavage des l\u00e9gumes et des fruits",
+            "code_ogr": "1530",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "G1603",
+            "libelle_rome_cible": "Personnel polyvalent en restauration"
+        },
+        {
+            "code_rome_cible": "G1702",
+            "libelle_rome_cible": "Personnel du hall"
+        },
+        {
+            "code_rome_cible": "J1301",
+            "libelle_rome_cible": "Personnel polyvalent des services hospitaliers"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle.\nLes recrutements peuvent \u00eatre ouverts sur contrats de travail saisonniers ou de tr\u00e8s courte dur\u00e9e (extra).\n",
+    "activite_specifique": [
+        {
+            "libelle": "Effectuer la plonge, l'entretien de vaisselle/mat\u00e9riel :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Argenterie",
+            "code_ogr": "5172",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Batterie de cuisine",
+            "code_ogr": "5173",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Plateaux",
+            "code_ogr": "5174",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Verrerie, cristallerie",
+            "code_ogr": "5175",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la pr\u00e9paration, l'assemblage de plats simples :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Desserts simples",
+            "code_ogr": "5183",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Entr\u00e9es (crudit\u00e9s, charcuterie, ...)",
+            "code_ogr": "5184",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Salades",
+            "code_ogr": "5185",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sandwichs (croque-monsieur, hot dog, ...)",
+            "code_ogr": "5186",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9ceptionner et contr\u00f4ler des marchandises et effectuer le stockage en chambre froide, en r\u00e9serve, ...",
+            "code_ogr": "9423",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le nettoyage, le repassage du linge du restaurant",
+            "code_ogr": "5342",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la pr\u00e9paration et la pr\u00e9sentation des plateaux de fruits de mer",
+            "code_ogr": "5181",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de restaurants traditionnels et gastronomiques, de restaurants d'entreprise ou de collectivit\u00e9 en relation avec le personnel de cuisine (cuisinier, commis, ...) et de salle (serveurs, ...).\nElle varie selon la taille de la structure et son mode d'organisation (plonge automatis\u00e9e/manuelle, ...).\nElle peut s'exercer en horaires fractionn\u00e9s, en soir\u00e9e, les fins de semaine et jours f\u00e9ri\u00e9s.\nLe port d'une tenue professionnelle (tablier, bottes, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de machine de plonge automatis\u00e9e",
+            "code_ogr": "21297",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Plonge manuelle",
+            "code_ogr": "21026",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareil \u00e9lectrom\u00e9nager",
+            "code_ogr": "21146",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de fiches techniques de cuisine",
+            "code_ogr": "20944",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareil d'entretien (fer \u00e0 repasser, machine \u00e0 laver, s\u00e8che-linge, ...)",
+            "code_ogr": "21144",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement de restauration mobile (bateau de croisi\u00e8re, train, ...)",
+            "code_ogr": "23917",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Mess (Arm\u00e9e)",
+            "code_ogr": "24006",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Restaurant de collectivit\u00e9",
+            "code_ogr": "24054",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Restaurant gastronomique",
+            "code_ogr": "24055",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Restaurant traditionnel",
+            "code_ogr": "24056",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en extra",
+            "code_ogr": "38056",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaire",
+            "code_ogr": "22649",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Types de produits d'entretien",
+            "code_ogr": "23329",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles et consignes de s\u00e9curit\u00e9",
+            "code_ogr": "22656",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modes de conservation des produits alimentaires",
+            "code_ogr": "22195",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Cha\u00eene du froid",
+            "code_ogr": "21701",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "3",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nEffectue l'entretien et le nettoyage de la vaisselle, des \u00e9quipements de cuisine (batterie, chambre froide, sols, ...) dans un restaurant commercial ou de collectivit\u00e9 selon les r\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaires et la charte qualit\u00e9 de l'\u00e9tablissement.\nPeut pr\u00e9parer les fruits de mer.\n",
+    "intitule": "Plonge en restauration",
+    "code_ogr": "202",
+    "code_rome": "G1605",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "G1502",
+            "libelle_rome_cible": "Personnel polyvalent d'h\u00f4tellerie"
+        },
+        {
+            "code_rome_cible": "G1602",
+            "libelle_rome_cible": "Personnel de cuisine"
+        },
+        {
+            "code_rome_cible": "G1604",
+            "libelle_rome_cible": "Fabrication de cr\u00eapes ou pizzas"
+        },
+        {
+            "code_rome_cible": "G1801",
+            "libelle_rome_cible": "Caf\u00e9, bar brasserie"
+        },
+        {
+            "code_rome_cible": "G1803",
+            "libelle_rome_cible": "Service en restauration"
+        }
+    ]
+}

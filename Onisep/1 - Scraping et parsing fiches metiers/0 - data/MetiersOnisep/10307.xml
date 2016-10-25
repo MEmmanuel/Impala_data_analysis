@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">commissaire-priseur/euse</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire du commerce/convaincre, négocier</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">libéral/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction commerciale</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur commerce/secteur Justice</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">commerce de l'art/droit commercial/droit</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">commissaire-priseur/GFE commerce distribution</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10307</lien_onisep>
+<ROME Level="1B" csRelFld="10307">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10307">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17103" csRelFld="17103">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17103</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10307</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Inventorier et expertiser</inter>
+<p>Le commissaire-priseur procède à l'inventaire de la prise, c'est-à-dire de tous les biens qui lui sont soumis par décision de justice (liquidation, succession...) ou par un particulier : mobilier, tableaux de maître, objets d'art, argenterie... Il consigne leur provenance, date l'époque de leur fabrication, inscrit le nom de l'artisan, du peintre ou du joaillier, s'il est connu. Il estime ensuite la valeur de ces objets pour fixer leur prix de départ lors de la vente.</p>
+<inter>Organiser des ventes</inter>
+<p>L'organisation d'une vente commence par la constitution d'un réseau, en démarchant des acheteurs potentiels. C'est pendant cette phase que le commissaire-priseur réalise le catalogue. Celui-ci présente les références artistiques et physiques des objets mis à la vente, leur époque et leurs dimensions. Les ventes peuvent être à thèmes (mobilier, voitures, bijoux...). Le commissaire-priseur peut également faire de la publicité dans la presse spécialisée ou régionale.</p>
+<inter>Faire monter les enchères</inter>
+<p>Les enchères représentent l'aboutissement du travail du commissaire-priseur et révèlent tout son talent. Il y démontre sa capacité à se constituer un stock intéressant et une bonne clientèle, son habileté à présenter les objets, sa faculté à faire monter les enchères...</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17104" csRelFld="17104">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17104</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10307</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Pour devenir commissaire-priseur,</accr_p> il faut être titulaire d'une double licence en droit et en histoire de l'art, ou en arts appliqués, ou en archéologie ou en arts plastiques.</p>
+<p>Ensuite, il faut passer l'examen d'accès au stage de commissaire-priseur (organisé une fois par an), qui comporte des épreuves écrites d'admissibilité et des épreuves orales d'admission. On ne peut se présenter que 3 fois à cet examen. À la suite de ce stage de 2 ans rémunéré (dont 6 mois dans un office de commissaire-priseur judiciaire), un certificat de bon accomplissement est délivré par le Conseil des ventes. il permet d'exercer le métier, notamment pour diriger des ventes volontaires d'objets aux enchères publiques. Pour diriger des ventes judiciaires, le commissaire-priseur devra alors passer l'examen d'aptitude à la profession de commissaire-priseur judiciaire.</p> </MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17096" csRelFld="17096">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17096</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10307</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des postes convoités mais rares</inter>
+<p>Le nombre de candidats à l'examen d'accès au stage qui permet de faire ce métier est en augmentation depuis plusieurs années. En 2010, 97 candidats se sont présentés, mais seulement 28 % ont été retenus. La sélection reste donc sévère et les postes rares.</p>
+<inter>Un marché concurrentiel</inter>
+<p>Avant la réforme de 2001, les commissaires-priseurs possédaient un monopole sur l'organisation des ventes publiques volontaires. Depuis, le secteur s'est ouvert à la concurrence, notamment anglo-saxonne. Les commissaires-priseurs français doivent donc désormais composer avec leurs homologues d'outre-manche, dans un marché de l'art en pleine expansion. Néanmoins, ils peuvent aujourd'hui exercer dans des sociétés commerciales, ce qui constitue un atout pour affronter ces nouveaux concurrents.</p>
+<inter>Les ventes sur le web</inter>
+<p>En plus de la concurrence anglo-saxonne, il faut ajouter le développement massif des opérateurs d'enchères électroniques sur Internet. Ces derniers ne sont ni tenus à la traçabilité de l'origine des oeuvres, ni au paiement d'assurance ou de caution, des charges qui pèsent lourd pour les maisons de ventes aux enchères...</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>La rémunération se compose d'honoraires, calculés en fonction des ventes.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

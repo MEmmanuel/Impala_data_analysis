@@ -1,0 +1,574 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Assistant / Assistante d'\u00e9dition",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante d'\u00e9dition",
+            "code_ogr": "11262"
+        },
+        {
+            "libelle_court": "Conseiller / Conseill\u00e8re litt\u00e9raire",
+            "priorisation": "1",
+            "libelle": "Conseiller / Conseill\u00e8re litt\u00e9raire",
+            "code_ogr": "13466"
+        },
+        {
+            "libelle_court": "Directeur / Directrice de collection en \u00e9dition",
+            "priorisation": "1",
+            "libelle": "Directeur / Directrice de collection en \u00e9dition",
+            "code_ogr": "14241"
+        },
+        {
+            "libelle_court": "Directeur / Directrice d'\u00e9dition \u00e9lectronique et multim\u00e9dia",
+            "priorisation": "1",
+            "libelle": "Directeur / Directrice d'\u00e9dition \u00e9lectronique et multim\u00e9dia",
+            "code_ogr": "14349"
+        },
+        {
+            "libelle_court": "Directeur / Directrice d'\u00e9dition en ligne",
+            "priorisation": "1",
+            "libelle": "Directeur / Directrice d'\u00e9dition en ligne",
+            "code_ogr": "14350"
+        },
+        {
+            "libelle_court": "Directeur / Directrice des publications",
+            "priorisation": "1",
+            "libelle": "Directeur / Directrice des publications",
+            "code_ogr": "14372"
+        },
+        {
+            "libelle_court": "Directeur / Directrice \u00e9ditorial",
+            "priorisation": "1",
+            "libelle": "Directeur / Directrice \u00e9ditorial",
+            "code_ogr": "14440"
+        },
+        {
+            "libelle_court": "Directeur / Directrice litt\u00e9raire",
+            "priorisation": "1",
+            "libelle": "Directeur / Directrice litt\u00e9raire",
+            "code_ogr": "14457"
+        },
+        {
+            "libelle_court": "Editeur / Editrice",
+            "priorisation": "1",
+            "libelle": "Editeur / Editrice",
+            "code_ogr": "14579"
+        },
+        {
+            "libelle_court": "Editeur / Editrice junior",
+            "priorisation": "1",
+            "libelle": "Editeur / Editrice junior",
+            "code_ogr": "14580"
+        },
+        {
+            "libelle_court": "Editeur / Editrice multim\u00e9dia",
+            "priorisation": "1",
+            "libelle": "Editeur / Editrice multim\u00e9dia",
+            "code_ogr": "14581"
+        },
+        {
+            "libelle_court": "Lecteur / Lectrice",
+            "priorisation": "1",
+            "libelle": "Lecteur / Lectrice",
+            "code_ogr": "16173"
+        },
+        {
+            "libelle_court": "Responsable de produits d'\u00e9dition",
+            "priorisation": "1",
+            "libelle": "Responsable de produits d'\u00e9dition",
+            "code_ogr": "18819"
+        },
+        {
+            "libelle_court": "Responsable d'\u00e9dition",
+            "priorisation": "1",
+            "libelle": "Responsable d'\u00e9dition",
+            "code_ogr": "18897"
+        },
+        {
+            "libelle_court": "Responsable service \u00e9dition",
+            "priorisation": "1",
+            "libelle": "Responsable service \u00e9dition",
+            "code_ogr": "19186"
+        },
+        {
+            "libelle_court": "Secr\u00e9taire d'\u00e9dition",
+            "priorisation": "1",
+            "libelle": "Secr\u00e9taire d'\u00e9dition",
+            "code_ogr": "19383"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Collecter et pr\u00e9parer les textes, illustrations",
+            "code_ogr": "833",
+            "code_type_activite": "2",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Concevoir la maquette, la mise en page, l'int\u00e9gration des textes et le traitement des images",
+            "code_ogr": "888",
+            "code_type_activite": "2",
+            "riasec_majeur": "A",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler les textes, les \u00e9preuves et la structure des livres, des ouvrages, de revues",
+            "code_ogr": "1046",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les corrections, la mise au point des dossiers de fabrication et valider les textes, le Bon \u00e0 Tirer",
+            "code_ogr": "1620",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Assurer le suivi des projets d'\u00e9dition avec les intervenants, auteurs, illustrateurs, imprimeurs, correcteurs",
+            "code_ogr": "777",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner la r\u00e9alisation et la fabrication d'ouvrage et contr\u00f4ler les travaux d'\u00e9dition",
+            "code_ogr": "1188",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "6",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et mettre \u00e0 jour l'information culturelle, r\u00e9glementaire, professionnelle",
+            "code_ogr": "3237",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "E1103",
+            "libelle_rome_cible": "Communication"
+        },
+        {
+            "code_rome_cible": "E1305",
+            "libelle_rome_cible": "Pr\u00e9paration et correction en \u00e9dition et presse"
+        },
+        {
+            "code_rome_cible": "L1303",
+            "libelle_rome_cible": "Promotion d'artistes et de spectacles"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau Bac+2 (BTS, DUT, ...) \u00e0 Master (M1, Master professionnel, ...) dans les secteurs de l'\u00e9dition, des m\u00e9tiers du livre, des sciences humaines, de l'information, de la litt\u00e9rature, de l'art, ...\nLa fonction d'\u00e9diteur est accessible apr\u00e8s une exp\u00e9rience professionnelle dans le secteur.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Intervenir sur un type de support :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Audiovisuel",
+            "code_ogr": "7219",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Edition \u00e9lectronique et multim\u00e9dia (en ligne, cd-rom, ...)",
+            "code_ogr": "7220",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Livre, presse, magazine",
+            "code_ogr": "7221",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Intervenir dans un domaine d'\u00e9dition :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Art",
+            "code_ogr": "6723",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bande dessin\u00e9e",
+            "code_ogr": "6724",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Jeunesse",
+            "code_ogr": "6725",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "3",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Juridique, organisation d'entreprise, soci\u00e9t\u00e9",
+            "code_ogr": "6726",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "4",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Litt\u00e9rature, histoire",
+            "code_ogr": "6727",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Scientifique",
+            "code_ogr": "6728",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "6",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Scolaire, universitaire",
+            "code_ogr": "6729",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "7",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Technique, technologique",
+            "code_ogr": "6730",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "8",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Vie pratique , loisirs",
+            "code_ogr": "6731",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "9",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Rechercher des auteurs, s\u00e9lectionner des ouvrages, textes, manuscrits et \u00e9tablir des contrats d'\u00e9dition",
+            "code_ogr": "9441",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Concevoir des supports de pr\u00e9sentation d'ouvrages (couverture, plaquette, affiche, pages web, ...)",
+            "code_ogr": "3991",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9terminer des solutions techniques, des modalit\u00e9s de fabrication et s\u00e9lectionner des prestataires, des imprimeurs",
+            "code_ogr": "4650",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9finir et mettre en oeuvre la politique et les actions de promotion et de diffusion des ouvrages",
+            "code_ogr": "4509",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Diriger une ou plusieurs collections (romans, ouvrages scientifiques, ...)",
+            "code_ogr": "4757",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9finir la politique \u00e9ditoriale (collections, projets d'\u00e9ditions, programme \u00e9ditorial, ...) et sa mise en oeuvre",
+            "code_ogr": "4524",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Diriger un service, une structure",
+            "code_ogr": "3530",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de maisons d'\u00e9dition, d'entreprises, d'agences de presse, de services de l'Etat, en relation avec diff\u00e9rents intervenants (auteurs, lecteurs, rewriters, traducteurs, \u00e9diteurs \u00e9trangers, imprimeurs, ...).\nElle varie selon le secteur (\u00e9dition, presse, ...) et la taille de la structure.\nLa r\u00e9mun\u00e9ration peut \u00eatre constitu\u00e9e de commissions.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels d'\u00e9dition multim\u00e9dia",
+            "code_ogr": "21271",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Publication Assist\u00e9e par Ordinateur -PAO-",
+            "code_ogr": "21264",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9daction de note de lecture",
+            "code_ogr": "21075",
+            "position_item": "4",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Agence de presse",
+            "code_ogr": "23690",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Association",
+            "code_ogr": "23706",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise",
+            "code_ogr": "23867",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement/organisme de recherche",
+            "code_ogr": "23925",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Administration / Services de l'Etat",
+            "code_ogr": "23388",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Communication",
+            "code_ogr": "23448",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Edition",
+            "code_ogr": "23471",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Imprimerie",
+            "code_ogr": "23524",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pr\u00e9presse",
+            "code_ogr": "23594",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Presse",
+            "code_ogr": "23595",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Droit de la propri\u00e9t\u00e9 intellectuelle",
+            "code_ogr": "21797",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques \u00e9ditoriales",
+            "code_ogr": "23246",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'impression",
+            "code_ogr": "23223",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de mise en page/forme",
+            "code_ogr": "22613",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'infographie",
+            "code_ogr": "23225",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Cha\u00eene graphique",
+            "code_ogr": "21702",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles typographiques",
+            "code_ogr": "22660",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes r\u00e9dactionnelles",
+            "code_ogr": "22235",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en graphisme",
+            "code_ogr": "21873",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "March\u00e9 du livre",
+            "code_ogr": "22094",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques commerciales",
+            "code_ogr": "23012",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nSupervise, coordonne et pr\u00e9pare la r\u00e9alisation et l'\u00e9dition de produits, de publications (livres, ouvrages, revues, support multim\u00e9dia, ...) selon la politique \u00e9ditoriale et commerciale.\nPeut coordonner les promotions et mettre en oeuvre les actions de distribution et de diffusion.\nPeut diriger une collection ou coordonner une \u00e9quipe.\n",
+    "intitule": "Coordination d'\u00e9dition",
+    "code_ogr": "123",
+    "code_rome": "E1105",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "E1102",
+            "libelle_rome_cible": "Ecriture d'ouvrages, de livres"
+        },
+        {
+            "code_rome_cible": "E1104",
+            "libelle_rome_cible": "Conception de contenus multim\u00e9dias"
+        },
+        {
+            "code_rome_cible": "E1106",
+            "libelle_rome_cible": "Journalisme et information m\u00e9dia"
+        }
+    ]
+}

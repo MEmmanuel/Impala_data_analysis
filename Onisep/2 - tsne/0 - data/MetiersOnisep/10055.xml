@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e système</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">programmer, créer du contenu numérique</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction maintenance</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur sociétés de service et de conseil en informatique/secteur des télécommunications</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">système d'exploitation/système informatique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé/ingénieur système</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10055</lien_onisep>
+<ROME Level="1B" csRelFld="10055">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="600" csRelFld="600">
+<CSLABELFLD label="">M1802</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Systèmes d'information et de télécommunication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1802</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Expertise et support en systèmes d'information</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="603" csRelFld="603">
+<CSLABELFLD label="">M1805</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Systèmes d'information et de télécommunication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1805</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Études et développement informatique</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10055">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17531" csRelFld="17531">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17531</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10055</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Gérer le système d'information</inter>
+<p>L'ingénieur système est responsable de l'installation et de la maintenance des équipements informatiques et des logiciels d'une entreprise sur l'ensemble de ses implantations. Au moyen de tests et de contrôles réguliers, il cherche sans cesse des solutions susceptibles d'accroître les performances du système.</p>
+<inter>Protéger et dépanner</inter>
+<p>Responsable de la confidentialité des informations qui transitent sur le réseau, il gère les autorisations d'accès et installe des systèmes de protection. Lorsque les utilisateurs ont des problèmes, il les identifie et les résout au plus vite, en lien avec l'administrateur réseau.</p>
+<inter>Conseiller et innover</inter>
+<p>Auprès des équipes de développement, ce cadre technique assure une mission de conseil en matière de configuration. Il évalue et anticipe les besoins de l'entreprise, informe les utilisateurs des évolutions techniques, au besoin encadre des formations. Il effectue une veille technologique et facilite l'intégration des nouveaux outils système.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17519" csRelFld="17519">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17519</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10055</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Les diplômés de niveau bac + 5 (ingénieurs ou titulaires d'un master) bénéficient de belles opportunités.</accr_p> Les techniciens supérieurs (bac + 2 ou + 3) avec une expérience professionnelle sont également recherchés.</p>
+<p>Certaines universités proposent des spécialisations intéressantes : sécurité des systèmes informatiques, systèmes intelligents et communicants (SIGE) ; ingénierie des réseaux et systèmes...</p>
+<p>Les diplômes d'ingénieurs semblent davantage correspondre au profil type recherché par les recruteurs. Plusieurs établissements proposent une spécialité systèmes en fin de cursus : Grenoble INP-Ensimag, Supélec à Gif (91), Ecam Rennes (35), ENI Metz (57), Télécom SudParis à Évry (91)... Ou une filière spécialisée : Eisti à Cergy-Pontoise (95), Enssat à Lannion (22), Esil à Marseille (13)...</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master mention informatique ou mention réseaux et télécommunication, spécialités réseaux et systèmes, sécurité du logiciel...</itsimp>
+<itsimp>Diplôme d'ingénieur spécialités informatique, génie informatique</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17522" csRelFld="17522">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17522</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10055</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un ingénieur bien coté</inter>
+<p>Du fait de l'explosion d'Internet, du commerce électronique et de l'ouverture du système d'information (aux partenaires, clients...), ce métier prend encore de l'importance. L'ingénieur système contribue à la mise en place d'applications reposant sur ces technologies grâce à sa connaissance des nouveaux outils d'intégration.</p>
+<inter>De belles opportunités</inter>
+<p>Le métier conduit naturellement à se spécialiser dans les réseaux, les bases de données ou la sécurité des informations. Après quelques années d'expérience, un poste de consultant (centré sur la qualité et la sécurité) ou d'architecte système et réseaux est envisageable. C'est au sein des SSII que les ingénieurs système ont les meilleures opportunités d'aborder des domaines technologiques différents. Après une formation au management et à la gestion de projet, ils peuvent accéder à la direction d'une équipe.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2400</sal> à 2900 euros brut par mois.</p>
+<postit>
+<p>Source : 01 Informatique, 2011.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">responsable qualité en agroalimentaire</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">contrôler la qualité, expertiser/coordonner l'activité d'une équipe/concevoir, utiliser des technologies industrielles de pointe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction qualité/fonction conseil, audit, expertise/fonction formation</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie agroalimentaire</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">qualité et sécurité des aliments/contrôle de fabrication</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE production alimentaire /responsable qualité en agroalimentaire</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10343</lien_onisep>
+<ROME Level="1B" csRelFld="10343">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10343">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18856" csRelFld="18856">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18856</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10343</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Traquer les anomalies</inter>
+<p>Garantir au consommateur des aliments sains : c'est l'objectif du responsable qualité en agroalimentaire. Ses missions sont multiples : piloter les analyses des produits, valider leur conformité par rapport au cahier des charges des clients et aux normes de la réglementation. À lui aussi de contrôler les conditions d'hygiène et de fixer les recommandations pour maîtriser la qualité du produit tout au long de la chaîne.</p>
+<inter>Améliorer le contrôle qualité</inter>
+<p>Dans l'industrie agroalimentaire, le responsable qualité est responsable à la fois du produit fini et de la procédure de fabrication. Si la qualité n'est pas au rendez-vous, il doit analyser les causes de défaillance et y apporter des solutions en élaborant de nouvelles méthodes de production.</p>
+<inter>Sensibiliser les personnels</inter>
+<p>Sensibiliser le personnel de l'usine aux bonnes pratiques en matière de qualité, d'hygiène et de sécurité fait partie de son rôle. Le responsable qualité rédige les procédures à respecter par tous les acteurs concernés (services internes, fournisseurs et sous-traitants). Ses recommandations peuvent modifier l'organisation de la chaîne de travail.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18853" csRelFld="18853">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18853</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10343</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Les grands groupes recherchent surtout des ingénieurs en agriculture ou en agroalimentaire, avec, éventuellement, une spécialisation en qualité.</accr_p>Dans les PME, ce sont les techniciens supérieurs formés en biologie ou en agroalimentaire qui auront la préférence.</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS bioanalyses et contrôles ; biotechnologies ; qualité dans les industries alimentaires et les bio-industries</itsimp>
+<itsimp>BTSA analyses agricoles biologiques et biotechnologiques ; sciences et technologies des aliments </itsimp>
+<itsimp>DUT génie biologique, options analyses biologiques et biochimiques ; industries alimentaires et biologiques</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licences pro du domaine des industries agroalimentaires, de l'alimentation spécialisées en management de la qualité, de la sécurité, de l'environnement, en risques industriels...</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Masters pro du domaine agroalimentaire spécialisés en gestion de la qualité, en hygiène-sécurité-environnement, en procédés industriels...</itsimp>
+<itsimp>Diplômes d'ingénieur spécialisé en industries alimentaires, génie biologique et microbiologie appliquée...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18854" csRelFld="18854">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18854</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10343</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des postes limités</inter>
+<p>Les professionnels de la qualité représentent entre 2 et 4 % des 420 000 salariés de l'industrie alimentaire. Ingénieurs le plus souvent, ils sont surtout embauchés par les grands noms de l'agroalimentaire qui représentent 30 % des entreprises de plus de 20 salariés. Dans les PME, où la polyvalence est recherchée, la qualité est souvent associée à un poste en production.</p>
+<inter>Un métier en évolution constante</inter>
+<p>Le rôle du responsable qualité continue d'évoluer et de s'élargir au-delà du contrôle de procédures. Le professionnel peut intervenir depuis la conception des produits jusqu'au suivi des ventes et être donc en contact avec les fournisseurs et les clients. </p>
+<inter>Devenir manager ou expert</inter>
+<p>Une solide expérience dans la qualité offre un bon tremplin pour progresser. Un responsable qualité peut ainsi évoluer vers des fonctions de management et d'expertise au niveau de la direction générale. Ou vers des fonctions d'audit interne dans les grandes entreprises.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2400</sal> euros brut par mois.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

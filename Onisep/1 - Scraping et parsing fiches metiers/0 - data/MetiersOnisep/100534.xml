@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">directeur/trice d'accueil collectif de mineurs (ACM)</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe/décider/m'occuper d'enfants ou d'adolescents</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">saisonnier/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction encadrement - coordination</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur du tourisme</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">animation de centres de loisirs et de vacances</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE hôtellerie restauration tourisme loisirs</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100534</lien_onisep>
+<ROME Level="1B" csRelFld="100534">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="222" csRelFld="222">
+<CSLABELFLD label="">G1203</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Animation d'activités de loisirs</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">G1203</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Animation de loisirs auprès d'enfants ou d'adolescents</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100534">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="50066" csRelFld="50066">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">50066</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100534</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Plusieurs structures, un même objectif</inter>
+<p>Qu'il soit responsable d'un centre aéré, d'un centre de vacances, de loisirs ou d'une colonie de vacances, le directeur d'accueil collectif de mineurs (ACM) poursuit un même objectif : permettre aux jeunes (de 3 à 17 ans) de se détendre à travers la pratique d'activités variées (sport, culture, arts...) et d'expérimenter la vie en communauté, tout en devenant autonomes.</p>
+<inter>Mettre en &#339;uvre un projet éducatif </inter>
+<p>C'est l'organisateur (association, municipalité, comité d'entreprise, entreprise...) qui construit et propose un projet éducatif à l'intérieur duquel il explique ce qu'il va proposer aux jeunes qu'il va accueillir. Une fois le projet validé par le ministère de tutelle, c'est au directeur ACM de mettre en &#339;uvre ce projet, en concertation avec son équipe d'animateurs et l'organisateur. Il informe les parents sur l'organisation du centre, leur présente le programme des activités et reste en lien avec eux pendant le séjour de leurs enfants. Il veille, d'une part, à ce que les jeunes sous sa responsabilité soient en sécurité (au niveau des transports, de l'hébergement et des activités proposées). D'autre part, à ce que les animateurs et autres collaborateurs (à l'intendance, en cuisine...) soient bien qualifiés pour intervenir auprès de mineurs.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="50070" csRelFld="50070">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">50070</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100534</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Les diplômes exigés pour un emploi de directeur ACM sont le BAFA (brevet d'aptitude aux fonctions d'animateur) et le BAFD (brevet d'aptitude aux fonctions de directeur). D'autres diplômes sont également possibles (BPJEPS, DEUST, DUT...).</p>
+<p>Pour préparer le BAFA, aucun diplôme n'est requis. Il suffit d'avoir 17 ans révolus. Formation : partie générale (8 jours), stage (14 jours) et session d'approfondissement ou de qualification (6 ou 8 jours).</p>
+<p>On prépare le BAFD après avoir validé son BAFA ou équivalent. Il faut être âgé de 21 ans révolus. 4 étapes de formation sur 4 ans au maximum : formation générale, 2 stages et session de perfectionnement.</p>
+<p>Ces 2 formations sont payantes. Elles sont dispensées par des organismes agréés par les directions régionales de la jeunesse et des sports. Elles aussi peuvent être financées par les employeurs qui désirent fidéliser leurs animateurs. Dans les deux cas, une attestation de formation aux premiers secours est indispensable. À noter : la législation étant de plus en plus stricte, des diplômes professionnels sont requis.</p>
+<liste>
+<tete>Diplômes non professionnels de l'animation</tete>
+<itsimp>BAFA</itsimp>
+<itsimp>BAFD</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>BPJEPS</itsimp>
+</liste>
+<liste>
+<tete>Bac + 2 </tete>
+<itsimp>DEUST autour de l'animation</itsimp>
+<itsimp>DUT carrières sociales option animation sociale et socioculturelle</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="50068" csRelFld="50068">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">50068</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100534</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un travail intermittent </inter>
+<p>Le directeur ACM exerce de façon occasionnelle et à titre non professionnel. Il peut aussi occuper des emplois permanents avec les activités périscolaires. Les emplois sont saisonniers et souvent à temps partiel.</p>
+<inter>Recruté par une association, une commune... </inter>
+<p>Le directeur ACM est recruté et employé par l'organisateur qui gère le centre : selon les cas, une association, une commune ou une autre collectivité territoriale, un comité d'entreprise, une infrastructure sportive, etc. Il doit être mobile et accepter un éloignement de son domicile, ce qui, en la circonstance, n'est généralement pas vécu comme un inconvénient&#8230;. </p>
+<inter>Des évolutions limitées</inter>
+<p>Les évolutions de carrière sont limitées. Il faut le plus souvent être titulaire de diplômes professionnels dans le domaine de l'animation pour occuper un poste de salarié permanent, ou passer des concours de la fonction publique territoriale. Certains choisissent de quitter l'animation et deviennent formateurs dans les domaines de la relation et de la vie de groupe.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>1740 euros brut par mois (selon expérience et structure de travail + hébergement, repas...).</p>
+<postit>
+<p>Source : Conseil national des employeurs associatifs.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

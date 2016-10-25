@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">fleuriste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un métier artistique ou créatif/faire du commerce</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/artisan</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction vente/fonction gestion financière et comptable/fonction achats approvisionnement</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur commerce/secteur artisanat d'art</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">commerce de fleur/commerce non alimentaire/artisanat d'art</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE commerce distribution/fleuriste</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10079</lien_onisep>
+<ROME Level="1B" csRelFld="10079">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="114" csRelFld="114">
+<CSLABELFLD label="">D1209</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Commerce non alimentaire et de prestations de confort</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">D1209</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Vente de végétaux</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10079">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17945" csRelFld="17945">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17945</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10079</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Acheter plantes et fleurs</inter>
+<p>Après avoir vérifié l'état des stocks, le fleuriste sélectionne les plantes, les arbustes et les fleurs qu'il va acheter sur les marchés spécialisés ou commander à ses fournisseurs. Son choix est guidé par certaines dates du calendrier : 1<exp>er</exp> mai, Fête des mères, Toussaint, Noël... qui rythment ponctuellement son activité.</p>
+<inter>Soigner et mettre en valeur</inter>
+<p>Une fois entreposés dans son magasin (dans les meilleures conditions de température et de taux d'humidité), les végétaux font l'objet de soins multiples : coupe des tiges ou des feuilles abîmées, arrosage, rempotage, lutte contre les parasites... avant d'être présentés en bouquets, en pots, en compositions...</p>
+<inter>Vendre et conseiller</inter>
+<p>Quand un client arrive, le fleuriste est un vendeur. En fonction de la demande, il conseille l'achat de fleurs ou de telle ou telle plante, et indique les soins à lui apporter pour la conserver en bonne santé le plus longtemps possible. À la fin de la journée, le fleuriste fait ses comptes et dresse la liste des variétés qu'il devra acheter le lendemain...</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17947" csRelFld="17947">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17947</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10079</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le CAP (certificat d'aptitude professionnelle) fleuriste est le diplôme de référence pour exercer ce métier. Il se prépare souvent en apprentissage. Habituellement préparé en 2 ans, il peut aussi être obtenu en 1 an après un diplôme de niveau bac. Il existe d'autres diplômes pour se perfectionner en art floral ou pour s'installer à son compte ; c'est le cas du BP (brevet professionnel) et du BTM (brevet technique des métiers).</p>
+<liste>
+<tete>Après la 3<exp>e</exp>
+</tete>
+<itsimp>CAP fleuriste</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>BP fleuriste</itsimp>
+<itsimp>BTM fleuriste</itsimp>
+<itsimp>Bac pro technicien conseil, vente de produits de jardin</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BM fleuriste</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17935" csRelFld="17935">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17935</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10079</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Boutique ou hypermarché</inter>
+<p>Chaque année, 1000 à 1300 postes de fleuriste sont à pourvoir.</p>
+<p>Dans les petits commerces tout d'abord : on compte 14 000 boutiques traditionnelles, qui représentent la majorité des points de vente et emploient plus de 85 % des salariés.</p>
+<p>Dans les grandes surfaces ensuite : le développement de rayons de fleurs et de plantes dans les hypermarchés et les jardineries des galeries marchandes a créé des emplois. À noter, aussi, le développement des fleuristes franchisés (qui gèrent un magasin appartenant à une grande enseigne).</p>
+<inter>Des évolutions de carrière</inter>
+<p>Un fleuriste débute comme employé en grande surface ou dans une jardinerie. Il peut, à moyen terme, prendre la responsabilité d'un rayon floral, devenir conseiller technique de vente pour l'horticulture ou vendeur spécialisé en pépinière. L'évolution la plus courante est de créer ou de reprendre un fonds de commerce pour diriger son propre magasin : ainsi, 75 % des salariés se mettent à leur compte après quelques années d'expérience.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir du<sal>Smic</sal>.</p>
+<postit>
+<p>Source : grille des salaires dans le cadre de la Convention collective nationale des fleuristes, de la vente et des services des animaux familiers (arrêté du 25/10/2011, JO n° 0256 du 04/11/2011).</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

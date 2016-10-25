@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">chargé/e de veille législative et réglementaire</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">enquêter, rechercher, analyser l'information/informer, communiquer</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction veille économique et technologique</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie pharmaceutique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">droit de la santé/pharmacie industrielle</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE matériaux laboratoire organisation industrielle</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100617</lien_onisep>
+<ROME Level="1B" csRelFld="100617">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="475" csRelFld="475">
+<CSLABELFLD label="">K1601</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Culture et gestion documentaire</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K1601</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Gestion de l'information et de la documentation</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100617">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56063" csRelFld="56063">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56063</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100617</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter> Informer sur la législation</inter>
+<p>Rattaché à un laboratoire, le chargé de veille législative et réglementaire est le spécialiste de la législation sur les médicaments. Parce que l'activité des entreprises pharmaceutiques s'exerce dans un cadre très strict, fixé par le Code de la santé publique, le chargé interprète, synthétise et diffuse les nouveaux textes réglementaires et scientifiques qui paraissent en France et à l'étranger. Il transmet, au sein de l'entreprise, des informations actualisées, auxquelles il ajoute ses préconisations. Il gère l'archivage de la documentation réglementaire. Il supervise les traductions de documents comme les AMM (autorisations de mise sur le marché) qui permettent de commercialiser des médicaments en France, les demandes de renouvellement, de modification... afin de valider l'exactitude des informations transmises aux autorités. </p>
+<inter>Faciliter la prise de décision </inter>
+<p>Il évalue l'impact d'une nouvelle réglementation ou d'une découverte scientifique. Pour être toujours à jour, il consulte des bases de données, conçoit des techniques de recherche et de veille. Il rédige des documents de synthèse (fiches et autres reportings) dont l'objectif est de faciliter le travail de la production, en aidant les managers à faire des choix stratégiques. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56067" csRelFld="56067">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56067</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100617</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p> On accède au métier principalement avec un master en sciences de la santé ou en droit, ou un diplôme d'État de docteur en pharmacie, docteur en médecine ou docteur vétérinaire. </p>
+<liste>
+<tete> Niveau bac + 5 </tete>
+<itsimp> Master en droit de la santé ; économie, gestion et réglementation de la santé ; biologie, santé, sciences du médicament ; sciences du médicament ; affaires réglementaires des industries de santé ; stratégies juridiques et économiques de mise sur le marché des produits de santé ; communication numérique, conduite de projets et veille stratégique ; intelligence économique et stratégie compétitive... </itsimp>
+</liste>
+<liste>
+<tete> Niveau bac + 6 et plus</tete>
+<itsimp>Diplôme d'État (DE) de docteur en pharmacie option industrie</itsimp>
+<itsimp>Diplôme d'État (DE) de docteur vétérinaire </itsimp>
+</liste>
+<liste>
+<tete> Niveau bac + 9 et plus</tete>
+<itsimp>Diplôme d'État (DE) de docteur en médecine </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56065" csRelFld="56065">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56065</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100617</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter> Un secteur moins florissant </inter>
+<p> Le chargé de veille législative et réglementaire exerce dans l'industrie pharmaceutique, un secteur qui se porte moins bien depuis quelques années. La France reste l'un des premiers producteurs de médicaments en Europe, toutefois la situation devient tendue en terme de recrutements. Selon la fédération LEEM (Les entreprises du médicament), l'industrie du médicament poursuit même son recul en termes d'emploi. Pour la 5<exp>e</exp> année consécutive, elle a connu une baisse de ses effectifs en 2012. Paradoxalement, les entreprises du médicament rencontrent des difficultés de recrutement pour certains métiers en recherche et développement, ou pour les diplômes de pharmacien ou médecin, où des pénuries d'emploi sont à craindre. </p>
+<inter> Des évolutions de poste </inter>
+<p> Dans l'industrie pharmaceutique, des passerelles existent vers d'autres métiers. Le chargé de veille législative et réglementaire peut notamment devenir chargé d'affaires réglementaires, chargé de pharmacovigilance, documentaliste scientifique, responsable des affaires réglementaires ou encore responsable de la communication scientifique et médicale, avec une formation complémentaire si nécessaire. </p>
+<remun>
+<inter> Salaire du débutant </inter>
+<p>
+<sal>2500</sal> euros brut par mois. </p>
+<postit>
+<p>Source : Apec (Association pour l'emploi des cadres), 2014. </p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

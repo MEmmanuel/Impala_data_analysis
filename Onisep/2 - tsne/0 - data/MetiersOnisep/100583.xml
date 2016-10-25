@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e process aval</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe/faire de la recherche/travailler à l'étranger</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction organisation de la production industrielle</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur énergie</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">pétrole</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100583</lien_onisep>
+<ROME Level="1B" csRelFld="100583">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="272" csRelFld="272">
+<CSLABELFLD label="">H1302</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Hygiène Sécurité Environnement -HSE- industriels</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H1302</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie Hygiène Sécurité Environnement -HSE- industriels</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100583">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="55486" csRelFld="55486">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55486</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100583</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Transmettre aux opérationnels</inter>
+<p>Le pétrole remontant des puits n'est pas utilisable avant d'être purifié et transformé dans les raffineries. L'ingénieur process aval assure le suivi technique quotidien de plusieurs unités, en donnant des consignes de réglage et en contrôlant leur mise en oeuvre. Il transmet aux opérationnels des indications sur les pressions, les températures et les flux, dans un souci de rendement et de respect de l'environnement, de la qualité et de la sécurité.</p>
+<inter>Trouver des solutions</inter>
+<p>Il consigne les problèmes rencontrés au niveau de l'unité de production et réfléchit aux solutions adéquates, avant de les transmettre au service études qui procédera à des simulations. Certains ingénieurs process travaillent d'ailleurs uniquement en centre de recherche sur des projets d'amélioration à long terme, notamment dans le cadre de la construction d'une nouvelle raffinerie ou la mise en place de nouvelles spécifications.</p>
+<inter>Faire des économies... mesurées</inter>
+<p>À l'interface entre les différents services de la raffinerie, l'ingénieur process aval tente d'améliorer le résultat global de la raffinerie, notamment en visant un objectif chiffré d'économies à réaliser. Toute la difficulté est de mesurer les impacts des solutions préconisées, à la fois sur la production et sur l'environnement.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55490" csRelFld="55490">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55490</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100583</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le métier d'ingénieur process aval est accessible après un bac + 5 : diplôme d'ingénieur (notamment de l'École nationale supérieure de géologie, ENSG, à Nancy, de l'IFP School à Rueil-Malmaison, de l'École nationale supérieure de techniques avancées, Ensta, de l'École des mines...) ou master.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur</itsimp>
+<itsimp>Master en génie pétrolier, spécialité géosciences ; production et traitements ; recherches appliquées en génie pétrolier ou réservoirs</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55488" csRelFld="55488">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55488</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100583</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un secteur qui recrute</inter>
+<p>Les industries pétrolières et parapétrolières continuent de recruter des profils techniques comme les ingénieurs process aval, et les jeunes diplômés y sont les bienvenus. Ils doivent parfois passer par une formation interne de plusieurs mois, mais se retrouvent ensuite rapidement sur le terrain, à moins qu'ils ne choisissent de commencer leur carrière en service études.</p>
+<inter>De nombreuses passerelles</inter>
+<p>Après ce poste technique, l'ingénieur process aval peut passer à l'exploitation, à l'instrumentation, à la maintenance ou encore à l'ordonnancement. Autant de fonctions qu'il pourra côtoyer au cours de ses premières expériences. Il peut également s'orienter vers la recherche s'il vient du terrain et vice versa : les chercheurs, après quelques années en centre de recherche, peuvent envisager de s'orienter vers la production. La mobilité interne est encouragée et valorisée.</p>
+<inter>Un beau tremplin</inter>
+<p>Ce métier est une excellente porte d'entrée dans le secteur industriel en général, et dans celui des hydrocarbures en particulier. Les jeunes ingénieurs y acquièrent une grande connaissances des métiers et sont amenés à utiliser et développer de nombreuses compétences.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2900</sal> à 3300 euros brut par mois, sans compter d'éventuelles primes.</p>
+<postit>
+<p>Source : Étude de rémunération nationale, cabinet Hays, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">paléontologue</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire de la recherche</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction recherche</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur recherche/secteur fonction publique/secteur de l'éducation</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">paléontologie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100603</lien_onisep>
+<ROME Level="1B" csRelFld="100603">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="519" csRelFld="519">
+<CSLABELFLD label="">K2401</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Recherche</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K2401</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Recherche en sciences de l'homme et de la société</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100603">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1518" csRelFld="1518">
+<CSLABELFLD label="">paléoanthropologue</CSLABELFLD>
+<MET_ID label="Identifiant">100603</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">21/11/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1518</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">paléoanthropologue</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1518">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1519" csRelFld="1519">
+<CSLABELFLD label="">paléobotaniste</CSLABELFLD>
+<MET_ID label="Identifiant">100603</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">21/11/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1519</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">paléobotaniste</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1519">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="55926" csRelFld="55926">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55926</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100603</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Réaliser des fouilles</inter>
+<p>Le paléontologue étudie les restes fossiles des êtres vivants du passé, enfouis dans les roches ou dans les sédiments géologiques. Il met au jour un monde ancien, peuplé d'animaux et de végétaux aujourd'hui disparus. Défense de mammouth, crâne de tyrannosaure... il voyage dans le temps, en déterrant des ossements enfouis, qu'il enveloppe ensuite dans des morceaux de toile et de papier trempés dans du plâtre, afin de les préserver. Il détermine aussi l'âge des fossiles, dresse des tableaux de filiation des êtres vivants, reconstitue des squelettes.</p>
+<inter>Décrire et classer les découvertes</inter>
+<p>La découverte d'un fossile sur le terrain n'étant que le début d'un long travail d'identification, il doit ensuite nommer, décrire et classer l'objet, en le comparant avec des descriptions issues d'articles scientifiques ou avec des objets stockés dans les musées.</p>
+<inter>Modéliser et reconstruire le passé</inter>
+<p>La modélisation est aujourd'hui incontournable pour ce scientifique. Un exemple&#8201;: les restes de l'hominidé Toumaï (découvert au Tchad) ont fait l'objet d'une reconstitution informatique en 3D. Les morceaux ont été isolés et réassemblés électroniquement, ce qui a notamment permis de déterminer que le crâne reconstitué ne pouvait pas être celui d'un singe.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55930" csRelFld="55930">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55930</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100603</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>L'obtention d'un doctorat est incontournable pour accéder au métier de chercheur. Il faut choisir soigneusement son sujet de thèse et trouver un laboratoire d'accueil. Une fois le diplôme obtenu, il est possible de compléter son cursus par une expérience professionnelle de post-doctorat, en France ou à l'étranger. Mission scientifique, à durée déterminée et rémunérée, le post-doctorat est recommandé car il constitue un atout lors des concours et recrutements. </p>
+<liste>
+<tete>Niveau bac + 8</tete>
+<itsimp>Doctorat en paléontologie</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55928" csRelFld="55928">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55928</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100603</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Surtout dans la recherche</inter>
+<p>La plupart des paléontologues travaillent dans les universités ou les musées, pour des organismes de recherche publics comme le CNRS (Centre national de la recherche scientifique) ou au sein de collectivités territoriales. Souvent enseignants-chercheurs, ils consacrent une grande partie de leur temps à l'enseignement. La paléontologie regroupe différentes spécialités&#8201;: la paléoanthropologie étudie les hommes préhistoriques ; la paléobotanique se consacre à la flore fossilisée ; la paléobiologie reconstitue l'histoire du vivant et peut utiliser la génétique (paléogénétique) ; la micropaléontologie s'intéresse aux fossiles de taille microscopique (quelques spécialistes de ses micro-organismes fossilisés travaillent dans la prospection pétrolière).</p>
+<inter>Des débuts difficiles</inter>
+<p>L'insertion professionnelle des chercheurs est assez difficile. La plupart d'entre eux se voient proposer des missions ponctuelles donnant lieu à des CCD (contrats à durée déterminée). Le secteur public effectue la majorité des recrutements, mais les concours sont très sélectifs, et les emplois proposés, souvent précaires. Le paléontologue peine donc à trouver un emploi stable. Avec de l'expérience, il peut devenir directeur de recherche.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1900</sal> euros brut par mois.</p>
+<postit>
+<p>Source : ministère de l'Enseignement supérieur et de la Recherche, 2014.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

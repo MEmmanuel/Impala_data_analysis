@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">médecin généraliste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">soigner/aider, conseiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">libéral/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction diagnostic, prescription, intervention</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur santé/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">médecine générale</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE médical paramédical travail social soins personnels/médecin généraliste</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10216</lien_onisep>
+<ROME Level="1B" csRelFld="10216">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10216">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16726" csRelFld="16726">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16726</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10216</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Diagnostic et traitement</inter>
+<p>Polyvalent, le médecin généraliste accueille toutes sortes de patients (du bébé à la personne âgée) et traite des pathologies variées (angine, hypertension, entorse...). Dans son cabinet ou en visite à domicile, la consultation suit un rituel : entretien avec le patient sur ses troubles (fièvre, douleurs...), suivi d'un examen clinique durant lequel le médecin prend la tension, écoute le coeur, palpe les ganglions... Une fois le diagnostic posé, il prescrit des médicaments - en expliquant leurs effets - ou des examens complémentaires (prise de sang ou radio). Il peut effectuer certains soins lui-même (pansements, injections), pratiquer des actes de gynécologie, de pédiatrie ou de petite chirurgie (sutures). Dans d'autres cas, il réoriente vers des médecins spécialistes. </p>
+<inter>Suivi et prévention</inter>
+<p>Au-delà de l'action ponctuelle, le généraliste est souvent l'interlocuteur médical qui a la vision la plus complète du patient, ce qui permet un suivi efficace et coordonné. Souvent choisi pour être le médecin traitant (de toute la famille), il connaît bien ses patients et leur environnement (hygiène de vie, habitudes ou antécédents familiaux). Ce qui l'aide à comprendre leurs maux. Enfin, la prévention constitue l'un de ses axes prioritaires : bilan de santé, dépistage ou vaccinations.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16740" csRelFld="16740">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16740</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10216</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Avant de prononcer le serment d'Hippocrate, 9 ans sont nécessaires pour former un médecin généraliste.</accr_p> Des études longues à l'université, qui débouchent sur le diplôme d'État de docteur en médecine. Le cursus se déroule en quatre grandes étapes :</p>
+<p>- La PACES (1<exp>re</exp> année commune aux études de santé) constitue le premier barrage. Elle se termine par un concours au nombre de places restreint (20 % d'admis). Profil recommandé : un bac S, si possible avec mention.</p>
+<p>- Les 2<exp>e</exp> et 3<exp>e</exp> années : enseignement des bases théoriques de la médecine et premiers stages hospitaliers. En fin de 3<exp>e</exp> année, obtention du diplôme de formation générale en sciences médicales, niveau licence.</p>
+<p>- Les 4, 5<exp>e</exp> et 6<exp>e</exp> années : acquisition d'une formation médicale complète et de plus en plus de pratique hospitalière. A la fin de la 6<exp>e</exp> année, l'étudiant passe l'ECN (examen classant national). Le choix de la spécialité et/ou de la région où il effectuera son internat dépend de ses résultats et de son rang de classement.</p>
+<p>- L'internat : d'une durée de 3 ans, il constitue une plongée dans le métier. Il se conclut par une thèse qui permet l'obtention du diplôme d'État de docteur en médecine.</p>
+<liste>
+<tete>Niveau bac + 9</tete>
+<itsimp>DES médecine générale</itsimp>
+<itsimp>Diplôme d'État de docteur en médecine</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16730" csRelFld="16730">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16730</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10216</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un avenir prometteur</inter>
+<p>Avec plus de 200 000 médecins en exercice, la France n'a jamais compté autant de docteurs. Parmi eux, 40 % sont généralistes. Avec l'accroissement et le vieillissement de la population, les nombreux départs à la retraite et la pénurie de médecins dans certaines régions, les perspectives d'emploi semblent favorables. À condition de s'installer là où les besoins se font sentir. En clair : plutôt à la campagne et dans certaines banlieues défavorisées où les besoins explosent. Beaucoup de grandes villes, l'Ile-de-France, l'Alsace et le sud de la France sont, au contraire, surdotés.</p>
+<inter>Des vacations pour commencer</inter>
+<p>Achat et équipement du cabinet, constitution d'une clientèle : s'installer coûte (très) cher. Aussi, le plus souvent, les jeunes s'associent ou assurent les urgences médicales (la nuit, le week-end). Autre façon de débuter : les remplacements, qui peuvent s'effectuer dans un cabinet, une clinique, un hôpital ou une administration (PMI - protection maternelle et infantile, médecine du travail...). Mieux rémunérés, réguliers, exempts de charges administratives..., certains jeunes font même de ces remplacements un choix de carrière.</p>
+<p>Certains optent pour l'exercice à l'hôpital où ils ont le statut de praticien hospitalier et non pas fonctionnaire.</p>
+<inter>De nouvelles pratiques</inter>
+<p>Pour combattre la désertification médicale, de nouveaux modes d'exercice sont encouragés, comme la pratique en maisons pluridisciplinaires associant sur un même site des médecins libéraux, des kinés, des infirmières. Ou encore la télémédecine.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Le revenu d'un médecin généraliste est très variable selon la région où il exerce et le mode d'exercice choisi.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

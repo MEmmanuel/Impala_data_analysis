@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">chef/fe de produit technique en informatique</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire du commerce/convaincre, négocier/coordonner l'activité d'une équipe/enquêter, rechercher, analyser l'information/programmer, créer du contenu numérique</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction marketing</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur sociétés d'ingénierie et d'études techniques/secteur édition - presse/secteur sociétés de service et de conseil en informatique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">marketing/informatique/télécommunications</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100639</lien_onisep>
+<ROME Level="1B" csRelFld="100639">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="593" csRelFld="593">
+<CSLABELFLD label="">M1703</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Stratégie commerciale, marketing et supervision des ventes</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1703</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et gestion de produit</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="265" csRelFld="265">
+<CSLABELFLD label="">H1206</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception, recherche, études et développement</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H1206</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie études, recherche et développement industriel</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100639">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1546" csRelFld="1546">
+<CSLABELFLD label="">chef de produit marketing</CSLABELFLD>
+<MET_ID label="Identifiant">100639</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">06/02/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1546</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chef/fe de produit marketing</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1546">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56434" csRelFld="56434">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56434</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100639</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Une étude approfondie</inter>
+<p>Le rôle du chef de produit dans le secteur informatique est de définir et positionner un produit ou service. Pour cela, il commence par analyser les besoins et solutions proposées par les services marketing, commerciaux ou techniques. Il réalise une étude de faisabilité technique : il définit les besoins (humains et techniques) nécessaires au projet, détermine le budget et fait une étude de la concurrence avant de présenter un business plan à sa hiérarchie.</p>
+<inter>Un suivi du développement</inter>
+<p>Vient ensuite la phase de développement, qu'il mène avec les équipes techniques. Il définit les spécifications fonctionnelles et traduit en termes techniques les caractéristiques du projet pour l'équipe de développement. Il veille au respect du cahier des charges et du budget réalisé en amont, puis à la bonne adéquation des ressources affectées. Il suit tout le développement du produit en s'assurant de son adéquation aux objectifs commerciaux.</p>
+<inter>L'accompagnement commercial</inter>
+<p>Enfin, il pilote et accompagne le lancement commercial du produit en élaborant une stratégie (prix, promotion, etc.) avec les services qui y sont associés (installation, maintenance, formation...). Il conçoit les supports techniques d'aide à la vente et peut réaliser des présentations en interne ou à l'extérieur.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56438" csRelFld="56438">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56438</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100639</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le chef de produit informatique a généralement une formation de niveau bac + 5. Les doubles formations sont un véritable plus.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur en informatique, télécommunications...</itsimp>
+<itsimp>Master mention informatique ou mention marketing, vente</itsimp>
+<itsimp>Diplôme d'école supérieure de commerce</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56436" csRelFld="56436">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56436</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100639</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>De nombreux débouchés</inter>
+<p>Le chef de produit technique en informatique peut travailler chez un constructeur, un éditeur de logiciels, un opérateur, un distributeur, un hébergeur ou une société de services et d'ingénierie, ou encore en cabinet de conseil. Il peut également intégrer un grand groupe. Les recrutements sont constants pour ce poste, et Internet offre de plus en plus de débouchés pour les jeunes ayant une première expérience réussie.</p>
+<inter>Expérience demandée</inter>
+<p>Le poste de chef de produit technique est souvent proposé à un consultant technique, un ingénieur commercial, un ingénieur d'études, un ingénieur avant-vente ou un chef de projet ayant 2 à 5 ans d'expérience. Les jeunes diplômés peuvent toutefois postuler, mais en tant que junior ou assistant rattaché à un chef de produit senior.</p>
+<inter>Un joli tremplin</inter>
+<p>Après avoir fait ses preuves et s'il a des succès commerciaux à son actif, le chef de produit technique peut évoluer vers un poste de directeur marketing, de responsable de domaine, de directeur des études, de consultant fonctionnel ou d'ingénieur d'affaires, par exemple.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2250</sal> à 2900 euros brut par mois.</p>
+<postit>
+<p>Source : Apec (Association pour l'emploi des cadres), 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

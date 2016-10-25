@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">architecte naval/e </MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un métier artistique ou créatif/faire du dessin</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/libéral</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction études développement industriel </MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur construction navale</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">architecture navale</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE pêche mer aquaculture/architecte naval</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10391</lien_onisep>
+<ROME Level="1B" csRelFld="10391">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="265" csRelFld="265">
+<CSLABELFLD label="">H1206</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception, recherche, études et développement</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H1206</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie études, recherche et développement industriel</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10391">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18468" csRelFld="18468">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18468</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10391</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Concevoir des bateaux</inter>
+<p>L'architecte naval conçoit des bateaux (forme, style, aménagements...) et/ou prend en charge leur fabrication jusqu'à la mise à l'eau. En fonction des souhaits du client qui passe commande d'un navire, l'architecte naval élabore les plans et tous les document techniques et réglementaires nécessaires à sa réalisation... jusqu'au choix des équipementiers qui fournissent le matériel.</p>
+<inter>Veiller à fabriquer un bateau sûr</inter>
+<p>En concevant la structure du navire, l'architecte naval prend en compte différents critères : réglementation en vigueur, capacité de transport de marchandises ou de passagers, résistance du navire dans les tempêtes, calculs de stabilité, degré de pollution, facilité de manoeuvre et tenue à la mer... Soucieux de la sécurité, il sait choisir les matériaux (bois, matériaux composites...) en fonction de l'usage prévu pour le bateau.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18469" csRelFld="18469">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18469</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10391</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>La profession n'est pas réglementée. Cependant, elle est souvent exercée par des architectes ou des ingénieurs qui se sont spécialisés.</accr_p> Les écoles d'architecture recrutent des bacheliers pour 5 années d'études conduisant au DE (diplôme d'État) d'architecte. Les écoles d'architecture de Nantes et de Paris-La Villette proposent un DPEA (diplôme propre aux écoles d'architecture) architecture navale. Il s'adresse principalement aux architectes, ingénieurs, aux titulaires d'un master ou à des professionnels justifiant d'une expérience reconnue.</p>
+<p>Parmi les écoles d'ingénieurs, on peut citer l'Ensta (École nationale supérieure des techniques avancées) avec ses mastères spécialisés en génie maritime (Ensta ParisTech) et en architecture navale et offshore (Ensta Brest) ainsi que le diplôme d'ingénieur spécialité architecture navale (Ensta Brest). L'École centrale de Marseille propose un master spécialisé en ingénierie et énergies marines.</p>
+<liste>
+<tete>
+<accr_p>Niveau bac + 5, bac + 6</accr_p>
+</tete>
+<itsimp>Diplôme d'ingénieur</itsimp>
+<itsimp>Diplôme d'architecte naval</itsimp>
+<itsimp>Mastère spécialisé architecture navale et offshore</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18466" csRelFld="18466">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18466</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10391</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>De rares emplois Dans le secteur de la construction navale, les emplois d'architecte sont rares. En France, seule une trentaine de professionnels vit de cette activité qui devient marginale dans l'industrie nautique.</inter>
+<p>De plus en plus souvent ingénieur</p>
+<p>L'ingénieur en construction navale occupe de plus en plus souvent les fonctions de l'architecte naval dans les activités liées à l'industrie navale ainsi qu'à l'offshore (activités se déroulant en mer, hormis la pêche et le transport maritime). Son champ d'expertise est plus vaste, puisqu'il va de la conception à la production de tous types de bâtiments flottants, et englobe la maintenance.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2000</sal> à 3000 euros brut par mois.</p>
+<postit>
+<p>Source : Apec, 2011.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

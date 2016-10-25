@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">commerçant/e en alimentation</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire du commerce</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/artisan</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction vente/fonction gestion financière et comptable/fonction achats approvisionnement</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur commerce</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">commerce alimentaire/charcuterie/boucherie/viande/boulangerie/pâtisserie/chocolaterie confiserie/commerce non alimentaire/grande distribution</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE commerce distribution/commerçant en alimentation</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10073</lien_onisep>
+<ROME Level="1B" csRelFld="10073">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10073">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17676" csRelFld="17676">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17676</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10073</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+   <inter>Sélectionner les produits</inter>
+   <p>Fruits et légumes, produits diététiques, épicerie fine... quel que soit le type de produits, le commerçant en alimentation s'occupe d'abord de l'approvisionnement. Il sélectionne les fournisseurs et les producteurs afin de réaliser des achats au meilleur rapport qualité-prix. Certains professionnels s'approvisionnent directement sur les marchés en gros où ils peuvent choisir leurs produits. Une fois la commande passée, ils veillent à ce que la marchandise parvienne au point de vente dans les meilleurs délais.</p>
+   <inter>Gérer les stocks</inter>
+   <p>Dans un commerce d'alimentation, les denrées périssables doivent être enregistrées et conservées très soigneusement. Les autres produits sont rangés dans la réserve, puis étiquetés. Par ailleurs, le commerçant en alimentation consacre une partie de son temps au remplissage des rayons et à la présentation des vitrines. Il effectue chaque jour le rangement et le nettoyage du magasin.</p>
+   <inter>Doper le chiffre d'affaires</inter>
+   <p>Le commerçant accueille les clients, les renseigne, les aide à choisir un produit frais, avant d'encaisser les paiements. La vente peut s'accompagner de dégustations, de démonstrations ou d'opérations de promotion destinées, par exemple, à faire connaître un nouveau produit. Service et amabilité font partie intégrante du métier.</p>
+  </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17660" csRelFld="17660">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17660</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10073</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Il existe de nombreuses formations adaptées aux métiers de vendeur et de commerçant en alimentation. </accr_p>Le niveau de formation nécessaire varie en fonction de la taille du magasin.<accr_p/>
+</p>
+<inter>Niveau CAP</inter>
+<liste>
+<itsimp>
+<em>CAP</em> employé de vente spécialisé, option produits alimentaires ; employé de commerce multispécialité ; boulanger ; boucher , charcutier-traiteur ; pâtissier ; chocolatier-confiseur ; poissonnier ; glacier fabricant.</itsimp>
+</liste>
+<inter>Niveau MC</inter>
+<liste>
+<itsimp>
+<em>MC</em> vendeur spécialisé en alimentation ; boulangerie spécialisée ; pâtisserie boulangère ; pâtisserie glacerie chocolaterie confiserie spécialisées.</itsimp>
+</liste>
+<inter>Niveau bac</inter>
+<liste>
+<itsimp>
+<em>Bac pro</em> commerce ; technicien vente et conseil qualité option produits alimentaires ; technicien vente et conseil qualité option vins et spiritueux ; poissonnier écailler traiteur ; boulanger pâtissier ; boucher charcutier traiteur.</itsimp>
+</liste>
+<inter>Niveau bac + 2</inter>
+<liste>
+<itsimp>
+<em>BTS</em> management des unités commerciales (MUC) ;</itsimp>
+<itsimp>
+<em>DUT</em> techniques de commercialisation ;</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17667" csRelFld="17667">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17667</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10073</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des jours meilleurs</inter>
+<p>Depuis le début des années 2000, le nombre de magasins d'alimentation s'est stabilisé face à la concurrence agressive des super et hypermarchés, et de nouvelles niches sont apparues : épiceries fines et spécialisées, commerce bio, etc. Le commerçant en alimentation doit s'adapter sans cesse à la demande pour s'imposer et durer.</p>
+<inter>Alimentaire : un secteur porteur</inter>
+<p>Face à la concurrence des grandes surfaces, les commerces de détail proposent des services supplémentaires : horaires souples, réalisation de plats prêts à emporter, livraison, formats spécifiques... On assiste au développement de commerces alimentaires de moins de 120 m<exp>2</exp> et des petits libres-services employant moins de 4 salariés. Le secteur compte 300 000 entreprises employant plus de 1 million de salariés.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir du <sal>Smic</sal>
+</p>
+<postit>
+<p>Source : non indiquée.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

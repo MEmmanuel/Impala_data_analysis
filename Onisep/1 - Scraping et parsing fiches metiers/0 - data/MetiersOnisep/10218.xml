@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">chirurgien/ne-dentiste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">soigner/aider, conseiller/exercer un travail manuel</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">libéral/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction administration des soins/fonction diagnostic, prescription, intervention</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur santé</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">chirurgie dentaire</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE médical paramédical travail social soins personnels/chirurgien dentiste</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10218</lien_onisep>
+<ROME Level="1B" csRelFld="10218">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10218">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1113" csRelFld="1113">
+<CSLABELFLD label="">orthodontiste</CSLABELFLD>
+<MET_ID label="Identifiant">10218</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">21/04/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1113</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">orthodontiste</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1113">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="19003" csRelFld="19003">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">19003</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10218</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Soins et appareillage</inter>
+<p>Son domaine d'intervention ? Les dents, les gencives et les mâchoires. Avant de manier la roulette, il pose son diagnostic, effectue des radiographies si nécessaire. Puis il réalise les soins, au besoin prescrit des médicaments (antibiotiques, anti-inflammatoires...). Il choisit et adapte un appareillage (une couronne, un bridge...), qu'il fera réaliser par le prothésiste dentaire. Auparavant, il prend des empreintes ou effectue des moulages de la dentition de ses patients pour une adéquation parfaite des prothèses. S'il est spécialisé en orthodontie, il se consacre à l'implantation des dents et à l'articulation des mâchoires.</p>
+<inter>Des opérations délicates</inter>
+<p>Chirurgien de formation, le dentiste peut mener des interventions chirurgicales, sous anesthésie, directement dans son cabinet ou à l'hôpital. Par exemple, il extrait des dents de sagesse, réalise une greffe de gencive lorsque les dents se déchaussent, implante des pivots dans l'os de la mâchoire. Son intervention doit restaurer l'efficacité de la mastication, mais elle a aussi des visées esthétiques. </p>
+<inter>Conseils et prévention</inter>
+<p>Autre pan de son travail : donner des conseils en matière d'hygiène bucco-dentaire ou d'alimentation, effectuer des visites de contrôle (dépistage, bilans...) ou un détartrage destiné à diminuer les risques de problèmes dentaires.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16739" csRelFld="16739">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16739</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10218</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>6 années d'études sont nécessaires pour devenir dentiste, 8 ou 9 ans pour devenir dentiste spécialisé. La formation débute par la</accr_p> PACES (première année commune aux études de santé) est accessible après le bac (S de préférence). La PACES se termine par un concours au nombre de places restreint (20 % d'admis).</p>
+<p>En 2<exp>e</exp> et 3<exp>e</exp> années précliniques : acquisition des connaissances fondamentales nécessaires aux soins des dents (physique, physiologie, anatomie dentaire, biomatériaux et chirurgie buccale). En fin de 3<exp>e</exp> année, obtention du diplôme de formation générale en sciences odontologiques, niveau licence.</p>
+<p>En 4<exp>e</exp> et 5<exp>e</exp> années cliniques : le programme s'étend à la santé publique et à l'anesthésiologie. Premiers soins en conditions réelles.</p>
+<p>Le 3<exp>e</exp> cycle : au terme de la 5<exp>e</exp> année, les étudiants choisissent entre un cycle court (1 an), orienté vers l'insertion professionnelle, ou un cycle long, qui conduit, moyennant concours, à l'internat qualifiant. Celui-ci permet de se spécialiser en orthodontie, médecine bucco-dentaire (en 3 ans) ou en chirurgie orale (en 4 ans). La soutenance d'une thèse est obligatoire pour obtenir le diplôme d'État de docteur en chirurgie dentaire.</p>
+<liste>
+<tete>Niveau bac + 6 et plus</tete>
+<itsimp>DE chirurgie dentaire</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16724" csRelFld="16724">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16724</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10218</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des besoins en perspective</inter>
+<p>Aujourd'hui, on recense un peu plus de 40 000 chirurgiens-dentistes. Avec la prochaine vague de départs à la retraite, la conjoncture est favorable à l'installation des jeunes diplômés, surtout dans le Nord et les campagnes. Dans certaines régions (Ile-de-France, Provence...) déjà bien pourvues en praticiens, il est plus difficile de percer.</p>
+<inter>Surtout en libéral</inter>
+<p>90 % des chirurgiens-dentistes exercent à titre libéral en cabinet privé, soit exclusivement, soit parallèlement à une activité salariée. On trouve néanmoins 10 % d'entre eux dans les hôpitaux, les centres de soins (dispensaires, centres mutualistes...) et le service de santé des armées. Un salariat plébiscité par les jeunes diplômés car l'installation nécessite un important investissement financier. </p>
+<inter>Se spécialiser pour évoluer</inter>
+<p>Le chirurgien-dentiste peut se spécialiser après une formation complémentaire en orthodontie, en chirurgie orale (pose d'implants, extraction, dépistage du cancer...), en médecine bucco-dentaire (soins, prothèses...). Il peut encore devenir enseignant-chercheur en hôpital ou passer un concours de cadre de la fonction publique hospitalière. Plus rares sont ceux qui travaillent à la conception de produits ou de matériel dentaire en laboratoire industriel.</p> </MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

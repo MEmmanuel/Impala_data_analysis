@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">responsable du service après-vente</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe/faire du commerce</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction service après vente/fonction encadrement - coordination</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur commerce</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">commerce distribution/organisation gestion de la maintenance</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE commerce distribution/responsable du service après-vente</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10072</lien_onisep>
+<ROME Level="1B" csRelFld="10072">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10072">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1608" csRelFld="1608">
+<CSLABELFLD label="">support technique en électronique</CSLABELFLD>
+<MET_ID label="Identifiant">10072</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1608</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">support technique en électronique</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1608">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1609" csRelFld="1609">
+<CSLABELFLD label="">support technique en télécoms</CSLABELFLD>
+<MET_ID label="Identifiant">10072</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1609</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">support technique en télécoms</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1609">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17668" csRelFld="17668">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17668</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10072</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+   <inter>Animer une équipe </inter>
+   <p>Le responsable SAV (service après-vente) encadre l'équipe chargée de l'accueil des clients et de la réalisation du contrat après-vente (techniciens itinérants et sédentaires, agents d'accueil, personnel administratif...). Il élabore le planning, gère les absences, et organise régulièrement des réunions avec les chargés d'accueil et les techniciens de maintenance pour améliorer le service. Il participe au recrutement et à la formation du personnel, suit leur carrière (rémunérations, promotions...).</p>
+   <inter>Améliorer la qualité </inter>
+   <p> Il intervient dans le choix du matériel de dépannage et se porte garant de la qualité des interventions de ses collaborateurs. Son objectif : réduire les délais de réparation. Il signale aux fabricants les problèmes techniques rencontrés sur les produits et leur transmet les réclamations des utilisateurs.</p>
+   <inter>Satisfaire le client</inter>
+   <p>En cas de litige avec le client, il se retrouve en première ligne. Il écoute avec attention les doléances, évalue les responsabilités et propose une solution adaptée aux besoins de son interlocuteur. Pour les grosses pannes, il n'hésite pas à se déplacer chez le client pour prêter main-forte à ses techniciens.</p>
+  </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17661" csRelFld="17661">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17661</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10072</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Plusieurs bacs professionnels permettent d'acquérir une formation technique de base, à compléter par quelques années d'expérience et une initiation aux techniques de gestion et de management.</accr_p> Pour les produits high-tech, les employeurs recherchent plutôt des titulaires de BTS, voire de licences pro.</p>
+<inter>Niveau bac</inter>
+<liste>
+<itsimp>
+<em>Bac pro </em>  maintenance de véhicules automobiles ; maintenance des équipements industriels ; systèmes électroniques numériques ; technicien de maintenance des systèmes énergétiques et climatiques.</itsimp>
+</liste>
+<inter>Niveau bac + 2</inter>
+<liste>
+<itsimp>
+<em>BTS </em> après-vente automobile ; électrotechnique ; maintenance et après-vente des engins de travaux publics et de manutention ; maintenance et exploitation des matériels aéronautiques ; maintenance industrielle ; systèmes électroniques ; techniques et services en matériels agricoles ; technico-commercial.</itsimp>
+</liste>
+<inter>Niveau bac + 3</inter>
+<liste>
+<itsimp>
+<em>Licence pro </em>commerce option technico-commercial (Rouen, UCO Angers) ; économie, gestion, commerce spécialité technico-commercial en produits et services industriels ; sciences et technologies maintenance des systèmes pluritechniques spécialité organisation et management des services automobiles (Marne-la-Vallée) ; sciences économiques et gestion, gestion de la production industrielle spécialité coordination des sous-traitants et gestion du service après-vente (Lyon 2) ;</itsimp>
+<itsimp>
+<em>Formation complémentaire d'initiative locale (FCIL) </em>management de la qualité dans les services de l'après-vente automobile ; conseiller service en après-vente automobile.</itsimp>
+</liste>
+<inter>Niveau bac + 4</inter>
+<liste>
+<itsimp>
+<em>Diplôme des écoles supérieures de double compétence</em> (réseau ESDC).</itsimp>
+</liste>
+<p/>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17657" csRelFld="17657">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17657</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10072</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+   <inter>Une première expérience comme technicien</inter>
+   <p>Ce poste à responsabilités est rarement confié à un débutant. On y accède généralement après plusieurs années d'expérience comme technicien SAV (service après-vente). Les responsables encadrent des équipes de plus en plus importantes, puisque les embauches de techniciens augmentent. Aujourd'hui, le SAV d'un grand magasin peut compter plus de 30 salariés. </p>
+   <inter>Le boom du e-commerce</inter>
+   <p>Le développement du e-commerce (commerce électronique) contribue à renforcer le rôle du responsable SAV. Aider le client à installer un matériel à son domicile, guider ses premiers pas en tant qu'utilisateur, voler à son secours en cas de problème... autant de services qui rassurent ceux qui hésitent encore à acheter sur Internet. </p>
+   <remun>
+    <inter>Salaire du débutant</inter>
+    <p>
+     <sal>1916</sal> euros brut par mois.</p>
+    <p> Source : Apec. Année : ???</p>
+   </remun>
+  </MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

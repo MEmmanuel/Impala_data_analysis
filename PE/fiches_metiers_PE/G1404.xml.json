@@ -1,0 +1,518 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Chef de production en restauration collective",
+            "priorisation": "1",
+            "libelle": "Chef de production en restauration collective",
+            "code_ogr": "12217"
+        },
+        {
+            "libelle_court": "Chef de secteur de restauration collective",
+            "priorisation": "1",
+            "libelle": "Chef de secteur de restauration collective",
+            "code_ogr": "12318"
+        },
+        {
+            "libelle_court": "Chef g\u00e9rant / g\u00e9rante de restaurant de collectivit\u00e9",
+            "priorisation": "1",
+            "libelle": "Chef g\u00e9rant / g\u00e9rante de restaurant de collectivit\u00e9",
+            "code_ogr": "12568"
+        },
+        {
+            "libelle_court": "Directeur / Directrice de cuisine centrale",
+            "priorisation": "1",
+            "libelle": "Directeur / Directrice de cuisine centrale",
+            "code_ogr": "14249"
+        },
+        {
+            "libelle_court": "Directeur / Directrice de restaurant de collectivit\u00e9",
+            "priorisation": "1",
+            "libelle": "Directeur / Directrice de restaurant de collectivit\u00e9",
+            "code_ogr": "14325"
+        },
+        {
+            "libelle_court": "Econome en restauration collective",
+            "priorisation": "1",
+            "libelle": "Econome en restauration collective",
+            "code_ogr": "14565"
+        },
+        {
+            "libelle_court": "G\u00e9rant / G\u00e9rante de cantine scolaire",
+            "priorisation": "1",
+            "libelle": "G\u00e9rant / G\u00e9rante de cantine scolaire",
+            "code_ogr": "15280"
+        },
+        {
+            "libelle_court": "G\u00e9rant / G\u00e9rante de cuisine hospitali\u00e8re",
+            "priorisation": "1",
+            "libelle": "G\u00e9rant / G\u00e9rante de cuisine hospitali\u00e8re",
+            "code_ogr": "15284"
+        },
+        {
+            "libelle_court": "G\u00e9rant / G\u00e9rante de mess",
+            "priorisation": "1",
+            "libelle": "G\u00e9rant / G\u00e9rante de mess",
+            "code_ogr": "15289"
+        },
+        {
+            "libelle_court": "G\u00e9rant / G\u00e9rante de restaurant de collectivit\u00e9",
+            "priorisation": "1",
+            "libelle": "G\u00e9rant / G\u00e9rante de restaurant de collectivit\u00e9",
+            "code_ogr": "15295"
+        },
+        {
+            "libelle_court": "G\u00e9rant / G\u00e9rante en restauration collective",
+            "priorisation": "1",
+            "libelle": "G\u00e9rant / G\u00e9rante en restauration collective",
+            "code_ogr": "38936"
+        },
+        {
+            "libelle_court": "G\u00e9rant(e) adjoint(e) de restaurant de collectivit\u00e9",
+            "priorisation": "1",
+            "libelle": "G\u00e9rant adjoint / G\u00e9rante adjointe de restaurant de collectivit\u00e9",
+            "code_ogr": "15272"
+        },
+        {
+            "libelle_court": "Gestionnaire de restaurant de collectivit\u00e9",
+            "priorisation": "1",
+            "libelle": "Gestionnaire de restaurant de collectivit\u00e9",
+            "code_ogr": "15352"
+        },
+        {
+            "libelle_court": "Intendant / Intendante de restaurant de collectivit\u00e9",
+            "priorisation": "1",
+            "libelle": "Intendant / Intendante de restaurant de collectivit\u00e9",
+            "code_ogr": "16034"
+        },
+        {
+            "libelle_court": "Responsable de restaurant de collectivit\u00e9",
+            "priorisation": "1",
+            "libelle": "Responsable de restaurant de collectivit\u00e9",
+            "code_ogr": "18848"
+        },
+        {
+            "libelle_court": "Responsable des achats en restauration collective",
+            "priorisation": "1",
+            "libelle": "Responsable des achats en restauration collective",
+            "code_ogr": "18919"
+        },
+        {
+            "libelle_court": "Responsable d'\u00e9tablissement de restauration collective",
+            "priorisation": "1",
+            "libelle": "Responsable d'\u00e9tablissement de restauration collective",
+            "code_ogr": "18955"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Superviser l'\u00e9laboration des menus du restaurant et v\u00e9rifier leur composition, l'\u00e9quilibre alimentaire et le prix de revient",
+            "code_ogr": "3292",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler l'application des normes d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaires et mettre en place les actions appropri\u00e9es",
+            "code_ogr": "1075",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'entretien et la maintenance des \u00e9quipements de cuisine et d\u00e9terminer les besoins de renouvellement",
+            "code_ogr": "3257",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la gestion comptable et administrative d'une structure",
+            "code_ogr": "3533",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir les plannings des employ\u00e9s de la cuisine et du service (caissiers, serveurs, ...)",
+            "code_ogr": "1887",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et v\u00e9rifier les \u00e9l\u00e9ments d'activit\u00e9 et de gestion administrative du personnel",
+            "code_ogr": "3613",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "G1402",
+            "libelle_rome_cible": "Management d'h\u00f4tel-restaurant"
+        },
+        {
+            "code_rome_cible": "G1403",
+            "libelle_rome_cible": "Gestion de structure de loisirs ou d'h\u00e9bergement touristique"
+        },
+        {
+            "code_rome_cible": "G1801",
+            "libelle_rome_cible": "Caf\u00e9, bar brasserie"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau Bac+2 (BTS) \u00e0 Bac+5 (Master professionnel, ...) en h\u00f4tellerie et restauration, art culinaire, restauration collective, commerce, ...\nL'emploi/m\u00e9tier d'\u00e9conome est accessible avec un dipl\u00f4me de niveau BEP \u00e0 Bac+2 (BTS) en comptabilit\u00e9, h\u00f4tellerie restauration option mercatique et gestion h\u00f4teli\u00e8re, ...\nSon acc\u00e8s dans les \u00e9tablissements de la fonction publique s'effectue sur concours.\nLa ma\u00eetrise de l'outil informatique (logiciel de gestion de stock, tableur, ...) est requise.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Cuisiner des plats pour un type de public :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Enfants",
+            "code_ogr": "4426",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Personnes \u00e2g\u00e9es",
+            "code_ogr": "4427",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Personnes m\u00e9dicalis\u00e9es",
+            "code_ogr": "4428",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le suivi budg\u00e9taire du/des restaurants (r\u00e9sultats d'exploitation, pr\u00e9visions, ...)",
+            "code_ogr": "5370",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Participer \u00e0 la production des plats en cuisine",
+            "code_ogr": "7774",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der aux inventaires des stocks de produits (v\u00e9rification des Dates Limites de Consommation -DLC-, quantit\u00e9, ...)",
+            "code_ogr": "8173",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9terminer les travaux de r\u00e9novation ou d'am\u00e9nagements de l'\u00e9tablissement et rechercher des prestataires",
+            "code_ogr": "4678",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Organiser, contr\u00f4ler les circuits de livraison \u00e0 domicile, vers des restaurants",
+            "code_ogr": "7662",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Organiser des \u00e9v\u00e8nements (semaine du go\u00fbt, animation \u00e0 th\u00e8me, ...) au sein du restaurant",
+            "code_ogr": "7669",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des enqu\u00eates de satisfaction aupr\u00e8s de clients et adapter les plats selon les avis",
+            "code_ogr": "8381",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Recruter du personnel et le former aux proc\u00e9dures de l'\u00e9tablissement",
+            "code_ogr": "3594",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Diriger des \u00e9tablissements de restauration collective",
+            "code_ogr": "4737",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de restaurants d'entreprise ou de collectivit\u00e9 (h\u00f4pitaux, \u00e9tablissements d'enseignement, administrations, ...) en contact avec diff\u00e9rents intervenants (chef de cuisine, directeur d'\u00e9tablissement, directeur r\u00e9gional, fournisseurs, services d'hygi\u00e8ne, ...).\nElle varie selon le mode d'organisation de l'\u00e9tablissement (restauration directe/diff\u00e9r\u00e9e, liaison chaude/liaison froide, ...).\nElle peut s'exercer les fins de semaine et les jours f\u00e9ri\u00e9s.\nLa ma\u00eetrise des normes d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaires (Hazard Analysis Critical Control Point -HACCP-) est obligatoire.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion de stocks",
+            "code_ogr": "21259",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion comptable",
+            "code_ogr": "21252",
+            "position_item": "3",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Cuisine centrale",
+            "code_ogr": "23842",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Mess (Arm\u00e9e)",
+            "code_ogr": "24006",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Restaurant de collectivit\u00e9",
+            "code_ogr": "24054",
+            "code_type_section_env": "1"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en di\u00e9t\u00e9tique",
+            "code_ogr": "21849",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gammes de produits alimentaires",
+            "code_ogr": "21969",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Types de r\u00e9gimes alimentaires",
+            "code_ogr": "23332",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de planification",
+            "code_ogr": "23033",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de gestion de stocks",
+            "code_ogr": "22609",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaire Hazard Analysis Critical Control Point -HACCP-",
+            "code_ogr": "22650",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestion comptable et administrative",
+            "code_ogr": "21995",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "L\u00e9gislation alimentaire",
+            "code_ogr": "22079",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion des Ressources Humaines",
+            "code_ogr": "21872",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Analyse statistique",
+            "code_ogr": "22721",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestion financi\u00e8re",
+            "code_ogr": "22002",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de production culinaire",
+            "code_ogr": "23066",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes de s\u00e9curit\u00e9 des espaces et des \u00e9tablissements recevant du public",
+            "code_ogr": "22222",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de liaison chaude/froide",
+            "code_ogr": "22949",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en marketing",
+            "code_ogr": "21880",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de communication",
+            "code_ogr": "22840",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9thodes d'enqu\u00eate",
+            "code_ogr": "22141",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "L\u00e9gislation sociale",
+            "code_ogr": "22086",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de recrutement",
+            "code_ogr": "23078",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques p\u00e9dagogiques",
+            "code_ogr": "23253",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de management",
+            "code_ogr": "22956",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nSupervise et contr\u00f4le la production et le fonctionnement (cuisine, service, achats, ...) d'un ou plusieurs \u00e9tablissements de restauration collective (\u00e9coles, h\u00f4pitaux, entreprise, ...) selon les r\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaires et la charte qualit\u00e9 de l'\u00e9tablissement.\nPeut recruter du personnel.\nPeut participer \u00e0 la production culinaire.\n",
+    "intitule": "Management d'\u00e9tablissement de restauration collective",
+    "code_ogr": "194",
+    "code_rome": "G1404",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        },
+        {
+            "code_rome_cible": "M1302",
+            "libelle_rome_cible": "Direction de petite ou moyenne entreprise"
+        }
+    ]
+}

@@ -1,0 +1,396 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Bagagiste en \u00e9tablissement h\u00f4telier",
+            "priorisation": "1",
+            "libelle": "Bagagiste en \u00e9tablissement h\u00f4telier",
+            "code_ogr": "11483"
+        },
+        {
+            "libelle_court": "Chasseur / Chasseuse",
+            "priorisation": "1",
+            "libelle": "Chasseur / Chasseuse",
+            "code_ogr": "11968"
+        },
+        {
+            "libelle_court": "Chasseur-bagagiste / Chasseuse-bagagiste",
+            "priorisation": "1",
+            "libelle": "Chasseur-bagagiste / Chasseuse-bagagiste",
+            "code_ogr": "11970"
+        },
+        {
+            "libelle_court": "Coursier / Coursi\u00e8re en h\u00f4tellerie",
+            "priorisation": "1",
+            "libelle": "Coursier / Coursi\u00e8re en h\u00f4tellerie",
+            "code_ogr": "13797"
+        },
+        {
+            "libelle_court": "Employ\u00e9 / Employ\u00e9e du hall",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 / Employ\u00e9e du hall",
+            "code_ogr": "14799"
+        },
+        {
+            "libelle_court": "Equipier / Equipi\u00e8re bagagiste",
+            "priorisation": "1",
+            "libelle": "Equipier / Equipi\u00e8re bagagiste",
+            "code_ogr": "14869"
+        },
+        {
+            "libelle_court": "Gar\u00e7on / Fille de hall",
+            "priorisation": "1",
+            "libelle": "Gar\u00e7on / Fille de hall",
+            "code_ogr": "15190"
+        },
+        {
+            "libelle_court": "Groom",
+            "priorisation": "1",
+            "libelle": "Groom",
+            "code_ogr": "15430"
+        },
+        {
+            "libelle_court": "Liftier / Lifti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Liftier / Lifti\u00e8re",
+            "code_ogr": "16192"
+        },
+        {
+            "libelle_court": "Portier / Porti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Portier / Porti\u00e8re",
+            "code_ogr": "17896"
+        },
+        {
+            "libelle_court": "Responsable de vestiaire",
+            "priorisation": "1",
+            "libelle": "Responsable de vestiaire",
+            "code_ogr": "18895"
+        },
+        {
+            "libelle_court": "Valet de pied",
+            "priorisation": "1",
+            "libelle": "Valet de pied",
+            "code_ogr": "20502"
+        },
+        {
+            "libelle_court": "Vestiaire",
+            "priorisation": "1",
+            "libelle": "Vestiaire",
+            "code_ogr": "20670"
+        },
+        {
+            "libelle_court": "Vestiairiste",
+            "priorisation": "1",
+            "libelle": "Vestiairiste",
+            "code_ogr": "20671"
+        },
+        {
+            "libelle_court": "Voiturier / Voituri\u00e8re",
+            "priorisation": "1",
+            "libelle": "Voiturier / Voituri\u00e8re",
+            "code_ogr": "20717"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Accueillir le client \u00e0 son arriv\u00e9e et \u00e0 son d\u00e9part de l'\u00e9tablissement",
+            "code_ogr": "562",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Superviser ou effectuer l'entretien du hall, du parking, ...",
+            "code_ogr": "3296",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller les lieux, les biens et effectuer des rondes de pr\u00e9vention et de d\u00e9tection de risques",
+            "code_ogr": "3623",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Recueillir les remarques des clients sur la qualit\u00e9 de l'accueil, des \u00e9quipements, du personnel de l'\u00e9tablissement",
+            "code_ogr": "2969",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "4",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "G1501",
+            "libelle_rome_cible": "Personnel d'\u00e9tage"
+        },
+        {
+            "code_rome_cible": "G1502",
+            "libelle_rome_cible": "Personnel polyvalent d'h\u00f4tellerie"
+        },
+        {
+            "code_rome_cible": "G1603",
+            "libelle_rome_cible": "Personnel polyvalent en restauration"
+        },
+        {
+            "code_rome_cible": "N2203",
+            "libelle_rome_cible": "Exploitation des pistes a\u00e9roportuaires"
+        },
+        {
+            "code_rome_cible": "N4102",
+            "libelle_rome_cible": "Conduite de transport de particuliers"
+        },
+        {
+            "code_rome_cible": "N4104",
+            "libelle_rome_cible": "Courses et livraisons express"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle.\nUn CAP/BEP en services h\u00f4teliers, m\u00e9tiers de la restauration et de l'h\u00f4tellerie, ... peut \u00eatre demand\u00e9.\nUne bonne condition physique peut \u00eatre requise (bagagiste).\nLes recrutements peuvent \u00eatre ouverts sur contrats de travail saisonniers ou de tr\u00e8s courte dur\u00e9e (extra).\nLe permis B peut \u00eatre requis (voiturier).\nLa pratique d'une langue \u00e9trang\u00e8re, en particulier l'anglais, peut \u00eatre exig\u00e9e.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Organiser le stationnement des v\u00e9hicules dans le parking de l'\u00e9tablissement et y garer les v\u00e9hicules des clients",
+            "code_ogr": "7746",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9ceptionner les bagages, les v\u00eatements des clients, les identifier par \u00e9tiquetage et organiser leur stockage",
+            "code_ogr": "9433",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Apporter les bagages, les paquets des clients dans leur chambre, leur suite, leur v\u00e9hicule",
+            "code_ogr": "3793",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accompagner des clients \u00e0 leur chambre, leur suite et leur pr\u00e9senter les services annexes (t\u00e9l\u00e9vision, t\u00e9l\u00e9phone, mini-bar, ...)",
+            "code_ogr": "3630",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les clients sur les services de l'\u00e9tablissement et les spectacles, les restaurants, les sites touristiques",
+            "code_ogr": "9551",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Transmettre les appels t\u00e9l\u00e9phoniques et les messages aux clients",
+            "code_ogr": "10024",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des courses \u00e0 la demande d'un client ou pour les besoins de l'\u00e9tablissement",
+            "code_ogr": "4865",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'h\u00f4tels 3, 4 ou 5 \u00e9toiles, de grands restaurants, d'\u00e9tablissements de loisirs sp\u00e9cifiques (casino, club priv\u00e9, ...), de magasins de luxe en contact avec les clients et en relation avec diff\u00e9rents services (r\u00e9ception, conciergerie, ...).\nElle peut s'exercer en horaires d\u00e9cal\u00e9s, les fins de semaine, jours f\u00e9ri\u00e9s et de nuit.\nLa r\u00e9mun\u00e9ration est constitu\u00e9e d'un fixe parfois compl\u00e9t\u00e9 par des avantages (repas, logement, ...) et des pourboires.\nL'activit\u00e9 peut s'effectuer \u00e0 l'ext\u00e9rieur (portier, voiturier) et impliquer le port de charges.\nLe port d'un uniforme peut \u00eatre requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'\u00e9quipements de t\u00e9l\u00e9surveillance",
+            "code_ogr": "21431",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Boutique de luxe",
+            "code_ogr": "23724",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement de jeux",
+            "code_ogr": "23915",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement de nuit (discoth\u00e8que, cabaret, ...)",
+            "code_ogr": "23916",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tel 3 \u00e9toiles",
+            "code_ogr": "23960",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tel 4 \u00e9toiles",
+            "code_ogr": "23961",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tel 5 \u00e9toiles",
+            "code_ogr": "23962",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisme culturel, du patrimoine",
+            "code_ogr": "24016",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Parc de loisirs",
+            "code_ogr": "24029",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9sidence de tourisme",
+            "code_ogr": "24051",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Restaurant traditionnel",
+            "code_ogr": "24056",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Salle de spectacles",
+            "code_ogr": "24059",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ev\u00e8nementiel",
+            "code_ogr": "23487",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en extra",
+            "code_ogr": "38056",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Modalit\u00e9s d'accueil",
+            "code_ogr": "22161",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Typologie des clients/consommateurs",
+            "code_ogr": "23348",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation s\u00e9curit\u00e9 incendie",
+            "code_ogr": "22580",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Fonctionnalit\u00e9s des \u00e9quipements et syst\u00e8mes de s\u00e9curit\u00e9 (alarmes, d\u00e9tecteurs, ...)",
+            "code_ogr": "21950",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles et consignes de s\u00e9curit\u00e9",
+            "code_ogr": "22656",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nEffectue des prestations d'accueil, d'accompagnement et de services (port des bagages, prise en charge des voitures, ...) pour des clients \u00e0 leur arriv\u00e9e, leur d\u00e9part et durant leur s\u00e9jour dans des h\u00f4tels, des restaurants, des \u00e9tablissements de loisirs (casino, discoth\u00e8que, ...) et veille \u00e0 la s\u00e9curit\u00e9 des locaux et des biens selon la charte qualit\u00e9 de l'\u00e9tablissement.\nPeut renseigner les clients sur les services de l'\u00e9tablissement et son environnement.\n",
+    "intitule": "Personnel du hall",
+    "code_ogr": "204",
+    "code_rome": "G1702",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "G1701",
+            "libelle_rome_cible": "Conciergerie en h\u00f4tellerie"
+        },
+        {
+            "code_rome_cible": "G1703",
+            "libelle_rome_cible": "R\u00e9ception en h\u00f4tellerie"
+        },
+        {
+            "code_rome_cible": "G1803",
+            "libelle_rome_cible": "Service en restauration"
+        },
+        {
+            "code_rome_cible": "K2501",
+            "libelle_rome_cible": "Gardiennage de locaux"
+        },
+        {
+            "code_rome_cible": "K2503",
+            "libelle_rome_cible": "S\u00e9curit\u00e9 et surveillance priv\u00e9es"
+        },
+        {
+            "code_rome_cible": "M1601",
+            "libelle_rome_cible": "Accueil et renseignements"
+        }
+    ]
+}

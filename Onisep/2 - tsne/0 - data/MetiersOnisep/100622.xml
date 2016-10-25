@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">gestionnaire de données cliniques</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">contrôler la qualité, expertiser/programmer, créer du contenu numérique/manier les chiffres</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction exploitation informatique</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie pharmaceutique/secteur recherche/secteur santé</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">biologie/statistiques/informatique décisionnelle</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE matériaux laboratoire organisation industrielle</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100622</lien_onisep>
+<ROME Level="1B" csRelFld="100622">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="411" csRelFld="411">
+<CSLABELFLD label="">J1201</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Praticiens médico-techniques</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">J1201</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Biologie médicale</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100622">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56123" csRelFld="56123">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56123</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100622</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Traiter les cahiers d'observations</inter>
+<p>Le gestionnaire de données cliniques crée une base de données pour recueillir, via des cahiers d'observations, les milliers d'informations relatives à une étude clinique. Le champ d'investigation est large : démographie, antécédents médicaux, événements cliniques, biologie, génétique, traitements, qualité de vie...</p>
+<inter>Contrôler la cohérence et la qualité</inter>
+<p>Utilisant des logiciels spécialisés, le gestionnaire de données cliniques contrôle la cohérence de la base de données et vérifie si le protocole a été suivi avec rigueur. C'est un gage de qualité, de fiabilité et de traçabilité, et une preuve que l'étude a été faite dans le respect des exigences réglementaires et législatives en vigueur. Finalement, il réalise un bilan des actions menées pour vérifier la base de données. Après un dernier contrôle qualité, cette base est transmise au biostatisticien pour l'analyse des résultats.</p>
+<inter>Respecter les réglementations</inter>
+<p>Tout au long de sa mission, le gestionnaire de données cliniques doit respecter les modalités prévues pour l'étude, les directives de la Cnil (Commission nationale de l'informatique et des libertés) sur la gestion des données personnelles, et les réglementations nationales et internationales en matière de recherche médicale. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56127" csRelFld="56127">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56127</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100622</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Il existe différents diplômes dans les domaines de la statistique, de l'informatique, de la biologie ou de la santé qui permettent d'accéder au poste de gestionnaire de données cliniques.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master statistique et informatique décisionnelle ; statistiques biomédicales ; physiologie et informatique ; ingénierie de la santé...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56125" csRelFld="56125">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56125</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100622</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Hôpitaux et laboratoires</inter>
+<p>Le gestionnaire de données cliniques peut exercer à l'hôpital, en particulier dans les CHU (centres hospitaliers universitaires), mais aussi à l'Inserm (Institut national de la santé et de la recherche médicale) et dans les organismes publics de recherche en santé humaine qui se portent promoteurs d'essais cliniques. Cela signifie qu'ils en prennent l'initiative et en assurent le financement et la responsabilité. Dans les laboratoires pharmaceutiques, les activités de développement clinique servent à évaluer l'intérêt d'un médicament, c'est-à-dire son ratio bénéfice/risque pour les patients.</p>
+<inter>Un métier prometteur</inter>
+<p>Les entreprises françaises du médicament emploient près de 21 000 personnes dans les centres de recherche et développement (R &amp; D), soit 18 % des chercheurs européens dans ce domaine. Les effectifs de la R &amp; D (recherche et développement) ont augmenté de 14 % au cours des 10 dernières années. Cependant, l'emploi dans ce domaine reste fragile car les postes se concentrent sur un petit nombre d'entreprises. </p>
+<p>Avec de l'expérience, le gestionnaire de données cliniques peut évoluer vers un poste de responsable dans un service de biométrie. il existe également des passerelles vers les métiers d'ARC, de chargé de pharmacovigilance ou encore de statisticien. </p>
+<remun>
+<inter>Salaire du débutant </inter>
+<p>Variable en fonction du lieu d'exercice et du type d'entreprise.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

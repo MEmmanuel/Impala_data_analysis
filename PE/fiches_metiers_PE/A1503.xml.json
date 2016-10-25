@@ -1,0 +1,305 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Assistant toiletteur / Assistante toiletteuse",
+            "priorisation": "1",
+            "libelle": "Assistant toiletteur / Assistante toiletteuse",
+            "code_ogr": "11355"
+        },
+        {
+            "libelle_court": "Baigneur-peigneur / Baigneuse-peigneuse d'animaux",
+            "priorisation": "1",
+            "libelle": "Baigneur-peigneur / Baigneuse-peigneuse d'animaux",
+            "code_ogr": "11485"
+        },
+        {
+            "libelle_court": "Toiletteur / Toiletteuse canin",
+            "priorisation": "1",
+            "libelle": "Toiletteur / Toiletteuse canin",
+            "code_ogr": "20348"
+        },
+        {
+            "libelle_court": "Toiletteur / Toiletteuse d'animaux",
+            "priorisation": "1",
+            "libelle": "Toiletteur / Toiletteuse d'animaux",
+            "code_ogr": "20349"
+        },
+        {
+            "libelle_court": "Toiletteur / Toiletteuse pour chiens",
+            "priorisation": "1",
+            "libelle": "Toiletteur / Toiletteuse pour chiens",
+            "code_ogr": "20350"
+        },
+        {
+            "libelle_court": "Tondeur / Tondeuse d'animaux",
+            "priorisation": "1",
+            "libelle": "Tondeur / Tondeuse d'animaux",
+            "code_ogr": "20363"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier la demande (toilettage saisonnier, traitement anti-parasitaire, ...) du propri\u00e9taire de l'animal et planifier l'intervention",
+            "code_ogr": "2037",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier l'aspect de l'animal et orienter si n\u00e9cessaire le propri\u00e9taire vers un v\u00e9t\u00e9rinaire, un \u00e9ducateur canin, ...",
+            "code_ogr": "3437",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "2",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9lectionner le mat\u00e9riel et les produits et pr\u00e9parer l'animal au toilettage par d\u00e9sinfection, douche, ...",
+            "code_ogr": "3155",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der aux soins de toilettage des animaux",
+            "code_ogr": "3588",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conseiller le client sur les articles destin\u00e9s aux animaux et proc\u00e9der \u00e0 la vente",
+            "code_ogr": "962",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner le dossier de suivi de l'animal et proposer des soins ult\u00e9rieurs",
+            "code_ogr": "3028",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9sinfecter, d\u00e9contaminer, ranger le poste de travail et le mat\u00e9riel et proc\u00e9der \u00e0 l'\u00e9vacuation, \u00e0 la destruction des d\u00e9chets",
+            "code_ogr": "3568",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "A1408",
+            "libelle_rome_cible": "\u00c9levage d'animaux sauvages ou de compagnie"
+        },
+        {
+            "code_rome_cible": "D1210",
+            "libelle_rome_cible": "Vente en animalerie"
+        },
+        {
+            "code_rome_cible": "D1507",
+            "libelle_rome_cible": "Mise en rayon libre-service"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec une exp\u00e9rience professionnelle aupr\u00e8s des animaux sans dipl\u00f4me particulier.\nUn brevet de toiletteur canin peut en faciliter l'acc\u00e8s.\nLes vaccinations anti-rabique et anti-t\u00e9tanique peuvent \u00eatre requises.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Dispenser des soins d'esth\u00e9tique \u00e0 un animal",
+            "code_ogr": "4760",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer les aliments et les distribuer aux animaux",
+            "code_ogr": "3581",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la gestion administrative d'une structure",
+            "code_ogr": "5126",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le rangement des produits en zone de stockage ou sur pr\u00e9sentoir et organiser l'espace d'accueil avec l'affichage informatif, publicitaire, ...",
+            "code_ogr": "5343",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce en ind\u00e9pendant ou salari\u00e9 au sein de salons de toilettage, au contact des animaux et en relation avec diff\u00e9rents intervenants (\u00e9leveur, particulier,...).\nElle peut s'exercer les fins de semaine et est soumise \u00e0 des variations saisonni\u00e8res.\nL'activit\u00e9 peut impliquer le port de charges.\nLe port d'une tenue professionnelle (gants, combinaison) peut \u00eatre requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Manipulation de mat\u00e9riel de contention animale (museli\u00e8re, collier, ...)",
+            "code_ogr": "20973",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de toilettage",
+            "code_ogr": "21336",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de nettoyage",
+            "code_ogr": "21330",
+            "position_item": "3",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Salon de toilettage",
+            "code_ogr": "24167",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Anatomie animale",
+            "code_ogr": "21506",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en pathologies animales",
+            "code_ogr": "21899",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et d'asepsie",
+            "code_ogr": "22646",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de nettoyage et de d\u00e9sinfection",
+            "code_ogr": "22418",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9d\u00e9s de st\u00e9rilisation",
+            "code_ogr": "22361",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de pr\u00e9vention des risques sanitaires",
+            "code_ogr": "22422",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'accueil des animaux",
+            "code_ogr": "22379",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'approche et de manipulation des animaux",
+            "code_ogr": "22825",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en nutrition animale",
+            "code_ogr": "21891",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise des soins animaliers d'hygi\u00e8ne selon les besoins et les caract\u00e9ristiques de l'animal et les r\u00e8gles d'hygi\u00e8ne.\nPeut effectuer la pr\u00e9paration ou la distribution de nourriture aux animaux.\nPeut diriger un salon de toilettage.\n",
+    "intitule": "Toilettage des animaux",
+    "code_ogr": "34",
+    "code_rome": "A1503",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "A1501",
+            "libelle_rome_cible": "Aide aux soins animaux"
+        },
+        {
+            "code_rome_cible": "D1301",
+            "libelle_rome_cible": "Management de magasin de d\u00e9tail"
+        },
+        {
+            "code_rome_cible": "D1402",
+            "libelle_rome_cible": "Relation commerciale grands comptes et entreprises"
+        },
+        {
+            "code_rome_cible": "D1503",
+            "libelle_rome_cible": "Management/gestion de rayon produits non alimentaires"
+        },
+        {
+            "code_rome_cible": "J1303",
+            "libelle_rome_cible": "Assistance m\u00e9dico-technique"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ]
+}

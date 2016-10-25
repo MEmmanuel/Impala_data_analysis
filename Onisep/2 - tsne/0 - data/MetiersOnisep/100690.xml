@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">électromécanicien/ne en remontées mécaniques</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">réparer, entretenir, installer des équipements/faire du sport</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/saisonnier</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction installation/fonction maintenance</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur construction mécanique/secteur maintenance</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">électromécanique/installation maintenance électrique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE électricité électrotechnique électronique</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100690</lien_onisep>
+<ROME Level="1B" csRelFld="100690">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="660" csRelFld="660">
+<CSLABELFLD label="">N4402</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Personnel sédentaire du transport ferroviaire et réseau filo guidé</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">N4402</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Exploitation et manoeuvre des remontées mécaniques</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100690">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="59067" csRelFld="59067">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59067</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100690</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Installer télécabines, télésièges, téléskis</inter>
+<p>En s'appuyant sur le dossier de conception et de fabrication, l'électromécanicien assure le câblage des moteurs et des variateurs de vitesse, et celui des automates de sécurité et des capteurs et actionneurs associés. Il procède aux différents réglages et armoires de puissance. Il vérifie le bon fonctionnement de l'ensemble.</p>
+<inter>Entretenir pour prévenir</inter>
+<p>Il fait tout pour éviter la panne et l'arrêt d'une remontée mécanique. Son rôle consiste surtout à entretenir pour anticiper la panne. Il pratique donc des interventions régulières de maintenance préventive. Il réalise les tâches d'entretien prévues : nettoyage, vérification de l'isolation des moteurs électriques, graissage, changement de pièces mécaniques, etc. Il effectue tous les contrôles destinés à repérer une anomalie comme la surchauffe, la déformation ou l'usure, et change les éléments défectueux.</p>
+<inter>Trouver l'origine de la panne</inter>
+<p>Lorsqu'une panne survient, l'électromécanicien procède à une série de tests et de mesures pour trouver l'origine de la défaillance. Il remplace les pièces ou les composants usagés, effectue les réglages et remet en service. Fort de son expérience, il peut suggérer des améliorations au bureau d'études, et intervenir ainsi en amont de la fabrication des machines.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="59071" csRelFld="59071">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59071</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100690</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<liste>
+<tete>Niveau bac </tete>
+<itsimp>Bac pro électrotechnique, énergie, équipements communicants</itsimp>
+<itsimp>Bac pro maintenance des équipements industriels</itsimp>
+<itsimp>Dans les 2 lycées professionnels qui préparent le CAP transports par câbles et remontées mécaniques, la poursuite d'études est possible pour obtenir un de ces 2 bacs pro</itsimp>
+<itsimp>CQP (certificat de qualification professionnelle) électromécanicien ou électromécanicien industriel, ou conducteur de téléportés débrayables proposé par le Syndicat des domaines skiables de France, pour les stations utilisant télésièges ou télécabines</itsimp>
+</liste>
+<p>Les grandes stations recherchent surtout des titulaires de bac + 2.</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS électrotechnique</itsimp>
+<itsimp>BTS conception et réalisation de systèmes automatiques</itsimp>
+<itsimp>DUT génie électrique et informatique industrielle</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="59069" csRelFld="59069">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59069</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100690</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>En station de ski</inter>
+<p>Ce professionnel est employé par le service d'exploitation des remontées mécaniques d'une station ou par les constructeurs d'installations. L'activité est saisonnière. Plus de 200 entreprises de remontées mécaniques sont recensées.</p>
+<inter>Pas uniquement en montagne</inter>
+<p>Les remontées mécaniques (téléphériques, funiculaires) font partie du paysage des domaines skiables (Alpes du Nord, Alpes du Sud, Pyrénées, Massif central, Vosges, Jura), mais l'électromécanicien peut être amené à exercer son métier aussi en milieu urbain ou sur de grands sites industriels ou touristiques, lorsqu'il est employé par les constructeurs de remontées mécaniques.</p>
+<inter>Évolution de carrière</inter>
+<p>L'expérience permet d'accéder à un poste d'encadrement : organisation du travail d'une équipe, gestion des approvisionnements, suivi des travaux, assistance technique du personnel (formation à l'utilisation de la maintenance assistée par ordinateur, connaissance de nouvelles machines, etc.). Autre possibilité d'évolution : la définition de méthodes de maintenance (réalisation des fiches d'intervention d'entretien ou de dépannage...).</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De<sal>1600</sal> à 1800 euros brut par mois.</p>
+<postit>
+<p>Source : Convention collective des remontées mécaniques.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

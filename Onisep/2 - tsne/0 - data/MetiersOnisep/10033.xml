@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">solier/ère-moquettiste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un travail manuel/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">artisan/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction aménagement - finitions</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur second oeuvre bâtiment</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">finition</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE bâtiment équipements et finitions/solier-moquettiste</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10033</lien_onisep>
+<ROME Level="1B" csRelFld="10033">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="203" csRelFld="203">
+<CSLABELFLD label="">F1609</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Second oeuvre</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">F1609</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Pose de revêtements souples</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10033">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17385" csRelFld="17385">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17385</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10033</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Préparer le chantier</inter>
+<p>Sur place, le solier-moquettiste calcule la quantité de revêtement nécessaire en tenant compte des angles, des ouvertures, du contour des obstacles. Si les surfaces sont en mauvais état, il les nettoie, les ponce et les enduit afin de les rendre parfaitement lisses. La bonne tenue du revêtement en dépend. Il peut être amené à monter des structures (échafaudage, plate-forme...) avant de commencer à travailler.</p>
+<inter>Choisir les matériaux et poser sur plans</inter>
+<p>Qu'il pose du lino, de la moquette, du papier peint ou du tissu, le solier-moquettiste prépare toujours son travail. Un revêtement mural en textile ? Il coupe les lés de tissu et les assemble. Des dalles en plastique ? Il fait un plan de pose pour obtenir des coupes régulières... Les techniques de pose de revêtement sont extrêmement variées. Il peut fixer par encollage ou par marouflage, il peut ajuster et souder des bandes de revêtements. Ces derniers sont aussi de divers types : revêtements souples, isolants phoniques et thermiques, motifs particuliers, parquets flottants, raccords cousus, remontées de plinthes, revêtements stratifiés. Des techniques spécifiques sont à connaître pour les escaliers, qui entrent dans le champ de travail du solier-moquettiste.</p>
+<inter>Conseiller</inter>
+<p>Professionnel de la finition, le solier-moquettiste est amené à effectuer de petits travaux d'électricité et des reprises de peinture. Il peut aussi conseiller un client sur le choix d'une colle ou d'un matériau. N'importe quel revêtement ne s'applique pas sur n'importe quel support.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17365" csRelFld="17365">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17365</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10033</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le CAP constitue la formation de base exigée par les entrepreneurs et peut se préparer en alternance. Pour accéder à plus de responsabilités, les bons élèves peuvent opter pour un bac pro ou un BP. Par la suite, le BTS mène à des fonctions polyvalentes, du bureau d'études au chantier.</p>
+<liste>
+<tete>Apres la 3<exp>e</exp>
+</tete>
+<itsimp>CAP peintre-applicateur de revêtements</itsimp>
+<itsimp>CAP solier-moquettiste</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>Bac pro aménagement et finition du bâtiment</itsimp>
+<itsimp>BP peinture revêtements</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS aménagement finition</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17383" csRelFld="17383">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17383</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10033</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Double compétence</inter>
+<p>Avec une double compétence, CAP solier-moquettiste et bac pro aménagement et finition du bâtiment par exemple, les chances d'insertion sont plus importantes, la polyvalence étant de plus en plus recherchée dans le bâtiment. Cette profession est accessible aux jeunes filles. Elles peuvent très bien, au sein d'une équipe, travailler comme solière-moquettiste. Les magasins et grandes surfaces ont, en outre, besoin de spécialistes connaissant bien le travail pour parvenir à vendre le matériel.</p>
+<inter>Évolution et spécialisation</inter>
+<p>Après quelques années d'expérience professionnelle, le solier-moquettiste peut devenir chef d'équipe ou chef de chantier. Autre évolution possible : se spécialiser dans la pose de certains types de revêtements, tels que la mosaïque, le textile ou le tissu mural. Si les entreprises indépendantes de pose des divers revêtements offrent les débouchés les plus nombreux, ce professionnel peut aussi se tourner vers les structures spécialisées en matériaux antifeu, antistatiques, en revêtement de blocs opératoires, de salles de sport, de salles informatiques...</p>
+<p>En suivant une formation, il peut évoluer vers d'autres métiers proches : carreleur, peintre, plâtrier.</p>
+<inter>Création de son entreprise</inter>
+<p>S'installer à son compte est plus facile que dans d'autres professions car l'investissement de départ ne comprend que très peu d'outillage. Il lui faut néanmoins posséder des bases en gestion et en techniques commerciales.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir du <sal>Smic</sal>.</p>
+<postit>
+<p>Source : FFB, 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

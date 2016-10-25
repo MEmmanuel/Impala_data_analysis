@@ -1,0 +1,548 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Barman / Barmaid",
+            "priorisation": "1",
+            "libelle": "Barman / Barmaid",
+            "code_ogr": "11494"
+        },
+        {
+            "libelle_court": "Cafetier / Cafeti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Cafetier / Cafeti\u00e8re",
+            "code_ogr": "11639"
+        },
+        {
+            "libelle_court": "Chef barman / barmaid",
+            "priorisation": "1",
+            "libelle": "Chef barman / barmaid",
+            "code_ogr": "12004"
+        },
+        {
+            "libelle_court": "Commis / Commise de bar",
+            "priorisation": "1",
+            "libelle": "Commis / Commise de bar",
+            "code_ogr": "12753"
+        },
+        {
+            "libelle_court": "Directeur / Directrice de caf\u00e9 bar",
+            "priorisation": "1",
+            "libelle": "Directeur / Directrice de caf\u00e9 bar",
+            "code_ogr": "14214"
+        },
+        {
+            "libelle_court": "Employ\u00e9 / Employ\u00e9e de caf\u00e9, bar-brasserie",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 / Employ\u00e9e de caf\u00e9, bar-brasserie",
+            "code_ogr": "14758"
+        },
+        {
+            "libelle_court": "Exploitant / Exploitante de bar",
+            "priorisation": "1",
+            "libelle": "Exploitant / Exploitante de bar",
+            "code_ogr": "14971"
+        },
+        {
+            "libelle_court": "Exploitant / Exploitante de bar-brasserie",
+            "priorisation": "1",
+            "libelle": "Exploitant / Exploitante de bar-brasserie",
+            "code_ogr": "14972"
+        },
+        {
+            "libelle_court": "Exploitant / Exploitante de caf\u00e9",
+            "priorisation": "1",
+            "libelle": "Exploitant / Exploitante de caf\u00e9",
+            "code_ogr": "14974"
+        },
+        {
+            "libelle_court": "Exploitant / Exploitante de caf\u00e9, bar-brasserie",
+            "priorisation": "1",
+            "libelle": "Exploitant / Exploitante de caf\u00e9, bar-brasserie",
+            "code_ogr": "14975"
+        },
+        {
+            "libelle_court": "Exploitant / Exploitante de salon de th\u00e9",
+            "priorisation": "1",
+            "libelle": "Exploitant / Exploitante de salon de th\u00e9",
+            "code_ogr": "14998"
+        },
+        {
+            "libelle_court": "Gar\u00e7on / Serveuse de caf\u00e9",
+            "priorisation": "1",
+            "libelle": "Gar\u00e7on / Serveuse de caf\u00e9",
+            "code_ogr": "15188"
+        },
+        {
+            "libelle_court": "Gar\u00e7on limonadier / Serveuse limonadi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Gar\u00e7on limonadier / Serveuse limonadi\u00e8re",
+            "code_ogr": "15192"
+        },
+        {
+            "libelle_court": "G\u00e9rant / G\u00e9rante de bar-tabac",
+            "priorisation": "1",
+            "libelle": "G\u00e9rant / G\u00e9rante de bar-tabac",
+            "code_ogr": "15276"
+        },
+        {
+            "libelle_court": "G\u00e9rant / G\u00e9rante de caf\u00e9, bar-brasserie",
+            "priorisation": "1",
+            "libelle": "G\u00e9rant / G\u00e9rante de caf\u00e9, bar-brasserie",
+            "code_ogr": "15278"
+        },
+        {
+            "libelle_court": "Responsable de bar",
+            "priorisation": "1",
+            "libelle": "Responsable de bar",
+            "code_ogr": "18661"
+        },
+        {
+            "libelle_court": "Responsable de bar-brasserie",
+            "priorisation": "1",
+            "libelle": "Responsable de bar-brasserie",
+            "code_ogr": "18662"
+        },
+        {
+            "libelle_court": "Serveur / Serveuse de bar",
+            "priorisation": "1",
+            "libelle": "Serveur / Serveuse de bar",
+            "code_ogr": "19425"
+        },
+        {
+            "libelle_court": "Serveur / Serveuse de bar-brasserie",
+            "priorisation": "1",
+            "libelle": "Serveur / Serveuse de bar-brasserie",
+            "code_ogr": "19426"
+        },
+        {
+            "libelle_court": "Serveur / Serveuse de salon de th\u00e9",
+            "priorisation": "1",
+            "libelle": "Serveur / Serveuse de salon de th\u00e9",
+            "code_ogr": "19429"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Accueillir le client et prendre la commande de boissons",
+            "code_ogr": "566",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer les boissons et servir les clients au comptoir, en salle, en terrasse",
+            "code_ogr": "2611",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der \u00e0 l'encaissement des consommations",
+            "code_ogr": "2695",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9barrasser les tables, le comptoir, et effectuer l'entretien et le nettoyage des \u00e9quipements du bar, de la salle",
+            "code_ogr": "1220",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la plonge de la verrerie",
+            "code_ogr": "1525",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Installer et remettre en ordre les locaux et le bar",
+            "code_ogr": "2236",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "G1603",
+            "libelle_rome_cible": "Personnel polyvalent en restauration"
+        },
+        {
+            "code_rome_cible": "G1803",
+            "libelle_rome_cible": "Service en restauration"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac (Bac professionnel, Brevet Professionnel de barman, ...) en h\u00f4tellerie et restauration, pouvant \u00eatre compl\u00e9t\u00e9 par la Mention Compl\u00e9mentaire d'employ\u00e9 barman.\nIl est \u00e9galement accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle.\nLes recrutements peuvent \u00eatre ouverts sur contrats de travail saisonniers ou de tr\u00e8s courte dur\u00e9e (extra).\n",
+    "activite_specifique": [
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9ceptionner les produits (f\u00fbts de bi\u00e8re, casiers de bouteilles, ...) et en effectuer le stockage",
+            "code_ogr": "9435",
+            "code_type_activite": "1",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la pr\u00e9paration de plats simples (salades, assiette de crudit\u00e9s, de fromages, desserts, ...)",
+            "code_ogr": "3536",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer des recettes de cocktails avec ou sans alcool",
+            "code_ogr": "5587",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Composer des cocktails \u00e0 la demande du client",
+            "code_ogr": "3924",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la gestion comptable et administrative d'une structure",
+            "code_ogr": "3533",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Recruter du personnel et le former aux proc\u00e9dures de l'\u00e9tablissement",
+            "code_ogr": "3594",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier les \u00e9l\u00e9ments d'activit\u00e9 du personnel",
+            "code_ogr": "3628",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la vente de produits :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Loterie, jeux",
+            "code_ogr": "5256",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tabac et articles pour fumeurs",
+            "code_ogr": "5269",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier le fonds de caisse \u00e0 la prise de poste et effectuer le comptage \u00e0 la fermeture de la caisse",
+            "code_ogr": "3453",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de caf\u00e9s, bars, brasseries, d'\u00e9tablissements h\u00f4teliers, d'\u00e9tablissements de nuit ou de jeux, en contact avec la client\u00e8le et les fournisseurs.\nElle peut s'exercer en horaires fractionn\u00e9s, les fins de semaine, jours f\u00e9ri\u00e9s ou de nuit.\nLa r\u00e9mun\u00e9ration est constitu\u00e9e d'un fixe parfois associ\u00e9 \u00e0 des pourboires ou des avantages (repas, logement, ...).\nL'ouverture ou la reprise d'exploitation d'un d\u00e9bit de boissons est soumise \u00e0 une d\u00e9claration aupr\u00e8s de la Pr\u00e9fecture de Police ou de la Mairie et \u00e0 l'obtention d'une licence (I, II, III, IV).\nUne licence et un agr\u00e9ment d\u00e9livr\u00e9s par la Direction des Douanes sont requis pour le commerce de tabac et des produits d\u00e9riv\u00e9s du tabac.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9morisation des commandes (plats, boissons)",
+            "code_ogr": "20993",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de bar (machine \u00e0 caf\u00e9, pompe \u00e0 bi\u00e8re, ...)",
+            "code_ogr": "21319",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Comptage",
+            "code_ogr": "20820",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion de stocks",
+            "code_ogr": "21259",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Dressage de plats",
+            "code_ogr": "20863",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Service \u00e0 l'assiette",
+            "code_ogr": "21099",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Cr\u00e9ation de cocktails",
+            "code_ogr": "20834",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'ustensiles \u00e0 cocktail",
+            "code_ogr": "21484",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion comptable",
+            "code_ogr": "21252",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Tenue d'une double caisse (jeux, tabac)",
+            "code_ogr": "21113",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Bar \u00e0 th\u00e8me",
+            "code_ogr": "23717",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Brasserie",
+            "code_ogr": "23726",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caf\u00e9, bar",
+            "code_ogr": "23751",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement de jeux",
+            "code_ogr": "23915",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement de nuit (discoth\u00e8que, cabaret, ...)",
+            "code_ogr": "23916",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Salon de th\u00e9",
+            "code_ogr": "24062",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tellerie",
+            "code_ogr": "23519",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en extra",
+            "code_ogr": "38056",
+            "code_type_section_env": "3"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "L\u00e9gislation des vins et spiritueux",
+            "code_ogr": "22083",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaire",
+            "code_ogr": "22649",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de port de plateaux/plats",
+            "code_ogr": "23040",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Types d'alcools",
+            "code_ogr": "23304",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'encaissement",
+            "code_ogr": "22454",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de gestion de stocks",
+            "code_ogr": "22609",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Types de cocktails",
+            "code_ogr": "23311",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation des jeux et loteries",
+            "code_ogr": "22544",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation relative \u00e0 la vente de tabac",
+            "code_ogr": "22578",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nEffectue le service au comptoir, en salle, en terrasse, de boissons chaudes ou froides selon la l\u00e9gislation relative \u00e0 la consommation d'alcools. Entretient la verrerie, les \u00e9quipements du bar et les locaux selon les r\u00e8gles d'hygi\u00e8ne et la r\u00e9glementation sur les Etablissements Recevant du Public (ERP).\nPeut effectuer la vente de produits compl\u00e9mentaires (tabac, tickets de loterie, ...).\nPeut assurer l'exploitation d'un bar, d'un caf\u00e9, d'une brasserie.\n",
+    "intitule": "Caf\u00e9, bar brasserie",
+    "code_ogr": "206",
+    "code_rome": "G1801",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "G1401",
+            "libelle_rome_cible": "Assistance de direction d'h\u00f4tel-restaurant"
+        },
+        {
+            "code_rome_cible": "G1402",
+            "libelle_rome_cible": "Management d'h\u00f4tel-restaurant"
+        },
+        {
+            "code_rome_cible": "G1403",
+            "libelle_rome_cible": "Gestion de structure de loisirs ou d'h\u00e9bergement touristique"
+        },
+        {
+            "code_rome_cible": "G1804",
+            "libelle_rome_cible": "Sommellerie"
+        },
+        {
+            "code_rome_cible": "K1203",
+            "libelle_rome_cible": "Encadrement technique en insertion professionnelle"
+        }
+    ]
+}

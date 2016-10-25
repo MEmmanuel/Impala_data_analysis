@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">matelot de la marine marchande</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction maintenance/fonction manutention/fonction pilotage, navigation</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur transports maritimes et fluviaux</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">transport de marchandises</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE pêche mer aquaculture/marin de commerce</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100238</lien_onisep>
+<ROME Level="1B" csRelFld="100238">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="637" csRelFld="637">
+<CSLABELFLD label="">N3102</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Personnel navigant du transport maritime et fluvial</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">N3102</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Equipage de la navigation maritime</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100238">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18222" csRelFld="18222">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18222</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100238</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Ouvrier spécialisé en mer</inter>
+<p>Qu'il soit à bord d'un navire assurant le transport de passagers ou de marchandises (fret), le matelot de la marine marchande participe aux manoeuvres et à l'entretien du navire. Il est en plus chargé des petites réparations en cas de panne et de l'exploitation commerciale (chargement et déchargement) des navires.</p>
+<inter>Actif sur le pont...</inter>
+<p>Le matelot de la marine marchande entretient le navire. Lui sont confiés les travaux de peinture, de graissage et de nettoyage du matériel de manutention et de sauvetage. Il veille aux opérations de chargement et de déchargement des marchandises sous l'autorité des officiers de bord. Il veille à la passerelle par quarts (périodes de 4 heures) sous l'autorité de l'officier de quart. Avec une qualification de timonier, il peut aussi tenir la barre.</p>
+<inter>... et en salle des machines</inter>
+<p>Il participe à la mise en route des moteurs, surveille le tableau de commande des machines lors des manoeuvres d'entrée et de sortie du port. Il vérifie le bon fonctionnement des appareils électriques, assure la maintenance de tous les appareils moteurs et auxiliaires du navire. Les activités se font sous l'autorité du maître mécanicien. Il assure également le quart dans la salle des machines.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16285" csRelFld="16285">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16285</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100238</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<liste>
+<tete>Niveau CAP, bac pro</tete>
+<itsimp>CAP maritime de matelot : formation de base de marin polyvalent, capable de travailler sur le pont des navires.</itsimp>
+<itsimp>Bac pro conduite et gestion des entreprises maritimes option commerce</itsimp>
+<itsimp>Formation continue : essentielle pour évoluer dans ce secteur </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16277" csRelFld="16277">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16277</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100238</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Personnel qualifié recherché</inter>
+<p>Les compagnies embauchent des marins en moins grand nombre... mais plus qualifiés. Liée à la diminution du nombre de navires et à l'automatisation, la baisse des effectifs affecte surtout le personnel peu qualifié. </p>
+<inter>Évolution possible</inter>
+<p>S'il veut rester à bord, le matelot doit évoluer par le biais de la formation continue. Les possibilités de promotion sont réelles. Polyvalent en début de carrière, le professionnel peut se spécialiser en électricité ou en mécanique. Après 10 ans de navigation, il accède à des postes d'encadrement en tant que maître d'équipage ou maître mécanicien. Un matelot de la marine marchande peut également embarquer à la pêche ou à la plaisance.</p>
+<inter>Période d'essai</inter>
+<p>Quel que soit le secteur de navigation, le marin nouvellement embauché vit une période précaire, dite " d'embarquement au voyage ". Elle dure entre 1 an et demi et 2 ans, selon la convention collective régissant le secteur. Le marin est ensuite titularisé.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir du <sal>Smic</sal>.</p>
+<postit>
+<p>Source : ministère de l'Écologie, du Développement durable et de l'Énergie.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

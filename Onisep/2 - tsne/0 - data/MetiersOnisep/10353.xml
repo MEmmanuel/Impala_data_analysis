@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">affûteur/euse</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">réparer, entretenir, installer des équipements/concevoir, utiliser des technologies industrielles de pointe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction maintenance</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie du bois</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">scierie/maintenance</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE travail du bois/mécanicien affûteur</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10353</lien_onisep>
+<ROME Level="1B" csRelFld="10353">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="341" csRelFld="341">
+<CSLABELFLD label="">H2903</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Mécanique, travail des métaux et outillage</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2903</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Conduite d'équipement d'usinage</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10353">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17016" csRelFld="17016">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17016</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10353</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Entretenir les outils de découpe</inter>
+<p>Scie circulaire, scie à ruban, scie alternative... la tâche de l'affûteur consiste à entretenir et à réparer les lames. Pour la mener à bien, il prend en compte les caractéristiques des bois à scier. Les lames sont préparées différemment en fonction du type de bois et de sa dureté ; les profils de denture varient selon que l'on débite des bois résineux ou des bois feuillus. C'est un travail minutieux. Les lames doivent être réaffûtées régulièrement à quelques heures d'intervalle.</p>
+<inter>Prévenir les incidents</inter>
+<p>L'affûteur réalise diverses opérations : le planage (martelage de la lame), le tensionnage (pour rendre rigide une lame), le dressage (pour maintenir le dos d'une lame droit), l'avoyage (l'inclinaison de la denture) et l'affûtage.</p>
+<inter>Maîtriser les technologies</inter>
+<p>Si l'introduction de machines automatisées a facilité le travail de sciage, elle a multiplié en revanche les sources potentielles de pannes électroniques. Si une machine tombe en panne, l'affûteur évalue la réparation à réaliser. Quand tout va bien, il traque les signes de faiblesse des outils de coupe nécessaires au sciage du bois et intervient avant qu'ils ne s'abîment. En plus de ses compétences en mécanique, l'affûteur doit savoir utiliser l'outil informatique qui asservit les machines.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18783" csRelFld="18783">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18783</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10353</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<inter>Après la 3<exp>e</exp>
+</inter>
+<liste>
+<itsimp>CAP mécanicien conducteur scieries et industries mécaniques du bois option B mécanicien affûteur de sciage, tranchage, déroulage</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18778" csRelFld="18778">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18778</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10353</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des places à prendre</inter>
+<p>Aujourd'hui, les scieries françaises profitent du regain d'intérêt pour le bois, notamment dans la construction. Cependant, le nombre de jeunes s'engageant dans les formations de la filière bois reste peu élevé. Résultat, les diplômés n'ont aucun mal à trouver un emploi à la sortie de l'école, principalement dans les régions forestières (Landes, Franche-Comté, Vosges, Pyrénées), où se situe la majorité des scieries.</p>
+<inter>Devenir chef d'équipe</inter>
+<p>Dans les grandes scieries, l'ouvrier expérimenté dirige l'équipe d'entretien. Il peut aussi prendre la direction d'un atelier d'affûtage indépendant, avec son propre circuit de ramassage des lames et des outils à bois auprès des clients. Qualifié, le mécanicien peut aussi travailler à l'étranger.</p>
+<remun>
+<p>Salaire du débutant entre <sal>1400</sal> et 1750 euros brut par mois. Compte tenu du faible nombre de candidats pour un poste et du faible nombre de jeunes se formant à ce métier, le salaire est souvent attractif.</p>
+<postit>
+<p>Source : Convention collective nationale du travail mécanique du bois, des scieries, du négoce et de l'importation des bois.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">secrétaire des Affaires étrangères</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">travailler à l'étranger/pratiquer les langues vivantes/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">langue étrangère/sciences politiques/sciences économiques</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé/secrétaire des Affaires étrangères</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100399</lien_onisep>
+<ROME Level="1B" csRelFld="100399">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="467" csRelFld="467">
+<CSLABELFLD label="">K1405</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception et mise en oeuvre des politiques publiques</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K1405</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Représentation de l'Etat sur le territoire national ou international</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="463" csRelFld="463">
+<CSLABELFLD label="">K1401</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception et mise en oeuvre des politiques publiques</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K1401</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Conception et pilotage de la politique des pouvoirs publics</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100399">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="33680" csRelFld="33680">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">33680</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100399</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+   <inter>Comme rédacteur</inter>
+   <p>Le secrétaire des Affaires étrangères assume des fonctions de rédacteur ou de gestionnaire dans une direction géographique du ministère chargé des Affaires étrangères à Paris. Il rédige des notes et des rapports sur la base des informations fournies par le personnel diplomatique en poste à l'étranger. Par exemple, un rédacteur de la direction Amérique du Sud peut traiter l'ensemble des données politiques, sociales, économiques de la Colombie, du Vénézuela et des autres pays de la région. Il existe plusieurs directions géographiques portant sur toutes les régions du monde.</p>
+   <inter>Comme diplomate</inter>
+   <p>&#129;À l'étranger, le secrétaire des Affaires étrangères assure l'analyse politique, économique et culturelle du pays. Il informe, au jour le jour, le président de la République et son gouvernement de l'évolution de la conjoncture internationale et de la situation du pays. Il consulte la presse locale, les télégrammes diplomatiques et la documentation pour étayer sa réflexion. Il rassemble les éléments trouvés sur place, contacte les autorités locales et réalise une synthèse qu'il soumet à son supérieur (ambassadeur, consul...). </p>
+   <p>Au sein d'un consulat, les diplomates ont un rôle plus technique d'administration auprès des Français résidant dans le pays (état civil, visas, assistance...).</p>
+  </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="33684" csRelFld="33684">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">33684</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100399</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<titre>Deux concours possibles</titre>
+<liste>
+<tete>
+<accr_p>Les concours de secrétaire des Affaires étrangères sont des concours de catégorie A</accr_p>. Il existe deux concours : </tete>
+<itsimp>Secrétaire des Affaires étrangères (cadre d'orient) et secrétaires des Affaires étrangères (cadre général) : niveau licence, diplôme d'IEP (Institut d'études politiques), diplôme de certaines grandes écoles, diplôme d'ingénieur, diplôme de l'enseignement technologique niveau III.</itsimp>
+</liste>
+<p>Ces concours demandent un niveau de culture générale élevé, une bonne connaissance des faits politiques, économiques internationaux et sociaux, ainsi qu'en droit et histoire. Il faut maîtriser parfaitement au moins deux langues étrangères et une langue orientale obligatoire pour le cadre d'orient. La première affectation à l'administration centrale dure 3 ans avant la nomination à l'étranger.</p>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="33682" csRelFld="33682">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">33682</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100399</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Peu d'élus</inter>
+<p>Les concours pour accéder au poste de secrétaire des Affaires étrangères sont très difficiles. Le nombre de postes offerts chaque année est très faible. Malgré l'importance de son réseau, le ministère chargé des Affaires étrangères a connu une baisse de 7 % de ses effectifs entre 2009 et 2012.</p>
+<inter>Différents grades</inter>
+<p> Le Quai d'Orsay est le passage obligé avant d'obtenir un poste à l'international. Cette première affectation à l'administration centrale dure généralement 3 ans. Ensuite, les affectations sont notifiées 3 à 6 mois avant un départ à l'étranger, sur la base des voeux émis. Trois grades ponctuent la progression de carrière : troisième, deuxième, puis premier secrétaire.</p>
+<inter>Différentes fonctions</inter>
+<p>Les fonctions du secrétaire des Affaires étrangères varient selon la taille de l'ambassade dans laquelle il est affecté. Dans certains cas, notamment dans une petite ambassade, il est l'adjoint direct de l'ambassadeur et est appelé à assurer son intérim comme chargé d'affaires. Dans un consulat, il peut exercer les fonctions de consul adjoint, voire de consul général.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Environ <sal>1615</sal> euros brut par mois, plus primes et indemnités.</p>
+<postit>
+<p>Sources : www.emploitheque.org/grille-indiciaire-etat-Attaches-des-administrations-de-l-Etat-8 2015 ; décret n° 2005-1215 du 26 septembre 2005 ; , article 3 du décret n° 2008-836 du 22 août 2008.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

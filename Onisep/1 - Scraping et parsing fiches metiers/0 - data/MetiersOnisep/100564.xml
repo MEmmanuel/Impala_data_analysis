@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">responsable de laboratoire de contrôle en biologie</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">contrôler la qualité, expertiser/coordonner l'activité d'une équipe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction contrôle</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie pharmaceutique/secteur industrie agroalimentaire/secteur environnement/secteur énergie</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">biologie cellulaire/biologie moléculaire/immunologie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE matériaux laboratoire organisation industrielle</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100564</lien_onisep>
+<ROME Level="1B" csRelFld="100564">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="411" csRelFld="411">
+<CSLABELFLD label="">J1201</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Praticiens médico-techniques</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">J1201</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Biologie médicale</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100564">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="53665" csRelFld="53665">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53665</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100564</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter> Suivre la fabrication d'un produit </inter>
+<p>Afin de fabriquer un médicament, par exemple, le responsable de laboratoire de contrôle en biologie analyse les matières premières à leur arrivée sur le site, les produits en cours de fabrication et les produits finis. Ayant de solides connaissances en chimie et en biologie, il maîtrise les différents éléments qui constituent le médicament. Si les matières ou produits ne correspondent pas aux normes officielles, ou s'il y a des interactions entre les différents composants, ce responsable peut décider d'arrêter la production.</p>
+<inter> Garantir la conformité </inter>
+<p>Analyses physico-chimiques, biologiques, etc., ce professionnel supervise les tests réalisés par les techniciens qui vérifient et évaluent la qualité et le respect de la réglementation. Il observe la diffusion du principe actif dans l'organisme, recherche d'éventuelles impuretés dans les matières premières ou des produits de dégradation en testant le produit dans des conditions extrêmes. C'est lui qui définit une procédure pour chacune des opérations de contrôle au sein du laboratoire, et veille au respect de la réglementation. Si tout est en ordre, il délivre la précieuse certification " conforme " qui autorise le lot à entrer sur le marché. Outre le respect de la qualité, celui des délais et des coûts est au coeur de son activité.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="53669" csRelFld="53669">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53669</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100564</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Ce métier est accessible à des personnes déjà expérimentées, ayant un diplôme d'État de pharmacien, de vétérinaire, un master scientifique ou un diplôme d'ingénieur.</p>
+<liste>
+<tete> Niveau bac + 5 </tete>
+<itsimp>Master chimie ; biologie ; recherche infectiologie ; médicaments </itsimp>
+<itsimp>Diplôme d'ingénieur en chimie, biologie ou pharmacie industrielle </itsimp>
+</liste>
+<liste>
+<tete> Niveau bac + 6 et plus </tete>
+<itsimp>Diplôme d'État de docteur en pharmacie</itsimp>
+<itsimp>Diplôme d'État de docteur vétérinaire</itsimp>
+<itsimp>Formation complémentaire possible en contrôle des médicaments ou chimie analytique</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="53667" csRelFld="53667">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53667</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100564</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter> Des entreprises en plein essor</inter>
+<p>Avec 38 % de sociétés ayant entre 5 et 10 ans d'existence, les biotechnologies représentent un secteur jeune, en plein développement. Des opportunités sont donc à saisir pour le responsable de laboratoire de contrôle dans les entreprises relevant du domaine de la santé (recherche contre le cancer, thérapie génique, biomédicaments, etc.). La démarche qualité est également en plein essor dans les entreprises du médicament, et s'étend à de nouveaux domaines d'activité : marketing, distribution, conseil... </p>
+<inter> Des possibilités d'évolution </inter>
+<p>Le responsable de laboratoire de contrôle en biologie peut évoluer vers des postes de responsable du contrôle qualité, responsable du planning ordonnancement et, avec de l'expérience, devenir responsable d'un secteur de production ou responsable de la documentation scientifique et/ou technique.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir de <sal>2500</sal> euros brut par mois.</p>
+<postit>
+<p>Source : Apec, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

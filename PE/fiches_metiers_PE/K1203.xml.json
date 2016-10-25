@@ -1,0 +1,480 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Accompagnateur(trice) technique d'insertion professionnelle",
+            "priorisation": "1",
+            "libelle": "Accompagnateur / Accompagnatrice technique d'insertion professionnelle",
+            "code_ogr": "10226"
+        },
+        {
+            "libelle_court": "Accompagnateur(trice) formateur(trice) technique insert prof",
+            "priorisation": "1",
+            "libelle": "Accompagnateur formateur / Accompagnatrice formatrice technique en insertion professionnelle",
+            "code_ogr": "10218"
+        },
+        {
+            "libelle_court": "Accompagnateur(trice) socioprofessionnel(le)",
+            "priorisation": "1",
+            "libelle": "Accompagnateur socioprofessionnel / Accompagnatrice socioprofessionnelle",
+            "code_ogr": "10225"
+        },
+        {
+            "libelle_court": "Chef des travaux p\u00e9nitentiaires",
+            "priorisation": "1",
+            "libelle": "Chef des travaux p\u00e9nitentiaires",
+            "code_ogr": "12498"
+        },
+        {
+            "libelle_court": "Educateur / Educatrice technique",
+            "priorisation": "1",
+            "libelle": "Educateur / Educatrice technique",
+            "code_ogr": "14602"
+        },
+        {
+            "libelle_court": "Educateur(trice) technique sp\u00e9cialis\u00e9e",
+            "priorisation": "1",
+            "libelle": "Educateur technique sp\u00e9cialis\u00e9 / Educatrice technique sp\u00e9cialis\u00e9e",
+            "code_ogr": "14603"
+        },
+        {
+            "libelle_court": "Encadrant / Encadrante de chantier d'insertion",
+            "priorisation": "1",
+            "libelle": "Encadrant / Encadrante de chantier d'insertion",
+            "code_ogr": "14818"
+        },
+        {
+            "libelle_court": "Encadrant / Encadrante en entreprise d'insertion",
+            "priorisation": "1",
+            "libelle": "Encadrant / Encadrante en entreprise d'insertion",
+            "code_ogr": "14819"
+        },
+        {
+            "libelle_court": "Encadrant(e) technique d'activit\u00e9s d'insertion pro",
+            "priorisation": "1",
+            "libelle": "Encadrant / Encadrante technique d'activit\u00e9s d'insertion professionnelle",
+            "code_ogr": "14820"
+        },
+        {
+            "libelle_court": "Encadrant(e) technique d'insertion socioprofessionnelle",
+            "priorisation": "1",
+            "libelle": "Encadrant / Encadrante technique d'insertion socioprofessionnelle",
+            "code_ogr": "14821"
+        },
+        {
+            "libelle_court": "Instructeur / Instructrice technique p\u00e9nitentiaire",
+            "priorisation": "1",
+            "libelle": "Instructeur / Instructrice technique p\u00e9nitentiaire",
+            "code_ogr": "16021"
+        },
+        {
+            "libelle_court": "Moniteur / Monitrice d'atelier en \u00e9tablissement sp\u00e9cialis\u00e9",
+            "priorisation": "1",
+            "libelle": "Moniteur / Monitrice d'atelier en \u00e9tablissement sp\u00e9cialis\u00e9",
+            "code_ogr": "16722"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Planifier la production et guider les personnes dans l'apprentissage ou la r\u00e9alisation des travaux",
+            "code_ogr": "2505",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la production et apporter des modifications de l'am\u00e9nagement de postes, du rythme de travail, ...",
+            "code_ogr": "1055",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Informer le client sur l'\u00e9tat d'avancement de la commande et mettre en place les livraisons, la facturation, ...",
+            "code_ogr": "2208",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le suivi professionnel de la personne en situation de travail et lui proposer des axes d'\u00e9volution ou d'orientation",
+            "code_ogr": "1575",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Echanger des informations sur l'activit\u00e9 ou le suivi des personnes (projets individuels, production, coh\u00e9sion du groupe, ...) au sein de l'\u00e9quipe ou aupr\u00e8s de partenaires",
+            "code_ogr": "1498",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec une exp\u00e9rience professionnelle dans un secteur technique (b\u00e2timent, restauration, ...).\nL'emploi/m\u00e9tier d'\u00e9ducateur technique sp\u00e9cialis\u00e9 est accessible avec le Dipl\u00f4me d'Etat d'Educateur Technique Sp\u00e9cialis\u00e9 -DEET- et celui de moniteur d'atelier avec le Certificat de Qualification des Moniteurs d'Atelier -CQMA-.\nDes formations compl\u00e9mentaires (encadrement technique de publics en difficult\u00e9, ...) peuvent \u00eatre requises.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Dispenser une formation en :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Administratif (travaux bureautiques, saisie informatique, ...)",
+            "code_ogr": "4765",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Agriculture, mara\u00eechage",
+            "code_ogr": "4766",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Artisanat",
+            "code_ogr": "4767",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "B\u00e2timent",
+            "code_ogr": "4769",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conditionnement",
+            "code_ogr": "4777",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Confection",
+            "code_ogr": "4778",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "6",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Environnement, espaces verts",
+            "code_ogr": "4782",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "7",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Horticulture",
+            "code_ogr": "4785",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "8",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Imprimerie (fa\u00e7onnage, ...)",
+            "code_ogr": "4786",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "9",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Production industrielle",
+            "code_ogr": "4794",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "10",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Recyclage, triage",
+            "code_ogr": "4796",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "11",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Restauration",
+            "code_ogr": "4799",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "12",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Organiser et mettre en place des informations collectives sur les th\u00e8mes de la pr\u00e9vention des risques professionnels, de la s\u00e9curit\u00e9, aupr\u00e8s des salari\u00e9s",
+            "code_ogr": "7705",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier le fonctionnement des \u00e9quipements de production, effectuer l'entretien de premier niveau ou informer en cas de dysfonctionnement",
+            "code_ogr": "10181",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9velopper un portefeuille de clients/prospects",
+            "code_ogr": "3529",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'\u00e9tablissements sp\u00e9cialis\u00e9s (\u00e9tablissement et service d'aide par le travail, entreprise adapt\u00e9e, centre d'h\u00e9bergement et de r\u00e9insertion sociale, ...) ou de structures d'insertion (r\u00e9gies de quartier, entreprises d'insertion, chantiers \u00e9cole, ...), en contact avec le public et en relation avec diff\u00e9rents intervenants (clients, fournisseurs, ...).\nL'activit\u00e9 varie selon le type de structure, le public et le domaine technique d'intervention (menuiserie, entretien d'espaces verts, restauration, ...).\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Identification de signes d'addiction",
+            "code_ogr": "20913",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Association d'insertion",
+            "code_ogr": "23710",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Centre d'adaptation \u00e0 la vie active",
+            "code_ogr": "23764",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Centre de formation des apprentis",
+            "code_ogr": "23770",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise d'insertion",
+            "code_ogr": "23906",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement d'enseignement sp\u00e9cialis\u00e9",
+            "code_ogr": "23920",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement et service d'aide par le travail (ESAT)",
+            "code_ogr": "23765",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement m\u00e9dical (h\u00f4pital, clinique, ...)",
+            "code_ogr": "23922",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Foyer / centre d'h\u00e9bergement",
+            "code_ogr": "23942",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Service de l'Emploi P\u00e9nitentiaire",
+            "code_ogr": "24065",
+            "code_type_section_env": "1"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Ergonomie",
+            "code_ogr": "21935",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes d'urgence et de secours",
+            "code_ogr": "21991",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pathologies psychiatriques",
+            "code_ogr": "22279",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "L\u00e9gislation sociale",
+            "code_ogr": "22086",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation en Hygi\u00e8ne, S\u00e9curit\u00e9, Environnement -HSE-",
+            "code_ogr": "22567",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de gestion de stocks",
+            "code_ogr": "22609",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de pr\u00e9vention et de gestion de conflits",
+            "code_ogr": "23058",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'\u00e9coute et de la relation \u00e0 la personne",
+            "code_ogr": "21078",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques p\u00e9dagogiques",
+            "code_ogr": "23253",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'entretien et de maintenance des \u00e9quipements de production",
+            "code_ogr": "22462",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques commerciales",
+            "code_ogr": "23012",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de conduite de r\u00e9union",
+            "code_ogr": "22843",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nOrganise une activit\u00e9 de production et accompagne dans sa r\u00e9alisation des personnes handicap\u00e9es ou en difficult\u00e9s sociales, afin de favoriser leur adaptation/r\u00e9adaptation ou insertion professionnelle.\nPeut coordonner l'activit\u00e9 d'une \u00e9quipe.\n",
+    "intitule": "Encadrement technique en insertion professionnelle",
+    "code_ogr": "370",
+    "code_rome": "K1203",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "K1207",
+            "libelle_rome_cible": "Intervention socio\u00e9ducative"
+        },
+        {
+            "code_rome_cible": "K1403",
+            "libelle_rome_cible": "Management de structure de sant\u00e9, sociale ou p\u00e9nitentiaire"
+        },
+        {
+            "code_rome_cible": "K1801",
+            "libelle_rome_cible": "Conseil en emploi et insertion socioprofessionnelle"
+        }
+    ]
+}

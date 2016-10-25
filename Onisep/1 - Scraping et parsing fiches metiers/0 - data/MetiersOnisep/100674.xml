@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e en fonderie</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe/travailler un matériau</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction organisation de la production industrielle</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie métallurgique et fonderie</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">matériaux</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE matériaux laboratoire organisation industrielle</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100674</lien_onisep>
+<ROME Level="1B" csRelFld="100674">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="320" csRelFld="320">
+<CSLABELFLD label="">H2502</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Direction, encadrement et pilotage de fabrication et production industrielles</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2502</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie de production</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100674">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1559" csRelFld="1559">
+<CSLABELFLD label="">ingénieur forgeron / ingénieure forgeronne</CSLABELFLD>
+<MET_ID label="Identifiant">100674</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/02/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1559</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">ingénieur/e forgeron/ne</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1559">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56742" csRelFld="56742">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56742</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100674</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Spécialiste de la fusion des métaux</inter>
+<p>Pièces de moteur d'automobile ou d'avion, canalisations ou radiateur, toutes les pièces composant un objet en métal doivent être créées par moulage ou forgeage. Cela nécessite de fondre le métal ou les alliages. De la conception à la finition, l'ingénieur en fonderie participe à toutes les étapes de la fabrication de ces pièces métalliques. </p>
+<inter>Concevoir et produire</inter>
+<p>Pour les créer, il utilise des logiciels de CAO (conception assistée par ordinateur), de calcul ou de simulation. À partir du cahier des charges du produit à réaliser, il établit des propositions chiffrées, définit les procédés et moyens de production qu'il organise et met en oeuvre. Il dirige les équipes chargées de la production.</p>
+<inter>Mouler ou forger</inter>
+<p>Il réceptionne le métal (acier, aluminium, bronze, titane...) sous forme de lingots, de barres ou de pièces récupérées, puis procède à sa fusion. Il doit parfois effectuer des corrections pour obtenir la bonne composition chimique. Une fois fondu, le métal est versé dans des moules (métalliques ou en sable) ou des outillages métalliques. Après refroidissement et nettoyage de la pièce, il vérifie sa conformité avant l'expédition au client. Lorsqu'il forge une pièce de métal, il la déforme à chaud ou à froid pour obtenir la forme qu'il recherche. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56746" csRelFld="56746">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56746</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100674</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Ce métier est accessible avec un bac + 5 (diplôme d'ingénieur de l'École supérieure de fonderie et de forge ou master).</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur</itsimp>
+<itsimp>Master sciences et génie des matériaux</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56744" csRelFld="56744">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56744</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100674</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des activités variées</inter>
+<p>L'ingénieur en fonderie exerce dans de nombreux domaines : transports, énergie, pompes et robinetterie, bâtiment et travaux publics, construction navale, construction mécanique et outillages, énergie, études et conseil... Environ 10 % des professionnels choisissent d'exercer dans une forge ; la grande majorité évolue dans des entreprises de fonderie. </p>
+<inter>Débouchés assurés</inter>
+<p>Le secteur de la fonderie compte 410 établissements. Professionnel très recherché, l'ingénieur en fonderie peut évoluer et devenir directeur de production, directeur d'usine, ou s'orienter vers des fonctions transversales de responsable qualité, sécurité, environnement. </p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2833</sal> euros brut par mois. </p>
+<postit>
+<p>Source : École supérieure de fonderie et de forge.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

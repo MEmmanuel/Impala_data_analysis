@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">auditeur/trice qualité</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">enquêter, rechercher, analyser l'information/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur audit conseil</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">qualité/qualité et sécurité des aliments</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100681</lien_onisep>
+<ROME Level="1B" csRelFld="100681">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100681">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56824" csRelFld="56824">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56824</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100681</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Respect des normes</inter>
+<p>L'auditeur qualité vérifie que les moyens employés répondent bien aux normes de qualité en vigueur. Il peut réaliser des audits internes à l'entreprise ou externes lorsqu'il exerce en cabinet. Un audit qualité peut porter sur un produit ou un processus de fabrication mais, généralement, il concerne un système de management de qualité, services compris (formation des intervenants).</p>
+<inter>Mener l'enquête</inter>
+<p>Travaillant à partir de documents de référence, il se rend sur les différents sites de l'entreprise pour interroger les personnels et les managers à propos de l'organisation de la production, des méthodes de travail, du respect des différentes étapes de fabrication... Après analyse des données, il met en évidence les anomalies et les points forts, à partir desquels il établit une grille d'audit constituée de questions destinées à évaluer la conformité. Il consigne ses résultats dans un rapport et propose un plan d'action en cas de dysfonctionnements. </p>
+<inter>Un travail de pédagogie </inter>
+<p>L'auditeur qualité doit agir avec tact et discrétion, et expliquer le but de son intervention (trouver des solutions, améliorer la qualité, réduire les risques...). Il lui faut aussi chercher les informations sur le terrain, parfois loin de chez lui, voire à l'étranger.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56828" csRelFld="56828">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56828</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100681</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Une formation d'ingénieur dans le domaine concerné, complétée par une spécialisation en audit qualité, est nécessaire pour accéder au métier. Même si des licences professionnelles en management de la qualité sont proposées, un niveau de qualification plus élevé garantit l'indépendance de l'audit pour aboutir à une certification officielle.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur</itsimp>
+<itsimp>Master en management de la qualité, qualité et certification, qualité et management des performances, contrôle et assurance qualité, méthodes de validation...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56826" csRelFld="56826">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56826</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100681</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un large horizon</inter>
+<p>En dehors des entreprises industrielles, l'auditeur qualité peut exercer dans des laboratoires d'analyses, d'essais ou de contrôle, ou encore dans le secteur pharmaceutique. Il peut également faire partie d'un organisme certificateur (Afnor, bureau Veritas...) ou d'un cabinet de consultants. </p>
+<inter>Une fonction clé</inter>
+<p>Dans les grandes entreprises ou les grands laboratoires, l'auditeur qualité est rattaché à un service qualité qui emploie parfois plusieurs auditeurs. Ces derniers sont sollicités par des entreprises qui doivent posséder une certification précise avant de signer des contrats avec des clients (c'est le cas, par exemple, dans le secteur aéronautique).</p>
+<inter>Expérience obligatoire</inter>
+<p>Il est nécessaire d'avoir quelques années d'expérience dans l'industrie avant d'accéder à un poste d'auditeur qualité. Ainsi, pour auditer les procédures de fabrication, être passé par un service de maintenance est un plus apprécié.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2700</sal> euros brut par mois.</p>
+<postit>
+<p> Source : www.kelformation.com, 04/04/2014.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

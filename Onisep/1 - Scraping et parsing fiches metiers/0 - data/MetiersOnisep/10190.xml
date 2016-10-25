@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">documentaliste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">enquêter, rechercher, analyser l'information/aider, conseiller/informer, communiquer</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/indépendant/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction information - communication</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur bibliothèque, archives, documentation</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">documentation/technologies de l'information et de la communication</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques de la communication média/documentaliste</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10190</lien_onisep>
+<ROME Level="1B" csRelFld="10190">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="475" csRelFld="475">
+<CSLABELFLD label="">K1601</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Culture et gestion documentaire</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K1601</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Gestion de l'information et de la documentation</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10190">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1031" csRelFld="1031">
+<CSLABELFLD label="">ingénieur / ingénieure documentation technique</CSLABELFLD>
+<MET_ID label="Identifiant">10190</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">03/01/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1031</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">ingénieur/e documentation technique</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1031">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1032" csRelFld="1032">
+<CSLABELFLD label="">recherchiste</CSLABELFLD>
+<MET_ID label="Identifiant">10190</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">03/01/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1032</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">recherchiste</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1032">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1033" csRelFld="1033">
+<CSLABELFLD label="">rédacteur / rédactrice documentation technique</CSLABELFLD>
+<MET_ID label="Identifiant">10190</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">03/01/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1033</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">rédacteur/trice documentation technique</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1033">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16400" csRelFld="16400">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16400</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10190</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Collecter l'information...</inter>
+<p>Le documentaliste recherche et sélectionne l'information utile à son entreprise ou à son administration. Il interroge les bases de données et les centres de documentation, dépouille la presse, explore Internet... À lui d'assurer une veille permanente. Parfois, il définit quels livres acquérir et quels abonnements souscrire (périodiques, bases de données, services d'information spécialisés...).</p>
+<inter>... la traiter</inter>
+<p>L'information recueillie est d'abord analysée, afin d'y sélectionner des éléments pour des dossiers thématiques, des revues de presse... pour rédiger des synthèses, mettre à jour des bibliographies, modifier des classements...</p>
+<p>Puis elle est indexée (par thème, date, titre, auteur, mot-clé...) pour l'identifier et la retrouver plus facilement.</p>
+<p>Enfin, elle est stockée : conservée sur des étagères ou saisie dans une base de données.</p>
+<inter>... la diffuser</inter>
+<p>Enfin, le rôle du documentaliste consiste encore à répondre aux besoins des utilisateur. Si besoin, il peut même les initier aux méthodes de recherche de documents en utilisant des logiciels spécialisés, des bases de données...</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16404" csRelFld="16404">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16404</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10190</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Si un bac</accr_p>
+<accr_p>+</accr_p>
+<accr_p>2 ou un bac</accr_p>
+<accr_p>+</accr_p>
+<accr_p>3 permettent d'accéder à la profession, la plupart des documentalistes ont un niveau bac</accr_p>
+<accr_p>+</accr_p>
+<accr_p>5.</accr_p> Les formations littéraires ne sont pas forcément les plus recommandées. Une double compétence en droit, économie, sciences... et en information-documentation est très souvent demandée.</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>DUT information-communication option information numérique dans les organisations</itsimp>
+<itsimp>Diplôme d'études universitaires scientifiques et techniques (DEUST) métiers des bibliothèques et de la documentation</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licences de lettres, langues, sciences humaines proposant des parcours documentation</itsimp>
+<itsimp>Licences pro métiers du livre : documentation et bibliothèques</itsimp>
+<itsimp>Titre de gestionnaire de l'information de l'EBD (École de bibliothécaires documentalistes)</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master Information, documentation ; </itsimp>
+<itsimp>Diplôme de chef de projet en ingénierie documentaire et gestion des connaissances de l'INTD (Institut national des techniques de la documentation)</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16388" csRelFld="16388">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16388</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10190</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Surtout dans le privé</inter>
+<p>Au contraire des bibliothécaires, c'est dans le privé (où la veille concurrentielle et commerciale est stratégique) que l'on trouve le plus de postes de documentalistes : cabinets juridiques, entreprises de la pharmacie, de la chimie, de la banque et de la finance...</p>
+<inter>Dans le public, sur concours</inter>
+<p>Pour intégrer la fonction publique et ses administrations (ministères, grands établissements, bibliothèques, municipalités...), il faut passer des concours. Certains postes (peu nombreux) sont aussi à pourvoir dans les associations et les organismes internationaux (OCDE, Unesco...), les fondations et les organisations non gouvernementales.</p>
+<inter>Des débuts précaires</inter>
+<p>Dans ce métier, le statut de cadre est loin d'être garanti. Les premiers postes sont souvent en CDD (contrat à durée déterminée), même pour les qualifications élevées, avec des offres à temps partiel. Mieux formés pour assurer la veille technologique, les profils scientifiques trouvent plus facilement un emploi que les littéraires.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1600</sal> euros brut par mois.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

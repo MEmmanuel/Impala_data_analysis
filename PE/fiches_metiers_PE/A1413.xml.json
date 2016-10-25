@@ -1,0 +1,675 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Aide caviste",
+            "priorisation": "1",
+            "libelle": "Aide caviste",
+            "code_ogr": "38571"
+        },
+        {
+            "libelle_court": "Brasseur / Brasseuse de bi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Brasseur / Brasseuse de bi\u00e8re",
+            "code_ogr": "11590"
+        },
+        {
+            "libelle_court": "Brasseur-malteur / Brasseuse-malteuse",
+            "priorisation": "1",
+            "libelle": "Brasseur-malteur / Brasseuse-malteuse",
+            "code_ogr": "11592"
+        },
+        {
+            "libelle_court": "Caviste",
+            "priorisation": "1",
+            "libelle": "Caviste",
+            "code_ogr": "11717"
+        },
+        {
+            "libelle_court": "Chef caviste",
+            "priorisation": "1",
+            "libelle": "Chef caviste",
+            "code_ogr": "12008"
+        },
+        {
+            "libelle_court": "Chef de cave",
+            "priorisation": "1",
+            "libelle": "Chef de cave",
+            "code_ogr": "12080"
+        },
+        {
+            "libelle_court": "Cidrier / Cidri\u00e8re",
+            "priorisation": "1",
+            "libelle": "Cidrier / Cidri\u00e8re",
+            "code_ogr": "12638"
+        },
+        {
+            "libelle_court": "Employ\u00e9 / Employ\u00e9e de chai",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 / Employ\u00e9e de chai",
+            "code_ogr": "14761"
+        },
+        {
+            "libelle_court": "Ma\u00eetre / Ma\u00eetresse de chai",
+            "priorisation": "1",
+            "libelle": "Ma\u00eetre / Ma\u00eetresse de chai",
+            "code_ogr": "16299"
+        },
+        {
+            "libelle_court": "Oenologue",
+            "priorisation": "1",
+            "libelle": "Oenologue",
+            "code_ogr": "17010"
+        },
+        {
+            "libelle_court": "Oenologue conseil",
+            "priorisation": "1",
+            "libelle": "Oenologue conseil",
+            "code_ogr": "17011"
+        },
+        {
+            "libelle_court": "Oenologue en recherche d\u00e9veloppement",
+            "priorisation": "1",
+            "libelle": "Oenologue en recherche d\u00e9veloppement",
+            "code_ogr": "17012"
+        },
+        {
+            "libelle_court": "Ouvrier / Ouvri\u00e8re de chai",
+            "priorisation": "1",
+            "libelle": "Ouvrier / Ouvri\u00e8re de chai",
+            "code_ogr": "17423"
+        },
+        {
+            "libelle_court": "Ouvrier / Ouvri\u00e8re de cidrerie",
+            "priorisation": "1",
+            "libelle": "Ouvrier / Ouvri\u00e8re de cidrerie",
+            "code_ogr": "17425"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Presser le raisin, malter l'orge, broyer les pommes, filtrer le mo\u00fbt (jus) et le mettre en cuve pour les op\u00e9rations de fermentation",
+            "code_ogr": "2623",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller la fermentation, proc\u00e9der \u00e0 des ajouts en sucres, acides, levures, houblon, ... selon la mati\u00e8re premi\u00e8re et en fonction des analyses et d\u00e9gustations",
+            "code_ogr": "3306",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Soutirer le produit apr\u00e8s fermentation et effectuer les op\u00e9rations de finalisation (filtrage, clarification, \u00e9limination des levures)",
+            "code_ogr": "3205",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la mise en f\u00fbts ou en bouteilles, le bouchage, l'\u00e9tiquetage du vin, du cidre, de la bi\u00e8re, ...",
+            "code_ogr": "1631",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer et maintenir en \u00e9tat de propret\u00e9 et d'hygi\u00e8ne le mat\u00e9riel, les cuves, barriques, et les locaux",
+            "code_ogr": "2408",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "A1412",
+            "libelle_rome_cible": "Fabrication et affinage de fromages"
+        },
+        {
+            "code_rome_cible": "D1106",
+            "libelle_rome_cible": "Vente en alimentation"
+        },
+        {
+            "code_rome_cible": "D1501",
+            "libelle_rome_cible": "Animation de vente"
+        },
+        {
+            "code_rome_cible": "H2102",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de production alimentaire"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/ BEP \u00e0 Bac+2 (BTS) dans les domaines de l'agriculture (production agricole, viticulture, ...).\nIl est \u00e9galement accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle pour les fonctions d'ouvrier de chai, ouvrier de cidrerie, ...\nLe Dipl\u00f4me National d'Oenologie est exig\u00e9 pour exercer en tant qu'oenologue.\nUn ou plusieurs Certificat(s) d'Aptitude \u00e0 la Conduite En S\u00e9curit\u00e9 -CACES- conditionn\u00e9(s) par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement peu(vent) \u00eatre exig\u00e9(s).\n",
+    "activite_specifique": [
+        {
+            "libelle": "Suivre et optimiser les \u00e9tapes d'\u00e9laboration de produits alcoolis\u00e9s :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Alcools et spiritueux (Cognac, Calvados, ...)",
+            "code_ogr": "9719",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bi\u00e8res",
+            "code_ogr": "9720",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cidres",
+            "code_ogr": "9721",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Vins (blancs, rouges, ros\u00e9s)",
+            "code_ogr": "9722",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-1 (Transpalettes \u00e0 conducteur port\u00e9 et pr\u00e9parateurs de commandes au sol)",
+            "code_ogr": "10122",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-3 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 inf\u00e9rieure ou \u00e9gale \u00e0 6000 kg)",
+            "code_ogr": "10124",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-4 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 sup\u00e9rieure \u00e0 6000 kg)",
+            "code_ogr": "10125",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-5 (Chariots \u00e9l\u00e9vateurs \u00e0 m\u00e2t r\u00e9tractable)",
+            "code_ogr": "10126",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des tests de contr\u00f4le chimiques au cours du processus de fermentation et \u00e9mettre des pr\u00e9conisations (ajouts d'ingr\u00e9dients)",
+            "code_ogr": "9102",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9lectionner des \u00e9chantillons en cours de fabrication (vin de goutte, de presse, jus, ...) et \u00e9laborer des assemblages, des cuv\u00e9es",
+            "code_ogr": "9644",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller et contr\u00f4ler les conditions de stockage ou de vieillissement des produits en cave",
+            "code_ogr": "9878",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des actions de communication et de promotion des produits aupr\u00e8s de clients/prospects",
+            "code_ogr": "4842",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les clients sur les produits et effectuer la vente",
+            "code_ogr": "9543",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Former des \u00e9l\u00e8ves aux techniques de d\u00e9gustations oenologiques et apporter des conseils sur l'association mets et boissons",
+            "code_ogr": "6024",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la gestion comptable et administrative d'une structure",
+            "code_ogr": "3533",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'exploitations agricoles (viticulteurs, pomiculteurs, ...), de coop\u00e9ratives viticoles ou cidricoles, d'entreprises artisanales (cidreries, caves, brasseries, ...), de soci\u00e9t\u00e9s de n\u00e9goce en vins ou de laboratoires oenologiques, ... en contact avec diff\u00e9rents intervenants (services d'hygi\u00e8ne, producteurs, services commerciaux, ...), parfois en contact avec la client\u00e8le (particuliers, professionnels, ...).\nElle varie selon le type d'alcools (vin, bi\u00e8re, cidre, ...) et les modes d'organisation (fabrication artisanale, proc\u00e9d\u00e9s automatis\u00e9s, ...).\nL'activit\u00e9 est soumise \u00e0 des variations saisonni\u00e8res (r\u00e9colte, fermentation, ...).\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riels vinicoles (pressoir, fouloir, \u00e9grappoir, ...)",
+            "code_ogr": "21342",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de cuves de fermentation",
+            "code_ogr": "21197",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "D\u00e9gustation d'assemblages de vins, de jus",
+            "code_ogr": "20851",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Embouteillage",
+            "code_ogr": "20882",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de nettoyage",
+            "code_ogr": "21330",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils de distillation (alambic)",
+            "code_ogr": "21154",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'alcoom\u00e8tre",
+            "code_ogr": "21127",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion de stocks",
+            "code_ogr": "21259",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion comptable",
+            "code_ogr": "21252",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Brasserie artisanale",
+            "code_ogr": "23727",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Cave vinicole",
+            "code_ogr": "23756",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Cidrerie",
+            "code_ogr": "23797",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Exploitation cidricole",
+            "code_ogr": "23931",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Exploitation viticole / vinicole",
+            "code_ogr": "23933",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Laboratoire d'analyses",
+            "code_ogr": "23984",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Commerce de gros",
+            "code_ogr": "23444",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en viticulture",
+            "code_ogr": "21929",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Types de c\u00e9pages (amp\u00e9lographie)",
+            "code_ogr": "23310",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en pomiculture",
+            "code_ogr": "21906",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Oenologie",
+            "code_ogr": "22241",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation sur la production vinicole",
+            "code_ogr": "22584",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation sur la production cidricole",
+            "code_ogr": "22583",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaire",
+            "code_ogr": "22649",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en chimie",
+            "code_ogr": "21844",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes de fermentation alcoolique",
+            "code_ogr": "22314",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'\u00e9chantillonnage",
+            "code_ogr": "22450",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Processus de vinification",
+            "code_ogr": "22482",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Vignobles et appellations",
+            "code_ogr": "23367",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de maltage et de brassage de c\u00e9r\u00e9ales",
+            "code_ogr": "22415",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9d\u00e9s de pasteurisation",
+            "code_ogr": "22355",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de distillation",
+            "code_ogr": "22893",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'analyses chimiques",
+            "code_ogr": "22767",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'assemblages de vins, de jus",
+            "code_ogr": "22804",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de tonnellerie",
+            "code_ogr": "23144",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sp\u00e9cificit\u00e9s de stockage des vins",
+            "code_ogr": "22701",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Circuits de distribution commerciale",
+            "code_ogr": "21713",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en marketing",
+            "code_ogr": "21880",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'encaissement",
+            "code_ogr": "22454",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de gestion de stocks",
+            "code_ogr": "22609",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sommellerie",
+            "code_ogr": "22692",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en production culinaire",
+            "code_ogr": "21907",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nMet en oeuvre ou supervise les \u00e9tapes de fabrication, de conservation et de conditionnement de boissons alcoolis\u00e9es (vin, bi\u00e8re, cidre, ...) selon les r\u00e9glementations de fabrication, les r\u00e9glementations AOC (Appellation d'Origine Contr\u00f4l\u00e9e), les r\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaires et les crit\u00e8res qualit\u00e9 de l'entreprise.\nPeut effectuer les op\u00e9rations de vente des produits.\nPeut coordonner une \u00e9quipe ou g\u00e9rer une structure (cidrerie, cave, ...).\n",
+    "intitule": "Fermentation de boissons alcoolis\u00e9es",
+    "code_ogr": "27",
+    "code_rome": "A1413",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "A1405",
+            "libelle_rome_cible": "Arboriculture et viticulture"
+        },
+        {
+            "code_rome_cible": "D1301",
+            "libelle_rome_cible": "Management de magasin de d\u00e9tail"
+        },
+        {
+            "code_rome_cible": "D1402",
+            "libelle_rome_cible": "Relation commerciale grands comptes et entreprises"
+        },
+        {
+            "code_rome_cible": "D1407",
+            "libelle_rome_cible": "Relation technico-commerciale"
+        },
+        {
+            "code_rome_cible": "D1502",
+            "libelle_rome_cible": "Management/gestion de rayon produits alimentaires"
+        },
+        {
+            "code_rome_cible": "G1804",
+            "libelle_rome_cible": "Sommellerie"
+        },
+        {
+            "code_rome_cible": "H1505",
+            "libelle_rome_cible": "Intervention technique en formulation et analyse sensorielle"
+        },
+        {
+            "code_rome_cible": "K2109",
+            "libelle_rome_cible": "Enseignement technique et professionnel"
+        }
+    ]
+}

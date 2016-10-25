@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e en acoustique</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">préserver l'environnement/concevoir, utiliser des technologies industrielles de pointe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conception /fonction conseil, audit, expertise/fonction contrôle/fonction qualité/fonction recherche</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur environnement/secteur bâtiment travaux publics/secteur construction aéronautique/secteur construction ferroviaire</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">acoustique/son/lutte contre le bruit/qualité</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE bâtiment gros oeuvre génie civil</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100653</lien_onisep>
+<ROME Level="1B" csRelFld="100653">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="176" csRelFld="176">
+<CSLABELFLD label="">F1106</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception et études</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">F1106</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Ingénierie et études du BTP</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100653">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56560" csRelFld="56560">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56560</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100653</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Traquer les décibels</inter>
+<p>Les tâches de l'ingénieur acousticien peuvent être différentes, notamment en fonction de son employeur. L'une de ses missions principales consiste, par exemple, à surveiller et mesurer le bruit de certains appareils ou de certaines zones géographiques. Grâce à des instruments de mesure spécifiques, il traque les décibels et les compare avec les normes autorisées. Quand il travaille pour une administration, ses mesures peuvent aboutir à des sanctions s'il constate un dépassement.</p>
+<inter>Travailler à la source</inter>
+<p>Mais il peut également travailler à la conception de matériaux ou d'équipements qui isolent du bruit ou l'absorbent de manière significative, ou encore fabriquer des instruments de mesure plus précis que ceux existants. Son objectif est alors de réduire l'exposition au bruit par un travail à la source qui peut, par exemple, se faire sur des machines d'usine dont il cherchera à limiter les vibrations.</p>
+<inter>Remédier au bruit</inter>
+<p>Enfin, l'ingénieur acousticien peut effectuer une cartographie du bruit et des pollutions sonores sur une zone donnée. Il peut ensuite mettre en place des protocoles de détection et de mesure des nuisances, ou travailler à la prévention ou aux solutions à apporter pour remédier à un problème donné de nuisance sonore.</p> </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56564" csRelFld="56564">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56564</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100653</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Ce métier est accessible aux débutants qui ont un master ou un diplôme d'ingénieur. </p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master mentions acoustique ou génie civil</itsimp>
+<itsimp>Diplôme d'ingénieur en génie physique ou spécialisé dans les vibrations, l'acoustique, les capteurs...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56562" csRelFld="56562">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56562</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100653</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des possibilités d'évolution</inter>
+<p>L'ingénieur acousticien commence sa carrière par des projets simples qui se complexifient au fur et à mesure qu'il acquiert de l'expérience. Après quelques années, il peut également encadrer une équipe de techniciens ou d'ingénieurs débutants. </p>
+<inter>Des perspectives d'emploi</inter>
+<p>La lutte contre la pollution sonore est un véritable enjeu de société et les réglementations se sont succédé pour y remédier, notamment dans les villes et les industries où elle est un facteur de stress important qui peut conduire à des arrêts ou des accidents du travail. L'acousticien est ainsi recherché pour travailler à la source, c'est-à-dire au moment de la conception des produits isolants ou absorbants, mais aussi pour les mesures contre le bruit et les remèdes à la pollution sonore existante (trafic routier ou aérien, par exemple).</p>
+<inter>Public ou privé</inter>
+<p>Il peut travailler dans le secteur public : DDT (directions départementales territoriales), DREAL (directions régionales de l'environnement, de l'aménagement et du logement), préfecture de police, etc. Il y intervient surtout pour des missions de contrôle, de cartographie ou de conseil. Mais il peut également exercer dans l'industrie privée pour lutter contre le bruit à la source par la conception de produits plus silencieux ou de matériaux isolants. Des entreprises ou organismes spécialisés bruit peuvent aussi l'employer.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>A partir de <sal>2250</sal> brut par mois pour un ingénieur débutant.</p>
+<postit>
+<p>Source : CINOV GIAc, 2016</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

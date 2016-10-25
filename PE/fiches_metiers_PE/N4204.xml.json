@@ -1,0 +1,458 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente de planning transport routier de personnes",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de planning transport routier de personnes",
+            "code_ogr": "10547"
+        },
+        {
+            "libelle_court": "Agent / Agente d'exploitation transport routier de personnes",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'exploitation transport routier de personnes",
+            "code_ogr": "10717"
+        },
+        {
+            "libelle_court": "Assistant(e) d'exploitation transport routier de personnes",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante d'exploitation transport routier de personnes",
+            "code_ogr": "11273"
+        },
+        {
+            "libelle_court": "Chef de secteur transport routier de personnes",
+            "priorisation": "1",
+            "libelle": "Chef de secteur transport routier de personnes",
+            "code_ogr": "12329"
+        },
+        {
+            "libelle_court": "Contr\u00f4leur/Contr\u00f4leuse r\u00e9seau transport routier de personnes",
+            "priorisation": "1",
+            "libelle": "Contr\u00f4leur / Contr\u00f4leuse r\u00e9seau transport routier de personnes",
+            "code_ogr": "13651"
+        },
+        {
+            "libelle_court": "Coordinateur(trice) d'exploitation transport routier de pers",
+            "priorisation": "1",
+            "libelle": "Coordinateur / Coordinatrice d'exploitation transport routier de personnes",
+            "code_ogr": "13689"
+        },
+        {
+            "libelle_court": "Dispatcheur / Dispatcheuse transport routier de particuliers",
+            "priorisation": "1",
+            "libelle": "Dispatcheur / Dispatcheuse transport routier de particuliers",
+            "code_ogr": "14498"
+        },
+        {
+            "libelle_court": "R\u00e9gulateur(trice) poste central transport sanitaire de pers",
+            "priorisation": "1",
+            "libelle": "R\u00e9gulateur / R\u00e9gulatrice poste central transport sanitaire de personnes",
+            "code_ogr": "18496"
+        },
+        {
+            "libelle_court": "R\u00e9gulateur/R\u00e9gulatrice r\u00e9seau transport routier de personnes",
+            "priorisation": "1",
+            "libelle": "R\u00e9gulateur / R\u00e9gulatrice r\u00e9seau transport routier de personnes",
+            "code_ogr": "18497"
+        },
+        {
+            "libelle_court": "R\u00e9partiteur(trice) de d\u00e9p\u00f4t transport routier de personnes",
+            "priorisation": "1",
+            "libelle": "R\u00e9partiteur / R\u00e9partitrice de d\u00e9p\u00f4t transport routier de personnes",
+            "code_ogr": "18533"
+        },
+        {
+            "libelle_court": "Technicien(ne) exploitation lignes transport routier de pers",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne d'exploitation de lignes transport routier de personnes",
+            "code_ogr": "19974"
+        },
+        {
+            "libelle_court": "Technicien(ne) exploitation PC transport routier personnes",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne d'exploitation Poste Centralis\u00e9 transport routier de personnes",
+            "code_ogr": "19982"
+        },
+        {
+            "libelle_court": "Technicien(ne) exploitation transport routier de pers",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne d'exploitation transport routier de personnes",
+            "code_ogr": "19987"
+        },
+        {
+            "libelle_court": "Technicien(ne) gestion parc v\u00e9hicule transport routier pers",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne gestionnaire de parc v\u00e9hicules transport routier de personnes",
+            "code_ogr": "20162"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Organiser et planifier les mouvements du mat\u00e9riel roulant selon la densit\u00e9 du trafic, les v\u00e9hicules disponibles, ...",
+            "code_ogr": "2449",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir le planning d'affectation des conducteurs sur le r\u00e9seau ou la zone d'intervention",
+            "code_ogr": "1859",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et contr\u00f4ler la r\u00e9alisation du transport, identifier les anomalies et mettre en place les mesures correctives",
+            "code_ogr": "3221",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler les \u00e9quipements du r\u00e9seau (abris de bus, panneaux signal\u00e9tiques, ...) et programmer leur entretien",
+            "code_ogr": "1132",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et v\u00e9rifier les \u00e9l\u00e9ments d'activit\u00e9 du personnel (temps de conduite, validit\u00e9 des habilitations, ...)",
+            "code_ogr": "3244",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports de suivi d'activit\u00e9 et identifier les \u00e9carts",
+            "code_ogr": "3053",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1204",
+            "libelle_rome_cible": "Location de v\u00e9hicules ou de mat\u00e9riel de loisirs"
+        },
+        {
+            "code_rome_cible": "D1402",
+            "libelle_rome_cible": "Relation commerciale grands comptes et entreprises"
+        },
+        {
+            "code_rome_cible": "N4203",
+            "libelle_rome_cible": "Intervention technique d'exploitation des transports routiers de marchandises"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau Bac (g\u00e9n\u00e9ral, professionnel) \u00e0 Bac+2 (BTS, DUT) en transport et logistique.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans le transport sans dipl\u00f4me particulier.\nLes permis D, D1 (pr\u00e9c\u00e9demment D) peuvent \u00eatre requis.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Planifier une ou plusieurs activit\u00e9s :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Circuit touristique",
+            "code_ogr": "7838",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Transport de particuliers (Taxi, ...)",
+            "code_ogr": "7839",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Transport sanitaire (ambulance, V\u00e9hicule Sanitaire L\u00e9ger -VSL-)",
+            "code_ogr": "7840",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Transport scolaire",
+            "code_ogr": "7841",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Transport sur lignes internationales",
+            "code_ogr": "7842",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Transport urbain/interurbain",
+            "code_ogr": "7843",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Zone a\u00e9roportuaire",
+            "code_ogr": "7844",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre la gestion d'un parc de v\u00e9hicules et les contrats de maintenance",
+            "code_ogr": "9726",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller, r\u00e9guler le trafic \u00e0 partir d'un poste central et mettre en place les mesures n\u00e9cessaires (changements d'itin\u00e9raires, modifications d'horaires, ...)",
+            "code_ogr": "9954",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler des titres de transport, informer la client\u00e8le et intervenir en cas d'incident \u00e0 bord d'un v\u00e9hicule",
+            "code_ogr": "4897",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer ou participer \u00e0 la cr\u00e9ation ou \u00e0 l'\u00e9volution de lignes/circuits touristiques de transport routier de personnes",
+            "code_ogr": "5646",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre le budget de fonctionnement et les \u00e9l\u00e9ments de recette",
+            "code_ogr": "9728",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accueillir les nouveaux salari\u00e9s et favoriser leur int\u00e9gration dans la structure",
+            "code_ogr": "3638",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises d'exploitation de transport routier de personnes, en contact permanent avec les \u00e9quipes (conducteurs, contr\u00f4leurs, atelier de maintenance des v\u00e9hicules, ...), parfois en relation avec diff\u00e9rents intervenants (service \u00e9quipement, clients, ...).\nElle peut varier selon la taille de l'entreprise et le type de transport (transport en commun, transport scolaire, circuits touristiques, transport de particuliers, transfert sanitaire, ...).\nElle peut s'exercer en horaires d\u00e9cal\u00e9s, fractionn\u00e9s, les fins de semaine, jours f\u00e9ri\u00e9s ou de nuit.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciel professionnel d'exploitation de transport de personnes",
+            "code_ogr": "21242",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de navigation (GPS, VHF, radar, ...)",
+            "code_ogr": "21329",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils de planification",
+            "code_ogr": "21471",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de carte routi\u00e8re",
+            "code_ogr": "20933",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de console de contr\u00f4le",
+            "code_ogr": "21189",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de location de v\u00e9hicules",
+            "code_ogr": "23881",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de transport de personnes",
+            "code_ogr": "23889",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de transport sanitaire",
+            "code_ogr": "23899",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de taxis",
+            "code_ogr": "24097",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Tourisme",
+            "code_ogr": "23652",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation du transport de personnes",
+            "code_ogr": "22565",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9 des biens et des personnes",
+            "code_ogr": "22623",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "L\u00e9gislation sociale",
+            "code_ogr": "22086",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'animation d'\u00e9quipe",
+            "code_ogr": "22774",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation li\u00e9e aux v\u00e9hicules",
+            "code_ogr": "22573",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de pr\u00e9vention et de gestion de conflits",
+            "code_ogr": "23058",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestion budg\u00e9taire",
+            "code_ogr": "21994",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nOrganise et planifie tout ou partie des op\u00e9rations de transport routier de personnes d'un site d'exploitation, selon la r\u00e9glementation et les r\u00e8gles de s\u00e9curit\u00e9 des biens et des personnes, dans un objectif de qualit\u00e9 (service, co\u00fbt, d\u00e9lai).\nPeut exercer des activit\u00e9s de gestion de l'exploitation (planning des conducteurs, affectation des v\u00e9hicules, gestion du parc, r\u00e9gulation du trafic, traitement administratif des donn\u00e9es d'exploitation, ...), pour un type de client\u00e8le sp\u00e9cifique (taxis, ambulances, ...), pour une zone g\u00e9ographique d\u00e9termin\u00e9e, ou pour l'ensemble du r\u00e9seau.\nPeut coordonner l'activit\u00e9 d'une \u00e9quipe d'exploitation (conducteurs, contr\u00f4leurs voyageurs, ...).\n",
+    "intitule": "Intervention technique d'exploitation des transports routiers de personnes",
+    "code_ogr": "531",
+    "code_rome": "N4204",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "I1103",
+            "libelle_rome_cible": "Supervision d'entretien et gestion de v\u00e9hicules"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        },
+        {
+            "code_rome_cible": "N1303",
+            "libelle_rome_cible": "Intervention technique d'exploitation logistique"
+        },
+        {
+            "code_rome_cible": "N3202",
+            "libelle_rome_cible": "Exploitation du transport fluvial"
+        },
+        {
+            "code_rome_cible": "N4202",
+            "libelle_rome_cible": "Direction d'exploitation des transports routiers de personnes"
+        },
+        {
+            "code_rome_cible": "N4401",
+            "libelle_rome_cible": "Circulation du r\u00e9seau ferr\u00e9"
+        }
+    ]
+}

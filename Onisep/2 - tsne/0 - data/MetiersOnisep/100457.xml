@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">conseiller/ère sportif/ve en salle de remise en forme</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire du sport/enseigner, éduquer/aider, conseiller/animer des activités culturelles, ludiques ou éducatives</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/indépendant</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction animation</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur des sports</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">animation sportive</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE hôtellerie restauration tourisme loisirs/conseiller sportif en salle de remise en forme</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100457</lien_onisep>
+<ROME Level="1B" csRelFld="100457">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="223" csRelFld="223">
+<CSLABELFLD label="">G1204</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Animation d'activités de loisirs</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">G1204</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Éducation en activités sportives</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100457">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="37437" csRelFld="37437">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37437</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100457</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Personnaliser les conseils sportifs</inter>
+<p>Tapis de course, rameur, vélo elliptique... Sur les plateaux de musculation, le conseiller sportif aide les clients à choisir l'appareil le plus adapté à leur profil (sportif accompli, débutant, personne âgée...) et à leurs attentes (se muscler, s'assouplir, maigrir...). En tenant compte de l'âge, de la condition physique et de l'objectif de l'usager, le conseiller établit un programme d'entraînement sur mesure, efficace et sans danger pour la santé.</p>
+<inter>Encadrer des cours collectifs</inter>
+<p>Quand il ne corrige pas les postures inadaptées ou les mauvaises manipulations d'appareils effectuées par des pratiquants en solo, le conseiller sportif encadre des cours collectifs. <cit>Stretch, Pilates...</cit> Il anime des exercices destinés à muscler certaines parties du corps (abdominaux, fessiers ou biceps) ou à développer l'endurance cardiaque et respiratoire (cardio-training). Le tout dans une ambiance musicale propre à motiver le groupe.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="37441" csRelFld="37441">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37441</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100457</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Pour exercer ce métier, il faut obtenir au moins le BPJEPS </accr_p> (brevet professionnel de la Jeunesse, de l'Education populaire et du Sport)<accr_p>.</accr_p> Pour gérer un club de remise en forme, un DEUST (diplôme d'études universitaires scientifiques et techniques) ou une licence professionnelle autour des métiers de la forme sont plus adaptés. </p>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>BPJEPS spécialité activités gymniques, de la forme et de la force </itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>DEUST métiers de la forme.</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence professionnelle STAPS (sciences et techniques des activités physiques et sportives) portant sur les métiers de la forme et la remise en forme</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="37439" csRelFld="37439">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37439</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100457</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des places en ville</inter>
+<p>La remise en forme étant à la mode, le secteur ne cesse de se développer. Si les opportunités d'emploi sont réelles, une condition s'impose : être mobile et citadin. Les temps pleins existent dans les salles des grandes villes, mais c'est souvent en cumulant des temps partiels dans plusieurs organismes que le conseiller sportif parvient à vivre de son métier. Savoir bien gérer son temps et son effort est alors essentiel pour lui.</p>
+<inter>D'autres lieux d'exercice... confidentiels</inter>
+<p>D'autres débouchés, plus confidentiels, sont envisageables. On peut animer des cours dans des lieux insolites, tels que des bateaux de croisière. De même, les besoins en coaching sportif sont grands dans les pays voisins, et le BP (brevet professionnel) est parfois reconnu au niveau européen.</p>
+<inter>Reconversions en vue</inter>
+<p>Le métier est fatigant sur le long terme, et il est plus difficile d'être conseiller sportif ¿¿ 50 ans qu'à 30. Mieux vaut prévoir une reconversion. Après quelques années d'expérience, on peut, au sein d'une grande chaîne franchisée, devenir responsable fitness<cit>,</cit> puis directeur adjoint, voire directeur d'un centre de remise en forme... Un métier qui représente une lourde charge en indépendant. Autre option : s'orienter vers la formation de ceux qui préparent le brevet professionnel.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>A partir du <sal>Smic</sal> , et jusqu'à 1600 euros brut par mois.</p>
+<postit>
+<p>Source : responsable de formation du Creps de Vichy, 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

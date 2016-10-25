@@ -1,0 +1,559 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "C\u00e2bleur / C\u00e2bleuse de cartes de circuits imprim\u00e9s",
+            "priorisation": "1",
+            "libelle": "C\u00e2bleur / C\u00e2bleuse de cartes de circuits imprim\u00e9s",
+            "code_ogr": "11612"
+        },
+        {
+            "libelle_court": "C\u00e2bleur / C\u00e2bleuse en \u00e9lectronique",
+            "priorisation": "1",
+            "libelle": "C\u00e2bleur / C\u00e2bleuse en \u00e9lectronique",
+            "code_ogr": "11619"
+        },
+        {
+            "libelle_court": "C\u00e2bleur / C\u00e2bleuse en microsoudure en \u00e9lectronique",
+            "priorisation": "1",
+            "libelle": "C\u00e2bleur / C\u00e2bleuse en microsoudure en \u00e9lectronique",
+            "code_ogr": "11620"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe c\u00e2blage en \u00e9lectronique",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe c\u00e2blage en \u00e9lectronique",
+            "code_ogr": "12391"
+        },
+        {
+            "libelle_court": "Electronicien-c\u00e2bleur/Electronicienne-c\u00e2bleuse d'\u00e9quipement",
+            "priorisation": "1",
+            "libelle": "Electronicien-c\u00e2bleur / Electronicienne-c\u00e2bleuse d'\u00e9quipement",
+            "code_ogr": "14677"
+        },
+        {
+            "libelle_court": "Monteur-c\u00e2bleur / Monteuse-c\u00e2bleuse de circuits imprim\u00e9s",
+            "priorisation": "1",
+            "libelle": "Monteur-c\u00e2bleur / Monteuse-c\u00e2bleuse de circuits imprim\u00e9s",
+            "code_ogr": "16870"
+        },
+        {
+            "libelle_court": "Monteur(se)-c\u00e2bleur(se) de composants \u00e9lectroniques",
+            "priorisation": "1",
+            "libelle": "Monteur-c\u00e2bleur / Monteuse-c\u00e2bleuse de composants \u00e9lectroniques",
+            "code_ogr": "16871"
+        },
+        {
+            "libelle_court": "Monteur-c\u00e2bleur / Monteuse-c\u00e2bleuse en \u00e9lectronique",
+            "priorisation": "1",
+            "libelle": "Monteur-c\u00e2bleur / Monteuse-c\u00e2bleuse en \u00e9lectronique",
+            "code_ogr": "16875"
+        },
+        {
+            "libelle_court": "Monteur(se)-c\u00e2bleur(se) en \u00e9lectronique professionnelle",
+            "priorisation": "1",
+            "libelle": "Monteur-c\u00e2bleur / Monteuse-c\u00e2bleuse en \u00e9lectronique professionnelle",
+            "code_ogr": "16876"
+        },
+        {
+            "libelle_court": "Monteur-c\u00e2bleur / Monteuse-c\u00e2bleuse en micro\u00e9lectronique",
+            "priorisation": "1",
+            "libelle": "Monteur-c\u00e2bleur / Monteuse-c\u00e2bleuse en micro\u00e9lectronique",
+            "code_ogr": "16877"
+        },
+        {
+            "libelle_court": "Monteur(se)-c\u00e2bleur(se) maquettiste en \u00e9lectronique",
+            "priorisation": "1",
+            "libelle": "Monteur-c\u00e2bleur / Monteuse-c\u00e2bleuse maquettiste en \u00e9lectronique",
+            "code_ogr": "16879"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier l'implantation des composants (r\u00e9sistances, condensateurs, circuits int\u00e9gr\u00e9s, ...) \u00e0 partir du sch\u00e9ma \u00e9lectronique ou du plan de c\u00e2blage",
+            "code_ogr": "2166",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier les composants et les disposer en fonction du d\u00e9roulement des op\u00e9rations de montage",
+            "code_ogr": "3461",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Adapter les composants (r\u00e9sistances, transistors, diodes, ...) aux caract\u00e9ristiques du support (cartes \u00e9lectroniques, ch\u00e2ssis, ...)",
+            "code_ogr": "604",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Positionner et fixer les composants sur les supports",
+            "code_ogr": "2538",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Int\u00e9grer et connecter les sous-ensembles dans les bo\u00eetiers ou ch\u00e2ssis",
+            "code_ogr": "2257",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier le montage et le c\u00e2blage (valeur des composants, continuit\u00e9 \u00e9lectrique, ...)",
+            "code_ogr": "3454",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "H2601",
+            "libelle_rome_cible": "Bobinage \u00e9lectrique"
+        },
+        {
+            "code_rome_cible": "H2602",
+            "libelle_rome_cible": "C\u00e2blage \u00e9lectrique et \u00e9lectrom\u00e9canique"
+        },
+        {
+            "code_rome_cible": "H2603",
+            "libelle_rome_cible": "Conduite d'installation automatis\u00e9e de production \u00e9lectrique, \u00e9lectronique et micro\u00e9lectronique"
+        },
+        {
+            "code_rome_cible": "H2604",
+            "libelle_rome_cible": "Montage de produits \u00e9lectriques et \u00e9lectroniques"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac (professionnel, technologique) en \u00e9lectronique, \u00e9lectricit\u00e9.\nIl est \u00e9galement accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle.\nUne habilitation aux risques d'origine \u00e9lectrique peut \u00eatre requise.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Intervenir sur un type de fabrication :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "A l'unit\u00e9 (prototypes, ...)",
+            "code_ogr": "7207",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "En grandes s\u00e9ries",
+            "code_ogr": "7208",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "En moyennes s\u00e9ries",
+            "code_ogr": "7209",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "En petites s\u00e9ries",
+            "code_ogr": "7210",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des interventions n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation \u00e9lectrique, travaux hors tension (B0, B0V, B1 B1V, H0, ...)",
+            "code_ogr": "8481",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation \u00e9lectrique, travaux sous tension (B1T, BN, BR, H1T, ...)",
+            "code_ogr": "8482",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations de traitement :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Moulage",
+            "code_ogr": "8805",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyage (cartes, ...)",
+            "code_ogr": "8806",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Photogravure",
+            "code_ogr": "8807",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tropicalisation",
+            "code_ogr": "8810",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Positionner des cartes \u00e9quip\u00e9es de Composants Mont\u00e9s en Surface -CMS- dans un four \u00e0 refusion et r\u00e9gler les param\u00e8tres",
+            "code_ogr": "7893",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la tenue de composants et de connexions \u00e0 l'aide d'appareils (r\u00e9sistance \u00e0 la traction, au cisaillement, ...)",
+            "code_ogr": "4233",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier des non-conformit\u00e9s et r\u00e9parer des produits d\u00e9fectueux",
+            "code_ogr": "6112",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Positionner des cartes sur une machine \u00e0 vague et r\u00e9gler les param\u00e8tres",
+            "code_ogr": "7894",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Adapter ou modifier la partie m\u00e9canique d'un appareil",
+            "code_ogr": "3679",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports de suivi d'activit\u00e9 et transmettre les informations au service concern\u00e9",
+            "code_ogr": "3600",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises de fabrication de mat\u00e9riels \u00e9lectroniques ou \u00e9lectriques.\nL'activit\u00e9 s'effectue en atelier, en laboratoire et parfois en zone \u00e0 atmosph\u00e8re contr\u00f4l\u00e9e.\nLe port d'Equipements de Protection Individuelle -EPI- (masque, gants, ...) peut \u00eatre requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan, de sch\u00e9ma",
+            "code_ogr": "20956",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de machine d'insertion/pose semi-automatique de composant \u00e9lectronique",
+            "code_ogr": "21299",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Brasage",
+            "code_ogr": "20797",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sertissage",
+            "code_ogr": "21097",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils de mesure \u00e9lectrique (multim\u00e8tre, ...)",
+            "code_ogr": "21156",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'une binoculaire",
+            "code_ogr": "21483",
+            "position_item": "6",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareil \u00e0 dessouder",
+            "code_ogr": "21134",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "A\u00e9ronautique, spatial",
+            "code_ogr": "23391",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Armement",
+            "code_ogr": "23404",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Automobile",
+            "code_ogr": "23410",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electricit\u00e9",
+            "code_ogr": "23474",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electrom\u00e9nager",
+            "code_ogr": "23476",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electronique",
+            "code_ogr": "23477",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ferroviaire",
+            "code_ogr": "23498",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Informatique et t\u00e9l\u00e9communications",
+            "code_ogr": "23535",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Instrumentation m\u00e9dicale",
+            "code_ogr": "23536",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Micro\u00e9lectronique",
+            "code_ogr": "23560",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Optique, optronique",
+            "code_ogr": "23568",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "En zone \u00e0 atmosph\u00e8re contr\u00f4l\u00e9e",
+            "code_ogr": "23383",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Symboles de repr\u00e9sentation des \u00e9l\u00e9ments \u00e9lectriques",
+            "code_ogr": "22732",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en \u00e9lectronique",
+            "code_ogr": "21863",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en \u00e9lectricit\u00e9",
+            "code_ogr": "21859",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des composants \u00e9lectroniques",
+            "code_ogr": "21567",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes de s\u00e9curit\u00e9 \u00e9lectrique",
+            "code_ogr": "22223",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "C\u00e2blage filaire",
+            "code_ogr": "21537",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de collage",
+            "code_ogr": "22837",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de soudure",
+            "code_ogr": "23128",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9d\u00e9s de reproduction photo",
+            "code_ogr": "22359",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de moulage",
+            "code_ogr": "23005",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en t\u00f4lerie",
+            "code_ogr": "21927",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise manuellement ou au moyen de machines de production, l'insertion, la pose et le c\u00e2blage de composants \u00e9lectroniques et \u00e9lectriques sur des cartes \u00e9lectroniques, circuits imprim\u00e9s, ch\u00e2ssis, ... selon les r\u00e8gles de s\u00e9curit\u00e9 et la r\u00e9glementation.\nPeut effectuer des contr\u00f4les de fonctionnement \u00e0 l'aide d'instruments (bancs d'essais, multim\u00e8tres, ...).\nPeut ins\u00e9rer un sous-ensemble dans un bo\u00eetier ou proc\u00e9der \u00e0 l'assemblage de tout ou partie du mat\u00e9riel ou de l'appareil.\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "Montage et c\u00e2blage \u00e9lectronique",
+    "code_ogr": "271",
+    "code_rome": "H2605",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "H2501",
+            "libelle_rome_cible": "Encadrement de production de mat\u00e9riel \u00e9lectrique et \u00e9lectronique"
+        },
+        {
+            "code_rome_cible": "I1305",
+            "libelle_rome_cible": "Installation et maintenance \u00e9lectronique"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">guide de haute montagne</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">travailler en contact avec la nature/faire du sport/travailler dehors/me déplacer souvent/pratiquer les langues vivantes/animer des activités culturelles, ludiques ou éducatives</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">indépendant/saisonnier</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction animation/fonction enseignement - éducation</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur du tourisme</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">animation sportive/spécialités sportives/tourisme sectoriel/animation tourisme</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE hôtellerie restauration tourisme loisirs/guide de haute montagne</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10255</lien_onisep>
+<ROME Level="1B" csRelFld="10255">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="220" csRelFld="220">
+<CSLABELFLD label="">G1201</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Animation d'activités de loisirs</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">G1201</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Accompagnement de voyages, d'activités culturelles ou sportives</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10255">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18179" csRelFld="18179">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18179</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10255</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Encadrement </inter>
+<p>Alpes, Himalaya, Andes... Rien ne fait peur à ce spécialiste de l'alpinisme ! Seul le guide de haute montagne est habilité à initier, encadrer, entraîner et conduire des personnes, en excursion ou en ascension (sur rocher, falaise, glace ou terrain mixte), en haute et moyenne montagne.</p>
+<inter>Enseignement </inter>
+<p>Le guide maîtrise et enseigne les techniques de sport : alpinisme, ski de montagne, cascade de glace, escalade, canyoning, via ferrata, parcours acrobatiques, randonnée à pied ou à raquettes à neige...</p>
+<inter>Assurer la sécurité </inter>
+<p>Au quotidien, le guide encadre surtout des groupes pour des courses réputées faciles ou pour l'ascension de sommets mythiques ! Quels que soient la technique sportive et l'itinéraire choisis, il veille en permanence à la sécurité de ses clients. Nourri de la culture et de l'histoire de la montagne, il n'hésite pas non plus à partager avec son auditoire récits et anecdotes sur ses premières ascensions.</p> </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18175" csRelFld="18175">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18175</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10255</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Le diplôme d'Etat d'alpinisme-guide de haute montagne est indispensable pour exercer le métier.</accr_p> L'ENSM (École nationale des sports de montagne) de Chamonix est la seule école habilitée à délivrer ce diplôme. L'examen d'entrée (probatoire) en formation est ouvert sans condition de diplôme aux candidats majeurs détenant le module « prévention et secours civiques » de niveau 1 (PSC1). Cependant, 2 guides sur 3 au moins ont le bac et 3 sur 10 un diplôme de l'enseignement supérieur. Le temps de préparation du diplôme varie entre 1 an et demi et 6 ans.</p>
+<p>La formation, organisée en alternance, comprend une partie générale liée aux métiers de la montagne et plusieurs stages. Les stagiaires guides peuvent exercer en pleine responsabilité leur activité avec certaines limitations.</p>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Diplôme d'Etat d'alpinisme-guide de haute montagne</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18176" csRelFld="18176">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18176</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10255</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Adaptation permanente</inter>
+<p>Les guides de haute montagne adaptent leur activité à l'évolution des disciplines sportives de pleine nature. Ils doivent aussi tenir compte de l'évolution des publics qu'ils encadrent (personnes handicapées, enfants...) comme de leur niveau de pratique. Tous les 6 ans, ils suivent un recyclage obligatoire portant notamment sur les nouveautés relatives aux techniques de progression ou aux technologies en matière de sécurité.</p>
+<inter>Revenus fluctuants</inter>
+<p>L'activité des guides dépend fortement des conditions météorologiques et de la conjoncture économique. Leurs frais professionnels s'avèrent importants (matériel, renouvellement, assurances...). Au tarif de leurs prestations il faut en général enlever un pourcentage reversé au bureau des guides ou à l'agence de tourisme.</p>
+<inter>Débuts tardifs</inter>
+<p>Depuis plusieurs années, l'entrée dans le métier se révèle tardive. La profession devrait cependant rajeunir car la récente rénovation de la formation vise notamment à accélérer l'obtention du diplôme. La durée d'exercice est limitée. Après 50 ans, les guides de haute montagne doivent se reconvertir. Ils se consacrent alors entièrement à leur profession parallèle ou entament une nouvelle activité. Actuellement, on compte 18 femmes sur 1 600 professionnels, contre 10 femmes en 2000.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De 240 à 300 euros par jour selon la saison et l'activité proposée.</p>
+<p>Très peu de guides sont salariés. Les salaires sont très variables selon les conditions d'exercice. Les honoraires sont libres pour les travailleurs indépendants, fixés pour chaque prestation selon l'activité, le massif, le sommet, le niveau de difficulté, le nombre de participants...</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

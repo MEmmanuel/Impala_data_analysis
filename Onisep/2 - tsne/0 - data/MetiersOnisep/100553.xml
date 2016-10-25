@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e efficacité énergétique du bâtiment</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller/convaincre, négocier/préserver l'environnement/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur sociétés d'ingénierie et d'études techniques/secteur gros oeuvre bâtiment</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">bâtiment - gros oeuvre/gestion de la consommation d'énergie/isolation/étanchéité/énergétique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE bâtiment gros oeuvre génie civil</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100553</lien_onisep>
+<ROME Level="1B" csRelFld="100553">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="176" csRelFld="176">
+<CSLABELFLD label="">F1106</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception et études</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">F1106</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Ingénierie et études du BTP</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100553">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="53484" csRelFld="53484">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53484</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100553</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Des études en tout genre...</inter>
+<p>Dès la conception d'un projet immobilier, l'ingénieur efficacité énergétique du bâtiment conseille les maîtres d'ouvrage sur les différents moyens de réduire la consommation d'énergie. Obtention de labels, étanchéité de l'air, étude thermique réglementaire, simulation dynamique... font partie de ses attributions. Il peut également intervenir sur des bâtiments existants pour tenter de faire baisser la facture énergétique, ou réaliser un bilan carbone pour une collectivité ou une entreprise.</p>
+<inter>... et des conseils sur mesure</inter>
+<p>À partir de ces études, et après avoir exercé une veille technologique sur les matériaux et les équipements les plus appropriés en termes d'économie de chauffage, d'électricité, de climatisation, etc. l'ingénieur efficacité énergétique du bâtiment préconise des solutions techniques propres à chaque projet de construction ou de rénovation. Il en supervise également la mise en oeuvre, après avoir chiffré le coût au préalable.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="53488" csRelFld="53488">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53488</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100553</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>La profession est ouverte aux titulaires d'un bac + 5 (master ou diplôme d'ingénieur) ayant réalisé au moins un stage dans le domaine, ou ayant une expérience en bureau d'études. La formation peut être complétée par un mastère spécialisé.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur en génie énergétique du bâtiment ; économie de la construction ; génie thermique, énergie et environnement ; génie climatique et énergétique...</itsimp>
+<itsimp>Master mention génie civil, énergie ; énergétique, thermique dans les domaines de l'ingénierie du bâtiment ou de l'habitat, l'énergétique et les écomatériaux, l'ingénierie du bâtiment et le développement durable... </itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 6</tete>
+<itsimp>Mastère en écomatériaux et construction durable ; efficacité énergétique dans la rénovation des bâtiments...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="53486" csRelFld="53486">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53486</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100553</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des perspectives, mais un contexte morose</inter>
+<p>Au vu des nouvelles réglementations qui imposent une maîtrise et une réduction des dépenses en énergie, les perspectives pour les ingénieurs efficacité énergétique du bâtiment sont au beau fixe. Cependant, dans le même temps, ces professionnels subissent de plein fouet la crise quand elle touche le secteur du bâtiment et de la construction.</p>
+<inter>Des atouts en plus : stage et anglais </inter>
+<p>Quoi qu'il en soit, cette spécialité représente encore des effectifs modestes. Les jeunes diplômés auront tout intérêt à effectuer au moins un stage dans ce domaine pour augmenter leurs chances d'être recrutés. Une parfaite maîtrise de l'anglais permettra une évolution vers l'international.</p>
+<inter>Expert au service de grandes structures</inter>
+<p>Après quelques années d'expérience, l'ingénieur efficacité énergétique du bâtiment peut piloter des études, voire des politiques énergétiques, dans les pays où ses clients sont implantés. Il peut aussi devenir conseiller en maîtrise de l'énergie pour une grande entreprise ou une collectivité territoriale.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2500</sal> à 2900 euros brut par mois.</p>
+<postit>
+<p>Source : Apec, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,523 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Assistant costumier / Assistante costumi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Assistant costumier / Assistante costumi\u00e8re",
+            "code_ogr": "11216"
+        },
+        {
+            "libelle_court": "Chef costumier / costumi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Chef costumier / costumi\u00e8re",
+            "code_ogr": "12017"
+        },
+        {
+            "libelle_court": "Chef habilleur / habilleuse",
+            "priorisation": "1",
+            "libelle": "Chef habilleur / habilleuse",
+            "code_ogr": "12570"
+        },
+        {
+            "libelle_court": "Concepteur / Conceptrice de costumes",
+            "priorisation": "1",
+            "libelle": "Concepteur / Conceptrice de costumes",
+            "code_ogr": "12815"
+        },
+        {
+            "libelle_court": "Costumier / Costumi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Costumier / Costumi\u00e8re",
+            "code_ogr": "13760"
+        },
+        {
+            "libelle_court": "Costumier-habilleur / Costumi\u00e8re-habilleuse",
+            "priorisation": "1",
+            "libelle": "Costumier-habilleur / Costumi\u00e8re-habilleuse",
+            "code_ogr": "13761"
+        },
+        {
+            "libelle_court": "Costumier-r\u00e9alisateur / Costumi\u00e8re-r\u00e9alisatrice",
+            "priorisation": "1",
+            "libelle": "Costumier-r\u00e9alisateur / Costumi\u00e8re-r\u00e9alisatrice",
+            "code_ogr": "13762"
+        },
+        {
+            "libelle_court": "Couturier / Couturi\u00e8re spectacle",
+            "priorisation": "1",
+            "libelle": "Couturier / Couturi\u00e8re spectacle",
+            "code_ogr": "13819"
+        },
+        {
+            "libelle_court": "Cr\u00e9ateur / Cr\u00e9atrice de costumes",
+            "priorisation": "1",
+            "libelle": "Cr\u00e9ateur / Cr\u00e9atrice de costumes",
+            "code_ogr": "13833"
+        },
+        {
+            "libelle_court": "D\u00e9corateur-costumier / D\u00e9coratrice-costumi\u00e8re",
+            "priorisation": "1",
+            "libelle": "D\u00e9corateur-costumier / D\u00e9coratrice-costumi\u00e8re",
+            "code_ogr": "13911"
+        },
+        {
+            "libelle_court": "Habilleur / Habilleuse",
+            "priorisation": "1",
+            "libelle": "Habilleur / Habilleuse",
+            "code_ogr": "15462"
+        },
+        {
+            "libelle_court": "R\u00e9gisseur / R\u00e9gisseuse costumes",
+            "priorisation": "1",
+            "libelle": "R\u00e9gisseur / R\u00e9gisseuse costumes",
+            "code_ogr": "18402"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "R\u00e9aliser ou adapter les patrons des costumes \u00e0 partir des mesures des interpr\u00e8tes",
+            "code_ogr": "2165",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Couper les tissus, monter les costumes, les syst\u00e8mes de fermeture rapide (velcro, ...) selon les indications de la maquette, du patron",
+            "code_ogr": "1209",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier le bien-aller des costumes et r\u00e9aliser les retouches, les finitions",
+            "code_ogr": "3439",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Installer les costumes des interpr\u00e8tes dans la loge, selon la chronologie du spectacle",
+            "code_ogr": "2686",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habiller les interpr\u00e8tes, les mannequins, les intervenants, avant et pendant le spectacle, le tournage",
+            "code_ogr": "2009",
+            "code_type_activite": "2",
+            "riasec_majeur": "A",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien des costumes, des chaussures et les raccommodages",
+            "code_ogr": "1589",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "B1801",
+            "libelle_rome_cible": "R\u00e9alisation d'articles de chapellerie"
+        },
+        {
+            "code_rome_cible": "B1803",
+            "libelle_rome_cible": "R\u00e9alisation de v\u00eatements sur mesure ou en petite s\u00e9rie"
+        },
+        {
+            "code_rome_cible": "B1805",
+            "libelle_rome_cible": "Stylisme"
+        },
+        {
+            "code_rome_cible": "D1206",
+            "libelle_rome_cible": "R\u00e9paration d'articles en cuir et mat\u00e9riaux souples"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac (Bac professionnel, ...) en couture et mode.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle en couture sans dipl\u00f4me particulier.\nLes recrutements sont ouverts sur contrats de travail \u00e0 dur\u00e9e d\u00e9termin\u00e9e d'usage ou sur vacation, parfois sur contrats de travail \u00e0 dur\u00e9e ind\u00e9termin\u00e9e pour les structures permanentes.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Adapter ou fabriquer des accessoires de costumes :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accessoires de jeu (\u00e9p\u00e9e, couteau, masque, armure, ...)",
+            "code_ogr": "3674",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Articles chaussants (gu\u00eatres, bottes, chaussures, ...)",
+            "code_ogr": "3675",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Articles de maroquinerie (sac \u00e0 main, ceinture, ...)",
+            "code_ogr": "3676",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bijoux",
+            "code_ogr": "3677",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chapeaux",
+            "code_ogr": "3678",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Concevoir les costumes des interpr\u00e8tes d'un spectacle, d'un tournage selon les indications (\u00e9poque, sc\u00e9nario, th\u00e8me, ...)",
+            "code_ogr": "4023",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des maquettes de costumes et \u00e9tablir des devis de r\u00e9alisation (co\u00fbt du tissu, m\u00e9trage, fa\u00e7on, ...)",
+            "code_ogr": "8517",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9finir les conditions de r\u00e9alisation des costumes d'un spectacle, d'un tournage (temps de r\u00e9alisation, logistique, moyens, ...)",
+            "code_ogr": "4534",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Teindre des mati\u00e8res (plume, tissu, fourrure, ...)",
+            "code_ogr": "9964",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9corer des costumes par des techniques en trompe l'oeil (pochoir, vaporisation, empreinte, ...)",
+            "code_ogr": "4442",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et contr\u00f4ler l'\u00e9tat du stock de costumes (conservation, entr\u00e9e/sortie, ...)",
+            "code_ogr": "9701",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de salles de spectacles, d'entreprises artisanales, de soci\u00e9t\u00e9s de production de spectacles, ...en relation avec diff\u00e9rentes \u00e9quipes techniques (d\u00e9cor, maquillage, \u00e9clairage, ...), parfois en contact avec le r\u00e9alisateur, le metteur en sc\u00e8ne, le producteur.\nElle peut impliquer des d\u00e9placements (tourn\u00e9es, tournages, ...) et un \u00e9loignement du domicile de plusieurs jours.\nElle varie selon les caract\u00e9ristiques du projet (nombre et type de costumes, genre du spectacle, du film, ...).\nElle peut s'exercer en horaires d\u00e9cal\u00e9s, les fins de semaine, jours f\u00e9ri\u00e9s, en soir\u00e9e.\nL'activit\u00e9 s'effectue en atelier, en coulisses, en loge et peut impliquer la manipulation de charges.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Couture manuelle",
+            "code_ogr": "20832",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Prise de mesures",
+            "code_ogr": "21061",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de machine de confection",
+            "code_ogr": "21292",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "D\u00e9coupe de mati\u00e8re (cuir, latex, feutre, ...)",
+            "code_ogr": "20843",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Calcul de m\u00e9trage",
+            "code_ogr": "20803",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Cabaret",
+            "code_ogr": "23737",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Cirque",
+            "code_ogr": "23805",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Compagnie artistique (th\u00e9\u00e2tre, danse, arts de la rue, ...)",
+            "code_ogr": "23821",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise artisanale",
+            "code_ogr": "23870",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Parc de loisirs",
+            "code_ogr": "24029",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Salle de spectacles",
+            "code_ogr": "24059",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de production audiovisuelle, cin\u00e9matographique",
+            "code_ogr": "24086",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de production de spectacles",
+            "code_ogr": "24087",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Village vacances",
+            "code_ogr": "24128",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Audiovisuel",
+            "code_ogr": "23409",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Cin\u00e9ma",
+            "code_ogr": "23441",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Mode",
+            "code_ogr": "23562",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Spectacle vivant",
+            "code_ogr": "23639",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Tourisme",
+            "code_ogr": "23652",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de patronage",
+            "code_ogr": "23022",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de coupe de textile, cuir",
+            "code_ogr": "22858",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de montage des costumes",
+            "code_ogr": "22991",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'essayage",
+            "code_ogr": "22464",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'habillage",
+            "code_ogr": "23212",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Codes et symboles d'entretien des textiles",
+            "code_ogr": "21730",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des produits d'entretien textile",
+            "code_ogr": "21644",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de repassage",
+            "code_ogr": "23097",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de montage en chapellerie",
+            "code_ogr": "22994",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Styles de costumes (grotesque, contemporain, historique)",
+            "code_ogr": "22729",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Terminologie du costume",
+            "code_ogr": "23276",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des tissus et mati\u00e8res textiles",
+            "code_ogr": "21665",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de teinture des tissus, des mati\u00e8res",
+            "code_ogr": "23137",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de d\u00e9cor des costumes",
+            "code_ogr": "22875",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de patine des costumes",
+            "code_ogr": "23021",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nFabrique et entretient les costumes (contemporains, historiques, grotesques) pour des spectacles, des tournages selon les imp\u00e9ratifs de la production. Habille des interpr\u00e8tes (com\u00e9diens, chanteurs, danseurs, ...), des intervenants (pr\u00e9sentateurs, animateurs, ...), des mannequins selon la chronologie des tournages, des spectacles, des d\u00e9fil\u00e9s.\nPeut concevoir des costumes.\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "Costume et habillage spectacle",
+    "code_ogr": "448",
+    "code_rome": "L1502",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "H1205",
+            "libelle_rome_cible": "\u00c9tudes - mod\u00e8les en industrie des mat\u00e9riaux souples"
+        }
+    ]
+}

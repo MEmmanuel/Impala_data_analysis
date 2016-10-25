@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">vendeur/euse en micro-informatique et multimédia</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire du commerce/convaincre, négocier</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction vente</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur commerce</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">multimédia/micro informatique/commerce non alimentaire</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE commerce distribution/vendeur en micro-informatique et multimédia</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100366</lien_onisep>
+<ROME Level="1B" csRelFld="100366">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="117" csRelFld="117">
+<CSLABELFLD label="">D1212</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Commerce non alimentaire et de prestations de confort</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">D1212</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Vente en décoration et équipement du foyer</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100366">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="32017" csRelFld="32017">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">32017</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100366</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Vendre et conseiller</inter>
+<p>Quel ordinateur acheter ? Comment faire le bon choix parmi les 20 imprimantes exposées ? Quel est le fournisseur d'accès à Internet le plus compétitif ? Quel câble choisir pour raccorder un ensemble home cinéma à un PC ? Autant de questions auxquelles le vendeur en micro-informatique et multimédia a l'habitude de répondre. Qu'il travaille dans un magasin spécialisé ou au sein d'une enseigne de la grande distribution, son rôle est le même : accueillir les clients, analyser leurs besoins en tenant compte de leur budget, et les conseiller sur l'achat d'un produit.</p>
+<inter>Gérer et accompagner</inter>
+<p>Le vendeur est souvent un démonstrateur de matériels. Outre les objectifs commerciaux qu'il doit atteindre, il est responsable de la tenue du rayon, du bon emplacement des étiquettes... Il peut donner son avis sur les commandes et s'occuper du réapprovisionnement des stocks. Il peut également accompagner le client dans son achat en proposant un service après-vente, une assistance téléphonique, des solutions de financement. Éventuellement, il procède à l'encaissement des articles.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="32021" csRelFld="32021">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">32021</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100366</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>On peut débuter avec un bac pro vente ou commerce, avec le bac techno STMG spécialité mercatique (marketing) ou d'autres fomations de niveau IV (FCIL ou titre RNCP). Mais les employeurs recrutent principalement les titulaires d'un BTS ou d'un DUT dans les domaines de la vente ou des techniques de commercialisation.</accr_p> Ces diplômés pourront évoluer assez rapidement vers des fonctions d'encadrement d'équipe (en tant que chef de rayon, par exemple).</p>
+<liste>
+<tete>Niveau bac + 1</tete>
+<itsimp>FCIL vendeur de produits multimédia</itsimp>
+<itsimp>Vendeur de l'électrodomestique et du multimédia</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>
+<em>BTS</em> MUC (management des unités commerciales)</itsimp>
+<itsimp>BTS NRC (négociation et relation client)</itsimp>
+<itsimp>
+<em>DUT</em> TC (techniques de commercialisation)</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="32019" csRelFld="32019">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">32019</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100366</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un marché en forte croissance</inter>
+<p>En France, le taux d'équipement des ménages en produits informatiques, multimédias et numériques atteint un niveau record et va continuer à progresser. Les ventes d'ordinateurs, de tablettes et d'appareils photo numériques explosent. En dépit de la concurrence du commerce électronique, les magasins spécialisés et les hypermarchés offrent de nombreux emplois de vendeur en micro-informatique et multimédia.</p>
+<inter>Évolution de carrière</inter>
+<p>Le vendeur en micro-informatique et multimédia peut devenir, après quelques années d'expérience, chef de rayon informatique et/ou multimédia ou responsable de département. En développant ses compétences techniques, il peut également s'orienter vers les fonctions de maintenance ou d'assistance informatique aux utilisateurs.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>1500</sal> à 1800 euros brut par mois.</p>
+<postit>
+<p>source : Apec, 2011</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

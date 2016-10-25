@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">chargé/e de valorisation de la recherche</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">convaincre, négocier</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur recherche/secteur fonction publique/secteur de l'éducation</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">droit de la propriété intellectuelle</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100666</lien_onisep>
+<ROME Level="1B" csRelFld="100666">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100666">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56686" csRelFld="56686">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56686</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100666</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Un rôle d'interface</inter>
+<p>Quand un chercheur est à l'origine d'une découverte ou d'une invention, le chargé de valorisation de la recherche intervient pour protéger ses travaux via un dépôt de brevet et pour lui trouver une application industrielle. Il recueille et analyse les besoins du chercheur, évalue son projet et l'accompagne dans les différentes étapes (appel à projet, recherche de partenaires...). Il négocie des collaborations ou des licences avec des partenaires privés ou publics.</p>
+<inter>Des fonctions variées</inter>
+<p>Transfert de technologie, analyse marketing, aide à la création d'entreprise... il intervient dans plusieurs domaines. Il négocie et rédige des contrats de recherche, de prestations ou de licences liés à la valorisation. Il assure les relations entre les laboratoires de son établissement et les partenaires extérieurs, au niveau national ou international.</p>
+<inter>Une veille scientifique et technologique</inter>
+<p>Il se tient régulièrement au courant des résultats des recherches et des progrès accomplis par son établissement : technologies permettant la création de nouveaux matériaux, médicaments, environnements... Il établit des bilans, des rapports, mène des actions d'information sur les réglementations, les procédures, les aides publiques auprès des personnels et des partenaires extérieurs.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56690" csRelFld="56690">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56690</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100666</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>L'accès au métier se fait avec un bac + 5 (diplôme d'ingénieur, master) ou un doctorat en rapport avec le domaine concerné. Une double compétence (sciences-management, commerce-communication...) est un plus.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur</itsimp>
+<itsimp>Master en management de l'innovation ; droit de la propriété intellectuelle ; innovation, entreprise et société...</itsimp>
+<itsimp>Doctorat</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56688" csRelFld="56688">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56688</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100666</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Dans la fonction publique</inter>
+<p>Le chargé de valorisation de la recherche exerce dans les organismes de recherche (CNRS-Centre national de la recherche scientifique, Inserm-Institut national de la santé et de la recherche médicale, CEA-Commissariat à l'énergie atomique et aux énergies alternatives...), les universités et laboratoires de recherche de l'enseignement supérieur. Il est recruté sur concours ou en CDD (contrat à durée déterminée). Il peut également être employé par certains grands groupes privés ou des associations locales ou nationales de valorisation de la recherche. Il dépend du directeur du laboratoire ou du directeur du département recherche et développement.</p>
+<inter>Un métier en développement</inter>
+<p>La prise de conscience des entreprises de la nécessité d'innover a provoqué le développement du secteur de la valorisation de la recherche et notamment des formations spécialisées (masters), encore peu nombreuses.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1713</sal> euros brut par mois.</p>
+<postit>
+<p>Source : ministère de l'Enseignement supérieur et de la Recherche.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

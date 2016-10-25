@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">journaliste reporter d'images </MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">enquêter, rechercher, analyser l'information/travailler à l'étranger/me déplacer souvent/informer, communiquer</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/indépendant</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur de l'audiovisuel/secteur édition - presse</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">journalisme de radio télévision</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques de la communication média/journaliste reporter d'images</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10198</lien_onisep>
+<ROME Level="1B" csRelFld="10198">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="148" csRelFld="148">
+<CSLABELFLD label="">E1106</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Edition et communication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">E1106</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Journalisme et information média</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10198">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16484" csRelFld="16484">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16484</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10198</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Proposer un sujet, mener une enquête préalable</inter>
+<p>Le JRI est d'abord journaliste. Il propose des sujets à sa rédaction et prend les contacts nécessaires pour réaliser un reportage. Il mène un travail d'enquête, puis cale les interviews. Ce professionnel de l'information tourne des sujets d'actualité s'il travaille pour un journal télévisé, mais peut également réaliser des magazines pour une chaîne de télévision ou pour le compte d'une société de production. </p>
+<inter>Tourner, rédiger, monter  </inter>
+<p>Une fois son projet de reportage « calé », le JRI se rend sur le terrain. Caméra à la main ou à l'épaule, il tourne son sujet. Il mène les interviews, prend le son à l'aide d'un micro et enregistre les images. Ensuite, il se charge du montage et du commentaire sur images, pour donner une cohérence au reportage. S'il prend en charge ces trois étapes (réalisation, rédaction et montage), il est dit « triqualifié ».</p>
+<inter>Parfois en binôme</inter>
+<p>Le JRI peut aussi être accompagné d'un journaliste sur le terrain, appelé rédacteur-reporter. C'est ce dernier qui mènera les interviews, rédigera le commentaire sur images et assurera le montage (à moins de se faire aider d'un monteur), avant d'enregistrer le commentaire audio (mixage). Le JRI, lui, réalisera les prises de vues et de son. On retrouve le binôme JRI-rédacteur dans les grandes chaînes de télévision. Le JRI triqualifié sera davantage employé dans des chaînes locales ou d'info en continu.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16485" csRelFld="16485">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16485</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10198</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Les écoles de journalisme reconnues par la profession constituent la voie la plus sûre pour accéder au métier de JRI : l'ESJ à Lille ; le CFJ à Paris, l'IPJ, l'École de journalisme de Sciences Po, le Celsa, l'IFP à Paris ; le Cuej à Strasbourg ; l'IJBA à Bordeaux ; l'EJDG à Grenoble ; l'EJT à Toulouse ; l'EJCAM à Marseille ; et les trois départements information-communication option journalisme des IUT (instituts universitaires de technologie) de Tours (EPJT), de Lannion et de Nice. L'entrée se fait sur concours, très sélectifs, accessibles aux titulaires d'un bac pour le DUT (diplôme universitaire de technologie), d'un bac + 2 pour la licence pro de Tours, et d'un bac + 3 pour les autres écoles (dans la réalité, la majorité des admis possède un niveau bac + 4, voire + 5). Certaines écoles proposent une formation spécifique au métier de JRI (ESJ, CFJ...). Des écoles privées et des masters peuvent également mener au journalisme.</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>DUT information-communication option journalisme</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licences pro Métiers de l'information : métiers du journalisme et de la presse</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 4/5</tete>
+<itsimp>Diplômes d'écoles de journalisme reconnues par la profession </itsimp>
+<itsimp>Diplômes d'écoles privées en journalisme et en audiovisuel</itsimp>
+<itsimp>Masters Journalisme, Science politique ...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16492" csRelFld="16492">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16492</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10198</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Télévision, sociétés de production...</inter>
+<p>Les JRI sont employés par des chaînes de télévision, des agences de presse audiovisuelle, des sociétés de production... La majorité des professionnels travaille pour la télévision (72 %). Les journalistes reporters d'images exerçant pour le compte de sociétés de production et d'agences de presse audiovisuelle représentent, eux, près de 11 % du total des JRI (chiffres 2011, CCIJP).</p>
+<inter>Des débuts précaires</inter>
+<p>Le travail à la pige (rémunération forfaitaire au reportage ou à la journée de travail) est un passage quasi obligé pour les débutants. En effet, les entreprises audiovisuelles font appel à leurs services de manière ponctuelle. Ils doivent faire leurs preuves, montrer leurs compétences et devenir collaborateurs réguliers avant d'intégrer les équipes permanentes, en CDD (contrat à durée déterminée), puis en CDI (contrat à durée indéterminée). Il est possible d'exercer en tant qu'indépendant et de vendre ses documentaires à une société de production, à une chaîne ou à une agence.</p>
+<inter>Rémunération et salaires variables</inter>
+<p>Dans le monde des médias, c'est dans le secteur de la production et des agences de presse audiovisuelle que la moyenne des salaires et des piges est la plus élevée (plus de 4 500 euros par mois en CDI et 3 000 euros pour les pigistes), suivi de la télévision (plus de 4 000 euros par mois en CDI et 2 500 pour les pigistes). </p>
+<postit>
+<p>(Source : « Les journalistes encartés en 2011 », CCIJP).</p>
+</postit>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De 84 à 102 euros brut par jour en pige</p>
+<postit>
+<p>(source : grille des salaires, agences audiovisuelles, SNJ, mai 2012).</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">employé/e de restaurant</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/saisonnier</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction nettoyage, assainissement/fonction vente</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur restauration/secteur hôtellerie</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">service salle/cuisine</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE hôtellerie restauration tourisme loisirs/employé de restaurant</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10158</lien_onisep>
+<ROME Level="1B" csRelFld="10158">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="250" csRelFld="250">
+<CSLABELFLD label="">G1801</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Service</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">G1801</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Café, bar brasserie</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="252" csRelFld="252">
+<CSLABELFLD label="">G1803</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Service</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">G1803</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Service en restauration</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10158">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="901" csRelFld="901">
+<CSLABELFLD label="">barman / barmaid</CSLABELFLD>
+<MET_ID label="Identifiant">10158</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">05/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">901</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">barman (barmaid)</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="901">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="902" csRelFld="902">
+<CSLABELFLD label="">chef de rang</CSLABELFLD>
+<MET_ID label="Identifiant">10158</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">05/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">902</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chef/fe de rang</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="902">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="903" csRelFld="903">
+<CSLABELFLD label="">maître / maîtresse d'hôtel</CSLABELFLD>
+<MET_ID label="Identifiant">10158</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">05/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">903</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">maître/esse d'hôtel</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="903">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="904" csRelFld="904">
+<CSLABELFLD label="">sommelier / sommelière</CSLABELFLD>
+<MET_ID label="Identifiant">10158</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">05/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">904</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">sommelier/ère</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="904">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16042" csRelFld="16042">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16042</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10158</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Préparer la salle</inter>
+<p>Dans les grands restaurants, l'employé assume des responsabilités bien définies. Par exemple, avant l'arrivée des clients, il prépare les tables du rang auquel il est attaché, dresse le couvert et vérifie la propreté des nappes. Pour le service à la table du client, il reçoit du chef de rang la commande prise par le maître d'hôtel et se charge de la transmettre en cuisine.</p>
+<inter>Élaborer des plats simples</inter>
+<p>Il peut aussi élaborer des mets relativement simples (hors-d'oeuvre, salades, pizzas, crêpes, certains desserts, glaces...) et préparer les boissons. Il peut encore s'occuper du ravitaillement (plats ou produits culinaires) et aider en cuisine.</p>
+<inter>Accueillir et encaisser</inter>
+<p>Quand il assure l'accueil des clients, il les accompagne à leur table et veille constamment à ce qu'ils ne manquent de rien. Il les conseille pour choisir leur menu et prend leur commande. En fin de repas, il apporte l'addition et procède à l'encaissement.</p>
+<inter>Être polyvalent</inter>
+<p>Dans un petit établissement, il est à la fois à l'accueil et au service. Naviguant sans cesse entre la salle et la cuisine, il exerce toutes les fonctions qui, dans un grand restaurant, sont assumées par des personnels spécialisés.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16049" csRelFld="16049">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16049</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10158</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Même si ce métier est accessible sans condition particulière d'expérience ou de formation, l'obtention de certains diplômes constitue un atout certain sur le marché du travail.</p>
+<liste>
+<tete>Niveau 3<exp>e</exp>
+</tete>
+<itsimp>CAP restaurant </itsimp>
+</liste>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>Bac pro commercialisation et services en restauration </itsimp>
+<itsimp>Bac techno sciences et technologies de l'hôtellerie et de la restauration</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16045" csRelFld="16045">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16045</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10158</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>De nombreux emplois</inter>
+<p>Dans la profession, le travail ne manque pas ! On compte de nombreux postes de serveurs en France, et le secteur est marqué par une importante rotation du personnel. L'emploi saisonnier concerne surtout les jeunes. </p>
+<inter>Évolution possible </inter>
+<p>L'employé de restaurant peut devenir, après quelques années d'expérience, chef de rang, puis maître d'hôtel. En restauration rapide ou collective à caractère commercial, une promotion est possible sur un poste de gérant. L'employé de restaurant peut aussi devenir sommelier ou barman.</p>
+<inter>Débouchés dans les chaînes de restauration</inter>
+<p>Pour évoluer, l'employé de restaurant doit souvent faire preuve de mobilité géographique. Les chaînes hôtelières ou de restaurants sont en demande constante. Souvent, elles préfèrent faire appel à du personnel expérimenté et déjà en place.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>A partir du <sal>Smic</sal> et jusqu'à 1600 euros brut par mois (selon la durée du temps de travail).</p>
+<postit>
+<p>Source : Convention collective nationale des hôtels, cafés, restaurants (HCR) du 30 avril 1997, classification des emplois, avenant salaires 2011.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

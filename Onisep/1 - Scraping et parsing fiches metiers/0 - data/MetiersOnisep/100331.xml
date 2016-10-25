@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">façadier/ère</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">travailler dehors/me déplacer souvent/exercer un travail manuel</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur second oeuvre bâtiment</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">étanchéité/façade</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE bâtiment équipements et finitions/façadier</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100331</lien_onisep>
+<ROME Level="1B" csRelFld="100331">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="205" csRelFld="205">
+<CSLABELFLD label="">F1611</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Second oeuvre</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">F1611</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Réalisation et restauration de façades</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100331">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="30752" csRelFld="30752">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30752</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100331</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Préparation des enduits</inter>
+<p>Après avoir monté l'échafaudage, le façadier protège soigneusement portes et fenêtres. Dans une machine à malaxer, il mélange des mortiers prêts à l'emploi avec de l'eau et du sable. Puis projette à la lance l'enduit obtenu sur les murs. Il peut aussi appliquer successivement et manuellement différents enduits qu'il prépare lui-même.</p>
+<inter>L'art de la finition</inter>
+<p>Le façadier répartit l'enduit sur la façade vite et régulièrement. Puis, à l'aide d'une taloche, l'aplanit d'un mouvement de bras toujours circulaire. Sans oublier un centimètre carré. Sur une façade, le moindre défaut se voit.</p>
+<inter>Isolation et décoration</inter>
+<p>Le façadier est également amené à fixer, par collage et chevillage, des plaques d'isolation thermique à l'extérieur, à appliquer des produits liquides d'étanchéité, à fixer des accessoires décoratifs d'encadrement de fenêtres et de portes, à poser du carrelage, à peindre, à restaurer de vieilles façades...</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="30756" csRelFld="30756">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30756</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100331</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<inter>Se spécialiser sur le tas</inter>
+<p>Le façadier est un ouvrier du bâtiment titulaire d'un CAP.</p>
+<liste>
+<itsimp>CAP est préparé en 2 ans après la classe de 3<exp>e</exp> , dans un lycée professionnel ou par apprentissage : CAP maçon, CAP plâtrier-plaquiste, CAP peintre, applicateur de revêtement éventuellement.</itsimp>
+</liste>
+<p>Une spécialisation sur le tas est bien souvent nécessaire avant d'occuper les fonctions de façadier.</p>
+<liste>
+<itsimp>À noter que l'AFPA (Association de formation professionnelle des adultes) propose aux jeunes sortis du système scolaire et à la recherche d'une nouvelle orientation professionnelle une formation de façadier-peintre 6 mois environ.</itsimp>
+<itsimp>Les titulaires de bac STI2D (développement durable) et de certains bacs pro du bâtiment (notamment bac pro aménagement et finition du bâtiment) peuvent préparer, en deux ans, le BTS enveloppe du bâtiment, façades étanchéité. Ces techniciens supérieurs interviennent sur toutes les composantes de l'enveloppe du bâtiment (toiture, façade, menuiserie, charpente métallique...). Ils peuvent travailler en bureau d'études, établir les devis, organiser et suivre les travaux.</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="30754" csRelFld="30754">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30754</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100331</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Manque de professionnels</inter>
+<p>On compte en France environ 15 000 façadiers employés dans les PME de peinture et ravalement, dans des agences d'intérim ou dans des entreprises spécialisées dans les enduits. Au nombre de 2 000, ces dernières vont de l'entreprise artisanale à la PME de 25 salariés. Partout, on manque de bras.</p>
+<inter>Primes de rendement</inter>
+<p>Les professionnels travaillant dans la construction neuve peuvent être payés au mètre carré enduit. Plus le temps est sec, plus leurs primes de rendement sont importantes. Leur salaire peut donc varier du simple au double entre l'hiver et l'été.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir du <sal>Smic</sal>.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

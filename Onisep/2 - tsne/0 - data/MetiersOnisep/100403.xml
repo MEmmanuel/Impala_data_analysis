@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">conseiller/ère espace info-énergie</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller/convaincre, négocier</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur énergie/secteur environnement</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">énergie thermique/équipement technique du bâtiment/énergie renouvelable/gestion de la consommation d'énergie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE nettoyage assainissement environnement sécurité/conseiller espace info-énergie</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100403</lien_onisep>
+<ROME Level="1B" csRelFld="100403">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100403">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="34603" csRelFld="34603">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">34603</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100403</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Promouvoir les énergies</inter>
+<p>Les missions du conseiller info-énergie sont centrées sur la promotion de l'efficacité énergétique et des énergies renouvelables dans l'habitat. À l'espace info-énergie, il répond aux demandes d'information du public. Accueil physique, courriel, téléphone... ce pro du conseil de proximité sait convaincre les particuliers de l'utilité d'un chauffage solaire ou d'une installation géothermique.</p>
+<inter>Apprendre à économiser</inter>
+<p>Le conseiller info-énergie a un rôle éducatif important. Pour régler des problèmes de surconsommation d'électricité, de chauffage ou d'eau, il apprend les petits gestes quotidiens qui permettent d'économiser. Éduquer à de nouvelles pratiques pour consommer moins : c'est son rôle.</p>
+<inter>Fournir un appui technique</inter>
+<p>Conseiller, il n'en est pas moins un technicien averti. Pour la production d'eau chaude ou de chauffage d'origine renouvelable (bois, solaire) d'une maison (en construction ou ancienne), il apporte des solutions concrètes en rédigeant des dossiers d'aide à la décision. Il oriente les particuliers vers les professionnels locaux compétents.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="34607" csRelFld="34607">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">34607</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100403</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Plus de 85 % des conseillers info-énergie sont titulaires d'un diplôme de niveau bac + 2 ou + 3.</accr_p> Dans ce domaine, une expérience dans l'animation apporte toujours un plus. Un diplôme en économie sociale et familiale, doublé d'une formation technique dans les énergies renouvelables convient aussi.</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>
+<em>BTS</em> fluides, énergies, environnements, options génie sanitaire et thermique ; génie climatique ; génie frigorifique ; maintenance et gestion des systèmes fluidiques et énergétiques ;</itsimp>
+<itsimp>
+<em>DUT</em> génie thermique et énergie ; génie civil, option génie climatique et équipements du bâtiment ;</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>
+<em>Licence pro</em> à dominante technique orientées vers la valorisation des énergies renouvelables et le développement durable : aménagement du territoire et urbanisme (Aix-Marseille 1, Caen, Perpignan) ; énergie et génie climatique (Aix-Marseille 3, Angers, Antilles-Guyane, Marne-la-Vallée, Poitiers, Toulouse 3) ; bâtiment et construction (Amiens) ; électricité et électronique (Le Havre, Rennes 1) ; génie civil et construction (Lyon 1) ; production industrielle (Clermont-Ferrand, Nancy 2)...</itsimp>
+</liste>
+<p/>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="34605" csRelFld="34605">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">34605</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100403</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Dans les associations</inter>
+<p>La plupart des conseillers info-énergie travaillent dans les « espaces info-énergie ». </p>
+<p>Ils sont également accueillis dans les associations de promotion des énergies renouvelables et l'amélioration de l'habitat (ALE, EIE, PACT, ADIL), agences de l'énergie, syndicats d'électricité, collectivités locales.</p>
+<inter>Des postes en développement</inter>
+<p>Même si le nombre de postes de conseiller info-énergie est limité, ce métier est appelé à se développer pour deux raisons. La question d'économie d'énergie constitue désormais une préoccupation majeure dans la société. L'intégration des énergies renouvelables dans l'habitat va devenir une nécessité. </p>
+<inter>Vers une action élargie</inter>
+<p>À terme, les missions du conseiller info-énergie devraient s'élargir. Collecte sélective des déchets ménagers, rationalisation des transports en commun, incitation au covoiturage, aménagement de la voirie, récupération des eaux pluviales... pourraient relever de ses compétences.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1600</sal> euros brut par mois.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

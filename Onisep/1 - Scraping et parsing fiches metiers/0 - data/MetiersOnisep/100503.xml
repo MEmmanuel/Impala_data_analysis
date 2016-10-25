@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">assistant/e dentaire</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction administrative</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur santé/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">assistance dentaire/secrétariat - assistanat</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE médical paramédical travail social soins personnels/assistant dentaire</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100503</lien_onisep>
+<ROME Level="1B" csRelFld="100503">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="416" csRelFld="416">
+<CSLABELFLD label="">J1303</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Professionnels médico-techniques</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">J1303</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Assistance médico-technique</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100503">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="997" csRelFld="997">
+<CSLABELFLD label="">assistant dentaire spécialisé / assistante dentaire spécialisée en orthopédie dento-faciale</CSLABELFLD>
+<MET_ID label="Identifiant">100503</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">997</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">assistant/e dentaire spécialisé/e en orthopédie dento-faciale</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="997">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="47454" csRelFld="47454">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">47454</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100503</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Un collaborateur technique</inter>
+<p>Il prépare l'ensemble des instruments nécessaires à l'intervention, les amalgames et ciments pour sceller une couronne, les pâtes pour prendre des empreintes... L'hygiène est sa priorité : sans relâche, il désinfecte, nettoie, stérilise et range le matériel utilisé pour les soins. L'entretien du mobilier dentaire lui incombe également.</p>
+<inter>Très à l'écoute</inter>
+<p>Une certaine complicité est nécessaire entre le chirurgien-dentiste et son assistant. Il faut être capable de lui donner au bon moment ce dont il a besoin pour effectuer les soins au fauteuil. De plus, l'assistant réconforte les patients et les sensibilise en matière d'hygiène bucco-dentaire. Il existe une forte complémentarité entre la partie relationnelle et le côté plus technique du métier.</p>
+<inter>Des tâches administratives</inter>
+<p>Répondre au téléphone, prendre les rendez-vous, tenir à jour les dossiers médicaux, établir des devis de prothèse, assurer la liaison avec les organismes sociaux, encaisser les paiements, gérer les stocks et les commandes : l'assistant dentaire remplit des missions de secrétariat. Il gère également les relations avec le prothésiste dentaire et les fournisseurs.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="47458" csRelFld="47458">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">47458</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100503</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Pour obtenir le statut d'assistant dentaire, il faut obtenir le titre du même nom. Ce dernier se prépare uniquement en cours d'emploi : il faut donc avoir trouvé au préalable un employeur. Autres conditions : être âgé de 18 ans au moins et être titulaire du DNB (diplôme national du brevet) ou d'un diplôme équivalent (qualification d'aide dentaire, formation de 12 mois après le DNB ou une classe de 3<exp>e</exp> validée).</p>
+<p>La formation d'assistant dentaire est dispensée sur 18 mois dans un centre de formation habilité par la CPNE-FP (Commission paritaire nationale de l'emploi et de la formation professionnelle) des cabinets dentaires libéraux. Elle se déroule en contrat de professionnalisation. Elle est accessible dans le cadre de la VAE (validation des acquis de l'expérience), à condition de justifier d'une expérience professionnelle de 3 ans en rapport avec cette activité. </p>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>Titre d'assistant dentaire</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="47456" csRelFld="47456">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">47456</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100503</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des emplois stables </inter>
+<p>Un assistant dentaire reste dans le même cabinet entre 10 et 14 ans, en moyenne. Les postes à pourvoir sont répartis sur l'ensemble du territoire et les chirurgiens-dentistes sont nombreux à rechercher ces collaborateurs.</p>
+<inter>Vente ou secrétariat</inter>
+<p>L'assistant dentaire peut se réorienter vers des activités commerciales pour le compte de laboratoires ou de fournisseurs en matériel dentaire. Des métiers proches sont accessibles, à condition de mettre à niveau ses compétences : l'Afpa (Association pour la formation professionnelle des adultes) délivre, par exemple, un titre de secrétaire ou d'assistant médico-social. Les poursuites d'études sont envisageables, le certificat d'assistant dentaire étant certifié au niveau IV (niveau bac).</p>
+<inter>Se spécialiser grâce à la formation continue</inter>
+<p>Parodontologie, implantologie, chirurgie, orthopédie dento-faciale, hygiène bucco-dentaire... la CNQAOS (Commission nationale de qualification des assistants en odonto-stomatologie) permet d'élargir le champ de ses compétences grâce à la formation professionnelle continue.</p>
+<remun>
+<p>90 % du Smic pour les moins de 26 ans, durant leur formation. Le Smic pour les plus de 26 ans.</p>
+<p>
+<sal>1500</sal> euros pour les diplômés, mais le salaire réel est toujours négocié entre l'employeur et le salarié.</p>
+<p>Une prime de secrétariat de 155 euros est fixée dans le cadre de la convention collective nationale des cabinets dentaires pour des travaux plus complexes (précomptabilité du cabinet, par exemple). Une prime d'ancienneté est versée tous les 3 ans.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

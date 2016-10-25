@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">cartographe</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire du dessin</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique/secteur sociétés d'ingénierie et d'études techniques</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">cartographie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit/cartographe</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10284</lien_onisep>
+<ROME Level="1B" csRelFld="10284">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="606" csRelFld="606">
+<CSLABELFLD label="">M1808</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Systèmes d'information et de télécommunication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1808</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Information géographique</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10284">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1653" csRelFld="1653">
+<CSLABELFLD label="">dessinateur / dessinatrice en cartographie</CSLABELFLD>
+<MET_ID label="Identifiant">10284</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1653</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">dessinateur/trice en cartographie</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1653">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17272" csRelFld="17272">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17272</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10284</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+   <inter>Cartographe géographe... </inter>
+   <p>On distingue deux grandes catégories de cartographes.</p>
+   <p>Le cartographe géographe est un universitaire formé à la géographie humaine. Il s'intéresse à la cartographie thématique et réalise des cartes sur des sujets précis, comme la répartition de la population, l'évolution d'une opinion politique, l'espérance de vie... Son travail s'appuie sur des outils statistiques et informatiques (les SIG, systèmes d'information géographique), et sur des prises de vue aériennes et par satellite (télédétection). Après avoir interprété les données, il choisit leur mode de représentation graphique (2 ou 3D pour une image en relief), qu'il réalise sur un support papier ou en images virtuelles. Les applications de la cartographie sont multiples : simuler des évolutions urbaines en fonction de la démographie, du nombre d'entreprises ou d'écoles, prévoir des évolutions environnementales... </p>
+   <inter>... ou topographe</inter>
+   <p>Le cartographe topographe, comme celui de l'IGN (Institut géographique national) par exemple, est un scientifique spécialiste de la géographie physique et un bon mathématicien féru de SIG (systèmes d'information géographique). Il réalise des représentations de l'espace et des réalités physiques : réseau routier, réseau fluvial, relief des sols... </p>
+  </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17270" csRelFld="17270">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17270</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10284</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<titre>Des niveaux variés</titre>
+<p>Les diplômes requis vont du niveau bac + 2 au niveau bac + 5.</p>
+<liste>
+<tete>
+<em>Bac + 2</em>
+</tete>
+<itsimp>BTS métiers du géomètre-topographe et de la modélisation numérique</itsimp>
+</liste>
+<liste>
+<tete>
+<em>Bac + 3</em>
+</tete>
+<itsimp>licences pro métiers de l'aménagement du territoire et de l'urbanisme ; cartographie, topographie et systèmes d'information géographique</itsimp>
+</liste>
+<liste>
+<tete>
+<em>Bac + 5</em>
+</tete>
+<itsimp>master  mentions géomatique ;  géographie ; master géographie, aménagement, environnement et développement</itsimp>
+<itsimp>diplôme d'ingénieur de l'Ecole nationale des sciences géographiques</itsimp>
+<itsimp>Après un bac + 5, il est possible de préparer un mastère spécialisé en un an.</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17274" csRelFld="17274">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17274</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10284</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Débouchés limités</inter>
+<p>Le nombre d'emplois reste limité même si les employeurs potentiels sont multiples. Les postes se situent dans les services ou entreprises de cartographie : Michelin, Service hydrographique et océanographique de la marine à Brest, syndicats d'initiative ou sociétés de conseil, BRGM (Bureau de recherches géologiques et minières), EDF, Air France... ainsi que dans les quelques maisons d'édition spécialisées. </p>
+<p>Les sites Internet sont également de plus en plus nombreux à se positionner sur les cartes virtuelles en ligne (webmapping, systèmes d'information géographique web) et recherchent des cartographes rompus aux nouvelles technologies. On trouve aussi des cartographes dans les bureaux d'études ou dans les cabinets de géomètres.</p>
+<inter>Multiplier les compétences</inter>
+<p>Pour évoluer, le cartographe a tout intérêt à avoir une double, voire une triple compétence. Il peut, par exemple, se spécialiser en marketing, ou parfaire ses connaissances en SIG (systèmes d'information géographique) et développement informatique, une spécialité de plus en plus nécessaire pour les cartographes. Il peut ainsi viser ensuite un poste de chef de projet, par exemple.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>1400</sal> à 1660 euros brut par mois pour les titulaires d'un bac + 2, + 3 ; autour de 1900 euros pour les titulaires d'un bac + 5. </p>
+<p>Les cartographes (ingénieurs, techniciens supérieurs et techniciens) employés par l'IGN sont rémunérés selon les grilles de la fonction publique</p>
+<postit>
+<p>Source : non indiquée.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

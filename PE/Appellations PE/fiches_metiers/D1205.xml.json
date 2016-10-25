@@ -1,0 +1,524 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Appr\u00eateur-d\u00e9tacheur / Appr\u00eateuse-d\u00e9tacheuse",
+            "priorisation": "1",
+            "libelle": "Appr\u00eateur-d\u00e9tacheur / Appr\u00eateuse-d\u00e9tacheuse",
+            "code_ogr": "11096"
+        },
+        {
+            "libelle_court": "D\u00e9tacheur / D\u00e9tacheuse",
+            "priorisation": "1",
+            "libelle": "D\u00e9tacheur / D\u00e9tacheuse",
+            "code_ogr": "14138"
+        },
+        {
+            "libelle_court": "Employ\u00e9 / Employ\u00e9e de pressing",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 / Employ\u00e9e de pressing",
+            "code_ogr": "14777"
+        },
+        {
+            "libelle_court": "Linger / Ling\u00e8re",
+            "priorisation": "1",
+            "libelle": "Linger / Ling\u00e8re",
+            "code_ogr": "16195"
+        },
+        {
+            "libelle_court": "Nettoyeur / Nettoyeuse en cuir et peausserie",
+            "priorisation": "1",
+            "libelle": "Nettoyeur / Nettoyeuse en cuir et peausserie",
+            "code_ogr": "16980"
+        },
+        {
+            "libelle_court": "Raviveur / Raviveuse cuir et peausserie",
+            "priorisation": "1",
+            "libelle": "Raviveur / Raviveuse cuir et peausserie",
+            "code_ogr": "18295"
+        },
+        {
+            "libelle_court": "R\u00e9ceptionniste de pressing",
+            "priorisation": "1",
+            "libelle": "R\u00e9ceptionniste de pressing",
+            "code_ogr": "18322"
+        },
+        {
+            "libelle_court": "Repasseur / Repasseuse",
+            "priorisation": "1",
+            "libelle": "Repasseur / Repasseuse",
+            "code_ogr": "18535"
+        },
+        {
+            "libelle_court": "Repasseur / Repasseuse premi\u00e8re main",
+            "priorisation": "1",
+            "libelle": "Repasseur / Repasseuse premi\u00e8re main",
+            "code_ogr": "18540"
+        },
+        {
+            "libelle_court": "Repasseur / Repasseuse seconde main",
+            "priorisation": "1",
+            "libelle": "Repasseur / Repasseuse seconde main",
+            "code_ogr": "18541"
+        },
+        {
+            "libelle_court": "Responsable de pressing",
+            "priorisation": "1",
+            "libelle": "Responsable de pressing",
+            "code_ogr": "18812"
+        },
+        {
+            "libelle_court": "Teinturier / Teinturi\u00e8re en cuir",
+            "priorisation": "1",
+            "libelle": "Teinturier / Teinturi\u00e8re en cuir",
+            "code_ogr": "20294"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Renseigner le client sur le nettoyage d'articles en textile, cuir ou peausserie et effectuer les op\u00e9rations d'encaissement",
+            "code_ogr": "3021",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Examiner les pi\u00e8ces en vue de la d\u00e9tection ou du marquage d'\u00e9ventuelles anomalies (contenu des poches, accrocs, taches, fermetures \u00e0 glissi\u00e8re, boutons, ...) et les \u00e9tiqueter",
+            "code_ogr": "1968",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Trier les articles et d\u00e9terminer les modes de nettoyage (\u00e0 l'eau, \u00e0 sec, avec d\u00e9tachage, ...)",
+            "code_ogr": "3383",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9tacher \u00e0 la brosse et par application de produit les articles avant lavage",
+            "code_ogr": "1365",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Charger le linge dans les machines et enclencher le programme",
+            "code_ogr": "809",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Appr\u00eater (amidon, d\u00e9froissant, ...) et repasser les articles",
+            "code_ogr": "734",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Emballer et classer les articles nettoy\u00e9s sur les portants, carrousels, ...",
+            "code_ogr": "1775",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Restituer les articles au client apr\u00e8s contr\u00f4le du nettoyage, repassage",
+            "code_ogr": "3118",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "8",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "G1501",
+            "libelle_rome_cible": "Personnel d'\u00e9tage"
+        },
+        {
+            "code_rome_cible": "H2410",
+            "libelle_rome_cible": "Mise en forme, repassage et finitions en industrie textile"
+        },
+        {
+            "code_rome_cible": "H3302",
+            "libelle_rome_cible": "Op\u00e9rations manuelles d'assemblage, tri ou emballage"
+        },
+        {
+            "code_rome_cible": "K2201",
+            "libelle_rome_cible": "Blanchisserie industrielle"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle.\nUn CAP en entretien des articles textiles en entreprises artisanales, ...peut en faciliter l'acc\u00e8s.\nUn dipl\u00f4me de niveau Bac (BP Maintenance des articles textiles, option pressing, Bac professionnel m\u00e9tiers du pressing et de la blanchisserie, ...) ou Bac+2 (BTS Management des unit\u00e9s commerciales) peut \u00eatre demand\u00e9 pour la fonction de responsable de pressing.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Effectuer le repassage de :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Costumes de spectacle",
+            "code_ogr": "5346",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Linge de maison",
+            "code_ogr": "5347",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00eatements de c\u00e9r\u00e9monie",
+            "code_ogr": "5348",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00eatements de haute couture ou de pr\u00eat-\u00e0-porter de luxe",
+            "code_ogr": "5349",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des travaux de couture ou de remise en \u00e9tat :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9montage/remontage de cravate",
+            "code_ogr": "5091",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pose de fermeture \u00e0 glissi\u00e8re",
+            "code_ogr": "5092",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Reprise d'ourlet",
+            "code_ogr": "5093",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Redonner leur teinte initiale \u00e0 des :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Articles textiles",
+            "code_ogr": "9474",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cuirs et peaux",
+            "code_ogr": "9475",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tapis",
+            "code_ogr": "9476",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le nettoyage et l'entretien des machines (filtres, niveau, ...) ou le recyclage des produits (distillation de nettoyant, ...)",
+            "code_ogr": "5341",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la vente de produits et services (brosse, location de shampouineuse, ...)",
+            "code_ogr": "5288",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le retrait et la livraison de linge, d'articles chez les clients",
+            "code_ogr": "5350",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser les op\u00e9rations de tenue de caisse (d\u00e9compte du fonds de caisse, d\u00e9p\u00f4ts bancaires, ...)",
+            "code_ogr": "3590",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9gler des dossiers particuliers (litiges, ...) ou transmettre au service concern\u00e9",
+            "code_ogr": "9477",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la gestion comptable et administrative d'une structure",
+            "code_ogr": "3533",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de pressings traditionnels ou franchis\u00e9s, de teintureries de luxe, de soci\u00e9t\u00e9s de services, d'h\u00e9bergement ou de restauration en contact avec les clients.\nElle peut s'exercer en horaires fractionn\u00e9s et le samedi.\nLe port d'\u00e9quipements de protection ou d'une tenue professionnelle (gants, blouse, ...) peut \u00eatre requis pour certaines manipulations (produits chimiques, articles sales, ...).\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Identification de tache et salissure",
+            "code_ogr": "20914",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de codes et symboles",
+            "code_ogr": "20935",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Application de produits au pistolet",
+            "code_ogr": "20760",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de console vapeur",
+            "code_ogr": "21193",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pr\u00e9paration d'appr\u00eat (amidon, ...)",
+            "code_ogr": "21055",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Application de produits au tampon",
+            "code_ogr": "20762",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Couture manuelle",
+            "code_ogr": "20832",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Manipulation de produits chimiques (acides, soude, solvant, ...)",
+            "code_ogr": "20974",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Argumentation commerciale",
+            "code_ogr": "20786",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Pressing",
+            "code_ogr": "24044",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tellerie",
+            "code_ogr": "23519",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Restauration",
+            "code_ogr": "23622",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des cuirs et peaux",
+            "code_ogr": "21569",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Codes et symboles d'entretien des textiles",
+            "code_ogr": "21730",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des produits d'entretien textile",
+            "code_ogr": "21644",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des produits de nettoyage",
+            "code_ogr": "21643",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de piq\u00fbre machine",
+            "code_ogr": "23029",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de retraitement des d\u00e9chets",
+            "code_ogr": "22430",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9ceptionne pi\u00e8ce par pi\u00e8ce des articles en textile, cuir ou peausserie et effectue leur nettoyage et repassage selon les normes d'hygi\u00e8ne et de s\u00e9curit\u00e9 et la r\u00e9glementation environnementale. Enregistre les paiements et remet les articles trait\u00e9s aux clients.\nPeut r\u00e9aliser des op\u00e9rations de couture, de teinture et l'entretien des machines et \u00e9quipements.\nPeut coordonner une \u00e9quipe ou diriger une structure.\n",
+    "intitule": "Nettoyage d'articles textiles ou cuirs",
+    "code_ogr": "91",
+    "code_rome": "D1205",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1207",
+            "libelle_rome_cible": "Retouches en habillement"
+        },
+        {
+            "code_rome_cible": "D1214",
+            "libelle_rome_cible": "Vente en habillement et accessoires de la personne"
+        },
+        {
+            "code_rome_cible": "D1301",
+            "libelle_rome_cible": "Management de magasin de d\u00e9tail"
+        }
+    ]
+}

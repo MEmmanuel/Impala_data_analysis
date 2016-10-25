@@ -1,0 +1,789 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "B\u00e2tonnier / B\u00e2tonni\u00e8re d'art",
+            "priorisation": "1",
+            "libelle": "B\u00e2tonnier / B\u00e2tonni\u00e8re d'art",
+            "code_ogr": "11497"
+        },
+        {
+            "libelle_court": "Eb\u00e9niste",
+            "priorisation": "1",
+            "libelle": "Eb\u00e9niste",
+            "code_ogr": "14541"
+        },
+        {
+            "libelle_court": "Eb\u00e9niste d'art",
+            "priorisation": "1",
+            "libelle": "Eb\u00e9niste d'art",
+            "code_ogr": "14542"
+        },
+        {
+            "libelle_court": "Eb\u00e9niste-marqueteur / Eb\u00e9niste-marqueteuse",
+            "priorisation": "1",
+            "libelle": "Eb\u00e9niste-marqueteur / Eb\u00e9niste-marqueteuse",
+            "code_ogr": "14543"
+        },
+        {
+            "libelle_court": "Eb\u00e9niste-menuisier / Eb\u00e9niste-menuisi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Eb\u00e9niste-menuisier / Eb\u00e9niste-menuisi\u00e8re",
+            "code_ogr": "14544"
+        },
+        {
+            "libelle_court": "Fa\u00e7onnier(\u00e8re) de meubles en bois et mat\u00e9riaux associ\u00e9s",
+            "priorisation": "1",
+            "libelle": "Fa\u00e7onnier / Fa\u00e7onni\u00e8re de meubles en bois et mat\u00e9riaux associ\u00e9s",
+            "code_ogr": "15038"
+        },
+        {
+            "libelle_court": "Menuisier / Menuisi\u00e8re en meubles",
+            "priorisation": "1",
+            "libelle": "Menuisier / Menuisi\u00e8re en meubles",
+            "code_ogr": "16620"
+        },
+        {
+            "libelle_court": "Menuisier / Menuisi\u00e8re en si\u00e8ges",
+            "priorisation": "1",
+            "libelle": "Menuisier / Menuisi\u00e8re en si\u00e8ges",
+            "code_ogr": "16621"
+        },
+        {
+            "libelle_court": "Menuisier-\u00e9b\u00e9niste / Menuisi\u00e8re-\u00e9b\u00e9niste",
+            "priorisation": "1",
+            "libelle": "Menuisier-\u00e9b\u00e9niste / Menuisi\u00e8re-\u00e9b\u00e9niste",
+            "code_ogr": "16629"
+        },
+        {
+            "libelle_court": "Ouvrier / Ouvri\u00e8re \u00e9b\u00e9niste",
+            "priorisation": "1",
+            "libelle": "Ouvrier / Ouvri\u00e8re \u00e9b\u00e9niste",
+            "code_ogr": "17488"
+        },
+        {
+            "libelle_court": "Restaurateur / Restauratrice de meubles",
+            "priorisation": "1",
+            "libelle": "Restaurateur / Restauratrice de meubles",
+            "code_ogr": "19221"
+        },
+        {
+            "libelle_court": "Restaurateur / Restauratrice de meubles anciens",
+            "priorisation": "1",
+            "libelle": "Restaurateur / Restauratrice de meubles anciens",
+            "code_ogr": "19222"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "D\u00e9terminer les caract\u00e9ristiques du mobilier \u00e0 fa\u00e7onner ou identifier les r\u00e9parations en fonction des attentes du client, des contraintes esth\u00e9tiques et techniques",
+            "code_ogr": "1422",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9terminer les \u00e9tapes de fabrication du mobilier et s\u00e9lectionner les mat\u00e9riaux et fournitures ou fabriquer les outils sp\u00e9cifiques (fers de tarabiscot, ...)",
+            "code_ogr": "1428",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tracer sur le bois la forme \u00e0 fa\u00e7onner et mettre \u00e0 dimension les pi\u00e8ces de bois massif ou de placage (planches, \u00e9l\u00e9ments de marqueterie, ...)",
+            "code_ogr": "3366",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Donner la forme (chantourner, tourner, moulurer) aux pi\u00e8ces du b\u00e2ti (pied, fa\u00e7ade de meuble, montant, ...)",
+            "code_ogr": "1490",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser le frisage du placage (filets, ...) et le coller sur les pi\u00e8ces du b\u00e2ti",
+            "code_ogr": "2803",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Monter/assembler le b\u00e2ti, contr\u00f4ler le montage (\u00e9querrage, stabilit\u00e9, plan\u00e9it\u00e9, ...) et ajuster les pi\u00e8ces rapport\u00e9es (tiroirs, portes, ...)",
+            "code_ogr": "2385",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des op\u00e9rations de finition d'ouvrages en bois (habillage, pon\u00e7age, vernissage, teinture, ...)",
+            "code_ogr": "4966",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer et emballer l'article pour remise/livraison au client",
+            "code_ogr": "2401",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1212",
+            "libelle_rome_cible": "Vente en d\u00e9coration et \u00e9quipement du foyer"
+        },
+        {
+            "code_rome_cible": "H2201",
+            "libelle_rome_cible": "Assemblage d'ouvrages en bois"
+        },
+        {
+            "code_rome_cible": "H2206",
+            "libelle_rome_cible": "R\u00e9alisation de menuiserie bois et tonnellerie"
+        },
+        {
+            "code_rome_cible": "H2208",
+            "libelle_rome_cible": "R\u00e9alisation d'ouvrages d\u00e9coratifs en bois"
+        },
+        {
+            "code_rome_cible": "L1503",
+            "libelle_rome_cible": "D\u00e9cor et accessoires spectacle"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac (professionnel, Brevet de Compagnon) en arts du bois, \u00e9b\u00e9nisterie, ...\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans le secteur du bois sans dipl\u00f4me particulier.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Fa\u00e7onner/R\u00e9aliser des articles :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "El\u00e9ments d'agencement (boiserie de style, ...)",
+            "code_ogr": "5992",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "El\u00e9ments de nautisme (table de lecture de cartes, ...)",
+            "code_ogr": "5993",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Maquette (industrielle, d'architecte, ...)",
+            "code_ogr": "5994",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mobilier (armoires, commodes, ...)",
+            "code_ogr": "5995",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Si\u00e8ges",
+            "code_ogr": "5996",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Fa\u00e7onner et mettre en forme des mat\u00e9riaux :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bois anciens",
+            "code_ogr": "5985",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ecaille",
+            "code_ogr": "5987",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "M\u00e9tal (laiton, ...)",
+            "code_ogr": "5988",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nacre",
+            "code_ogr": "5989",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Verre",
+            "code_ogr": "5990",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bois pr\u00e9cieux, bois exotiques (\u00e9b\u00e8ne, ...)",
+            "code_ogr": "5986",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations de pose ou d'incrustations :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Gainage d'ameublement (feutre, cuir, ...)",
+            "code_ogr": "8729",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Incrustation d'\u00e9l\u00e9ments (filets en laiton, ...)",
+            "code_ogr": "8730",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Marqueterie",
+            "code_ogr": "8731",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9corer des ouvrages par :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sculpture",
+            "code_ogr": "4455",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Gravure, incision",
+            "code_ogr": "4447",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Dorure, argenture \u00e0 la feuille, ...",
+            "code_ogr": "4444",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Peinture, filets",
+            "code_ogr": "4452",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations de finition :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Traitement insecticide, fongicide",
+            "code_ogr": "8625",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Teinture, c\u00e9ruse, patine, fondure",
+            "code_ogr": "8623",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Laquage",
+            "code_ogr": "8619",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cirage, lustrage",
+            "code_ogr": "8617",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Vernissage",
+            "code_ogr": "8626",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Vieillissement artificiel",
+            "code_ogr": "8627",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Masquage de d\u00e9fauts du bois",
+            "code_ogr": "8620",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Concevoir de nouveaux mod\u00e8les de mobilier et r\u00e9aliser des plans (fabrication, montage, ...)",
+            "code_ogr": "3929",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des r\u00e9parations sur des \u00e9l\u00e9ments de mobilier (serrurerie, ...)",
+            "code_ogr": "5062",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations de restauration/conservation sur du mobilier ancien",
+            "code_ogr": "8765",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Transmettre les techniques du m\u00e9tier ou mener des actions de sensibilisation au m\u00e9tier",
+            "code_ogr": "10026",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9lectionner des fournisseurs et coordonner une \u00e9quipe dans le cadre d'un projet, d'une commande",
+            "code_ogr": "9650",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises artisanales, de manufactures, d'organismes culturels ou du patrimoine, d'\u00e9tablissements publics, de collectivit\u00e9s territoriales ou en ind\u00e9pendant, en contact avec des clients et diff\u00e9rents intervenants (antiquaire, designer, ...).\nElle s'exerce en atelier, parfois au domicile du client, en environnement poussi\u00e9reux et implique la manipulation de charges et d'outils coupants.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Elaboration de fiche de d\u00e9bit (quantit\u00e9, ...)",
+            "code_ogr": "20869",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils \u00e0 bois manuels",
+            "code_ogr": "21466",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outillages \u00e9lectroportatifs (scie \u00e9lectrique, ponceuse, ...)",
+            "code_ogr": "21464",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de scie \u00e0 chantourner",
+            "code_ogr": "21375",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pon\u00e7age",
+            "code_ogr": "21028",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de machine-outil",
+            "code_ogr": "21304",
+            "position_item": "6",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de fer \u00e0 dorer",
+            "code_ogr": "21204",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de fleuron et empreinte",
+            "code_ogr": "21208",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Peinture \u00e0 main lev\u00e9e",
+            "code_ogr": "21016",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Vernissage au tampon",
+            "code_ogr": "21488",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Conception et de Dessin Assist\u00e9s par Ordinateur -CAO/DAO-",
+            "code_ogr": "21249",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise artisanale",
+            "code_ogr": "23870",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Manufacture",
+            "code_ogr": "24003",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisme culturel, du patrimoine",
+            "code_ogr": "24016",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ameublement",
+            "code_ogr": "23398",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Spectacle",
+            "code_ogr": "23638",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de collage",
+            "code_ogr": "22837",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de chevillage",
+            "code_ogr": "22829",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'assemblage par bouvetage, queue d'aronde",
+            "code_ogr": "22797",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'assemblage par enture",
+            "code_ogr": "22799",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "G\u00e9om\u00e9trie",
+            "code_ogr": "21986",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9",
+            "code_ogr": "22621",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Histoire de l'art et des styles",
+            "code_ogr": "22023",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des bois et d\u00e9riv\u00e9s du bois",
+            "code_ogr": "21560",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Styles de mobilier",
+            "code_ogr": "22730",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de cintrage",
+            "code_ogr": "22831",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Technique d'\u00e9laboration de carton de marqueterie",
+            "code_ogr": "22752",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de d\u00e9coupe de mat\u00e9riaux",
+            "code_ogr": "22876",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Dessin de d\u00e9tail",
+            "code_ogr": "21775",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes de conservation pr\u00e9ventive",
+            "code_ogr": "22312",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de restauration",
+            "code_ogr": "23102",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modalit\u00e9s de conservation",
+            "code_ogr": "22165",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de moulage",
+            "code_ogr": "23005",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en chimie",
+            "code_ogr": "21844",
+            "position_item": "5",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nMet en forme et assemble, \u00e0 l'unit\u00e9 ou en petite s\u00e9rie, du mobilier (si\u00e8ges, armoires, ...) r\u00e9gional, de style, rustique ou contemporain, en bois massif ou plaqu\u00e9, manuellement ou \u00e0 l'aide de machines selon les r\u00e8gles de s\u00e9curit\u00e9.\nPeut reproduire ou restaurer des pi\u00e8ces anciennes (mobilier, ...), appliquer des produits de protection ou d\u00e9corer des meubles (marqueterie, sculpture, ...).\nPeut coordonner une \u00e9quipe et diriger une structure.\n",
+    "intitule": "R\u00e9alisation de meubles en bois",
+    "code_ogr": "243",
+    "code_rome": "H2207",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "B1101",
+            "libelle_rome_cible": "Cr\u00e9ation en arts plastiques"
+        },
+        {
+            "code_rome_cible": "D1201",
+            "libelle_rome_cible": "Achat vente d'objets d'art, anciens ou d'occasion"
+        },
+        {
+            "code_rome_cible": "H2204",
+            "libelle_rome_cible": "Encadrement des industries de l'ameublement et du bois"
+        },
+        {
+            "code_rome_cible": "H2209",
+            "libelle_rome_cible": "Intervention technique en ameublement et bois"
+        },
+        {
+            "code_rome_cible": "K1203",
+            "libelle_rome_cible": "Encadrement technique en insertion professionnelle"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e méthodes mécaniques</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">concevoir, utiliser des technologies industrielles de pointe/coordonner l'activité d'une équipe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction méthodes industrialisation</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur construction automobile/secteur construction aéronautique/secteur construction navale/secteur construction ferroviaire/secteur construction mécanique/secteur maintenance/secteur sociétés d'ingénierie et d'études techniques</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">génie mécanique/méthodes industrialisation/conception de produit</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE mécanique automatismes</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100546</lien_onisep>
+<ROME Level="1B" csRelFld="100546">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="320" csRelFld="320">
+<CSLABELFLD label="">H2502</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Direction, encadrement et pilotage de fabrication et production industrielles</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2502</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie de production</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="276" csRelFld="276">
+<CSLABELFLD label="">H1402</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Méthodes et gestion industrielles</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H1402</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie méthodes et industrialisation</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100546">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="53435" csRelFld="53435">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53435</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100546</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Étudier et concevoir la production</inter>
+<p>Lorsqu'un commercial apporte un nouveau contrat dans une PME ou que le bureau d'études d'une grande entreprise valide un projet de fabrication, l'ingénieur méthodes mécaniques intervient pour définir et organiser les moyens humains et matériels qu'il faudra mettre en oeuvre pour optimiser la production en série ou à l'unité. Pour cela, il commence par étudier la pièce à fabriquer.</p>
+<inter>Choisir le matériel et les méthodes</inter>
+<p>Il choisit ensuite le matériel et les machines qui devront intervenir dans la production et détermine les besoins en main-d'oeuvre, à chaque étape, en incluant dans ses réflexions l'ergonomie et la qualité.</p>
+<inter>Organiser et optimiser</inter>
+<p>Il organise chaque étape de la production en respectant, voire en optimisant, les critères de coût, de fonctionnalité et de délais de livraison. Pour cela, il fait des simulations et opère des chronométrages des différentes tâches.</p>
+<inter>Suivre et analyser le processus</inter>
+<p>Il ajuste et affine ses observations grâce à des tests et peut aller jusqu'à la mise au point ou l'adaptation d'une machine. Enfin, il suit et analyse la production proprement dite grâce à des tableaux de bord ou des graphiques qu'il aura conçus en amont.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="53439" csRelFld="53439">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53439</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100546</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le métier d'ingénieur méthodes mécaniques est accessible avec bac + 5 : diplôme d'ingénieur ou master.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur généraliste ou spécialisé en mécanique</itsimp>
+<itsimp>Master mention mécanique, génie mécanique, ingénierie des systèmes complexes...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="53437" csRelFld="53437">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53437</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100546</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Dans tous les secteurs de l'industrie</inter>
+<p>Les débouchés pour les ingénieurs méthodes mécaniques vont en augmentant et se situent dans toutes les entreprises industrielles, quels que soient leur taille ou leur secteur. Leur rôle tend à se renforcer avec l'évolution des technologies, toujours plus nombreuses dans la mécanique, mais aussi la part de plus en plus grande accordée à la qualité. </p>
+<inter>En cabinet de conseil</inter>
+<p>Très présents dans les bureaux des méthodes des grandes entreprises, les spécialistes méthodes mécaniques et process peuvent également exercer dans des sociétés d'ingénierie et de conseil.</p>
+<inter>Des évolutions nombreuses</inter>
+<p>Avec de l'expérience, l'ingénieur méthodes mécaniques prendra en charge des projets de plus en plus importants. De par la transversalité de son poste, les évolutions sont nombreuses. Il peut accéder à des postes de responsable de service technique, de responsable de production ou encore de responsable maintenance. Il peut également encadrer une équipe de techniciens supérieurs et d'opérateurs. Il peut également se diriger vers une autre spécialité de l'entreprise, comme la fonction qualité ou commerciale. De manière générale, les postes en méthodes sont considérés comme une étape dans l'évolution de carrière plutôt que comme une finalité.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir de <sal>2900</sal> euros brut par mois.</p>
+<postit>
+<p>Source : Aon Hewitt, 2011, pour l'Usine Nouvelle.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

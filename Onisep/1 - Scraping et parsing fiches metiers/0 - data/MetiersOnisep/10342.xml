@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">technico-commercial/e en agroalimentaire</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">me déplacer souvent/convaincre, négocier/faire du commerce</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction technico commercial</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie agroalimentaire/secteur commerce</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">vente/marketing/agroalimentaire/technico-commercial</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE production alimentaire /technico-commercial en agroalimentaire</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10342</lien_onisep>
+<ROME Level="1B" csRelFld="10342">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="129" csRelFld="129">
+<CSLABELFLD label="">D1407</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Force de vente</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">D1407</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Relation technico-commerciale</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10342">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18862" csRelFld="18862">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18862</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10342</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Vendre, acheter, négocier</inter>
+<p>Vendre ou acheter du sur-mesure : c'est le rôle du technico-commercial. Il est à la fois un vendeur qui négocie des contrats avec ses clients et ses fournisseurs, et un technicien qui sait expliquer la composition d'un produit alimentaire... Sa double casquette lui permet d'occuper une large palette de fonctions : vendeur de produits ou de machines automatisées pour les chaînes de production, acheteur (en centrale d'achats ou en coopérative) de matières premières pour fabriquer un produit d'alimentation, responsable d'un rayon en hypermarché...</p>
+<inter>Analyser les besoins</inter>
+<p>S'il est chargé de vendre un produit, le technico-commercial analyse d'abord les besoins de ses interlocuteurs. Pour cela, il collabore avec les services concernés : recherche et développement, qualité, production, services financiers et juridiques.</p>
+<inter>Administrer et planifier</inter>
+<p>Le technico-commercial s'occupe également des coûts, des plannings de production et des délais de livraison, ainsi que de la gestion des marchandises. Il organise et planifie les approvisionnements nécessaires, en fonction du calendrier de production de son entreprise.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18863" csRelFld="18863">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18863</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10342</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Plusieurs diplômes permettent d'accéder au métier de technico-commercial.</accr_p> Les formations vont de bac + 2 à bac + 3, et comprennent des certificats de spécialisation agricoles (CSA).</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS technico-commercial </itsimp>
+<itsimp>BTS management des unités commerciales</itsimp>
+<itsimp>BTS négociation et relation client</itsimp>
+<itsimp>BTSA technico-commercial</itsimp>
+<itsimp>DUT techniques de commercialisation</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licences pro du domaine commerce avec une spécialité en agroalimentaire, en alimentation ou en conditionnement</itsimp>
+<itsimp>CS responsable technico-commercial</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18857" csRelFld="18857">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18857</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10342</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Une fonction en développement</inter>
+<p>La fonction technico-commerciale est une activité essentielle dans le secteur agroalimentaire, dans un contexte de concurrence internationale. Avec 17 % des effectifs salariés, cette fonction est dominante et en développement.</p>
+<p>Les technico-commerciaux (titulaires d'un bac + 2 au moins) font partie des profils les plus prisés. La licence professionnelle (pas toujours reconnue par les conventions collectives) peut être un tremplin pour accéder plus rapidement à une promotion.</p>
+<inter>Des évolutions possibles</inter>
+<p>Un technico-commercial de terrain peut évoluer vers un poste d'encadrement tel que responsable d'un réseau de force de vente, voire directeur d'un service commercial. Après un solide parcours professionnel, il peut devenir acheteur pour un grand groupe.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1500</sal> euros brut par mois.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

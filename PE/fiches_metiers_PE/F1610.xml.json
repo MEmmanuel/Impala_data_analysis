@@ -1,0 +1,489 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Aide couvreur / couvreuse",
+            "priorisation": "1",
+            "libelle": "Aide couvreur / couvreuse",
+            "code_ogr": "38499"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe de couvreurs",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe de couvreurs",
+            "code_ogr": "12407"
+        },
+        {
+            "libelle_court": "Couvreur / Couvreuse",
+            "priorisation": "1",
+            "libelle": "Couvreur / Couvreuse",
+            "code_ogr": "13822"
+        },
+        {
+            "libelle_court": "Couvreur / Couvreuse de chaume",
+            "priorisation": "1",
+            "libelle": "Couvreur / Couvreuse de chaume",
+            "code_ogr": "13825"
+        },
+        {
+            "libelle_court": "Couvreur / Couvreuse en monuments historiques",
+            "priorisation": "1",
+            "libelle": "Couvreur / Couvreuse en monuments historiques",
+            "code_ogr": "13826"
+        },
+        {
+            "libelle_court": "Couvreur ardoisier / Couvreuse ardoisi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Couvreur ardoisier / Couvreuse ardoisi\u00e8re",
+            "code_ogr": "13823"
+        },
+        {
+            "libelle_court": "Couvreur charpentier / Couvreuse charpenti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Couvreur charpentier / Couvreuse charpenti\u00e8re",
+            "code_ogr": "13824"
+        },
+        {
+            "libelle_court": "Couvreur ferblantier / Couvreuse ferblanti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Couvreur ferblantier / Couvreuse ferblanti\u00e8re",
+            "code_ogr": "13827"
+        },
+        {
+            "libelle_court": "Couvreur lauzier / Couvreuse lauzi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Couvreur lauzier / Couvreuse lauzi\u00e8re",
+            "code_ogr": "13828"
+        },
+        {
+            "libelle_court": "Couvreur poseur / Couvreuse poseuse de panneaux solaires",
+            "priorisation": "1",
+            "libelle": "Couvreur poseur / Couvreuse poseuse de panneaux solaires",
+            "code_ogr": "38065"
+        },
+        {
+            "libelle_court": "Couvreur tuilier / Couvreuse tuili\u00e8re",
+            "priorisation": "1",
+            "libelle": "Couvreur tuilier / Couvreuse tuili\u00e8re",
+            "code_ogr": "13829"
+        },
+        {
+            "libelle_court": "Couvreur zingueur / Couvreuse zingueuse",
+            "priorisation": "1",
+            "libelle": "Couvreur zingueur / Couvreuse zingueuse",
+            "code_ogr": "13830"
+        },
+        {
+            "libelle_court": "Monteur / Monteuse de panneaux photovolta\u00efques",
+            "priorisation": "1",
+            "libelle": "Monteur / Monteuse de panneaux photovolta\u00efques",
+            "code_ogr": "38066"
+        },
+        {
+            "libelle_court": "Zingueur / Zingueuse",
+            "priorisation": "1",
+            "libelle": "Zingueur / Zingueuse",
+            "code_ogr": "20738"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Rep\u00e9rer les particularit\u00e9s du montage de la toiture d'origine",
+            "code_ogr": "3100",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Dessiner et d\u00e9velopper les accessoires de couverture et d'\u00e9tanch\u00e9it\u00e9 (ar\u00eates fa\u00eeti\u00e8res, goutti\u00e8res, tuyaux de descente d'eaux pluviales, chemin\u00e9es, lucarnes, ...)",
+            "code_ogr": "1364",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9poser tout ou partie de la toiture et remplacer des chevrons",
+            "code_ogr": "1359",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9poser et poser les mat\u00e9riaux d'isolation (laine de verre, de roche, film d'\u00e9tanch\u00e9it\u00e9, contre lattage, ...)",
+            "code_ogr": "3527",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9terminer l'emplacement des supports (liteaux, tasseaux, voliges) et les poser",
+            "code_ogr": "1419",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9couper et poser les tuiles, ardoises, t\u00f4les, ...",
+            "code_ogr": "1237",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Fa\u00e7onner et poser les goutti\u00e8res, les ch\u00e9neaux et tuyaux de descente",
+            "code_ogr": "1980",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Poser les fermetures menuis\u00e9es en toiture et r\u00e9aliser les raccordements d'\u00e9tanch\u00e9it\u00e9",
+            "code_ogr": "2531",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1212",
+            "libelle_rome_cible": "Vente en d\u00e9coration et \u00e9quipement du foyer"
+        },
+        {
+            "code_rome_cible": "F1501",
+            "libelle_rome_cible": "Montage de structures et de charpentes bois"
+        },
+        {
+            "code_rome_cible": "F1502",
+            "libelle_rome_cible": "Montage de structures m\u00e9talliques"
+        },
+        {
+            "code_rome_cible": "F1613",
+            "libelle_rome_cible": "Travaux d'\u00e9tanch\u00e9it\u00e9 et d'isolation"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un CAP/BEP en couverture du b\u00e2timent.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans ce secteur sans dipl\u00f4me particulier.\nUn dipl\u00f4me de niveau Bac (Bac professionnel, Brevet Professionnel) peut \u00eatre demand\u00e9 pour les postes d'encadrement d'\u00e9quipe.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Poser des \u00e9l\u00e9ments de couverture :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ardoise",
+            "code_ogr": "7848",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bois",
+            "code_ogr": "7850",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chaume (roseaux)",
+            "code_ogr": "7851",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "M\u00e9tal (zinc, aluminium, titane, ...)",
+            "code_ogr": "7852",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Panneaux solaires",
+            "code_ogr": "38067",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pierre (lauze, ...)",
+            "code_ogr": "7853",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tuile",
+            "code_ogr": "7855",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tuiles et panneaux photovolta\u00efques",
+            "code_ogr": "7856",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Verre",
+            "code_ogr": "7857",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tailler, calibrer la pierre de couverture (lauze, gneiss, ...) et la poser en toiture sur vo\u00fbte par calage avec du remblai",
+            "code_ogr": "9963",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ma\u00e7onner des \u00e9l\u00e9ments de couverture (tuiles de rive, tuiles fa\u00eeti\u00e8res, g\u00e9noise, ...)",
+            "code_ogr": "7322",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tracer des d\u00e9veloppements de versants sur sch\u00e9mas",
+            "code_ogr": "9977",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9poser des toitures amiant\u00e9es",
+            "code_ogr": "4623",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Monter les structures porteuses (\u00e9chafaudage, \u00e9taiement, plate-forme, ...)",
+            "code_ogr": "7602",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 386 (Plates-formes \u00e9l\u00e9vatrices mobiles de personnes)",
+            "code_ogr": "10120",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir un devis et apporter un conseil technique au client",
+            "code_ogr": "5843",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce sur des chantiers (neuf, r\u00e9habilitation) au sein d'entreprises du b\u00e2timent ou d'entreprises artisanales parfois en contact avec des clients. Elle peut impliquer des d\u00e9placements et un \u00e9loignement du domicile de plusieurs jours.\nElle peut s'effectuer en tr\u00e8s grande hauteur.\nLe port d'\u00e9quipements de protection (chaussures de s\u00e9curit\u00e9, gants, casque de chantier, harnais, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan",
+            "code_ogr": "20946",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Calcul dimensionnel (surface, volume, ...)",
+            "code_ogr": "20808",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soudage sur zinc",
+            "code_ogr": "21104",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soudage plomb",
+            "code_ogr": "21103",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chiffrage/calcul de co\u00fbt",
+            "code_ogr": "20813",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise artisanale",
+            "code_ogr": "23870",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent et Travaux Publics -BTP-",
+            "code_ogr": "23420",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent second oeuvre",
+            "code_ogr": "23418",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "En grande hauteur",
+            "code_ogr": "23379",
+            "code_type_section_env": "3"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "G\u00e9om\u00e9trie",
+            "code_ogr": "21986",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles et consignes de s\u00e9curit\u00e9",
+            "code_ogr": "22656",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de d\u00e9coupe de mat\u00e9riaux",
+            "code_ogr": "22876",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de tra\u00e7age",
+            "code_ogr": "23149",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes de d\u00e9samiantage",
+            "code_ogr": "22219",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nEffectue la pr\u00e9paration et la pose des \u00e9l\u00e9ments de couverture (ardoises, tuiles, t\u00f4les, ...) pour la mise hors d'eau de tous types de b\u00e2timents, dans le cadre de travaux neufs ou de r\u00e9novation, selon les r\u00e8gles de s\u00e9curit\u00e9. R\u00e9alise la protection des parties en saillie et pose des syst\u00e8mes d'\u00e9vacuation d'eaux pluviales (goutti\u00e8res, ...). Peut r\u00e9aliser des travaux simples de charpente. Peut encadrer une \u00e9quipe.\n",
+    "intitule": "Pose et restauration de couvertures",
+    "code_ogr": "170",
+    "code_rome": "F1610",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "F1202",
+            "libelle_rome_cible": "Direction de chantier du BTP"
+        },
+        {
+            "code_rome_cible": "F1503",
+            "libelle_rome_cible": "R\u00e9alisation - installation d'ossatures bois"
+        },
+        {
+            "code_rome_cible": "F1607",
+            "libelle_rome_cible": "Pose de fermetures menuis\u00e9es"
+        },
+        {
+            "code_rome_cible": "I1501",
+            "libelle_rome_cible": "Intervention en grande hauteur"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">conducteur/trice de train / TGV</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conduite de véhicules</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur transports ferroviaires</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">transport de marchandises/transport de voyageurs</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE transports conduite manutention magasinage/conducteur de train (SNCF)</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10117</lien_onisep>
+<ROME Level="1B" csRelFld="10117">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="656" csRelFld="656">
+<CSLABELFLD label="">N4301</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Personnel navigant du transport terrestre</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">N4301</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Conduite sur rails</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10117">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1616" csRelFld="1616">
+<CSLABELFLD label="">conducteur / conductrice de TGV</CSLABELFLD>
+<MET_ID label="Identifiant">10117</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1616</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">conducteur/trice de TGV</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1616">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16346" csRelFld="16346">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16346</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10117</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Contrôle total</inter>
+<p>Avant de partir, le conducteur de train contrôle, à l'aide d'un tableau, la vitesse à ne pas dépasser, la distance de freinage, la charge du train et le nombre de voitures. Il vérifie l'état et la sécurité de la ligne et procède à des tests sur le bon fonctionnement du train.</p>
+<inter>Deux fonctions possibles</inter>
+<p>Le métier recouvre deux fonctions distinctes. Le <em>conducteur de manoeuvre</em>, sur chantiers ou lignes, participe à certaines opérations sur rames et engins moteurs. Le <em>conducteur de ligne</em> qui fait rouler des trains de voyageurs ou de marchandises.</p>
+<inter>Une attention constante</inter>
+<p>Pendant le trajet, de nombreux voyants et des appareils de mesure et d'alarme renseignent le conducteur sur la locomotive. Celui-ci fait attention à toute la signalisation extérieure (qu'il doit absolument respecter), aux travaux ou obstacles sur la voie, aux conditions atmosphériques...</p>
+<inter>Procédure à suivre</inter>
+<p>Si un problème survient malgré les essais techniques, la réaction du conducteur doit être rapide et adaptée. Il applique la réglementation d'usage (alerte radio, protection des voies), voire effectue certains dépannages. À son actif aussi des tâches administratives.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16347" csRelFld="16347">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16347</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10117</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Il faut d'abord être recruté par la SNCF, puis suivre une formation interne à l'entreprise. On peut se présenter avec un diplôme de niveau V (ex : Cap),  mais un bac pro en électrique, électrotechnique, électronique, mécanique ou un bac STI2D est conseillé , ainsi que tout diplôme reconnu équivalent dans l'Union européenne.</accr_p>  </p>
+<liste>
+<itsimp>
+<em>Accès : </em>sur CV et dossier ; visite médicale ; tests de connaissances ; tests psychotechniques ; entretien de motivation.</itsimp>
+<itsimp>
+<em>Formation : </em>d'une durée allant de 4 mois (pour le conducteur de manoeuvre) à 1 an (pour le conducteur de ligne), elle est assurée dans les établissements traction de la SNCF et est rémunérée. À la fois théorique et pratique, elle inclut un contrôle continu sanctionné par un examen... pour devenir (ou non) conducteur. La SNCF propose également différents examens pour l'évolution de carrière de ses agents.</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16349" csRelFld="16349">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16349</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10117</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Du TER au TGV</inter>
+<p>La carrière se déroule au sein de la filière traction de la SNCF. Une jeune recrue débute sur les trains de marchandises ou de banlieue avant d'être placée sur des lignes de moyenne importance. Au bout d'une dizaine d'années, l'agent peut devenir conducteur de ligne principale (seul habilité à prendre les commandes d'un TGV) ou s'orienter vers un poste d'encadrement.</p>
+<inter>Des emplois selon les besoins</inter>
+<p>Les recrutements dépendent des besoins régionaux. Toutefois, on prévoit l'embauche de 1 000 conducteurs en 2007. Le trafic de marchandises par voie ferrée (ferroutage) a beaucoup diminué en raison de la concurrence de la route : 12 % par rail et 80 % par route. En ce qui concerne le fret, les créations d'emplois sont ralenties mais l'ouverture à la concurrence et le développement du ferroutage devraient redynamiser le secteur.</p>
+<inter>Promotion en attente de poste</inter>
+<p>L'évolution de carrière est parfois subordonnée au passage d'un examen. Et en cas de succès, la nomination ne suit pas forcément. Le candidat doit rester dans son poste jusqu'à ce qu'un autre poste, correspondant à ses nouvelles fonctions, se libère.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>1600</sal> à 2800 euros brut par mois.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

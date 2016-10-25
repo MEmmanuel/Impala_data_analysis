@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ergonome</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller/enquêter, rechercher, analyser l'information/faire de la recherche</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur sociétés d'ingénierie et d'études techniques/secteur recherche</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">sociologie des organisations/ergonomie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit/ergonome</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10295</lien_onisep>
+<ROME Level="1B" csRelFld="10295">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="573" csRelFld="573">
+<CSLABELFLD label="">M1402</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Organisation et études</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1402</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Conseil en organisation et management d'entreprise</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10295">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17192" csRelFld="17192">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17192</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10295</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Analyser</inter>
+<p>À la demande d'une entreprise ou d'une collectivité qui souhaite, par exemple, réduire les risques d'accident ou améliorer les conditions de travail, l'ergonome commence par analyser l'existant en réalisant une étude de terrain. Aménagement des locaux, bureaux, postes de travail, organisation de la production, matériels utilisés... tout est passé au crible. Il examine ensuite la dimension humaine du travail, en particulier les effets de l'activité sur la santé des personnes. Cette phase est faite d'observations, d'entretiens avec les personnes concernées, de vidéos...</p>
+<inter>Diagnostiquer</inter>
+<p>À partir des éléments recueillis sur le terrain, l'ergonome rédige une offre d'intervention et formule des recommandations. Il suggère aussi des changements dans le choix des matériels ou de l'éclairage, par exemple.</p>
+<inter>Faciliter les changements</inter>
+<p>En collaboration avec d'autres professionnels, l'ergonome en milieu industriel conçoit des produits plus efficaces, réorganise les postes de travail, améliore les notices d'utilisation, participe à l'évolution du contenu des tâches. Il est aussi chargé de rappeler et de faire appliquer les normes existantes. Toute nouvelle machine installée dans une entreprise doit comporter des certificats de conformité qui engagent la responsabilité de l'ergonome.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17193" csRelFld="17193">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17193</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10295</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le métier d'ergonome est accessible avec un bac + 5. Il existe des parcours de formation ciblés sur des applications particulières de l'ergonomie, comme la conception de produits, les situations de travail... par exemple.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master mentions ergonomie ; psychologie sociale, du travail et des organisations ; STAPS : ingénierie et ergonomie de l' activité physique...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17195" csRelFld="17195">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17195</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10295</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>De l'entreprise à la recherche</inter>
+<p>L'ergonome peut travailler dans une grande entreprise (publique ou privée) où il est rattaché à divers services : recherche et développement, méthodes, ressources humaines, marketing... On le trouve également dans les cabinets d'ingénierie où il conçoit de nouvelles machines (ou des installations) pour les entreprises, dans les organismes de maintien des personnes handicapées dans leur emploi, dans les services de santé au travail, dans les cabinets de consultants en ergonomie.</p>
+<p>S'il est formé à la recherche, il peut intégrer, en tant qu'enseignant-chercheur, un centre de recherche scientifique.</p>
+<inter>De consultant à libéral</inter>
+<p>Le plus souvent, le jeune ergonome commence sa carrière dans un cabinet de consultants. Par la suite, il peut intégrer une entreprise ou se mettre à son compte, en libéral. La plupart des ergonomes sont généralistes mais, en fonction de leur expérience, ils peuvent être amenés à se spécialiser dans un secteur d'activité ou un champ d'intervention : hôpital, industrie à risques, chaîne de production, handicap, conception d'espaces de travail...</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Environ <sal>2500</sal> euros brut par mois.</p>
+<postit>
+<p>Source : Self (Société d'ergonomie de langue française), 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

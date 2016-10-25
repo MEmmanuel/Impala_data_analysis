@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">technicien/ne automobile</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un travail manuel/réparer, entretenir, installer des équipements</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/artisan</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction maintenance</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur commerce réparation contrôle technique automobile/secteur maintenance/secteur construction automobile</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">réparation véhicule/automobile - cycle</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE mécanique automatismes/technicien automobile</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10361</lien_onisep>
+<ROME Level="1B" csRelFld="10361">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="400" csRelFld="400">
+<CSLABELFLD label="">I1604</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Véhicules, engins, aéronefs</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">I1604</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Mécanique automobile et entretien de véhicules</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10361">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1678" csRelFld="1678">
+<CSLABELFLD label="">dépanneur-remorqueur / dépanneuse-remorqueuse</CSLABELFLD>
+<MET_ID label="Identifiant">10361</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1678</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">dépanneur/euse-remorqueur/euse</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1678">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1679" csRelFld="1679">
+<CSLABELFLD label="">expert / experte automobile</CSLABELFLD>
+<MET_ID label="Identifiant">10361</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1679</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">expert/e automobile</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1679">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1680" csRelFld="1680">
+<CSLABELFLD label="">mécanicien / mécanicienne de compétition</CSLABELFLD>
+<MET_ID label="Identifiant">10361</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1680</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">mécanicien/ne de compétition</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1680">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1681" csRelFld="1681">
+<CSLABELFLD label="">préparateur / préparatrice de moteurs (mécanique de compétition)</CSLABELFLD>
+<MET_ID label="Identifiant">10361</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1681</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">préparateur/trice de moteurs (mécanique de compétition)</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1681">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1682" csRelFld="1682">
+<CSLABELFLD label="">préparateur-développeur / préparatrice-développeuse de véhicules de compétition</CSLABELFLD>
+<MET_ID label="Identifiant">10361</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1682</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">préparateur/trice-développeur/euse de véhicules de compétition</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1682">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1683" csRelFld="1683">
+<CSLABELFLD label="">responsable maintenance dans les grandes flottes de véhicules</CSLABELFLD>
+<MET_ID label="Identifiant">10361</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1683</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">responsable maintenance dans les grandes flottes de véhicules</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1683">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1684" csRelFld="1684">
+<CSLABELFLD label="">technicien / technicienne à la réception d'atelier (réceptionnaire)</CSLABELFLD>
+<MET_ID label="Identifiant">10361</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1684</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">technicien/ne à la réception d'atelier (réceptionnaire)</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1684">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1685" csRelFld="1685">
+<CSLABELFLD label="">technicien / technicienne de maintenance de véhicules à énergie propre</CSLABELFLD>
+<MET_ID label="Identifiant">10361</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1685</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">technicien/ne de maintenance de véhicules à énergie propre</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1685">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1686" csRelFld="1686">
+<CSLABELFLD label="">technicien / technicienne de maintenance poids lourds</CSLABELFLD>
+<MET_ID label="Identifiant">10361</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1686</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">technicien/ne de maintenance poids lourds</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1686">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1687" csRelFld="1687">
+<CSLABELFLD label="">technicien / technicienne de service rapide</CSLABELFLD>
+<MET_ID label="Identifiant">10361</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1687</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">technicien/ne de service rapide</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1687">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1688" csRelFld="1688">
+<CSLABELFLD label="">technicien / technicienne en électricité-électronique-froid-climatisation poids lourds</CSLABELFLD>
+<MET_ID label="Identifiant">10361</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1688</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">technicien/ne en électricité-électronique-froid-climatisation poids lourds</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1688">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1689" csRelFld="1689">
+<CSLABELFLD label="">technico-commercial / technico-commerciale poids lourds</CSLABELFLD>
+<MET_ID label="Identifiant">10361</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1689</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">technico-commercial/e poids lourds</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1689">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18720" csRelFld="18720">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18720</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10361</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Trouver l'origine de la panne</inter>
+<p>Après avoir analysé les informations données par le conducteur, le technicien examine rapidement le véhicule. Cette phase lui permet d'émettre une première hypothèse sur l'origine du dysfonctionnement ou de la panne. À l'aide du matériel électronique d'aide au diagnostic, il procède à des contrôles plus précis et détaillés sur les éléments mécaniques, électriques ou électroniques incriminés.</p>
+<inter>Remplacer et réparer</inter>
+<p>L'interprétation des résultats des tests effectués va lui permettre d'identifier l'origine de la défaillance. À partir de ce diagnostic, il va pouvoir établir la liste des travaux à réaliser et des pièces à changer. Il arrête alors le planning de l'intervention, après acceptation du devis par le client. Le mécanicien approvisionne son poste de travail en pièces, démonte les organes défectueux, remplace ou remet en état les éléments endommagés. Puis il effectue les différents réglages nécessaires en suivant les recommandations du constructeur.</p>
+<inter>Au service du client</inter>
+<p>Il procède aux essais sur route et réalise les dernières mises au point. L'intervention terminée, il rend le véhicule à son conducteur, explique en détail les travaux effectués et commente la facture. Concurrence oblige, il est impératif de satisfaire la clientèle pour la fidéliser. Le technicien s'adapte à de nouvelles activités : interventions rapides (assistance 24 heures sur 24), précontrôle technique, forfaits révision-entretien...</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18717" csRelFld="18717">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18717</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10361</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<inter>Bac pro au minimum</inter>
+<p>Le diagnostic occupant une place prépondérante en maintenance automobile, le bac pro est le minimum requis pour être autonome. Le titulaire du CAP maintenance des véhicules est un exécutant, un ouvrier qualifié. Le diagnostic lui est donné. Il démonte, remplace ou répare les éléments défectueux, et remonte le tout. Il réalise des mesures et des contrôles, effectue des réglages simples. Le bac pro donne les connaissances nécessaires pour poser un diagnostic. Il permet aussi de s'adapter aux nombreuses évolutions techniques du secteur.</p>
+<inter>Après la 3<exp>e</exp>
+</inter>
+<p>Le bac pro maintenance des véhicules se décline en différentes spécialités : motocycles, véhicules de transport routier, voitures particulières.</p> </MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18713" csRelFld="18713">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18713</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10361</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Une rude concurrence</inter>
+<p>À l'heure où l'électronique intervient dans plus de 20 % des fonctions d'un véhicule, les garages non rattachés à un réseau sont amenés à s'adapter ou à disparaître. Peu de débouchés, donc, à espérer de ce côté-là. La concurrence est vive entre les concessionnaires des grandes marques et leurs agents, et les centres auto et centres de réparation rapide (Norauto, Feu vert, Maxauto, Speedy, Midas...) qui proposent une palette de plus en plus large de services en entretien et en réparation.</p>
+<inter>Des possibilités d'évolution</inter>
+<p>Dans les grosses structures, le technicien auto peut, après quelques années d'expérience, accéder au poste de chef d'équipe ou de chef d'atelier. Il peut également devenir réceptionnaire (accueil du client) ou conseiller technique (suivi de l'évolution technologique, assistance aux techniciens). Avec une formation en gestion, on peut envisager de se mettre à son compte et de créer une entreprise artisanale.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Du <sal>Smic</sal> à environ 1600 euros brut par mois, selon la taille de la structure d'accueil.</p>
+<postit>
+<p>(source : Anfa).</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

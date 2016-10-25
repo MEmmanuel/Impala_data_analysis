@@ -1,0 +1,581 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Aiguilleteur / Aiguilleteuse",
+            "priorisation": "1",
+            "libelle": "Aiguilleteur / Aiguilleteuse",
+            "code_ogr": "10901"
+        },
+        {
+            "libelle_court": "Chef de ligne aiguilletage",
+            "priorisation": "1",
+            "libelle": "Chef de ligne aiguilletage",
+            "code_ogr": "12182"
+        },
+        {
+            "libelle_court": "Chef de machine aiguilletage",
+            "priorisation": "1",
+            "libelle": "Chef de machine aiguilletage",
+            "code_ogr": "12191"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de ligne de nappes et thermoformage",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de ligne de nappes et thermoformage",
+            "code_ogr": "12983"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de ligne de produits nontiss\u00e9s",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de ligne de produits nontiss\u00e9s",
+            "code_ogr": "12986"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de machines de produits nontiss\u00e9s",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de machines de produits nontiss\u00e9s",
+            "code_ogr": "13035"
+        },
+        {
+            "libelle_court": "Nappeur / Nappeuse en industrie textile",
+            "priorisation": "1",
+            "libelle": "Nappeur / Nappeuse en industrie textile",
+            "code_ogr": "16951"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice en fabrication de produits nontiss\u00e9s",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice en fabrication de produits nontiss\u00e9s",
+            "code_ogr": "17201"
+        },
+        {
+            "libelle_court": "Responsable de ligne en fabrication de produits nontiss\u00e9s",
+            "priorisation": "1",
+            "libelle": "Responsable de ligne en fabrication de produits nontiss\u00e9s",
+            "code_ogr": "18774"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Contr\u00f4ler l'\u00e9tat de fonctionnement des outils et \u00e9quipements (aiguilles, peigne, boucleuse, d\u00e9tecteurs, ...)",
+            "code_ogr": "1153",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Approvisionner le poste de travail en mandrins, bobines, balles de fibres, ... et alimenter la machine/ligne en produit",
+            "code_ogr": "739",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Monter les mandrins, bobines et \u00e9quipements (planches \u00e0 aiguillet\u00e9, cha\u00eene de picot, fili\u00e8re, ...) sur la machine/ligne",
+            "code_ogr": "2378",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Saisir les param\u00e8tres de vitesse, d\u00e9bit, temp\u00e9rature, ... et contr\u00f4ler le d\u00e9marrage de la machine/ligne",
+            "code_ogr": "3129",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller les donn\u00e9es de mesure du produit, identifier les anomalies (baisse de temp\u00e9rature, arr\u00eat de la pompe, ...) et appliquer les mesures correctives",
+            "code_ogr": "3338",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler l'aspect du produit, identifier les \u00e9carts et appliquer les mesures correctives",
+            "code_ogr": "1086",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler l'enroulage du tissu sur le rouleau et d\u00e9charger les produits",
+            "code_ogr": "1120",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer les machines et \u00e9quipements",
+            "code_ogr": "2420",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "H2102",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de production alimentaire"
+        },
+        {
+            "code_rome_cible": "H2301",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de production chimique ou pharmaceutique"
+        },
+        {
+            "code_rome_cible": "H2403",
+            "libelle_rome_cible": "Conduite de machine de fabrication de produits textiles"
+        },
+        {
+            "code_rome_cible": "H2404",
+            "libelle_rome_cible": "Conduite de machine de production et transformation des fils"
+        },
+        {
+            "code_rome_cible": "H3101",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de fabrication de papier ou de carton"
+        },
+        {
+            "code_rome_cible": "H3102",
+            "libelle_rome_cible": "Conduite d'installation de p\u00e2te \u00e0 papier"
+        },
+        {
+            "code_rome_cible": "H3201",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de formage des plastiques et caoutchoucs"
+        },
+        {
+            "code_rome_cible": "H3202",
+            "libelle_rome_cible": "R\u00e9glage d'\u00e9quipement de formage des plastiques et caoutchoucs"
+        },
+        {
+            "code_rome_cible": "H3301",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de conditionnement"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible \u00e0 partir d'un CAP/BEP en conduite d'installation de production par proc\u00e9d\u00e9s, ...\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle en conduite de machines industrielles (plasturgie, m\u00e9canique, ...).\nUn dipl\u00f4me de niveau Bac+2 (BTS, DUT) en m\u00e9canique, \u00e9lectricit\u00e9, ... peut \u00eatre demand\u00e9 pour certains postes (responsable de ligne en fabrication de produits nontiss\u00e9s, ...).\n",
+    "activite_specifique": [
+        {
+            "libelle": "Surveiller et conduire une machine ou une ligne par :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Voie fondue",
+            "code_ogr": "9875",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9d\u00e9 air laid",
+            "code_ogr": "9874",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Voie humide",
+            "code_ogr": "9876",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Voie s\u00e8che (cardage ou nappage pneumatique)",
+            "code_ogr": "9877",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller et conduire une machine ou une ligne de consolidation de nappe de nontiss\u00e9 par proc\u00e9d\u00e9 :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chimique (impr\u00e9gnation, rouleaux chauff\u00e9s, ...)",
+            "code_ogr": "9871",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "M\u00e9canique (aiguilletage, couturage-tricotage, hydrauliage, ...)",
+            "code_ogr": "9872",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Thermique (calandrage, thermofusion par air chaud, ...)",
+            "code_ogr": "9873",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la conformit\u00e9 de composition ou de r\u00e9sistance d'un produit par :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4le de r\u00e9sistance thermique",
+            "code_ogr": "4197",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4les m\u00e9caniques",
+            "code_ogr": "4199",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4les chimiques",
+            "code_ogr": "4196",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des op\u00e9rations de r\u00e9paration de nappes et bobines sur une visiteuse",
+            "code_ogr": "4984",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des op\u00e9rations d'emballage de bobines et/ou d\u00e9chets",
+            "code_ogr": "4999",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les op\u00e9rations de maintenance de premier niveau d'outils (changements d'aiguilles, montages de planches \u00e0 aiguilles, ...)",
+            "code_ogr": "5407",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et analyser les donn\u00e9es de production d'une installation et d\u00e9terminer les actions correctives",
+            "code_ogr": "3609",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner et v\u00e9rifier les interventions de personnels sur les machines, la ligne ou la zone de travail et \u00e9tablir des rapports de production et d'incidents",
+            "code_ogr": "4317",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises industrielles de fabrication de produits nontiss\u00e9s ou de rev\u00eatements textiles (moquettes, ...), en relation avec diff\u00e9rents services (qualit\u00e9, proc\u00e9d\u00e9s, maintenance, ...).\nElle peut s'exercer par roulement, les fins de semaine, jours f\u00e9ri\u00e9s ou de nuit.\nLe port d'Equipements de Protection Individuelle -EPI- (chaussures de s\u00e9curit\u00e9, protections auditives, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Appr\u00e9ciation sensorielle (visuelle, tactile, olfactive...)",
+            "code_ogr": "20774",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Prise de mesures",
+            "code_ogr": "21061",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de synoptique",
+            "code_ogr": "20958",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils de m\u00e9trologie",
+            "code_ogr": "21160",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Gestion de Production Assist\u00e9e Par Ordinateur -GPAO-",
+            "code_ogr": "21258",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion de base de donn\u00e9es",
+            "code_ogr": "21254",
+            "position_item": "6",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'instruments de mesure (gabarit, balance, ...)",
+            "code_ogr": "21441",
+            "position_item": "7",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'emballeuse, filmeuse",
+            "code_ogr": "21409",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de machine \u00e0 cercler",
+            "code_ogr": "21276",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Emballage manuel",
+            "code_ogr": "20880",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils (cl\u00e9 dynamom\u00e9trique, pistolet pneumatique, ...)",
+            "code_ogr": "21448",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils de Gestion de Moyens de Production -GMP-",
+            "code_ogr": "21469",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Fabrication de produits textiles (tricotage, tissage, nontiss\u00e9)",
+            "code_ogr": "23493",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Rev\u00eatements textiles (tapis de sols et moquettes en aiguillet\u00e9, ...)",
+            "code_ogr": "23624",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9",
+            "code_ogr": "22621",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes environnementales",
+            "code_ogr": "22230",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des fibres synth\u00e9tiques",
+            "code_ogr": "21592",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des fibres naturelles",
+            "code_ogr": "21591",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des fibres min\u00e9rales",
+            "code_ogr": "21590",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9canique g\u00e9n\u00e9rale",
+            "code_ogr": "21882",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en automatisme",
+            "code_ogr": "21931",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en chimie",
+            "code_ogr": "21844",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en hydraulique",
+            "code_ogr": "21875",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en pneumatique",
+            "code_ogr": "21905",
+            "position_item": "11",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9d\u00e9s de fabrication fibres courtes",
+            "code_ogr": "22346",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9d\u00e9s de fabrication fibres longues",
+            "code_ogr": "22347",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9thodes de r\u00e9solution de probl\u00e8mes",
+            "code_ogr": "22138",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en statistiques",
+            "code_ogr": "21923",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nSurveille et conduit une installation automatis\u00e9e de formation et de consolidation (filage par extrusion, cardage, enchev\u00eatrement des fibres, agglom\u00e9ration chimique, ...) de textiles nontiss\u00e9s, \u00e0 usage technique ou domestique. Intervient selon les r\u00e8gles de s\u00e9curit\u00e9, les normes environnementales et les imp\u00e9ratifs de production (qualit\u00e9, co\u00fbts, d\u00e9lais, ...). Contr\u00f4le l'\u00e9tat des \u00e9quipements de production et l'aspect de produits textiles nontiss\u00e9s.\nPeut contr\u00f4ler la composition des produits, effectuer des op\u00e9rations de r\u00e9paration sur les nappes ou bobines obtenues et effectuer des op\u00e9rations de maintenance de premier niveau sur les outils (planche \u00e0 aiguilles, ...).\nPeut analyser les donn\u00e9es de production et proposer les ajustements n\u00e9cessaires.\n",
+    "intitule": "Conduite de machine de textiles nontiss\u00e9s",
+    "code_ogr": "251",
+    "code_rome": "H2405",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "H1403",
+            "libelle_rome_cible": "Intervention technique en gestion industrielle et logistique"
+        },
+        {
+            "code_rome_cible": "H1404",
+            "libelle_rome_cible": "Intervention technique en m\u00e9thodes et industrialisation"
+        },
+        {
+            "code_rome_cible": "H2505",
+            "libelle_rome_cible": "Encadrement d'\u00e9quipe ou d'atelier en mat\u00e9riaux souples"
+        },
+        {
+            "code_rome_cible": "H2912",
+            "libelle_rome_cible": "R\u00e9glage d'\u00e9quipement de production industrielle"
+        },
+        {
+            "code_rome_cible": "I1310",
+            "libelle_rome_cible": "Maintenance m\u00e9canique industrielle"
+        }
+    ]
+}

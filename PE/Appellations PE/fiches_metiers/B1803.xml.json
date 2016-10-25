@@ -1,0 +1,666 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Api\u00e9ceur / Api\u00e9ceuse",
+            "priorisation": "1",
+            "libelle": "Api\u00e9ceur / Api\u00e9ceuse",
+            "code_ogr": "11080"
+        },
+        {
+            "libelle_court": "Corsetier / Corseti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Corsetier / Corseti\u00e8re",
+            "code_ogr": "13756"
+        },
+        {
+            "libelle_court": "Coupeur-tailleur / Coupeuse-tailleuse",
+            "priorisation": "1",
+            "libelle": "Coupeur-tailleur / Coupeuse-tailleuse",
+            "code_ogr": "13794"
+        },
+        {
+            "libelle_court": "Couturier / Couturi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Couturier / Couturi\u00e8re",
+            "code_ogr": "13812"
+        },
+        {
+            "libelle_court": "Couturier tailleur / Couturi\u00e8re tailleuse",
+            "priorisation": "1",
+            "libelle": "Couturier tailleur / Couturi\u00e8re tailleuse",
+            "code_ogr": "13820"
+        },
+        {
+            "libelle_court": "Culottier / Culotti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Culottier / Culotti\u00e8re",
+            "code_ogr": "13871"
+        },
+        {
+            "libelle_court": "Doubleur finisseur / Doubleuse finisseuse en fourrure",
+            "priorisation": "1",
+            "libelle": "Doubleur finisseur / Doubleuse finisseuse en fourrure",
+            "code_ogr": "14526"
+        },
+        {
+            "libelle_court": "Fa\u00e7onnier / Fa\u00e7onni\u00e8re de v\u00eatements en cuir sur mesure",
+            "priorisation": "1",
+            "libelle": "Fa\u00e7onnier / Fa\u00e7onni\u00e8re de v\u00eatements en cuir sur mesure",
+            "code_ogr": "15039"
+        },
+        {
+            "libelle_court": "Fa\u00e7onnier / Fa\u00e7onni\u00e8re de v\u00eatements sur mesure",
+            "priorisation": "1",
+            "libelle": "Fa\u00e7onnier / Fa\u00e7onni\u00e8re de v\u00eatements sur mesure",
+            "code_ogr": "15040"
+        },
+        {
+            "libelle_court": "Fourreur / Fourreuse",
+            "priorisation": "1",
+            "libelle": "Fourreur / Fourreuse",
+            "code_ogr": "15157"
+        },
+        {
+            "libelle_court": "Giletier / Gileti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Giletier / Gileti\u00e8re",
+            "code_ogr": "15375"
+        },
+        {
+            "libelle_court": "M\u00e9canicien / M\u00e9canicienne en fourrure",
+            "priorisation": "1",
+            "libelle": "M\u00e9canicien / M\u00e9canicienne en fourrure",
+            "code_ogr": "16508"
+        },
+        {
+            "libelle_court": "Ouvrier tailleur / Ouvri\u00e8re tailleuse",
+            "priorisation": "1",
+            "libelle": "Ouvrier tailleur / Ouvri\u00e8re tailleuse",
+            "code_ogr": "17538"
+        },
+        {
+            "libelle_court": "Premi\u00e8re main",
+            "priorisation": "1",
+            "libelle": "Premi\u00e8re main",
+            "code_ogr": "17985"
+        },
+        {
+            "libelle_court": "Tailleur / Tailleuse",
+            "priorisation": "1",
+            "libelle": "Tailleur / Tailleuse",
+            "code_ogr": "19617"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "D\u00e9finir avec le client les caract\u00e9ristiques de l'article \u00e0 r\u00e9aliser selon ses souhaits, ses besoins et l'informer sur les conditions de r\u00e9alisation",
+            "code_ogr": "1243",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Prendre les mensurations du client et les consigner (fiche client)",
+            "code_ogr": "2566",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cr\u00e9er le patron/gabarit de l'article ou modifier le patron de base s\u00e9lectionn\u00e9 dans les archives",
+            "code_ogr": "1211",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Marquer les rep\u00e8res (\u00e9pingles, craie, ...) sur le mat\u00e9riau suivant le contour du patron, couper \u00e0 dimension et pr\u00e9assembler le v\u00eatement",
+            "code_ogr": "2289",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ajuster les pi\u00e8ces du v\u00eatement (manches, col, ...) par essayage",
+            "code_ogr": "615",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Assembler les parties du v\u00eatement (dos, devant, col, ...), v\u00e9rifier le montage, le bien-aller du v\u00eatement et ajuster",
+            "code_ogr": "765",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mettre en forme l'article, le conditionner ou conseiller le client sur les conditions d'entretien et de stockage",
+            "code_ogr": "2317",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "7",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1207",
+            "libelle_rome_cible": "Retouches en habillement"
+        },
+        {
+            "code_rome_cible": "D1212",
+            "libelle_rome_cible": "Vente en d\u00e9coration et \u00e9quipement du foyer"
+        },
+        {
+            "code_rome_cible": "D1214",
+            "libelle_rome_cible": "Vente en habillement et accessoires de la personne"
+        },
+        {
+            "code_rome_cible": "H2411",
+            "libelle_rome_cible": "Montage de prototype cuir et mat\u00e9riaux souples"
+        },
+        {
+            "code_rome_cible": "H2412",
+            "libelle_rome_cible": "Patronnage - gradation"
+        },
+        {
+            "code_rome_cible": "L1502",
+            "libelle_rome_cible": "Costume et habillage spectacle"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP \u00e0 Bac (Brevet Professionnel, Brevet des M\u00e9tiers d'Art -BMA-, Bac Professionnel, ...) en habillement (tailleur, couture flou, ...), v\u00eatements et accessoires de mode, ...\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle en couture ou en fourrure sans dipl\u00f4me particulier.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser des v\u00eatements \u00e0 l'unit\u00e9 ou en petite s\u00e9rie :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Robes de soir\u00e9e, de c\u00e9r\u00e9monie",
+            "code_ogr": "9129",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Produits \u00e0 manches (tailleur, manteau, ...)",
+            "code_ogr": "9128",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pantalons, gilets",
+            "code_ogr": "9127",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Articles de lingerie/baln\u00e9aire/corseterie",
+            "code_ogr": "9126",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Haute couture",
+            "code_ogr": "9125",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00eatements professionnels",
+            "code_ogr": "9131",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Uniformes, costumes historiques, costumes \u00e0 th\u00e8me",
+            "code_ogr": "9130",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Costumes de sc\u00e8ne",
+            "code_ogr": "9124",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des v\u00eatements en mat\u00e9riaux sp\u00e9cifiques :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Textiles fins et d\u00e9licats (satin, soie, dentelle, ...)",
+            "code_ogr": "9136",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Textiles \u00e9pais (coton, toile, lin, ...)",
+            "code_ogr": "9135",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Textiles techniques (carbone, kevlar, ...)",
+            "code_ogr": "9137",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cuirs et peaux",
+            "code_ogr": "9132",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Fourrures",
+            "code_ogr": "9133",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mat\u00e9riaux synth\u00e9tiques (n\u00e9opr\u00e8ne, ska\u00ef, ...)",
+            "code_ogr": "9134",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser sur papier le croquis, l'esquisse d'un mod\u00e8le \u00e0 r\u00e9aliser",
+            "code_ogr": "9276",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cr\u00e9er un patron mod\u00e8le de v\u00eatement par moulage \u00e0 la toile sur mannequin et transposition \u00e0 plat",
+            "code_ogr": "4417",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations de valorisation d'un article (pose d'accessoires, teinture ...)",
+            "code_ogr": "8844",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Transmettre les techniques du m\u00e9tier ou mener des actions de sensibilisation au m\u00e9tier",
+            "code_ogr": "10026",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises artisanales (atelier de tailleur,...), de maisons de haute couture, de services de l'Etat en relation avec des clients et diff\u00e9rents intervenants (styliste, costumier, ...).\nL'activit\u00e9 peut s'effectuer en atelier, chez la client\u00e8le ou \u00e0 domicile.\nElle peut \u00eatre soumise \u00e0 des horaires irr\u00e9guliers et \u00e0 des pics d'activit\u00e9 (collections, ...).\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Couture manuelle",
+            "code_ogr": "20832",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Appr\u00e9ciation esth\u00e9tique (tomber de v\u00eatement, ...)",
+            "code_ogr": "20771",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de dessins, croquis",
+            "code_ogr": "20938",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Calcul de m\u00e9trage",
+            "code_ogr": "20803",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de machine \u00e0 coudre",
+            "code_ogr": "21278",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Couture flou",
+            "code_ogr": "20831",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise artisanale",
+            "code_ogr": "23870",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de fabrication d'articles textiles",
+            "code_ogr": "23874",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Administration / Services de l'Etat",
+            "code_ogr": "23388",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Confection textile",
+            "code_ogr": "23450",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Haute couture",
+            "code_ogr": "23516",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Spectacle",
+            "code_ogr": "23638",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Au domicile de l'intervenant",
+            "code_ogr": "23374",
+            "code_type_section_env": "3"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des tissus et mati\u00e8res textiles",
+            "code_ogr": "21665",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des fils",
+            "code_ogr": "21595",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "G\u00e9om\u00e9trie",
+            "code_ogr": "21986",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de piq\u00fbre machine",
+            "code_ogr": "23029",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de repassage",
+            "code_ogr": "23097",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de coupe de textile, cuir",
+            "code_ogr": "22858",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de collage",
+            "code_ogr": "22837",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de gradation",
+            "code_ogr": "22925",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de patronage",
+            "code_ogr": "23022",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de prise de mesures (habillement)",
+            "code_ogr": "23059",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'assemblage/montage en habillement/confection",
+            "code_ogr": "22803",
+            "position_item": "11",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques morphologiques masculines",
+            "code_ogr": "21691",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques morphologiques f\u00e9minines",
+            "code_ogr": "21690",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des cuirs et peaux",
+            "code_ogr": "21569",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des fourrures",
+            "code_ogr": "21597",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'assemblage des fourrures",
+            "code_ogr": "22794",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de dessin",
+            "code_ogr": "22888",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'application des appr\u00eats, des teintes",
+            "code_ogr": "22782",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de broderie",
+            "code_ogr": "22817",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'application de garniture (perles, paillettes, plumes, voilette, ...)",
+            "code_ogr": "21109",
+            "position_item": "3",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nFa\u00e7onne \u00e0 la main ou \u00e0 la machine sur mesure ou en petite s\u00e9rie des v\u00eatements (pantalons, robes de soir\u00e9e, manteaux, ...) en diff\u00e9rents mat\u00e9riaux (tissu, cuir, fourrure, ...).\nPeut cr\u00e9er de nouveaux mod\u00e8les, r\u00e9aliser des croquis, r\u00e9aliser des retouches sur des v\u00eatements.\nPeut coordonner une \u00e9quipe et diriger une structure.\n",
+    "intitule": "R\u00e9alisation de v\u00eatements sur mesure ou en petite s\u00e9rie",
+    "code_ogr": "51",
+    "code_rome": "B1803",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "B1805",
+            "libelle_rome_cible": "Stylisme"
+        },
+        {
+            "code_rome_cible": "D1201",
+            "libelle_rome_cible": "Achat vente d'objets d'art, anciens ou d'occasion"
+        },
+        {
+            "code_rome_cible": "D1301",
+            "libelle_rome_cible": "Management de magasin de d\u00e9tail"
+        },
+        {
+            "code_rome_cible": "D1402",
+            "libelle_rome_cible": "Relation commerciale grands comptes et entreprises"
+        },
+        {
+            "code_rome_cible": "G1202",
+            "libelle_rome_cible": "Animation d'activit\u00e9s culturelles ou ludiques"
+        },
+        {
+            "code_rome_cible": "H1205",
+            "libelle_rome_cible": "\u00c9tudes - mod\u00e8les en industrie des mat\u00e9riaux souples"
+        },
+        {
+            "code_rome_cible": "K1203",
+            "libelle_rome_cible": "Encadrement technique en insertion professionnelle"
+        },
+        {
+            "code_rome_cible": "K2109",
+            "libelle_rome_cible": "Enseignement technique et professionnel"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ]
+}

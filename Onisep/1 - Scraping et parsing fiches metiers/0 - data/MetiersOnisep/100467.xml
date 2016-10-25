@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">agent/e de sécurité</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">défendre, secourir, surveiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction sécurité, protection, défense</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur sécurité</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">surveillance privée/sécurité des biens et des personnes</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE nettoyage assainissement environnement sécurité/agent de sécurité</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100467</lien_onisep>
+<ROME Level="1B" csRelFld="100467">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="524" csRelFld="524">
+<CSLABELFLD label="">K2503</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Sécurité privée</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K2503</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Sécurité et surveillance privées</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100467">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="37570" csRelFld="37570">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37570</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100467</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Sécuriser biens et personnes</inter>
+<p>L'agent de sécurité assure des missions de prévention, de surveillance et de protection des biens et des personnes, en respectant la législation et la réglementation en vigueur, ainsi que les instructions de sa hiérarchie.</p>
+<p>Accueil et contrôle d'accès, surveillance générale et sécurité technique de site... font aussi partie de ses attributions.</p>
+<inter>Protéger et assister</inter>
+<p>Il détecte les anomalies et les intrusions, gère les incidents. Il procède aussi aux actions de sauvegarde adaptées : assistance à personne, diagnostic, premiers gestes de secours (si besoin)...</p>
+<inter>Intervenir et informer</inter>
+<p>L'agent de sécurité intervient à la demande du personnel autorisé à le faire ou sur déclenchement d'une alarme. Lorsque l'intervention requise dépasse ses prérogatives, il avertit alors ou fait avertir les services compétents (ou les personnes désignées) pour faire cesser le trouble concerné.</p>
+<p>Après toute intervention, il informe sa hiérarchie ou les services publics de sécurité (police ou gendarmerie) par le biais d'un compte rendu, d'une « main courante » (plainte) manuscrite ou informatisée, d'une communication radio.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="37574" csRelFld="37574">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37574</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100467</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Différents niveaux d'études sont possibles pour exercer ce métier. Les CAP, MC ou BP représentent les diplômes de base. Avec un bac + 3 ou un bac + 5, on occupe directement un poste d'encadrement. </accr_p>Viennent s'ajouter des qualifications professionnelles (agent de sécurité incendie certifié, opérateur certifié en télésécurité, conducteur de chien de défense certifié...) reconnues par la convention collective nationale.</p>
+<p>
+<accr_p>Enfin, des formations spécifiques (sauveteur secouriste du travail, formation aux premiers secours...) peuvent faciliter le recrutement.</accr_p>
+</p>
+<p>
+<accr_p>À noter : il faut être majeur, avoir un casier judiciaire vierge et être en possession d'une carte professionnelle. Elle est délivrée par le préfet et valable 5 ans. </accr_p>
+</p>
+<inter>Niveau CAP</inter>
+<liste>
+<itsimp>
+<em>CAP</em> agent de sécurité </itsimp>
+<itsimp>
+<em>MC</em> sûreté des espaces ouverts au public</itsimp>
+</liste>
+<inter>Niveau bac</inter>
+<liste>
+<itsimp>
+<em>Bac pro</em> sécurité-prévention (dernière session d'examen avec cet intitulé en 2016) </itsimp>
+<itsimp>
+<em>Bac pro</em> Métiers de la sécurité </itsimp>
+<itsimp>
+<em>Brevet professionnel</em> (BP) agent technique de prévention et de sécurité</itsimp>
+</liste>
+<inter>Niveau bac + 2</inter>
+<liste>
+<itsimp>
+<em>DUT</em> hygiène, sécurité, environnement</itsimp>
+</liste>
+<inter>Niveau bac + 3</inter>
+<liste>
+<itsimp>
+<em>Licence pro</em> sécurité des biens et des personnes</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="37572" csRelFld="37572">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37572</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100467</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Dans de multiples sociétés</inter>
+<p>L'application généralisée du plan Vigipirate et la lutte contre le terrorisme ont créé des débouchés dans une multitude de petites sociétés de gardiennage ou de surveillance. Seulement une centaine d'entre elles compte plus de 250 salariés.</p>
+<inter>Des embauches à la hausse</inter>
+<p>En 2007, 150 000 agents de sécurité ont été recrutés en France. Depuis 1998, les effectifs ont augmenté de plus de 8 % et 60 000 postes sont à pourvoir d'ici à 2015. </p>
+<inter>Carrière évolutive</inter>
+<p>Les possibilités d'évolution d'un agent sont réelles et importantes. Il peut se spécialiser comme opérateur en télésurveillance, conducteur de chien de garde ou de défense, rondier intervenant, agent de prévention des vols, agent de sécurité incendie...Chacun de ces métiers répond aux principales qualifications professionnelles reconnues par la convention collective nationale.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>A partir du <sal>Smic</sal>
+</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">opérateur/trice sur machine à commande numérique</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">concevoir, utiliser des technologies industrielles de pointe/fabriquer, construire</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction fabrication industrielle</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur construction aéronautique/secteur construction automobile/secteur construction mécanique/secteur construction navale/secteur construction électrique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">usinage/conduite de machine automatisée/commande numérique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE mécanique automatismes/opérateur sur machine à commande numérique</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10354</lien_onisep>
+<ROME Level="1B" csRelFld="10354">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="341" csRelFld="341">
+<CSLABELFLD label="">H2903</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Mécanique, travail des métaux et outillage</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2903</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Conduite d'équipement d'usinage</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="350" csRelFld="350">
+<CSLABELFLD label="">H2912</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Mécanique, travail des métaux et outillage</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2912</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Réglage d'équipement de production industrielle</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10354">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1666" csRelFld="1666">
+<CSLABELFLD label="">fraiseur / fraiseuse sur machines conventionnelles et à commande numérique</CSLABELFLD>
+<MET_ID label="Identifiant">10354</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1666</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">fraiseur/euse sur machines conventionnelles et à commande numérique</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1666">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1667" csRelFld="1667">
+<CSLABELFLD label="">monteur-régleur / monteuse-régleuse de systèmes mécaniques et automatisés</CSLABELFLD>
+<MET_ID label="Identifiant">10354</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1667</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">monteur/euse-régleur/euse de systèmes mécaniques et automatisés</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1667">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1668" csRelFld="1668">
+<CSLABELFLD label="">opérateur / opératrice de production (décolletage)</CSLABELFLD>
+<MET_ID label="Identifiant">10354</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1668</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">opérateur/trice de production (décolletage)</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1668">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1669" csRelFld="1669">
+<CSLABELFLD label="">opérateur / opératrice d'usinage sur machine à commande numérique</CSLABELFLD>
+<MET_ID label="Identifiant">10354</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1669</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">opérateur/trice d'usinage sur machine à commande numérique</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1669">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1670" csRelFld="1670">
+<CSLABELFLD label="">opérateur / opératrice en techniques d'usinage option tournage ou fraisage</CSLABELFLD>
+<MET_ID label="Identifiant">10354</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1670</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">opérateur/trice en techniques d'usinage option tournage ou fraisage</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1670">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18777" csRelFld="18777">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18777</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10354</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+   <inter>Fabriquer par usinage</inter>
+   <p>L'opérateur conduit une ou plusieurs machines à commande numérique (tour, perceuse, rectifieuse, fraiseuse...) pilotées par un programme informatique. Ces machines fabriquent des pièces mécaniques (boîtes de vitesses, moteurs...) par usinage, c'est-à-dire en enlevant du métal. En FAO (fabrication assistée par ordinateur), certaines machines multifonctions peuvent effectuer différentes opérations d'usinage (tournage, fraisage...) simultanément.</p>
+   <inter>Lancer et gérer la production</inter>
+   <p>Dans le cadre du lancement et du suivi d'une production en série, l'opérateur commence par préparer le travail de fabrication. Il étudie le dessin de la pièce à réaliser, définit un mode opératoire, programme les machines, choisit les outillages, installe et règle les outils. Après les premiers essais et tests, la production en série démarre.</p>
+   <inter>Contrôler et corriger</inter>
+   <p>Une fois le système de production en route, l'opérateur surveille le bon déroulement du processus. Rien ne doit lui échapper. Tout doit être conforme. À lui de respecter la qualité, les délais et les coûts. Il contrôle des pièces finies prélevées, repère les dérives au niveau des dimensions ou des formes par exemple, et apporte les corrections nécessaires à la programmation des machines pour les rectifier.</p>
+  </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18779" csRelFld="18779">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18779</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10354</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Les formations spécialisées en mécanique, électricité, électronique, structures métalliques sont appréciées des entreprises.</accr_p>
+</p>
+<inter>Niveau bac</inter>
+<liste>
+<itsimp>
+<em>Bacs pro</em> pilote de ligne de production ; productique mécanique, option décolletage ; technicien outilleur ; technicien d'usinage.</itsimp>
+</liste>
+<inter>Niveau bac + 2</inter>
+<liste>
+<itsimp>
+<em>BTS</em> industrialisation des produits mécaniques ; <em>DUT</em> génie mécanique et productique </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18773" csRelFld="18773">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18773</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10354</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+   <inter>Qualification à la hausse</inter>
+   <p>L'industrie recherche aujourd'hui des opérateurs polyvalents et de plus en plus qualifiés, capables d'occuper différents postes de travail sur une ligne de fabrication. Des places sont à prendre dans les secteurs ayant recours aux techniques d'usinage : automobile, aéronautique, construction navale, construction mécanique, construction de matériels électriques, industrie de l'armement, réalisation d'outillages... À noter : débuter en intérim est fréquent.</p>
+   <inter>Devenir chef d'atelier</inter>
+   <p>Dans l'industrie, les opportunités de promotion interne ne manquent pas. Avec de l'expérience, un opérateur peut rapidement encadrer une équipe et évoluer vers des fonctions de chef d'atelier (lancement, coordination et suivi de la production). Grâce à la formation professionnelle, il peut également se spécialiser et devenir par exemple programmeur sur machine à commande numérique, technicien des méthodes, technicien qualité ou encore gestionnaire de production.</p>
+   <remun>
+    <inter>Salaire du débutant</inter>
+    <p>
+     <sal>1700</sal> euros brut par mois.</p>
+    <p>Source : http://www.semaine-industrie-bretagne.fr/metiers-et-formations/metallurgie/operateurtrice-sur-machine-a-commande-numerique.html (visité le 13/02/2015).</p>
+   </remun>
+  </MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

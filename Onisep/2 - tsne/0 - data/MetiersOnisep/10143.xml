@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">accompagnateur/trice de voyages</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">me déplacer souvent/pratiquer les langues vivantes/animer des activités culturelles, ludiques ou éducatives</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">saisonnier/indépendant</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction animation</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur du tourisme</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">animation tourisme/langue étrangère</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE hôtellerie restauration tourisme loisirs/accompagnateur de voyages</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10143</lien_onisep>
+<ROME Level="1B" csRelFld="10143">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="220" csRelFld="220">
+<CSLABELFLD label="">G1201</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Animation d'activités de loisirs</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">G1201</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Accompagnement de voyages, d'activités culturelles ou sportives</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10143">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18542" csRelFld="18542">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18542</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10143</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Au service des touristes</inter>
+<p>Une semaine en Hongrie, l'autre à Malte... Ce professionnel accompagne des groupes lors de circuits touristiques. Chargé surtout des questions pratiques, il veille sur le bien-être et le confort des personnes, en s'adaptant à leurs attentes. Avant le départ, il commence  à étudier le programme de visites et les prestations avec l'agence qui organise le séjour. </p>
+<inter>Jamais pris au dépourvu</inter>
+<p>Dès l'aéroport, l'accompagnateur de voyages prend en charge les formalités, puis veille au transfert du groupe jusqu'à l'hôtel. Durant le séjour, en tandem avec le guide local, il vérifie que le programme est respecté : réservations pour les visites, les restaurants, prestations des conférenciers. Jamais pris au dépourvu, il a toujours un temps d'avance sur le planning afin d'éviter les mauvaises surprises. </p>
+<inter>Proche du groupe </inter>
+<p>Son rôle toutefois ne se limite pas aux aspects techniques. On compte sur lui pour favoriser la cohésion au sein du groupe. Sans être spécialiste, il peut être amené à relayer les guides locaux à propos des habitudes culturelles ou de l'histoire du pays visité. Ce qui suppose un travail préparatoire de documentation. En fin de séjour, des questionnaires de satisfaction sont remis aux clients. La  mission de l'accompagnateur : valoriser la prestation de l'agence. Et donc fidéliser la clientèle.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16146" csRelFld="16146">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16146</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10143</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Il n'y a pas de formation exclusive pour devenir accompagnateur de voyages. Bien que le programme du BTS tourisme ne prépare pas directement à cette fonction, il permet d'acquérir la culture touristique et le niveau de langues étrangères requis. Une licence de langues ou d'histoire peut aussi constituer un tremplin à ce métier. </p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS tourisme</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16142" csRelFld="16142">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16142</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10143</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>L'atout des langues</inter>
+<p>Difficile de se constituer un réseau de clients lorsqu'on débute. Car les emplois ne font l'objet d'aucune publicité. C'est la technique du bouche à oreille qui prévaut, surtout auprès des agences de voyages importantes. Pour mettre toutes les chances de leur côté, les jeunes candidats ont intérêt à préparer le BAFA (brevet d'aptitude aux fonctions d'animateur), exigé pour encadrer des groupes de jeunes, en centre de vacances, par exemple. Les voyages à l'étranger, la pratique des langues constituent des atouts sérieux sur un CV.</p>
+<inter>Premières années difficiles</inter>
+<p>Les stages chez les voyagistes, même à des fonctions sédentaires, représentent également un moyen de mettre le pied à l'étrier. En général, un débutant sera testé en se greffant sur un voyage aux côtés d'un accompagnateur professionnel. Après quelques années, il peut espérer gagner sa vie. Mais, bien souvent, il sera obligé d'exercer un second métier en période creuse, en tant que chauffeur de car de tourisme ou guide-interprète. </p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Entre 50 et 60 euros brut le forfait journalier, plus 10 % pour les circuits à l'étranger. Les repas sont considérés comme des avantages en nature.</p>
+<postit>
+<p>Source : Légifrance, Convention collective du tourisme.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

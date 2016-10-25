@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">régisseur/euse général/e cinéma</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">intermittent du spectacle</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction encadrement - coordination</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur de l'audiovisuel</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">production audiovisuelle/cinéma</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques de la communication média/régisseur général</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100491</lien_onisep>
+<ROME Level="1B" csRelFld="100491">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="555" csRelFld="555">
+<CSLABELFLD label="">L1509</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Techniciens du spectacle</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">L1509</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Régie générale</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100491">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="38210" csRelFld="38210">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">38210</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100491</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Organiser et organiser</inter>
+<p>Collaborateur direct du directeur de production, le régisseur général est responsable de l'organisation matérielle d'un tournage.</p>
+<p>Il assure la coordination des diverses opérations prévues par le planning et règle tous les problèmes pratiques.</p>
+<inter>Préparer le tournage</inter>
+<p>Son rôle débute dès la préparation du tournage. Il participe aux repérages des lieux, à la recherche des décors, à l'obtention des autorisations de tournage...</p>
+<p>Il rassemble le matériel (caméra, éclairage...) et veille à sa mise en place au moment voulu.</p>
+<inter>Programmer les plannings</inter>
+<p>Il prend en charge le transport, l'hébergement et la restauration de l'équipe en effectuant les réservations nécessaires.</p>
+<p>Chaque jour, il établit un programme, en mentionnant l'heure de présence des acteurs et techniciens.</p>
+<p>En cas de retard et de changement de décor, il fait suivre les modifications de plan de travail aux personnes concernées.</p>
+<inter>Gérer le quotidien</inter>
+<p>Enfin, il s'occupe des questions d'ordre divers : penser à faire bloquer des rues, réserver des places de stationnement, aller chercher et accueillir les comédiens, recruter et payer les figurants...</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="38214" csRelFld="38214">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">38214</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100491</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Aucun établissement ne délivre de titre de régisseur général. Le métier s'apprend sur le terrain.</accr_p>
+</p>
+<p>Il est toutefois possible, voire conseillé, d'avoir suivi des cursus préparant aux métiers du spectacle.</p>
+<inter>Niveau bac + 2</inter>
+<liste>
+<itsimp>BTS métiers de l'audiovisuel, option gestion de production ;</itsimp>
+</liste>
+<inter>Niveau bac + 5</inter>
+<liste>
+<itsimp>Masters pro sciences humaines et sociales, mention cinéma, spécialité télévision et cinéma...</itsimp>
+<itsimp>Diplôme des écoles supérieures d'audiovisuel disposant d'un département production (École nationale supérieure des métiers de l'image et du son, FEMIS) ;</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="38212" csRelFld="38212">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">38212</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100491</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Une carrière à étapes</inter>
+<p>Impossible de s'improviser à la régie générale du jour au lendemain. On commence habituellement comme stagiaire avant de pouvoir prétendre à un poste de régisseur adjoint.</p>
+<p>Souvent on devient régisseur général après être passé par un poste de régisseur du son, de la lumière, de la machinerie.</p>
+<inter>Profession réglementée</inter>
+<p>Au bout de 2 ans, le Centre national de la cinématographie (CNC) délivre une carte d'identité professionnelle (CIP). Mais ce n'est qu'après encore 4 ou 5 ans que le postulant pourra accéder au titre de régisseur général. </p>
+<p>Les plus doués pourront ensuite s'orienter vers la direction de production, métier plus stable et plus rémunérateur...</p>
+<remun>
+<inter>Salaire débutant</inter>
+<p>1200 euros brut la semaine.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

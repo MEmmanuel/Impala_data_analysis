@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">technicien/ne de fabrication de mobilier et de menuiserie</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">fabriquer, construire/travailler un matériau/exercer un métier artistique ou créatif/concevoir, utiliser des technologies industrielles de pointe/faire du dessin</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction fabrication industrielle</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie de l'ameublement</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">ameublement/bois/agencement</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE travail du bois/technicien de fabrication de mobilier et de menuiserie</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10002</lien_onisep>
+<ROME Level="1B" csRelFld="10002">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="294" csRelFld="294">
+<CSLABELFLD label="">H2204</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Bois</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2204</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Encadrement des industries de l'ameublement et du bois</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="299" csRelFld="299">
+<CSLABELFLD label="">H2209</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Bois</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2209</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Intervention technique en ameublement et bois</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10002">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1083" csRelFld="1083">
+<CSLABELFLD label="">agent / agente de maîtrise de la ville de Paris (agencement bois)</CSLABELFLD>
+<MET_ID label="Identifiant">10002</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">03/01/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1083</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">agent/e de maîtrise de la ville de Paris (agencement bois)</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1083">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17795" csRelFld="17795">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17795</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10002</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Différentes missions</inter>
+<p>Définir des méthodes pour concevoir et fabriquer différents ouvrages en bois, participer au lancement et au suivi de la fabrication : tels sont les objectifs du technicien de fabrication exerçant dans les entreprises de menuiserie et d'ameublement. Des missions qui diffèrent selon qu'il exerce en bureau d'études ou en atelier. </p>
+<inter>Concevoir les produits</inter>
+<p>Au sein d'un bureau d'études, il contribue à la conception et au design des produits. Il réalise des plans à partir de modèles existants, en fournissant toutes les indications nécessaires à la fabrication d'un meuble, d'une porte, d'une fenêtre... Cela concerne les études avec plan grandeur nature, le prototype, les méthodes, le contrôle qualité, la gestion des stocks... </p>
+<inter>Organiser la production</inter>
+<p>En atelier, il est responsable d'une cellule de production dont il organise et contrôle le travail sur machines automatisées. En fonction des plans remis par le bureau d'études, il dresse la liste des opérations techniques à réaliser, définit les paramètres d'usinage (vitesse de coupe du bois notamment) et les traduit en langage machine à l'aide des commandes numériques. Puis il vérifie le bon déroulement de la production.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17805" csRelFld="17805">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17805</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10002</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Si plusieurs diplômes préparent à ce métier, il faut savoir qu'un niveau d'études plus élevé conduit à des postes avec davantage de responsabilités.</accr_p>
+</p>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>Bac techno STI2D (développement durable)</itsimp>
+<itsimp>Bacs pro technicien de fabrication bois et matériaux associés ; menuiserie aluminium-verre ; technicien menuisier-agenceur</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS développement et réalisation bois</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licences pro sciences, technologies, santé bois et ameublement, spécialité ameublement ; sciences, technologies, santé production industrielle, spécialité qualité et processus industriels dans les industries du bois ; sciences, technologies, santé mention métiers du bois...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16184" csRelFld="16184">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16184</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10002</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Élargir ses horizons</inter>
+<p>Les entreprises de fabrication de meubles ou de menuiserie offrent peu de débouchés. Aussi est-il conseillé d'étendre ses recherches d'emploi à l'agencement, autre branche du secteur de la transformation du bois. Cette activité est aujourd'hui en plein essor, que ce soit chez les fabricants de cuisines intégrées ou dans l'industrie nautique.</p>
+<inter>Promotion possible</inter>
+<p>Quelques années de pratique du métier permettent d'accéder à des fonctions d'encadrement en tant que responsable de bureau d'études ou chef d'atelier. Ce dernier supervise le travail de l'opérateur de fabrication et du conducteur de ligne.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>A partir du <sal>Smic</sal> et jusqu'à 2000 euros brut par mois.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

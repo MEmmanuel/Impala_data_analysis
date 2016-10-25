@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ascensoriste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">réparer, entretenir, installer des équipements/me déplacer souvent/exercer un travail manuel</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction installation/fonction maintenance</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur maintenance</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">ascenseur/équipement technique du bâtiment/sécurité des installations et équipements</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE électricité électrotechnique électronique/ascensoriste</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100251</lien_onisep>
+<ROME Level="1B" csRelFld="100251">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="379" csRelFld="379">
+<CSLABELFLD label="">I1301</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Equipements de production, équipements collectifs</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">I1301</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Installation et maintenance d'ascenseurs</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100251">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1311" csRelFld="1311">
+<CSLABELFLD label="">agent / agente de maintenance d'ascenseurs</CSLABELFLD>
+<MET_ID label="Identifiant">100251</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">01/07/2013</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1311</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">agent/e de maintenance d'ascenseurs</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1311">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1310" csRelFld="1310">
+<CSLABELFLD label="">agent / agente d'entretien d'ascenseurs</CSLABELFLD>
+<MET_ID label="Identifiant">100251</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">01/07/2013</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1310</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">agent/e d'entretien d'ascenseurs</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1310">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1312" csRelFld="1312">
+<CSLABELFLD label="">dépanneur / dépanneuse d'ascenseurs</CSLABELFLD>
+<MET_ID label="Identifiant">100251</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">01/07/2013</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1312</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">dépanneur/euse d'ascenseurs</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1312">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1313" csRelFld="1313">
+<CSLABELFLD label="">installateur-monteur / installatrice-monteuse de trottoirs roulants</CSLABELFLD>
+<MET_ID label="Identifiant">100251</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">01/07/2013</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1313</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">installateur/trice-monteur/euse de trottoirs roulants</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1313">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1314" csRelFld="1314">
+<CSLABELFLD label="">mécanicien-électricien / mécanicienne-électricienne d'ascenseurs</CSLABELFLD>
+<MET_ID label="Identifiant">100251</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">01/07/2013</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1314</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">mécanicien/ne-électricien/ne d'ascenseurs</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1314">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1315" csRelFld="1315">
+<CSLABELFLD label="">monteur / monteuse d'ascenseurs</CSLABELFLD>
+<MET_ID label="Identifiant">100251</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">01/07/2013</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1315</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">monteur/euse d'ascenseurs</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1315">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1316" csRelFld="1316">
+<CSLABELFLD label="">réparateur / réparatrice d'ascenseurs</CSLABELFLD>
+<MET_ID label="Identifiant">100251</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">01/07/2013</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1316</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">réparateur/trice d'ascenseurs</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1316">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1317" csRelFld="1317">
+<CSLABELFLD label="">technicien / technicienne de maintenance (de portes automatiques, de trottoirs roulants, d'ascenseurs)</CSLABELFLD>
+<MET_ID label="Identifiant">100251</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">01/07/2013</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1317</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">technicien/ne de maintenance (de portes automatiques, de trottoirs roulants, d'ascenseurs)</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1317">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1318" csRelFld="1318">
+<CSLABELFLD label="">technicien / technicienne de réparation des ascenseurs</CSLABELFLD>
+<MET_ID label="Identifiant">100251</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">01/07/2013</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1318</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">technicien/ne de réparation des ascenseurs</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1318">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1319" csRelFld="1319">
+<CSLABELFLD label="">technicien / technicienne de service après-vente ascenseurs</CSLABELFLD>
+<MET_ID label="Identifiant">100251</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">01/07/2013</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1319</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">technicien/ne de service après-vente ascenseurs</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1319">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18944" csRelFld="18944">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18944</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100251</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Installation et réglages</inter>
+<p>Après l'étude des plans et schémas de l'ouvrage à réaliser, ce technicien de montage équipe la cage de l'ascenseur : mise en place des barres de guidage, implantation du moteur et de sa commande, pose des portes palières et des boutons d'appel, câblages et raccordements électriques. Il procède ensuite au montage de la cabine, aux contrôles et réglages préalables à la mise en service.</p>
+<inter>Entretien et dépannage</inter>
+<p>Il peut aussi être responsable de la maintenance d'un parc d'ascenseurs, de monte-charge ou d'escaliers mécaniques. Il procède régulièrement aux contrôles, nettoyages et réglages nécessaires. En cas de panne, il identifie le système défaillant et effectue généralement un échange standard (carte électronique, boîtier électrique&#8230;). La pièce déffectueuse est réparée à l'atelier de l'entreprise ou renvoyé chez le fabricant.</p>
+<inter>Modernisation et adaptation</inter>
+<p>L'ascensoriste adapte les installations aux besoins des usagers en tenant compte de l'augmentation des charges transportées et de la vitesse de déplacement. Il réalise les modifications nécessaires pour maintenir les installations en conformité avec l'évolution de la réglementation.</p>
+<inter>Organisation et suivi des sites</inter>
+<p>À chaque intervention, l'ascensoriste effectue les tests réglementaires de remise en service. Il remplit et signe les fiches techniques qui constituent le dossier de maintenance de l'appareil.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18949" csRelFld="18949">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18949</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100251</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le métier d'ascensoriste est accessible après un bac pro suivi d'une MC (mention complémentaire), d'un BTS ou d'un titre professionnel.</p>
+<p>Des formations sont également dispensées dans les centres de formation internes des grandes entreprises (Koné, Otis, Schindler, ThyssenKrupp...).</p>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>Bac pro électrotechnique, énergie, équipements communicants</itsimp>
+<itsimp>Bac pro maintenance des équipements industriels</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 1</tete>
+<itsimp>MC technicien ascensoriste (service et modernisation)</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS maintenance des systèmes option A systèmes de production</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18947" csRelFld="18947">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18947</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100251</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Petites et grandes entreprises</inter>
+<p>Le secteur des ascenseurs compte une majorité de PME (petites et moyennes entreprises), mais aussi 4 multinationales (Koné, ThyssenKrupp, Otis et Schindler). Certaines sociétés fabriquent et installent les ascenseurs, monte-charge, escaliers mécaniques et trottoirs roulants. D'autres assurent uniquement la maintenance, la rénovation et l'assistance aux usagers. Les grandes entreprises proposent généralement l'ensemble de ces prestations.</p>
+<inter>Du travail assuré</inter>
+<p>L'évolution de la réglementation, avec la mise aux normes obligatoire, a favorisé l'embauche. 1500 recrutements annuels sont prévus au cours de la prochaine décennie. La région Ile-de-France concentre à elle seule la moitié des besoins, mais partout il faut entretenir, équiper et moderniser les ascenseurs des immeubles, entreprises, hôpitaux, gares ou centres commerciaux. Sans oublier leurs variantes : portes automatiques, escaliers mécaniques, trottoirs roulants et monte-charge. Les ascensoristes expérimentés peuvent donc trouver un emploi dans leur région.</p>
+<inter>Des perspectives d'évolution</inter>
+<p>Après quelques années d'expérience, il est possible d'évoluer vers les postes de chef d'équipe ou de chef d'atelier, de se spécialiser sur certains matériels (ponts roulants, téléphériques&#8230;), de s'orienter vers le technico-commercial, la formation, la planification et la gestion (des interventions, des chantiers&#8230;).</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Du <sal>Smic</sal> à 2200 euros brut par mois (selon la convention collective signée par l'entreprise à la date de l'embauche).</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

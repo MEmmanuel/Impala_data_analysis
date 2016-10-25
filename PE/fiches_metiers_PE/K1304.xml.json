@@ -1,0 +1,442 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente \u00e0 domicile",
+            "priorisation": "1",
+            "libelle": "Agent / Agente \u00e0 domicile",
+            "code_ogr": "10348"
+        },
+        {
+            "libelle_court": "Aide \u00e0 domicile",
+            "priorisation": "1",
+            "libelle": "Aide \u00e0 domicile",
+            "code_ogr": "10805"
+        },
+        {
+            "libelle_court": "Aide familial / familiale",
+            "priorisation": "1",
+            "libelle": "Aide familial / familiale",
+            "code_ogr": "10846"
+        },
+        {
+            "libelle_court": "Aide m\u00e9nager / m\u00e9nag\u00e8re \u00e0 domicile",
+            "priorisation": "1",
+            "libelle": "Aide m\u00e9nager / m\u00e9nag\u00e8re \u00e0 domicile",
+            "code_ogr": "10857"
+        },
+        {
+            "libelle_court": "Employ\u00e9 / Employ\u00e9e de maison",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 / Employ\u00e9e de maison",
+            "code_ogr": "14771"
+        },
+        {
+            "libelle_court": "Employ\u00e9 / Employ\u00e9e de m\u00e9nage",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 / Employ\u00e9e de m\u00e9nage",
+            "code_ogr": "14774"
+        },
+        {
+            "libelle_court": "Employ\u00e9 familial / Employ\u00e9e familiale de maison",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 familial / Employ\u00e9e familiale de maison",
+            "code_ogr": "14805"
+        },
+        {
+            "libelle_court": "Employ\u00e9 familial polyvalent / Employ\u00e9e familiale polyvalente",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 familial polyvalent / Employ\u00e9e familiale polyvalente",
+            "code_ogr": "14806"
+        },
+        {
+            "libelle_court": "Gouvernant / Gouvernante \u00e0 domicile",
+            "priorisation": "1",
+            "libelle": "Gouvernant / Gouvernante \u00e0 domicile",
+            "code_ogr": "15382"
+        },
+        {
+            "libelle_court": "Gouvernant / Gouvernante d'int\u00e9rieur",
+            "priorisation": "1",
+            "libelle": "Gouvernant / Gouvernante d'int\u00e9rieur",
+            "code_ogr": "15386"
+        },
+        {
+            "libelle_court": "Intervenant familial / Intervenante familiale de maison",
+            "priorisation": "1",
+            "libelle": "Intervenant familial / Intervenante familiale de maison",
+            "code_ogr": "16064"
+        },
+        {
+            "libelle_court": "Majordome",
+            "priorisation": "1",
+            "libelle": "Majordome",
+            "code_ogr": "16327"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "D\u00e9poussi\u00e9rer les sols, les tapis, les meubles, les objets et a\u00e9rer, d\u00e9sodoriser les pi\u00e8ces",
+            "code_ogr": "1792",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer et laver les sols, les mobiliers",
+            "code_ogr": "2406",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Entretenir et ranger le linge de maison et les v\u00eatements de la personne (lessive, couture, repassage, ...)",
+            "code_ogr": "1814",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer et ranger la vaisselle, la cuisine, les sanitaires",
+            "code_ogr": "2411",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Entretenir et remettre en place les \u00e9quipements m\u00e9nagers et veiller \u00e0 l'\u00e9tat des stocks des produits",
+            "code_ogr": "1815",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Informer la personne des anomalies constat\u00e9es sur les mobiliers, les appareils et \u00e9ventuellement y rem\u00e9dier",
+            "code_ogr": "2201",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "6",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "G1501",
+            "libelle_rome_cible": "Personnel d'\u00e9tage"
+        },
+        {
+            "code_rome_cible": "G1502",
+            "libelle_rome_cible": "Personnel polyvalent d'h\u00f4tellerie"
+        },
+        {
+            "code_rome_cible": "G1603",
+            "libelle_rome_cible": "Personnel polyvalent en restauration"
+        },
+        {
+            "code_rome_cible": "J1301",
+            "libelle_rome_cible": "Personnel polyvalent des services hospitaliers"
+        },
+        {
+            "code_rome_cible": "K1303",
+            "libelle_rome_cible": "Assistance aupr\u00e8s d'enfants"
+        },
+        {
+            "code_rome_cible": "K2204",
+            "libelle_rome_cible": "Nettoyage de locaux"
+        },
+        {
+            "code_rome_cible": "K2501",
+            "libelle_rome_cible": "Gardiennage de locaux"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle.\nUn CAP/ BEP peut en faciliter l'acc\u00e8s.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Proc\u00e9der \u00e0 des activit\u00e9s de nettoyage :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cirage et astiquage de parquet, meuble",
+            "code_ogr": "8081",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9tachage de moquette, tapis (manuel, m\u00e9canique)",
+            "code_ogr": "8082",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Lavage de vitres",
+            "code_ogr": "8083",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyage et astiquage d'objets (\u00e9tain, argenterie, ...)",
+            "code_ogr": "8084",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Changer les draps et refaire les lits (mises \u00e0 blanc, recouche, ...)",
+            "code_ogr": "3865",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des courses alimentaires ou d'agr\u00e9ment selon des consignes",
+            "code_ogr": "4866",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer les aliments (\u00e9pluchage, lavage, ...) ou r\u00e9aliser le repas de la personne",
+            "code_ogr": "7985",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Garder des enfants scolaris\u00e9s et les accompagner dans leurs activit\u00e9s quotidiennes (trajet maison-\u00e9cole, repas/go\u00fbter, sorties, ...)",
+            "code_ogr": "6083",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Aider la personne dans les gestes de la vie quotidienne",
+            "code_ogr": "3500",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accueillir un visiteur et l'introduire aupr\u00e8s de l'h\u00f4te",
+            "code_ogr": "3651",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nourrir, promener des animaux et entretenir leur environnement (liti\u00e8re de chat, aquarium, ...)",
+            "code_ogr": "7659",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer et entretenir des plantes, des espaces verts ou des espaces ext\u00e9rieurs",
+            "code_ogr": "7649",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des travaux de maintenance simple ou de manutention au domicile de la personne",
+            "code_ogr": "5096",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au domicile d'un ou plusieurs particuliers.\nElle peut varier selon la structure (particulier employeur, association mandataire, association prestataire, ...) et le contexte de travail.\nElle peut impliquer des d\u00e9placements.\nElle peut s'exercer en horaires fractionn\u00e9s, les fins de semaine et jours f\u00e9ri\u00e9s.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de fiche technique",
+            "code_ogr": "20943",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareil \u00e9lectrom\u00e9nager",
+            "code_ogr": "21146",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Manipulation de produits de nettoyage et d'entretien",
+            "code_ogr": "20975",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Repassage",
+            "code_ogr": "21084",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils de taille (s\u00e9cateur, tron\u00e7onneuse, ...)",
+            "code_ogr": "21473",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Association",
+            "code_ogr": "23706",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Particulier employeur",
+            "code_ogr": "38127",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de service d'aide \u00e0 domicile",
+            "code_ogr": "24091",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9dicosocial",
+            "code_ogr": "23555",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Services \u00e0 la personne",
+            "code_ogr": "23637",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Au domicile de particulier",
+            "code_ogr": "23375",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de propret\u00e9",
+            "code_ogr": "22647",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9 domestique",
+            "code_ogr": "22624",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de nettoyage et de d\u00e9sinfection",
+            "code_ogr": "22418",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Couture",
+            "code_ogr": "21760",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en di\u00e9t\u00e9tique",
+            "code_ogr": "21849",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nProc\u00e8de \u00e0 l'entretien m\u00e9nager du domicile d'un ou plusieurs particuliers, selon les instructions de la personne ou de la structure employeuse.\nPeut effectuer des travaux de grand nettoyage occasionnels ou des activit\u00e9s de services et d'accompagnement aupr\u00e8s de publics (enfants, personnes \u00e2g\u00e9es, ...).\nPeut coordonner l'activit\u00e9 du personnel de maison.\n",
+    "intitule": "Services domestiques",
+    "code_ogr": "378",
+    "code_rome": "K1304",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1203",
+            "libelle_rome_cible": "Hydroth\u00e9rapie"
+        },
+        {
+            "code_rome_cible": "G1503",
+            "libelle_rome_cible": "Management du personnel d'\u00e9tage"
+        },
+        {
+            "code_rome_cible": "I1203",
+            "libelle_rome_cible": "Maintenance des b\u00e2timents et des locaux"
+        },
+        {
+            "code_rome_cible": "K1302",
+            "libelle_rome_cible": "Assistance aupr\u00e8s d'adultes"
+        },
+        {
+            "code_rome_cible": "K2203",
+            "libelle_rome_cible": "Management et inspection en propret\u00e9 de locaux"
+        }
+    ]
+}

@@ -1,0 +1,390 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Ergoth\u00e9rapeute",
+            "priorisation": "1",
+            "libelle": "Ergoth\u00e9rapeute",
+            "code_ogr": "14881"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier la demande de la personne et l'informer sur la d\u00e9marche d'ergoth\u00e9rapie (objectifs, \u00e9tapes, ...)",
+            "code_ogr": "2039",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le bilan des capacit\u00e9s physiques, cognitives et \u00e9valuer le degr\u00e9 d'autonomie de la personne dans son environnement domestique ou professionnel",
+            "code_ogr": "1546",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer le projet d'intervention th\u00e9rapeutique et arr\u00eater les modalit\u00e9s de prise en charge (d\u00e9roulement, fr\u00e9quence, dur\u00e9e, ...)",
+            "code_ogr": "1736",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Concevoir le programme de r\u00e9\u00e9ducation (r\u00e9adaptation aux gestes de la vie quotidienne, r\u00e9apprentissage de rep\u00e8res spatiaux, ...) et l'adapter selon l'\u00e9tat de la personne",
+            "code_ogr": "899",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Informer et conseiller la personne sur des am\u00e9nagements (rampe d'acc\u00e8s, domotique, ...) ou des \u00e9quipements, des appareillages",
+            "code_ogr": "2184",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser le bilan de fin de r\u00e9\u00e9ducation avec la personne et \u00e9changer des informations avec le m\u00e9decin, l'enseignant, ...",
+            "code_ogr": "2789",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "6",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les documents m\u00e9dico administratifs et \u00e9changer des informations avec diff\u00e9rents interlocuteurs",
+            "code_ogr": "3037",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "K2103",
+            "libelle_rome_cible": "Direction d'\u00e9tablissement et d'enseignement"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec le Dipl\u00f4me d'Etat d'Ergoth\u00e9rapeute.\nDes formations compl\u00e9mentaires (soins palliatifs d'accompagnement, sant\u00e9 communautaire et action humanitaire, ...) peuvent \u00eatre requises.\nDes vaccinations pr\u00e9vues par le Code de Sant\u00e9 Publique sont exig\u00e9es.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Mener des actions de r\u00e9\u00e9ducation d'ergoth\u00e9rapie en :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Neurologie",
+            "code_ogr": "7397",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Psychiatrie",
+            "code_ogr": "7398",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Rhumatologie",
+            "code_ogr": "7399",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Traumatologie",
+            "code_ogr": "7400",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Intervenir aupr\u00e8s d'un type de public :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Adultes",
+            "code_ogr": "6298",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Enfants et adolescents",
+            "code_ogr": "6309",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nourrissons",
+            "code_ogr": "6317",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Personnes \u00e2g\u00e9es",
+            "code_ogr": "6324",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Personnes handicap\u00e9es",
+            "code_ogr": "6327",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser ou adapter des corsets, orth\u00e8ses de repos, cales nuques, attelles, ...",
+            "code_ogr": "9252",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer des documents ou participer \u00e0 des travaux d'\u00e9tudes, de recherches en ergonomie",
+            "code_ogr": "5579",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener des actions d'information, de conseil, de sensibilisation ou de pr\u00e9vention aupr\u00e8s de diff\u00e9rents publics (professionnels, parents, ...)",
+            "code_ogr": "7391",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener des actions de formation au sein d'un organisme",
+            "code_ogr": "7395",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'\u00e9tablissement de soins, de centres de r\u00e9\u00e9ducation, ... en contact avec les patients et en relation avec diff\u00e9rents intervenants (infirmiers, kin\u00e9sith\u00e9rapeutes, orthophonistes, psychologues, ...).\n",
+    "savoir_action": [],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Centre de r\u00e9\u00e9ducation et de r\u00e9adaptation fonctionnelle",
+            "code_ogr": "23776",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement d'enseignement sp\u00e9cialis\u00e9",
+            "code_ogr": "23920",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement et service d'aide par le travail (ESAT)",
+            "code_ogr": "23765",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement m\u00e9dical (h\u00f4pital, clinique, ...)",
+            "code_ogr": "23922",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisation humanitaire",
+            "code_ogr": "24014",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9sidence de personnes \u00e2g\u00e9es",
+            "code_ogr": "24050",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Au domicile de particulier",
+            "code_ogr": "23375",
+            "code_type_section_env": "3"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Psychopathologie",
+            "code_ogr": "22516",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Neurophysiologie",
+            "code_ogr": "22207",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pathologies fonctionnelles",
+            "code_ogr": "22278",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Classification internationale des d\u00e9ficiences",
+            "code_ogr": "21722",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'art th\u00e9rapie",
+            "code_ogr": "22787",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Musicoth\u00e9rapie",
+            "code_ogr": "22204",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de relaxation",
+            "code_ogr": "23092",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Psychop\u00e9dagogie",
+            "code_ogr": "22517",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ergonomie",
+            "code_ogr": "21935",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en automatisme",
+            "code_ogr": "21931",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en biom\u00e9canique",
+            "code_ogr": "21843",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de conduite de r\u00e9union",
+            "code_ogr": "22843",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9\u00e9duque, r\u00e9adapte les personnes atteintes de d\u00e9ficience, d'incapacit\u00e9 ou d'handicap (physique, psychique, ...) selon la prescription m\u00e9dicale ou la demande individuelle.\nPeut concevoir et r\u00e9aliser des appareillages (orth\u00e8ses, attelles, ...).\n",
+    "intitule": "Ergoth\u00e9rapie",
+    "code_ogr": "347",
+    "code_rome": "J1403",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1405",
+            "libelle_rome_cible": "Conseil en information m\u00e9dicale"
+        },
+        {
+            "code_rome_cible": "J1502",
+            "libelle_rome_cible": "Coordination de services m\u00e9dicaux ou param\u00e9dicaux"
+        },
+        {
+            "code_rome_cible": "M1402",
+            "libelle_rome_cible": "Conseil en organisation et management d'entreprise"
+        }
+    ]
+}

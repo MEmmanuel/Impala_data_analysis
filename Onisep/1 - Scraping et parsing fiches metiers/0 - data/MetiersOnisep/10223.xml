@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">infirmier/ère</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">soigner/aider, conseiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire/libéral/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction administration des soins</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur santé/secteur fonction publique/secteur social</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">soins infirmiers</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE médical paramédical travail social soins personnels/infirmier</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10223</lien_onisep>
+<ROME Level="1B" csRelFld="10223">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="440" csRelFld="440">
+<CSLABELFLD label="">J1506</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Soins paramédicaux</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">J1506</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Soins infirmiers généralistes</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10223">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="990" csRelFld="990">
+<CSLABELFLD label="">infirmier / infirmière anesthésiste</CSLABELFLD>
+<MET_ID label="Identifiant">10223</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le">23/01/2012</METCONN_DATE_MODIFICATION>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">990</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">infirmier/ère anesthésiste</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">admin</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="990">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="989" csRelFld="989">
+<CSLABELFLD label="">infirmier / infirmière de bloc opératoire</CSLABELFLD>
+<MET_ID label="Identifiant">10223</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">989</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">infirmier/ère de bloc opératoire</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="989">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="991" csRelFld="991">
+<CSLABELFLD label="">infirmier-puériculteur / infirmière-puéricultrice</CSLABELFLD>
+<MET_ID label="Identifiant">10223</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">991</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">infirmier/ère-puériculteur/trice</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="991">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16685" csRelFld="16685">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16685</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10223</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Prévenir, guérir et soulager</inter>
+<p>L'infirmier effectue des soins de nature préventive, curative ou palliative pour améliorer, maintenir et restaurer la santé. Il collabore avec toute l'équipe soignante et participe au projet global de soin. Tenu au secret professionnel, il assure avec l'aide-soignant les soins d'hygiène, de confort et de sécurité du patient.</p>
+<inter>Sur prescription</inter>
+<p>La prescription médicale est le seul lien hiérarchique entre le médecin et l'infirmier. C'est-à-dire que l'infirmier n'intervient que sur ordre et avec l'accord du médecin. En aucune façon, il ne peut définir lui-même un traitement pour le patient. En revanche, il est chargé de surveiller les éventuels effets secondaires ou complications. </p>
+<inter>Gestion administrative</inter>
+<p>Surveillance des équipements, gestion des stocks de médicaments et des dossiers... autant de tâches dont l'infirmier doit s'acquitter. Il établit aussi les plannings de soins en fonction des prescriptions médicales. Par ailleurs, il peut organiser des rendez-vous auprès d'autres services (en radiologie, par exemple). Ou s'occuper des formalités d'admission des patients et rédiger les comptes rendus des visites du médecin dans le cahier des soins.</p> </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16694" csRelFld="16694">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16694</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10223</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<em>Pour exercer ce métier, il faut obtenir le diplôme d'État d'infirmier, délivré par les Ifsi (instituts de formation aux soins infirmiers).</em> Le diplôme d'État est désormais reconnu au niveau bac + 3. Les auxiliaires de puériculture et les aides-soignants justifiant de 3 ans d'expérience peuvent se présenter à un examen d'admission spécifique et bénéficier d'une dispense de certaines unités de formation.</p>
+<liste>
+<tete>Niveau bac + 3 </tete>
+<itsimp>Diplôme d'État d'infirmier</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16687" csRelFld="16687">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16687</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10223</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Etre mobile</inter>
+<p>Avec le vieillissement de la population, les besoins en professionnels du soin ne cessent d'augmenter. Cependant, le nombre de postes à pourvoir varie en fonction de la région. Ainsi, l'Ile-de-France et le Centre offrent de bonnes opportunités, alors qu'on observe un recul de l'emploi dans l'Ouest, le Sud-Ouest, le Sud et le Nord-Pas-de-Calais. Le diplômé devra donc être mobile. Mais les nombreux départs en retraite attendus dans les années à venir, laissent penser que ces difficultés d'insertion vont progressivement s'estomper. </p>
+<inter>Évoluer en se spécialisant</inter>
+<p>Avec une expérience professionnelle de 4 ans, l'infirmier peut préparer le diplôme de cadre de santé et occuper un poste d'encadrement ou de formateur dans un Ifsi (institut de formation en soins infirmiers). Après réussite à un concours, il lui est aussi possible de se spécialiser pour devenir infirmier de bloc opératoire, infirmier-anesthésiste ou infirmier-puériculteur.</p>
+<inter>Des aides pour l'installation en libéral</inter>
+<p>Après quelques années d'exercice, les infirmiers peuvent s'installer en libéral. En zones sous-équipées en professionnels de santé, cette démarche est encouragée par des aides ciblées (locaux professionnels et diverses facilitations). Enfin, tout au long de leur carrière, les infirmiers bénéficient de formations professionnelles leur permettant de maintenir leur niveau de connaissances et de diversifier leurs savoirs et leurs compétences (soins palliatifs, ostéopathie, hospitalisations à domicile...)</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1551</sal> euros brut par mois.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

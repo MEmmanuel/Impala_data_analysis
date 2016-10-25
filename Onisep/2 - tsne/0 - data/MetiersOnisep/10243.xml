@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">vétérinaire</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">soigner/faire de la recherche/m'occuper d'animaux/aider, conseiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/libéral</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction diagnostic, prescription, intervention</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur agriculture/secteur recherche/secteur industrie pharmaceutique/secteur industrie agroalimentaire</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">médecine vétérinaire</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE agriculture/vétérinaire</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10243</lien_onisep>
+<ROME Level="1B" csRelFld="10243">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="36" csRelFld="36">
+<CSLABELFLD label="">A1504</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Soins aux animaux</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">A1504</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Santé animale</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10243">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16850" csRelFld="16850">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16850</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10243</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Soigner les animaux de compagnie</inter>
+<p>Le vétérinaire dit « canin » soigne, opère et stérilise surtout les chiens et les chats. Il s'occupe aussi de rongeurs, de reptiles et d'oiseaux. Il exerce le plus souvent en cabinet ou en clinique, parfois dans un zoo.</p>
+<inter>Soigner les animaux de la ferme</inter>
+<p>À la campagne, la plupart des interventions concernent les animaux de la ferme. Le vétérinaire rural donne à l'éleveur des conseils techniques et diététiques. Il peut également effectuer des contrôles sanitaires. Dans les petites villes, le vétérinaire exerce souvent à la fois en cabinet et dans les exploitations agricoles.</p>
+<inter>Assurer un suivi tout au long de la vie</inter>
+<p>Le vétérinaire en milieu rural est présent depuis l'insémination artificielle d'une vache, par exemple, jusqu'au contrôle de son lait, de la naissance du veau... et de son départ pour l'abattoir. Il peut également participer au contrôle de l'hygiène dans les industries agroalimentaires.</p>
+<inter>Participer à la recherche</inter>
+<p>Dans l'industrie, les vétérinaires participent à la mise au point, à la production et à la commercialisation de médicaments et d'aliments pour animaux, de produits agroalimentaires. D'autres s'orientent vers la recherche ou les laboratoires d'analyses. Les inspecteurs de la santé publique vétérinaires, fonctionnaires du ministère de l'Agriculture, veillent sur la santé animale et la qualité de l'alimentation.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16849" csRelFld="16849">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16849</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10243</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Il faut compter 7 années d'études, au minimum, après le bac pour obtenir le DEV (diplôme d'État de docteur vétérinaire), nécessaire à l'exercice de la profession. Ce diplôme se prépare dans l'une des 4 écoles nationales vétérinaires à : Maisons-Alfort (94), Lyon (69), Nantes (44), Toulouse (31), sur concours commun après un bac + 2 (classe prépa principalement). Par ailleurs, 4 à 5 places sont offertes aux titulaires d'un master de biologie ou d'un diplôme d'État de médecine, de pharmacie, d'odontologie. </p>
+<liste>
+<tete>Niveau bac + 7</tete>
+<itsimp>DEV (diplôme d'État de docteur vétérinaire)</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16844" csRelFld="16844">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16844</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10243</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>L'agroalimentaire en tête</inter>
+<p>Les vétérinaires sont de moins en moins nombreux à exercer en milieu rural, à cause de la diminution du cheptel français. Ils s'installent donc plus souvent en ville. Mais les dépenses consacrées aux animaux de compagnie étant en baisse, le nombre de cabinets et de cliniques vétérinaires tend à stagner. Les nouveaux diplômés se tournent donc vers l'industrie agroalimentaire qui offre de réelles perspectives.</p>
+<inter>Une installation délicate</inter>
+<p>Si monter son cabinet, seul ou en association, est courant dans la profession, le délai pour y parvenir est très variable. L'installation à son compte reste délicate et nécessite une importante mise de fonds, difficile à rentabiliser. L'inscription à l'Ordre national des vétérinaires est obligatoire. Ruraux ou urbains, les vétérinaires ont par ailleurs tendance à s'associer pour diminuer les coûts de fonctionnement de leur cabinet. Un vétérinaire sur trois est une femme. Ces dernières sont majoritairement installées en ville.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2000</sal> à 2500 euros brut par mois</p>
+<postit>
+<p>Source: Ordre national des vétérinaires, 2011.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">agronome</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller/faire de la recherche/travailler à l'étranger</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conseil, audit, expertise/fonction recherche/fonction développement agricole</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie agroalimentaire/secteur agriculture/secteur recherche/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">agronomie/agriculture/environnement/agroalimentaire</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE agriculture/agronome</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100224</lien_onisep>
+<ROME Level="1B" csRelFld="100224">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="13" csRelFld="13">
+<CSLABELFLD label="">A1303</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Etudes et assistance technique</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">A1303</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Ingénierie en agriculture et environnement naturel</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100224">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18909" csRelFld="18909">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18909</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100224</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Un « localier » scientifique</inter>
+<p>Les sols et le climat n'étant jamais les mêmes d'une région à l'autre, le chercheur en agronomie se spécialise donc sur une région (appelée aussi terroir) ou une autre. Par exemple, en agronomie tropicale, en agronomie continentale...</p>
+<inter>Au service des agriculteurs</inter>
+<p>Intensification des cultures, amélioration de la sélection des productions végétales et animales, utilisation des engrais et produits phytosanitaires... L'agronome est en permanence à l'écoute des besoins des agriculteurs d'aujourd'hui. Pour trouver, par exemple, les céréales les mieux adaptées à un sol calcaire. Inventer un remède contre les parasites des arbres fruitiers. Ou sélectionner les meilleures vaches laitières.</p>
+<inter>Expert et consultant</inter>
+<p>Ingénieur pour réaliser des matériels agricoles non polluants ou chercheur pour créer des pommes goûteuses et résistantes aux maladies, l'agronome se décline au pluriel. De la conception à la vente des produits, son expertise est incontournable pour l'agriculture comme pour l'industrie (agroalimentaire en particulier...). Son champ d'action va de la protection de l'environnement à la maîtrise des ressources naturelles, en passant par la garantie de la qualité.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18913" csRelFld="18913">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18913</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100224</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Dans la majorité des cas, les agronomes sont titulaires d'un diplôme d'ingénieur.</accr_p> L'accès en écoles d'ingénieurs se fait sur concours, principalement après le bac ou un bac + 2, + 3. La véritable spécialisation en agronomie (biotechnologie, amélioration et protection des plantes, productions végétales et valorisation des agroressources...) n'intervient en général qu'à partir de la 3<exp>e</exp> année d'études. Le diplôme d'ingénieur peut être avantageusement couplé à un master.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur agronome</itsimp>
+<itsimp>Master sciences, technologies, santé mention biologie, agrosciences</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18911" csRelFld="18911">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18911</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100224</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Agroalimentaire en tête</inter>
+<p>Face aux différentes crises agricoles (vache folle, grippe aviaire, organismes génétiquement modifiés...), l'agronome cherche à nourrir les populations avec une plus grande sécurité tout en gérant mieux les ressources naturelles et en respectant l'environnement. Ainsi, 25 % des agronomes travaillent au sein d'industries agroalimentaires puissantes (Danone, Nestlé...), même si ce sont les PME qui recrutent le plus (surtout les débutants).</p>
+<inter>Conseil, gestion, commerce...</inter>
+<p>Environ 30 % des agronomes travaillent dans le conseil et la recherche (Inra, IRD, Cirad...), 25 % dans la gestion et le commerce. D'autres choisissent l'expérimentation (12 %) ou la production logistique (10 %), les machines agricoles (15 %) ou les organisations professionnelles agricoles (13 %).</p>
+<inter>Enseignement en déclin</inter>
+<p>L'enseignement et la recherche souffrent d'une pénurie de personnel. Ce secteur n'attire que 12 % des jeunes diplômés, plus nombreux dans la grande distribution et les services ou, pour 9 % d'entre eux, dans l'informatique. Seul un petit nombre se retrouve à la tête d'une exploitation agricole (5 %).</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2000</sal> à 2500 euros brut par mois.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

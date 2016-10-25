@@ -1,0 +1,422 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Conducteur / Conductrice de grue",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de grue",
+            "code_ogr": "12957"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de grue \u00e0 benne",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de grue \u00e0 benne",
+            "code_ogr": "12958"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de grue \u00e0 tour",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de grue \u00e0 tour",
+            "code_ogr": "12959"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de grue d'armement",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de grue d'armement",
+            "code_ogr": "12960"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de grue de cale",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de grue de cale",
+            "code_ogr": "12961"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de grue marteau",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de grue marteau",
+            "code_ogr": "12962"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de grue pyl\u00f4ne",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de grue pyl\u00f4ne",
+            "code_ogr": "12964"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de grue sapine",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de grue sapine",
+            "code_ogr": "12965"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de grue sur rails",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de grue sur rails",
+            "code_ogr": "12967"
+        },
+        {
+            "libelle_court": "Conducteur grutier / Conductrice gruti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Conducteur grutier / Conductrice gruti\u00e8re",
+            "code_ogr": "13300"
+        },
+        {
+            "libelle_court": "Grutier / Gruti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Grutier / Gruti\u00e8re",
+            "code_ogr": "15432"
+        },
+        {
+            "libelle_court": "Grutier \u00e9lingueur / Gruti\u00e8re \u00e9lingueuse",
+            "priorisation": "1",
+            "libelle": "Grutier \u00e9lingueur / Gruti\u00e8re \u00e9lingueuse",
+            "code_ogr": "15433"
+        },
+        {
+            "libelle_court": "Grutier pontier / Gruti\u00e8re ponti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Grutier pontier / Gruti\u00e8re ponti\u00e8re",
+            "code_ogr": "15434"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Effectuer les op\u00e9rations de prise de poste sur l'engin de levage (d\u00e9blocage, stabilisation, ...) et contr\u00f4ler l'\u00e9tat du mat\u00e9riel",
+            "code_ogr": "1645",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Acc\u00e9der \u00e0 la cabine, se s\u00e9curiser par des harnais, des essais de syst\u00e8mes de transmission, ... et mettre la grue en \u00e9tat de fonctionnement",
+            "code_ogr": "539",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Manoeuvrer la grue, positionner le moufle et \u00e9linguer les charges",
+            "code_ogr": "2282",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Lever et distribuer des charges sur diff\u00e9rents lieux",
+            "code_ogr": "2270",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler l'\u00e9tat de la grue, identifier ses dysfonctionnements et en effectuer l'entretien",
+            "code_ogr": "1159",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mettre la grue en configuration \u00abhors service\u00bb et effectuer les op\u00e9rations de s\u00e9curisation de fin de poste (immobilisation, alimentation \u00e9lectrique, ...)",
+            "code_ogr": "2355",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "F1302",
+            "libelle_rome_cible": "Conduite d'engins de terrassement et de carri\u00e8re"
+        },
+        {
+            "code_rome_cible": "N1104",
+            "libelle_rome_cible": "Manoeuvre et conduite d'engins lourds de manutention"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un CAP/BEP en conduite de grues.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans ce secteur, sans dipl\u00f4me particulier.\nUn Certificat d'Aptitude \u00e0 la Conduite En S\u00e9curit\u00e9 -CACES- conditionn\u00e9 par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement est requis.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Grue \u00e0 tour \u00e0 Montage Automatis\u00e9e -GMA - conduite en cabine",
+            "code_ogr": "10134",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Grue \u00e0 tour \u00e0 Montage Automatis\u00e9e -GMA - conduite au sol",
+            "code_ogr": "10133",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Grue \u00e0 tour \u00e0 Montage par El\u00e9ments -GME-",
+            "code_ogr": "10135",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Grue \u00e0 tour \u00e0 fl\u00e8che relevable \u00e0 Montage par El\u00e9ments -GME-",
+            "code_ogr": "10132",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 377 (Grues \u00e0 tour)",
+            "code_ogr": "10113",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 383-1A (Grue \u00e0 treillis sur porteur. Grue \u00e0 treillis automotrice)",
+            "code_ogr": "10115",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 383-1B (Grue t\u00e9lescopique sur porteur. Grue t\u00e9lescopique automotrice)",
+            "code_ogr": "10116",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 383-2A (Grue \u00e0 treillis sur chenilles)",
+            "code_ogr": "10117",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 383-2B (Grue t\u00e9lescopique sur chenilles)",
+            "code_ogr": "10118",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 383-2C (Grue \u00e0 treillis sur rails)",
+            "code_ogr": "10119",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Participer au montage et au r\u00e9glage d'une grue (pose d'\u00e9l\u00e9ments de voie, traverses, ...)",
+            "code_ogr": "7783",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Lever et distribuer des charges sans visibilit\u00e9",
+            "code_ogr": "7317",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sortir et mettre \u00e0 l'eau des bateaux de faible tonnage (<10T)",
+            "code_ogr": "9678",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Charger et d\u00e9charger des containers d'un bateau, d'un train, d'une remorque, ...",
+            "code_ogr": "3866",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Charger et d\u00e9charger un navire en mat\u00e9riaux",
+            "code_ogr": "3867",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce sur les chantiers au sein d'entreprises du B\u00e2timent et des Travaux Publics -BTP-, du g\u00e9nie civil, des sites portuaires, chantiers navals. Elle peut impliquer des d\u00e9placements sur les chantiers et un \u00e9loignement du domicile de plusieurs jours.\nElle peut s'exercer les fins de semaine, jours f\u00e9ri\u00e9s, de nuit et \u00eatre soumise \u00e0 des astreintes.\nElle s'effectue \u00e0 l'int\u00e9rieur d'une cabine dont l'acc\u00e8s est en tr\u00e8s grande hauteur, \u00e0 proximit\u00e9 du vide.\nLe port d'\u00e9quipements de protection (casque de chantier, gants, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Guidage d'engins (\u00e0 la voix, au sifflet, aux gestes conventionnels)",
+            "code_ogr": "20908",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Site portuaire",
+            "code_ogr": "24076",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Activit\u00e9s maritimes sp\u00e9cialis\u00e9es (recherche, avitaillement off shore,...)",
+            "code_ogr": "23387",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent et Travaux Publics -BTP-",
+            "code_ogr": "23420",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Construction navale",
+            "code_ogr": "23453",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "D\u00e9molition",
+            "code_ogr": "23459",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Energie, nucl\u00e9aire, fluide",
+            "code_ogr": "23480",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "G\u00e9nie militaire",
+            "code_ogr": "23511",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "En grande hauteur",
+            "code_ogr": "23379",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9canique g\u00e9n\u00e9rale",
+            "code_ogr": "21882",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en pneumatique",
+            "code_ogr": "21905",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles et consignes de s\u00e9curit\u00e9",
+            "code_ogr": "22656",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'\u00e9lingage",
+            "code_ogr": "23191",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modalit\u00e9s de stockage",
+            "code_ogr": "22175",
+            "position_item": "5",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nApprovisionne et alimente en mat\u00e9riels et mat\u00e9riaux au moyen d'une grue les diff\u00e9rents corps de m\u00e9tiers intervenant sur un site (chantier, portuaire, naval) selon les r\u00e8gles de s\u00e9curit\u00e9.\n",
+    "intitule": "Conduite de grue",
+    "code_ogr": "154",
+    "code_rome": "F1301",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "A1101",
+            "libelle_rome_cible": "Conduite d'engins agricoles et forestiers"
+        }
+    ]
+}

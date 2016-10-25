@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">officier/ère de la marine marchande</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">me déplacer souvent/décider/coordonner l'activité d'une équipe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction encadrement - coordination/fonction pilotage, navigation</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur transports maritimes et fluviaux</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">transport maritime</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE pêche mer aquaculture/officier de la marine marchande</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10133</lien_onisep>
+<ROME Level="1B" csRelFld="10133">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="636" csRelFld="636">
+<CSLABELFLD label="">N3101</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Personnel navigant du transport maritime et fluvial</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">N3101</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Encadrement de la navigation maritime</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10133">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16211" csRelFld="16211">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16211</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10133</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Responsable à bord</inter>
+<p>À bord d'un navire, les officiers, qui constituent l'état-major, exercent des fonctions d'encadrement, tant sur le pont qu'en salle des machines. En qualité de chefs de l'expédition, ils sont responsables de la conduite et de la sécurité du navire. En mer, ils assurent la conduite du navire. Au port, ils participent aux opérations commerciales et veillent à la sécurité du bateau.</p>
+<inter>Assisté par le second</inter>
+<p>Le plus haut gradé est un capitaine ou un commandant qui peut être aidé dans ses tâches par le second capitaine, ou second. Celui-ci le remplace en cas de nécessité. Il l'aide dans les tâches liées à la surveillance du bâtiment, au chargement et à l'arrimage de la cargaison, et organise le travail du « personnel pont ».</p>
+<inter>Chef mécanicien aussi</inter>
+<p>Autre officier de la marine marchande : le chef mécanicien. Responsable des machines, il veille au bon fonctionnement des installations de propulsion et de production électrique. Il encadre tous les auxiliaires. Son assistant, le second mécanicien, dirige l'équipe chargée de la maintenance des installations techniques et gère le stock des pièces de rechange.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16212" csRelFld="16212">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16212</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10133</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>L'ENSM (École nationale supérieure maritime), implantée au Havre, à Nantes, à Marseille et à Saint-Malo, forme les officiers. Après réussite à un concours d'entrée (organisé au mois de mai), les ENSM dispensent des formations conduisant aux brevets d'officier. Les candidats doivent être reconnus aptes par la profession en passant une visite médicale chez un médecin agréé.</accr_p>
+</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>DESMM (diplôme d'études supérieures de la marine marchande)</itsimp>
+<itsimp>Cursus d'ingénieur. Deux filières, l'une maritime (formation aux métiers du pont et de la machine, insertion en tant que capitaine ou chef mécanicien), l'autre paramaritime (offshore, énergies renouvelables, construction durable...). Au cours du 2d cycle de la formation, les élèves peuvent valider le DESMM. </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16210" csRelFld="16210">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16210</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10133</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Besoin de personnel qualifié</inter>
+<p>En 2010, il devrait manquer 46 000 officiers dans le monde. La modernisation des navires et le vieillissement des effectifs créent des besoins en personnel qualifié. Les écoles prennent en considération cette pénurie dans leurs recrutements.</p>
+<inter>Face à la concurrence</inter>
+<p>La marine marchande française, qui compte environ 2 900 officiers pour 9 500 navigants, est en restructuration. Elle sort d'une grave crise, due à une sévère concurrence internationale. Avec la demande accrue des exportateurs français, la marine marchande devrait développer son activité.</p>
+<inter>Du lieutenant à l'ingénieur</inter>
+<p>Un vaste choix de carrières s'offre au jeune officier. D'abord embarqué comme lieutenant, il peut devenir commandant ou chef mécanicien après 8 à 10 ans de navigation. Avec de l'expérience, il peut se reconvertir à terre dans le domaine maritime (expert, administrateur) ou dans l'industrie (ingénieur, responsable d'entretien).</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2800</sal> à 3800 euros brut par mois pour un lieutenant.</p>
+<p>De 4500 à 7000 euros brut par mois pour un commandant ou un chef mécanicien.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

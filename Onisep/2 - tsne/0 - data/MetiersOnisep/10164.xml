@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">graphiste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un métier artistique ou créatif/faire du dessin/programmer, créer du contenu numérique</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/indépendant/artisan</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction création artistique</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur de la publicité/secteur édition - presse/secteur imprimerie</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">communication visuelle/design de packaging/impression/pré presse</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques graphiques impression/graphiste</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10164</lien_onisep>
+<ROME Level="1B" csRelFld="10164">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10164">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1624" csRelFld="1624">
+<CSLABELFLD label="">designer publicitaire</CSLABELFLD>
+<MET_ID label="Identifiant">10164</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1624</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">designer publicitaire</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1624">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1625" csRelFld="1625">
+<CSLABELFLD label="">directeur / directrice artistique</CSLABELFLD>
+<MET_ID label="Identifiant">10164</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1625</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">directeur/trice artistique</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1625">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16015" csRelFld="16015">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16015</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10164</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Traduire des idées en images</inter>
+<p>Le graphiste commence par analyser la demande du client. Une fois l'idée dégagée, il doit l'exprimer par une image. Au-delà de l'aspect esthétique, elle doit transmettre, de façon pertinente, le message formulé par le client. S'ensuit la création de la charte graphique : choix du papier, des couleurs, des mots... L'image élaborée peut ensuite se décliner sur des supports variés : affiches, couvertures de livre... </p>
+<inter>Mettre au point un concept</inter>
+<p>Ce professionnel de l'image intervient aux différentes étapes de la réalisation : conception et création, exécution et impression. Dans une agence de publicité importante, par exemple, l'accent est mis sur l'élaboration du concept. Cette phase se déroule sous la houlette d'un directeur artistique et en collaboration avec un rédacteur. </p>
+<inter>Attentif à la fabrication</inter>
+<p>Dans une petite structure, il ne suffit pas de trouver une idée. Le graphiste participe au montage de la page à l'écran, à la photogravure, à la numérisation, mais aussi à l'incorporation des textes et des images, à la sélection des couleurs... Il contrôle et valide les opérations de flashage, la réalisation des films et des épreuves. Enfin, il assure le suivi de l'impression. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16010" csRelFld="16010">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16010</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10164</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Les formations techniques et artistiques des graphistes se font principalement par le biais du BTS, comme premier niveau de formation, et des diplômes des écoles d'art.</accr_p> Du côté des écoles, on distingue les écoles supérieures d'art (dites beaux-arts) qui préparent aux diplômes nationaux, DNA et DNSEP, les écoles supérieures d'arts appliqués qui forment au DSAA et les écoles d'art reconnues qui proposent des diplômes propres (ENSAD,  les Gobelins...). Rares sont les formations proposées à l'université dans ce domaine.</p>
+<inter>Niveau bac + 2</inter>
+<liste>
+<itsimp>
+<em>BTS</em> design graphique, option communication et médias imprimés, option communication et médias numériques</itsimp>
+<itsimp>
+<em>DMA</em> arts graphiques option illustration ou typographie</itsimp>
+</liste>
+<inter>Niveau bac + 3</inter>
+<liste>
+<itsimp>
+<em>Diplôme national d'art </em>(DNA) options communication ou design</itsimp>
+<itsimp>
+<em>Licences pro</em>  en communication visuelle, graphisme et conception éditoriale</itsimp>
+</liste>
+<inter>Niveau bac + 4</inter>
+<liste>
+<itsimp>
+<em>Diplôme supérieur d'arts appliqués</em> (DSAA) mention graphisme</itsimp>
+</liste>
+<inter>Niveau bac + 5</inter>
+<liste>
+<itsimp>
+<em>Diplôme national supérieur d'expression plastique</em> (DNSEP), options communication ou design ;</itsimp>
+<itsimp>Diplôme national supérieur des arts décoratifs (ENSAD) ;</itsimp>
+<itsimp>Directeur artistique en art graphique et design numérique (ESAG Penninghen) ;</itsimp>
+<itsimp>Directeur artistique en communication visuelle et multimédia (ECV)</itsimp>
+</liste>
+<p/>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16012" csRelFld="16012">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16012</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10164</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un marché au ralenti</inter>
+<p>Le marché de l'emploi donne quelques signes de faiblesse, notamment du côté de la publicité. Le développement de la PAO et la réduction des budgets poussent les entreprises à réaliser leurs travaux en interne. Les activités des agences de design restent toutefois soutenues. Le multimédia, surtout le web, crée de nouvelles opportunités. </p>
+<inter>Salarié ou indépendant</inter>
+<p>Le graphiste peut être salarié dans une agence de publicité ou de communication, un studio de création, une maison d'édition, une entreprise de presse ou le service communication d'une entreprise. Il peut devenir artiste-auteur, affilié à la Maison des artistes, ou travailleur indépendant (free-lance).</p>
+<p>La plupart des emplois se situent en Île-de-France, en Rhône-Alpes et dans le Nord.</p>
+<inter>Des débuts parfois difficiles</inter>
+<p>Il faut impérativement préparer son entrée, et en particulier soigner son book (recueil de travaux personnels), qui constitue le meilleur des CV. Le free-lance est souvent un bon tremplin pour démarrer, mais beaucoup de jeunes diplômés commencent en agence comme assistants du directeur artistique, maquettistes ou <etranger>roughmen</etranger> (ceux qui crayonnent des esquisses).</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2050</sal> euros brut par mois.</p>
+<postit>
+<p>les salaires en PME, l'express, 2011</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

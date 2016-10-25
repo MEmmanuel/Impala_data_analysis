@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">médiateur/trice familial/e</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction sociale</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur social/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">médiation familiale/psychologie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE médical paramédical travail social soins personnels/médiateur</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100510</lien_onisep>
+<ROME Level="1B" csRelFld="100510">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="444" csRelFld="444">
+<CSLABELFLD label="">K1101</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Accompagnement de la personne</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K1101</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Accompagnement et médiation familiale</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100510">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="47518" csRelFld="47518">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">47518</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100510</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>À l'écoute de chacun</inter>
+<p>Spécialiste du conflit au sein des familles, le médiateur familial favorise le dialogue permettant à chacun de comprendre le point de vue de l'autre. Il est le garant d'un climat de respect mutuel propice à la collaboration. Il intervient dans les situations de divorce ou de séparation, de conflit intergénérationnel ou de problème de succession.</p>
+<inter>Dans l'intérêt de tous</inter>
+<p>Son rôle est d'amener les personnes à définir les bases d'un accord durable et mutuellement acceptable. Tenant compte des besoins de chacun, il privilégie l'intérêt des enfants dans les cas de partage de l'autorité parentale, de droit de visite et d'hébergement, ou de répartition des responsabilités financières.</p>
+<inter>Un lien vers d'autres professionnels</inter>
+<p>Le médiateur doit pouvoir analyser une situation et rediriger au besoin la famille vers un autre professionnel (psychologue, juriste, assistant de service social...) si cela dépasse son champ d'intervention.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="47522" csRelFld="47522">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">47522</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100510</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Pour occuper un emploi de médiateur familial, il faut obligatoirement posséder le diplôme d'État du même nom</accr_p>. La formation, qui dure 560 heures (ce qui représente environ 4 mois), doit se dérouler sur une amplitude de 3 ans au maximum. Pour suivre cette formation, les candidats doivent être titulaires d'un diplôme de travail social ou paramédical (préparé en 3 ans après le bac ; certains diplômes ne sont reconnus qu'au niveau bac + 2) ou d'un diplôme de niveau bac + 3 (de type licence) dans les disciplines juridiques, psychologiques ou sociologiques.</p>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="47520" csRelFld="47520">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">47520</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100510</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des professionnels peu nombreux</inter>
+<p>Moins de 2 000 médiateurs familiaux sont recensés en France. Ce sont en grande majorité des femmes. La reconnaissance statutaire, le salaire et l'inscription du métier dans les conventions collectives n'ayant pas encore fait l'objet de négociations entre les partenaires sociaux, la rémunération dépend de la structure pour laquelle travaille le médiateur familial.</p>
+<inter>Évolution de carrière</inter>
+<p>Le métier de médiateur familial est le plus souvent exercé après une autre expérience professionnelle dans les domaines du social, de la psychologie ou de l'accompagnement familial. Celui-ci peut évoluer ensuite vers des fonctions d'encadrement ou de formation.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Du <sal>Smic</sal> à 1700 euros brut par mois. </p>
+<postit>
+<p>Source : APMF (Association pour la médiation familiale).</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

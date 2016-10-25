@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">conseiller/ère d'insertion et de probation</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">protection judiciaire de la jeunesse</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit/conseiller d'insertion et de probation</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100469</lien_onisep>
+<ROME Level="1B" csRelFld="100469">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="455" csRelFld="455">
+<CSLABELFLD label="">K1207</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Action sociale, socio-éducative et socio-culturelle</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K1207</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Intervention socioéducative</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100469">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="37582" csRelFld="37582">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37582</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100469</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Aider le détenu en prison</inter>
+<p>À l'issue d'un emprisonnement, une personne doit pouvoir se réinsérer dans la société, retrouver sa famille, un logement, un travail... Pour cela, et pendant l'exécution de sa peine, le CPIP (conseiller pénitentiaire d'insertion et de probation) va aider le prisonnier à maintenir un lien social. Par exemple, en gardant contact avec sa famille, en trouvant des cours par correspondance pour améliorer sa formation, en facilitant son accès aux soins. </p>
+<inter>Réinsérer le condamné à sa sortie</inter>
+<p>Lors de sa libération, le CPIP aide la personne condamnée à retrouver une place dans la société. Le CPIP a aussi pour mission d'accompagner le condamné dans le cadre de la prévention de la récidive.</p>
+<inter>Accompagner le condamné en milieu ouvert</inter>
+<p>Tous les condamnés ne vont pas en prison. Les condamnés aux travaux d'intérêt général sont en semi-liberté et placés sous surveillance électronique. Ils sont obligés de suivre une formation ou de se voir prodiguer des soins : c'est une période de probation pendant laquelle ils sont mis à l'épreuve. Le conseiller les reçoit régulièrement pour vérifier qu'ils respectent bien leurs obligations. Il les aide en cas de problèmes de santé, de logement, de réinsertion. Puis il rend compte au juge pour que la peine soit la mieux adaptée possible.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="37586" csRelFld="37586">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37586</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100469</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le concours d'accès au corps des conseillers pénitentiaires d'insertion et de probation est ouvert aux candidats titulaires d'un bac + 2, mais la majorité des admis au concours sont titulaires d'un master 1 en droit. Ils suivent ensuite une formation de 2 ans à l'École nationale d'administration pénitentiaire d'Agen.</p>
+<p>Cette <em>formation</em> est rémunérée (1566 euros net par mois) et dure 24 mois. Elle comprend des cours théoriques (droit et procédure pénale, réglementation pénitentiaire, sociologie, psychiatrie, criminologie...) et des stages pratiques (16 semaines) dans un centre pénitentiaire, un tribunal,</p>
+<p>Un concours interne est également ouvert aux fonctionnaires et agents de l'État ou des collectivités territoriales, qui justifient de 4 ans de service public effectifs au 1<exp>er</exp> janvier de l'année du concours.</p> </MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="37584" csRelFld="37584">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37584</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100469</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des concours avec peu de places</inter>
+<p>Le conseiller pénitentiaire d'insertion et de probation est un fonctionnaire de catégorie B, recruté sur concours organisé par le ministère de la Justice. Le nombre de candidats tend à augmenter : autour de 5000 actuellement. En 2009, 240 places étaient offertes. En 2010, 194 personnes ont été admises au concours de CPIP, les femmes représentant 70 % de ces effectifs. En 2011, 42 élèves (dont 38 femmes) sont entrés en formation. En 2012, 70 candidats ont été admis. </p>
+<inter>Promotion possible</inter>
+<p>Les personnels pénitentiaires d'insertion et de probation se composent de conseillers, de chefs de service et de directeurs pénitentiaires d'insertion et de probation. Le CPIP peut devenir DPIP (directeur pénitentiaire d'insertion et de probation) soit en passant un examen professionnel (après 4 ans d'ancienneté), soit par promotion (avec au moins 6 ans d'ancienneté). De DPIP, il peut ensuite progresser vers le poste de DFSPIP (directeur fonctionnel des services pénitentiaires d'insertion et de probation).</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1636</sal> euros net par mois, primes comprises.</p>
+<postit>
+<p>www.ugsp-cgt.org</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e en énergie solaire</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">concevoir, utiliser des technologies industrielles de pointe/faire de la recherche</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction études développement industriel /fonction maintenance</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur énergie/secteur recherche/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">énergie solaire</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE nettoyage assainissement environnement sécurité/ingénieur en énergie solaire</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100406</lien_onisep>
+<ROME Level="1B" csRelFld="100406">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100406">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="34621" csRelFld="34621">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">34621</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100406</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Sous le soleil</inter>
+<p>Deux techniques transforment le rayonnement solaire en énergie : le thermique produit de la chaleur ; le photovoltaïque, de l'électricité (avec des panneaux intégrés aux toitures et des centrales installées au sol). L'ingénieur en énergie solaire conçoit et coordonne la réalisation de ces installations.</p>
+<inter>Des études de faisabilité à la mise en service</inter>
+<p>Pour un projet de toiture avec panneaux photovoltaïque, par exemple, les études en amont durent de 2 à 3 mois. Après avoir sélectionné l'installateur, l'ingénieur en énergie solaire suit l'exécution des travaux jusqu'à la mise en service. Avant d'implanter une centrale au sol, il faut choisir un terrain offrant un bon potentiel photovoltaïque et un faible impact environnemental. Bases de données et visites aident l'ingénieur dans sa prospection. Puis, il examine les contraintes, suit le dossier et conduit la concertation locale. La gestion du projet dure de 1 à 3 ans jusqu'à l'obtention des autorisations.</p>
+<inter>Chercher de nouvelles techniques</inter>
+<p>La puissance énergétique du soleil est loin d'être exploitée. Les ingénieurs doivent améliorer le rendement des cellules photovoltaïques. Pour cela, des technologies émergent, comme le solaire thermodynamique et le photovoltaïque à concentration.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="34625" csRelFld="34625">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">34625</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100406</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>La plupart des ingénieurs en énergie solaire sont issus d'écoles d'ingénieurs généralistes. Certains ont suivi une formation spécialisée (ingénieur ou master) en électrotechnique, électronique, thermique ou énergétique. Quelques écoles et masters proposent une spécialisation en énergie solaire ou en énergies renouvelables. Quelques exemples. Écoles d'ingénieurs avec filière complète en énergétique : Ensiame (Valenciennes), Grenoble INP-Ense3, Insa (Lyon, Rouen, Strasbourg), Polytech (Montpellier, Nantes, Tours, Marseille), ENSGTI Pau, Esir Reims, Ensi Poitiers. Écoles d'ingénieurs avec option énergétique et développement durable : Écoles centrale ; ECE Paris ; EPF (Sceaux) ; ESSTIN (Nancy) ; écoles des mines ; Polytech Corte ; Sup Galilée Paris 13.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur en énergétique, en énergétique et développement durable</itsimp>
+<itsimp>Master en énergie solaire ou en énergies renouvelables</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="34623" csRelFld="34623">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">34623</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100406</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>18 000 professionnels en 2012</inter>
+<p>Après un bel essor, le secteur est en décroissance depuis 2011, avec un impact sur l'emploi. Selon l'Ademe (Agence de l'environnement et de la maîtrise de l'énergie), la filière photovoltaïque représentait 35 000 emplois en 2010 contre environ 18 000 en 2012. Le coût d'achat élevé de l'électricité produite est l'une des raisons de cette baisse.</p>
+<inter>De futurs développements ?</inter>
+<p>Un grand débat sur la transition énergétique a eu lieu en 2013. L'accroissement de la part accordée à l'énergie solaire aurait un impact important sur l'emploi. Une étude conduite par le SER (Syndicat des énergies renouvelables) estime que l'effectif professionnel pourrait être multiplié par 3 si les objectifs fixés par le Grenelle de l'environnement sont tenus.</p>
+<inter>Le plus souvent en PME</inter>
+<p>D'importants groupes sont implantés dans cette filière : EDF Énergies nouvelles, GDF Suez, Air Liquide, etc. Une centaine d'entreprises, fabricants de cellules ou ensembliers, sont spécialisées sur ce créneau (Apollon Solar, Photowatt, etc.). Des bureaux d'études techniques, souvent de petite taille, proposent leur savoir-faire en matière de gestion de projet. La recherche est conduite par des organismes comme le CEA (Commissariat à l'énergie atomique et aux énergies alternatives) ou l'Ines (Institut national de l'énergie solaire) et par des start-up.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2800</sal> euros brut par mois.</p>
+<postit>
+<p>Non communiquée. + 800 &#8364; par rapport à la fiche déjà en ligne (datant de 2007)</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

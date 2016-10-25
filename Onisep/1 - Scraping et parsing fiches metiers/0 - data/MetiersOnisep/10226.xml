@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">auxiliaire de puériculture</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">soigner/m'occuper d'enfants ou d'adolescents</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction administration des soins</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur santé/secteur social/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">puériculture</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE médical paramédical travail social soins personnels/auxiliaire de puériculture</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10226</lien_onisep>
+<ROME Level="1B" csRelFld="10226">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="417" csRelFld="417">
+<CSLABELFLD label="">J1304</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Professionnels médico-techniques</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">J1304</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Aide en puériculture</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10226">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16662" csRelFld="16662">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16662</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10226</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>S'occuper des bébés </inter>
+<p>Dans une maternité ou un centre hospitalier, l'auxiliaire de puériculture donne les soins courants aux nouveau-nés ou aux enfants en bas âge. Il surveille leur courbe de poids et de température, veille à leur hygiène, prépare les biberons. Il accompagne aussi la maman dans son apprentissage des soins au bébé. Enfin, c'est lui qui assure l'entretien de la chambre de l'enfant et du matériel utilisé. </p>
+<inter>Conseiller les mamans</inter>
+<p>Dans un centre PMI (protection maternelle et infantile), il accueille les futures mères et les jeunes mamans avec leurs bébés. Il assiste aux consultations données par le médecin, gère les dossiers et effectue, aux côtés de la puéricultrice, des visites dans les familles pour conseiller les jeunes mamans. </p>
+<inter>Apprendre l'autonomie</inter>
+<p>Dans une crèche, le rythme de l'auxiliaire de puériculture suit celui des enfants. Il veille à leur hygiène et à leur alimentation, apprend l'autonomie aux plus grands. L'organisation de jeux et d'activités d'éveil constitue un autre pôle important de son travail. Il permet de développer la socialisation de l'enfant avant son entrée à l'école.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16664" csRelFld="16664">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16664</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10226</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le diplôme d'État d'auxiliaire de puériculture se prépare en un an, au sein d'écoles spécialisées. Le concours d'entrée à ces écoles est accessible sans diplôme préalable mais le candidat doit être âgé de 17 ans au moins à la date d'entrée en formation. Les titulaires des baccalauréats professionnels « Accompagnement, soins et service à la personne » (ASSP) et « Services aux personnes et aux territoires » (SAPAT) bénéficient de dispenses de formation et d'une procédure de sélection particulière sur dossier puis entretien.</p>
+<liste>
+<tete>Après la 3<exp>e</exp>
+</tete>
+<itsimp>Diplôme d'État d'auxiliaire de puériculture</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16651" csRelFld="16651">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16651</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10226</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Une forte concurrence</inter>
+<p>Sur les 60 000 auxiliaires de puériculture, 99 % sont des femmes. Les débouchés diffèrent selon la région, le type de structure ou de service. Les opportunités d'emploi sont moins nombreuses en province. Dans les crèches et les haltes-garderies, les auxiliaires de puériculture sont en concurrence avec les assistantes maternelles. Néanmoins, certains secteurs deviennent porteurs. Par exemple, les soins à domicile ou les services de néonatalogie (étude et traitement des maladies du nouveau-né...).</p>
+<inter>Évolution par concours </inter>
+<p>Après 3 ans d'expérience dans le secteur hospitalier ou médico-social, l'auxiliaire de puériculture peut se présenter au concours d'entrée des Ifsi (instituts de formation en soins infirmiers) pour préparer le diplôme d'État d'infirmier. Elle bénéficiera alors d'une épreuve de culture générale adaptée et de places réservées au sein des centres de formation. Elle peut également se présenter au concours d'entrée des écoles d'éducateurs de jeunes enfants ou devenir aide-soignante après une formation adaptée.</p>
+<remun>
+<p>
+<sal>Smic</sal>.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

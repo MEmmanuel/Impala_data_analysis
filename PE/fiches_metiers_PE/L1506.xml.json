@@ -1,0 +1,504 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Chef machiniste spectacle",
+            "priorisation": "1",
+            "libelle": "Chef machiniste spectacle",
+            "code_ogr": "12572"
+        },
+        {
+            "libelle_court": "Cintrier / Cintri\u00e8re",
+            "priorisation": "1",
+            "libelle": "Cintrier / Cintri\u00e8re",
+            "code_ogr": "12643"
+        },
+        {
+            "libelle_court": "Cintrier-machiniste / Cintri\u00e8re-machiniste",
+            "priorisation": "1",
+            "libelle": "Cintrier-machiniste / Cintri\u00e8re-machiniste",
+            "code_ogr": "12644"
+        },
+        {
+            "libelle_court": "Machiniste cin\u00e9ma",
+            "priorisation": "1",
+            "libelle": "Machiniste cin\u00e9ma",
+            "code_ogr": "16235"
+        },
+        {
+            "libelle_court": "Machiniste spectacle",
+            "priorisation": "1",
+            "libelle": "Machiniste spectacle",
+            "code_ogr": "16242"
+        },
+        {
+            "libelle_court": "Machiniste t\u00e9l\u00e9vision",
+            "priorisation": "1",
+            "libelle": "Machiniste t\u00e9l\u00e9vision",
+            "code_ogr": "16245"
+        },
+        {
+            "libelle_court": "Machiniste th\u00e9\u00e2tre",
+            "priorisation": "1",
+            "libelle": "Machiniste th\u00e9\u00e2tre",
+            "code_ogr": "16246"
+        },
+        {
+            "libelle_court": "Machiniste vid\u00e9o",
+            "priorisation": "1",
+            "libelle": "Machiniste vid\u00e9o",
+            "code_ogr": "16247"
+        },
+        {
+            "libelle_court": "Machiniste-constructeur / Machiniste-constructrice de d\u00e9cors",
+            "priorisation": "1",
+            "libelle": "Machiniste-constructeur / Machiniste-constructrice de d\u00e9cors",
+            "code_ogr": "16248"
+        },
+        {
+            "libelle_court": "Rigger",
+            "priorisation": "1",
+            "libelle": "Rigger",
+            "code_ogr": "19262"
+        },
+        {
+            "libelle_court": "Rippeur / Rippeuse spectacle",
+            "priorisation": "1",
+            "libelle": "Rippeur / Rippeuse spectacle",
+            "code_ogr": "19264"
+        },
+        {
+            "libelle_court": "Road",
+            "priorisation": "1",
+            "libelle": "Road",
+            "code_ogr": "19267"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne plateau",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne plateau",
+            "code_ogr": "20214"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Rep\u00e9rer les lieux d'implantation des d\u00e9cors et identifier les contraintes techniques de montage/d\u00e9montage",
+            "code_ogr": "3099",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Charger les d\u00e9cors, mat\u00e9riels, \u00e9quipements, les acheminer sur le lieu de spectacle, de tournage",
+            "code_ogr": "811",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Assembler les d\u00e9cors et installer les mat\u00e9riels d'\u00e9clairage, de sonorisation, les \u00e9quipements de la cam\u00e9ra",
+            "code_ogr": "761",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9placer les \u00e9l\u00e9ments de d\u00e9cors, les chariots de travelling, grues, ... en fonction des sc\u00e8nes, des mouvements des acteurs",
+            "code_ogr": "1354",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9monter et ranger les d\u00e9cors, les mat\u00e9riels, les \u00e9quipements de la cam\u00e9ra apr\u00e8s le spectacle ou le tournage",
+            "code_ogr": "1341",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien et la maintenance de premier niveau des d\u00e9cors, des mat\u00e9riels et des \u00e9quipements de la cam\u00e9ra",
+            "code_ogr": "1596",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "N1102",
+            "libelle_rome_cible": "D\u00e9m\u00e9nagement"
+        },
+        {
+            "code_rome_cible": "N1105",
+            "libelle_rome_cible": "Manutention manuelle de charges"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un CAP/BEP en machinerie de spectacle, menuiserie, serrurerie.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans le spectacle sans dipl\u00f4me particulier.\nLes recrutements sont g\u00e9n\u00e9ralement ouverts sur contrat de travail \u00e0 dur\u00e9e d\u00e9termin\u00e9e d'usage, parfois sur contrat de travail \u00e0 dur\u00e9e ind\u00e9termin\u00e9e.\nUn ou plusieurs Certificat(s) d'Aptitude \u00e0 la Conduite en S\u00e9curit\u00e9 - CACES- conditionn\u00e9(s) par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement peu(ven)t \u00eatre requis.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 386 (Plates-formes \u00e9l\u00e9vatrices mobiles de personnes)",
+            "code_ogr": "10120",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-1 (Transpalettes \u00e0 conducteur port\u00e9 et pr\u00e9parateurs de commandes au sol)",
+            "code_ogr": "10122",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-2 (Chariots tracteurs et \u00e0 plateau porteur de capacit\u00e9 inf\u00e9rieure \u00e0 6 000 kg)",
+            "code_ogr": "10123",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-3 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 inf\u00e9rieure ou \u00e9gale \u00e0 6000 kg)",
+            "code_ogr": "10124",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-6 (D\u00e9placement, chargement, transfert de chariots sans activit\u00e9 de production (maintenance, d\u00e9monstration, essais)",
+            "code_ogr": "10127",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES grues cin\u00e9ma",
+            "code_ogr": "10099",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Charger/d\u00e9charger le mat\u00e9riel au moyen de nacelles",
+            "code_ogr": "3870",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9terminer les \u00e9quipements n\u00e9cessaires aux mouvements de la cam\u00e9ra sur les indications du cadreur",
+            "code_ogr": "6136",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Monter des structures de sc\u00e8ne (grils, ponts, totems, podiums, ...)",
+            "code_ogr": "7598",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accrocher des \u00e9l\u00e9ments de d\u00e9cors sur des porteuses et ajuster les contrepoids",
+            "code_ogr": "3644",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Actionner des porteuses, des perches pour la mise en place de d\u00e9cors, la manipulation de rideaux",
+            "code_ogr": "3654",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Former des employ\u00e9s aux techniques du m\u00e9tier",
+            "code_ogr": "4764",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de salles de spectacles, de soci\u00e9t\u00e9s de production audiovisuelles, cin\u00e9matographiques ou de spectacles en coordination avec d'autres \u00e9quipes techniques (d\u00e9cors, son, lumi\u00e8re, ...). Elle peut impliquer des d\u00e9placements (tourn\u00e9es, tournages, ...) et un \u00e9loignement du domicile de plusieurs jours ou mois.\nElle varie selon le secteur (spectacle vivant, cin\u00e9ma, audiovisuel) et le degr\u00e9 d'automatisation de la machinerie.\nElle peut s'exercer par roulement, les fins de semaine, jours f\u00e9ri\u00e9s ou de nuit.\nL'activit\u00e9 peut s'effectuer sur plateau de tournage, sur sc\u00e8ne, \u00e0 l'ext\u00e9rieur, en hauteur et implique le port de charges.\nLe port d'\u00e9quipements de protection (gants, harnais, casque, chaussures de s\u00e9curit\u00e9) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan d'implantation",
+            "code_ogr": "20953",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outillages manuels (cl\u00e9, pince, scie, ...)",
+            "code_ogr": "21465",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de fiche technique",
+            "code_ogr": "20943",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Boulonnage",
+            "code_ogr": "20795",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de chariot de travelling",
+            "code_ogr": "21179",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de grue \u00e0 bras",
+            "code_ogr": "21221",
+            "position_item": "6",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'engins de manutention non motoris\u00e9s (transpalette, diable, ...)",
+            "code_ogr": "21414",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9alisation de noeud d'accrochage",
+            "code_ogr": "21068",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de porteuse, de perche motoris\u00e9e",
+            "code_ogr": "21361",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Parc de loisirs",
+            "code_ogr": "24029",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Salle de spectacles",
+            "code_ogr": "24059",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de production audiovisuelle, cin\u00e9matographique",
+            "code_ogr": "24086",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de production de spectacles",
+            "code_ogr": "24087",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Audiovisuel",
+            "code_ogr": "23409",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Cin\u00e9ma",
+            "code_ogr": "23441",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ev\u00e8nementiel",
+            "code_ogr": "23487",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Spectacle vivant",
+            "code_ogr": "23639",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "En ext\u00e9rieur",
+            "code_ogr": "23378",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles et consignes de s\u00e9curit\u00e9",
+            "code_ogr": "22656",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Types de c\u00e2bles",
+            "code_ogr": "23309",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Terminologie de la cage de sc\u00e8ne",
+            "code_ogr": "23273",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de montage/d\u00e9montage de d\u00e9cors",
+            "code_ogr": "23004",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de menuiserie",
+            "code_ogr": "22976",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de serrurerie",
+            "code_ogr": "23118",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de peinture",
+            "code_ogr": "23024",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'accrochage",
+            "code_ogr": "22760",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques de la machinerie de th\u00e9\u00e2tre",
+            "code_ogr": "21549",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9canique g\u00e9n\u00e9rale",
+            "code_ogr": "21882",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nEffectue le montage et l'installation des d\u00e9cors, des \u00e9quipements de cam\u00e9ra et des mat\u00e9riels (\u00e9clairage, sonorisation) pour des spectacles, des tournages, selon la r\u00e9glementation s\u00e9curit\u00e9 et les imp\u00e9ratifs de la production.\nPeut monter des structures de sc\u00e8ne.\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "Machinerie spectacle",
+    "code_ogr": "452",
+    "code_rome": "L1506",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "L1503",
+            "libelle_rome_cible": "D\u00e9cor et accessoires spectacle"
+        },
+        {
+            "code_rome_cible": "L1509",
+            "libelle_rome_cible": "R\u00e9gie g\u00e9n\u00e9rale"
+        }
+    ]
+}

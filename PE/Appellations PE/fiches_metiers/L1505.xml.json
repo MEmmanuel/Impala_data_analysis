@@ -1,0 +1,556 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Assistant cadreur / Assistante cadreuse",
+            "priorisation": "1",
+            "libelle": "Assistant cadreur / Assistante cadreuse",
+            "code_ogr": "11198"
+        },
+        {
+            "libelle_court": "Assistant op\u00e9rateur / Assistante op\u00e9ratrice de prise de vues",
+            "priorisation": "1",
+            "libelle": "Assistant op\u00e9rateur / Assistante op\u00e9ratrice de prise de vues",
+            "code_ogr": "11316"
+        },
+        {
+            "libelle_court": "Cadreur / Cadreuse",
+            "priorisation": "1",
+            "libelle": "Cadreur / Cadreuse",
+            "code_ogr": "11638"
+        },
+        {
+            "libelle_court": "Cameraman / Camerawoman",
+            "priorisation": "1",
+            "libelle": "Cameraman / Camerawoman",
+            "code_ogr": "11659"
+        },
+        {
+            "libelle_court": "Chef op\u00e9rateur / op\u00e9ratrice de prise de vues",
+            "priorisation": "1",
+            "libelle": "Chef op\u00e9rateur / op\u00e9ratrice de prise de vues",
+            "code_ogr": "12583"
+        },
+        {
+            "libelle_court": "Chef op\u00e9rateur / op\u00e9ratrice image",
+            "priorisation": "1",
+            "libelle": "Chef op\u00e9rateur / op\u00e9ratrice image",
+            "code_ogr": "12588"
+        },
+        {
+            "libelle_court": "Chef op\u00e9rateur / op\u00e9ratrice lumi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Chef op\u00e9rateur / op\u00e9ratrice lumi\u00e8re",
+            "code_ogr": "12589"
+        },
+        {
+            "libelle_court": "Chef op\u00e9rateur / op\u00e9ratrice vid\u00e9o",
+            "priorisation": "1",
+            "libelle": "Chef op\u00e9rateur / op\u00e9ratrice vid\u00e9o",
+            "code_ogr": "12591"
+        },
+        {
+            "libelle_court": "Deuxi\u00e8me assistant op\u00e9rateur/Deuxi\u00e8me assistante op\u00e9ratrice",
+            "priorisation": "1",
+            "libelle": "Deuxi\u00e8me assistant op\u00e9rateur / Deuxi\u00e8me assistante op\u00e9ratrice",
+            "code_ogr": "14145"
+        },
+        {
+            "libelle_court": "Directeur / Directrice de la photographie",
+            "priorisation": "1",
+            "libelle": "Directeur / Directrice de la photographie",
+            "code_ogr": "14273"
+        },
+        {
+            "libelle_court": "Ing\u00e9nieur / Ing\u00e9nieure de la vision",
+            "priorisation": "1",
+            "libelle": "Ing\u00e9nieur / Ing\u00e9nieure de la vision",
+            "code_ogr": "15643"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice de plateau",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de plateau",
+            "code_ogr": "17133"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice de prise de vues",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de prise de vues",
+            "code_ogr": "17144"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice image",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice image",
+            "code_ogr": "38472"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice vid\u00e9o",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice vid\u00e9o",
+            "code_ogr": "38471"
+        },
+        {
+            "libelle_court": "Premier assistant op\u00e9rateur / Premi\u00e8re assistante op\u00e9ratrice",
+            "priorisation": "1",
+            "libelle": "Premier assistant op\u00e9rateur / Premi\u00e8re assistante op\u00e9ratrice",
+            "code_ogr": "17970"
+        },
+        {
+            "libelle_court": "Technicien(ne) exploitation maintenance \u00e9quipt audiovisuel",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne d'exploitation et de maintenance des \u00e9quipements audiovisuels",
+            "code_ogr": "19980"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne d'exploitation vid\u00e9o",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne d'exploitation vid\u00e9o",
+            "code_ogr": "19988"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne prompteur",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne prompteur",
+            "code_ogr": "38473"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne vid\u00e9o",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne vid\u00e9o",
+            "code_ogr": "20284"
+        },
+        {
+            "libelle_court": "Technicien banc-titre / Technicienne banc-titre",
+            "priorisation": "1",
+            "libelle": "Technicien banc-titre / Technicienne banc-titre",
+            "code_ogr": "19669"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier les caract\u00e9ristiques des prises de vues (emplacement de cam\u00e9ras, cadrages, ...) des s\u00e9quences du film, de l'\u00e9mission, ... \u00e0 partir du d\u00e9coupage technique, du sc\u00e9nario, ...",
+            "code_ogr": "2093",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9finir la lumi\u00e8re du film, de l'\u00e9mission et l'emplacement des \u00e9clairages sur le tournage",
+            "code_ogr": "1274",
+            "code_type_activite": "2",
+            "riasec_majeur": "A",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9lectionner le mat\u00e9riel de prise de vues et d'\u00e9clairage appropri\u00e9 au tournage et recenser les besoins en achat ou location",
+            "code_ogr": "3153",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Installer le mat\u00e9riel de prise de vues, d'\u00e9clairage et les \u00e9quipements vid\u00e9o sur le lieu de tournage",
+            "code_ogr": "2243",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9gler les cam\u00e9ras (colorim\u00e9trie, mise au point, ...) et les \u00e9clairages et corriger les d\u00e9fauts techniques de l'image",
+            "code_ogr": "2983",
+            "code_type_activite": "2",
+            "riasec_majeur": "A",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ajuster le cadrage des plans, les mouvements de cam\u00e9ra et effectuer les prises selon les instructions de la r\u00e9gie, du r\u00e9alisateur",
+            "code_ogr": "612",
+            "code_type_activite": "2",
+            "riasec_majeur": "A",
+            "position_item": "6",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien du mat\u00e9riel de prise de vues et identifier les dysfonctionnements",
+            "code_ogr": "1593",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau Bac+2 (BTS) \u00e0 Bac+5 (Master, Ecole d'audiovisuel, ...) en audiovisuel (sp\u00e9cialit\u00e9 image) compl\u00e9t\u00e9 par une exp\u00e9rience professionnelle dans le secteur.\nLes recrutements sont ouverts sur contrat de travail \u00e0 dur\u00e9e d\u00e9termin\u00e9e d'usage, parfois sur contrat de travail \u00e0 dur\u00e9e ind\u00e9termin\u00e9e (cha\u00eenes de t\u00e9l\u00e9vision, soci\u00e9t\u00e9s de production, ...).\nUne bonne acuit\u00e9 visuelle est recommand\u00e9e.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser des prises de vues (sc\u00e8nes, s\u00e9quences, g\u00e9n\u00e9riques, ...) avec un \u00e9quipement sp\u00e9cifique :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cam\u00e9ra portable (\u00e0 l'\u00e9paule)",
+            "code_ogr": "9046",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cam\u00e9ra sur grue",
+            "code_ogr": "9047",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cam\u00e9ra sur tr\u00e9pied",
+            "code_ogr": "9048",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Engin t\u00e9l\u00e9command\u00e9 de prise de vue (drone, ...)",
+            "code_ogr": "38806",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Plateau banc-titre",
+            "code_ogr": "9049",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Steadicam",
+            "code_ogr": "9050",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "6",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Charger/d\u00e9charger les consommables de prise de vues (pellicules, cassettes, piles, ...), suivre leur consommation et constituer les rapports cam\u00e9ra",
+            "code_ogr": "3871",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der \u00e0 l'enregistrement d'\u00e9missions, de sujets, d'images, de bandes annonces ... sur support vid\u00e9o, num\u00e9rique",
+            "code_ogr": "8141",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le montage d'un sujet, d'une \u00e9mission, ... au moyen d'une console, sur un banc de montage virtuel ou banc-cut, ...",
+            "code_ogr": "5339",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Diffuser des enregistrements vid\u00e9o \u00e0 l'antenne, surveiller la qualit\u00e9 de l'image (nettet\u00e9, couleurs, ...) et la corriger en r\u00e9gie",
+            "code_ogr": "4733",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la maintenance de premier niveau ou les r\u00e9parations de mat\u00e9riel de prise de vues, des \u00e9quipements vid\u00e9o, ...",
+            "code_ogr": "5158",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Former des employ\u00e9s aux techniques du m\u00e9tier",
+            "code_ogr": "4764",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce pour des soci\u00e9t\u00e9s de production, des compagnies, ... sur des lieux de tournage (plateaux, studios de t\u00e9l\u00e9vision, ...), de spectacle en coordination avec des \u00e9quipes techniques (\u00e9clairage, d\u00e9cors, machinerie, ...) et en contact avec diff\u00e9rents intervenants (r\u00e9alisation, production, interpr\u00e8tes, journalistes, ...).\nElle peut impliquer des d\u00e9placements (reportages, tournages, ...) et un \u00e9loignement du domicile de plusieurs jours.\nElle varie selon le secteur (cin\u00e9ma, t\u00e9l\u00e9vision, spectacle vivant, ...), les types de prises de vues (a\u00e9riennes, sous-marines, ...) et la nature du projet (concert, pi\u00e8ce de th\u00e9\u00e2tre, reportage, long-m\u00e9trage, ...).\nL'activit\u00e9 est soumise au rythme de la programmation des spectacles et des tournages.\nL'activit\u00e9 peut s'effectuer en r\u00e9gie, en studio, \u00e0 l'ext\u00e9rieur, en zone \u00e0 risques (reportages en zone de guerre, ...) et impliquer la manipulation de charges.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de cam\u00e9ra",
+            "code_ogr": "21174",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Manipulation de bobine",
+            "code_ogr": "20970",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outillages manuels (cl\u00e9, pince, scie, ...)",
+            "code_ogr": "21465",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Cirque",
+            "code_ogr": "23805",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Compagnie artistique (th\u00e9\u00e2tre, danse, arts de la rue, ...)",
+            "code_ogr": "23821",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Parc de loisirs",
+            "code_ogr": "24029",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Salle de spectacles",
+            "code_ogr": "24059",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de production audiovisuelle, cin\u00e9matographique",
+            "code_ogr": "24086",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de production de spectacles",
+            "code_ogr": "24087",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Audiovisuel",
+            "code_ogr": "23409",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Cin\u00e9ma",
+            "code_ogr": "23441",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ev\u00e8nementiel",
+            "code_ogr": "23487",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Spectacle vivant",
+            "code_ogr": "23639",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Types de produits audiovisuels/cin\u00e9matographiques (film, reportage, ...)",
+            "code_ogr": "23327",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Types d'\u00e9clairages",
+            "code_ogr": "23341",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des mat\u00e9riels de prise de vues",
+            "code_ogr": "21611",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des mat\u00e9riels d'\u00e9clairage",
+            "code_ogr": "21612",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes de s\u00e9curit\u00e9",
+            "code_ogr": "22221",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electricit\u00e9",
+            "code_ogr": "21825",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de montage de mat\u00e9riel de prise de vues",
+            "code_ogr": "22416",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Optique",
+            "code_ogr": "22243",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Types de plans de vue",
+            "code_ogr": "23325",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de prise de vue",
+            "code_ogr": "23063",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de montage vid\u00e9o",
+            "code_ogr": "23001",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de montage virtuel",
+            "code_ogr": "23002",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Colorim\u00e9trie",
+            "code_ogr": "21734",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en \u00e9lectronique",
+            "code_ogr": "21863",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise l'installation et les r\u00e9glages du mat\u00e9riel de prise de vues (cam\u00e9ra, cam\u00e9scope, moniteur, ...), d'\u00e9clairage (projecteurs, spots, ...) et effectue les prises de vues des sc\u00e8nes, des s\u00e9quences de tournages, de spectacles selon les imp\u00e9ratifs de la production (d\u00e9lais, budgets, programmation, ...).\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "Image cin\u00e9matographique et t\u00e9l\u00e9visuelle",
+    "code_ogr": "451",
+    "code_rome": "L1505",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "E1106",
+            "libelle_rome_cible": "Journalisme et information m\u00e9dia"
+        },
+        {
+            "code_rome_cible": "L1304",
+            "libelle_rome_cible": "R\u00e9alisation cin\u00e9matographique et audiovisuelle"
+        },
+        {
+            "code_rome_cible": "L1507",
+            "libelle_rome_cible": "Montage audiovisuel et post-production"
+        },
+        {
+            "code_rome_cible": "L1509",
+            "libelle_rome_cible": "R\u00e9gie g\u00e9n\u00e9rale"
+        }
+    ]
+}

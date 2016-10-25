@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">hôte/esse d'accueil</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">informer, communiquer/pratiquer les langues vivantes/aider, conseiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction information - communication</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur du tourisme</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">bureautique/réception hôtelière</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE hôtellerie restauration tourisme loisirs/hôtesse d'accueil</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10193</lien_onisep>
+<ROME Level="1B" csRelFld="10193">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10193">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1636" csRelFld="1636">
+<CSLABELFLD label="">chef hôte / cheffe hôtesse</CSLABELFLD>
+<MET_ID label="Identifiant">10193</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1636</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chef/fe hôte/esse</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1636">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16372" csRelFld="16372">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16372</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10193</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Le visage d'un employeur</inter>
+<p>Premier contact dans le hall d'un palais des congrès, d'un office de tourisme, d'un hôtel, d'une société... l'hôte d'accueil est l'image représentative d'un lieu, d'un site, d'une ville. De sa prise en charge dépend fortement la représentation que l'on s'en fait ensuite.</p>
+<inter>Accueillir, renseigner, orienter</inter>
+<p>L'hôte d'accueil est chargé d'accueillir, de renseigner et d'orienter les visiteurs. Il peut aussi les accompagner, si nécessaire, jusqu'à leur lieu de rendez-vous ou les faire patienter en veillant à leur confort. Il contrôle l'accès à un lieu, vérifie l'identité des visiteurs, remet des badges, gère des invitations. Pour répondre aux appels téléphoniques ou aux interrogations des clients, ce professionnel se tient au courant de l'actualité de son entreprise.</p>
+<inter>Du secrétariat</inter>
+<p>De plus en plus, le rôle de l'hôte d'accueil s'étend aux activités de secrétariat : classement du courrier, traitement de texte, courrier électronique, mise à jour de fichiers, prise de messages, gestion d'emplois du temps, gestion de coursiers, réservation de salles ou encore organisation de réunions et de conférences. Des activités qui revalorisent l'image de la profession.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16374" csRelFld="16374">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16374</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10193</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Il existe peu de préparations spécifiques au métier d'hôte d'accueil. </accr_p>Les formations des secteurs du tourisme, de la bureautique, du commerce et de l'hôtellerie sont bien adaptées, avec certains diplômes débouchant plus particulièrement sur des activités d'accueil. Les écoles privées d'hôtes d'accueil sont nombreuses mais rarement reconnues par les professionnels.</p>
+<inter>Niveau bac</inter>
+<liste>
+<itsimp>
+<em>Bac pro</em> accueil - relation clients et usagers ;</itsimp>
+<itsimp>
+<em>MC</em> accueil réception ;</itsimp>
+</liste>
+<inter>Niveau bac + 2</inter>
+<liste>
+<itsimp>
+<em>BTS</em> tourisme ;</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16369" csRelFld="16369">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16369</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10193</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Carrière de courte durée</inter>
+<p>L'accueil est un secteur d'activité porteur, mais les carrières sont souvent de courte durée. Bien que des postes stables existent dans les entreprises ou les magasins, ce métier est rarement un emploi à vie. À partir d'un certain âge, il faut songer rapidement à sa reconversion.</p>
+<inter>Promotion possible</inter>
+<p>Un bon niveau de culture générale, la maîtrise des outils informatiques et la pratique de l'anglais, d'une part, le sérieux et l'assiduité, d'autre part, favorisent une évolution de carrière dans le secteur. Un hôte peut ainsi devenir chef hôte (professionnel très recherché pour encadrer des équipes d'accueil) ou hôte d'astreinte (pour remplacer au pied levé le personnel manquant). Il peut encore s'orienter vers les services comptables, commerciaux ou de communication des sociétés prestataires.</p>
+<inter>Un atout sur son CV</inter>
+<p>Même exercé à titre occasionnel, l'accueil constitue une expérience enrichissante et un bon tremplin pour intégrer une entreprise ou pour se réorienter vers les secteurs du tourisme, du secrétariat, de l'hôtellerie ou du commerce.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir du <sal>Smic</sal>.</p>
+<postit>
+<p>Source : Légifrance, Convention collective nationale du personnel des prestataires de services dans le domaine du secteur tertiaire du 13 août 1999 - Accord du 22 septembre 2011 relatif aux salaires pour l'année 2011.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,540 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Chirurgien-dentiste / Chirurgienne-dentiste conseil",
+            "priorisation": "1",
+            "libelle": "Chirurgien-dentiste / Chirurgienne-dentiste conseil",
+            "code_ogr": "12627"
+        },
+        {
+            "libelle_court": "Contr\u00f4leur(se) g\u00e9n\u00e9ral(e) des services v\u00e9t\u00e9rinaires",
+            "priorisation": "1",
+            "libelle": "Contr\u00f4leur g\u00e9n\u00e9ral / Contr\u00f4leuse g\u00e9n\u00e9rale des services v\u00e9t\u00e9rinaires",
+            "code_ogr": "13641"
+        },
+        {
+            "libelle_court": "D\u00e9l\u00e9gu\u00e9 / D\u00e9l\u00e9gu\u00e9e de l'Assurance Maladie - DAM",
+            "priorisation": "1",
+            "libelle": "D\u00e9l\u00e9gu\u00e9 / D\u00e9l\u00e9gu\u00e9e de l'Assurance Maladie - DAM",
+            "code_ogr": "38420"
+        },
+        {
+            "libelle_court": "Dentiste conseil",
+            "priorisation": "1",
+            "libelle": "Dentiste conseil",
+            "code_ogr": "13961"
+        },
+        {
+            "libelle_court": "Inspecteur/Inspectrice de Sant\u00e9 Publique V\u00e9t\u00e9rinaire -ISPV-",
+            "priorisation": "1",
+            "libelle": "Inspecteur / Inspectrice de Sant\u00e9 Publique V\u00e9t\u00e9rinaire -ISPV-",
+            "code_ogr": "15954"
+        },
+        {
+            "libelle_court": "M\u00e9decin conseil",
+            "priorisation": "1",
+            "libelle": "M\u00e9decin conseil",
+            "code_ogr": "16565"
+        },
+        {
+            "libelle_court": "M\u00e9decin des services communaux d'hygi\u00e8ne",
+            "priorisation": "1",
+            "libelle": "M\u00e9decin des services communaux d'hygi\u00e8ne",
+            "code_ogr": "16574"
+        },
+        {
+            "libelle_court": "M\u00e9decin des services communaux d'hygi\u00e8ne et de la sant\u00e9",
+            "priorisation": "1",
+            "libelle": "M\u00e9decin des services communaux d'hygi\u00e8ne et de la sant\u00e9",
+            "code_ogr": "16575"
+        },
+        {
+            "libelle_court": "M\u00e9decin inspecteur de la sant\u00e9",
+            "priorisation": "1",
+            "libelle": "M\u00e9decin inspecteur de la sant\u00e9",
+            "code_ogr": "16585"
+        },
+        {
+            "libelle_court": "M\u00e9decin Inspecteur de Sant\u00e9 Publique -MISP-",
+            "priorisation": "1",
+            "libelle": "M\u00e9decin Inspecteur de Sant\u00e9 Publique -MISP-",
+            "code_ogr": "16586"
+        },
+        {
+            "libelle_court": "Pharmacien / Pharmacienne conseil",
+            "priorisation": "1",
+            "libelle": "Pharmacien / Pharmacienne conseil",
+            "code_ogr": "17681"
+        },
+        {
+            "libelle_court": "Pharmacien inspecteur / Pharmacienne inspectrice de la sant\u00e9",
+            "priorisation": "1",
+            "libelle": "Pharmacien inspecteur / Pharmacienne inspectrice de la sant\u00e9",
+            "code_ogr": "17688"
+        },
+        {
+            "libelle_court": "Pharmacien Inspecteur/Pharmacienne Inspectrice Sant\u00e9 -PhISP-",
+            "priorisation": "1",
+            "libelle": "Pharmacien Inspecteur / Pharmacienne Inspectrice de Sant\u00e9 Publique -PhISP-",
+            "code_ogr": "17689"
+        },
+        {
+            "libelle_court": "Pharmacien(ne) sp\u00e9cialis\u00e9(e) en l\u00e9gislation pharmaceutique",
+            "priorisation": "1",
+            "libelle": "Pharmacien sp\u00e9cialis\u00e9 / Pharmacienne sp\u00e9cialis\u00e9e en l\u00e9gislation pharmaceutique",
+            "code_ogr": "17692"
+        },
+        {
+            "libelle_court": "Praticien / Praticienne de sant\u00e9 publique",
+            "priorisation": "1",
+            "libelle": "Praticien / Praticienne de sant\u00e9 publique",
+            "code_ogr": "17959"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Analyser les donn\u00e9es socio\u00e9conomiques (mortalit\u00e9, f\u00e9condit\u00e9, pathologies, ...) et \u00e9valuer l'activit\u00e9 m\u00e9dicale (consommation de soins, taux d'utilisation des \u00e9quipements, ...)",
+            "code_ogr": "662",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Concevoir et mettre en place les actions de pr\u00e9vention, d'information sur le syst\u00e8me de sant\u00e9",
+            "code_ogr": "881",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner les prestations des praticiens, chercheurs, ... et suivre les \u00e9valuations des r\u00e9sultats, les \u00e9volutions, ...",
+            "code_ogr": "1202",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der aux visites de contr\u00f4le et mettre en place l'organisation des soins, l'application r\u00e9glementaire, les prescriptions, ...",
+            "code_ogr": "2720",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir le rapport d'inspection et le transmettre aux responsables d'\u00e9tablissement, praticiens, instances professionnelles, ...",
+            "code_ogr": "1868",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "5",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Apporter un appui technique aupr\u00e8s de commissions techniques ou comit\u00e9s consultatifs",
+            "code_ogr": "715",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "A1504",
+            "libelle_rome_cible": "Sant\u00e9 animale"
+        },
+        {
+            "code_rome_cible": "J1101",
+            "libelle_rome_cible": "M\u00e9decine de pr\u00e9vention"
+        },
+        {
+            "code_rome_cible": "J1102",
+            "libelle_rome_cible": "M\u00e9decine g\u00e9n\u00e9raliste et sp\u00e9cialis\u00e9e"
+        },
+        {
+            "code_rome_cible": "J1103",
+            "libelle_rome_cible": "M\u00e9decine dentaire"
+        },
+        {
+            "code_rome_cible": "J1202",
+            "libelle_rome_cible": "Pharmacie"
+        },
+        {
+            "code_rome_cible": "K2108",
+            "libelle_rome_cible": "Enseignement sup\u00e9rieur"
+        },
+        {
+            "code_rome_cible": "K2402",
+            "libelle_rome_cible": "Recherche en sciences de l'univers, de la mati\u00e8re et du vivant"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec le Dipl\u00f4me d'Etat de Docteur en m\u00e9decine, pharmacie, chirurgie dentaire ou m\u00e9decine v\u00e9t\u00e9rinaire.\nUn niveau Bac + 2 est requis pour les d\u00e9l\u00e9gu\u00e9s de l'Assurance Maladie.\nDes formations compl\u00e9mentaires (sant\u00e9 communautaire et m\u00e9decine sociale, sant\u00e9 publique et m\u00e9decine sociale, sant\u00e9 publique, ...) peuvent \u00eatre requises.\nL'acc\u00e8s \u00e0 l'emploi/m\u00e9tier s'effectue sur concours sur titre (services d\u00e9concentr\u00e9s de l'Etat, organismes de s\u00e9curit\u00e9 sociale, ...).\nL'inscription au tableau de l'Ordre professionnel de la sp\u00e9cialit\u00e9 est obligatoire.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser des interventions dans un domaine :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "M\u00e9decine g\u00e9n\u00e9rale",
+            "code_ogr": "8454",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pharmacie, biologie m\u00e9dicale",
+            "code_ogr": "8457",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chirurgie dentaire",
+            "code_ogr": "8445",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Soins v\u00e9t\u00e9rinaires",
+            "code_ogr": "8458",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Prendre en charge des dossiers :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Addictologie (toxicomanie, alcoolisme, ...)",
+            "code_ogr": "7908",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "H\u00e9bergement social",
+            "code_ogr": "7909",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Hospitalisation sous contrainte",
+            "code_ogr": "7910",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Prise en charge du handicap",
+            "code_ogr": "7911",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Prise en charge m\u00e9dicale en milieu carc\u00e9ral",
+            "code_ogr": "7912",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Vieillissement de la population",
+            "code_ogr": "7913",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener des actions :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mission d'expertise internationale",
+            "code_ogr": "7341",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9alisation d'enqu\u00eates (\u00e9pid\u00e9miologiques, alimentaires, ...)",
+            "code_ogr": "7335",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9daction de publications",
+            "code_ogr": "7345",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9finir ou participer \u00e0 la d\u00e9finition des orientations de sant\u00e9 publique (ma\u00eetrise des d\u00e9penses de sant\u00e9, offre de soins, campagnes de pr\u00e9vention, ...) et d\u00e9terminer une strat\u00e9gie de communication",
+            "code_ogr": "4565",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der \u00e0 l'examen m\u00e9dical de contr\u00f4le d'un assur\u00e9 social et d\u00e9terminer les conditions d'attribution de prestations (taux d'invalidit\u00e9, exon\u00e9ration de ticket mod\u00e9rateur, carte d'invalidit\u00e9, ...)",
+            "code_ogr": "8147",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Evaluer un risque sanitaire et mettre en place des mesures d'urgence (vaccination, fermeture d'\u00e9tablissement, abattage d'animaux, ...)",
+            "code_ogr": "5879",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir le bilan d'activit\u00e9 d'un service et le transmettre aux responsables hi\u00e9rarchiques, aux instances consultatives, ...",
+            "code_ogr": "5825",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Promouvoir les recommandations de l'Assurance Maladie aupr\u00e8s des professionnels de sant\u00e9",
+            "code_ogr": "38419",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener les actions de gestion de ressources humaines (recrutement, formation, ...)",
+            "code_ogr": "3563",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener des actions de formation au sein d'un organisme",
+            "code_ogr": "7395",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de diverses structures (administration, organisme de protection sociale, collectivit\u00e9s territoriales, ...) en relation avec diff\u00e9rents intervenants de sant\u00e9 publique (Agence R\u00e9gionale d'Hospitalisation -ARH, organismes de veille sanitaire, ...), les professionnels de sant\u00e9 (\u00e9tablissements de soins, praticiens, ...) et le public (assur\u00e9s sociaux, ...).\nElle peut varier selon le lieu d'exercice (administration centrale, services d\u00e9centralis\u00e9s, ...).\n",
+    "savoir_action": [],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Agence de s\u00e9curit\u00e9 sanitaire",
+            "code_ogr": "23693",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caisse d'assurance maladie",
+            "code_ogr": "23752",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement d'enseignement sp\u00e9cialis\u00e9",
+            "code_ogr": "23920",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisme de protection sociale",
+            "code_ogr": "24020",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Administration / Services de l'Etat",
+            "code_ogr": "23388",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Code de sant\u00e9 publique",
+            "code_ogr": "21728",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Epid\u00e9miologie",
+            "code_ogr": "21934",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "D\u00e9mographie",
+            "code_ogr": "21774",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9thodes d'enqu\u00eate",
+            "code_ogr": "22141",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Conduite de projet",
+            "code_ogr": "21746",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'audit",
+            "code_ogr": "22805",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Guide des Bonnes Pratiques d'Inspection -GBPI-",
+            "code_ogr": "22016",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de conduite de r\u00e9union",
+            "code_ogr": "22843",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Analyse statistique",
+            "code_ogr": "22721",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "L\u00e9gislation sociale",
+            "code_ogr": "22086",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestion des Ressources Humaines",
+            "code_ogr": "22000",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques p\u00e9dagogiques",
+            "code_ogr": "23253",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nCon\u00e7oit des programmes de pr\u00e9vention, d'\u00e9ducation de sant\u00e9 publique et met en place des actions de contr\u00f4le et d'\u00e9valuation du syst\u00e8me de sant\u00e9, selon les imp\u00e9ratifs de s\u00e9curit\u00e9 sanitaire et la r\u00e9glementation m\u00e9dicosociale (code de Sant\u00e9 Publique, Code de S\u00e9curit\u00e9 Sociale, ...).\nPeut coordonner une \u00e9quipe, coordonner un r\u00e9seau d'intervenants.\n",
+    "intitule": "Conseil en Sant\u00e9 Publique",
+    "code_ogr": "380",
+    "code_rome": "K1402",
+    "mobilites_si_evolution": []
+}

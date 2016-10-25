@@ -1,0 +1,762 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "C\u00e9ramiste concepteur / conceptrice",
+            "priorisation": "1",
+            "libelle": "C\u00e9ramiste concepteur / conceptrice",
+            "code_ogr": "11723"
+        },
+        {
+            "libelle_court": "C\u00e9ramiste d'art",
+            "priorisation": "1",
+            "libelle": "C\u00e9ramiste d'art",
+            "code_ogr": "11724"
+        },
+        {
+            "libelle_court": "C\u00e9ramiste praticien / praticienne",
+            "priorisation": "1",
+            "libelle": "C\u00e9ramiste praticien / praticienne",
+            "code_ogr": "11725"
+        },
+        {
+            "libelle_court": "Garnisseur / Garnisseuse en c\u00e9ramique",
+            "priorisation": "1",
+            "libelle": "Garnisseur / Garnisseuse en c\u00e9ramique",
+            "code_ogr": "15238"
+        },
+        {
+            "libelle_court": "Modeleur sculpteur / Modeleuse sculptrice en c\u00e9ramique",
+            "priorisation": "1",
+            "libelle": "Modeleur sculpteur / Modeleuse sculptrice en c\u00e9ramique",
+            "code_ogr": "16700"
+        },
+        {
+            "libelle_court": "Modeleur(se) sculpteur(trice) en mat\u00e9riaux de synth\u00e8se",
+            "priorisation": "1",
+            "libelle": "Modeleur sculpteur / Modeleuse sculptrice en mat\u00e9riaux de synth\u00e8se",
+            "code_ogr": "16701"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice en restauration de c\u00e9ramique",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice en restauration de c\u00e9ramique",
+            "code_ogr": "17214"
+        },
+        {
+            "libelle_court": "Potier / Poti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Potier / Poti\u00e8re",
+            "code_ogr": "17953"
+        },
+        {
+            "libelle_court": "Potier / Poti\u00e8re en r\u00e9fractaire",
+            "priorisation": "1",
+            "libelle": "Potier / Poti\u00e8re en r\u00e9fractaire",
+            "code_ogr": "17954"
+        },
+        {
+            "libelle_court": "Restaurateur / Restauratrice de c\u00e9ramique",
+            "priorisation": "1",
+            "libelle": "Restaurateur / Restauratrice de c\u00e9ramique",
+            "code_ogr": "19217"
+        },
+        {
+            "libelle_court": "Santonnier / Santonni\u00e8re",
+            "priorisation": "1",
+            "libelle": "Santonnier / Santonni\u00e8re",
+            "code_ogr": "19305"
+        },
+        {
+            "libelle_court": "Tourneur / Tourneuse en poterie",
+            "priorisation": "1",
+            "libelle": "Tourneur / Tourneuse en poterie",
+            "code_ogr": "20375"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "D\u00e9finir les \u00e9tapes d'intervention pour le fa\u00e7onnage ou la d\u00e9coration de l'objet (vase, sculpture, ...) et informer le client sur les conditions de r\u00e9alisation",
+            "code_ogr": "1306",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9lectionner les mat\u00e9riaux (argile, \u00e9maux, ...) et composer les poudres, les p\u00e2tes plastiques ou liquides (barbotine, ...) en vue de leur mise en forme",
+            "code_ogr": "3172",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Fa\u00e7onner la p\u00e2te c\u00e9ramique ou les mat\u00e9riaux de synth\u00e8se",
+            "code_ogr": "1981",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Assembler les parties constitutives de l'objet (garniture d'anse, ...)",
+            "code_ogr": "764",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Appliquer le rev\u00eatement sur l'objet et le d\u00e9corer",
+            "code_ogr": "698",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser les op\u00e9rations de finition (\u00e9bavurage, per\u00e7age, lissage, nettoyage, ...) sur l'objet",
+            "code_ogr": "2846",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la conformit\u00e9 de l'objet (absence de coulure, \u00e9tanch\u00e9it\u00e9, ...)",
+            "code_ogr": "1024",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Emballer le produit et enregistrer la vente",
+            "code_ogr": "1776",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "8",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "B1101",
+            "libelle_rome_cible": "Cr\u00e9ation en arts plastiques"
+        },
+        {
+            "code_rome_cible": "B1302",
+            "libelle_rome_cible": "D\u00e9coration d'objets d'art et artisanaux"
+        },
+        {
+            "code_rome_cible": "B1602",
+            "libelle_rome_cible": "R\u00e9alisation d'objets artistiques et fonctionnels en verre"
+        },
+        {
+            "code_rome_cible": "F1612",
+            "libelle_rome_cible": "Taille et d\u00e9coration de pierres"
+        },
+        {
+            "code_rome_cible": "G1202",
+            "libelle_rome_cible": "Animation d'activit\u00e9s culturelles ou ludiques"
+        },
+        {
+            "code_rome_cible": "H2803",
+            "libelle_rome_cible": "Fa\u00e7onnage et \u00e9maillage en industrie c\u00e9ramique"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac+2 (BTS) en tournage en c\u00e9ramique, art c\u00e9ramique.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans d'autres sp\u00e9cialit\u00e9s artisanales (mosa\u00efque, sculpture, ...) sans dipl\u00f4me particulier.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Fa\u00e7onner des ouvrages/articles :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Objets usuels (alimentaires, ...)",
+            "code_ogr": "5971",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Objets d\u00e9coratifs",
+            "code_ogr": "5970",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Figurines (santon, ...)",
+            "code_ogr": "5965",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pi\u00e8ces d'art",
+            "code_ogr": "5973",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Carreaux (carrelages d\u00e9coratifs, tuile d\u00e9corative, ...)",
+            "code_ogr": "5962",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Art de la table",
+            "code_ogr": "5958",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bijoux, accessoires",
+            "code_ogr": "5961",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Fa\u00e7onner des ouvrages selon des techniques sp\u00e9cifiques :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "A la plaque",
+            "code_ogr": "5947",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Au colombin",
+            "code_ogr": "5948",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Calibrage",
+            "code_ogr": "5949",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Estampage",
+            "code_ogr": "5951",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Modelage",
+            "code_ogr": "5952",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Moulage",
+            "code_ogr": "5953",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coulage",
+            "code_ogr": "5950",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sculpture",
+            "code_ogr": "5954",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "8",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tournage",
+            "code_ogr": "5955",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9corer des ouvrages par :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Polissage",
+            "code_ogr": "4453",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Gravure, incision",
+            "code_ogr": "4447",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Engobe",
+            "code_ogr": "4446",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Incrustation de m\u00e9tal, verre, ...",
+            "code_ogr": "4448",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Peinture",
+            "code_ogr": "4450",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Dorure, argenture \u00e0 la feuille, ...",
+            "code_ogr": "4444",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Vernis, gla\u00e7ure, \u00e9mail, ...",
+            "code_ogr": "4456",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Craquelage",
+            "code_ogr": "4443",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effets de surface ou de mati\u00e8re (lustre, cristallisation, ...)",
+            "code_ogr": "4445",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9d\u00e9s d'impression r\u00e9p\u00e9titifs (s\u00e9rigraphie, pochoir, tampon, ...)",
+            "code_ogr": "4454",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "10",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Intervenir sur des \u00e9tapes de conception :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Dessin artistique du produit",
+            "code_ogr": "7066",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conception et r\u00e9alisation de moules, matrices (cire, silicone, pl\u00e2tre, ...)",
+            "code_ogr": "7065",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Empiler des pi\u00e8ces crues ou \u00e9maill\u00e9es et proc\u00e9der \u00e0 leur cuisson",
+            "code_ogr": "5670",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Poser et fixer des \u00e9l\u00e9ments c\u00e9ramiques (panneaux muraux, po\u00eale en fa\u00efence, ...)",
+            "code_ogr": "7879",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations de restauration/conservation sur des pi\u00e8ces de c\u00e9ramique ancienne",
+            "code_ogr": "8762",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9senter et commercialiser des objets, articles (vitrine, exposition, site web ...)",
+            "code_ogr": "8045",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Transmettre les techniques du m\u00e9tier ou mener des actions de sensibilisation au m\u00e9tier",
+            "code_ogr": "10026",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la gestion comptable et administrative d'une structure",
+            "code_ogr": "3533",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises artisanales, de manufactures de fabrication d'objets en c\u00e9ramique, d'organismes culturels, du patrimoine ou en ind\u00e9pendant, en contact avec des clients et des intervenants ext\u00e9rieurs (peintre en c\u00e9ramique, ...).\nL'activit\u00e9 s'effectue en atelier, magasin, parfois chez le client.\nElle peut impliquer la manipulation de charges lourdes et d'outils tranchants (tournassin, mirette, ...).\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils manuels (\u00e9bauchoir, est\u00e8que, mirette, ...)",
+            "code_ogr": "21457",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de tour",
+            "code_ogr": "21399",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Application de produits par trempage",
+            "code_ogr": "20764",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Application par vaporisation, arrosage",
+            "code_ogr": "20767",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Application de produits au pinceau",
+            "code_ogr": "20759",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Application de produits par poudrage",
+            "code_ogr": "20763",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Conception et de Dessin Assist\u00e9s par Ordinateur -CAO/DAO-",
+            "code_ogr": "21249",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Publication Assist\u00e9e par Ordinateur -PAO-",
+            "code_ogr": "21264",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise artisanale",
+            "code_ogr": "23870",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Manufacture",
+            "code_ogr": "24003",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisme culturel, du patrimoine",
+            "code_ogr": "24016",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques de la c\u00e9ramique",
+            "code_ogr": "21547",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des p\u00e2tes c\u00e9ramiques (transformation, r\u00e9action, temps de prise, ...)",
+            "code_ogr": "21630",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des mat\u00e9riaux composites",
+            "code_ogr": "21605",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques de la fa\u00efence",
+            "code_ogr": "21548",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques de la porcelaine",
+            "code_ogr": "21550",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des c\u00e9ramiques r\u00e9fractaires",
+            "code_ogr": "21565",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques du gr\u00e8s",
+            "code_ogr": "21676",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques du raku",
+            "code_ogr": "23240",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Composition de d\u00e9corations d'objets (\u00e9maux, gla\u00e7ures, ...)",
+            "code_ogr": "21735",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Dessin industriel",
+            "code_ogr": "21777",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en pyrom\u00e9trie et r\u00e9actions thermiques",
+            "code_ogr": "21912",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de ma\u00e7onnerie",
+            "code_ogr": "22953",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes de conservation pr\u00e9ventive",
+            "code_ogr": "22312",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de restauration",
+            "code_ogr": "23102",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en chimie",
+            "code_ogr": "21844",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de vente",
+            "code_ogr": "23168",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de marketing",
+            "code_ogr": "22970",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nFa\u00e7onne et d\u00e9core, \u00e0 l'unit\u00e9 ou en petite s\u00e9rie, des pi\u00e8ces d\u00e9coratives ou utilitaires en c\u00e9ramique ou en mat\u00e9riaux de synth\u00e8se.\nPeut cr\u00e9er et commercialiser des pi\u00e8ces fa\u00e7onn\u00e9es et r\u00e9aliser la restauration de pi\u00e8ces anciennes.\nPeut transmettre son savoir-faire.\nPeut diriger un service ou une structure.\n",
+    "intitule": "R\u00e9alisation d'objets d\u00e9coratifs et utilitaires en c\u00e9ramique et mat\u00e9riaux de synth\u00e8se",
+    "code_ogr": "37",
+    "code_rome": "B1201",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1301",
+            "libelle_rome_cible": "Management de magasin de d\u00e9tail"
+        },
+        {
+            "code_rome_cible": "K1203",
+            "libelle_rome_cible": "Encadrement technique en insertion professionnelle"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">conducteur/trice de travaux</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">me déplacer souvent/coordonner l'activité d'une équipe/travailler dehors</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conduite de chantier/fonction encadrement - coordination</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur gros oeuvre bâtiment/secteur second oeuvre bâtiment/secteur travaux publics</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">conduite de chantier</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE bâtiment gros oeuvre génie civil/conducteur de travaux</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10011</lien_onisep>
+<ROME Level="1B" csRelFld="10011">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="180" csRelFld="180">
+<CSLABELFLD label="">F1201</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conduite et encadrement de chantier - travaux</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">F1201</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Conduite de travaux du BTP</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10011">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1578" csRelFld="1578">
+<CSLABELFLD label="">agent / agente de maîtrise de la Ville de Paris (bâtiments)</CSLABELFLD>
+<MET_ID label="Identifiant">10011</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1578</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">agent/e de maîtrise de la Ville de Paris (bâtiments)</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1578">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1579" csRelFld="1579">
+<CSLABELFLD label="">agent / agente de maîtrise de la Ville de Paris (travaux publics - TP)</CSLABELFLD>
+<MET_ID label="Identifiant">10011</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1579</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">agent/e de maîtrise de la Ville de Paris (travaux publics - TP)</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1579">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1580" csRelFld="1580">
+<CSLABELFLD label="">contrôleur territorial / contrôleuse territoriale de travaux (bâtiments ; routes ; voiries et réseaux divers ; voies navigables et ports maritimes)</CSLABELFLD>
+<MET_ID label="Identifiant">10011</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1580</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">contrôleur/euse territorial/e de travaux (bâtiments ; routes ; voiries et réseaux divers ; voies navigables et ports maritimes)</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1580">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17869" csRelFld="17869">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17869</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10011</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Coordonner</inter>
+<p>Souvent présenté comme le " chef d'orchestre " du chantier, le conducteur de travaux intervient à toutes les phases du chantier. En relation étroite avec tous les intervenants (architectes, ingénieurs, techniciens, contremaîtres et ouvriers), sa mission principale consiste à coordonner et diriger toutes les activités de construction.</p>
+<inter>Préparer et organiser</inter>
+<p>Son travail démarre en amont : durant la phase de préparation du chantier, il doit analyser le dossier technique (plans d'architectes, études des ingénieurs, etc.) ; choisir ou valider les entreprises qui seront ses partenaires durant les travaux ; évaluer les moyens humains nécessaires à la réalisation du chantier ; établir le planning des travaux et étudier les méthodes de réalisation. Il se charge également d'effectuer les démarches administratives (ex. : autorisations des collectivités locales) nécessaires au démarrage du chantier.</p>
+<inter>Suivre et contrôler</inter>
+<p>Une fois le chantier démarré, sa tâche se transforme en celle de " contrôleur ". Le conducteur de travaux veille à la bonne évolution des travaux. Il doit notamment faire en sorte que les délais et le budget initialement prévus soient respectés. Pour cela, ce professionnel s'appuie sur le chef de chantier, lequel joue le rôle de relais entre le conducteur de travaux et les équipes de construction.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17867" csRelFld="17867">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17867</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10011</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le métier est accessible après un bac + 2, même si la plupart des jeunes conducteurs de travaux ont désormais un niveau bac + 5. Certains ont accédé à ce poste grâce à la promotion interne. Toutefois, il est plus rapide d'y parvenir avec l'un des diplômes ci-dessous.</p>
+<liste>
+<tete>Niveau bac + 2 </tete>
+<itsimp>BTS bâtiment ; travaux publics ; études et économie de la construction</itsimp>
+<itsimp>DUT génie civil - construction durable</itsimp>
+<itsimp>Diplômes de responsable ou conducteur de chantiers (ESTP, chambres de commerce et d'industrie, école ISCO...)</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licences pro mention Métiers du BTP</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur dans le bâtiment ou les travaux publics</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17872" csRelFld="17872">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17872</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10011</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Après une solide expérience</inter>
+<p>La fonction de conducteur de travaux exige de connaître parfaitement les divers corps de métiers qui travaillent dans le secteur de la construction, et d'avoir déjà à son actif une solide expérience du chantier. Autant dire qu'elle n'est pas accessible aux débutants. L'entrée dans le métier s'effectue en général au poste d'aide-conducteur de travaux. Après plusieurs chantiers, le jeune professionnel peut accéder à la fonction de conducteur de travaux proprement dite et mener son propre chantier.</p>
+<inter>Évoluer vers la direction</inter>
+<p>Après environ 10 ans d'exercice, le conducteur de travaux peut monter dans la hiérarchie et devenir directeur de travaux, autrement dit superviser des opérations conséquentes nécessitant l'intervention de plusieurs conducteurs de travaux, dont il aura la responsabilité. La rapidité des promotions dépend souvent de la formation initiale. Les titulaires d'une licence du secteur du BTP ou d'un diplôme d'ingénieur gagneront du temps. Il est possible également d'évoluer en tant qu'ingénieur commercial ou contrôleur des travaux dans une collectivité ou au service de l'État.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2400</sal> euros brut par mois.</p>
+<postit>
+<p>Source : Le Moniteur des travaux publics et du bâtiment, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

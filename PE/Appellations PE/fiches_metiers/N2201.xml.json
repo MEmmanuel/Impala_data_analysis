@@ -1,0 +1,318 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent(e) accompagnement a\u00e9roport. passagers mobilit\u00e9 r\u00e9duite",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'accompagnement a\u00e9roportuaire de passagers \u00e0 mobilit\u00e9 r\u00e9duite",
+            "code_ogr": "39008"
+        },
+        {
+            "libelle_court": "Agent / Agente de passage escale a\u00e9roportuaire",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de passage escale a\u00e9roportuaire",
+            "code_ogr": "10539"
+        },
+        {
+            "libelle_court": "Agent/Agente des Services Commerciaux escale a\u00e9roportuaire",
+            "priorisation": "1",
+            "libelle": "Agent / Agente des Services Commerciaux en escale a\u00e9roportuaire -ASC-",
+            "code_ogr": "10697"
+        },
+        {
+            "libelle_court": "Agent / Agente d'escale a\u00e9roportuaire",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'escale a\u00e9roportuaire",
+            "code_ogr": "10699"
+        },
+        {
+            "libelle_court": "Agent / Agente d'Escale Commerciale a\u00e9roportuaire -AEC-",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'Escale Commerciale a\u00e9roportuaire -AEC-",
+            "code_ogr": "10700"
+        },
+        {
+            "libelle_court": "Superviseur / Superviseuse d'escale a\u00e9roportuaire",
+            "priorisation": "1",
+            "libelle": "Superviseur / Superviseuse d'escale a\u00e9roportuaire",
+            "code_ogr": "19564"
+        },
+        {
+            "libelle_court": "Superviseur / Superviseuse passage a\u00e9roportuaire",
+            "priorisation": "1",
+            "libelle": "Superviseur / Superviseuse passage a\u00e9roportuaire",
+            "code_ogr": "19569"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Accueillir les passagers et les informer sur les conditions d'enregistrement, d'embarquement/d\u00e9barquement, de vol, ...",
+            "code_ogr": "580",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Collecter les informations concernant les vols et effectuer les op\u00e9rations d'ouverture d'enregistrement, d'embarquement",
+            "code_ogr": "844",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier et enregistrer les documents des passagers et les bagages (r\u00e9f\u00e9rencement, surpoids, ...)",
+            "code_ogr": "3393",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser les op\u00e9rations d'embarquement/d\u00e9barquement (r\u00e9servation de bus sur piste, accompagnement des passagers, remise des coupons de vol, ...)",
+            "code_ogr": "2856",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier les cartes d'embarquement avec la liste des passagers pr\u00e9sents \u00e0 bord, renseigner et transmettre les documents de suivi de vol",
+            "code_ogr": "3460",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1204",
+            "libelle_rome_cible": "Location de v\u00e9hicules ou de mat\u00e9riel de loisirs"
+        },
+        {
+            "code_rome_cible": "G1101",
+            "libelle_rome_cible": "Accueil touristique"
+        },
+        {
+            "code_rome_cible": "G1703",
+            "libelle_rome_cible": "R\u00e9ception en h\u00f4tellerie"
+        },
+        {
+            "code_rome_cible": "M1601",
+            "libelle_rome_cible": "Accueil et renseignements"
+        },
+        {
+            "code_rome_cible": "N4302",
+            "libelle_rome_cible": "Contr\u00f4le des transports en commun"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau Bac \u00e0 Bac+2 (BTS, DUT, L2) en tourisme, commerce, langues \u00e9trang\u00e8res, ...\nUne exp\u00e9rience professionnelle dans le secteur du transport a\u00e9rien peut \u00eatre demand\u00e9e.\nUn casier judiciaire exempt de toute mention contradictoire est obligatoire.\nLe permis B est obligatoire pour la conduite sur piste a\u00e9roportuaire.\nLa pratique d'une ou plusieurs langue(s) \u00e9trang\u00e8re(s), en particulier l'anglais, est exig\u00e9e.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Mettre en oeuvre des mesures relatives \u00e0 des situations particuli\u00e8res (passager absent \u00e0 l'embarquement, \u00e0 mobilit\u00e9 r\u00e9duite, extrad\u00e9, ...)",
+            "code_ogr": "7445",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mettre en place des mesures correctives pour la client\u00e8le lors de retard ou d'annulation de vols, de perte de bagage, ...",
+            "code_ogr": "7482",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conduire au moyen de minibus, voiture, ... des passagers sur une piste a\u00e9roportuaire",
+            "code_ogr": "4055",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les op\u00e9rations de cl\u00f4ture d'un vol (fermeture des portes, documents de cl\u00f4ture, ...)",
+            "code_ogr": "5404",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et analyser les donn\u00e9es d'activit\u00e9 du service ou de la structure et proposer des axes d'\u00e9volution",
+            "code_ogr": "3608",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accueillir les nouveaux salari\u00e9s et favoriser leur int\u00e9gration dans la structure",
+            "code_ogr": "3638",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce dans les a\u00e9rogares, au sein de compagnies a\u00e9riennes, de gestionnaires d'a\u00e9roport ou de soci\u00e9t\u00e9s d'assistance a\u00e9roportuaire, en contact avec les passagers et en relation avec diff\u00e9rents interlocuteurs (chef d'escale, \u00e9quipage, douane, services bagages, services piste, ...).\nL'activit\u00e9 peut s'exercer en horaires d\u00e9cal\u00e9s, par roulement, les fins de semaine, jours f\u00e9ri\u00e9s ou de nuit.\nLe port d'\u00e9quipements de protection (gilet fluorescent, casque antibruit, ...) est requis sur les pistes.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils de radiocommunication",
+            "code_ogr": "21472",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de suivi de vol ou d'enregistrement de bagages",
+            "code_ogr": "21384",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de r\u00e9servation",
+            "code_ogr": "21265",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciel de suivi bagages",
+            "code_ogr": "21234",
+            "position_item": "2",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "A\u00e9roport",
+            "code_ogr": "23682",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Compagnie a\u00e9rienne",
+            "code_ogr": "23819",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 d'assistance a\u00e9roportuaire",
+            "code_ogr": "24077",
+            "code_type_section_env": "1"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Terminologie a\u00e9ronautique (IATA, alphabet a\u00e9ronautique, ...)",
+            "code_ogr": "23272",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "G\u00e9ographie li\u00e9e aux services a\u00e9roportuaires (fuseaux horaires, a\u00e9roports, ...)",
+            "code_ogr": "21983",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation du transport de mati\u00e8res et produits dangereux",
+            "code_ogr": "22564",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modalit\u00e9s d'accueil",
+            "code_ogr": "22161",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00fbret\u00e9 a\u00e9roportuaire",
+            "code_ogr": "22638",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sp\u00e9cificit\u00e9s culturelles de la client\u00e8le",
+            "code_ogr": "22697",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de pr\u00e9vention et de gestion de conflits",
+            "code_ogr": "23058",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de prise en charge des enfants mineurs",
+            "code_ogr": "22423",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nAssiste et guide les passagers d'un vol \u00e0 l'arriv\u00e9e, au d\u00e9part ou en correspondance pour l'enregistrement passagers/bagages, l'embarquement/d\u00e9barquement, le traitement des particularit\u00e9s (enfants non-accompagn\u00e9s, passagers manquants, al\u00e9as,...).\nAgit en liaison avec les diff\u00e9rents intervenants de l'escale, selon la r\u00e9glementation du transport a\u00e9rien et les objectifs commerciaux.\nPeut coordonner l'activit\u00e9 d'une \u00e9quipe d'agents d'escale.\n",
+    "intitule": "Personnel d'escale a\u00e9roportuaire",
+    "code_ogr": "512",
+    "code_rome": "N2201",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "G1303",
+            "libelle_rome_cible": "Vente de voyages"
+        },
+        {
+            "code_rome_cible": "N2204",
+            "libelle_rome_cible": "Pr\u00e9paration des vols"
+        },
+        {
+            "code_rome_cible": "N2205",
+            "libelle_rome_cible": "Direction d'escale et exploitation a\u00e9roportuaire"
+        },
+        {
+            "code_rome_cible": "N4401",
+            "libelle_rome_cible": "Circulation du r\u00e9seau ferr\u00e9"
+        }
+    ]
+}

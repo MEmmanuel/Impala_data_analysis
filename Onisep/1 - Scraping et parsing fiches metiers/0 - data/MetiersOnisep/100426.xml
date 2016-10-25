@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">étalagiste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un métier artistique ou créatif</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/indépendant</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur commerce</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">réalisation d'étalage/communication visuelle</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE commerce distribution/étalagiste</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100426</lien_onisep>
+<ROME Level="1B" csRelFld="100426">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100426">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1233" csRelFld="1233">
+<CSLABELFLD label="">décorateur / décoratrice</CSLABELFLD>
+<MET_ID label="Identifiant">100426</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">09/07/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1233</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">décorateur/trice</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1233">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="36159" csRelFld="36159">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36159</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100426</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Imaginer et concevoir des présentations</inter>
+<p>À partir des préconisations du responsable du magasin (ou du service marketing), l'étalagiste imagine et conçoit une présentation des produits, collections ou services sur leur lieu de vente. Il choisit ses éléments de décoration dans le but de créer une ambiance agréable. Avec des matériaux qu'il choisit lui-même, il fabrique les différents supports qu'il peint ou recouvre de tissu, de papier kraft...</p>
+<inter>Mettre en scène </inter>
+<p>Après avoir établi la tonalité générale, l'étalagiste met en scène son décor. Il joue avec les volumes, cherche l'harmonie entre les couleurs et les formes, choisit le meilleur éclairage et l'emplacement idéal pour valoriser les produits. S'il recherche un style épuré, il utilise peu d'accessoires et joue sur la disposition des objets présentés. Pour exposer des vêtements, il doit savoir habiller les mannequins, choisir les accessoires, marier les styles&#8230;</p>
+<inter>Des règles à respecter</inter>
+<p>Bien que créatif, l'étalagiste doit tenir compte des contraintes techniques, budgétaires et des réglementations en vigueur (en ce qui concerne notamment le mode de conservation de certains produits).</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36163" csRelFld="36163">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36163</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100426</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Il n'existe pas de diplôme d'État d'étalagiste.</accr_p> Néanmoins, les écoles privées et les centres de formation des CCI (chambres de commerce et d'industrie) proposent différentes formations, reconnues par la profession, qui allient pratique et théorie. Il est aussi possible d'intégrer des formations en rapport avec le métier : bac pro, BTS (brevet de technicien supérieur)&#8230;</p>
+<liste>
+<tete>Après la 3<exp>e</exp>
+</tete>
+<itsimp>Certificat de décorateur-étalagiste/visuel marchandiseur (lycée professionnel Abbé Grégoire, Paris) </itsimp>
+<itsimp>FC (formation complémentaire) agencement de magasins (lycée des métiers de l'ameublement, Saint-Quentin)</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>Bac pro artisanat et métiers d'art, option marchandisage visuel</itsimp>
+<itsimp>Bac technologique STD2A (sciences et technologies du design et des arts appliqués)</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS design d'espace ; design de communication espace et volume</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36161" csRelFld="36161">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36161</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100426</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des professionnels attendus </inter>
+<p>La nécessité de se démarquer de la forte concurrence pousse les entreprises commerciales à porter un soin tout particulier à leur image. C'est pourquoi elles font de plus en plus appel à des professionnels de l'identité visuelle, de la décoration et de l'étalage. </p>
+<inter>Les stages : passage obligé </inter>
+<p>L'accès aux emplois stables s'effectue de plus en plus après de nombreux stages ou missions sous contrats précaires. Devant la variété des formations et la diversité des intitulés, les recruteurs s'appuient sur le profil personnel du candidat et vérifient que celui-ci correspond bien au poste proposé.</p>
+<inter>Différentes évolutions possibles</inter>
+<p>La grande majorité des étalagistes est salariée dans une entreprise. Après quelques années d'expérience, ils peuvent accéder à des postes à responsabilité dans le domaine de la décoration, de l'identité visuelle ou du marketing. Avec une formation complémentaire, la possibilité s'offre à eux de se diriger vers la profession d'architecte d'intérieur.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Variable selon le statut, le lieu d'exercice&#8230;</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

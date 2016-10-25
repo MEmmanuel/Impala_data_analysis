@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">agent/e artistique</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">aider, conseiller/informer, communiquer/convaincre, négocier/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">indépendant/salarié/intermittent du spectacle</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur des arts du spectacle</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">administration de spectacle</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE arts appliqués arts du spectacle</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100511</lien_onisep>
+<ROME Level="1B" csRelFld="100511">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="542" csRelFld="542">
+<CSLABELFLD label="">L1303</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Conception et production de spectacles</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">L1303</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Promotion d'artistes et de spectacles</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100511">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1100" csRelFld="1100">
+<CSLABELFLD label="">directeur / directrice de casting</CSLABELFLD>
+<MET_ID label="Identifiant">100511</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">03/01/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1100</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">directeur/trice de casting</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1100">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="1101" csRelFld="1101">
+<CSLABELFLD label="">producteur / productrice</CSLABELFLD>
+<MET_ID label="Identifiant">100511</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">03/01/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1101</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">producteur/trice</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1101">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="48048" csRelFld="48048">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">48048</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100511</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Repérer et accompagner</inter>
+<p>L'agent artistique étudie les books, CV, maquettes, manuscrits d'artistes débutants ou inconnus. Il écume les salles de spectacle et de concerts pour repérer de nouveaux talents et leur proposer ses services. Il devient alors un intermédiaire, voire un confident, qui accompagne les artistes tout au long de leur carrière. Tous profitent de ses conseils avisés dans l'espoir de devenir célèbres.</p>
+<inter>Représenter et promouvoir</inter>
+<p>Au courant du moindre projet en gestation, il connaît par coeur les dates des castings et tente d'y trouver une place pour son client. Il décroche des contrats qu'il négocie en fonction du nombre de jours, de la notoriété de l'artiste et de l'importance du projet. Il démarche les maisons de disques, les agences de mannequinat, les sociétés de production, les organisateurs de spectacles, les éditeurs et les sponsors. Il promeut son artiste et protège - d'un point de vue juridique - ses intérêts artistiques, moraux et financiers.</p>
+<inter>Communiquer et planifier</inter>
+<p>L'agent artistique s'occupe des relations publiques : il filtre les demandes d'interviews, organise des rencontres avec les médias, conseille son client sur son image... Il réalise des opérations de communication sur divers supports. Il peut également planifier des dates de spectacle et des tournées. Il en assure alors la logistique.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="48052" csRelFld="48052">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">48052</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100511</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Il existe très peu de formations spécifiques : l'essentiel s'apprend directement sur le terrain.</accr_p> Cependant, une formation en management ou communication permet d'accéder plus facilement au métier, de même qu'une expérience professionnelle dans le secteur du spectacle et de l'artistique. Des formations courtes dispensées par des organismes de formation continue offrent également quelques spécialisations.</p>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licences pro dans le domaine de la gestion des activités culturelles</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Masters dans l'administration de spectacle ou la gestion de projets culturels</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="48050" csRelFld="48050">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">48050</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100511</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Une profession réglementée</inter>
+<p>Depuis les années 70, la profession d'agent artistique est encadrée par tout un arsenal législatif et réglementaire. La loi du 24 juillet 2010 modifie quelques points. Jusqu'à cette date, une autorisation administrative préalable à la délivrance d'une licence d'agent artistique était obligatoire. Elle est désormais supprimée et remplacée par une inscription au registre national des agents artistiques. La nouvelle loi considère que « l'activité d'agent artistique, qu'elle soit exercée sous l'appellation d'impresario, de manager ou sous une autre dénomination », consiste à représenter et défendre les intérêts d'un artiste. Attention : il est interdit d'exercer cette activité si l'on est déjà producteur d'oeuvres cinématographiques ou audiovisuelles.</p>
+<inter>Un secteur en progression</inter>
+<p>Autrefois mal connu du grand public, le métier d'agent artistique se développe à la vitesse grand V. De nouvelles agences se créent, de tailles diverses, mais, pour la plupart, spécialisées dans un domaine précis (musique classique, musiques actuelles, comédiens...).</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Le salaire d'un agent artistique est calculé en pourcentage des rémunérations perçues par l'artiste qu'il représente. Ce pourcentage est actuellement de 10 %.</p>
+<postit>
+<p>Source : Journal officiel de la République française, arrêté du 14 novembre 1973.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

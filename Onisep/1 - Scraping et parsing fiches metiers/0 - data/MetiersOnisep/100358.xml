@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">chef/fe de projet informatique</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe/programmer, créer du contenu numérique</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction études développement informatique</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur sociétés de service et de conseil en informatique/secteur des télécommunications</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">informatique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé/chef de projet informatique</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100358</lien_onisep>
+<ROME Level="1B" csRelFld="100358">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="601" csRelFld="601">
+<CSLABELFLD label="">M1803</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Systèmes d'information et de télécommunication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1803</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Direction des systèmes d'information</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100358">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="32050" csRelFld="32050">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">32050</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100358</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>De la conception au cahier des charges </inter>
+<p>Le chef de projet supervise la conception de la solution informatique la plus adaptée à la demande du client. Pour cela, il assiste les utilisateurs dans la définition de leurs besoins, puis il élabore un cahier des charges. Il estime le temps de travail et le budget nécessaires, établit les plannings (répartition des tâches), évalue les risques et les enjeux... Il peut décider de sous-traiter une partie ou la totalité de la réalisation.</p>
+<inter>Suivi du projet dans les délais</inter>
+<p>En tant que coordinateur, il contrôle la qualité des développements, veille au respect des délais et des coûts. Il communique le compte-rendu opératoire (<etranger>reporting</etranger>), à sa hiérarchie comme à son client. Son impératif : boucler le projet en temps et en heure, en répondant au mieux au budget et aux attentes exprimées.</p>
+<inter>Installation chez le client</inter>
+<p>Il participe aussi à la mise en place des solutions informatiques et à leur intégration dans l'entreprise. À lui d'apporter des améliorations si nécessaire. La maintenance et l'évolution des applications relèvent parfois de ses missions.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="31979" csRelFld="31979">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31979</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100358</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Le métier de chef de projet en informatique est accessible aux diplômés de niveau bac + 5.</accr_p> Qu'il s'agisse des écoles d'ingénieurs ou des universités, ces filières permettent d'acquérir une double compétence technologique et managériale. À compléter par une expérience professionnelle de 5 à 6 ans minimum.</p>
+<p>À l'université, les études commencent par une licence, principalement mention informatique. Les masters recherche et professionnels permettent de se spécialiser et de faire jeu égal avec les écoles d'ingénieurs. </p>
+<p>Certaines écoles d'ingénieurs sont généralistes et proposent une spécialisation en informatique en 2<exp>e</exp> et 3<exp>e</exp> année (Centrale, Mines, Ecole des Ponts ParisTech...). D'autres offrent une filière informatique complète (EPITA, EFREI, INP ENSEEIHT...). À noter quelques mastères spécialisés hybrides (management des systèmes d'information et des technologies de HEC et Mines de Paris...).</p>
+<liste>
+<itsimp>Les écoles spécialisées, souvent accessibles après un diplôme de niveau bac + 2 ou des classes prépas, sontnombreuses et de niveau inégal.</itsimp>
+<itsimp>Niveau bac + 5</itsimp>
+<itsimp>Master en informatique</itsimp>
+<itsimp>Diplôme d'ingénieur</itsimp>
+<itsimp>Niveau bac + 6</itsimp>
+<itsimp>Mastères spécialisés</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="32052" csRelFld="32052">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">32052</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100358</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Recrutement à la hausse</inter>
+<p>Secteur privé ou public : le chef de projet est globalement recherché. On le trouve dans les entreprises utilisatrices : banques, grande distribution, industrie automobile, télécommunications, grandes entreprises, administrations... Surtout, il est incontournable dans les SSII (société de services en ingénierie informatique), de nombreuses entreprises choisissant d'externaliser leur informatique. </p>
+<inter>De l'expérience, sinon rien</inter>
+<p>Peu accessible aux débutants, ce poste demande 3 à 5 ans d'expérience de terrain (notamment dans le développement), voire plus selon la complexité et l'ampleur du projet. Certains recrutements se font par promotion interne.</p>
+<inter>Un tremplin pour rebondir</inter>
+<p>Côté technique, le chef de projet peut évoluer vers l'expertise ou le conseil. Mais la plupart se tournent vers le management : responsable ou directeur de projets (superviseur de plusieurs chefs de projet), directeur informatique, directeur des systèmes d'information. Ceux qui sont intéressés par la négociation se dirigent vers la fonction commerciale : ingénieur d'affaires...</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>3000</sal> euros brut par mois en moyenne.</p>
+<postit>
+<p>Source : 01 Informatique</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

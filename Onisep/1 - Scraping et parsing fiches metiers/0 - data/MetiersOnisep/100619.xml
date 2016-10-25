@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">chargé/e d'études naturalistes</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">préserver l'environnement/travailler en contact avec la nature/travailler dehors</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur environnement/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">écologie/botanique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE nettoyage assainissement environnement sécurité</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100619</lien_onisep>
+<ROME Level="1B" csRelFld="100619">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100619">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1527" csRelFld="1527">
+<CSLABELFLD label=""> chargé / chargée d'études naturalistes en chiroptérologie</CSLABELFLD>
+<MET_ID label="Identifiant">100619</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">25/11/2014</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1527</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chargé/e d'études naturalistes en chiroptérologie</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1527">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56077" csRelFld="56077">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56077</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100619</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter> Gérer un site naturel... </inter>
+<p> Spécialiste de la faune et de la flore, le chargé d'études naturalistes propose des mesures de gestion et de valorisation des espèces végétales et animales. Il analyse le milieu naturel sur lequel il travaille (une réserve naturelle nationale, régionale, une forêt domaniale...) pour inventorier les différentes espèces et évaluer le patrimoine naturel local. Il donne ensuite des directives pour favoriser la préservation des espèces peu nombreuses, définit les mesures à prendre si une espèce est en surnombre, met en oeuvre des plans d'action afin de maintenir une diversité biologique satisfaisante. Concrètement, cela peut se traduire par la protection de l'habitat d'un papillon en danger, l'interdiction d'une zone végétale au public pour empêcher son piétinement, etc. </p>
+<inter> ... et le faire connaître au grand public </inter>
+<p> Outre la gestion des espèces, le chargé d'études naturalistes se charge aussi de les faire découvrir au grand public, en menant des actions de sensibilisation et d'animation. Il peut, par exemple, organiser des visites guidées, tracer des sentiers de découverte, réaliser un affichage pour informer les promeneurs sur la diversité animale ou végétale, élaborer une partie du contenu présenté dans le centre d'information aux visiteurs, etc. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56081" csRelFld="56081">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56081</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100619</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p> L'accès au métier de chargé d'études naturalistes se fait principalement avec un bac + 5 dans le domaine de la biodiversité.</p>
+<liste>
+<tete> Niveau bac + 5 </tete>
+<itsimp>Master en écologie, sciences de la vie, sciences de la Terre et de l'environnement...</itsimp>
+<itsimp>Diplôme d'ingénieur agronome avec une spécialisation en environnement... </itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56079" csRelFld="56079">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56079</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100619</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter> Différents statuts </inter>
+<p> Les emplois proposés dans les parcs et espaces naturels protégés relèvent, pour la plupart, du statut de la fonction publique. Le recrutement se fait donc sur concours. Lorsque le chargé d'études naturalistes travaille pour une collectivité (commune, syndicat intercommunal, conseil général ou régional...), il est fonctionnaire territorial de catégorie A ou B de la filière technique, en fonction de ses diplômes (de bac + 2 à bac + 5). Certains postes sous contrat privé existent néanmoins. </p>
+<inter> Des évolutions possibles </inter>
+<p> Le chargé d'études naturalistes peut être chargé de mission avant d'être promu chef de projet ou directeur d'études. Avec l'expérience, il peut occuper un poste de directeur de l'environnement ou de responsable environnement. Il peut aussi devenir consultant indépendant ou diriger un bureau d'études spécialisé. </p>
+<remun>
+<inter> Salaire du débutant </inter>
+<p>
+<sal>2000</sal> euros brut par mois (pour un ingénieur de la fonction publique territoriale).</p>
+<p> À partir du Smic dans le secteur associatif.</p>
+<postit>
+<p> Sources : grille indiciaire territoriale ; Apec (Association pour l'emploi des cadres), 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

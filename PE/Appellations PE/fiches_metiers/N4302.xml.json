@@ -1,0 +1,334 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente de contr\u00f4le des transports de voyageurs",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de contr\u00f4le des transports de voyageurs",
+            "code_ogr": "10417"
+        },
+        {
+            "libelle_court": "Agent / Agente de contr\u00f4le des transports en commun",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de contr\u00f4le des transports en commun",
+            "code_ogr": "10418"
+        },
+        {
+            "libelle_court": "Agent / Agente de contr\u00f4le voyageurs m\u00e9tro",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de contr\u00f4le voyageurs m\u00e9tro",
+            "code_ogr": "10424"
+        },
+        {
+            "libelle_court": "Agent commercial / Agente commerciale et de contr\u00f4le train",
+            "priorisation": "1",
+            "libelle": "Agent commercial / Agente commerciale et de contr\u00f4le train",
+            "code_ogr": "10363"
+        },
+        {
+            "libelle_court": "Chef de bord de train",
+            "priorisation": "1",
+            "libelle": "Chef de bord de train",
+            "code_ogr": "12070"
+        },
+        {
+            "libelle_court": "Contr\u00f4leur / Contr\u00f4leuse des trains de voyageurs",
+            "priorisation": "1",
+            "libelle": "Contr\u00f4leur / Contr\u00f4leuse des trains de voyageurs",
+            "code_ogr": "13623"
+        },
+        {
+            "libelle_court": "Contr\u00f4leur / Contr\u00f4leuse des transports en commun",
+            "priorisation": "1",
+            "libelle": "Contr\u00f4leur / Contr\u00f4leuse des transports en commun",
+            "code_ogr": "13624"
+        },
+        {
+            "libelle_court": "Contr\u00f4leur(se) des transports en commun r\u00e9seau routier",
+            "priorisation": "1",
+            "libelle": "Contr\u00f4leur / Contr\u00f4leuse des transports en commun r\u00e9seau routier",
+            "code_ogr": "13625"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice de contr\u00f4le de titres de transport",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de contr\u00f4le de titres de transport",
+            "code_ogr": "17077"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice de contr\u00f4le voyageurs train",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de contr\u00f4le voyageurs train",
+            "code_ogr": "17078"
+        },
+        {
+            "libelle_court": "Responsable contr\u00f4le transport en commun",
+            "priorisation": "1",
+            "libelle": "Responsable contr\u00f4le transport en commun",
+            "code_ogr": "18605"
+        },
+        {
+            "libelle_court": "V\u00e9rificateur / V\u00e9rificatrice de titres de transport",
+            "priorisation": "1",
+            "libelle": "V\u00e9rificateur / V\u00e9rificatrice de titres de transport",
+            "code_ogr": "20654"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Contr\u00f4ler les titres de transport des voyageurs et r\u00e9gulariser les situations d'infraction",
+            "code_ogr": "1149",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Informer les voyageurs et apporter assistance aux personnes \u00e0 mobilit\u00e9 r\u00e9duite",
+            "code_ogr": "2183",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9guler la vie \u00e0 bord et autour du v\u00e9hicule, et intervenir en cas d'incivilit\u00e9 ou de conflit",
+            "code_ogr": "2999",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mettre en place les mesures d'urgence en cas d'incident et alerter les services concern\u00e9s",
+            "code_ogr": "2343",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier la pr\u00e9sence des mat\u00e9riels et \u00e9quipements de bord (s\u00e9curit\u00e9, alerte), contr\u00f4ler leur \u00e9tat et signaler toute anomalie ou d\u00e9gradation",
+            "code_ogr": "3424",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports de suivi d'activit\u00e9 et transmettre les informations au service concern\u00e9",
+            "code_ogr": "3600",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "K1707",
+            "libelle_rome_cible": "Surveillance municipale"
+        },
+        {
+            "code_rome_cible": "K2503",
+            "libelle_rome_cible": "S\u00e9curit\u00e9 et surveillance priv\u00e9es"
+        },
+        {
+            "code_rome_cible": "N4401",
+            "libelle_rome_cible": "Circulation du r\u00e9seau ferr\u00e9"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac en commerce, vente ou services.\nIl est \u00e9galement accessible sur exp\u00e9rience professionnelle dans le secteur de la vente ou de la relation clients sans dipl\u00f4me particulier.\nUn casier judiciaire exempt de toute mention contradictoire est exig\u00e9 pour l'obtention de l'assermentation au contr\u00f4le des titres de transport.\nLa pratique d'une langue \u00e9trang\u00e8re, en particulier l'anglais, peut \u00eatre demand\u00e9e.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Contr\u00f4ler les titres de transport sur :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ligne longue distance (internationale)",
+            "code_ogr": "4263",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ligne moyenne distance (r\u00e9gionale, nationale)",
+            "code_ogr": "4264",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ligne urbaine/interurbaine",
+            "code_ogr": "4265",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler les conditions de s\u00e9curit\u00e9 et de confort (climatisation, chauffage, ...) \u00e0 bord d'un train",
+            "code_ogr": "4253",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et mettre \u00e0 jour les \u00e9l\u00e9ments d'activit\u00e9 d'une exploitation de transport en commun (enregistrement des proc\u00e8s-verbaux, billetterie, ...)",
+            "code_ogr": "9714",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Distribuer et collecter des questionnaires d'enqu\u00eates aupr\u00e8s de la client\u00e8le, recueillir et transmettre les avis, remarques ou r\u00e9clamations",
+            "code_ogr": "4810",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Organiser des actions de d\u00e9veloppement des comp\u00e9tences de l'\u00e9quipe (formation, tutorat, compagnonnage, ...)",
+            "code_ogr": "7663",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises de transport en commun de personnes, routier ou ferroviaire, en contact avec les usagers et en relation avec diff\u00e9rents intervenants (conducteurs, agents commerciaux, personnel de s\u00e9curit\u00e9, Poste de Commande Centralis\u00e9 -PCC-, ...). Elle peut impliquer des d\u00e9placements de plusieurs jours (ligne longue distance, repos hors domicile, ...).\nElle peut s'exercer en horaires d\u00e9cal\u00e9s, par roulement, les fins de semaine, jours f\u00e9ri\u00e9s ou de nuit.\nL'activit\u00e9 peut s'effectuer dans les gares (entr\u00e9es/sorties de stations de bus, m\u00e9tro, ...) ou \u00e0 bord de v\u00e9hicules (bus, trains, ...).\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils de radiocommunication",
+            "code_ogr": "21472",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de transport ferroviaire",
+            "code_ogr": "23891",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de transport routier",
+            "code_ogr": "23898",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "En sous-sol",
+            "code_ogr": "23382",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de contr\u00f4le de titres de transport",
+            "code_ogr": "22392",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "G\u00e9ographie des transports (r\u00e9seau routier, lignes maritimes, a\u00e9riennes, fluviales, ...)",
+            "code_ogr": "21981",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de contr\u00f4le des mat\u00e9riels et \u00e9quipements",
+            "code_ogr": "22395",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de pr\u00e9vention et de gestion de conflits",
+            "code_ogr": "23058",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9 des biens et des personnes",
+            "code_ogr": "22623",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes de la relation client",
+            "code_ogr": "22323",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de fonctionnement des installations de s\u00e9curit\u00e9 d'un r\u00e9seau ferr\u00e9",
+            "code_ogr": "22408",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nContr\u00f4le les droits d'acc\u00e8s des voyageurs aux v\u00e9hicules de transport en commun.\nMet en place les mesures correctives en cas d'irr\u00e9gularit\u00e9 (amendes, proc\u00e8s-verbaux, ...) selon la r\u00e9glementation, dans un objectif de s\u00e9curit\u00e9 des passagers et de sauvegarde des recettes et biens de l'entreprise.\nPeut effectuer le contr\u00f4le des \u00e9quipements de bord, la vente de titres de transport, la diffusion d'enqu\u00eates de satisfaction de la client\u00e8le, ...\nPeut animer une \u00e9quipe.\n",
+    "intitule": "Contr\u00f4le des transports en commun",
+    "code_ogr": "533",
+    "code_rome": "N4302",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "K2502",
+            "libelle_rome_cible": "Management de s\u00e9curit\u00e9 priv\u00e9e"
+        },
+        {
+            "code_rome_cible": "N4204",
+            "libelle_rome_cible": "Intervention technique d'exploitation des transports routiers de personnes"
+        }
+    ]
+}

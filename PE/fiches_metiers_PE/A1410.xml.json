@@ -1,0 +1,646 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Berger / Berg\u00e8re",
+            "priorisation": "1",
+            "libelle": "Berger / Berg\u00e8re",
+            "code_ogr": "11499"
+        },
+        {
+            "libelle_court": "Berger / Berg\u00e8re de production laiti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Berger / Berg\u00e8re de production laiti\u00e8re",
+            "code_ogr": "11500"
+        },
+        {
+            "libelle_court": "Berger / Berg\u00e8re d'estives",
+            "priorisation": "1",
+            "libelle": "Berger / Berg\u00e8re d'estives",
+            "code_ogr": "11501"
+        },
+        {
+            "libelle_court": "Berger fromager / Berg\u00e8re fromag\u00e8re",
+            "priorisation": "1",
+            "libelle": "Berger fromager / Berg\u00e8re fromag\u00e8re",
+            "code_ogr": "11502"
+        },
+        {
+            "libelle_court": "Chevrier / Chevri\u00e8re",
+            "priorisation": "1",
+            "libelle": "Chevrier / Chevri\u00e8re",
+            "code_ogr": "12618"
+        },
+        {
+            "libelle_court": "Chevrier fromager / Chevri\u00e8re fromag\u00e8re",
+            "priorisation": "1",
+            "libelle": "Chevrier fromager / Chevri\u00e8re fromag\u00e8re",
+            "code_ogr": "12619"
+        },
+        {
+            "libelle_court": "Eleveur / Eleveuse d'agneaux",
+            "priorisation": "1",
+            "libelle": "Eleveur / Eleveuse d'agneaux",
+            "code_ogr": "14683"
+        },
+        {
+            "libelle_court": "Eleveur / Eleveuse de brebis laiti\u00e8res",
+            "priorisation": "1",
+            "libelle": "Eleveur / Eleveuse de brebis laiti\u00e8res",
+            "code_ogr": "14690"
+        },
+        {
+            "libelle_court": "Eleveur / Eleveuse de caprins",
+            "priorisation": "1",
+            "libelle": "Eleveur / Eleveuse de caprins",
+            "code_ogr": "14691"
+        },
+        {
+            "libelle_court": "Eleveur / Eleveuse de ch\u00e8vres",
+            "priorisation": "1",
+            "libelle": "Eleveur / Eleveuse de ch\u00e8vres",
+            "code_ogr": "14696"
+        },
+        {
+            "libelle_court": "Eleveur / Eleveuse de ch\u00e8vres angoras",
+            "priorisation": "1",
+            "libelle": "Eleveur / Eleveuse de ch\u00e8vres angoras",
+            "code_ogr": "14697"
+        },
+        {
+            "libelle_court": "Eleveur / Eleveuse de moutons",
+            "priorisation": "1",
+            "libelle": "Eleveur / Eleveuse de moutons",
+            "code_ogr": "14706"
+        },
+        {
+            "libelle_court": "Eleveur / Eleveuse d'ovins",
+            "priorisation": "1",
+            "libelle": "Eleveur / Eleveuse d'ovins",
+            "code_ogr": "14723"
+        },
+        {
+            "libelle_court": "Eleveur / Eleveuse en production ovine et caprine",
+            "priorisation": "1",
+            "libelle": "Eleveur / Eleveuse en production ovine et caprine",
+            "code_ogr": "14725"
+        },
+        {
+            "libelle_court": "Eleveur(se) laitier(\u00e8re) en production ovine et caprine",
+            "priorisation": "1",
+            "libelle": "Eleveur laitier / Eleveuse laiti\u00e8re en production ovine et caprine",
+            "code_ogr": "14728"
+        },
+        {
+            "libelle_court": "Eleveur(se)-s\u00e9lectionneur(se) d'ovins et de caprins",
+            "priorisation": "1",
+            "libelle": "Eleveur-s\u00e9lectionneur / Eleveuse-s\u00e9lectionneuse d'ovins et de caprins",
+            "code_ogr": "14729"
+        },
+        {
+            "libelle_court": "Moutonnier / Moutonni\u00e8re",
+            "priorisation": "1",
+            "libelle": "Moutonnier / Moutonni\u00e8re",
+            "code_ogr": "16933"
+        },
+        {
+            "libelle_court": "Ouvrier / Ouvri\u00e8re agricole en production caprine",
+            "priorisation": "1",
+            "libelle": "Ouvrier / Ouvri\u00e8re agricole en production caprine",
+            "code_ogr": "17391"
+        },
+        {
+            "libelle_court": "Ouvrier(\u00e8re) agricole en prod laiti\u00e8re d'ovins ou de caprins",
+            "priorisation": "1",
+            "libelle": "Ouvrier / Ouvri\u00e8re agricole en production laiti\u00e8re d'ovins ou de caprins",
+            "code_ogr": "17396"
+        },
+        {
+            "libelle_court": "Ouvrier / Ouvri\u00e8re agricole en production ovine",
+            "priorisation": "1",
+            "libelle": "Ouvrier / Ouvri\u00e8re agricole en production ovine",
+            "code_ogr": "17397"
+        },
+        {
+            "libelle_court": "Ouvrier / Ouvri\u00e8re de production ovine",
+            "priorisation": "1",
+            "libelle": "Ouvrier / Ouvri\u00e8re de production ovine",
+            "code_ogr": "17457"
+        },
+        {
+            "libelle_court": "Ouvrier / Ouvri\u00e8re d'\u00e9levage en production caprine",
+            "priorisation": "1",
+            "libelle": "Ouvrier / Ouvri\u00e8re d'\u00e9levage en production caprine",
+            "code_ogr": "17465"
+        },
+        {
+            "libelle_court": "Ouvrier / Ouvri\u00e8re d'\u00e9levage en production ovine",
+            "priorisation": "1",
+            "libelle": "Ouvrier / Ouvri\u00e8re d'\u00e9levage en production ovine",
+            "code_ogr": "17469"
+        },
+        {
+            "libelle_court": "Ouvrier(\u00e8re) \u00e9levage laitier en production ovine ou caprine",
+            "priorisation": "1",
+            "libelle": "Ouvrier / Ouvri\u00e8re d'\u00e9levage laitier en production ovine ou caprine",
+            "code_ogr": "17472"
+        },
+        {
+            "libelle_court": "Producteur / Productrice de lait d'ovin et de caprin",
+            "priorisation": "1",
+            "libelle": "Producteur / Productrice de lait d'ovin et de caprin",
+            "code_ogr": "18086"
+        },
+        {
+            "libelle_court": "Responsable d'\u00e9levage en production caprine",
+            "priorisation": "1",
+            "libelle": "Responsable d'\u00e9levage en production caprine",
+            "code_ogr": "18902"
+        },
+        {
+            "libelle_court": "Responsable d'\u00e9levage en production ovine",
+            "priorisation": "1",
+            "libelle": "Responsable d'\u00e9levage en production ovine",
+            "code_ogr": "18903"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "V\u00e9rifier les origines g\u00e9ographiques ou g\u00e9n\u00e9tiques des animaux et les identifier par tatouage, ...",
+            "code_ogr": "3473",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller l'\u00e9tat sanitaire du troupeau et appliquer les mesures correctives (traitement anti-parasitaire, isolement, ...)",
+            "code_ogr": "3352",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Dispenser les soins pr\u00e9ventifs ou curatifs aux animaux",
+            "code_ogr": "1482",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Distribuer les quantit\u00e9s alimentaires appropri\u00e9es (seau, biberon, abreuvoirs, machines d'allaitement, ...)",
+            "code_ogr": "1487",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9partir les animaux dans des locaux d'\u00e9levage ou en plein air",
+            "code_ogr": "3079",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer et d\u00e9sinfecter les locaux d'\u00e9levage, les installations et mat\u00e9riels",
+            "code_ogr": "2400",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la maintenance pr\u00e9ventive/curative de premier niveau des \u00e9quipements",
+            "code_ogr": "3534",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports de suivi d'exploitation (pes\u00e9e des animaux, r\u00e9sultats d'analyses, ...) et les transmettre au v\u00e9t\u00e9rinaire, chef d'\u00e9levage, chef d'exploitation, ...",
+            "code_ogr": "3061",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "8",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "A1407",
+            "libelle_rome_cible": "\u00c9levage bovin ou \u00e9quin"
+        },
+        {
+            "code_rome_cible": "A1409",
+            "libelle_rome_cible": "\u00c9levage de lapins et volailles"
+        },
+        {
+            "code_rome_cible": "A1411",
+            "libelle_rome_cible": "\u00c9levage porcin"
+        },
+        {
+            "code_rome_cible": "A1501",
+            "libelle_rome_cible": "Aide aux soins animaux"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un CAP/BEP Agricole en productions animales et agricoles, agriculture et \u00e9levage.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle en \u00e9levage sans dipl\u00f4me particulier.\nUn Bac Professionnel ou un BTS Agricole en gestion et conduite d'exploitation agricole ou en productions animales peut \u00eatre demand\u00e9 pour les fonctions d'encadrement.\nDes formations sp\u00e9cifiques ou des sp\u00e9cialisations (titre homologu\u00e9 de berger, certificat de Conduite d'\u00e9levage caprin et commercialisation de produits, ...) peuvent \u00eatre demand\u00e9es pour les postes de berger, d'\u00e9leveurs caprins, ...\nUn Brevet Professionnel de Responsable d'Exploitation Agricole -BPREA- est requis pour l'obtention de financements sp\u00e9cifiques (pr\u00eats bonifi\u00e9s) destin\u00e9s \u00e0 faciliter l'installation des jeunes agriculteurs.\nLes recrutements peuvent \u00eatre ouverts sur contrats de travail saisonniers.\nDes permis et habilitations sp\u00e9cifiques sont requis pour le transport des animaux.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser des d\u00e9placements n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Certificat de transport d'animaux vivants",
+            "code_ogr": "8351",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier les besoins en renouvellement ou diversification des esp\u00e8ces d'un \u00e9levage selon les objectifs de production",
+            "code_ogr": "6135",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir le planning de reproduction (d\u00e9clenchement artificiel des chaleurs, ...) selon les objectifs d'\u00e9levage (quantit\u00e9, ...)",
+            "code_ogr": "5827",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9terminer les rations alimentaires selon les besoins physiques et physiologiques des animaux",
+            "code_ogr": "3528",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Assister les animaux lors des mises bas et prodiguer les premiers soins aux nouveau-n\u00e9s",
+            "code_ogr": "3505",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conduire ou acheminer un troupeau d'ovins ou de caprins vers les alpages, les estives",
+            "code_ogr": "4054",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer et r\u00e9aliser la traite (lavage des pis, branchement aux trayons, stockage du lait, ...)",
+            "code_ogr": "7966",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser la tonte d'ovins et transf\u00e9rer la laine brute vers la zone de stockage pour transformation ou conditionnement",
+            "code_ogr": "9183",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des op\u00e9rations agricoles (semis, r\u00e9colte, ...) et de stockage de l'alimentation animale (fourrage, ma\u00efs, ...)",
+            "code_ogr": "4980",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Transformer et commercialiser des produits issus de l'\u00e9levage",
+            "code_ogr": "10015",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de structures d'\u00e9levage (bergerie, ch\u00e8vrerie, ...) en relation avec le chef d'exploitation et diff\u00e9rents intervenants (techniciens d'\u00e9levage, v\u00e9t\u00e9rinaires, fournisseurs, ...). Elle peut impliquer des d\u00e9placements (transport des animaux, changement de parcelle, ...).\nElle varie selon le type d'\u00e9levage (hors-sol, de plein air, transhumant, ...) et ses caract\u00e9ristiques (extensif, labellis\u00e9, ...).\nElle peut s'exercer les fins de semaine, jours f\u00e9ri\u00e9s, de nuit et \u00eatre soumise \u00e0 des astreintes et au rythme de vie des animaux.\nL'activit\u00e9 s'effectue en b\u00e2timent d'\u00e9levage, \u00e0 l'ext\u00e9rieur parfois en altitude (p\u00e2turage d'estive).\nLe port d'une tenue professionnelle (combinaison de travail, bottes, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Montage de case de mise bas",
+            "code_ogr": "21003",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de nettoyage",
+            "code_ogr": "21330",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soudage",
+            "code_ogr": "21100",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Potentiel g\u00e9n\u00e9alogique",
+            "code_ogr": "21034",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciel de calcul de ration alimentaire",
+            "code_ogr": "21224",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de traite",
+            "code_ogr": "21338",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dure de traite",
+            "code_ogr": "24833",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de tonte d'animaux",
+            "code_ogr": "21337",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'engins agricoles",
+            "code_ogr": "21413",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Centre de formation pour adultes",
+            "code_ogr": "23771",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Centre d'ins\u00e9mination",
+            "code_ogr": "23785",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Elevage d'estive",
+            "code_ogr": "23864",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ferme d'\u00e9levage",
+            "code_ogr": "23938",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ferme exp\u00e9rimentale",
+            "code_ogr": "23939",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Biologie animale",
+            "code_ogr": "21529",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pathologies animales",
+            "code_ogr": "22271",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Zootechnie",
+            "code_ogr": "23373",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de nettoyage et de d\u00e9sinfection",
+            "code_ogr": "22418",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation sanitaire",
+            "code_ogr": "22579",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9canique g\u00e9n\u00e9rale",
+            "code_ogr": "21882",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9",
+            "code_ogr": "22621",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes environnementales",
+            "code_ogr": "22230",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de contention animale",
+            "code_ogr": "22852",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'approche et de manipulation des animaux",
+            "code_ogr": "22825",
+            "position_item": "11",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'\u00e9levage",
+            "code_ogr": "23190",
+            "position_item": "12",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modalit\u00e9s de transport d'animaux",
+            "code_ogr": "22182",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de s\u00e9lection de reproducteurs",
+            "code_ogr": "23116",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Conditions de stockage de produits alimentaires",
+            "code_ogr": "21742",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques culturales",
+            "code_ogr": "22757",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'arrosage",
+            "code_ogr": "22786",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de transformation du lait",
+            "code_ogr": "23159",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Circuits de distribution commerciale",
+            "code_ogr": "21713",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise les op\u00e9rations d'\u00e9levage d'ovins ou de caprins (soins d'entretien, reproduction, suivi sanitaire, ...) de plein air, hors sol, selon les r\u00e8gles d'hygi\u00e8ne, de s\u00e9curit\u00e9, les normes environnementales et les imp\u00e9ratifs de production.\nPeut transformer et commercialiser des produits issus de l'\u00e9levage (fabrication de fromages, ...).\nPeut cultiver les plantes destin\u00e9es \u00e0 l'alimentation des animaux (fourrages, c\u00e9r\u00e9ales, ...).\nPeut coordonner une \u00e9quipe ou diriger un \u00e9levage.\n",
+    "intitule": "\u00c9levage ovin ou caprin",
+    "code_ogr": "24",
+    "code_rome": "A1410",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "A1101",
+            "libelle_rome_cible": "Conduite d'engins agricoles et forestiers"
+        },
+        {
+            "code_rome_cible": "A1204",
+            "libelle_rome_cible": "Protection du patrimoine naturel"
+        },
+        {
+            "code_rome_cible": "A1301",
+            "libelle_rome_cible": "Conseil et assistance technique en agriculture"
+        },
+        {
+            "code_rome_cible": "A1302",
+            "libelle_rome_cible": "Contr\u00f4le et diagnostic technique en agriculture"
+        },
+        {
+            "code_rome_cible": "D1402",
+            "libelle_rome_cible": "Relation commerciale grands comptes et entreprises"
+        }
+    ]
+}

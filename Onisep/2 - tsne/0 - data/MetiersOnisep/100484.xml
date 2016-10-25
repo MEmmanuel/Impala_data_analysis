@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">géomaticien/ne</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">programmer, créer du contenu numérique</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur environnement/secteur fonction publique/secteur sociétés d'ingénierie et d'études techniques/secteur recherche/secteur énergie</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">topographie/cartographie/géographie/aménagement du territoire</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit/géomaticien</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100484</lien_onisep>
+<ROME Level="1B" csRelFld="100484">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="606" csRelFld="606">
+<CSLABELFLD label="">M1808</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Systèmes d'information et de télécommunication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1808</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Information géographique</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100484">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="37724" csRelFld="37724">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37724</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100484</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Établir des cartes intelligentes</inter>
+<p>Planifier les meilleurs itinéraires pour la collecte des déchets, identifier les risques d'inondation dans des zones habitées, implanter un nouveau centre commercial ou un parking : autant de problèmes qu'il est facile de traiter aujourd'hui grâce aux SIG (systèmes d'information géographique) et au géomaticien. Celui-ci participe à la constitution et à l'exploitation de bases de données associant des cartes, des images aériennes et satellites, du texte et des statistiques. À partir de ces informations, il produit des cartes thématiques et des analyses spatiales, véritables outils d'aide à la décision.</p>
+<inter>Anticiper et agir</inter>
+<p>Les SIG permettent de simuler et d'anticiper des évolutions urbaines, des risques naturels, des programmes d'exploitation minière, etc. Le géomaticien les utilise pour agir dans de nombreux domaines : aménagement et urbanisme, géologie, environnement, agronomie, météorologie, océanologie, transport, télécommunications, défense, sécurité civile, santé, humanitaire, développement économique... Sans oublier le géomarketing, qui répond aux questions de stratégie commerciale des entreprises : études d'implantation commerciale, évaluation du potentiel d'un marché, analyse des ventes...</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="37728" csRelFld="37728">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37728</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100484</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Des formations en géomatique sont proposées à l'université et dans les écoles d'ingénieurs. Il est possible de se former à bac + 2 au métier de géomètre-topographe ou de dessinateur-cartographe.</p>
+<p>À l'université, les études commencent dès la licence mention géographie et aménagement, sciences de la vie et de la Terre ou informatique. Les étudiants peuvent se spécialiser au sein de parcours de licence, puis poursuivre vers des formations professionnalisées de type licence professionnelle ou master. L'accès à ces formations professionnelles est sélectif. Les écoles d'ingénieurs proposent aussi des formations. </p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS Métiers du géomètre-topographe et de la modélisation numérique </itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence géographie et aménagement ; sciences de la vie et de la Terre ; informatique...</itsimp>
+<itsimp>Licence pro cartographie, topographie et systèmes d'information géographique ; métiers de l'aménagement du territoire et de l'urbanisme</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master géomatique ; géographie; géographie, aménagement, environnement et développement ; </itsimp>
+<itsimp>Diplôme d'ingénieur de l'ENSG (École nationale des sciences géographiques)</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="37726" csRelFld="37726">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37726</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100484</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un métier d'avenir</inter>
+<p>L'accès à l'emploi est concurrentiel. Cependant, la profession a du potentiel, en particulier dans les collectivités territoriales. Des géomaticiens dotés d'une solide compétence en aménagement, urbanisme, environnement, risques naturels... sont recherchés. De plus, de nouveaux métiers émergent, de plus en plus proches de l'informatique. Certains géomaticiens se spécialisent alors dans la cartographie en ligne (webmapping, websig), secteur très porteur.</p>
+<p>Les stages sont un excellent moyen pour se spécialiser et se faire recruter.</p>
+<inter>Via des concours</inter>
+<p>La majorité des géomaticiens exerce dans le secteur public, notamment dans les collectivités territoriales qui recrutent de nombreux débutants, mais il y a aussi des établissements publics comme Météo-France, l'ONF (Office national des forêts) ou le CNRS (Centre national de la recherche scientifique). L'IGN (Institut national de l'information géographique et forestière) recrute ainsi sur concours des élèves dessinateurs-cartographes. Les grands groupes comme Cap Gemini, la RATP (Régie autonome des transports parisiens), la SNCF (Société nationale des chemins de fer français), Total, Thales, Veolia ou encore General Electric font également de la place aux jeunes diplômés.</p>
+<inter>Spécialisation ou encadrement</inter>
+<p>Le géomaticien peut se spécialiser dans un secteur donné ou bien passer de la collecte de données et leur intégration sur bases de données (niveau technicien supérieur) à la gestion de projet ou à la conception.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1800</sal> à 2500 euros brut par mois en fonction du niveau d'études et du secteur d'emploi. </p>
+<postit>
+<p>Source : Cadremploi, enquête Afigéo, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

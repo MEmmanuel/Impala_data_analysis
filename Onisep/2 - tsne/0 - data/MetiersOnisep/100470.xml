@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">convoyeur/euse de fonds</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">avoir des sensations fortes/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conduite de véhicules</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur transports routiers et urbains/secteur sécurité</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">surveillance privée/sécurité des biens et des personnes</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE nettoyage assainissement environnement sécurité/convoyeur de fonds</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100470</lien_onisep>
+<ROME Level="1B" csRelFld="100470">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="524" csRelFld="524">
+<CSLABELFLD label="">K2503</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Sécurité privée</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K2503</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Sécurité et surveillance privées</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100470">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="37588" csRelFld="37588">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37588</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100470</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+   <inter>Sécuriser le transport</inter>
+   <p>Qu'il soit conducteur, garde ou messager (également appelé chef de file ou chef de bord), le convoyeur de fonds conduit le véhicule blindé, surveille les lieux ou effectue le chargement et le déchargement des sacs contenant les fonds dont il a la charge : espèces en pièces ou en billets, chéquiers, cartes bancaires... </p>
+   <inter>Livrer ou collecter de l'argent</inter>
+   <p>Le convoyeur de fonds effectue la livraison des sommes encaissées nécessaires à l'activité économique des agences bancaires et des commerces. Il collecte également les recettes et les versements effectués par les clients de ces établissements. Il peut aussi être chargé d'alimenter les distributeurs automatiques de billets. Le tout selon un timing et un parcours précis établis à l'avance.</p>
+   <inter>Suivre des règles strictes</inter>
+   <p>Les valeurs confiées sont transportées selon les règles d'équipement de sécurité et d'aménagement des sites de livraison ou de prise en charge. Le convoyeur de fonds doit également connaître l'essentiel du contenu des dispositions législatives et réglementaires concernant le port ­d'armes, leur utilisation ainsi que les articles du Code pénal relatifs à la légitime défense, au flagrant délit et à l'assistance aux personnes en danger.</p>
+  </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="37592" csRelFld="37592">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37592</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100470</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>On peut débuter dans le métier sans qualification préalable, à condition d'être âgé d'au moins 21 ans, avoir un casier judiciare vierge et être en possession de la carte professionnelle obligatoire depuis 2009 (valable 5 ans). Néanmoins, un diplôme adapté à la fonction facilite l'embauche. L'employeur propose ensuite une formation (de 70 heures) axée sur les opérations de transport de fonds et un entraînement au tir. Le permis de conduire poids lourds peut être exigé.</accr_p>
+</p>
+<p>À noter : des certificats de qualification professionnelle (CQP) dans les domaines sécurité, sûreté et transport existent. Par exemple métiers du convoyage de fonds et activités assimilées ; métiers d'opérateur de traitement des valeurs ou métiers de la gestion et maintenance des installations bancaires automatisées...</p>
+<inter>Niveau CAP</inter>
+<liste>
+<itsimp>
+<em>CAP</em> agent de sécurité ;</itsimp>
+<itsimp>
+<em>CAP</em>  agent de prévention et de médiation (dernière session d'examen avec cet intitulé en 2016) ;</itsimp>
+</liste>
+<inter>Niveau bac</inter>
+<liste>
+<itsimp>
+<em>Bac pro</em> sécurité-prévention</itsimp>
+<itsimp>
+<em>Bac pro </em>métiers de la sécurité</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="37590" csRelFld="37590">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37590</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100470</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>La logistique fiduciaire recrute</inter>
+<p>Des créations d'emploi dans les métiers du transport de fonds et de l'alimentation des distributeurs automatiques sont prévues dans les prochaines années. Il existe un certain nombre de grosses entreprises spécialisées qui recrutent de manière constante (Loomis, Brink's, BCI, Pagnot, Prosegur, Temis...) mais aussi une dizaine de sociétés de moins de 100 salariés. Par exemple, la Brink's prévoit l'embauche annuelle de 500 à 700 personnes. </p>
+<inter>Formation en interne</inter>
+<p>Les entreprises forment en général leurs recrues : consignes de sécurité, tir, placement du camion, descente et montée dans le camion, etc.</p>
+<inter>Possibilités de promotion</inter>
+<p>Après quelques années d'expérience, le convoyeur de fonds peut devenir chef d'équipe, avec la responsabilité de l'organisation du travail. Avec une formation complémentaire, il peut aussi, par exemple, devenir agent technique de sécurité dans les transports. Le permis poids lourds permet en outre de postuler au poste de convoyeur-conducteur.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir du <sal>Smic</sal>.</p>
+<postit>
+<p>Source : non indiquée.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

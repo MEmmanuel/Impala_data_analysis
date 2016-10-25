@@ -1,0 +1,860 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent(e) de r\u00e9novation et de maintenance d'\u00e9quipement ind",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de r\u00e9novation et de maintenance d'\u00e9quipement industriel",
+            "code_ogr": "10584"
+        },
+        {
+            "libelle_court": "Agent(e) r\u00e9novation et maintenance m\u00e9canique de machines ind",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de r\u00e9novation et maintenance m\u00e9canique de machines industrielles",
+            "code_ogr": "10586"
+        },
+        {
+            "libelle_court": "Chef m\u00e9canicien / m\u00e9canicienne de maintenance industrielle",
+            "priorisation": "1",
+            "libelle": "Chef m\u00e9canicien / m\u00e9canicienne de maintenance industrielle",
+            "code_ogr": "12578"
+        },
+        {
+            "libelle_court": "D\u00e9panneur(se) m\u00e9canicien(ne) en \u00e9quipements industriels",
+            "priorisation": "1",
+            "libelle": "D\u00e9panneur m\u00e9canicien / D\u00e9panneuse m\u00e9canicienne en \u00e9quipements industriels",
+            "code_ogr": "13979"
+        },
+        {
+            "libelle_court": "M\u00e9canicien / M\u00e9canicienne de maintenance armement",
+            "priorisation": "1",
+            "libelle": "M\u00e9canicien / M\u00e9canicienne de maintenance armement",
+            "code_ogr": "16469"
+        },
+        {
+            "libelle_court": "M\u00e9canicien / M\u00e9canicienne de maintenance en robinetterie",
+            "priorisation": "1",
+            "libelle": "M\u00e9canicien / M\u00e9canicienne de maintenance en robinetterie",
+            "code_ogr": "16476"
+        },
+        {
+            "libelle_court": "M\u00e9canicien / M\u00e9canicienne de maintenance industrielle",
+            "priorisation": "1",
+            "libelle": "M\u00e9canicien / M\u00e9canicienne de maintenance industrielle",
+            "code_ogr": "16477"
+        },
+        {
+            "libelle_court": "M\u00e9canicien / M\u00e9canicienne d'entretien",
+            "priorisation": "1",
+            "libelle": "M\u00e9canicien / M\u00e9canicienne d'entretien",
+            "code_ogr": "16488"
+        },
+        {
+            "libelle_court": "M\u00e9canicien / M\u00e9canicienne d'entretien en industrie",
+            "priorisation": "1",
+            "libelle": "M\u00e9canicien / M\u00e9canicienne d'entretien en industrie",
+            "code_ogr": "16493"
+        },
+        {
+            "libelle_court": "M\u00e9canicien / M\u00e9canicienne d'entretien industriel",
+            "priorisation": "1",
+            "libelle": "M\u00e9canicien / M\u00e9canicienne d'entretien industriel",
+            "code_ogr": "16495"
+        },
+        {
+            "libelle_court": "M\u00e9canicien / M\u00e9canicienne d'entretien sur machines",
+            "priorisation": "1",
+            "libelle": "M\u00e9canicien / M\u00e9canicienne d'entretien sur machines",
+            "code_ogr": "16496"
+        },
+        {
+            "libelle_court": "M\u00e9canicien / M\u00e9canicienne sur machines industrielles",
+            "priorisation": "1",
+            "libelle": "M\u00e9canicien / M\u00e9canicienne sur machines industrielles",
+            "code_ogr": "16535"
+        },
+        {
+            "libelle_court": "M\u00e9canicien / M\u00e9canicienne sur m\u00e9tiers leavers",
+            "priorisation": "1",
+            "libelle": "M\u00e9canicien / M\u00e9canicienne sur m\u00e9tiers leavers",
+            "code_ogr": "16536"
+        },
+        {
+            "libelle_court": "M\u00e9canicien industriel/M\u00e9canicienne industrielle d'entretien",
+            "priorisation": "1",
+            "libelle": "M\u00e9canicien industriel / M\u00e9canicienne industrielle d'entretien",
+            "code_ogr": "16516"
+        },
+        {
+            "libelle_court": "Microm\u00e9canicien(ne) de maintenance industrielle",
+            "priorisation": "1",
+            "libelle": "Microm\u00e9canicien / Microm\u00e9canicienne de maintenance industrielle",
+            "code_ogr": "16676"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne d'entretien de machines tournantes",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne d'entretien de machines tournantes",
+            "code_ogr": "19935"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne d'entretien industriel",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne d'entretien industriel",
+            "code_ogr": "19939"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier les interventions pr\u00e9ventives ou curatives selon les situations (mise en fonction, changement de production, ...) ou l'historique de maintenance",
+            "code_ogr": "2122",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler l'\u00e9tat de fonctionnement des mat\u00e9riels, les donn\u00e9es d'instrumentation (pression, d\u00e9bit, temp\u00e9rature, ...) et les points critiques d'usure, de graissage, ...",
+            "code_ogr": "1152",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien pr\u00e9ventif (nettoyage, graissage, ajustement, resserrage, ...) des \u00e9quipements m\u00e9caniques",
+            "code_ogr": "1609",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Changer ou r\u00e9parer les pi\u00e8ces, organes m\u00e9caniques d\u00e9fectueux (engrenages, roulements, pignons, ...) et proc\u00e9der aux essais et r\u00e9glages",
+            "code_ogr": "806",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la mise en conformit\u00e9 de fonctionnement (\u00e9tat de r\u00e9f\u00e9rence, s\u00e9curit\u00e9, environnement, ...)",
+            "code_ogr": "1522",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports de suivi d'intervention et transmettre les informations au service concern\u00e9",
+            "code_ogr": "3063",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Apporter un appui technique aux services production, qualit\u00e9, maintenance, ...",
+            "code_ogr": "3503",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "H2901",
+            "libelle_rome_cible": "Ajustement et montage de fabrication"
+        },
+        {
+            "code_rome_cible": "H2912",
+            "libelle_rome_cible": "R\u00e9glage d'\u00e9quipement de production industrielle"
+        },
+        {
+            "code_rome_cible": "I1304",
+            "libelle_rome_cible": "Installation et maintenance d'\u00e9quipements industriels et d'exploitation"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau Bac professionnel \u00e0 Bac+2 (BTS, DUT) en maintenance, m\u00e9canique, productique.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans ces secteurs sans dipl\u00f4me particulier.\nDes habilitations sp\u00e9cifiques (\u00e9lectricit\u00e9, soudure, nucl\u00e9aire, ...) peuvent \u00eatre requises.\nUn ou plusieurs Certificat(s) d'Aptitude \u00e0 la Conduite En S\u00e9curit\u00e9 -CACES- conditionn\u00e9(s) par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement peu(ven)t \u00eatre requis.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Intervenir dans un domaine :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Electricit\u00e9, \u00e9lectronique, \u00e9lectrotechnique",
+            "code_ogr": "6465",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Armement",
+            "code_ogr": "6402",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Automatismes, informatique industrielle",
+            "code_ogr": "6411",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Hydraulique",
+            "code_ogr": "6526",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "M\u00e9canique de pr\u00e9cision",
+            "code_ogr": "6569",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Optique",
+            "code_ogr": "6593",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pneumatique",
+            "code_ogr": "6611",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Robotique",
+            "code_ogr": "6657",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tuyauterie",
+            "code_ogr": "6696",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des interventions n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9vention des risques PR 1",
+            "code_ogr": "8490",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9vention des risques PR 2",
+            "code_ogr": "8491",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Qualit\u00e9, S\u00fbret\u00e9, Prestataires -QSP-",
+            "code_ogr": "8492",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation Nucl\u00e9aire HN 2",
+            "code_ogr": "8485",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation Nucl\u00e9aire HN1",
+            "code_ogr": "8486",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation \u00e9lectrique, travaux hors tension (B0, B0V, B1 B1V, H0, ...)",
+            "code_ogr": "8481",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation \u00e9lectrique, travaux sous tension (B1T, BN, BR, H1T, ...)",
+            "code_ogr": "8482",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 318 (ponts roulants)",
+            "code_ogr": "10100",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 386 (Plates-formes \u00e9l\u00e9vatrices mobiles de personnes)",
+            "code_ogr": "10120",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-1 (Transpalettes \u00e0 conducteur port\u00e9 et pr\u00e9parateurs de commandes au sol)",
+            "code_ogr": "10122",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-3 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 inf\u00e9rieure ou \u00e9gale \u00e0 6000 kg)",
+            "code_ogr": "10124",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser le soudage (\u00e0 l'arc, brasage, ...) de pi\u00e8ces, organes m\u00e9caniques, ...",
+            "code_ogr": "9211",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mettre en forme et en dimensions des pi\u00e8ces, \u00e9l\u00e9ments, ensembles m\u00e9caniques et les ajuster sur un \u00e9quipement",
+            "code_ogr": "7442",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer et faire \u00e9voluer des proc\u00e9dures de maintenance, des modes op\u00e9ratoires, des fiches techniques, des outils de suivi",
+            "code_ogr": "5611",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Former des op\u00e9rateurs, des techniciens aux proc\u00e9dures et techniques d'entretien, de r\u00e9glage, de maintenance et les assister",
+            "code_ogr": "6027",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la conformit\u00e9 de r\u00e9alisations de fournisseurs, sous-traitants, prestataires",
+            "code_ogr": "3513",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de services de maintenance d'entreprises industrielles, de transport, de soci\u00e9t\u00e9s de services, du service apr\u00e8s-vente d'un constructeur ou distributeur d'\u00e9quipements, en relation avec diff\u00e9rents services (production, m\u00e9thodes, s\u00e9curit\u00e9, ...). Elle peut impliquer des d\u00e9placements.\nElle varie selon le secteur d'activit\u00e9 (m\u00e9tallurgie, sid\u00e9rurgie, ferroviaire, ...), le mode d'organisation (topomaintenance, ...), le degr\u00e9 d'automatisation et le type d'\u00e9quipement.\nElle peut s'exercer les fins de semaine, jours f\u00e9ri\u00e9s, de nuit et \u00eatre soumise \u00e0 des astreintes.\nLe port d'\u00e9quipements de protection (chaussures de s\u00e9curit\u00e9, gants, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan, de sch\u00e9ma",
+            "code_ogr": "20956",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'instruments de mesure tridimensionnelle",
+            "code_ogr": "21444",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils de mesure \u00e9lectrique (multim\u00e8tre, ...)",
+            "code_ogr": "21156",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Gestion de Maintenance Assist\u00e9e par Ordinateur -GMAO-",
+            "code_ogr": "21256",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outillages manuels (cl\u00e9, pince, scie, ...)",
+            "code_ogr": "21465",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outillages \u00e9lectroportatifs (scie \u00e9lectrique, ponceuse, ...)",
+            "code_ogr": "21464",
+            "position_item": "6",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils de m\u00e9trologie",
+            "code_ogr": "21160",
+            "position_item": "7",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "A\u00e9roport",
+            "code_ogr": "23682",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Atelier de r\u00e9paration/Service Apr\u00e8s-Vente -SAV-",
+            "code_ogr": "23715",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise publique/\u00e9tablissement public",
+            "code_ogr": "23912",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Site portuaire",
+            "code_ogr": "24076",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "A\u00e9ronautique, spatial",
+            "code_ogr": "23391",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Alimentaire",
+            "code_ogr": "23395",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Armement",
+            "code_ogr": "23404",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Automobile",
+            "code_ogr": "23410",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Bois, ameublement",
+            "code_ogr": "23424",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chimie",
+            "code_ogr": "23436",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chimie fine",
+            "code_ogr": "23437",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Construction navale",
+            "code_ogr": "23453",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Eco-industrie",
+            "code_ogr": "23469",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electricit\u00e9",
+            "code_ogr": "23474",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electrom\u00e9nager",
+            "code_ogr": "23476",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electronique",
+            "code_ogr": "23477",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Energie, nucl\u00e9aire, fluide",
+            "code_ogr": "23480",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ferroviaire",
+            "code_ogr": "23498",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Habillement, cuir, textile",
+            "code_ogr": "23515",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie cosm\u00e9tique",
+            "code_ogr": "23530",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie du papier, carton",
+            "code_ogr": "23531",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Information et communication",
+            "code_ogr": "23534",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Machinisme",
+            "code_ogr": "23544",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9canique, travail des m\u00e9taux",
+            "code_ogr": "23552",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9tallurgie, sid\u00e9rurgie",
+            "code_ogr": "23558",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Nautisme",
+            "code_ogr": "23567",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Optique, optronique",
+            "code_ogr": "23568",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Parachimie",
+            "code_ogr": "23573",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "P\u00e9trochimie",
+            "code_ogr": "23582",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Plasturgie, caoutchouc, composites",
+            "code_ogr": "23585",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sport et loisirs",
+            "code_ogr": "23640",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Transport/logistique",
+            "code_ogr": "23659",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Verre, mat\u00e9riaux de construction",
+            "code_ogr": "23673",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Normes qualit\u00e9",
+            "code_ogr": "22233",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9",
+            "code_ogr": "22621",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes de fonctionnement d'un moteur",
+            "code_ogr": "22316",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9canique productique",
+            "code_ogr": "22103",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electrom\u00e9canique",
+            "code_ogr": "21832",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pneumatique",
+            "code_ogr": "22304",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Hydraulique",
+            "code_ogr": "22035",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9gulation et instrumentation",
+            "code_ogr": "22661",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en \u00e9lectronique",
+            "code_ogr": "21863",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en \u00e9lectricit\u00e9",
+            "code_ogr": "21859",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de soudure",
+            "code_ogr": "23128",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'usinage",
+            "code_ogr": "23243",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de chaudronnerie",
+            "code_ogr": "22828",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de serrurerie",
+            "code_ogr": "23118",
+            "position_item": "3",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise l'entretien, la maintenance, la mise \u00e0 niveau ou la r\u00e9novation m\u00e9canique des mat\u00e9riels, \u00e9quipements, installations de production/exploitation industrielles, selon les r\u00e8gles de s\u00e9curit\u00e9 et les imp\u00e9ratifs de production (d\u00e9lais, qualit\u00e9, ...).\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "Maintenance m\u00e9canique industrielle",
+    "code_ogr": "319",
+    "code_rome": "I1310",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "H1404",
+            "libelle_rome_cible": "Intervention technique en m\u00e9thodes et industrialisation"
+        },
+        {
+            "code_rome_cible": "H2503",
+            "libelle_rome_cible": "Pilotage d'unit\u00e9 \u00e9l\u00e9mentaire de production m\u00e9canique ou de travail des m\u00e9taux"
+        },
+        {
+            "code_rome_cible": "I1301",
+            "libelle_rome_cible": "Installation et maintenance d'ascenseurs"
+        },
+        {
+            "code_rome_cible": "I1302",
+            "libelle_rome_cible": "Installation et maintenance d'automatismes"
+        }
+    ]
+}

@@ -1,0 +1,571 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente de manutention de charges lourdes",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de manutention de charges lourdes",
+            "code_ogr": "10523"
+        },
+        {
+            "libelle_court": "Agent / Agente de quai manutentionnaire",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de quai manutentionnaire",
+            "code_ogr": "10579"
+        },
+        {
+            "libelle_court": "Bagagiste manutentionnaire",
+            "priorisation": "1",
+            "libelle": "Bagagiste manutentionnaire",
+            "code_ogr": "11484"
+        },
+        {
+            "libelle_court": "Chargeur / Chargeuse manutentionnaire",
+            "priorisation": "1",
+            "libelle": "Chargeur / Chargeuse manutentionnaire",
+            "code_ogr": "11951"
+        },
+        {
+            "libelle_court": "Chargeur d\u00e9chargeur / Chargeuse d\u00e9chargeuse manutentionnaire",
+            "priorisation": "1",
+            "libelle": "Chargeur d\u00e9chargeur / Chargeuse d\u00e9chargeuse manutentionnaire",
+            "code_ogr": "11950"
+        },
+        {
+            "libelle_court": "D\u00e9chargeur / D\u00e9chargeuse manutentionnaire",
+            "priorisation": "1",
+            "libelle": "D\u00e9chargeur / D\u00e9chargeuse manutentionnaire",
+            "code_ogr": "13897"
+        },
+        {
+            "libelle_court": "Manoeuvre manutentionnaire",
+            "priorisation": "1",
+            "libelle": "Manoeuvre manutentionnaire",
+            "code_ogr": "16355"
+        },
+        {
+            "libelle_court": "Manutentionnaire",
+            "priorisation": "1",
+            "libelle": "Manutentionnaire",
+            "code_ogr": "16361"
+        },
+        {
+            "libelle_court": "Manutentionnaire caleur / caleuse sur chantier de ferroutage",
+            "priorisation": "1",
+            "libelle": "Manutentionnaire caleur / caleuse sur chantier de ferroutage",
+            "code_ogr": "16362"
+        },
+        {
+            "libelle_court": "Manutentionnaire en produits carn\u00e9s",
+            "priorisation": "1",
+            "libelle": "Manutentionnaire en produits carn\u00e9s",
+            "code_ogr": "16364"
+        },
+        {
+            "libelle_court": "Manutentionnaire en transport logistique",
+            "priorisation": "1",
+            "libelle": "Manutentionnaire en transport logistique",
+            "code_ogr": "16365"
+        },
+        {
+            "libelle_court": "Manutentionnaire exp\u00e9diteur / exp\u00e9ditrice",
+            "priorisation": "1",
+            "libelle": "Manutentionnaire exp\u00e9diteur / exp\u00e9ditrice",
+            "code_ogr": "16366"
+        },
+        {
+            "libelle_court": "Porteur / Porteuse en transport logistique",
+            "priorisation": "1",
+            "libelle": "Porteur / Porteuse en transport logistique",
+            "code_ogr": "17894"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Charger/d\u00e9charger des marchandises, des produits",
+            "code_ogr": "814",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Trier et r\u00e9partir les colis, marchandises selon les indications (codification, format, poids, nombre, ...)",
+            "code_ogr": "3380",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9placer les colis, mat\u00e9riels, marchandises, ... et les ranger",
+            "code_ogr": "1353",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier les caract\u00e9ristiques des marchandises et les d\u00e9nombrer par cat\u00e9gorie",
+            "code_ogr": "2092",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Rep\u00e9rer et signaler les produits d\u00e9t\u00e9rior\u00e9s ou manquants",
+            "code_ogr": "3087",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer et ranger la zone de travail (mat\u00e9riel, accessoires, ...)",
+            "code_ogr": "2412",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "A1401",
+            "libelle_rome_cible": "Aide agricole de production fruiti\u00e8re ou viticole"
+        },
+        {
+            "code_rome_cible": "A1402",
+            "libelle_rome_cible": "Aide agricole de production l\u00e9gumi\u00e8re ou v\u00e9g\u00e9tale"
+        },
+        {
+            "code_rome_cible": "A1403",
+            "libelle_rome_cible": "Aide d'\u00e9levage agricole et aquacole"
+        },
+        {
+            "code_rome_cible": "D1507",
+            "libelle_rome_cible": "Mise en rayon libre-service"
+        },
+        {
+            "code_rome_cible": "E1304",
+            "libelle_rome_cible": "Fa\u00e7onnage et routage"
+        },
+        {
+            "code_rome_cible": "F1704",
+            "libelle_rome_cible": "Pr\u00e9paration du gros oeuvre et des travaux publics"
+        },
+        {
+            "code_rome_cible": "H3302",
+            "libelle_rome_cible": "Op\u00e9rations manuelles d'assemblage, tri ou emballage"
+        },
+        {
+            "code_rome_cible": "H3303",
+            "libelle_rome_cible": "Pr\u00e9paration de mati\u00e8res et produits industriels (broyage, m\u00e9lange, ...)"
+        },
+        {
+            "code_rome_cible": "K2201",
+            "libelle_rome_cible": "Blanchisserie industrielle"
+        },
+        {
+            "code_rome_cible": "K2204",
+            "libelle_rome_cible": "Nettoyage de locaux"
+        },
+        {
+            "code_rome_cible": "K2303",
+            "libelle_rome_cible": "Nettoyage des espaces urbains"
+        },
+        {
+            "code_rome_cible": "K2304",
+            "libelle_rome_cible": "Revalorisation de produits industriels"
+        },
+        {
+            "code_rome_cible": "N1103",
+            "libelle_rome_cible": "Magasinage et pr\u00e9paration de commandes"
+        },
+        {
+            "code_rome_cible": "N2203",
+            "libelle_rome_cible": "Exploitation des pistes a\u00e9roportuaires"
+        },
+        {
+            "code_rome_cible": "N3203",
+            "libelle_rome_cible": "Manutention portuaire"
+        },
+        {
+            "code_rome_cible": "N4403",
+            "libelle_rome_cible": "Manoeuvre du r\u00e9seau ferr\u00e9"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle.\nUne bonne condition physique est requise.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Effectuer des op\u00e9rations de :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cerclage",
+            "code_ogr": "4922",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etiquetage",
+            "code_ogr": "4930",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Filmage",
+            "code_ogr": "4932",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des op\u00e9rations de manutention ou de conditionnement \u00e0 l'aide de :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accessoires d'\u00e9lingage",
+            "code_ogr": "4969",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accessoires sp\u00e9cifiques (pinces, potence, \u00e9perons, ...)",
+            "code_ogr": "4970",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conditionner les produits selon leurs caract\u00e9ristiques, les commandes et le mode de transport",
+            "code_ogr": "3509",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller le flux et l'avanc\u00e9e de produits sur une ligne de production ou de convoyage et effectuer des interventions de d\u00e9blocage et de retrait d'\u00e9l\u00e9ments",
+            "code_ogr": "9897",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Alimenter/d\u00e9charger une machine de production (fabrication, conditionnement, ...) et surveiller les param\u00e8tres",
+            "code_ogr": "3699",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien de premier niveau de l'engin et des \u00e9quipements",
+            "code_ogr": "3544",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entrep\u00f4ts, de plates-formes logistiques de stockage, de magasins d'entreposage, de zones de fret, de gares ferroviaires, routi\u00e8res ou a\u00e9roportuaires, d'usines de production, d'entreprises de grande distribution, ... en contact avec diff\u00e9rents intervenants (op\u00e9rateurs de production, op\u00e9rateurs logistiques, caristes, ...).\nElle peut s'exercer en horaires d\u00e9cal\u00e9s, par roulement, les fins de semaine, jours f\u00e9ri\u00e9s ou de nuit.\nL'activit\u00e9 implique le port r\u00e9p\u00e9titif de charges (plus de 20 kg) et peut s'effectuer en environnement bruyant, en zone frigorifique ou \u00e0 temp\u00e9rature \u00e9lev\u00e9e (fonte de m\u00e9taux).\nLe port d'\u00e9quipements de protection (casque, chaussures de s\u00e9curit\u00e9, gants, ...) est exig\u00e9.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Appr\u00e9ciation de charge (poids, volume, centre de gravit\u00e9, ...)",
+            "code_ogr": "20769",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de codes et symboles",
+            "code_ogr": "20935",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Comptage",
+            "code_ogr": "20820",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'engins de manutention non motoris\u00e9s (transpalette, diable, ...)",
+            "code_ogr": "21414",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de donn\u00e9es de contr\u00f4le",
+            "code_ogr": "20940",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "A\u00e9roport",
+            "code_ogr": "23682",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise",
+            "code_ogr": "23867",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de d\u00e9m\u00e9nagement",
+            "code_ogr": "23873",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de forage/extraction",
+            "code_ogr": "23877",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de transport/messagerie/groupage",
+            "code_ogr": "23900",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise publique/\u00e9tablissement public",
+            "code_ogr": "23912",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie manufacturi\u00e8re",
+            "code_ogr": "23969",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Plate-forme logistique",
+            "code_ogr": "24039",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Site de transit (gare, zone de fret, ...)",
+            "code_ogr": "24072",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Site portuaire",
+            "code_ogr": "24076",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Administration / Services de l'Etat",
+            "code_ogr": "23388",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Agriculture",
+            "code_ogr": "23394",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Alimentaire",
+            "code_ogr": "23395",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Aquaculture",
+            "code_ogr": "23399",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent et Travaux Publics -BTP-",
+            "code_ogr": "23420",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Commerce/grande distribution",
+            "code_ogr": "23445",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Finance",
+            "code_ogr": "23501",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Immobilier",
+            "code_ogr": "23523",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "P\u00eache",
+            "code_ogr": "23577",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Production et distribution d'\u00e9lectricit\u00e9, de gaz et d'eau",
+            "code_ogr": "23598",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sant\u00e9 et action sociale",
+            "code_ogr": "23625",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sylviculture",
+            "code_ogr": "23645",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Transport/logistique",
+            "code_ogr": "23659",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "En ext\u00e9rieur",
+            "code_ogr": "23378",
+            "code_type_section_env": "3"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "En zone frigorifique",
+            "code_ogr": "23385",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles et consignes de s\u00e9curit\u00e9",
+            "code_ogr": "22656",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modalit\u00e9s de chargement/d\u00e9chargement de marchandises",
+            "code_ogr": "22164",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'emballage et de conditionnement",
+            "code_ogr": "23192",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nEx\u00e9cute manuellement des op\u00e9rations de manutention de marchandises, de produits, d'objets ou de mati\u00e8res (chargement/d\u00e9chargement de v\u00e9hicules, tri, nettoyage,...) , selon les r\u00e8gles de s\u00e9curit\u00e9.\nPeut effectuer des op\u00e9rations simples (inventaire physique, emballage,...) au moyen de mat\u00e9riel ou d'engins de manutention (table-\u00e9l\u00e9vatrice, diable, rolls, palan, sangles,...) n'exigeant pas d'autorisation de conduite (transpalette,...).\n",
+    "intitule": "Manutention manuelle de charges",
+    "code_ogr": "504",
+    "code_rome": "N1105",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "A1101",
+            "libelle_rome_cible": "Conduite d'engins agricoles et forestiers"
+        },
+        {
+            "code_rome_cible": "L1506",
+            "libelle_rome_cible": "Machinerie spectacle"
+        },
+        {
+            "code_rome_cible": "N1101",
+            "libelle_rome_cible": "Conduite d'engins de d\u00e9placement des charges"
+        },
+        {
+            "code_rome_cible": "N1102",
+            "libelle_rome_cible": "D\u00e9m\u00e9nagement"
+        },
+        {
+            "code_rome_cible": "N4104",
+            "libelle_rome_cible": "Courses et livraisons express"
+        }
+    ]
+}

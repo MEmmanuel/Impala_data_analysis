@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e production dans les biotechnologies</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe/concevoir, utiliser des technologies industrielles de pointe</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction fabrication industrielle</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur industrie pharmaceutique/secteur industrie agroalimentaire/secteur environnement/secteur énergie/secteur recherche</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">biotechnologies/fonction production/biologie moléculaire/biologie cellulaire/microbiologie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE matériaux laboratoire organisation industrielle</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100563</lien_onisep>
+<ROME Level="1B" csRelFld="100563">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="320" csRelFld="320">
+<CSLABELFLD label="">H2502</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Direction, encadrement et pilotage de fabrication et production industrielles</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2502</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Management et ingénierie de production</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100563">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="53658" csRelFld="53658">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53658</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100563</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Produire plus et mieux </inter>
+<p>Maître d'oeuvre de toute la production, l'ingénieur production dans les biotechnologies tente d'en améliorer le rendement, en tenant compte des impératifs liés aux spécificités de fabrication (composants biologiques, utilisation d'automates...) et en respectant des procédures strictes. </p>
+<inter> Parer aux imprévus </inter>
+<p>Un grain de sable dans les rouages ? Il en fait son affaire ! Pour anticiper tout risque, il met en place des mesures de prévention et de sécurité, contrôle l'état de marche des machines, s'assure de l'approvisionnement en matières premières, etc. Son rôle est avant tout d'identifier les anomalies éventuelles. Lorsque survient un problème (commande de dernière minute, matériel défectueux, manque de personnel...), à lui d'établir, en urgence, un plan d'action pour y remédier.</p>
+<inter> Coordonner les équipes </inter>
+<p>Dans une équipe, chacun doit savoir ce qu'il doit faire. Pour s'en assurer à l'échelle d'une usine, l'ingénieur production dans les biotechnologies veille à l'harmonie des tâches, au respect des normes (hygiène, sécurité, qualité...), à l'optimisation des coûts et des délais...</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="53662" csRelFld="53662">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53662</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100563</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p> Le métier d'ingénieur production en biotechnologies est accessible avec un bac + 5 au minimum.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master en gestion de production, génie des procédés, chimie, biologie ; en infectiologie, médicaments... </itsimp>
+<itsimp>Diplôme d'ingénieur en gestion de production, génie des procédés, chimie, biologie ou pharmacie industrielle </itsimp>
+</liste>
+<liste>
+<tete> Niveau bac + 6 et plus </tete>
+<itsimp>Diplôme d'État de docteur en pharmacie</itsimp>
+<itsimp>Diplôme d'État de docteur vétérinaire</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="53660" csRelFld="53660">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">53660</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100563</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter> De perspectives d'avenir favorables</inter>
+<p>Secteur jeune, les biotechnologies sont en plein développement. 38 % des sociétés ont entre 5 et 10 ans. Quelques-unes d'entre elles dépassent les 100 salariés, alors que le nombre moyen de collaborateurs est de 25. C'est dans le domaine de la santé que les biotechnologies ont connu leurs premières applications et qu'elles restent les plus dynamiques : recherche contre le cancer, thérapie génique, biomédicaments... D'autre part, la démarche qualité étant en plein essor dans les entreprises du médicament, elle s'étend à de nouveaux domaines : marketing, distribution, conseil... Le secteur de la cosmétique, qui utilise lui aussi les biotechnologies, est très dynamique : il est le 3<exp>e</exp> secteur exportateur dans l'industrie après l'aéronautique et l'agroalimentaire.</p>
+<inter> Des évolutions possibles </inter>
+<p>L'ingénieur production dans les biotechnologies peut évoluer, avec une certaine expérience, vers des fonctions d'ingénieur contrôle qualité. Il peut aussi s'orienter vers des postes de responsable logistique, responsable des achats industriels ou encore responsable méthodes, avec une formation complémentaire si nécessaire.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir de <sal>2500</sal> euros brut par mois.</p>
+<postit>
+<p>Source : Apec, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

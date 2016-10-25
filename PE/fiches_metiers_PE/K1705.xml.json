@@ -1,0 +1,826 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Artificier d\u00e9mineur / Artifici\u00e8re d\u00e9mineuse",
+            "priorisation": "1",
+            "libelle": "Artificier d\u00e9mineur / Artifici\u00e8re d\u00e9mineuse",
+            "code_ogr": "11150"
+        },
+        {
+            "libelle_court": "Chef d'agr\u00e9es",
+            "priorisation": "1",
+            "libelle": "Chef d'agr\u00e9es",
+            "code_ogr": "12027"
+        },
+        {
+            "libelle_court": "Chef de garde",
+            "priorisation": "1",
+            "libelle": "Chef de garde",
+            "code_ogr": "12151"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe de secours",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe de secours",
+            "code_ogr": "12432"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice d'engin sp\u00e9cial d'incendie",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice d'engin sp\u00e9cial d'incendie",
+            "code_ogr": "13244"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice d'engins d'extinction d'incendie",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice d'engins d'extinction d'incendie",
+            "code_ogr": "13242"
+        },
+        {
+            "libelle_court": "D\u00e9mineur / D\u00e9mineuse s\u00e9curit\u00e9 civile",
+            "priorisation": "1",
+            "libelle": "D\u00e9mineur / D\u00e9mineuse s\u00e9curit\u00e9 civile",
+            "code_ogr": "13952"
+        },
+        {
+            "libelle_court": "Electrom\u00e9canicien / Electrom\u00e9canicienne de s\u00e9curit\u00e9",
+            "priorisation": "1",
+            "libelle": "Electrom\u00e9canicien / Electrom\u00e9canicienne de s\u00e9curit\u00e9",
+            "code_ogr": "14655"
+        },
+        {
+            "libelle_court": "Equipier / Equipi\u00e8re s\u00e9curit\u00e9 civile",
+            "priorisation": "1",
+            "libelle": "Equipier / Equipi\u00e8re s\u00e9curit\u00e9 civile",
+            "code_ogr": "14877"
+        },
+        {
+            "libelle_court": "Equipier sapeur-pompier / Equipi\u00e8re sapeuse-pompi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Equipier sapeur-pompier / Equipi\u00e8re sapeuse-pompi\u00e8re",
+            "code_ogr": "14876"
+        },
+        {
+            "libelle_court": "Intervenant / Intervenante de s\u00e9curit\u00e9 civile et de secours",
+            "priorisation": "1",
+            "libelle": "Intervenant / Intervenante de s\u00e9curit\u00e9 civile et de secours",
+            "code_ogr": "16052"
+        },
+        {
+            "libelle_court": "Ma\u00eetre-chien / Ma\u00eetresse-chien d'avalanche",
+            "priorisation": "1",
+            "libelle": "Ma\u00eetre-chien / Ma\u00eetresse-chien d'avalanche",
+            "code_ogr": "16320"
+        },
+        {
+            "libelle_court": "Ma\u00eetre-chien / Ma\u00eetresse-chien s\u00e9curit\u00e9 civile",
+            "priorisation": "1",
+            "libelle": "Ma\u00eetre-chien / Ma\u00eetresse-chien s\u00e9curit\u00e9 civile",
+            "code_ogr": "16324"
+        },
+        {
+            "libelle_court": "Marin-pompier",
+            "priorisation": "1",
+            "libelle": "Marin-pompier",
+            "code_ogr": "16407"
+        },
+        {
+            "libelle_court": "Pisteur / Pisteuse secouriste",
+            "priorisation": "1",
+            "libelle": "Pisteur / Pisteuse secouriste",
+            "code_ogr": "17803"
+        },
+        {
+            "libelle_court": "Pompier / Pompi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Pompier / Pompi\u00e8re",
+            "code_ogr": "17877"
+        },
+        {
+            "libelle_court": "Pompier industriel / Pompi\u00e8re industrielle",
+            "priorisation": "1",
+            "libelle": "Pompier industriel / Pompi\u00e8re industrielle",
+            "code_ogr": "17878"
+        },
+        {
+            "libelle_court": "Pompier technicien / Pompi\u00e8re technicienne de l'air",
+            "priorisation": "1",
+            "libelle": "Pompier technicien / Pompi\u00e8re technicienne de l'air",
+            "code_ogr": "17879"
+        },
+        {
+            "libelle_court": "Sapeur-pompier / Sapeuse-pompi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Sapeur-pompier / Sapeuse-pompi\u00e8re",
+            "code_ogr": "19309"
+        },
+        {
+            "libelle_court": "Secouriste",
+            "priorisation": "1",
+            "libelle": "Secouriste",
+            "code_ogr": "19362"
+        },
+        {
+            "libelle_court": "Secouriste brancardier / brancardi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Secouriste brancardier / brancardi\u00e8re",
+            "code_ogr": "19363"
+        },
+        {
+            "libelle_court": "Sp\u00e9cialiste s\u00e9curit\u00e9 civile",
+            "priorisation": "1",
+            "libelle": "Sp\u00e9cialiste s\u00e9curit\u00e9 civile",
+            "code_ogr": "19510"
+        },
+        {
+            "libelle_court": "Sp\u00e9l\u00e9ologue secouriste",
+            "priorisation": "1",
+            "libelle": "Sp\u00e9l\u00e9ologue secouriste",
+            "code_ogr": "19513"
+        },
+        {
+            "libelle_court": "Stationnaire",
+            "priorisation": "1",
+            "libelle": "Stationnaire",
+            "code_ogr": "19521"
+        },
+        {
+            "libelle_court": "Technicien(ne) de pr\u00e9vention et lutte contre les sinistres",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de la pr\u00e9vention et de lutte contre les sinistres",
+            "code_ogr": "19782"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne en s\u00e9curit\u00e9 incendie et secourisme",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en s\u00e9curit\u00e9 incendie et secourisme",
+            "code_ogr": "20123"
+        },
+        {
+            "libelle_court": "Tireur d'avalancheur / Tireuse d'avalancheur",
+            "priorisation": "1",
+            "libelle": "Tireur d'avalancheur / Tireuse d'avalancheur",
+            "code_ogr": "20330"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Pr\u00e9parer et contr\u00f4ler l'\u00e9tat du mat\u00e9riel et des dispositifs de protection (lance, d\u00e9tecteur, engins, ...), effectuer l'entretien et la maintenance de premier niveau",
+            "code_ogr": "2577",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier la zone d'accident, de sinistre, ..., les interventions demand\u00e9es et appliquer les r\u00e8gles de s\u00e9curit\u00e9, de protection et de pr\u00e9vention des risques",
+            "code_ogr": "2052",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Evaluer la situation, les risques et d\u00e9terminer les actions d'assistance et de secours \u00e0 personnes ou de lutte contre les sinistres",
+            "code_ogr": "1960",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "3",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Secourir et assister les personnes et victimes d'accidents (premiers soins, \u00e9vacuation, ...)",
+            "code_ogr": "3134",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser les interventions de lutte contre les sinistres (incendies, effondrements, inondations, ...) et les produits dangereux, corrosifs, toxiques",
+            "code_ogr": "2836",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Implanter et contr\u00f4ler les dispositifs de pr\u00e9vention d'accident, de s\u00e9curisation et de protection de zones par balisage, signalisation, protection, ...",
+            "code_ogr": "2178",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Informer les hi\u00e9rarchiques, forces de l'ordre, m\u00e9decins, ... sur les interventions, les risques et les \u00e9volutions de la situation",
+            "code_ogr": "2195",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "H1303",
+            "libelle_rome_cible": "Intervention technique en Hygi\u00e8ne S\u00e9curit\u00e9 Environnement -HSE- industriel"
+        },
+        {
+            "code_rome_cible": "I1502",
+            "libelle_rome_cible": "Intervention en milieu subaquatique"
+        },
+        {
+            "code_rome_cible": "I1503",
+            "libelle_rome_cible": "Intervention en milieux et produits nocifs"
+        },
+        {
+            "code_rome_cible": "J1305",
+            "libelle_rome_cible": "Conduite de v\u00e9hicules sanitaires"
+        },
+        {
+            "code_rome_cible": "K1701",
+            "libelle_rome_cible": "Personnel de la D\u00e9fense"
+        },
+        {
+            "code_rome_cible": "K1706",
+            "libelle_rome_cible": "S\u00e9curit\u00e9 publique"
+        },
+        {
+            "code_rome_cible": "K2503",
+            "libelle_rome_cible": "S\u00e9curit\u00e9 et surveillance priv\u00e9es"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac+2 (BTS, DUT, ...) compl\u00e9t\u00e9 par une formation en secourisme (attestation, certificat de premier secours, brevet de pisteur-secouriste, ...).\nDes habilitations \u00e9lectriques peuvent \u00eatre requises.\nUne bonne condition physique est requise.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser des interventions n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Service de S\u00e9curit\u00e9 Incendie et d'Assistance \u00e0 Personnes -SSIAP1-",
+            "code_ogr": "8495",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Service de S\u00e9curit\u00e9 Incendie et d'Assistance \u00e0 Personnes -SSIAP2-",
+            "code_ogr": "8496",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9vention et Secours Civiques de niveau 1 -PSC1-",
+            "code_ogr": "8467",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Premiers secours en \u00e9quipe de niveau 1 -PSE1-",
+            "code_ogr": "8468",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Certificat de Formation aux Activit\u00e9s de Premiers Secours en \u00c9quipe -CFAPSE-",
+            "code_ogr": "8475",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Certificat de Formation Aux Premiers Secours Routiers -CFAPSR-",
+            "code_ogr": "8476",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sauvetage et Lutte contre les Incendies d'A\u00e9ronefs -SSLIA-",
+            "code_ogr": "8493",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Brevet National de Pisteur Secouriste 1er degr\u00e9 -BNPS-",
+            "code_ogr": "8470",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Brevet National de Pisteur Secouriste 2eme degr\u00e9 -BNPS-",
+            "code_ogr": "8471",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Brevet National de Pisteur Secouriste 3eme degr\u00e9 -BNPS-",
+            "code_ogr": "8472",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "10",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Brevet National de S\u00e9curit\u00e9 et de Sauvetage Aquatique - BNSSA",
+            "code_ogr": "8469",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "11",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation \u00e9lectrique, travaux hors tension (B0, B0V, B1 B1V, H0, ...)",
+            "code_ogr": "8481",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "12",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Intervenir dans un milieu :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "A\u00e9rien, a\u00e9roportuaire",
+            "code_ogr": "6752",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Maritime, portuaire",
+            "code_ogr": "6756",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Industriel",
+            "code_ogr": "6755",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Routier, autoroutier",
+            "code_ogr": "6760",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Espace naturel",
+            "code_ogr": "6753",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Montagne, piste",
+            "code_ogr": "6758",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nucl\u00e9aire, radiologique, bact\u00e9riologique et chimique - NRBC -",
+            "code_ogr": "6759",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9ceptionner, identifier des appels t\u00e9l\u00e9phoniques, des alarmes, ... et d\u00e9clencher des interventions de secours et d'assistance",
+            "code_ogr": "9438",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Diriger un chien sur une action de protection ou de recherche",
+            "code_ogr": "4744",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pratiquer des op\u00e9rations de d\u00e9minage, neutralisation d'engins explosifs, ...",
+            "code_ogr": "7897",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la conformit\u00e9 administrative et r\u00e9glementaire de lieux recevant du public (dispositifs, syst\u00e8mes de s\u00e9curit\u00e9, ...)",
+            "code_ogr": "4194",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sensibiliser des publics aux actions et techniques de pr\u00e9vention, de s\u00e9curit\u00e9 et de secourisme",
+            "code_ogr": "9673",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Former des personnels aux techniques d'intervention et de secours",
+            "code_ogr": "6031",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des interventions :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9clenchement de tir d'avalanche",
+            "code_ogr": "8502",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Op\u00e9rations dans des zones d'acc\u00e8s difficile, en milieu souterrain, en tr\u00e8s grande hauteur",
+            "code_ogr": "8501",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Recherche de personnes disparues (ensevelissements, d\u00e9combres, ...)",
+            "code_ogr": "8506",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de services d'incendie et de secours, dans les entreprises et les arm\u00e9es, en contact avec diff\u00e9rents intervenants (SAMU, police, gendarmerie, ...). Elle peut impliquer des d\u00e9placements et un \u00e9loignement du domicile de plusieurs jours ou mois.\nElle varie selon le lieu et le type d'intervention.\nElle peut s'exercer les fins de semaine, jours f\u00e9ri\u00e9s, de nuit et \u00eatre soumise \u00e0 des astreintes.\nElle peut s'effectuer en grande hauteur et impliquer le port de charges.\nLe port d'une tenue professionnelle (tenue de feu, casque, appareil respiratoire, uniforme, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan",
+            "code_ogr": "20946",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'engin et mat\u00e9riel incendie",
+            "code_ogr": "21412",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de soin",
+            "code_ogr": "21335",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareil de r\u00e9animation",
+            "code_ogr": "21141",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'\u00e9quipement de protection et de s\u00e9curit\u00e9",
+            "code_ogr": "21423",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pratique de ski de montagne",
+            "code_ogr": "21048",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "D\u00e9clenchement de tir, d'explosion",
+            "code_ogr": "20839",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "D\u00e9tection et neutralisation d'explosif",
+            "code_ogr": "20854",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'\u00e9quipement de secours et de sauvetage",
+            "code_ogr": "21425",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "A\u00e9roport",
+            "code_ogr": "23682",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Association",
+            "code_ogr": "23706",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise",
+            "code_ogr": "23867",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Service d'incendie et de secours",
+            "code_ogr": "24067",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 d'exploitation des remont\u00e9es m\u00e9caniques",
+            "code_ogr": "24101",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Administration / Services de l'Etat",
+            "code_ogr": "23388",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation en Hygi\u00e8ne, S\u00e9curit\u00e9, Environnement -HSE-",
+            "code_ogr": "22567",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de lutte incendie",
+            "code_ogr": "22952",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation s\u00e9curit\u00e9 incendie",
+            "code_ogr": "22580",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisation de la cha\u00eene logistique",
+            "code_ogr": "22249",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en \u00e9lectrom\u00e9canique",
+            "code_ogr": "21862",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en pneumatique",
+            "code_ogr": "21905",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "G\u00e9nie civil",
+            "code_ogr": "21972",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de protection et de pr\u00e9vention des pollutions",
+            "code_ogr": "23070",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Technique de pr\u00e9vention des avalanches",
+            "code_ogr": "22749",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Risques naturels",
+            "code_ogr": "22673",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'\u00e9cobuage",
+            "code_ogr": "23177",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'alpinisme",
+            "code_ogr": "22763",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Nivologie",
+            "code_ogr": "22210",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de d\u00e9contamination",
+            "code_ogr": "22400",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques cynophiles",
+            "code_ogr": "22758",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation en pyrotechnie",
+            "code_ogr": "22568",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques p\u00e9dagogiques",
+            "code_ogr": "23253",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise les interventions de secours, d'assistance \u00e0 personnes et la lutte contre les p\u00e9rils, sinistres, risques naturels, technologiques, ... mena\u00e7ant la s\u00e9curit\u00e9 publique, les biens et les patrimoines selon les r\u00e8gles de s\u00e9curit\u00e9 et les imp\u00e9ratifs d'urgence et de priorit\u00e9.\nPeut r\u00e9aliser la pr\u00e9vention de risques.\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "S\u00e9curit\u00e9 civile et secours",
+    "code_ogr": "395",
+    "code_rome": "K1705",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "G1204",
+            "libelle_rome_cible": "\u00c9ducation en activit\u00e9s sportives"
+        },
+        {
+            "code_rome_cible": "H1302",
+            "libelle_rome_cible": "Management et ing\u00e9nierie Hygi\u00e8ne S\u00e9curit\u00e9 Environnement -HSE- industriels"
+        },
+        {
+            "code_rome_cible": "K1702",
+            "libelle_rome_cible": "Direction de la s\u00e9curit\u00e9 civile et des secours"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        },
+        {
+            "code_rome_cible": "K2502",
+            "libelle_rome_cible": "Management de s\u00e9curit\u00e9 priv\u00e9e"
+        }
+    ]
+}

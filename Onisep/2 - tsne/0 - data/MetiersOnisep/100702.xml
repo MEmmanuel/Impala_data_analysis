@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">conseiller/ère en assurances</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">convaincre, négocier/faire du commerce</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction vente</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur assurances/secteur banque</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">assurances</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100702</lien_onisep>
+<ROME Level="1B" csRelFld="100702">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100702">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="59318" csRelFld="59318">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59318</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100702</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter> Conseiller et vendre des produits d'assurances </inter>
+<p> Une assurance habitation, automobile, santé ou retraite ? Le conseiller vend à ses clients des produits d'assurance et d'épargne adaptés à leur situation et à leurs besoins. Pour cela, il doit être à l'écoute de sa clientèle. Commercial, ce professionnel doit se montrer convaincant pour vendre ses produits qui couvrent des risques liés aux personnes et aux biens. </p>
+<inter>Démarcher pour étoffer son portefeuille de clients </inter>
+<p> Afin d'atteindre les objectifs chiffrés fixés par son employeur, le conseiller doit développer sa clientèle. Pour cela, il fait de la prospection, par téléphone, mail ou en se déplaçant chez des clients. Selon les activités de son entreprise, il peut se spécialiser sur un type de clientèle (particuliers, professions libérales, artisans) ou sur un type de risques (professionnels, santé, construction, gestion de patrimoine...). </p>
+<inter>Fidéliser sa clientèle </inter>
+<p> C'est un autre objectif du conseiller en assurances. Pour cela, il lui faut établir une relation de confiance avec ses clients. Nouer une relation privilégiée avec eux lui permet ainsi de proposer ses services sur le long terme, mais aussi de gagner de nouveaux clients par leur intermédiaire. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="59322" csRelFld="59322">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59322</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100702</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Si la majorité des conseillers en assurance sont recrutés avec un niveau bac + 2, les titulaires d'un bac + 3, voire d'un bac + 5 sont les bienvenus pour commercialiser des garanties complexes (dans le domaine du risque industriel, par exemple).</p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS assurance ; management des unités commercial ; négociation relation client</itsimp>
+<itsimp>DUT carrières juridiques</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence pro mention assurance, banque, finance ; activités juridiques</itsimp>
+<itsimp>diplôme d'école de commerce et de gestion</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master droit des assurances ; monnaie, banque, finance, assurance ; finance...</itsimp>
+<itsimp>diplôme supérieur d'école de commerce et de gestion</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="59320" csRelFld="59320">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">59320</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100702</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter> Des embauches à l'horizon </inter>
+<p> Avec 17 % des employés de l'assurance âgés de plus de 55 ans, des embauches sont à prévoir pour remplacer les personnels qui partent en retraite. Les commerciaux et les gestionnaires de contrats représentent environ 60 % des salariés du secteur. Environ 13 000 personnes sont recrutées par an dans le secteur de l'assurance, tous métiers confondus.</p>
+<inter>Évolutions de carrière possibles </inter>
+<p> Dans un secteur de plus en plus concurrentiel, la fonction de conseiller commercial en assurances est prisée des recruteurs. Après quelques années d'exercice, le conseiller peut devenir inspecteur commercial (il anime et dirige alors une équipe de conseillers commerciaux). Il peut aussi évoluer vers le marketing opérationnel ou la formation, notamment en appui des conseillers juniors. </p>
+<inter> Des postes en province </inter>
+<p> Dans le domaine de l'assurance, 60 % des emplois se situent en province, les activités commerciales y étant d'ailleurs largement représentées. </p>
+<remun>
+<inter> Salaire du débutant</inter>
+<p>Environ 1 666 euros à 2166 bruts par mois pour les débutants avec moins de deux d'expérience salaire auquel s'ajoutent des primes</p>
+<postit>
+<p>FFSA-Gema décembre 2013</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">secrétaire de rédaction</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">informer, communiquer</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur de l'audiovisuel/secteur édition - presse</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">journalisme/édition</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE techniques de la communication média/secrétaire de rédaction</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10200</lien_onisep>
+<ROME Level="1B" csRelFld="10200">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="148" csRelFld="148">
+<CSLABELFLD label="">E1106</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Edition et communication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">E1106</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Journalisme et information média</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10200">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16937" csRelFld="16937">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16937</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10200</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Objectif lisibilité</inter>
+<p>Indispensable à toute rédaction, le secrétaire de rédaction intervient surtout en bout de chaîne, une fois que les articles sont écrits. Sa mission : rendre les textes lisibles, compréhensibles, attrayants et leur donner l'importance qu'ils méritent sur les pages.</p>
+<inter>Corriger, remanier, " habiller "</inter>
+<p>Premier lecteur du journal avant sa parution, le secrétaire de rédaction se pose les mêmes questions que les lecteurs. Garant de la forme et du fond, il veille à la clarté des propos. Il peut donc remanier un article mal construit ou couper celui-ci lorsqu'il est trop long. À lui de détecter et de corriger les coquilles (erreurs de composition des mots), les fautes d'orthographe ou de syntaxe. Enfin, il conçoit ou retravaille la titraille (titre, chapôs, intertitres) et les légendes des photos.</p>
+<inter>Un oeil sur la maquette</inter>
+<p>Le secrétaire de rédaction peut aussi être amené à participer à la conception de la maquette. Dans ce cas, à lui de calibrer le texte (en nombre de caractères) et de choisir les polices (types de caractères) et les corps (taille) dans lesquels doivent être composés les textes.</p>
+<p>Quand il travaille pour un site web, il vérifie les liens hypertextes et la qualité du temps d'affichage (image, audio, vidéo).</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16936" csRelFld="16936">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16936</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10200</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Aucun diplôme précis ne donne accès au métier de SR, qui est un journaliste. </accr_p>Néanmoins, la convention collective nationale de travail des journalistes préconise d'être titulaire d'un diplôme adapté, mieux d'un diplôme préparé dans les écoles reconnues par la profession (CFJ-Paris, CUEJ-Strasbourg 3, Celsa-Paris 4, EJCAM-Marseille, EJT-Toulouse, ESJ-Lille, EJDG-Grenoble 3, IFP-Paris, IPJ-Paris, IJBA-Bordeaux, IUT Lannion, IUT Tours, IUT Nice). </p>
+<p>L'entrée se fait sur concours (très sélectif) et sous condition d'âge, accessibles aux titulaires d'un bac + 2, + 3... même si la majorité des candidats possèdent au mois un bac +5 ! </p>
+<inter>Niveau Bac + 2</inter>
+<liste>
+<itsimp>
+<em>DUT</em> information communication, option journalisme ;</itsimp>
+</liste>
+<inter>Niveau Bac + 3</inter>
+<liste>
+<itsimp>
+<em>Licences pro</em> Métiers de l'information : métiers du journalisme et de la presse</itsimp>
+</liste>
+<inter>Niveau Bac +4/ 5</inter>
+<liste>
+<itsimp>
+<em>Masters Journalisme</em>
+</itsimp>
+<itsimp>
+<em>Diplômes d'écoles de journalime reconnues par la profession</em>
+</itsimp>
+<itsimp>Diplômes d'écoles privées en journalisme</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16498" csRelFld="16498">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16498</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10200</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des opportunités sur Internet</inter>
+<p>Ces dernières années, on a recensé plus de demandes que d'offres de poste. Actuellement, les opportunités se situent dans la presse gratuite et la presse en ligne. En effet, les sites Internet prennent de plus en plus conscience de la nécessité de proposer des textes lisibles, corrigés et contenant des liens valides.</p>
+<inter>Promotion possible</inter>
+<p>Après quelques années d'expérience, le secrétaire de rédaction peut accéder à des responsabilités plus importantes. En fonction de l'organisation de son journal, les postes de la hiérarchie sont différents. Le 1<exp>er</exp> secrétaire de rédaction chapeaute et manage le service secrétariat de rédaction. Le rédacteur en chef technique ou secrétaire général de rédaction supervise plus globalement la confection d'une ou de plusieurs publications.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>1500</sal> euros brut par mois.</p>
+<postit>
+<p>Source : Convention collective nationale des journalistes, accord du 1<exp>er</exp> juin 2011.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

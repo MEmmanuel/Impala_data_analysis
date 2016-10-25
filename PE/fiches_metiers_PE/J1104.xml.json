@@ -1,0 +1,419 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Homme sage-femme / Sage-femme",
+            "priorisation": "1",
+            "libelle": "Homme sage-femme / Sage-femme",
+            "code_ogr": "19299"
+        },
+        {
+            "libelle_court": "Ma\u00efeuticien / Ma\u00efeuticienne",
+            "priorisation": "1",
+            "libelle": "Ma\u00efeuticien / Ma\u00efeuticienne",
+            "code_ogr": "24798"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier le besoin selon la prescription m\u00e9dicale, le contexte social, familial, culturel",
+            "code_ogr": "2053",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le suivi de la grossesse ou orienter la personne vers le m\u00e9decin selon n\u00e9cessit\u00e9",
+            "code_ogr": "1572",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer la parturiente pour l'accouchement et surveiller le rythme cardiaque foetal, la dilatation du col, l'\u00e9tat clinique...",
+            "code_ogr": "2591",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accompagner la parturiente et proc\u00e9der \u00e0 l'accouchement ou apporter un appui technique au m\u00e9decin obst\u00e9tricien",
+            "code_ogr": "543",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser les soins du post-partum et l'examen de naissance du nouveau-n\u00e9 (v\u00e9rification des fonctions vitales, mensurations, ...) et consigner les donn\u00e9es sur le dossier m\u00e9dical",
+            "code_ogr": "2871",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conseiller la m\u00e8re sur les premiers gestes maternels, les soins sp\u00e9cifiques et pr\u00e9coniser d'autres suivis m\u00e9dicaux, psychologiques, ...",
+            "code_ogr": "954",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "6",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les documents m\u00e9dico administratifs et \u00e9changer des informations avec diff\u00e9rents interlocuteurs",
+            "code_ogr": "3037",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "J1507",
+            "libelle_rome_cible": "Soins infirmiers sp\u00e9cialis\u00e9s en pu\u00e9riculture"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec le Dipl\u00f4me d'Etat de Sage-Femme.\nDes formations compl\u00e9mentaires (\u00e9chographie obst\u00e9tricale, hom\u00e9opathie, ...) peuvent \u00eatre requises.\nL'inscription au tableau de l'Ordre des Sages-Femmes est obligatoire.\nL'acc\u00e8s dans les \u00e9tablissements de la fonction publique hospitali\u00e8re s'effectue sur concours sur titre.\nDes vaccinations pr\u00e9vues par le Code de Sant\u00e9 Publique sont exig\u00e9es.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser des examens m\u00e9dicaux :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Echographie obst\u00e9tricale",
+            "code_ogr": "8411",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9l\u00e8vement biologique (prise de sang, frottis, ...)",
+            "code_ogr": "8412",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Informer et conseiller des femmes en situations sp\u00e9cifiques :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accouchement sous X",
+            "code_ogr": "6153",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Interruption th\u00e9rapeutique de grossesse",
+            "code_ogr": "6154",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Interruption Volontaire de Grossesse -IVG.-",
+            "code_ogr": "6155",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Procr\u00e9ation m\u00e9dicalement assist\u00e9e",
+            "code_ogr": "6156",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Intervenir dans un service :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Maternit\u00e9",
+            "code_ogr": "6771",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "N\u00e9onatalogie",
+            "code_ogr": "6773",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Orthog\u00e9nie",
+            "code_ogr": "6774",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Protection Maternelle et Infantile -PMI",
+            "code_ogr": "6777",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Animer des s\u00e9ances de pr\u00e9paration \u00e0 l'accouchement ou \u00e0 la parentalit\u00e9 :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chant pr\u00e9natal",
+            "code_ogr": "3739",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Haptonomie",
+            "code_ogr": "3740",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9paration en piscine",
+            "code_ogr": "3741",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sophrologie",
+            "code_ogr": "3742",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Yoga",
+            "code_ogr": "3743",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller l'\u00e9tat de sant\u00e9 et le d\u00e9veloppement d'un nourrisson et intervenir si n\u00e9cessaire",
+            "code_ogr": "9928",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer et mettre en place un programme de r\u00e9\u00e9ducation post-natale avec la patiente",
+            "code_ogr": "5621",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener des actions de formation au sein d'un organisme",
+            "code_ogr": "7395",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce en cabinet ou au sein de diverses structures (maternit\u00e9, centre de Protection Maternelle et Infantile -PMI-, ...) en contact avec les patientes, les couples et en relation avec diff\u00e9rents intervenants (m\u00e9decins, infirmiers, psychologues, ...).\nL'activit\u00e9 peut s'exercer en horaires d\u00e9cal\u00e9s, les fins de semaine, jours f\u00e9ri\u00e9s, de nuit et \u00eatre soumise \u00e0 des astreintes ou des gardes.\n",
+    "savoir_action": [],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Cabinet m\u00e9dical",
+            "code_ogr": "23750",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Centre de Protection Maternelle et Infantile",
+            "code_ogr": "23774",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement m\u00e9dical (h\u00f4pital, clinique, ...)",
+            "code_ogr": "23922",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisation humanitaire",
+            "code_ogr": "24014",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de relaxation",
+            "code_ogr": "23092",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et d'asepsie",
+            "code_ogr": "22646",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de r\u00e9animation",
+            "code_ogr": "23076",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Grille de codification S\u00e9curit\u00e9 Sociale",
+            "code_ogr": "22012",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Protocoles de lutte contre les infections nosocomiales",
+            "code_ogr": "22501",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de pr\u00e9l\u00e8vement biologique",
+            "code_ogr": "23056",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'examen \u00e9chographique",
+            "code_ogr": "23206",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de r\u00e9\u00e9ducation uro gyn\u00e9cologique (p\u00e9rin\u00e9ale, ...)",
+            "code_ogr": "23086",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de r\u00e9\u00e9ducation abdominale",
+            "code_ogr": "23080",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques p\u00e9dagogiques",
+            "code_ogr": "23253",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise le suivi et l'accompagnement de la femme enceinte tout au long de la grossesse et intervient dans le d\u00e9roulement de l'accouchement et l'accueil du nouveau-n\u00e9.\nPeut organiser des s\u00e9ances de pr\u00e9paration \u00e0 l'accouchement ou mettre en place une r\u00e9\u00e9ducation post-accouchement.\nPeut diriger un cabinet.\n",
+    "intitule": "Suivi de la grossesse et de l'accouchement",
+    "code_ogr": "335",
+    "code_rome": "J1104",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "J1502",
+            "libelle_rome_cible": "Coordination de services m\u00e9dicaux ou param\u00e9dicaux"
+        },
+        {
+            "code_rome_cible": "K1103",
+            "libelle_rome_cible": "D\u00e9veloppement personnel et bien-\u00eatre de la personne"
+        }
+    ]
+}

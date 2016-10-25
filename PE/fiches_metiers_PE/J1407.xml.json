@@ -1,0 +1,294 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Orthoptiste",
+            "priorisation": "1",
+            "libelle": "Orthoptiste",
+            "code_ogr": "17370"
+        },
+        {
+            "libelle_court": "Orthoptiste r\u00e9\u00e9ducateur / r\u00e9\u00e9ducatrice en basse vision",
+            "priorisation": "1",
+            "libelle": "Orthoptiste r\u00e9\u00e9ducateur / r\u00e9\u00e9ducatrice en basse vision",
+            "code_ogr": "17371"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier le besoin du patient et l'informer sur la d\u00e9marche orthoptique (objectifs, \u00e9tapes, ...)",
+            "code_ogr": "2058",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cerner le type de dysfonctionnements (strabisme, non convergence, ...), les difficult\u00e9s (maux de t\u00eate, vision double, ...) et l'environnement du patient",
+            "code_ogr": "792",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "2",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9terminer le besoin de r\u00e9\u00e9ducation orthoptique \u00e0 partir de tests et informer le patient",
+            "code_ogr": "1407",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "3",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer le projet de r\u00e9\u00e9ducation ou de r\u00e9adaptation orthoptique et arr\u00eater les conditions d'intervention selon la situation du patient",
+            "code_ogr": "1735",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Concevoir le programme de la s\u00e9ance d'orthoptie et adapter les exercices selon les r\u00e9actions du patient",
+            "code_ogr": "898",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser le bilan de fin de r\u00e9\u00e9ducation avec la personne et \u00e9changer des informations avec le m\u00e9decin, l'enseignant, ...",
+            "code_ogr": "2789",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "6",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les documents m\u00e9dicoadministratifs de la personne",
+            "code_ogr": "3038",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec le Certificat de Capacit\u00e9 d'Orthoptiste.\nDes formations compl\u00e9mentaires (r\u00e9adaptation du handicap visuel et basse vision, strabologie, posturologie clinique, neuro-ophtalmologie, ...) peuvent \u00eatre requises.\nDes vaccinations pr\u00e9vues par le code de Sant\u00e9 Publique sont exig\u00e9es\n",
+    "activite_specifique": [
+        {
+            "libelle": "Proc\u00e9der \u00e0 des examens visuels :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Electrophysiologie oculaire",
+            "code_ogr": "8105",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablissement de la courbe d'adaptation \u00e0 l'obscurit\u00e9",
+            "code_ogr": "8106",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Exploration du champ visuel (p\u00e9rim\u00e9trie, campim\u00e9trie, ...)",
+            "code_ogr": "8107",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Exploration du sens chromatique",
+            "code_ogr": "8108",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mesure de la tension oculaire",
+            "code_ogr": "8109",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9tinographie",
+            "code_ogr": "8110",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mettre en oeuvre une r\u00e9\u00e9ducation en basse vision (coordination sensori-motrice, m\u00e9moire visuelle, ...) et former un patient \u00e0 l'utilisation d'aides visuelles",
+            "code_ogr": "7466",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Informer et conseiller un patient ou son entourage sur des \u00e9quipements (mat\u00e9riel grossissant, ...), des am\u00e9nagements d'espaces, des \u00e9clairages adapt\u00e9s, ...",
+            "code_ogr": "6158",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener des actions de formation au sein d'un organisme",
+            "code_ogr": "7395",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce en cabinet d'orthoptie, d'ophtalmologie ou au sein d'\u00e9tablissements de soins en relation avec les patients et en lien avec diff\u00e9rents intervenants (p\u00e9diatres, ophtalmologiste, ergoth\u00e9rapeute, opticien, psychologue, ...).\n",
+    "savoir_action": [],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Cabinet d'ophtalmologie",
+            "code_ogr": "23746",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Cabinet d'orthoptie",
+            "code_ogr": "23748",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Centre de sant\u00e9",
+            "code_ogr": "23778",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement m\u00e9dical (h\u00f4pital, clinique, ...)",
+            "code_ogr": "23922",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Neurophysiologie",
+            "code_ogr": "22207",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pathologies d\u00e9g\u00e9n\u00e9ratives",
+            "code_ogr": "22275",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de mesure de l'acuit\u00e9 visuelle",
+            "code_ogr": "22979",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Classification internationale des d\u00e9ficiences",
+            "code_ogr": "21722",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Grille de codification S\u00e9curit\u00e9 Sociale",
+            "code_ogr": "22012",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'exploration visuelle",
+            "code_ogr": "23210",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de r\u00e9\u00e9ducation basse vision",
+            "code_ogr": "23082",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9\u00e9duque ou r\u00e9adapte le syst\u00e8me oculaire de personnes atteintes de troubles de la vision (strabisme, d\u00e9faut de convergence, amblyopie, ...) selon la prescription m\u00e9dicale.\nPeut proc\u00e9der \u00e0 des examens d'exploration visuelle (sens chromatique, champ visuel, ...).\nPeut effectuer une r\u00e9\u00e9ducation en basse vision.\nPeut diriger un cabinet.\n",
+    "intitule": "Orthoptique",
+    "code_ogr": "351",
+    "code_rome": "J1407",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "J1405",
+            "libelle_rome_cible": "Optique - lunetterie"
+        },
+        {
+            "code_rome_cible": "J1502",
+            "libelle_rome_cible": "Coordination de services m\u00e9dicaux ou param\u00e9dicaux"
+        }
+    ]
+}

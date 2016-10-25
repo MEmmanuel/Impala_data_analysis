@@ -1,0 +1,440 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Chef d'atelier en reliure artisanale",
+            "priorisation": "1",
+            "libelle": "Chef d'atelier en reliure artisanale",
+            "code_ogr": "12061"
+        },
+        {
+            "libelle_court": "Conservateur(trice)-restaurateur(trice) de livres",
+            "priorisation": "1",
+            "libelle": "Conservateur-restaurateur / Conservatrice-restauratrice de livres",
+            "code_ogr": "13516"
+        },
+        {
+            "libelle_court": "Relieur / Relieuse d'art",
+            "priorisation": "1",
+            "libelle": "Relieur / Relieuse d'art",
+            "code_ogr": "18499"
+        },
+        {
+            "libelle_court": "Relieur / Relieuse main",
+            "priorisation": "1",
+            "libelle": "Relieur / Relieuse main",
+            "code_ogr": "18500"
+        },
+        {
+            "libelle_court": "Relieur-doreur / Relieuse-doreuse",
+            "priorisation": "1",
+            "libelle": "Relieur-doreur / Relieuse-doreuse",
+            "code_ogr": "18501"
+        },
+        {
+            "libelle_court": "Restaurateur / Restauratrice de livres anciens",
+            "priorisation": "1",
+            "libelle": "Restaurateur / Restauratrice de livres anciens",
+            "code_ogr": "19220"
+        },
+        {
+            "libelle_court": "Restaurateur / Restauratrice de papier",
+            "priorisation": "1",
+            "libelle": "Restaurateur / Restauratrice de papier",
+            "code_ogr": "19223"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "D\u00e9finir les interventions de reliure ou de restauration de livre/document selon son \u00e9tat, son \u00e9poque d'origine, les mat\u00e9riaux utilis\u00e9s et informer le client des conditions de r\u00e9alisation",
+            "code_ogr": "1310",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9barrasser les pages et couvertures de l'ouvrage des salissures et moisissures",
+            "code_ogr": "1219",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser la pla\u00e7ure par d\u00e9montage du livre, r\u00e9paration des fonds de cahiers, mise en place des pages de garde blanches et de couverture",
+            "code_ogr": "2773",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Constituer le corps d'ouvrage (grecquage, couture des cahiers, encollage et endossage du dos, ...)",
+            "code_ogr": "989",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der \u00e0 la couvrure par d\u00e9coupe de gabarit, mise en place de la coiffe et des nerfs, fixation et habillage des cartons de couverture, ...",
+            "code_ogr": "2679",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP \u00e0 Bac+2 (Dipl\u00f4me des M\u00e9tiers d'Art -DMA-) en arts de la reliure et de la dorure, arts graphiques reliure.\nUn Master (dipl\u00f4me de restaurateur du patrimoine, ...) est requis pour les emplois de la restauration d'ouvrages graphiques.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations de restauration/conservation sur des ouvrages :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Parchemins",
+            "code_ogr": "8758",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Archives",
+            "code_ogr": "8756",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Registres (Mairies, ...)",
+            "code_ogr": "8759",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cartes (domaniales, ...)",
+            "code_ogr": "8757",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Affiches",
+            "code_ogr": "8761",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des dorures et des d\u00e9corations en :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Titrage",
+            "code_ogr": "8368",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Filet, fleuron, ...",
+            "code_ogr": "8364",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mosa\u00efque (cuir, ...)",
+            "code_ogr": "8366",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Incrustation de mat\u00e9riaux (m\u00e9tal, ...)",
+            "code_ogr": "8365",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Papier reliure",
+            "code_ogr": "8367",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Transmettre les techniques du m\u00e9tier ou mener des actions de sensibilisation au m\u00e9tier",
+            "code_ogr": "10026",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la gestion comptable et administrative d'une structure",
+            "code_ogr": "3533",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises artisanales, de biblioth\u00e8ques ou d'organismes scientifiques, culturels et du patrimoine (mus\u00e9es, Archives Nationales, ...) parfois en relation avec diff\u00e9rents services internes (biblioth\u00e9caires, conservateurs de mus\u00e9e, ...), avec des clients et divers intervenants externes (fournisseurs, organismes administratifs, ...).\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de massicot",
+            "code_ogr": "21317",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Rognage",
+            "code_ogr": "21089",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Couture manuelle",
+            "code_ogr": "20832",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de presse hydraulique",
+            "code_ogr": "21367",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de fer \u00e0 dorer",
+            "code_ogr": "21204",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de fleuron et empreinte",
+            "code_ogr": "21208",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sertissage d'\u00e9l\u00e9ment de d\u00e9cor",
+            "code_ogr": "21098",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chiffrage/calcul de co\u00fbt",
+            "code_ogr": "20813",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Biblioth\u00e8que, centre de documentation",
+            "code_ogr": "23719",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise artisanale",
+            "code_ogr": "23870",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisme culturel, du patrimoine",
+            "code_ogr": "24016",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Histoire du livre",
+            "code_ogr": "22031",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de d\u00e9montage/remontage de livres",
+            "code_ogr": "22883",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de couture de documents papier",
+            "code_ogr": "22865",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes de conservation pr\u00e9ventive",
+            "code_ogr": "22312",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en chimie",
+            "code_ogr": "21844",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de restauration",
+            "code_ogr": "23102",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de peinture",
+            "code_ogr": "23024",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de dorure \u00e0 la feuille",
+            "code_ogr": "22896",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de dorure au film",
+            "code_ogr": "22898",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de dorure au balancier",
+            "code_ogr": "22897",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise manuellement des op\u00e9rations de valorisation, de protection et de r\u00e9paration de diff\u00e9rents types d'ouvrages en papier, imprim\u00e9s ou manuscrits (livres de bibliophilie, registres, cartes, ...) selon leurs particularit\u00e9s (\u00e9poque, mat\u00e9riaux, ...).\nPeut confectionner des d\u00e9cors de couverture ou restaurer des ouvrages particuliers (cartes, affiches, ...).\nPeut former diff\u00e9rents publics aux techniques de reliure/restauration.\nPeut coordonner une \u00e9quipe et diriger une structure.\n",
+    "intitule": "Reliure et restauration de livres et archives",
+    "code_ogr": "42",
+    "code_rome": "B1402",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "B1302",
+            "libelle_rome_cible": "D\u00e9coration d'objets d'art et artisanaux"
+        },
+        {
+            "code_rome_cible": "B1802",
+            "libelle_rome_cible": "R\u00e9alisation d'articles en cuir et mat\u00e9riaux souples (hors v\u00eatement)"
+        },
+        {
+            "code_rome_cible": "D1201",
+            "libelle_rome_cible": "Achat vente d'objets d'art, anciens ou d'occasion"
+        },
+        {
+            "code_rome_cible": "G1202",
+            "libelle_rome_cible": "Animation d'activit\u00e9s culturelles ou ludiques"
+        },
+        {
+            "code_rome_cible": "H2208",
+            "libelle_rome_cible": "R\u00e9alisation d'ouvrages d\u00e9coratifs en bois"
+        },
+        {
+            "code_rome_cible": "K1602",
+            "libelle_rome_cible": "Gestion de patrimoine culturel"
+        }
+    ]
+}

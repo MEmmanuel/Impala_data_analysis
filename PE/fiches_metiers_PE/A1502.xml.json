@@ -1,0 +1,390 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Mar\u00e9chal-ferrant / Mar\u00e9chale-ferrant",
+            "priorisation": "1",
+            "libelle": "Mar\u00e9chal-ferrant / Mar\u00e9chale-ferrant",
+            "code_ogr": "16390"
+        },
+        {
+            "libelle_court": "Pareur / Pareuse d'onglon",
+            "priorisation": "1",
+            "libelle": "Pareur / Pareuse d'onglon",
+            "code_ogr": "17559"
+        },
+        {
+            "libelle_court": "P\u00e9dicure pour bovin",
+            "priorisation": "1",
+            "libelle": "P\u00e9dicure pour bovin",
+            "code_ogr": "17604"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier avec le client le type d'intervention (ferrage traditionnel, orthop\u00e9dique, ...) et en d\u00e9finir les modalit\u00e9s (co\u00fbt, date de rendez-vous, ...)",
+            "code_ogr": "2011",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Rep\u00e9rer les affections du pied de l'animal (boiterie, douleur, abc\u00e8s, ...) et proc\u00e9der \u00e0 son immobilisation pour l'intervention",
+            "code_ogr": "3091",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9ferer le pied de l'animal, tailler la corne (fourchette, paroi, sole du pied) et limer le sabot",
+            "code_ogr": "1241",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9lectionner le fer en fonction de la mobilit\u00e9, de l'effort et de la morphologie de l'animal et le former d'apr\u00e8s l'empreinte",
+            "code_ogr": "3150",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Fixer par brochage, clouage le fer au pied de l'animal, contr\u00f4ler son aplomb (absence de boiterie, ...) et proc\u00e9der aux ajustements n\u00e9cessaires",
+            "code_ogr": "1988",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Informer et conseiller sur le type de ferrure, les produits de soin, le besoin de consultation v\u00e9t\u00e9rinaire (prescription de m\u00e9dicaments, ...)",
+            "code_ogr": "2190",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "6",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "B1601",
+            "libelle_rome_cible": "M\u00e9tallerie d'art"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un CAP/BEP Agricole ou un Brevet Technique des M\u00e9tiers en mar\u00e9chalerie.\nLe permis B et un v\u00e9hicule (v\u00e9hicule atelier, ...) sont requis.\nLes vaccinations anti-t\u00e9tanique et anti-rabique peuvent \u00eatre requises.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser et/ou poser une ferrure :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Orthop\u00e9dique",
+            "code_ogr": "9149",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pathologique",
+            "code_ogr": "9150",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Th\u00e9rapeutique",
+            "code_ogr": "9151",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ferrer ou r\u00e9aliser le parage de :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Anes, mulets",
+            "code_ogr": "5999",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chevaux d'endurance (raids, ...), d'attelage",
+            "code_ogr": "6002",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chevaux de course",
+            "code_ogr": "6000",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chevaux de trait",
+            "code_ogr": "6001",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Taureaux",
+            "code_ogr": "6003",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Trotteurs, purs-sangs, poneys",
+            "code_ogr": "6004",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Vaches, boeufs",
+            "code_ogr": "6005",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des ferrures \u00e0 partir de barres de m\u00e9tal (lopin)",
+            "code_ogr": "8415",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Transmettre les techniques du m\u00e9tier ou mener des actions de sensibilisation au m\u00e9tier",
+            "code_ogr": "10026",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la gestion comptable et administrative d'une structure",
+            "code_ogr": "3533",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce chez des \u00e9leveurs, au sein d'entreprises de mar\u00e9chalerie, de structures militaires (Garde R\u00e9publicaine), en contact avec les animaux, leurs propri\u00e9taires et les v\u00e9t\u00e9rinaires. Elle implique de fr\u00e9quents d\u00e9placements et des interventions sur site (particuliers, haras, centres \u00e9questres, ...).\nL'activit\u00e9 s'effectue \u00e0 l'ext\u00e9rieur, en \u00e9curie.\nLe port d'\u00e9quipements de protection (tablier, gants,...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de forge",
+            "code_ogr": "21326",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils manuels (r\u00e2pe, rogne, pied, brochoir, boutoir, tri\u00e7oire, repoussoir, ...)",
+            "code_ogr": "21459",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de contention",
+            "code_ogr": "21321",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soudage",
+            "code_ogr": "21100",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Centre \u00e9questre / Club hippique",
+            "code_ogr": "23787",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ferme d'\u00e9levage",
+            "code_ogr": "23938",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Haras",
+            "code_ogr": "23956",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Mar\u00e9chalerie",
+            "code_ogr": "23546",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Anatomie animale",
+            "code_ogr": "21506",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de contention animale",
+            "code_ogr": "22852",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de parage de sabot",
+            "code_ogr": "23018",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de ferrage (\u00e0 froid, \u00e0 chaud)",
+            "code_ogr": "22907",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des fers (\u00e9tampures, tournures, ...)",
+            "code_ogr": "21587",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en pathologies animales",
+            "code_ogr": "21899",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9",
+            "code_ogr": "22648",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation sanitaire",
+            "code_ogr": "22579",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'approche et de manipulation des animaux",
+            "code_ogr": "22825",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9d\u00e9s de formage",
+            "code_ogr": "22351",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nEntretient le pied (sabot, onglon) des chevaux ou des bovins afin de garantir l'aplomb et la sant\u00e9 de l'animal selon ses besoins et caract\u00e9ristiques et les r\u00e8gles de s\u00e9curit\u00e9 et d'hygi\u00e8ne.\nPeut poser des ferrures pathologiques ou th\u00e9rapeutiques. Peut fa\u00e7onner le fer en totalit\u00e9.\nPeut diriger une structure.\n",
+    "intitule": "Podologie animale",
+    "code_ogr": "33",
+    "code_rome": "A1502",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "A1407",
+            "libelle_rome_cible": "\u00c9levage bovin ou \u00e9quin"
+        },
+        {
+            "code_rome_cible": "A1501",
+            "libelle_rome_cible": "Aide aux soins animaux"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ]
+}

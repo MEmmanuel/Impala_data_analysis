@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">professeur/e d'éducation physique et sportive</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">m'occuper d'enfants ou d'adolescents/faire du sport/enseigner, éduquer/animer des activités culturelles, ludiques ou éducatives</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur de l'éducation/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">sport/enseignement - formation</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit/professeur d'éducation physique</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10209</lien_onisep>
+<ROME Level="1B" csRelFld="10209">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="500" csRelFld="500">
+<CSLABELFLD label="">K2107</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Formation initiale et continue</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K2107</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Enseignement général du second degré</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10209">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16776" csRelFld="16776">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16776</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10209</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Initier les élèves à différents sports</inter>
+<p>Football, volley, gymnastique, badminton, athlétisme, natation... Des sports collectifs aux sports individuels, en salle ou en plein air, celui que l'on appelle encore « le prof de gym » maîtrise l'organisation matérielle, les règles et l'arbitrage d'un large éventail de disciplines auxquelles il doit initier ses élèves dans les collèges et les lycées.</p>
+<inter>Transmettre des valeurs civiques</inter>
+<p>C'est un sportif, mais c'est un enseignant avant tout. Son rôle ne se cantonne pas au choix d'un sport et à l'encadrement d'une activité, sifflet à la bouche. À lui de développer les capacités motrices de ses élèves, mais aussi leur sens de l'initiative, du respect des règles et leur esprit d'équipe.</p>
+<inter>Encadrer des activités extrascolaires</inter>
+<p>En plus de ses heures de cours hebdomadaires, le professeur d'EPS consacre du temps à l'animation des activités sportives extrascolaires de son établissement. Enfin, comme ses collègues, il peut être professeur principal de l'une de ses classes. D'autres missions s'ajoutent alors à ses responsabilités : développer des contacts avec les familles (notamment au sujet de l'orientation des élèves), organiser les conseils de classe&#8230;</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16554" csRelFld="16554">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16554</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10209</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Concours obligatoire. Il en existe deux : </p>
+<p>- le CAPEPS (certificat d'aptitude au professorat d'éducation physique et sportive), accessible en 1<exp>re</exp> année de master (bac + 4), et l'agrégation, après le master (bac + 5). Il est recommandé de choisir un master MEEF métiers de l'enseignement, de l'éducation et de la formation 2nd degré pour se préparer au CAPEPS. Une fois le concours réussi, le professeur stagiaire suit une formation en alternance en 2ème année de master qui se déroule à temps partiel dans un établissement. La titularisation est soumise à la validation des compétences du M2. </p>
+<p>- Pour les professeurs d'EPS de la Ville de Paris, il faut une licence STAPS et un master.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master métiers de l'enseignement, de l'éducation et de la formation 2nd degré</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16778" csRelFld="16778">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16778</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10209</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un nombre de postes limité chaque année</inter>
+<p>Après plusieurs années de baisse, le nombre de postes tend à augmenter. En 2016, en effet, 820 postes sont ouverts au concours externe. Ponctuellement, la mairie de Paris recrute aussi quelques professeurs d'EPS.</p>
+<inter>Évoluer en passant des concours</inter>
+<p>S'il désire évoluer, voire changer d'activité, le professeur d'EPS peut passer des concours internes qui conduisent à des postes de chef d'établissement. Certains postes relevant du secrétariat d'État aux Sports ou des collectivités territoriales sont également accessibles. Enfin, les emplois de conseiller technique au sein des fédérations sportives offrent une autre voie de reconversion.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2000</sal> (pour un certifié) à 2250 euros (pour un agrégé) brut par mois.</p>
+<postit>
+<p>Source : ministère de l'Éducation nationale, 2011.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

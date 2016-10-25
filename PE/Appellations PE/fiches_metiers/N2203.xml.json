@@ -1,0 +1,564 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente de chargement fret a\u00e9rien -handler-",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de chargement fret a\u00e9rien -handler-",
+            "code_ogr": "10398"
+        },
+        {
+            "libelle_court": "Agent / Agente de handling",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de handling",
+            "code_ogr": "10465"
+        },
+        {
+            "libelle_court": "Agent / Agente de piste a\u00e9roportuaire",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de piste a\u00e9roportuaire",
+            "code_ogr": "10542"
+        },
+        {
+            "libelle_court": "Agent(e) piste d'a\u00e9ronautique ou de pont d'envol de l'arm\u00e9e",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de piste d'a\u00e9ronautique ou de pont d'envol de l'arm\u00e9e",
+            "code_ogr": "10543"
+        },
+        {
+            "libelle_court": "Agent / Agente de service avion",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de service avion",
+            "code_ogr": "10603"
+        },
+        {
+            "libelle_court": "Assistant / Assistante avion",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante avion",
+            "code_ogr": "11195"
+        },
+        {
+            "libelle_court": "Assistant / Assistante de piste a\u00e9roportuaire",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante de piste a\u00e9roportuaire",
+            "code_ogr": "11242"
+        },
+        {
+            "libelle_court": "Bagagiste a\u00e9roportuaire",
+            "priorisation": "1",
+            "libelle": "Bagagiste a\u00e9roportuaire",
+            "code_ogr": "11482"
+        },
+        {
+            "libelle_court": "Chargeur / Chargeuse d'avion",
+            "priorisation": "1",
+            "libelle": "Chargeur / Chargeuse d'avion",
+            "code_ogr": "11946"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe agents de piste a\u00e9roportuaire",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe agents de piste a\u00e9roportuaire",
+            "code_ogr": "12389"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe assistant / assistante avion",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe assistant / assistante avion",
+            "code_ogr": "12390"
+        },
+        {
+            "libelle_court": "Pushiste avion",
+            "priorisation": "1",
+            "libelle": "Pushiste avion",
+            "code_ogr": "18256"
+        },
+        {
+            "libelle_court": "Ramp handler",
+            "priorisation": "1",
+            "libelle": "Ramp handler",
+            "code_ogr": "18286"
+        },
+        {
+            "libelle_court": "Tractiste avion",
+            "priorisation": "1",
+            "libelle": "Tractiste avion",
+            "code_ogr": "20403"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "V\u00e9rifier la s\u00e9curisation des aires de roulement ou de stationnement des a\u00e9ronefs",
+            "code_ogr": "3430",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer le mat\u00e9riel (balises, cales) et les \u00e9quipements (rampe passagers, ...) en fonction du type de l'appareil et du chargement",
+            "code_ogr": "2599",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la s\u00e9curisation des a\u00e9ronefs sur les aires de stationnement, les dispositifs de s\u00e9curit\u00e9 et signaler tout dysfonctionnement",
+            "code_ogr": "1537",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Charger/d\u00e9charger des soutes et arrimer/caler les bagages, conteneurs et vrac en coordination avec des \u00e9quipiers",
+            "code_ogr": "815",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser le tri des bagages, du fret et des sacs postaux en soute, sur piste ou en galerie, selon leur destination",
+            "code_ogr": "2815",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier l'application des r\u00e8gles de circulation sur les zones de stationnement et de roulement par les intervenants de la piste et signaler tout dysfonctionnement",
+            "code_ogr": "3433",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "G1702",
+            "libelle_rome_cible": "Personnel du hall"
+        },
+        {
+            "code_rome_cible": "N1101",
+            "libelle_rome_cible": "Conduite d'engins de d\u00e9placement des charges"
+        },
+        {
+            "code_rome_cible": "N1103",
+            "libelle_rome_cible": "Magasinage et pr\u00e9paration de commandes"
+        },
+        {
+            "code_rome_cible": "N1105",
+            "libelle_rome_cible": "Manutention manuelle de charges"
+        },
+        {
+            "code_rome_cible": "N4104",
+            "libelle_rome_cible": "Courses et livraisons express"
+        },
+        {
+            "code_rome_cible": "N4403",
+            "libelle_rome_cible": "Manoeuvre du r\u00e9seau ferr\u00e9"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle.\nUn CAP/BEP ou des formations en transport a\u00e9rien (assistant de piste, assistant avion, ...) peu(ven)t en faciliter l'acc\u00e8s.\nUn ou plusieurs Certificat(s) d'Aptitude \u00e0 la Conduite en S\u00e9curit\u00e9 -CACES- conditionn\u00e9(s) par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement peu(ven)t \u00eatre demand\u00e9(s).\nDes permis/habilitations sp\u00e9cifiques sont requis pour la circulation sur les pistes et le maniement de mat\u00e9riel ou d'\u00e9quipements particuliers (rampe mobile, \u00e9l\u00e9vateur \u00e0 fourche, ...).\nUn casier judiciaire exempt de toute mention contradictoire est obligatoire.\nLa pratique de l'anglais (vocabulaire technique) est exig\u00e9e pour le guidage des a\u00e9ronefs sur les pistes.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Convoyer sur les pistes ou installer aux abords des a\u00e9ronefs du mat\u00e9riel n\u00e9cessitant une autorisation/habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Camion-\u00e9l\u00e9vateur",
+            "code_ogr": "4277",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "El\u00e9vateur \u00e0 fourche",
+            "code_ogr": "4278",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Escabeau auto-tract\u00e9",
+            "code_ogr": "4279",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Passerelle t\u00e9lescopique",
+            "code_ogr": "4280",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Plate-forme \u00e9l\u00e9vatrice",
+            "code_ogr": "4281",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Push/push back/tracteur-avion",
+            "code_ogr": "4282",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Rampe mobile",
+            "code_ogr": "4283",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tapis bagages",
+            "code_ogr": "4284",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tracteur bagages/chariot vrac/conteneur",
+            "code_ogr": "4285",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-1 (Transpalettes \u00e0 conducteur port\u00e9 et pr\u00e9parateurs de commandes au sol)",
+            "code_ogr": "10122",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-2 (Chariots tracteurs et \u00e0 plateau porteur de capacit\u00e9 inf\u00e9rieure \u00e0 6 000 kg)",
+            "code_ogr": "10123",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-3 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 inf\u00e9rieure ou \u00e9gale \u00e0 6000 kg)",
+            "code_ogr": "10124",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-4 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 sup\u00e9rieure \u00e0 6000 kg)",
+            "code_ogr": "10125",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-5 (Chariots \u00e9l\u00e9vateurs \u00e0 m\u00e2t r\u00e9tractable)",
+            "code_ogr": "10126",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-6 (D\u00e9placement, chargement, transfert de chariots sans activit\u00e9 de production (maintenance, d\u00e9monstration, essais)",
+            "code_ogr": "10127",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Installer des \u00e9quipements pour le ravitaillement/vidange n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Avitailleur carburant",
+            "code_ogr": "6191",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Groupe \u00e9lectrog\u00e8ne",
+            "code_ogr": "6192",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pompe vidange eaux us\u00e9es, ravitaillement eau potable",
+            "code_ogr": "6193",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Unit\u00e9 air conditionn\u00e9/unit\u00e9 de d\u00e9but d'air (Air Start Unit -ASU-)",
+            "code_ogr": "6194",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der \u00e0 l'assistance au stationnement des a\u00e9ronefs et au guidage du pilote (d\u00e9part au casque)",
+            "code_ogr": "8137",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les manoeuvres d'accrochage/d\u00e9crochage d'avions au v\u00e9hicule de tractage et convoyer des a\u00e9ronefs sur l'aire de roulement",
+            "code_ogr": "5403",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la r\u00e9alisation d'op\u00e9rations d'avitaillement/chargement et renseigner les documents correspondants",
+            "code_ogr": "4228",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de compagnies a\u00e9riennes, de gestionnaires d'a\u00e9roport, de soci\u00e9t\u00e9s d'assistance a\u00e9roportuaire ou de l'arm\u00e9e, en contact avec diff\u00e9rents intervenants (agent de trafic, agent d'armement h\u00f4telier -catering-, avitailleur avion, ...).\nL'activit\u00e9 peut s'exercer par roulement, les fins de semaine, jours f\u00e9ri\u00e9s ou de nuit.\nL'activit\u00e9 s'effectue sur pistes a\u00e9roportuaires, en environnement bruyant et peut impliquer le port r\u00e9p\u00e9titif de charges.\nLe port d'\u00e9quipements de protection (casque, chaussures de s\u00e9curit\u00e9, gants, gilet fluorescent, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de signalisation et de s\u00e9curit\u00e9 (balise, panneaux, ...)",
+            "code_ogr": "21334",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Interpr\u00e9tation de donn\u00e9es techniques",
+            "code_ogr": "20919",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de codes et symboles",
+            "code_ogr": "20935",
+            "position_item": "3",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "A\u00e9roport",
+            "code_ogr": "23682",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Compagnie a\u00e9rienne",
+            "code_ogr": "23819",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 d'assistance a\u00e9roportuaire",
+            "code_ogr": "24077",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "En ext\u00e9rieur",
+            "code_ogr": "23378",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Organisation et fonctionnement de site a\u00e9roportuaire",
+            "code_ogr": "22257",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00fbret\u00e9 a\u00e9roportuaire",
+            "code_ogr": "22638",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de circulation sur piste a\u00e9roportuaire",
+            "code_ogr": "22598",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques techniques des a\u00e9ronefs",
+            "code_ogr": "21693",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Terminologie a\u00e9ronautique (IATA, alphabet a\u00e9ronautique, ...)",
+            "code_ogr": "23272",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de branchement/d\u00e9branchement des \u00e9quipements",
+            "code_ogr": "22592",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'avitaillement carburant",
+            "code_ogr": "22383",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de radiocommunication",
+            "code_ogr": "22424",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestuelle de communication avec le personnel de piste",
+            "code_ogr": "22005",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de v\u00e9rification du chargement",
+            "code_ogr": "22449",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise le chargement/d\u00e9chargement (bagages, fret, ...), l'avitaillement (\u00e9nergie, air, eau) et l'assistance au d\u00e9placement des a\u00e9ronefs sur les aires de circulation (r\u00e9ception/d\u00e9part avions), selon les r\u00e8gles de s\u00e9curit\u00e9 et de s\u00fbret\u00e9 a\u00e9roportuaires et les imp\u00e9ratifs de service (co\u00fbt, d\u00e9lais, qualit\u00e9).\nPeut manoeuvrer des engins particuliers (push, passerelles, v\u00e9hicules l\u00e9gers, ...) sur les pistes d'a\u00e9roport.\nPeut animer une \u00e9quipe de piste.\n",
+    "intitule": "Exploitation des pistes a\u00e9roportuaires",
+    "code_ogr": "514",
+    "code_rome": "N2203",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "K2503",
+            "libelle_rome_cible": "S\u00e9curit\u00e9 et surveillance priv\u00e9es"
+        },
+        {
+            "code_rome_cible": "N1102",
+            "libelle_rome_cible": "D\u00e9m\u00e9nagement"
+        },
+        {
+            "code_rome_cible": "N1104",
+            "libelle_rome_cible": "Manoeuvre et conduite d'engins lourds de manutention"
+        },
+        {
+            "code_rome_cible": "N2201",
+            "libelle_rome_cible": "Personnel d'escale a\u00e9roportuaire"
+        }
+    ]
+}

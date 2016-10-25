@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e en construction navale</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe/faire de la recherche/concevoir, utiliser des technologies industrielles de pointe/fabriquer, construire</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction études développement industriel /fonction organisation de la production industrielle/fonction méthodes industrialisation/fonction recherche appliquée</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur construction navale</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">industrie navale</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE pêche mer aquaculture/ingénieur en construction naval</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10390</lien_onisep>
+<ROME Level="1B" csRelFld="10390">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10390">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1398" csRelFld="1398">
+<CSLABELFLD label="">inspecteur / inspectrice des douanes spécialiste en maintenance navale</CSLABELFLD>
+<MET_ID label="Identifiant">10390</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">25/10/2013</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1398</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">inspecteur/trice des douanes spécialiste en maintenance navale</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1398">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18471" csRelFld="18471">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18471</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10390</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Seul ou à plusieurs</inter>
+<p>Selon la taille du navire, un ou plusieurs ingénieurs participent à sa conception et à sa fabrication. L'ingénieur en recherche et développement apporte des solutions aux problèmes techniques soulevés par l'architecte naval, et travaille avec les ingénieurs du service ingénierie chargés de réaliser des devis et des plans.</p>
+<inter>À chacun son rôle</inter>
+<p>Le contrat signé, les ingénieurs du service études entrent en action. À partir d'un dessin, le spécialiste en structures métalliques définit l'épaisseur de la coque et les renforts nécessaires ; un autre travaille sur les accessoires (treuils, ancre...) ; un troisième va s'intéresser à l'acoustique, à la ventilation, au conditionnement d'air...</p>
+<inter>Une affaire de spécialistes</inter>
+<p>Pour la partie machines, les spécialistes en mécanique, thermique, énergie mettent au point les équipements techniques de propulsion, de production et de distribution d'électricité. Ils étudient également les éclairages et la sonorisation. Ensuite, c'est aux ingénieurs de production de concrétiser tout ce qui a été conçu. Pendant ce temps, un dernier professionnel se charge du plan prévisionnel qui permet d'assurer l'ordonnancement du chantier et sa logistique.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18479" csRelFld="18479">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18479</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10390</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Après un bac S, cap sur une école d'ingénieurs. Cependant, de nombreux ingénieurs en construction navale débutent sans être forcément passés par une école spécialisée. Il existe aussi des formations appréciées par la profession. On peut citer l'Ensta à Paris, l'Ensta Bretagne, l'École centrale de Nantes, l'École navale de Brest, SeaTech à Toulon...</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18477" csRelFld="18477">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18477</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10390</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Petits et grands chantiers</inter>
+<p>Si les grands chantiers de construction navale représentent les débouchés les plus visibles, l'ingénieur peut être employé dans de plus petites structures de fabrication pour la pêche ou chez des constructeurs pour la plaisance, en Vendée et en Bretagne. DCNS constitue le plus gros employeur pour la construction navale militaire.</p>
+<inter>Un métier évolutif</inter>
+<p>La progression de carrière des diplômés d'une grande école est assurée au sein des bureaux d'études ou des usines de fabrication. Ils peuvent passer d'un service à l'autre, changer de spécialité et connaître ainsi parfaitement le produit et l'entreprise.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Variable en fonction du lieu d'exercice et du type d'entreprise.</p>
+<postit>
+<p>Non communiquée.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

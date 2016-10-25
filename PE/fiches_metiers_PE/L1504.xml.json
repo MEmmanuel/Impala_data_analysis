@@ -1,0 +1,565 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Assistant / Assistante lumi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante lumi\u00e8re",
+            "code_ogr": "38469"
+        },
+        {
+            "libelle_court": "Chef \u00e9clairagiste",
+            "priorisation": "1",
+            "libelle": "Chef \u00e9clairagiste",
+            "code_ogr": "12562"
+        },
+        {
+            "libelle_court": "Chef \u00e9lectricien / \u00e9lectricienne spectacle",
+            "priorisation": "1",
+            "libelle": "Chef \u00e9lectricien / \u00e9lectricienne spectacle",
+            "code_ogr": "12564"
+        },
+        {
+            "libelle_court": "Concepteur / Conceptrice lumi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Concepteur / Conceptrice lumi\u00e8re",
+            "code_ogr": "12830"
+        },
+        {
+            "libelle_court": "Cr\u00e9ateur / Cr\u00e9atrice lumi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Cr\u00e9ateur / Cr\u00e9atrice lumi\u00e8re",
+            "code_ogr": "13839"
+        },
+        {
+            "libelle_court": "Eclairagiste",
+            "priorisation": "1",
+            "libelle": "Eclairagiste",
+            "code_ogr": "14559"
+        },
+        {
+            "libelle_court": "Electricien / Electricienne de plateau",
+            "priorisation": "1",
+            "libelle": "Electricien / Electricienne de plateau",
+            "code_ogr": "14626"
+        },
+        {
+            "libelle_court": "Electricien / Electricienne jeu d'orgues",
+            "priorisation": "1",
+            "libelle": "Electricien / Electricienne jeu d'orgues",
+            "code_ogr": "14638"
+        },
+        {
+            "libelle_court": "Electricien / Electricienne spectacle",
+            "priorisation": "1",
+            "libelle": "Electricien / Electricienne spectacle",
+            "code_ogr": "14642"
+        },
+        {
+            "libelle_court": "Electricien(ne)-\u00e9clairagiste spectacle",
+            "priorisation": "1",
+            "libelle": "Electricien-\u00e9clairagiste / Electricienne-\u00e9clairagiste spectacle",
+            "code_ogr": "14645"
+        },
+        {
+            "libelle_court": "Groupiste/groupman / Groupiste/groupwoman",
+            "priorisation": "1",
+            "libelle": "Groupiste/groupman / Groupiste/groupwoman",
+            "code_ogr": "15431"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice poursuite",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice poursuite",
+            "code_ogr": "17253"
+        },
+        {
+            "libelle_court": "Poursuiteur / Poursuiteuse",
+            "priorisation": "1",
+            "libelle": "Poursuiteur / Poursuiteuse",
+            "code_ogr": "17956"
+        },
+        {
+            "libelle_court": "Pupitreur / Pupitreuse image",
+            "priorisation": "1",
+            "libelle": "Pupitreur / Pupitreuse image",
+            "code_ogr": "38470"
+        },
+        {
+            "libelle_court": "Pupitreur / Pupitreuse r\u00e9gie lumi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Pupitreur / Pupitreuse r\u00e9gie lumi\u00e8re",
+            "code_ogr": "38861"
+        },
+        {
+            "libelle_court": "Pupitreur / Pupitreuse spectacle",
+            "priorisation": "1",
+            "libelle": "Pupitreur / Pupitreuse spectacle",
+            "code_ogr": "18253"
+        },
+        {
+            "libelle_court": "R\u00e9gisseur / R\u00e9gisseuse lumi\u00e8re",
+            "priorisation": "1",
+            "libelle": "R\u00e9gisseur / R\u00e9gisseuse lumi\u00e8re",
+            "code_ogr": "18424"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne lumi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne lumi\u00e8re",
+            "code_ogr": "20190"
+        },
+        {
+            "libelle_court": "Vid\u00e9o-jockey",
+            "priorisation": "1",
+            "libelle": "Vid\u00e9o-jockey",
+            "code_ogr": "38824"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier les caract\u00e9ristiques du lieu de l'\u00e9v\u00e8nement et v\u00e9rifier les conditions d'implantation du mat\u00e9riel d'\u00e9clairage",
+            "code_ogr": "2096",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9lectionner le mat\u00e9riel d'\u00e9clairage pour les effets de lumi\u00e8res \u00e0 partir de la fiche technique et d\u00e9terminer les besoins en achat ou location",
+            "code_ogr": "3154",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Monter le mat\u00e9riel d'\u00e9clairage selon les priorit\u00e9s d'implantation et l'avancement des d\u00e9cors et tester le c\u00e2blage et les branchements",
+            "code_ogr": "2375",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9gler les projecteurs fixes ou mobiles en fonction des ambiances d\u00e9finies",
+            "code_ogr": "2992",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Programmer la conduite lumi\u00e8re et tester les \u00e9tats lumineux dans les conditions du spectacle",
+            "code_ogr": "2724",
+            "code_type_activite": "2",
+            "riasec_majeur": "A",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien et la maintenance de premier niveau du mat\u00e9riel d'\u00e9clairage",
+            "code_ogr": "1599",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau Bac \u00e0 Bac +2 (L2, DUT, BTS, ...) en \u00e9clairage spectacle.\nIl est \u00e9galement accessible avec un CAP/BEP en \u00e9lectricit\u00e9 compl\u00e9t\u00e9 par une exp\u00e9rience professionnelle dans le spectacle.\nLes recrutements sont ouverts sur contrat de travail \u00e0 dur\u00e9e d\u00e9termin\u00e9e d'usage, parfois sur contrat \u00e0 dur\u00e9e ind\u00e9termin\u00e9e.\nUne habilitation aux risques d'origine \u00e9lectrique est requise.\nUn ou plusieurs Certificat(s) d'Aptitude \u00e0 la Conduite en S\u00e9curit\u00e9 -CACES- conditionn\u00e9(s) par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement peu(ven)t \u00eatre requis.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 386 (Plates-formes \u00e9l\u00e9vatrices mobiles de personnes)",
+            "code_ogr": "10120",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-1 (Transpalettes \u00e0 conducteur port\u00e9 et pr\u00e9parateurs de commandes au sol)",
+            "code_ogr": "10122",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-2 (Chariots tracteurs et \u00e0 plateau porteur de capacit\u00e9 inf\u00e9rieure \u00e0 6 000 kg)",
+            "code_ogr": "10123",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-3 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 inf\u00e9rieure ou \u00e9gale \u00e0 6000 kg)",
+            "code_ogr": "10124",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-6 (D\u00e9placement, chargement, transfert de chariots sans activit\u00e9 de production (maintenance, d\u00e9monstration, essais)",
+            "code_ogr": "10127",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des interventions n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation \u00e9lectrique, travaux hors tension (B0, B0V, B1 B1V, H0, ...)",
+            "code_ogr": "8481",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation \u00e9lectrique, travaux sous tension (B1T, BN, BR, H1T, ...)",
+            "code_ogr": "8482",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Charger/d\u00e9charger le mat\u00e9riel au moyen de nacelles",
+            "code_ogr": "3870",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Concevoir et d\u00e9finir les lumi\u00e8res (effets, ambiances, couleurs, ...) d'un spectacle selon les indications d'un metteur en sc\u00e8ne, chor\u00e9graphe",
+            "code_ogr": "3993",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Piloter une console et lancer les effets de lumi\u00e8res durant un spectacle",
+            "code_ogr": "7819",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et \u00e9clairer des com\u00e9diens, des chanteurs, des danseurs, ... avec une poursuite",
+            "code_ogr": "9709",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir les commandes de mat\u00e9riel d'\u00e9clairage, de consommables, d'outillages, ... selon les besoins d'un spectacle, d'un tournage, ...",
+            "code_ogr": "5829",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Former des employ\u00e9s aux techniques du m\u00e9tier",
+            "code_ogr": "4764",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce pour des soci\u00e9t\u00e9s de production, des compagnies sur des lieux de tournage (cin\u00e9ma, t\u00e9l\u00e9vision), de spectacle (th\u00e9\u00e2tre, op\u00e9ra, concert, ...) en coordination avec des \u00e9quipes techniques (d\u00e9cors, son, machinerie,...) et en contact avec diff\u00e9rents intervenants (r\u00e9alisation, production, ...).\nElle peut impliquer des d\u00e9placements (tourn\u00e9es, reportages, tournages, ...).\nElle varie selon le secteur (spectacle vivant, cin\u00e9ma, audiovisuel) et le degr\u00e9 d'informatisation et d'automatisation du mat\u00e9riel.\nL'activit\u00e9 est soumise au rythme de la programmation des spectacles et des tournages.\nL'activit\u00e9 peut s'effectuer en r\u00e9gie, \u00e0 l'ext\u00e9rieur, en hauteur et impliquer des passages de passerelles.\nLe port d'\u00e9quipements de protection (harnais, gants) peut \u00eatre requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de fiche technique",
+            "code_ogr": "20943",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9alisation de noeud d'accrochage",
+            "code_ogr": "21068",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils de mesure \u00e9lectrique (multim\u00e8tre, ...)",
+            "code_ogr": "21156",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de feuille de patch",
+            "code_ogr": "20941",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outillages manuels (cl\u00e9, pince, scie, ...)",
+            "code_ogr": "21465",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Conception et de Dessin Assist\u00e9s par Ordinateur -CAO/DAO-",
+            "code_ogr": "21249",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Cirque",
+            "code_ogr": "23805",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Compagnie artistique (th\u00e9\u00e2tre, danse, arts de la rue, ...)",
+            "code_ogr": "23821",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Parc de loisirs",
+            "code_ogr": "24029",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Salle de spectacles",
+            "code_ogr": "24059",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de production audiovisuelle, cin\u00e9matographique",
+            "code_ogr": "24086",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de production de spectacles",
+            "code_ogr": "24087",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Studio de photographie",
+            "code_ogr": "24113",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Village vacances",
+            "code_ogr": "24128",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Audiovisuel",
+            "code_ogr": "23409",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Cin\u00e9ma",
+            "code_ogr": "23441",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ev\u00e8nementiel",
+            "code_ogr": "23487",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Mode",
+            "code_ogr": "23562",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Publicit\u00e9",
+            "code_ogr": "23603",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Spectacle vivant",
+            "code_ogr": "23639",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Tourisme",
+            "code_ogr": "23652",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Normes de s\u00e9curit\u00e9",
+            "code_ogr": "22221",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des mat\u00e9riels d'\u00e9clairage",
+            "code_ogr": "21612",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electricit\u00e9",
+            "code_ogr": "21825",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de c\u00e2blage",
+            "code_ogr": "22820",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Types de projecteurs",
+            "code_ogr": "23331",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Types d'ambiances",
+            "code_ogr": "23305",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Programmation de machine \u00e0 commandes num\u00e9riques",
+            "code_ogr": "22486",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en \u00e9lectrotechnique",
+            "code_ogr": "21864",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Terminologie de la lumi\u00e8re",
+            "code_ogr": "23275",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Colorim\u00e9trie",
+            "code_ogr": "21734",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise l'installation et le c\u00e2blage du mat\u00e9riel d'\u00e9clairage de spectacles, de tournages, ..., la programmation et les r\u00e9glages de la conduite lumi\u00e8re, selon la r\u00e9glementation s\u00e9curit\u00e9 et les imp\u00e9ratifs de la production (programmation, budgets, ...).\nEffectue l'entretien et la maintenance du mat\u00e9riel d'\u00e9clairage.\nPeut concevoir les lumi\u00e8res d'un spectacle.\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "\u00c9clairage spectacle",
+    "code_ogr": "450",
+    "code_rome": "L1504",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "F1602",
+            "libelle_rome_cible": "\u00c9lectricit\u00e9 b\u00e2timent"
+        },
+        {
+            "code_rome_cible": "L1509",
+            "libelle_rome_cible": "R\u00e9gie g\u00e9n\u00e9rale"
+        }
+    ]
+}

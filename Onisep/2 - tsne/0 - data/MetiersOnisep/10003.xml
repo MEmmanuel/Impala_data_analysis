@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">agenceur/euse de cuisines et salles de bains</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">fabriquer, construire/me déplacer souvent/exercer un travail manuel/faire du dessin</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">artisan/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conception /fonction fabrication artisanale/fonction installation</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur second oeuvre bâtiment/secteur industrie de l'ameublement</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">agencement/ameublement/menuiserie/bois</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE bâtiment équipements et finitions/agenceur de salle-de-bains/agenceur de cuisine</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10003</lien_onisep>
+<ROME Level="1B" csRelFld="10003">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="296" csRelFld="296">
+<CSLABELFLD label="">H2206</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Bois</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">H2206</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Réalisation de menuiserie bois et tonnellerie</FAMROM_LIBELLE>
+</record>
+<record Level="1B1" csKeyFld="198" csRelFld="198">
+<CSLABELFLD label="">F1604</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Second oeuvre</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">F1604</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Montage d'agencements</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10003">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1010" csRelFld="1010">
+<CSLABELFLD label="">menuisier agenceur / menuisière agenceuse</CSLABELFLD>
+<MET_ID label="Identifiant">10003</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">03/01/2012</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1010</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">menuisier/ère agenceur/euse</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1010">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17802" csRelFld="17802">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17802</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10003</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Définition d'un projet</inter>
+<p>Aménageur d'espaces dédiés, l'agenceur de cuisines et salles de bains intervient de la conception à la réalisation. Un premier entretien chez le client lui permet de définir les besoins et envies de celui-ci, mais également d'opérer une analyse technique des lieux et la prise de dimensions. Cette première étape est primordiale puisque c'est à partir de ces éléments que l'agenceur définira son cahier des charges.</p>
+<inter>Élaboration de plans</inter>
+<p>L'agenceur conçoit et réalise ensuite des plans d'aménagement en vue de créer des espaces de vie à la fois esthétiques, fonctionnels et adaptés aux besoins et exigences de sa clientèle. Un travail réalisé au bureau qui fait appel tant à la créativité - en jouant sur les matériaux, les volumes, les couleurs - qu'à la technique, pour résoudre un détail de jonction entre deux matériaux, par exemple</p>
+<p>Une étape qui pourra durée de 1 journée à plusieurs mois puisque l'agenceur présentera des projets au client jusqu'à satisfaction de celui-ci.</p>
+<inter>Maîtrise d'oeuvre</inter>
+<p>Dès lors, il assure la commande des matériaux et des pièces, organise le chantier. L'agenceur est responsable de la tenue des délais de réalisation, de la qualité et du respect du montant des travaux fixés par le devis.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17806" csRelFld="17806">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17806</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10003</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<inter>Niveau bac recommandé</inter>
+<liste>
+<itsimp>Les CAP (certificats d'aptitude professionnelle) menuisier installateur et menuisier fabricant de menuiserie sont adaptés aux travaux de pose. Ces diplômes se préparent en 2 ans, après la classe de 3<exp>e</exp> , en lycée professionnel ou par apprentissage dans un CFA (centre de formation d'apprentis).</itsimp>
+<itsimp>Le métier d'agenceur, lui, requiert un diplôme de niveau bac à bac + 2 agencement ou aménagement intérieur, selon le degré de responsabilité exercé. Le bac pro technicien de fabrication bois et matériaux associés ou le bac pro technicien menuisier-agenceur se préparent en 3 ans après la classe de 3<exp>e</exp> . Suivent pour des fonctions à plus de responsabilités : les BTS étude et réalisation d'agencement, systèmes constructifs bois et habitat, et développement et réalisation bois.</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17800" csRelFld="17800">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17800</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10003</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Artisanat, grande distribution</inter>
+<p>Les entreprises artisanales sont encore majoritaires en matière d'agencement. Elles recrutent des agenceurs qui travaillent généralement sur un projet dans sa totalité, de la création à la pose. La grande distribution propose également des services d'agencement de cuisines et de salles de bains.</p>
+<inter>L'expérience, un atout</inter>
+<p>Artisanales ou industrielles, les entreprises recherchent des jeunes qualifiés, dotés d'une solide formation technique en menuiserie et en agencement. L'expérience acquise sur les chantiers, la connaissance des matériaux et des techniques d'agencement sont indispensables pour progresser.</p>
+<inter>Évolution de carrière</inter>
+<p>Après quelques années d'activité, un agenceur peut évoluer vers des chantiers plus complexes. Autre option : se mettre à son compte et installer des cuisines intégrées, par l'intermédiaire des distributeurs industriels.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>A partir du <sal>Smic</sal> et jusqu' à 1720 euros brut par mois.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

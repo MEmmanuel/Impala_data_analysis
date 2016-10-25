@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">chef/fe de produit marketing</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe/convaincre, négocier/faire du commerce/enquêter, rechercher, analyser l'information</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction marketing</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur commerce</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">conception de produit/marketing/commerce non alimentaire/grande distribution/commerce de gros/étude de marché</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE commerce distribution/chef de produit</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10061</lien_onisep>
+<ROME Level="1B" csRelFld="10061">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10061">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1598" csRelFld="1598">
+<CSLABELFLD label="">chef / cheffe de produit marketing bancaire</CSLABELFLD>
+<MET_ID label="Identifiant">10061</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1598</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">chef/fe de produit marketing bancaire</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1598">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17576" csRelFld="17576">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17576</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10061</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+   <inter>Concevoir un produit</inter>
+   <p>Confiture, chaîne hi-fi, shampooing... le chef de produit marketing est responsable d'un type d'articles ou d'une gamme entière de produits depuis leur conception jusqu'à leur commercialisation.</p>
+   <p>Pour lancer un nouveau produit, il s'appuie sur des études de marché qu'il a pris soin de commander. Il analyse les attentes des clients et observe la concurrence. Attentif aux nouvelles tendances, il est capable d'anticiper les besoins des consommateurs. Sa mission : imaginer et définir le futur produit en étroite collaboration avec le service fabrication et les commerciaux.</p>
+   <inter>Optimiser les ventes</inter>
+   <p>Une fois conçu et fabriqué, le produit est vendu par l'équipe commerciale. Une stratégie est mise en place pour optimiser les ventes : publicité, plan marketing... Le chef de produit coordonne les actions commerciales sur le terrain en respectant un budget préétabli. Il détermine aussi les conditions de distribution (quantités et prix) et vérifie leur application.</p>
+   <inter>Analyser les résultats</inter>
+   <p>Une fois le produit lancé sur le marché, il suit de près les résultats des ventes. En cas de succès, une augmentation des commandes peut être décidée. Si les prévisions de ventes ne sont pas atteintes, il peut jouer sur le prix ou augmenter le budget publicitaire, par exemple.</p>
+  </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17575" csRelFld="17575">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17575</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10061</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Quel que soit le secteur choisi, un niveau bac + 5 minimum dans le domaine du commerce et du marketing est exigé pour débuter dans cette fonction.</accr_p> Certains secteurs industriels préfèrent les diplômés ayant suivi une formation scientifique et technique, complétée par une formation au commerce : diplôme d'ingénieur, mastère spécialisé en commerce et gestion, par exemple. </p>
+<inter>Niveau bac + 5</inter>
+<liste>
+<itsimp>
+<em>Diplôme national de master mention </em>marketing, vente</itsimp>
+<itsimp>
+<em>Diplôme d'école supérieure de commerce et de gestion</em>  : la plupart des écoles proposent, dans leur cursus, une spécialisation en marketing. Elles sont accessibles, le plus souvent, après un bac + 2, parfois directement après le bac (de préférence S ou ES). Les écoles faisant parties de la Conférence des grandes écoles proposent une poursuite d'études en  mastère spécialisé (MS) ou  mastère en science (MSc) permettant d'approfondir, en un an, la spécialisation choisie en formation initiale.</itsimp>
+<itsimp>
+<em>Diplôme d'école d'ingénieur</em> spécialisé en marketing</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17571" csRelFld="17571">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17571</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10061</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+   <inter>Dans tous les secteurs</inter>
+   <p>Si l'on associe souvent le marketing à la grande distribution, on retrouve cette fonction dans tous les secteurs. Ainsi, depuis longtemps, l'agroalimentaire, l'industrie pharmaceutique ou encore les cosmétiques ont adopté ses règles et astuces en matière de prix, de placement... Les services s'y sont mis aussi. Toutefois, la majorité des postes se trouve dans les grosses structures. Dans les TPE (très petites entreprises) et les PME (petites et moyennes entreprises), la dimension marketing est plutôt assumée par le directeur commercial. </p>
+   <inter>Toute une hiérarchie</inter>
+   <p>Les services marketing sont friands de jeunes et offrent toute une série d'échelons à gravir. Fraîchement diplômé, un débutant sera d'abord assistant avant de devenir un chef de produit à part entière. Après quelques années d'expérience, il pourra prendre en charge une gamme complète de produits, avant d'accéder au poste de chef de groupe (et encadrer ainsi plusieurs chefs de produit). Quelle que soit l'évolution de carrière, le marketing constitue un tremplin vers les directions commerciales. </p>
+   <inter>Par promotion interne</inter>
+   <p>Le nombre de postes stagne en raison du regroupement des enseignes et de la diminution du nombre de produits par industriel. Bien que 15 à 20 % des offres d'emploi s'adressent à des débutants, le recrutement des chefs de produit se fait souvent par promotion interne, autrement dit au sein d'une même entreprise.</p>
+   <remun>
+    <inter>Salaire du débutant</inter>
+    <p>De <sal>2250</sal> à 2916 euros brut par mois.</p>
+    <p>Source : Apec, 2015.</p>
+   </remun>
+  </MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

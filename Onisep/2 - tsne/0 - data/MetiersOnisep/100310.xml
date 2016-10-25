@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">animateur/trice nature</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">travailler dehors/m'occuper d'enfants ou d'adolescents/préserver l'environnement/travailler en contact avec la nature/animer des activités culturelles, ludiques ou éducatives</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/saisonnier/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction animation</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur du tourisme/secteur environnement/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">animation tourisme/tourisme de nature</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">animateur nature/GFE nettoyage assainissement environnement sécurité</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100310</lien_onisep>
+<ROME Level="1B" csRelFld="100310">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="221" csRelFld="221">
+<CSLABELFLD label="">G1202</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Animation d'activités de loisirs</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">G1202</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Animation d'activités culturelles ou ludiques</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100310">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="30630" csRelFld="30630">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30630</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100310</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Former des écocitoyens</inter>
+<p>L'animateur nature cherche davantage à sensibiliser le public et à changer ses comportements, qu'à transmettre des connaissances. Pour cela, il s'appuie sur des sorties sur le terrain, le repérage d'empreintes d'animaux, de chants d'oiseaux, d'espèces végétales et animales dans leur milieu.</p>
+<inter>Interpréter la nature</inter>
+<p>Cet amoureux de la nature ne manque pas d'imagination pour capter son public : exposition photos, création de sentiers, inventaire de la flore et de la faune, réalisation de livrets pédagogiques sur les richesses naturelles locales...</p>
+<inter>Donner à voir</inter>
+<p>Faire « ressentir » la nature au public pour mieux l'éduquer au respect est son leitmotiv. À lui de s'adapter pour toucher tout un chacun. Approche ludique avec des enfants, ateliers pratiques avec des adultes, traduction pour les touristes étrangers... À chacun son style.</p>
+<inter>Valoriser les patrimoines</inter>
+<p>L'animateur nature expérimenté peut élargir ses interventions pour promouvoir une région ou une commune : raconter les paysages en associant histoire, géographie et environnement, redonner vie aux sentiers, faire parler les monuments historiques...</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="30634" csRelFld="30634">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30634</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100310</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le bac pro et le BPJEPS (brevet professionnel de la jeunesse, de l'éducation populaire et du sport) constituent le premier niveau d'entrée. Les employeurs recherchant, de plus en plus souvent, des animateurs nature plus qualifiés, un bac + 2 est recommandé, notamment le BTSA (brevet de technicien supérieur agricole) gestion et protection de la nature. Une formation bac + 3 à bac + 5 dans le domaine de la biologie et de l'environnement est particulièrement appréciée.</p>
+<liste>
+<tete>Niveau bac</tete>
+<itsimp>BPJEPS spécialités éducation à l'environnement vers un développement durable </itsimp>
+<itsimp>Bac pro gestion des milieux naturels et de la faune</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTSA gestion et protection de la nature </itsimp>
+<itsimp>DUT carrières sociales option animation sociale et socioculturelle</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence pro médiation scientifique et éducation à l'environnement ; animateur agri-environnement...</itsimp>
+<itsimp>Licence pro Métiers de l'animation sociale, socio-éducative et socioculturelle</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master gestion des sites du patrimoine culturel et naturel et valorisation touristique...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="30632" csRelFld="30632">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30632</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100310</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Surtout en milieu associatif </inter>
+<p>La profession devrait continuer à se développer grâce à la mise en valeur du patrimoine et des loisirs verts. Actuellement, 75 % des animateurs nature sont employés par des associations. Parmi elles, les 80 CPIE (centres permanents d'initiatives pour l'environnement) emploient 900 salariés, dont plus d'un tiers sont des animateurs nature. Quelques-uns travaillent dans les réserves et les parcs naturels, très peu dans les communes ou les départements.</p>
+<p>Les emplois d'animateur nature sont particulièrement nombreux dans la région Ile-de-France.</p>
+<inter>Avec de l'expérience...</inter>
+<p>Un professionnel confirmé peut évoluer vers les fonctions de responsable d'une équipe d'animateurs nature, directeur d'association pour la mise en valeur de l'environnement...</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir du <sal>Smic</sal>.</p>
+<postit>
+<p>Source : Réseau école et nature, janvier 2012.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

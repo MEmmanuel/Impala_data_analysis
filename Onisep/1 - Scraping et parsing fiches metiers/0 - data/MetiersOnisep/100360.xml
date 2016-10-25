@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">cogniticien/ne</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire de la recherche/programmer, créer du contenu numérique</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction conception </MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur transports aériens/secteur construction automobile/secteur construction aéronautique/secteur sociétés de service et de conseil en informatique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">sciences cognitives/informatique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé/cogniticien</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100360</lien_onisep>
+<ROME Level="1B" csRelFld="100360">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="600" csRelFld="600">
+<CSLABELFLD label="">M1802</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Systèmes d'information et de télécommunication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1802</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Expertise et support en systèmes d'information</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100360">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="31981" csRelFld="31981">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31981</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100360</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Adapter les systèmes</inter>
+<p> Adapter une machine ou un système technologique aux utilisateurs, permettre le partage des connaissances, concevoir des outils d'information intelligents... le cogniticien fait en sorte qu'homme et technologie marchent à l'unisson. Par exemple, il conçoit des IHM (interfaces homme-machines) adéquates et ergonomiques, et réfléchit à la possibilité d'automatiser certaines tâches. Il adapte les outils numériques pour augmenter des performances, accroître la sécurité accrue ou assurer un meilleur confort. </p>
+<inter>De la recherche au terrain</inter>
+<p>Intégré dans une unité de recherche et développement, le cogniticien est un chercheur qui débroussaille un domaine, mène des enquêtes, prépare des données d'étude et de test... Son travail de préparation aide ensuite les spécialistes de terrain à développer des produits, qui devront répondre aux contraintes précises d'un cahier des charges et qui devront être livrés dans des délais fixés.</p>
+<inter>Expert des facteurs humains</inter>
+<p> Le cogniticien puise ses méthodologies dans les sciences humaines (psychologie, sociologie, sciences du langage...), la biologie humaine et les technologies de communication. Il a de solides connaissances en modélisation ainsi qu'en traitement de l'information (vision, audition, mémorisation, intelligence artificielle...). Il en tient compte dans ses applications. De plus en plus il travaille en amont des projets et s'occupe d'ergonomie de conception plutôt que de correction. </p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="31985" csRelFld="31985">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31985</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100360</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Pour devenir cogniticien, un master ou un diplôme d'ingénieur (bac ° 5) sont nécessaires en sciences cognitives, en informatique ou en mathématiques appliquées, assorties d'une compétence en sciences humaines (pour l'aspect ergonomie et analyse des modes de raisonnement humain).</p>
+<p>Certains masters sont rattachés à des écoles d'ingénieurs (par exemple, UTC Compiègne).</p>
+<p>Certaines écoles d'ingénieurs possèdent une filière informatique et mathématiques appliquées : ENSEEIHT, Ensimag, Insa Toulouse... D'autres proposent des options en modélisation. À noter : l'École nationale supérieure de cognitique de Bordeaux délivre un diplôme d'ingénieur cogniticien cohabilité par l'université de Bordeaux 1.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master informatique spécialité des sciences cognitives ; sciences de la cognition et applications...</itsimp>
+<itsimp>Diplôme d'ingénieur</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="31983" csRelFld="31983">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">31983</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100360</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Plusieurs types de recrutement</inter>
+<p> Énergie, défense, transports, industries automobile, aérospatiale ou navale : le cogniticien intéresse les secteurs où la sécurité et les technologies de pointe sont de mise ; au premier chef aussi, les entreprises d'État. PME (petites et moyennes entreprises) et PMI (petites et moyennes industries), SSII (sociétés de services en ingénierie informatique), entreprises utilisatrices, administrations pourraient suivre, sur des créneaux plus pointus (jeux vidéo, multimédia). Il peut exercer en tant que consultant.</p>
+<inter>Une niche de compétences</inter>
+<p> À l'actif du cogniticien : gain d'efficacité, réduction des effectifs, accélération de l'innovation, sécurité accrue, limitation de l'erreur humaine, meilleur confort d'utilisation... Interface entre l'informatique, l'automatique et les sciences humaines, ce professionnel a de quoi séduire. Les embauches sont aujourd'hui privilégiées pour les titulaires d'un diplôme d'ingénieur (bac + 5).</p>
+<inter>Un parcours d'évolution</inter>
+<p> Pour le débutant qui n'a pas encore d'expertise approfondie, cela veut souvent dire commencer par un poste de technicien supérieur ou, pour le jeune ingénieur diplômé, par l'intégration dans une équipe sous la responsabilité d'un senior. Puis, il évolue vers des projets plus importants et des fonctions d'encadrement : responsable de projet, manager...</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2600</sal> euros brut par mois.</p>
+<postit>
+<p>Source : Enquête insertion professionnelle de l'École nationale supérieure de la cognitique (ENSC) de Bordeaux (01/01/2010).</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

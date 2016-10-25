@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">développeur/euse économique</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">convaincre, négocier/enquêter, rechercher, analyser l'information/me déplacer souvent/aider, conseiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">fonctionnaire/salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">développement économique local</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE médical paramédical travail social soins personnels/développeur économique</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100448</lien_onisep>
+<ROME Level="1B" csRelFld="100448">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="487" csRelFld="487">
+<CSLABELFLD label="">K1802</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Développement territorial et emploi</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">K1802</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Développement local</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100448">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="36777" csRelFld="36777">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36777</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100448</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Dynamiser un territoire</inter>
+<p>Face à un environnement économique en perpétuelle évolution, les collectivités locales s'impliquent de plus en plus dans le développement de leur territoire. Elles font appel à des développeurs économiques pour créer un environnement favorable à l'implantation d'entreprises et pour élaborer une stratégie de développement pour la ville, l'agglomération ou la communauté de communes.</p>
+<inter>Définir une stratégie</inter>
+<p>Le développeur économique réalise des études avant de poser un diagnostic. Une enquête de terrain permet d'identifier les atouts et les faiblesses du tissu industriel. Elle permet aussi de repérer les opportunités et les obstacles éventuels. Il faut alors élaborer une stratégie et mobiliser des partenaires (chambres de commerce et d'industrie, pépinières d'entreprises, organismes de financement...).</p>
+<inter>Accompagner les entreprises</inter>
+<p>L'entreprise est le cheval de bataille du développeur économique. Il prépare les décisions des élus en matière d'implantations et d'aides aux entreprises. Il aide les créateurs d'entreprise dans le montage et la réalisation de leur projet. Il accompagne les sociétés implantées sur le territoire dans leur développement.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36781" csRelFld="36781">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36781</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100448</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>La formation de base du développeur économique est à la fois économique, financière et juridique.</accr_p> Elle s'acquiert dans le cadre de masters universitaires, de diplômes d'écoles de commerce, d'ingénieurs, d'IEP (institut d'études politiques), de masters spécialisés.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>
+<em>Masters</em> dans les domaines du droit, de la gestion, de la science politique, de la sociologie ; masters mention gestion des territoires et développement local ; urbanisme et aménagement ; ville et environnements urbains ; géographie, aménagement, environnement et développement ; intervention et développement social  ...</itsimp>
+<itsimp>Diplôme d'IEP</itsimp>
+<itsimp>Diplôme d'école de commerce</itsimp>
+<itsimp>Diplôme d'ingénieur </itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 6</tete>
+<itsimp>
+<em>Mastères spécialisés</em> développement local et aménagement des territoires ...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="36779" csRelFld="36779">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">36779</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100448</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Une fonction très prisée</inter>
+<p>Les collectivités territoriales ont besoin de développeurs économiques pour stimuler la création d'entreprises de services ou de commerces de proximité. Mais aussi pour s'inscrire dans un objectif de développement durable.</p>
+<inter>Dans le public et le privé</inter>
+<p>On dénombre près de 10 000 développeurs économiques. Ils sont employés par les communautés de communes et les communautés d'agglomération (environ 1 000 structures), les chambres de commerce et d'industrie, les pays (environ 160 territoires), les sociétés d'économie mixte d'aménagement du territoire, la centaine d'agences de développement économique et environ 250 cabinets de conseil.</p>
+<inter>Généraliste ou spécialiste</inter>
+<p>Selon son affectation, ce professionnel est fonctionnaire territorial (principalement attaché et ingénieur) ou contractuel. Dans une équipe importante, il peut se spécialiser (études, accompagnement d'entreprises...). Le plus souvent, c'est un généraliste de la veille économique, du développement et de l'immobilier d'entreprises. Les développeurs juniors sont souvent chargés des études économiques.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Environ <sal>1700</sal> euros brut par mois.</p>
+<postit>
+<p>Source : Aradel, juin 2011.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

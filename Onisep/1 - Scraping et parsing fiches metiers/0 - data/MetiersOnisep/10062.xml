@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">chargé/e d'études en marketing</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">enquêter, rechercher, analyser l'information/manier les chiffres/convaincre, négocier/faire du commerce</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction marketing</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur commerce/secteur de la publicité</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">publicité/marketing/étude de marché</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">chargé d'études marketing (publicité)/GFE commerce distribution</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10062</lien_onisep>
+<ROME Level="1B" csRelFld="10062">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="574" csRelFld="574">
+<CSLABELFLD label="">M1403</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Organisation et études</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1403</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Études et prospectives socio-économiques</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10062">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17582" csRelFld="17582">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17582</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10062</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Limiter les risques financiers</inter>
+<p>Création fromagère ou nouveau dentifrice : le lancement d'un produit ne se fait jamais au hasard. Toute nouvelle mise sur le marché est un pari. Pour en limiter les risques, le produit doit correspondre aux attentes des consommateurs. C'est précisément là qu'intervient le chargé d'études marketing.</p>
+<inter>Des moyens pour agir</inter>
+<p>Ses missions : étudier les comportements d'achat et examiner la concurrence. Ses instruments : enquête, échantillon, entretien qualitatif et quantitatif, réunion de groupes ou encore visites dans les magasins pour analyser les hésitations et la prise de décision du consommateur. Son objectif : livrer des études chiffrées, objectives, utiles à son client ou à son entreprise, pour mettre en place une stratégie commerciale adaptée.</p>
+<inter>Savoir faire parler les sondés</inter>
+<p>Nombre d'achats mensuels, test de goût, composition des familles et des habitudes de chacun des membres... autant de données concernant la consommation que doit collecter et analyser le chargé d'études. Ainsi, il peut suivre l'évolution des tendances et ajuster ses stratégies.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17580" csRelFld="17580">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17580</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10062</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>La sphère du marketing est très exigeante. En deçà de bac + 5, les débouchés sont rares. Plusieurs voies de formation sont possibles.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme national de master mention marketing, vente ; mention économétrie, statistiques ; </itsimp>
+<itsimp>Diplôme d'école supérieure de commerce et de gestion spécialisé en marketing</itsimp>
+<itsimp>Diplôme d'IEP spécialisé en marketing</itsimp>
+<itsimp>Diplôme d'ingénieur spécialisé en études statistiques</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17591" csRelFld="17591">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17591</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10062</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Annonceurs ou agences</inter>
+<p>Des postes peuvent s'offrir au sein des " annonceurs " (entreprises telles que L'Oréal ou Henkel...), mais ils se raréfient. Les petites et moyennes entreprises ont recours aux services d'agences externalisées. Parmi les plus célèbres : AC Nielsen, le leader mondial. Ces grands groupes du conseil privilégient souvent les candidats dotés de 2 à 3 années d'expérience. Les jeunes diplômés débuteront plutôt dans des cabinets plus modestes.</p>
+<inter>Changements de poste prévisibles</inter>
+<p>On reste rarement toute sa vie chargé d'études marketing. Et ce, même en changeant de secteur d'activité (industrie, services ou grande consommation) ou de produits. Le poste de chargé d'études marketing est plutôt à envisager comme un tremplin vers une évolution de carrière.</p>
+<inter>Des fonctions à responsabilités</inter>
+<p>Fort d'une connaissance approfondie sur les attentes du consommateur, le chargé d'études marketing peut bifurquer vers des postes de commercial (dans la grande distribution, en centrale d'achats ou chez les fournisseurs) ou accéder au poste de chef de produit, pour travailler à la conception de nouveaux produits.</p>
+<p>En cabinet de conseil, il pourra évoluer vers un poste de chef de projet, puis de directeur des études.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2083</sal> à 2666 euros brut par mois. </p>
+<postit>
+<p>Source : Apec (Association pour l'emploi des cadres), octobre 2014.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

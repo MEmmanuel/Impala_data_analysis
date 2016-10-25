@@ -1,0 +1,409 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Animateur / Animatrice de s\u00e9curit\u00e9 du BTP",
+            "priorisation": "1",
+            "libelle": "Animateur / Animatrice de s\u00e9curit\u00e9 du BTP",
+            "code_ogr": "11031"
+        },
+        {
+            "libelle_court": "Coordonnateur / Coordonnatrice de s\u00e9curit\u00e9 chantier",
+            "priorisation": "1",
+            "libelle": "Coordonnateur / Coordonnatrice de s\u00e9curit\u00e9 chantier",
+            "code_ogr": "13708"
+        },
+        {
+            "libelle_court": "Coordonnateur/Coordonnatrice ordonnancement, OPC de chantier",
+            "priorisation": "1",
+            "libelle": "Coordonnateur / Coordonnatrice Ordonnancement, Pilotage et Coordination de chantier -OPC-",
+            "code_ogr": "13720"
+        },
+        {
+            "libelle_court": "Coordonnateur/Coordonnatrice S\u00e9curit\u00e9 Protection de la Sant\u00e9",
+            "priorisation": "1",
+            "libelle": "Coordonnateur / Coordonnatrice S\u00e9curit\u00e9, Protection de la Sant\u00e9 -SPS-",
+            "code_ogr": "13721"
+        },
+        {
+            "libelle_court": "Ing\u00e9nieur / Ing\u00e9nieure s\u00e9curit\u00e9 en BTP",
+            "priorisation": "1",
+            "libelle": "Ing\u00e9nieur / Ing\u00e9nieure s\u00e9curit\u00e9 en BTP",
+            "code_ogr": "15882"
+        },
+        {
+            "libelle_court": "Responsable environnement et s\u00e9curit\u00e9 chantier",
+            "priorisation": "1",
+            "libelle": "Responsable environnement et s\u00e9curit\u00e9 chantier",
+            "code_ogr": "19070"
+        },
+        {
+            "libelle_court": "Responsable s\u00e9curit\u00e9 et protection sant\u00e9 du BTP",
+            "priorisation": "1",
+            "libelle": "Responsable s\u00e9curit\u00e9 et protection sant\u00e9 du BTP",
+            "code_ogr": "19179"
+        },
+        {
+            "libelle_court": "Superviseur / Superviseuse s\u00e9curit\u00e9 chantier",
+            "priorisation": "1",
+            "libelle": "Superviseur / Superviseuse s\u00e9curit\u00e9 chantier",
+            "code_ogr": "19570"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Evaluer les risques professionnels du chantier, du projet (co-activit\u00e9, circulation, appareils de levage, engins de chantier, stockage, acc\u00e8s, ...)",
+            "code_ogr": "1962",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Former et sensibiliser les intervenants du chantier aux modalit\u00e9s, r\u00e8gles et consignes de s\u00e9curit\u00e9 et protection de la sant\u00e9",
+            "code_ogr": "1999",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier la conformit\u00e9 administrative et r\u00e9glementaire des entreprises d\u00e9sign\u00e9es et autoriser leurs interventions sur chantier",
+            "code_ogr": "3399",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir et coordonner les plans, actions et mesures de pr\u00e9vention des risques du chantier",
+            "code_ogr": "1833",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler les conditions de travail et l'application des dispositifs et des consignes de s\u00e9curit\u00e9",
+            "code_ogr": "1126",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Relever les infractions, non-conformit\u00e9s, risques \u00e0 la s\u00e9curit\u00e9 et \u00e0 la sant\u00e9 des personnels et les notifier aux ma\u00eetres d'ouvrage, entrepreneurs, ...",
+            "code_ogr": "3004",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer et mettre \u00e0 jour le planning des travaux, des r\u00e9unions et des visites de chantier",
+            "code_ogr": "2581",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Rassembler les plans, notes techniques, ... et constituer les dossiers d'interventions ult\u00e9rieures sur l'ouvrage",
+            "code_ogr": "2751",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "8",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "F1103",
+            "libelle_rome_cible": "Contr\u00f4le et diagnostic technique du b\u00e2timent"
+        },
+        {
+            "code_rome_cible": "F1201",
+            "libelle_rome_cible": "Conduite de travaux du BTP"
+        },
+        {
+            "code_rome_cible": "F1202",
+            "libelle_rome_cible": "Direction de chantier du BTP"
+        },
+        {
+            "code_rome_cible": "H1301",
+            "libelle_rome_cible": "Inspection de conformit\u00e9"
+        },
+        {
+            "code_rome_cible": "H1303",
+            "libelle_rome_cible": "Intervention technique en Hygi\u00e8ne S\u00e9curit\u00e9 Environnement -HSE- industriel"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau Bac+2 (BTS, ...) dans le secteur du b\u00e2timent compl\u00e9t\u00e9 par une exp\u00e9rience professionnelle de 5 ans et par l'attestation de comp\u00e9tence Coordination S\u00e9curit\u00e9 et Protection de la Sant\u00e9 -CSPS- renouvelable p\u00e9riodiquement.\nLa ma\u00eetrise de l'outil informatique (tableur, traitement de texte, ...) est requise.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Coordonner la s\u00e9curit\u00e9 de chantiers n\u00e9cessitant une attestation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CSPS Coordination S\u00e9curit\u00e9 et Protection de la Sant\u00e9 niveau 1",
+            "code_ogr": "4321",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CSPS Coordination S\u00e9curit\u00e9 et Protection de la Sant\u00e9 niveau 2",
+            "code_ogr": "4322",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CSPS Coordination S\u00e9curit\u00e9 et Protection de la Sant\u00e9 niveau 3",
+            "code_ogr": "4323",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "OPC Ordonnancement, Pilotage et Coordination de chantier",
+            "code_ogr": "4324",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et analyser des donn\u00e9es statistiques d'un chantier sur la s\u00e9curit\u00e9, la sant\u00e9, les accidents du travail, ...et d\u00e9finir des mesures correctives/pr\u00e9ventives",
+            "code_ogr": "9688",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Rep\u00e9rer et identifier des risques sanitaires et environnementaux",
+            "code_ogr": "3603",
+            "code_type_activite": "3",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et mettre \u00e0 jour l'information technique, \u00e9conomique, r\u00e8glementaire, ...",
+            "code_ogr": "3611",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier des besoins clients et \u00e9laborer des dossiers de r\u00e9ponse \u00e0 appel d'offres, offres de services",
+            "code_ogr": "6102",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le suivi commercial et prospecter de nouvelles affaires",
+            "code_ogr": "5372",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer et faire \u00e9voluer les plans de pr\u00e9vention et de s\u00e9curit\u00e9",
+            "code_ogr": "3550",
+            "code_type_activite": "3",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9finir et suivre le budget d'une structure",
+            "code_ogr": "3524",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce sur les chantiers pour des bureaux de contr\u00f4le technique, bureaux d'\u00e9tudes et d'ing\u00e9nierie, bureaux de coordonnateurs S\u00e9curit\u00e9 et Protection de la Sant\u00e9, services de l'Etat en relation avec diff\u00e9rents intervenants (ma\u00eetre d'ouvrage, architecte, ma\u00eetre d'oeuvre, personnel de chantier, inspecteur du travail, ...).\nElle implique de nombreux d\u00e9placements sur les chantiers et parfois un \u00e9loignement du domicile de plusieurs jours.\nLe port d'\u00e9quipements de protection (casque de chantier, ...) peut \u00eatre requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Bureau de contr\u00f4le technique",
+            "code_ogr": "23731",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Bureau de coordonnateurs S\u00e9curit\u00e9 et Protection de la Sant\u00e9 -SPS-",
+            "code_ogr": "23732",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Bureau d'\u00e9tudes et d'ing\u00e9nierie",
+            "code_ogr": "23735",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Administration / Services de l'Etat",
+            "code_ogr": "23388",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent et Travaux Publics -BTP-",
+            "code_ogr": "23420",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Droit de l'urbanisme et de la construction",
+            "code_ogr": "21801",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "L\u00e9gislation sociale",
+            "code_ogr": "22086",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Code de sant\u00e9 publique",
+            "code_ogr": "21728",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation en Hygi\u00e8ne, S\u00e9curit\u00e9, Environnement -HSE-",
+            "code_ogr": "22567",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Plan Particulier de S\u00e9curit\u00e9 et de Protection de la Sant\u00e9 -PPSPS-",
+            "code_ogr": "22295",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Dossier d'Intervention Ult\u00e9rieure sur l'Ouvrage -DIUO-",
+            "code_ogr": "21789",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de construction",
+            "code_ogr": "22848",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Code des march\u00e9s publics",
+            "code_ogr": "21729",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestion budg\u00e9taire",
+            "code_ogr": "21994",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nAnalyse les risques d'accidents professionnels, les risques li\u00e9s \u00e0 la co-activit\u00e9 sur un chantier, d\u00e9finit et met en place les moyens, outils et \u00e9quipements de pr\u00e9vention et de protection de la sant\u00e9 des intervenants selon la r\u00e9glementation.\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "S\u00e9curit\u00e9 et protection sant\u00e9 du BTP",
+    "code_ogr": "153",
+    "code_rome": "F1204",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "F1106",
+            "libelle_rome_cible": "Ing\u00e9nierie et \u00e9tudes du BTP"
+        },
+        {
+            "code_rome_cible": "H1102",
+            "libelle_rome_cible": "Management et ing\u00e9nierie d'affaires"
+        },
+        {
+            "code_rome_cible": "H1302",
+            "libelle_rome_cible": "Management et ing\u00e9nierie Hygi\u00e8ne S\u00e9curit\u00e9 Environnement -HSE- industriels"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ]
+}

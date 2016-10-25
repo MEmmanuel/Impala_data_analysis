@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">ingénieur/e réservoir</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">coordonner l'activité d'une équipe/faire de la recherche/travailler à l'étranger</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction recherche/fonction recherche appliquée</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur énergie</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">exploitation pétrolière</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100580</lien_onisep>
+<ROME Level="1B" csRelFld="100580">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100580">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="55465" csRelFld="55465">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55465</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100580</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Un chercheur tourné vers la production</inter>
+<p>Au carrefour de l'exploration et de la production, l'ingénieur réservoir a un rôle central dans un champ pétrolifère. Sachant que la demande énergétique mondiale devrait doubler d'ici 2050 et que l'on ne sait actuellement récupérer qu'environ 35 % d'un gisement, son travail d'analyse et de recherche pour optimiser l'exploitation est crucial. Pur chercheur ou en partie opérationnel, il peut intervenir à différents niveaux.</p>
+<inter>Interpréter et modéliser</inter>
+<p>Son travail commence avec l'interprétation des données du réservoir et sa modélisation informatique qui vont lui permettre d'élaborer des scénarios de développement du gisement. En tant que chercheur, l'ingénieur réservoir peut élaborer ces outils ou améliorer ceux déjà existants. Grâce à ses analyses et simulations, il émet des recommandations opérationnelles sur les projets de développement incluant le nombre, la nature et l'emplacement des futurs puits, ainsi que le calendrier de forage et le profil de la production.</p>
+<inter>Suivre les opérations</inter>
+<p>Enfin, l'ingénieur réservoir effectue un suivi en intégrant, au fur et à mesure de l'exploitation, les nouvelles données parvenant du puits, qui pourront lui permettre d'accroître encore les taux de récupération du pétrole et donc d'optimiser la production.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55469" csRelFld="55469">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55469</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100580</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Le métier d'ingénieur réservoir est accessible après un bac + 5 : diplôme d'ingénieur de l'IFP School (ex-École nationale supérieure du pétrole et des moteurs, ENSPM) ou de l'École nationale supérieure de géologie de l'université de Lorraine (Nancy) ; ou master, orienté vers la recherche ou la production. Voire un doctorat (bac + 8).</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Diplôme d'ingénieur spécialité géoscience et ingénierie de réservoir (reservoir geoscience and engineering)  ; spécialité géosciences pétrolières et ingénierie des réservoirs</itsimp>
+<itsimp>Master en physique, physique-chimie, mécanique des fluides appliquées aux milieux poreux, génie pétrolier, spécialités géosciences, réservoir, production et traitement, recherche appliquée...</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 8</tete>
+<itsimp>Doctorat en physique, physique-chimie, mécanique des fluides appliquées aux milieux poreux, géosciences...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="55467" csRelFld="55467">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">55467</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100580</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>De l'étude au terrain</inter>
+<p>Les jeunes diplômés ne peuvent pas devenir directement ingénieurs réservoir. En général, ils débutent comme ingénieurs en bureau d'études, où ils s'initient aux disciplines connexes du métier, comme la géologie, le forage ou l'économie. L'apprentissage des ingénieurs réservoir passe également par au moins un poste sur le terrain dans le domaine de l'exploitation pour avoir une vue d'ensemble de l'activité et des contraintes liées à chaque étape.</p>
+<inter>Consultants avant tout</inter>
+<p>L'ingénieur réservoir travaille avant tout en bureaux d'études, dans des compagnies de services géologiques ou dans des sociétés de consultants, surtout en début de carrière. Par la suite, il peut intégrer une compagnie pétrolière internationale.</p>
+<inter>Expertise ou management</inter>
+<p>Pour évoluer, l'ingénieur réservoir peut soit se spécialiser et aller vers l'expertise scientifique et/ou technique, soit changer de métier selon ses goûts, ses aptitudes et ses expériences passées. Un chercheur peut ainsi se diriger vers un poste de chef de projet ou d'ingénieur d'affaires, en France comme à l'étranger.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>De <sal>2500</sal> à 2900 euros brut par mois (+ primes pour les missions sur le terrain).</p>
+<postit>
+<p>Source : Étude de rémunération nationale, cabinet Hays, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

@@ -1,0 +1,979 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Animateur(trice) d'\u00e9quipe fabrication en ind pharmaceutique",
+            "priorisation": "1",
+            "libelle": "Animateur / Animatrice d'\u00e9quipe de fabrication en industrie pharmaceutique",
+            "code_ogr": "11042"
+        },
+        {
+            "libelle_court": "Animateur(trice) d'\u00eelot de production ind de transformation",
+            "priorisation": "1",
+            "libelle": "Animateur / Animatrice d'\u00eelot de production en industrie de transformation",
+            "code_ogr": "11045"
+        },
+        {
+            "libelle_court": "Chef d'atelier en chimie/pharmacie",
+            "priorisation": "1",
+            "libelle": "Chef d'atelier en chimie/pharmacie",
+            "code_ogr": "12049"
+        },
+        {
+            "libelle_court": "Chef d'atelier en \u00e9nergie/p\u00e9trochimie",
+            "priorisation": "1",
+            "libelle": "Chef d'atelier en \u00e9nergie/p\u00e9trochimie",
+            "code_ogr": "12050"
+        },
+        {
+            "libelle_court": "Chef d'atelier en industrie alimentaire",
+            "priorisation": "1",
+            "libelle": "Chef d'atelier en industrie alimentaire",
+            "code_ogr": "12051"
+        },
+        {
+            "libelle_court": "Chef d'atelier en industrie de transformation",
+            "priorisation": "1",
+            "libelle": "Chef d'atelier en industrie de transformation",
+            "code_ogr": "12052"
+        },
+        {
+            "libelle_court": "Chef d'atelier en industrie du plastique/caoutchouc",
+            "priorisation": "1",
+            "libelle": "Chef d'atelier en industrie du plastique/caoutchouc",
+            "code_ogr": "12054"
+        },
+        {
+            "libelle_court": "Chef d'atelier en mat\u00e9riaux de construction/c\u00e9ramique",
+            "priorisation": "1",
+            "libelle": "Chef d'atelier en mat\u00e9riaux de construction/c\u00e9ramique",
+            "code_ogr": "12056"
+        },
+        {
+            "libelle_court": "Chef d'atelier en production de papier/carton",
+            "priorisation": "1",
+            "libelle": "Chef d'atelier en production de papier/carton",
+            "code_ogr": "12059"
+        },
+        {
+            "libelle_court": "Chef de fabrication en industrie de transformation",
+            "priorisation": "1",
+            "libelle": "Chef de fabrication en industrie de transformation",
+            "code_ogr": "12143"
+        },
+        {
+            "libelle_court": "Chef de ligne en industrie alimentaire",
+            "priorisation": "1",
+            "libelle": "Chef de ligne en industrie alimentaire",
+            "code_ogr": "12187"
+        },
+        {
+            "libelle_court": "Chef de ligne en industrie chimique",
+            "priorisation": "1",
+            "libelle": "Chef de ligne en industrie chimique",
+            "code_ogr": "12188"
+        },
+        {
+            "libelle_court": "Chef de quart en industrie alimentaire",
+            "priorisation": "1",
+            "libelle": "Chef de quart en industrie alimentaire",
+            "code_ogr": "38820"
+        },
+        {
+            "libelle_court": "Chef de quart en industrie chimique",
+            "priorisation": "1",
+            "libelle": "Chef de quart en industrie chimique",
+            "code_ogr": "12270"
+        },
+        {
+            "libelle_court": "Chef de quart en raffinerie",
+            "priorisation": "1",
+            "libelle": "Chef de quart en raffinerie",
+            "code_ogr": "12271"
+        },
+        {
+            "libelle_court": "Chef de secteur en production/distribution d'\u00e9nergie",
+            "priorisation": "1",
+            "libelle": "Chef de secteur en production/distribution d'\u00e9nergie",
+            "code_ogr": "12323"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe de conditionnement",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe de conditionnement",
+            "code_ogr": "12405"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe de fabrication en industrie alimentaire",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe de fabrication en industrie alimentaire",
+            "code_ogr": "12409"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe de production en industrie de transformation",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe de production en industrie de transformation",
+            "code_ogr": "12429"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe en chimie/pharmacie",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe en chimie/pharmacie",
+            "code_ogr": "12453"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe en industrie alimentaire",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe en industrie alimentaire",
+            "code_ogr": "12458"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe en mat\u00e9riaux de construction/c\u00e9ramique",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe en mat\u00e9riaux de construction/c\u00e9ramique",
+            "code_ogr": "12461"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe en plastique/caoutchouc",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe en plastique/caoutchouc",
+            "code_ogr": "12465"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe en production de papier/carton",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe en production de papier/carton",
+            "code_ogr": "12470"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe en production/transformation de verre",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe en production/transformation de verre",
+            "code_ogr": "12471"
+        },
+        {
+            "libelle_court": "Chef d'exploitation en production/distribution d'\u00e9nergie",
+            "priorisation": "1",
+            "libelle": "Chef d'exploitation en production/distribution d'\u00e9nergie",
+            "code_ogr": "12521"
+        },
+        {
+            "libelle_court": "Contrema\u00eetre / Contrema\u00eetresse fabrication en ind transform",
+            "priorisation": "1",
+            "libelle": "Contrema\u00eetre / Contrema\u00eetresse de fabrication en industrie de transformation",
+            "code_ogr": "13562"
+        },
+        {
+            "libelle_court": "Coordinateur(trice) \u00eelots production en ind transformation",
+            "priorisation": "1",
+            "libelle": "Coordinateur / Coordinatrice d'\u00eelots de production en industrie de transformation",
+            "code_ogr": "13690"
+        },
+        {
+            "libelle_court": "Responsable d'atelier production en industrie transformation",
+            "priorisation": "1",
+            "libelle": "Responsable d'atelier de production en industrie de transformation",
+            "code_ogr": "18643"
+        },
+        {
+            "libelle_court": "Responsable d'atelier en chimie/pharmacie",
+            "priorisation": "1",
+            "libelle": "Responsable d'atelier en chimie/pharmacie",
+            "code_ogr": "18651"
+        },
+        {
+            "libelle_court": "Responsable d'atelier en \u00e9nergie/p\u00e9trochimie",
+            "priorisation": "1",
+            "libelle": "Responsable d'atelier en \u00e9nergie/p\u00e9trochimie",
+            "code_ogr": "18652"
+        },
+        {
+            "libelle_court": "Responsable d'atelier en industrie du plastique/caoutchouc",
+            "priorisation": "1",
+            "libelle": "Responsable d'atelier en industrie du plastique/caoutchouc",
+            "code_ogr": "18654"
+        },
+        {
+            "libelle_court": "Responsable d'atelier en mat\u00e9riaux de construction/c\u00e9ramique",
+            "priorisation": "1",
+            "libelle": "Responsable d'atelier en mat\u00e9riaux de construction/c\u00e9ramique",
+            "code_ogr": "18655"
+        },
+        {
+            "libelle_court": "Responsable d'atelier en production de papier/carton",
+            "priorisation": "1",
+            "libelle": "Responsable d'atelier en production de papier/carton",
+            "code_ogr": "18656"
+        },
+        {
+            "libelle_court": "Responsable d'atelier en production/transformation de verre",
+            "priorisation": "1",
+            "libelle": "Responsable d'atelier en production/transformation de verre",
+            "code_ogr": "18657"
+        },
+        {
+            "libelle_court": "Responsable de ligne en industrie pharmaceutique",
+            "priorisation": "1",
+            "libelle": "Responsable de ligne en industrie pharmaceutique",
+            "code_ogr": "18775"
+        },
+        {
+            "libelle_court": "Responsable d'\u00e9quipe en industrie de transformation",
+            "priorisation": "1",
+            "libelle": "Responsable d'\u00e9quipe en industrie de transformation",
+            "code_ogr": "18915"
+        },
+        {
+            "libelle_court": "Responsable fusion en production/transformation de verre",
+            "priorisation": "1",
+            "libelle": "Responsable fusion en production/transformation de verre",
+            "code_ogr": "19092"
+        },
+        {
+            "libelle_court": "Superviseur / Superviseuse en industrie de transformation",
+            "priorisation": "1",
+            "libelle": "Superviseur / Superviseuse en industrie de transformation",
+            "code_ogr": "19568"
+        },
+        {
+            "libelle_court": "Technicien(ne) responsable de fabrication en ind alimentaire",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne responsable de fabrication en industrie alimentaire",
+            "code_ogr": "20243"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier les caract\u00e9ristiques de la commande et planifier les \u00e9tapes de production",
+            "code_ogr": "2091",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9lectionner les machines, les outillages appropri\u00e9s, r\u00e9partir les activit\u00e9s entre les ateliers, les \u00e9quipes et affecter le personnel sur les postes de travail",
+            "code_ogr": "3171",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer ou contr\u00f4ler les r\u00e9glages/programmations des machines ou mat\u00e9riel et contr\u00f4ler les param\u00e8tres de fonctionnement (d\u00e9bit, pression, temps, ...)",
+            "code_ogr": "1688",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et v\u00e9rifier l'approvisionnement des ateliers, lignes de production en mati\u00e8res et consommables",
+            "code_ogr": "3242",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Analyser les donn\u00e9es d'activit\u00e9, les dysfonctionnements de la production et pr\u00e9coniser les actions correctives",
+            "code_ogr": "658",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la conformit\u00e9 des mati\u00e8res/produits sur \u00e9chantillons pr\u00e9lev\u00e9s et interpr\u00e9ter les r\u00e9sultats d'analyse",
+            "code_ogr": "1033",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier l'application des consignes d'hygi\u00e8ne, de s\u00e9curit\u00e9 et de qualit\u00e9",
+            "code_ogr": "3625",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Apporter un appui technique aux services production, qualit\u00e9, maintenance, ...",
+            "code_ogr": "3503",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et v\u00e9rifier les \u00e9l\u00e9ments d'activit\u00e9 et de gestion administrative du personnel",
+            "code_ogr": "3613",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "9",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "H1303",
+            "libelle_rome_cible": "Intervention technique en Hygi\u00e8ne S\u00e9curit\u00e9 Environnement -HSE- industriel"
+        },
+        {
+            "code_rome_cible": "H1403",
+            "libelle_rome_cible": "Intervention technique en gestion industrielle et logistique"
+        },
+        {
+            "code_rome_cible": "H1404",
+            "libelle_rome_cible": "Intervention technique en m\u00e9thodes et industrialisation"
+        },
+        {
+            "code_rome_cible": "H2503",
+            "libelle_rome_cible": "Pilotage d'unit\u00e9 \u00e9l\u00e9mentaire de production m\u00e9canique ou de travail des m\u00e9taux"
+        },
+        {
+            "code_rome_cible": "K2306",
+            "libelle_rome_cible": "Supervision d'exploitation \u00e9co-industrielle"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau Bac (Bac professionnel, Brevet Professionnel -BP-, ...) \u00e0 Bac+2 (BTS, DUT, ...) en productique, m\u00e9canique, automatismes industriels, conception industrielle, compl\u00e9t\u00e9 par une exp\u00e9rience professionnelle en production.\nIl est \u00e9galement accessible avec un CAP/BEP en m\u00e9canique, \u00e9lectrom\u00e9canique, \u00e9lectricit\u00e9, compl\u00e9t\u00e9 par une exp\u00e9rience professionnelle de plusieurs ann\u00e9es.\nLa ma\u00eetrise de l'outil informatique (traitement de texte, tableur, Gestion de Production Assist\u00e9e par Ordinateur, ...) peut \u00eatre requise.\nLa pratique de l'anglais (vocabulaire technique) peut \u00eatre demand\u00e9e.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Pr\u00e9senter et mettre en oeuvre des actions d'am\u00e9lioration dans un domaine :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Outils de production",
+            "code_ogr": "8051",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Poste de travail (ergonomie, ...)",
+            "code_ogr": "8052",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Produits (seuil de tol\u00e9rance, ...)",
+            "code_ogr": "8053",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9curit\u00e9",
+            "code_ogr": "8054",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Traitement des pollutions",
+            "code_ogr": "8055",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Superviser une \u00e9quipe ou un atelier de production de  :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Assemblage, parach\u00e8vement, finition (coupe, ...)",
+            "code_ogr": "9806",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Calandrage, laminage, \u00e9tirage",
+            "code_ogr": "9807",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Compression, enduction",
+            "code_ogr": "9808",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conditionnement, palettisation",
+            "code_ogr": "9809",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Culture cellulaire, virale",
+            "code_ogr": "9810",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Distillation, extraction, s\u00e9paration, fermentation",
+            "code_ogr": "9812",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "6",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Extrusion (fili\u00e8re plate, profil\u00e9s et tubes, ...)",
+            "code_ogr": "9823",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "7",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Fusion, cuisson, s\u00e9chage",
+            "code_ogr": "9813",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "8",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Hydrolyse, \u00e9lectrolyse",
+            "code_ogr": "9814",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "9",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Injection",
+            "code_ogr": "9824",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "10",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Moulage, rotomoulage, thermoformage",
+            "code_ogr": "9815",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "11",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9paration (broyage, malaxage, ...)",
+            "code_ogr": "9825",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "12",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Soufflage",
+            "code_ogr": "9818",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "13",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9action chimique, polym\u00e9risation",
+            "code_ogr": "9817",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "14",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des essais sur de nouveaux produits et suivre leur mise en production industrielle",
+            "code_ogr": "8388",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner et planifier des interventions de maintenance selon les imp\u00e9ratifs de production",
+            "code_ogr": "4315",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Organiser ou suivre le stockage des produits, mati\u00e8res, consommables et \u00e9tablir des commandes",
+            "code_ogr": "7760",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et contr\u00f4ler des exp\u00e9ditions de commandes",
+            "code_ogr": "9693",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier les besoins en comp\u00e9tences d'une \u00e9quipe/d'un atelier (formation, mobilit\u00e9, ...)",
+            "code_ogr": "6132",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Former du personnel \u00e0 des proc\u00e9dures, techniques, proc\u00e9d\u00e9s de production, outils, consignes",
+            "code_ogr": "3559",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer et faire \u00e9voluer des proc\u00e9dures de maintenance, des modes op\u00e9ratoires, des fiches techniques, des outils de suivi",
+            "code_ogr": "5611",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises industrielles de fabrication de produits (alimentaires, pharmaceutiques, p\u00e9trochimiques, mat\u00e9riaux de construction, plastiques, papier, ...) ou de production d'\u00e9nergie.\nElle peut s'exercer par roulement, les fins de semaine, jours f\u00e9ri\u00e9s, de nuit et \u00eatre soumise \u00e0 des astreintes.\nL'activit\u00e9 s'effectue parfois en zone frigorifique, en zone \u00e0 risques (toxicit\u00e9, corrosivit\u00e9, explosivit\u00e9, ...), en zone \u00e0 temp\u00e9rature \u00e9lev\u00e9e ou en zone \u00e0 atmosph\u00e8re contr\u00f4l\u00e9e.\nLe port d'Equipements de Protection Individuelle -EPI- (chaussures de s\u00e9curit\u00e9, masques, protection anti-bruit, ...) ou d'\u00e9quipements d'hygi\u00e8ne (charlotte, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion de planning",
+            "code_ogr": "21257",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Gestion de Production Assist\u00e9e Par Ordinateur -GPAO-",
+            "code_ogr": "21258",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Gestion de Maintenance Assist\u00e9e par Ordinateur -GMAO-",
+            "code_ogr": "21256",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion de stocks",
+            "code_ogr": "21259",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle de transformation",
+            "code_ogr": "23910",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Alimentaire",
+            "code_ogr": "23395",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chimie",
+            "code_ogr": "23436",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Energie, nucl\u00e9aire, fluide",
+            "code_ogr": "23480",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie c\u00e9ramique",
+            "code_ogr": "23529",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie du papier, carton",
+            "code_ogr": "23531",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Mat\u00e9riaux de construction",
+            "code_ogr": "23551",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "P\u00e9trochimie",
+            "code_ogr": "23582",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Plasturgie, caoutchouc, composites",
+            "code_ogr": "23585",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Verre",
+            "code_ogr": "23668",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "En zone \u00e0 atmosph\u00e8re contr\u00f4l\u00e9e",
+            "code_ogr": "23383",
+            "code_type_section_env": "3"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "En zone frigorifique",
+            "code_ogr": "23385",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Normes qualit\u00e9",
+            "code_ogr": "22233",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9",
+            "code_ogr": "22621",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaire Hazard Analysis Critical Control Point -HACCP-",
+            "code_ogr": "22650",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9canique",
+            "code_ogr": "22098",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electrom\u00e9canique",
+            "code_ogr": "21832",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Automatisme",
+            "code_ogr": "21522",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9gulation et instrumentation",
+            "code_ogr": "22661",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chimie",
+            "code_ogr": "21706",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Thermique",
+            "code_ogr": "23282",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de test physico-chimique (humidit\u00e9, granulom\u00e9trie)",
+            "code_ogr": "22438",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de contr\u00f4le dimensionnel (rectitude, \u00e9paisseur, ...)",
+            "code_ogr": "22396",
+            "position_item": "11",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de contr\u00f4le m\u00e9canique (r\u00e9sistance, porosit\u00e9, solidit\u00e9, ...)",
+            "code_ogr": "22398",
+            "position_item": "12",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9thodes de r\u00e9solution de probl\u00e8mes",
+            "code_ogr": "22138",
+            "position_item": "13",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9thodes de Gestion des Moyens de Production",
+            "code_ogr": "22132",
+            "position_item": "14",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestion administrative du personnel",
+            "code_ogr": "21993",
+            "position_item": "15",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "L\u00e9gislation sociale",
+            "code_ogr": "22086",
+            "position_item": "16",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes environnementales",
+            "code_ogr": "22230",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Dessin technique (trac\u00e9, cotes, normalisation, ...)",
+            "code_ogr": "21778",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en biologie",
+            "code_ogr": "21841",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en sciences physiques",
+            "code_ogr": "21916",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en \u00e9lectricit\u00e9",
+            "code_ogr": "21859",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en hydraulique",
+            "code_ogr": "21875",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en pneumatique",
+            "code_ogr": "21905",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en thermodynamique",
+            "code_ogr": "21926",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modalit\u00e9s de stockage",
+            "code_ogr": "22175",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles Bonnes Pratiques de Fabrication -BPF-",
+            "code_ogr": "22588",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nOrganise l'activit\u00e9 d'une ou plusieurs \u00e9quipes d'op\u00e9rateurs et de conducteurs de machines ou de lignes de transformation de mati\u00e8re en produit (alimentaire, chimique, plastique, ...) ou en production d'\u00e9nergie.\nEffectue le suivi de la fabrication selon les r\u00e8gles de s\u00e9curit\u00e9, d'hygi\u00e8ne et d'environnement, et les imp\u00e9ratifs de production (quantit\u00e9, d\u00e9lai, qualit\u00e9, co\u00fbt, ...).\nContr\u00f4le le fonctionnement des \u00e9quipements (r\u00e9glages, r\u00e9ajustement, diagnostic de dysfonctionnement, maintenance, ...) et apporte un appui technique aux op\u00e9rateurs et conducteurs.\nPeut suivre la mise en production industrielle de nouveaux produits ou organiser et suivre le stockage ou les exp\u00e9ditions des produits.\n",
+    "intitule": "Encadrement d'\u00e9quipe en industrie de transformation",
+    "code_ogr": "265",
+    "code_rome": "H2504",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1407",
+            "libelle_rome_cible": "Relation technico-commerciale"
+        },
+        {
+            "code_rome_cible": "E1303",
+            "libelle_rome_cible": "Encadrement des industries graphiques"
+        },
+        {
+            "code_rome_cible": "H1401",
+            "libelle_rome_cible": "Management et ing\u00e9nierie gestion industrielle et logistique"
+        },
+        {
+            "code_rome_cible": "H1402",
+            "libelle_rome_cible": "Management et ing\u00e9nierie m\u00e9thodes et industrialisation"
+        },
+        {
+            "code_rome_cible": "H2204",
+            "libelle_rome_cible": "Encadrement des industries de l'ameublement et du bois"
+        },
+        {
+            "code_rome_cible": "H2501",
+            "libelle_rome_cible": "Encadrement de production de mat\u00e9riel \u00e9lectrique et \u00e9lectronique"
+        },
+        {
+            "code_rome_cible": "H2502",
+            "libelle_rome_cible": "Management et ing\u00e9nierie de production"
+        },
+        {
+            "code_rome_cible": "H2505",
+            "libelle_rome_cible": "Encadrement d'\u00e9quipe ou d'atelier en mat\u00e9riaux souples"
+        },
+        {
+            "code_rome_cible": "I1304",
+            "libelle_rome_cible": "Installation et maintenance d'\u00e9quipements industriels et d'exploitation"
+        },
+        {
+            "code_rome_cible": "M1302",
+            "libelle_rome_cible": "Direction de petite ou moyenne entreprise"
+        }
+    ]
+}

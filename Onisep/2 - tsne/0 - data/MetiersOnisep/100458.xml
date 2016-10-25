@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">entraîneur/euse sportif/ve </MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire du sport/enseigner, éduquer/animer des activités culturelles, ludiques ou éducatives</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/indépendant</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction enseignement - éducation/fonction animation</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur des sports/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">animation sportive/spécialités sportives</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE hôtellerie restauration tourisme loisirs/entraineur sportif</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100458</lien_onisep>
+<ROME Level="1B" csRelFld="100458">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="223" csRelFld="223">
+<CSLABELFLD label="">G1204</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Animation d'activités de loisirs</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">G1204</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Éducation en activités sportives</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100458">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="37443" csRelFld="37443">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37443</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100458</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Conduire au plus haut niveau</inter>
+<p>S'appuyant le plus souvent sur sa propre expérience de la discipline sportive qu'il enseigne, l'entraîneur élabore une progression à base d'exercices adaptés à chaque athlète. Le rythme des entraînements et l'intensité des efforts demandés sont savamment dosés. Dans les clubs, il peut être assisté par des préparateurs physiques, qui veillent à développer le potentiel des athlètes.</p>
+<inter>Améliorer technique et tactique</inter>
+<p>Le travail de l'entraîneur sportif se fonde sur l'observation des entraînements et sur l'analyse des résultats obtenus en compétition par ses athlètes. Footballeur évoluant sur le terrain, judoka sur le tatami ou sprinter en piste, il repère les fautes techniques ou tactiques, les mauvais gestes, les défaillances physiques (blessures, fatigue) et mentales (découragement), et accompagne les sportifs vers la performance.</p>
+<inter>Gérer le mental</inter>
+<p>Son rôle sur le plan humain est tout aussi important : il encourage ses athlètes, les motive, et les écoute afin de construire l'entraînement qui leur conviendra le mieux. À lui de désamorcer les conflits, de ménager les susceptibilités lors des sélections, et de soutenir les sportifs en cas d'échec.</p> </MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="37447" csRelFld="37447">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37447</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100458</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Plusieurs possibilités existent pour accéder à ce métier : DEJEPS</accr_p> (diplôme d'État de la jeunesse, de l'éducation populaire et du sport), DESJEPS (diplôme d'État supérieur de la jeunesse, de l'éducation populaire et du sport),<accr_p> filière Staps (sciences et techniques des activités physiques et sportives), </accr_p>certains CQP (certificats de qualification professionnelle) ou titres des fédérations sportives (exemple : le diplôme d'entraîneur de football, délivré par la Fédération française de football). Les entraîneurs nationaux ne sont généralement pas des fonctionnaires, même si certains peuvent avoir ce statut. La réussite à un concours n'est pas, en tous cas, une condition d'accès. À noter : aucun pré-requis scoalire n'est exigé pour passer les DEJEPS (1 an de formaiton en moyenne) et DESJEPS (1 an de formation en moyenne), mais les candidats doivent passer des tests de sélection organisés par chaque organisme de formation.</p>
+<p/>
+<inter>Niveau bac + 2 </inter>
+<liste>
+<itsimp>DEJEPS spécialité perfectionnement sportif</itsimp>
+</liste>
+<inter>Niveau bac + 3</inter>
+<p>Licence Staps spécialité entraînement sportif </p>
+<p>DESJEPS spécialité performance sportive (pour le niveau national)</p>
+<inter>Niveau bac + 5</inter>
+<liste>
+<itsimp>Master Staps spécialisation entraînement</itsimp>
+<itsimp>Brevet d'État d'éducateur sportif (BEES) 3<exp>e</exp> degré</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="37445" csRelFld="37445">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">37445</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100458</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Pas de voie royale</inter>
+<p>Le chemin est long pour qui souhaite devenir entraîneur sportif. Par-delà les diplômes, les rencontres comptent beaucoup. Il faut savoir saisir les opportunités, choisir les bonnes options, s'adresser aux personnes stratégiques. Et accepter de vivre littéralement pour son sport. </p>
+<inter>Posséder le bon diplôme</inter>
+<p>Pour être rémunéré en tant qu'entraîneur, il faut être titulaire d'une certification professionnelle : diplôme d'État, CQP (certificat de qualification professionnelle) ou titre inscrit au RNCP (répertoire national des certifications professionnelles) et garantissant la sécurité des pratiquants et des tiers.</p>
+<inter>Évoluer grâce aux concours</inter>
+<p>Avec une formation complémentaire, en passant des concours organisés par le ministère des Sports ou la fonction publique territoriale, il est possible de devenir professeur de sport pour exercer les fonctions de directeur technique national, conseiller territorial ou bien encore formateur de cadres sportifs ou gestionnaire d'équipements sportifs.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>Variable en fonction de la discipline et du niveau des sportifs encadrés.</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

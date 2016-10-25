@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">orthoptiste</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">soigner/aider, conseiller</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">libéral/salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction diagnostic, prescription, intervention</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur santé/secteur fonction publique</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">orthoptie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE médical paramédical travail social soins personnels/orthoptiste</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10233</lien_onisep>
+<ROME Level="1B" csRelFld="10233">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="428" csRelFld="428">
+<CSLABELFLD label="">J1407</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Rééducation et appareillage</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">J1407</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Orthoptique</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10233">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="16605" csRelFld="16605">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16605</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10233</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Dresser un bilan et traiter </inter>
+<p>Dans un premier temps, l'orthoptiste effectue un bilan afin d'évaluer les capacités visuelles et les troubles à traiter. Il intervient également après un accident, une intervention chirurgicale ou auprès des personnes malvoyantes. Avant de proposer un traitement, il prend en compte plusieurs critères : l'âge du patient, sa pathologie et ses activités. </p>
+<inter>Rééduquer l'oeil</inter>
+<p>En fonction du bilan obtenu (fatigue oculaire, strabisme, opération de l'oeil...), il soigne les muscles de l'oeil par des séances de rééducation. À travers des exercices (adaptés à chaque patient), ce professionnel rééduque progressivement la vision. Il apprend au patient à mieux maîtriser son regard et à atténuer les gênes ressenties. </p>
+<inter>Mesurer et estimer</inter>
+<p>Depuis 2007, l'orthoptiste procède aux divers examens de l'acuité visuelle. En clair, il peut, par exemple, mesurer la pression intérieure de l'oeil, l'épaisseur de la cornée ; il peut effectuer des radios, analyser le fond de l'oeil. De plus, grâce à une machine qui mesure le degré de myopie, d'astigmatisme ou d'hypermétropie, il peut réaliser une estimation de la puissance du défaut optique à corriger par le médecin.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16619" csRelFld="16619">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16619</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10233</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Pour exercer ce métier, il faut être titulaire du certificat de capacité d'orthoptiste.</accr_p> Ce diplôme se prépare en 3 ans après un bac scientifique et la réussite à un concours d'entrée dans un des 15 établissements dépendant des facultés de médecine.</p>
+<liste>
+<tete>Niveau bac + 3 (reconnu bac + 2)</tete>
+<itsimp>CA orthoptiste</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="16621" csRelFld="16621">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">16621</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10233</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Surtout en libéral</inter>
+<p>Près de 80 % des 2 400 orthoptistes travaillent en libéral, dans leur cabinet ou en collaboration avec un ophtalmologiste. Les autres sont salariés et occupent un poste dans un hôpital ou dans un centre de soins... Les hommes sont encore peu nombreux à exercer cette profession de l'optique et de la rééducation.</p>
+<inter>Un emploi selon les régions</inter>
+<p>Les débouchés varient selon les régions. Mieux vaut bien choisir sa ville et son quartier pour réussir son installation.</p>
+<inter>Évoluer en se spécialisant</inter>
+<p>L'orthoptiste peut se spécialiser dans certaines pathologies ou dans certaines techniques de rééducation. Après 4 ans de pratique, il peut aussi préparer le diplôme de cadre de la santé. Ce titre lui permet d'encadrer un service dans un centre de soins ou de former de futurs collègues.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>Smic</sal> (dans la fonction publique hospitalière).</p>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

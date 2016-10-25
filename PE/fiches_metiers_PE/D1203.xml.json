@@ -1,0 +1,425 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente d'accompagnement en thermalisme",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'accompagnement en thermalisme",
+            "code_ogr": "10371"
+        },
+        {
+            "libelle_court": "Agent / Agente de cure thermale",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de cure thermale",
+            "code_ogr": "10429"
+        },
+        {
+            "libelle_court": "Agent / Agente de soins en hydroth\u00e9rapie",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de soins en hydroth\u00e9rapie",
+            "code_ogr": "10608"
+        },
+        {
+            "libelle_court": "Agent / Agente de thermalisme",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de thermalisme",
+            "code_ogr": "10626"
+        },
+        {
+            "libelle_court": "Agent / Agente en hydroth\u00e9rapie",
+            "priorisation": "1",
+            "libelle": "Agent / Agente en hydroth\u00e9rapie",
+            "code_ogr": "10738"
+        },
+        {
+            "libelle_court": "Agent / Agente en soins thermaux",
+            "priorisation": "1",
+            "libelle": "Agent / Agente en soins thermaux",
+            "code_ogr": "10739"
+        },
+        {
+            "libelle_court": "Agent hydrothermal / Agente hydrothermale",
+            "priorisation": "1",
+            "libelle": "Agent hydrothermal / Agente hydrothermale",
+            "code_ogr": "10743"
+        },
+        {
+            "libelle_court": "Agent thermal / Agente thermale",
+            "priorisation": "1",
+            "libelle": "Agent thermal / Agente thermale",
+            "code_ogr": "10797"
+        },
+        {
+            "libelle_court": "Animateur / Animatrice en aqua gymnastique",
+            "priorisation": "1",
+            "libelle": "Animateur / Animatrice en aqua gymnastique",
+            "code_ogr": "11053"
+        },
+        {
+            "libelle_court": "Auxiliaire en hydroth\u00e9rapie",
+            "priorisation": "1",
+            "libelle": "Auxiliaire en hydroth\u00e9rapie",
+            "code_ogr": "11458"
+        },
+        {
+            "libelle_court": "Baigneur / Baigneuse",
+            "priorisation": "1",
+            "libelle": "Baigneur / Baigneuse",
+            "code_ogr": "11486"
+        },
+        {
+            "libelle_court": "Doucheur / Doucheuse",
+            "priorisation": "1",
+            "libelle": "Doucheur / Doucheuse",
+            "code_ogr": "14528"
+        },
+        {
+            "libelle_court": "Hydrobaln\u00e9ologue",
+            "priorisation": "1",
+            "libelle": "Hydrobaln\u00e9ologue",
+            "code_ogr": "38004"
+        },
+        {
+            "libelle_court": "Hydroth\u00e9rapeute",
+            "priorisation": "1",
+            "libelle": "Hydroth\u00e9rapeute",
+            "code_ogr": "15506"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Accueillir la personne, identifier les soins appropri\u00e9s et lui en pr\u00e9senter les modalit\u00e9s (r\u00e9sultats attendus, dur\u00e9e de traitement, ...)",
+            "code_ogr": "560",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Installer la personne sur le lieu de soins (appareil, baignoire, douche, cabine, ...)",
+            "code_ogr": "2239",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Appliquer les soins corporels (hydroth\u00e9rapie, fangoth\u00e9rapie, ...) ou surveiller le d\u00e9roulement des soins selon le protocole",
+            "code_ogr": "702",
+            "code_type_activite": "2",
+            "riasec_majeur": "A",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Apporter un appui aux masseurs-kin\u00e9sith\u00e9rapeutes, m\u00e9decins, ... pour l'application de soins lors de cure m\u00e9dicalis\u00e9e",
+            "code_ogr": "711",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Informer les personnels de sant\u00e9 des r\u00e9actions de la personne (rougeur, essoufflement, ...)",
+            "code_ogr": "2224",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer les outils, accessoires, mat\u00e9riel et ranger la cabine, le plan de travail, ...",
+            "code_ogr": "2397",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1208",
+            "libelle_rome_cible": "Soins esth\u00e9tiques et corporels"
+        },
+        {
+            "code_rome_cible": "J1301",
+            "libelle_rome_cible": "Personnel polyvalent des services hospitaliers"
+        },
+        {
+            "code_rome_cible": "K1302",
+            "libelle_rome_cible": "Assistance aupr\u00e8s d'adultes"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un CAP/BEP en hydroth\u00e9rapie, soins esth\u00e9tiques et corporels.\nUne ou plusieurs formation(s) (appareil \u00e0 Ultraviolets -UV-, baln\u00e9oth\u00e9rapie, ...) peu(ven)t \u00eatre requise(s).\n",
+    "activite_specifique": [
+        {
+            "libelle": "Mettre en oeuvre des soins d'hydroth\u00e9rapie par :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Aspersion par jet d'eau",
+            "code_ogr": "7448",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Baignade, immersion, ...",
+            "code_ogr": "7449",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Enveloppement d'algues, de boues, cataplasmes, ...",
+            "code_ogr": "7450",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Gargarisme, inhalation, irrigation, pulv\u00e9risation, n\u00e9bulisation, ...",
+            "code_ogr": "7451",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Techniques manuelles drainantes, relaxantes, raffermissantes, stimulantes, ...",
+            "code_ogr": "7452",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Appliquer les produits de soin sur le visage ou le corps",
+            "code_ogr": "3780",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer les produits d'enveloppement (algues, boues, bandes, ...) et les accessoires (couvertures, spatules, ...)",
+            "code_ogr": "7992",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer les appareils, bains, douches, cabines, sauna, hammam",
+            "code_ogr": "7919",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler les eaux, boues, algues et effectuer des mesures correctives",
+            "code_ogr": "4184",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Encaisser le montant d'une vente et renseigner les fiches clients",
+            "code_ogr": "5674",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de centres d'hydroth\u00e9rapie en contact avec de multiples intervenants (curistes, personnel m\u00e9dical, ...).\nElle varie selon le secteur (thalassoth\u00e9rapie, baln\u00e9oth\u00e9rapie, ...) et le type de soins (m\u00e9dicalis\u00e9s, remise en forme).\nElle peut s'exercer par roulement, les fins de semaine ou jours f\u00e9ri\u00e9s.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Centre de remise en forme",
+            "code_ogr": "23777",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement m\u00e9dical (h\u00f4pital, clinique, ...)",
+            "code_ogr": "23922",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Institut de beaut\u00e9",
+            "code_ogr": "23974",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Baln\u00e9oth\u00e9rapie",
+            "code_ogr": "23411",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tellerie",
+            "code_ogr": "23519",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Hydroth\u00e9rapie",
+            "code_ogr": "23522",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Thalassoth\u00e9rapie",
+            "code_ogr": "23649",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Thermalisme",
+            "code_ogr": "23650",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et d'asepsie",
+            "code_ogr": "22646",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de nettoyage et de d\u00e9sinfection",
+            "code_ogr": "22418",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Hydrologie, hydrog\u00e9ologie",
+            "code_ogr": "22039",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de baln\u00e9oth\u00e9rapie",
+            "code_ogr": "22808",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'hydroth\u00e9rapie",
+            "code_ogr": "23217",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes de la relation client",
+            "code_ogr": "22323",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Cosm\u00e9tique",
+            "code_ogr": "21757",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de soins esth\u00e9tiques",
+            "code_ogr": "23123",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise les soins corporels prescrits \u00e0 des personnes (curistes, clients) et les accompagne durant la prestation ou assiste des professionnels des soins m\u00e9dicaux (kin\u00e9sith\u00e9rapeute, m\u00e9decin thermal, ...) selon les r\u00e8gles d'hygi\u00e8ne et protocoles th\u00e9rapeutiques.\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "Hydroth\u00e9rapie",
+    "code_ogr": "89",
+    "code_rome": "D1203",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1214",
+            "libelle_rome_cible": "Vente en habillement et accessoires de la personne"
+        },
+        {
+            "code_rome_cible": "D1301",
+            "libelle_rome_cible": "Management de magasin de d\u00e9tail"
+        },
+        {
+            "code_rome_cible": "G1202",
+            "libelle_rome_cible": "Animation d'activit\u00e9s culturelles ou ludiques"
+        },
+        {
+            "code_rome_cible": "G1204",
+            "libelle_rome_cible": "\u00c9ducation en activit\u00e9s sportives"
+        },
+        {
+            "code_rome_cible": "K1103",
+            "libelle_rome_cible": "D\u00e9veloppement personnel et bien-\u00eatre de la personne"
+        }
+    ]
+}

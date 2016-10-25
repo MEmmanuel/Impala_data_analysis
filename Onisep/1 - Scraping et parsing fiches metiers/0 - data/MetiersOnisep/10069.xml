@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">directeur/trice de magasin à grande surface</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">décider/coordonner l'activité d'une équipe/faire du commerce</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction gestion des ressources humaines/fonction gestion financière et comptable/fonction direction</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur commerce</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">grande distribution/commerce distribution/direction d'entreprise</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE commerce distribution/directeur de magasin à grande surface</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10069</lien_onisep>
+<ROME Level="1B" csRelFld="10069">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10069">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="17626" csRelFld="17626">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17626</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10069</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Coordonner les activités du magasin</inter>
+<p>Véritable chef d'entreprise, le directeur de grande surface coordonne l'ensemble des activités du magasin, sur les plans commercial, financier et humain. Il donne son avis sur l'implantation des produits ou le réaménagement d'un rayon peu fréquenté par les clients. La gestion des frais généraux &#8211; traitement des déchets, achat de matériel, entretien des protections incendie, des meubles réfrigérés ou du chauffage&#8230; &#8211; fait partie du métier.</p>
+<inter>Garder un oeil sur les chiffres</inter>
+<p>Garant de la politique commerciale de l'enseigne, le directeur organise les animations et les opérations de promotion, selon les consignes transmises par la centrale d'achats et le siège. L'objectif ? Doper les ventes, réaliser le chiffre d'affaires prévu, voire le dépasser.</p>
+<inter>Manager sur le terrain</inter>
+<p>Le directeur n'hésite pas à sillonner les allées du magasin pour rencontrer les employés, juger de l'efficacité de ses actions et améliorer le travail des équipes. De cette façon, il s'assure aussi que les règles d'hygiène et de sécurité sont respectées.  </p>
+<p>Également manager, il fixe des objectifs motivants à ses collaborateurs, s'occupe des recrutements (caissiers, chefs de rayon, comptables...), de la formation du personnel, des emplois du temps des employés, de l'encadrement du comité d'entreprise...</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17639" csRelFld="17639">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17639</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10069</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>BTS (brevets de technicien supérieur) et DUT (diplômes universitaires de technologie) sont les diplômes de base pour accéder au poste de directeur de magasin.</accr_p>Mais, à ce niveau de responsabilité, les recruteurs leur préfèrent une licence professionnelle ou, mieux, un master professionnel. </p>
+<liste>
+<tete>Niveau bac + 2</tete>
+<itsimp>BTS management des unités commerciales</itsimp>
+<itsimp>DUT techniques de commercialisation</itsimp>
+<itsimp>Titre de gestionnaire d'unité commerciale, option généraliste ou spécialisée du réseau Négoventis, dépendant des CCI (chambres de commerce et d'industrie)</itsimp>
+<itsimp>Diplôme d'école de commerce avec une spécialisation en distribution, marketing ou gestion</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licence pro Distrisup Management (ex-Distech) spécialisée en commerce et distribution </itsimp>
+<itsimp>Diplôme d'école supérieure de commerce et de gestion dépendant des CCI</itsimp>
+</liste>
+<inter>Niveau bac + 5</inter>
+<liste>
+<itsimp>Master pro sciences des organisations mention marketing et stratégie, spécialité distribution et relation client ; droit, économie, gestion, mention commerce-marketing, spécialité distribution-vente ; droit, économie, gestion, mention distribution et marketing, spécialité management de la distribution&#8230;</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="17634" csRelFld="17634">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">17634</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10069</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Reprise modérée des ventes</inter>
+<p>Selon la Fédération des entreprises du commerce et de la distribution, l'emploi dans le commerce a baissé, pour la première fois depuis 1994, en 2009. Selon l'Insee, en 2010, on a noté une reprise de l'activité des commerces de détail, notamment dans l'alimentation. Avec 635 000 salariés en 2009, une légère baisse des effectifs a été enregistrée dans les hypermarchés et les supermarchés. Les CDI (contrats à durée indéterminée) demeurent prépondérants dans le secteur avec 89 % des salariés concernés.</p>
+<inter>L'expérience, un atout indispensable</inter>
+<p>Le poste de directeur de magasin n'est pas immédiatement accessible aux jeunes diplômés. Les recruteurs réclament une expérience préalable de plusieurs années dans d'autres fonctions : chef de rayon, puis responsable de secteur, éventuellement directeur adjoint. La promotion interne est la voie la plus fréquente pour accéder à la fonction de direction. Dans le secteur indépendant, la perspective de carrière peut passer par l'acquisition d'un magasin.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>3000</sal> euros brut par mois.</p>
+<postit>
+<p>Source : convention collective nationale du commerce de détail et de gros à prédominance alimentaire, 2011.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

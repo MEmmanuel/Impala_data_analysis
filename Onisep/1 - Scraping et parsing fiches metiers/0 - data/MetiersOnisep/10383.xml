@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">administrateur/trice de réseau</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">réparer, entretenir, installer des équipements/programmer, créer du contenu numérique</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction maintenance</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur sociétés de service et de conseil en informatique/secteur des télécommunications</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">gestion de réseau de télécommunication/réseau de télécommunication/réseau informatique</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE tertiaire de bureau tertiaire spécialisé/administrateur réseau</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/10383</lien_onisep>
+<ROME Level="1B" csRelFld="10383">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="599" csRelFld="599">
+<CSLABELFLD label="">M1801</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Systèmes d'information et de télécommunication</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">M1801</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Administration de systèmes d'information</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="10383">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="983" csRelFld="983">
+<CSLABELFLD label="">administrateur / administratrice réseaux télécoms</CSLABELFLD>
+<MET_ID label="Identifiant">10383</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">983</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">administrateur/trice réseaux télécoms</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="983">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+<record Level="1C1" csKeyFld="984" csRelFld="984">
+<CSLABELFLD label="">administrateur / administratrice systèmes et réseaux</CSLABELFLD>
+<MET_ID label="Identifiant">10383</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">27/10/2011</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">984</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">administrateur/trice systèmes et réseaux</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="984">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="18523" csRelFld="18523">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18523</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10383</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Gérer un réseau</inter>
+<p>À l'aide des appareils de mesure appropriés, l'administrateur analyse les performances du réseau dont il a la charge. Il repère les points critiques, puis s'efforce d'apporter des solutions adaptées : ouverture de nouveaux accès, sécurisation et confidentialité accrues (mot de passe, sauvegarde...), plan de secours pour garantir la continuité du fonctionnement. Il suit les opérations de dépannage.</p>
+<inter>Installer le matériel</inter>
+<p>L'administrateur réseaux réceptionne les matériels informatiques et de télécommunications, en veillant à leur compatibilité avec les installations existantes. Il les configure et les paramètre pour les insérer dans le réseau. Véritable gestionnaire, sa vue d'ensemble des équipements de l'entreprise lui permet de garder un oeil sur les dépenses.</p>
+<inter>Faire évoluer l'ensemble</inter>
+<p>Avec les ingénieurs et techniciens, il définit les plans de rénovation ou d'extension du réseau. Pour cela, il effectue entre autres une veille informatique permanente lui permettant d'anticiper les évolutions technologiques. Il fait connaître les évolutions aux utilisateurs, qu'il guide et aide quand des difficultés surviennent.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18527" csRelFld="18527">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18527</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10383</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>
+<accr_p>Ce métier peut s'exercer avec différents niveaux de formation.</accr_p> Tout dépend de l'importance du réseau à administrer. Avec un niveau bac + 2, par exemple, il est possible de se forger une première expérience en gérant un réseau local au sein d'une PME. Certains CFA (centres de formation d'apprentis) proposent des formations de technicien supérieur en administration de réseaux.</p>
+<liste>
+<tete>Niveau bac + 2 </tete>
+<itsimp>DUT ou BTS en informatique, réseaux et télécommunications</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 3</tete>
+<itsimp>Licences pro mention métiers de l'informatique : administration et sécurité des systèmes, mention métiers des réseaux informatiques et télécommunications</itsimp>
+</liste>
+<liste>
+<tete>Niveau bac + 5 </tete>
+<itsimp>Master mention réseaux et télécommunications, mention informatique</itsimp>
+<itsimp>Diplôme d'ingénieur orienté réseaux</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="18524" csRelFld="18524">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">18524</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">10383</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Des places à prendre</inter>
+<p>La généralisation des réseaux informatiques locaux, le développement d'Internet et du commerce électronique promettent de beaux jours à cette spécialité. Au nombre des employeurs : les PME (petites et moyennes entreprises), les grandes entreprises (grande distribution, constructeurs automobiles, agences de presse...), les administrations, les installateurs, les sociétés de télécoms ou encore les SSII (sociétés de services en ingénierie informatique).</p>
+<inter>Priorité à l'expérience</inter>
+<p>Il arrive que les administrateurs débutants soient de jeunes diplômés, mais le plus souvent, ce sont des professionnels ayant une bonne pratique des environnements informatiques. Grâce à leur expérience, ils maîtrisent à la fois l'expertise technique et les aspects de gestion.</p>
+<inter>Un panel d'évolutions</inter>
+<p>Un administrateur expérimenté peut naturellement se tourner vers des fonctions de responsable télécoms ou d'architecte réseaux, mais aussi de consultant, de technico-commercial ou d'ingénieur d'affaires.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>A partir de <sal>2200</sal> euros brut par mois </p>
+<postit>
+<p>(01Business&amp;Techno, 2012)</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

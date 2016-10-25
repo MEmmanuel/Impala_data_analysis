@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">techniverrier/ère</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">exercer un travail manuel/me déplacer souvent</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur second oeuvre bâtiment</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">verre/vitrerie miroiterie/façade</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE bâtiment équipements et finitions/techniverrier</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100333</lien_onisep>
+<ROME Level="1B" csRelFld="100333">
+<FAMILLE_PROF_ROME Level="1B1">
+<record Level="1B1" csKeyFld="201" csRelFld="201">
+<CSLABELFLD label="">F1607</CSLABELFLD>
+<FAM_FAMROM_ID label="Famille">Second oeuvre</FAM_FAMROM_ID>
+<FAMROM_CODE_ROME label="Code ROME">F1607</FAMROM_CODE_ROME>
+<FAMROM_LIBELLE label="Libellé">Pose de fermetures menuisées</FAMROM_LIBELLE>
+</record>
+</FAMILLE_PROF_ROME>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100333">
+<METIER_CONNEXE Level="1C1">
+<record Level="1C1" csKeyFld="1803" csRelFld="1803">
+<CSLABELFLD label="">miroitier / miroitière d'art</CSLABELFLD>
+<MET_ID label="Identifiant">100333</MET_ID>
+<METCONN_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts"/>
+<METCONN_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt"/>
+<METCONN_DATE_CREATION label="Créé le">23/09/2015</METCONN_DATE_CREATION>
+<METCONN_DATE_MODIFICATION label="Modifié le"/>
+<METCONN_DISCIPLINE label="Descripteur thesaurus Disciplines"/>
+<METCONN_DOMAINE label="Descripteur thesaurus Fonctions"/>
+<METCONN_GFE label="Descripteur thesaurus GFE"/>
+<METCONN_ID label="ID">1803</METCONN_ID>
+<METCONN_LIBELLE_METIER label="Nom du métier">miroitier/ère d'art</METCONN_LIBELLE_METIER>
+<METCONN_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité"/>
+<METCONN_USER_MODIFICATION label="Utilisateur">edi</METCONN_USER_MODIFICATION>
+<Thesaurus Level="1C1A" csRelFld="1803">
+<CSTM_T Level="1C1A1"/>
+</Thesaurus>
+</record>
+</METIER_CONNEXE>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="30770" csRelFld="30770">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30770</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100333</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Du miroir à la véranda</inter>
+<p>Le techniverrier fabrique et installe sur des châssis de nombreux ouvrages en verre : fenêtres et baies vitrées, portes automatiques, vérandas et verrières, vitrines, miroirs et cloisons, cabines de douche. Le monteur-poseur techniverrier peut aussi être chargé d'assurer l'installation, l'entretien et la réparation des automatismes qui commandent les fermetures dans un immeuble, ce qui renvoie au domaine de la domotique.</p>
+<inter>Le travail du verre</inter>
+<p>Après avoir mesuré et dessiné très précisément les découpes à effectuer sur le verre, le techniverrier le coupe avec un diamant ou une machine à commande numérique. Il façonne ensuite le pourtour du verre.</p>
+<inter>La fabrication du châssis</inter>
+<p>Le techniverrier se charge aussi des armatures qui supporteront les éléments en verre. Il fabrique ainsi des châssis en aluminium, en bois, en métal ou en PVC, y insère les produits verriers, puis se rend sur le chantier pour réaliser la pose.</p>
+<inter>Choisir le bon verre</inter>
+<p>Le techniverrier travaille différentes sortes de verres selon les besoins du client. Pour une véranda, ce qui importe est la protection contre la chaleur et le froid ; pour la vitrine d'une banque, des verres qui résistent aux chocs.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="30774" csRelFld="30774">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30774</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100333</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<titre>CAP minimum</titre>
+<liste>
+<tete>Le CAP constitue la formation de base pour exercer ce métier.</tete>
+<itsimp>Le CAP menuisier aluminium-verre se prépare en 2 ans après la classe de 3<exp>e</exp> , à temps plein dans un lycée professionnel ou en apprentissage.</itsimp>
+</liste>
+<liste>
+<tete>Par la suite, les techniverriers peuvent préparer différents diplômes.</tete>
+<itsimp>Le BP menuisier aluminium-verre, en 2 ans et par apprentissage, permet d'acquérir une qualification supérieure et une formation à la gestion d'entreprise.</itsimp>
+<itsimp>Le bac pro menuisier aluminium-verre forme, en 2 ans après le CAP, forme des ouvriers hautement qualifiés et mène, après avoir fait ses preuves, à un poste à responsabilité. Le bac pro est accessible directement après la classe de 3<exp>e</exp> et se prépare alors en 3 ans.</itsimp>
+<itsimp>Les titulaires du bac STI2D (développement durable) et de certains bacs pro du bâtiment peuvent préparer en 2 ans le BTS enveloppe du bâtiment, façades étanchéité qui mène à des fonctions de bureau d'études, d'études de prix, d'organisation et de suivi de chantier.</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="30772" csRelFld="30772">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">30772</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100333</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Un large spectre de spécialisations</inter>
+<p>Du fait des mutations dans le secteur du BTP, le techniverrier s'adapte à des métiers voisins. Il peut ainsi se spécialiser pour être plutôt coupeur, façonnier ou monteur-poseur. Il peut travailler divers matériaux, mais aussi réaliser des ouvrages originaux. Les débouchés sont assurés dans les entreprises spécialisées dans les produits verriers de la façade et du cloisonnement (fenêtres, vérandas, vitrines...), ainsi que chez les vendeurs de vitrages élaborés utilisés dans la construction (verres trempés, feuilletés, isolants...).</p>
+<inter>La formation continue</inter>
+<p>Le techniverrier suit l'évolution foisonnante des nouveaux produits et outils afin de s'adapter en permanence et de garantir ainsi un résultat à la fois beau et solide.</p>
+<inter>Possibilités d'évolution</inter>
+<p>Au bout de quelques années, le techniverrier peut devenir responsable technique de chantier. Il conduit les travaux, évalue le prix de revient d'un chantier, gère les commandes et les quantités. Sur les gros chantiers, il encadre une ou plusieurs équipes de techniverriers. Il peut aussi créer sa propre entreprise. Il peut réaliser des ossatures de charpentes métalliques, toutes sortes de serrures, des portes commandées par digicode ou à distance.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>À partir du <sal>Smic</sal>.</p>
+<postit>
+<p>Source : non indiquée.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

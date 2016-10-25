@@ -1,0 +1,558 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Accueillant familial/Accueillante familiale aupr\u00e8s d'adultes",
+            "priorisation": "1",
+            "libelle": "Accueillant familial / Accueillante familiale aupr\u00e8s d'adultes",
+            "code_ogr": "10237"
+        },
+        {
+            "libelle_court": "Accueillant(e) familial(e) th\u00e9rapeutique aupr\u00e8s d'adultes",
+            "priorisation": "1",
+            "libelle": "Accueillant familial / Accueillante familiale th\u00e9rapeutique aupr\u00e8s d'adultes",
+            "code_ogr": "10239"
+        },
+        {
+            "libelle_court": "Aide aux personnes \u00e2g\u00e9es",
+            "priorisation": "1",
+            "libelle": "Aide aux personnes \u00e2g\u00e9es",
+            "code_ogr": "10816"
+        },
+        {
+            "libelle_court": "Assistant / Assistante de convivialit\u00e9 \u00e0 domicile",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante de convivialit\u00e9 \u00e0 domicile",
+            "code_ogr": "11225"
+        },
+        {
+            "libelle_court": "Assistant / Assistante de vie",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante de vie",
+            "code_ogr": "11255"
+        },
+        {
+            "libelle_court": "Assistant / Assistante de vie aupr\u00e8s de personnes \u00e2g\u00e9es",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante de vie aupr\u00e8s de personnes \u00e2g\u00e9es",
+            "code_ogr": "11256"
+        },
+        {
+            "libelle_court": "Assistant/Assistante de vie aupr\u00e8s de personnes handicap\u00e9es",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante de vie aupr\u00e8s de personnes handicap\u00e9es",
+            "code_ogr": "11257"
+        },
+        {
+            "libelle_court": "Assistant / Assistante de vie d\u00e9pendance",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante de vie d\u00e9pendance",
+            "code_ogr": "38087"
+        },
+        {
+            "libelle_court": "Auxiliaire de g\u00e9riatrie",
+            "priorisation": "1",
+            "libelle": "Auxiliaire de g\u00e9riatrie",
+            "code_ogr": "11446"
+        },
+        {
+            "libelle_court": "Auxiliaire de g\u00e9rontologie",
+            "priorisation": "1",
+            "libelle": "Auxiliaire de g\u00e9rontologie",
+            "code_ogr": "11447"
+        },
+        {
+            "libelle_court": "Auxiliaire de vie",
+            "priorisation": "1",
+            "libelle": "Auxiliaire de vie",
+            "code_ogr": "11453"
+        },
+        {
+            "libelle_court": "Auxiliaire de Vie Sociale -AVS-",
+            "priorisation": "1",
+            "libelle": "Auxiliaire de Vie Sociale -AVS-",
+            "code_ogr": "11456"
+        },
+        {
+            "libelle_court": "Auxiliaire familiale",
+            "priorisation": "1",
+            "libelle": "Auxiliaire familiale",
+            "code_ogr": "11459"
+        },
+        {
+            "libelle_court": "Auxiliaire familiale et sanitaire",
+            "priorisation": "1",
+            "libelle": "Auxiliaire familiale et sanitaire",
+            "code_ogr": "11460"
+        },
+        {
+            "libelle_court": "Employ\u00e9 / Employ\u00e9e \u00e0 domicile aupr\u00e8s d'adultes",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 / Employ\u00e9e \u00e0 domicile aupr\u00e8s d'adultes",
+            "code_ogr": "14747"
+        },
+        {
+            "libelle_court": "Employ\u00e9 familial / Employ\u00e9e familiale aupr\u00e8s d'adultes",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 familial / Employ\u00e9e familiale aupr\u00e8s d'adultes",
+            "code_ogr": "14807"
+        },
+        {
+            "libelle_court": "Garde-malade",
+            "priorisation": "1",
+            "libelle": "Garde-malade",
+            "code_ogr": "15207"
+        },
+        {
+            "libelle_court": "Monsieur / Dame de compagnie",
+            "priorisation": "1",
+            "libelle": "Monsieur / Dame de compagnie",
+            "code_ogr": "16750"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Conseiller la personne dans ses activit\u00e9s de la vie quotidienne (repas, travaux m\u00e9nagers, hygi\u00e8ne, s\u00e9curit\u00e9, ...)",
+            "code_ogr": "956",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Aider la personne dans les gestes de la vie quotidienne",
+            "code_ogr": "3500",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser pour la personne des courses, la pr\u00e9paration des repas, des formalit\u00e9s administratives, ...",
+            "code_ogr": "2891",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Aider aux soins d'hygi\u00e8ne corporelle et de confort de la personne (lavage des mains et du visage, coiffure, ...)",
+            "code_ogr": "610",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Procurer \u00e0 la personne des \u00e9l\u00e9ments de confort (rehaussage/r\u00e9glage du fauteuil, du lit, ...), de r\u00e9confort et v\u00e9rifier les \u00e9l\u00e9ments de s\u00e9curit\u00e9, d'assistance m\u00e9dicale, ...",
+            "code_ogr": "2722",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Observer l'\u00e9tat de sant\u00e9 de la personne, relever les modifications de comportement, \u00e9tats d\u00e9pressifs, ... et informer les interlocuteurs concern\u00e9s (famille, m\u00e9decin, ...)",
+            "code_ogr": "2428",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "J1301",
+            "libelle_rome_cible": "Personnel polyvalent des services hospitaliers"
+        },
+        {
+            "code_rome_cible": "K1303",
+            "libelle_rome_cible": "Assistance aupr\u00e8s d'enfants"
+        },
+        {
+            "code_rome_cible": "K1304",
+            "libelle_rome_cible": "Services domestiques"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP ou un Dipl\u00f4me d'Etat dans le secteur de l'aide sociale et familiale (Dipl\u00f4me d'Etat d'Auxiliaire de Vie Sociale -DEAVS -, Certificat d'Aptitude aux Fonctions d'Aide \u00e0 Domicile -CAFAD-, ...).\nIl peut \u00eatre accessible sans dipl\u00f4me et avec exp\u00e9rience.\nUn agr\u00e9ment de la Direction D\u00e9partementale des Affaires Sanitaires et Sociales -DDASS- ou la formation Pr\u00e9vention et Secours Civiques de niveau 1 -PSC1- peu(ven)t \u00eatre requis.\nDes vaccinations sp\u00e9cifiques (H\u00e9patite B, DTPolio, ...) sont requises.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Intervenir aupr\u00e8s d'un type de public :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Famille nombreuse, parents, personne en maternit\u00e9",
+            "code_ogr": "6311",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Personnes \u00e2g\u00e9es",
+            "code_ogr": "6324",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Personnes avec handicap mental",
+            "code_ogr": "6320",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Personnes avec handicap moteur",
+            "code_ogr": "6321",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Personnes avec handicap psychique",
+            "code_ogr": "6322",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Personnes malades",
+            "code_ogr": "6323",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Entretenir les espaces de vie et le linge de la personne",
+            "code_ogr": "5783",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier la prise de m\u00e9dicaments par la personne en fonction de la prescription m\u00e9dicale",
+            "code_ogr": "10176",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Animer des activit\u00e9s de d\u00e9tente et de loisirs (jeux, lecture, ...) et stimuler la participation des personnes",
+            "code_ogr": "3726",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accompagner une personne lors de promenade ou de d\u00e9placements",
+            "code_ogr": "3639",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9ceptionner des plateaux-repas en vue de leur distribution et les apporter \u00e0 une personne",
+            "code_ogr": "9422",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Organiser les activit\u00e9s de la personne (repas, animation, loisir, ...) selon ses attentes et besoins",
+            "code_ogr": "7749",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les documents de suivi de la personne et \u00e9changer des informations avec l'\u00e9quipe, la famille, l'administration, le personnel soignant, le magistrat",
+            "code_ogr": "3597",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser ou conseiller sur le suivi d'un budget (personne, famille, ...)",
+            "code_ogr": "9253",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce en autonomie au domicile de particuliers ou en \u00e9quipe au sein de structures (maisons de retraite, foyers d'h\u00e9bergement, ...), en contact avec diff\u00e9rents intervenants (encadrant, famille, personnel m\u00e9dical, param\u00e9dical, ...).\nElle s'exerce dans une relation d'aide et de services.\nElle peut varier selon la structure (particulier employeur, maison de retraite, ...), le lieu (domicile, \u00e9tablissement, ...) et l'autonomie de la personne.\nElle peut s'exercer en horaires d\u00e9cal\u00e9s, par roulement, les fins de semaine, jours f\u00e9ri\u00e9s, de nuit.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Manipulation de produits de nettoyage et d'entretien",
+            "code_ogr": "20975",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Association",
+            "code_ogr": "23706",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise publique/\u00e9tablissement public",
+            "code_ogr": "23912",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement m\u00e9dical (h\u00f4pital, clinique, ...)",
+            "code_ogr": "23922",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Foyer / centre d'h\u00e9bergement",
+            "code_ogr": "23942",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Particulier employeur",
+            "code_ogr": "38127",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9sidence de personnes \u00e2g\u00e9es",
+            "code_ogr": "24050",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de service d'aide \u00e0 domicile",
+            "code_ogr": "24091",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9dical",
+            "code_ogr": "23554",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9dicosocial",
+            "code_ogr": "23555",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Services \u00e0 la personne",
+            "code_ogr": "23637",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Au domicile de particulier",
+            "code_ogr": "23375",
+            "code_type_section_env": "3"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail de nuit",
+            "code_ogr": "38055",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Ergonomie",
+            "code_ogr": "21935",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en g\u00e9rontologie",
+            "code_ogr": "21870",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en di\u00e9t\u00e9tique",
+            "code_ogr": "21849",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de propret\u00e9",
+            "code_ogr": "22647",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9 domestique",
+            "code_ogr": "22624",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes d'urgence et de secours",
+            "code_ogr": "21991",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'\u00e9coute active",
+            "code_ogr": "23178",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'\u00e9coute et de la relation \u00e0 la personne",
+            "code_ogr": "21078",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Classification des handicaps",
+            "code_ogr": "21718",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pathologies du vieillissement",
+            "code_ogr": "22277",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'animation de groupe",
+            "code_ogr": "22770",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nAssiste les personnes dans l'accomplissement des actes de la vie quotidienne (lever, toilette...) et la r\u00e9alisation des travaux m\u00e9nagers (cuisine, m\u00e9nage, courses...) afin de maintenir leur autonomie.\n",
+    "intitule": "Assistance aupr\u00e8s d'adultes",
+    "code_ogr": "376",
+    "code_rome": "K1302",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1203",
+            "libelle_rome_cible": "Hydroth\u00e9rapie"
+        },
+        {
+            "code_rome_cible": "G1203",
+            "libelle_rome_cible": "Animation de loisirs aupr\u00e8s d'enfants ou d'adolescents"
+        },
+        {
+            "code_rome_cible": "G1502",
+            "libelle_rome_cible": "Personnel polyvalent d'h\u00f4tellerie"
+        },
+        {
+            "code_rome_cible": "J1303",
+            "libelle_rome_cible": "Assistance m\u00e9dico-technique"
+        },
+        {
+            "code_rome_cible": "J1304",
+            "libelle_rome_cible": "Aide en pu\u00e9riculture"
+        },
+        {
+            "code_rome_cible": "J1501",
+            "libelle_rome_cible": "Soins d'hygi\u00e8ne, de confort du patient"
+        },
+        {
+            "code_rome_cible": "K1301",
+            "libelle_rome_cible": "Accompagnement m\u00e9dicosocial"
+        },
+        {
+            "code_rome_cible": "K1305",
+            "libelle_rome_cible": "Intervention sociale et familiale"
+        }
+    ]
+}

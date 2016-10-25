@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metier>
+<MET_LIBELLE_METIER label="Nom du métier" store="yes">glaciologue</MET_LIBELLE_METIER>
+<MET_CENTRE_INTERET label="Descripteur thesaurus Centres d'intérêt">faire de la recherche/me déplacer souvent/travailler dehors/travailler en contact avec la nature</MET_CENTRE_INTERET>
+<MET_CATEGORIE_SOCIO_PRO label="Descripteur thesaurus Statuts">salarié/fonctionnaire</MET_CATEGORIE_SOCIO_PRO>
+<MET_DOMAINE label="Descripteur thesaurus Fonctions">fonction recherche fondamentale/fonction recherche appliquée</MET_DOMAINE>
+<MET_SECTEUR_ACTIVITE label="Descripteur thesaurus Secteurs d'activité">secteur recherche/secteur fonction publique/secteur de l'éducation/secteur environnement/secteur sociétés d'ingénierie et d'études techniques</MET_SECTEUR_ACTIVITE>
+<MET_DISCIPLINE label="Descripteur thesaurus Disciplines">géologie</MET_DISCIPLINE>
+<MET_GFE label="Descripteur thesaurus GFE">GFE enseignement sciences humaines domaines scientifiques droit</MET_GFE>
+<lien_onisep>http://www.onisep.fr/http/redirection/metier/identifiant/100635</lien_onisep>
+<ROME Level="1B" csRelFld="100635">
+<FAMILLE_PROF_ROME Level="1B1"/>
+</ROME>
+<Métiers_associés Level="1C" csRelFld="100635">
+<METIER_CONNEXE Level="1C1"/>
+</Métiers_associés>
+<XML>
+<XMLCONTENT>
+<record Level="1D1" csKeyFld="56406" csRelFld="56406">
+<CSLABELFLD label="">MET_NATURE_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56406</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100635</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_NATURE_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_NATURE_DESCRIPTIF>
+<inter>Un explorateur sur le terrain</inter>
+<p>Très variées, les missions du glaciologue touchent à l'étude de la nature physique, chimique et parfois même mécanique des glaces, mais aussi à l'observation des processus de gel et de dégel. Dans un premier temps, il organise des expéditions pour prélever des échantillons, collecter des données ou étudier le comportement d'un glacier, d'un écoulement, d'une cascade de glace...</p>
+<inter>Un chercheur en laboratoire</inter>
+<p>De retour au laboratoire, il passe à la phase d'analyse des données. Il est souvent amené à réaliser des modélisations, notamment pour comprendre les mouvements de la glace ou l'évolution d'un terrain au cours des siècles. Ainsi, des traces de fumée peuvent révéler la présence d'un volcan dans le secteur. S'il travaille dans l'industrie, son travail consiste à suivre et à contrôler l'exploitation de ressources naturelles.</p>
+<inter>Communicant bilingue</inter>
+<p>Souvent chercheur, ce scientifique présente les résultats de ses recherches dans des communications écrites et orales. Dans le secteur privé, il est également tenu de faire des rapports réguliers sur ses découvertes. Il travaille très souvent dans des équipes internationales pluridisciplinaires.</p>
+</MET_NATURE_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56410" csRelFld="56410">
+<CSLABELFLD label="">MET_ACCES_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56410</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100635</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_ACCES_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_ACCES_DESCRIPTIF>
+<p>Peu de formations spécifiques pour les futurs glaciologues en dehors de la filière spécialisée de l'université Joseph Fourier de Grenoble. Beaucoup de chercheurs accèdent à ce métier par les sciences de la Terre ou de l'environnement, généralement à bac + 5.</p>
+<liste>
+<tete>Niveau bac + 5</tete>
+<itsimp>Master en géologie, environnement... </itsimp>
+<itsimp>Diplôme d'ingénieur en géologie, environnement...</itsimp>
+</liste>
+</MET_ACCES_DESCRIPTIF>
+</XC_XML>
+</record>
+<record Level="1D1" csKeyFld="56408" csRelFld="56408">
+<CSLABELFLD label="">MET_VIE_PRO_DESCRIPTIF</CSLABELFLD>
+<XC_KEY label="XC_KEY">56408</XC_KEY>
+<XC_TABLENAME label="Nom de la table à laquelle le fragment XML est rattaché">METIER</XC_TABLENAME>
+<XC_RECKEY label="Identifiant unique de l'enregistrement concerné dans la table désigné par XC_TABLENAME">100635</XC_RECKEY>
+<XC_TYPE label="Un texte permettant de différencier un fragment d'un autre pour un seul XC_RECKEY (ex.: Horaires, Ex">MET_VIE_PRO_DESCRIPTIF</XC_TYPE>
+<XC_XML label="Contenu XML résultant de la saisie. Il est extrait de XC_CONTENT après nettoyage des attributs inuti">
+<MET_VIE_PRO_DESCRIPTIF>
+<inter>Quelques places dans le public</inter>
+<p>Les postes en recherche sont peu nombreux en glaciologie. Le but pour les doctorants est de devenir professeur-chercheur. Dans cette optique, il est important de se constituer un réseau dans le milieu scientifique. Quelques embauches se font chaque année au sein de l'Irstea (Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture) ou du CNRS (Centre national de la recherche scientifique).</p>
+<inter>Et dans le privé</inter>
+<p>Des débouchés existent aussi dans le secteur privé, le plus souvent en bureaux d'études ou dans des entreprises industrielles liées, par exemple, à la construction ou à l'exploitation de ressources naturelles (minerais, hydrocarbures).</p>
+<inter>Élargir son horizon</inter>
+<p>Ce spécialiste travaille au sein d'équipes pluridisciplinaires qui varient en fonction des projets. Les expéditions et les études se faisant le plus souvent dans le cadre de projets internationaux, il doit envisager sa carrière au minimum à l'échelle européenne. En fonction de son expérience et de la structure qui l'emploie, il pourra diriger une équipe ou se spécialiser dans un aspect de son travail, une zone géographique, etc.</p>
+<remun>
+<inter>Salaire du débutant</inter>
+<p>
+<sal>2200</sal> euros brut par mois.</p>
+<postit>
+<p>Source : CNRS, 2013.</p>
+</postit>
+</remun>
+</MET_VIE_PRO_DESCRIPTIF>
+</XC_XML>
+</record>
+</XMLCONTENT>
+</XML>
+</metier>

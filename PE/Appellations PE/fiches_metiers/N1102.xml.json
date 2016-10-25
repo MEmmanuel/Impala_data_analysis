@@ -1,0 +1,571 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Aide-d\u00e9m\u00e9nageur / Aide-d\u00e9m\u00e9nageuse",
+            "priorisation": "1",
+            "libelle": "Aide-d\u00e9m\u00e9nageur / Aide-d\u00e9m\u00e9nageuse",
+            "code_ogr": "10875"
+        },
+        {
+            "libelle_court": "Bardeur / Bardeuse en d\u00e9m\u00e9nagement de transfert industriel",
+            "priorisation": "1",
+            "libelle": "Bardeur / Bardeuse en d\u00e9m\u00e9nagement de transfert industriel",
+            "code_ogr": "11493"
+        },
+        {
+            "libelle_court": "Chef d\u00e9m\u00e9nageur / d\u00e9m\u00e9nageuse",
+            "priorisation": "1",
+            "libelle": "Chef d\u00e9m\u00e9nageur / d\u00e9m\u00e9nageuse",
+            "code_ogr": "12385"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe d\u00e9m\u00e9nageur / d\u00e9m\u00e9nageuse",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe d\u00e9m\u00e9nageur / d\u00e9m\u00e9nageuse",
+            "code_ogr": "12437"
+        },
+        {
+            "libelle_court": "D\u00e9m\u00e9nageur / D\u00e9m\u00e9nageuse",
+            "priorisation": "1",
+            "libelle": "D\u00e9m\u00e9nageur / D\u00e9m\u00e9nageuse",
+            "code_ogr": "13947"
+        },
+        {
+            "libelle_court": "D\u00e9m\u00e9nageur conducteur/D\u00e9m\u00e9nageuse conductrice de poids lourd",
+            "priorisation": "1",
+            "libelle": "D\u00e9m\u00e9nageur conducteur / D\u00e9m\u00e9nageuse conductrice de poids lourd",
+            "code_ogr": "13948"
+        },
+        {
+            "libelle_court": "D\u00e9m\u00e9nageur emballeur / D\u00e9m\u00e9nageuse emballeuse",
+            "priorisation": "1",
+            "libelle": "D\u00e9m\u00e9nageur emballeur / D\u00e9m\u00e9nageuse emballeuse",
+            "code_ogr": "13949"
+        },
+        {
+            "libelle_court": "D\u00e9m\u00e9nageur professionnel / D\u00e9m\u00e9nageuse professionnelle",
+            "priorisation": "1",
+            "libelle": "D\u00e9m\u00e9nageur professionnel / D\u00e9m\u00e9nageuse professionnelle",
+            "code_ogr": "13950"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "S\u00e9lectionner et charger le mat\u00e9riel de d\u00e9m\u00e9nagement en fonction de la commande",
+            "code_ogr": "3139",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler l'\u00e9tat des objets et du mobilier, signaler les anomalies au client et emballer chaque \u00e9l\u00e9ment selon ses caract\u00e9ristiques",
+            "code_ogr": "1163",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Acheminer le mobilier, les cartons entre le local et le v\u00e9hicule",
+            "code_ogr": "585",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9monter/monter le mobilier ou les machines et les positionner selon la demande",
+            "code_ogr": "1350",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9baller les objets d\u00e9m\u00e9nag\u00e9s et les ranger",
+            "code_ogr": "1778",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer l'int\u00e9rieur et l'ext\u00e9rieur du v\u00e9hicule",
+            "code_ogr": "2423",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "N1101",
+            "libelle_rome_cible": "Conduite d'engins de d\u00e9placement des charges"
+        },
+        {
+            "code_rome_cible": "N1103",
+            "libelle_rome_cible": "Magasinage et pr\u00e9paration de commandes"
+        },
+        {
+            "code_rome_cible": "N3203",
+            "libelle_rome_cible": "Manutention portuaire"
+        },
+        {
+            "code_rome_cible": "N4101",
+            "libelle_rome_cible": "Conduite de transport de marchandises sur longue distance"
+        },
+        {
+            "code_rome_cible": "N4105",
+            "libelle_rome_cible": "Conduite et livraison par tourn\u00e9es sur courte distance"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un CAP de d\u00e9m\u00e9nageur professionnel. Il est \u00e9galement accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle.\nLes permis poids lourds C, C1, CE, C1E (pr\u00e9c\u00e9demment C ou EC) compl\u00e9t\u00e9s par la Formation Initiale Minimale Obligatoire -FIMO- sont exig\u00e9s pour les conducteurs de v\u00e9hicules. Un renouvellement p\u00e9riodique de la FIMO par la Formation Continue Obligatoire -FCO- est exig\u00e9.\nUne bonne condition physique est requise.\nUn ou plusieurs Certificat(s) d'Aptitude \u00e0 la Conduite en S\u00e9curit\u00e9 -CACES- conditionn\u00e9(s) par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement peu(ven)t \u00eatre demand\u00e9(s).\n",
+    "activite_specifique": [
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "FIMO option marchandises",
+            "code_ogr": "10131",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "FCO option marchandises",
+            "code_ogr": "10130",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 390 (Grues auxiliaires de chargement de v\u00e9hicules)",
+            "code_ogr": "10128",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 383 (Grues mobiles)",
+            "code_ogr": "10114",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 386 (Plates-formes \u00e9l\u00e9vatrices mobiles de personnes)",
+            "code_ogr": "10120",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-1 (Transpalettes \u00e0 conducteur port\u00e9 et pr\u00e9parateurs de commandes au sol)",
+            "code_ogr": "10122",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-2 (Chariots tracteurs et \u00e0 plateau porteur de capacit\u00e9 inf\u00e9rieure \u00e0 6 000 kg)",
+            "code_ogr": "10123",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-3 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 inf\u00e9rieure ou \u00e9gale \u00e0 6000 kg)",
+            "code_ogr": "10124",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-4 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 sup\u00e9rieure \u00e0 6000 kg)",
+            "code_ogr": "10125",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-5 (Chariots \u00e9l\u00e9vateurs \u00e0 m\u00e2t r\u00e9tractable)",
+            "code_ogr": "10126",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "10",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-6 (D\u00e9placement, chargement, transfert de chariots sans activit\u00e9 de production (maintenance, d\u00e9monstration, essais)",
+            "code_ogr": "10127",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "11",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES Attestation de formation \u00ab monte-meuble \u00bb",
+            "code_ogr": "10098",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "12",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conduire un v\u00e9hicule sp\u00e9cifique :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9hicule articul\u00e9",
+            "code_ogr": "4102",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9hicule avec grue auxiliaire de chargement",
+            "code_ogr": "4103",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9hicule porteur de plus de 3,5 t",
+            "code_ogr": "4111",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9m\u00e9nager un type de produit :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Billard",
+            "code_ogr": "4594",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coffre-fort",
+            "code_ogr": "4595",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mati\u00e8res dangereuses (gaz, hydrocarbures, produits chimiques, ...)",
+            "code_ogr": "4596",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Objets fragiles et pr\u00e9cieux (objets d'art, meubles d'\u00e9poque, ...)",
+            "code_ogr": "4597",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Piano",
+            "code_ogr": "4598",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ranger et caler les \u00e9l\u00e9ments d\u00e9m\u00e9nag\u00e9s \u00e0 l'int\u00e9rieur d'un v\u00e9hicule ou dans un conteneur",
+            "code_ogr": "8211",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der aux op\u00e9rations de transfert de machines industrielles (d\u00e9montage, conditionnement, arrimage, r\u00e9-installation, ...)",
+            "code_ogr": "8174",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Organiser et contr\u00f4ler le d\u00e9roulement d'un d\u00e9m\u00e9nagement avec le client (\u00e9tat des lieux, devis, conseils, ...)",
+            "code_ogr": "7696",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le transit international d'un convoi de d\u00e9m\u00e9nagement routier",
+            "code_ogr": "5385",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien de premier niveau et le nettoyage du v\u00e9hicule",
+            "code_ogr": "3545",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises de d\u00e9m\u00e9nagement, de transfert industriel ou de garde-meuble, en contact avec la client\u00e8le (particuliers, entreprises, administrations, ...). Elle peut impliquer des d\u00e9placements de plusieurs jours (d\u00e9placements nationaux).\nElle peut s'exercer les fins de semaine, les jours f\u00e9ri\u00e9s ou de nuit.\nL'activit\u00e9 implique le port r\u00e9p\u00e9titif de charges lourdes et encombrantes.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan",
+            "code_ogr": "20946",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de protection d'objets",
+            "code_ogr": "21332",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outillages manuels (cl\u00e9, pince, scie, ...)",
+            "code_ogr": "21465",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de chronotachygraphe",
+            "code_ogr": "21181",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de carte routi\u00e8re",
+            "code_ogr": "20933",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Calcul dimensionnel (surface, volume, ...)",
+            "code_ogr": "20808",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chiffrage/calcul de co\u00fbt",
+            "code_ogr": "20813",
+            "position_item": "2",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de d\u00e9m\u00e9nagement",
+            "code_ogr": "23873",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de transfert industriel",
+            "code_ogr": "23887",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Garde-meuble",
+            "code_ogr": "23948",
+            "code_type_section_env": "1"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation li\u00e9e au d\u00e9m\u00e9nagement",
+            "code_ogr": "22572",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'emballage et de conditionnement",
+            "code_ogr": "23192",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'arrimage",
+            "code_ogr": "22785",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation du transport de marchandises",
+            "code_ogr": "22563",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modalit\u00e9s de chargement/d\u00e9chargement de marchandises",
+            "code_ogr": "22164",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9canique g\u00e9n\u00e9rale",
+            "code_ogr": "21882",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en \u00e9lectricit\u00e9",
+            "code_ogr": "21859",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation des douanes",
+            "code_ogr": "22541",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9canique poids lourds",
+            "code_ogr": "21883",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "L\u00e9gislation sociale",
+            "code_ogr": "22086",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise le d\u00e9m\u00e9nagement de biens mat\u00e9riels (mobilier, appareils, objets, machines, ...) d'un lieu \u00e0 un autre, pour le compte d'un client.\nEffectue tout ou partie des op\u00e9rations de manutention (emballage/d\u00e9ballage, montage/d\u00e9montage, protection, chargement/d\u00e9chargement du v\u00e9hicule, r\u00e9installation dans les nouveaux locaux, ...) selon la r\u00e9glementation (s\u00e9curit\u00e9), les instructions fix\u00e9es et les imp\u00e9ratifs de satisfaction de la client\u00e8le (qualit\u00e9, d\u00e9lai, ...).\nPeut conduire le v\u00e9hicule de d\u00e9m\u00e9nagement.\nPeut coordonner l'activit\u00e9 d'une \u00e9quipe et les op\u00e9rations de d\u00e9m\u00e9nagement.\n",
+    "intitule": "D\u00e9m\u00e9nagement",
+    "code_ogr": "501",
+    "code_rome": "N1102",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1403",
+            "libelle_rome_cible": "Relation commerciale aupr\u00e8s de particuliers"
+        },
+        {
+            "code_rome_cible": "N1104",
+            "libelle_rome_cible": "Manoeuvre et conduite d'engins lourds de manutention"
+        },
+        {
+            "code_rome_cible": "N1303",
+            "libelle_rome_cible": "Intervention technique d'exploitation logistique"
+        },
+        {
+            "code_rome_cible": "N4201",
+            "libelle_rome_cible": "Direction d'exploitation des transports routiers de marchandises"
+        },
+        {
+            "code_rome_cible": "N4203",
+            "libelle_rome_cible": "Intervention technique d'exploitation des transports routiers de marchandises"
+        }
+    ]
+}
