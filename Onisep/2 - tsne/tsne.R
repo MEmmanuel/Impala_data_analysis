@@ -9,16 +9,24 @@ require(plotly)
 require(mice)
 require(apcluster)
 
-file.path = "~/PycharmProjects/ImpalaPoleEmploi2/Impala/Onisep/tsne"
+# Dossier de travail
+file.path = getwd()
 setwd(file.path)
 
+# Chargement des données
 df = read.csv("table_onisep.csv", header=T)
 
-df[is.na(df['Salaire.débutant']), 'Salaire.débutant'] = median(df[!is.na(df['Salaire.débutant']), 'Salaire.débutant'])
+# Si les salaires débutants sont manquants, on les remplace par le salaire médian
+df[is.na(df['Salaire.débutant']), 'Salaire.débutant'] = 
+  median(df[!is.na(df['Salaire.débutant']), 'Salaire.débutant'])
 
+# Plusieurs vecteurs métiers sont identiques. Pour les distinguer un peu,
+# on ajoute du bruit dans les salaires
 df_train <- df %>% 
   mutate(Salaire.débutant = jitter(Salaire.débutant))
 
+# Normalisation (entre 0 et 1) des salaires débutants
+# et suppression des variables inutiles pour le calcul des coordonnées
 df_train <- df %>% 
          mutate(Salaire.débutant = jitter(Salaire.débutant),
                 Salaire.débutant.norm = (Salaire.débutant - min(Salaire.débutant))/ 
@@ -28,6 +36,7 @@ df_train <- df %>%
   select(-Salaire.débutant, -Code.Onisep, -Métier, -X, -Niveau.diplome) %>%
   distinct(.)
 
+# Matrice des données
 df_train[is.na(df_train)] = 0          
 train_matrix = as.matrix(df_train)
 
@@ -42,42 +51,18 @@ plot_ly(results,
         text = results$Métier, mode = "markers")
 
 # affinity propagation
-# Pour changer le nombre de clusters : faire varier q entre 0 et 1
+# Pour changer le nombre de clusters : faire varier q entre 0 et 1 
+# (q=1 --> chaque point est un cluster)
+# (q=0 --> tous les points sont dans le même cluster)
 apres <- apcluster(negDistMat(r=2), tsne_global$Y, details=TRUE, q=0.1)
 clusters = labels(apres, "enum")
 plot_ly(results,
         x = X1, y = X2, color = as.factor(clusters),
         text = results$Métier, mode = "markers")
+output <- bind_cols(results, as.data.frame(clusters))
 
+# Copie du résultat dans un fichier CSV
+write.csv(output, 'results_tsne_ap_clusters.csv',
+          row.names = F,
+          fileEncoding = 'UTF-8')
 
-
-## show details of clustering results
-show(apres)
-
-## plot clustering result
-plot(apres, tsne_global$Y)
-
-## plot heatmap
-heatmap(apres)
-
-## run affinity propagation with default preference of 10% quantile
-## of similarities; this should lead to a smaller number of clusters
-## reuse similarity matrix from previous run
-apres <- apcluster(s=apres@sim, q=0.1)
-show(apres)
-plot(apres, tsne_global$Y)
-clusters = labels(apres, "enum")
-
-plot_ly(results,
-        x = X1, y = X2, color = as.factor(clusters),
-        text = results$Métier, mode = "markers")
-
-
-ap_clusters <- apres@clusters
-df_ap_clusters <- data.frame(jobs_id = integer(),
-                             ap_clusters = integer(),
-                             stringsAsFactors = F)
-
-df_temp <- data.frame(ap_clusters = integer(),
-                      jobs_id = integer(),
-                      stringsAsFactors = F)

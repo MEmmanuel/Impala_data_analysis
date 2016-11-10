@@ -1,0 +1,620 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Gradeur / Gradeuse",
+            "priorisation": "1",
+            "libelle": "Gradeur / Gradeuse",
+            "code_ogr": "15392"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur(trice) sur syst\u00e8me informatis\u00e9 patronage-gradation",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice sur syst\u00e8me informatis\u00e9 de patronage-gradation",
+            "code_ogr": "17336"
+        },
+        {
+            "libelle_court": "Patronnier / Patronni\u00e8re",
+            "priorisation": "1",
+            "libelle": "Patronnier / Patronni\u00e8re",
+            "code_ogr": "17586"
+        },
+        {
+            "libelle_court": "Patronnier / Patronni\u00e8re CAO/DAO",
+            "priorisation": "1",
+            "libelle": "Patronnier / Patronni\u00e8re CAO/DAO",
+            "code_ogr": "17587"
+        },
+        {
+            "libelle_court": "Patronnier(\u00e8re) metteur(se) au point industrie cuirs peaux",
+            "priorisation": "1",
+            "libelle": "Patronnier metteur / Patronni\u00e8re metteuse au point en industrie des cuirs, peaux et mat\u00e9riaux associ\u00e9s",
+            "code_ogr": "17590"
+        },
+        {
+            "libelle_court": "Patronnier-gradeur / Patronni\u00e8re-gradeuse",
+            "priorisation": "1",
+            "libelle": "Patronnier-gradeur / Patronni\u00e8re-gradeuse",
+            "code_ogr": "17591"
+        },
+        {
+            "libelle_court": "Patronnier(\u00e8re)-gradeur(se) ind habillement",
+            "priorisation": "1",
+            "libelle": "Patronnier-gradeur / Patronni\u00e8re-gradeuse en industrie de l'habillement et autres fabrications \u00e0 base d'\u00e9toffes",
+            "code_ogr": "17592"
+        },
+        {
+            "libelle_court": "Patronnier(\u00e8re)-gradeur(se) en ind des mat\u00e9riaux souples",
+            "priorisation": "1",
+            "libelle": "Patronnier-gradeur / Patronni\u00e8re-gradeuse en industrie des mat\u00e9riaux souples",
+            "code_ogr": "17593"
+        },
+        {
+            "libelle_court": "Patronnier-gradeur / Patronni\u00e8re-gradeuse maille",
+            "priorisation": "1",
+            "libelle": "Patronnier-gradeur / Patronni\u00e8re-gradeuse maille",
+            "code_ogr": "17594"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "V\u00e9rifier la conformit\u00e9 des contours, des courbes, de la sym\u00e9trie, des codifications de mesures, ... du patron de base de l'article",
+            "code_ogr": "3409",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier par marquage les pi\u00e8ces constitutives de l'article et reporter les indications suppl\u00e9mentaires (crans de montage, devant, dos, ...) sur le patronage",
+            "code_ogr": "2171",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Digitaliser les points et lignes du trac\u00e9 du patron de base",
+            "code_ogr": "1468",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler sur l'\u00e9cran le trac\u00e9 du patron et proc\u00e9der aux ajustements",
+            "code_ogr": "1180",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9cliner les tailles d'un mod\u00e8le de base sur un logiciel de gradation",
+            "code_ogr": "3520",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cr\u00e9er sur informatique un sch\u00e9ma de placement/coupe par alignement et embo\u00eetage des pi\u00e8ces du patron",
+            "code_ogr": "3518",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Lancer l'impression et la d\u00e9coupe du patronage sur le traceur et regrouper les pi\u00e8ces selon les tailles et les mod\u00e8les",
+            "code_ogr": "2268",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Classer et archiver les patrons et documents techniques des produits r\u00e9alis\u00e9s",
+            "code_ogr": "820",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "8",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1212",
+            "libelle_rome_cible": "Vente en d\u00e9coration et \u00e9quipement du foyer"
+        },
+        {
+            "code_rome_cible": "H1205",
+            "libelle_rome_cible": "\u00c9tudes - mod\u00e8les en industrie des mat\u00e9riaux souples"
+        },
+        {
+            "code_rome_cible": "H2409",
+            "libelle_rome_cible": "Coupe cuir, textile et mat\u00e9riaux souples"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP en couture flou, m\u00e9tiers de la mode, ... compl\u00e9t\u00e9 par une exp\u00e9rience professionnelle dans le secteur.\nUn dipl\u00f4me de niveau Bac (professionnel, Brevet de Technicien -BT-) ou Bac+2 (BTS) en m\u00e9tiers de la mode et industries connexes-productique, industrie de l'habillement, v\u00eatement (cr\u00e9ation et \u00admesure) facilite l'acc\u00e8s aux postes \u00e0 responsabilit\u00e9s.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser un patronage pour des articles de :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Costumes \u00e0 th\u00e8me",
+            "code_ogr": "9332",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Haute couture/pr\u00eat-\u00e0-porter de luxe",
+            "code_ogr": "9333",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Jeannerie/Sportswear",
+            "code_ogr": "9334",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Lingerie/baln\u00e9aire/corsetterie",
+            "code_ogr": "9335",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Maroquinerie (petite maroquinerie, sacs, bagages, ...)",
+            "code_ogr": "9336",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Produits \u00e0 manches (tailleur, manteau, ...)",
+            "code_ogr": "9337",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sellerie g\u00e9n\u00e9rale (b\u00e2ches, stores, tentes, ...)",
+            "code_ogr": "9338",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00eatements de c\u00e9r\u00e9monie",
+            "code_ogr": "9339",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00eatements professionnels",
+            "code_ogr": "9340",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser un patronage pour des articles en :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cha\u00eene et trame",
+            "code_ogr": "9326",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cuirs et peaux",
+            "code_ogr": "9327",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Flou",
+            "code_ogr": "9328",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Fourrure",
+            "code_ogr": "9329",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Maille",
+            "code_ogr": "9330",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Textile technique",
+            "code_ogr": "9331",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser un patronage \u00e0 partir d'une toile",
+            "code_ogr": "9325",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Modifier un patron existant par tra\u00e7age de nouvelles lignes et report des rep\u00e8res (crans, angle, poche, ...) sur les diff\u00e9rents \u00e9l\u00e9ments de l'article",
+            "code_ogr": "7582",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser manuellement une gradation taille par taille par report de valeurs proportionnelles (compas, ...)",
+            "code_ogr": "9251",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer une fiche ou un dossier technique en vue de l'industrialisation d'un mod\u00e8le",
+            "code_ogr": "5659",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de bureaux d'\u00e9tudes textiles/cuir ind\u00e9pendants, d'entreprises industrielles de fabrication d'articles textiles, en cuir et autres mat\u00e9riaux souples, ... parfois en contact avec des clients et diff\u00e9rents intervenants (mod\u00e9listes, stylistes, m\u00e9caniciens en confection, toilistes, ...)\nElle peut \u00eatre soumise \u00e0 des pics d'activit\u00e9 (collections, ...).\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciel de digitalisation",
+            "code_ogr": "21227",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciel de gradation",
+            "code_ogr": "21231",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciel de placement",
+            "code_ogr": "21233",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion de base de donn\u00e9es",
+            "code_ogr": "21254",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de codes et symboles",
+            "code_ogr": "20935",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Appr\u00e9ciation visuelle (sym\u00e9trie, couleur, ...)",
+            "code_ogr": "20779",
+            "position_item": "6",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils manuels \u00e0 couper (pince \u00e0 cranter, emporte-pi\u00e8ce, paire de ciseaux, ...)",
+            "code_ogr": "21460",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils manuels \u00e0 tracer (compas, perroquet, r\u00e8gle chinoise, \u00e9querre, ...)",
+            "code_ogr": "21461",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Montage de toile",
+            "code_ogr": "21008",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Mise \u00e0 plat de toile",
+            "code_ogr": "20996",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Marquage \u00e0 la roulette (contours, droit fil, lignes de construction, pinces, ...)",
+            "code_ogr": "20991",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Calcul des composantes techniques (colle, tissu, ...)",
+            "code_ogr": "20807",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Bureau d'\u00e9tudes et d'ing\u00e9nierie",
+            "code_ogr": "23735",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de fabrication d'articles textiles",
+            "code_ogr": "23874",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de fabrication/r\u00e9paration d'articles en cuir",
+            "code_ogr": "23876",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ameublement",
+            "code_ogr": "23398",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Confection textile",
+            "code_ogr": "23450",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Haute couture",
+            "code_ogr": "23516",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Linge de maison",
+            "code_ogr": "23542",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Maroquinerie",
+            "code_ogr": "23550",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pr\u00eat \u00e0 porter",
+            "code_ogr": "23596",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sellerie",
+            "code_ogr": "23632",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de gradation",
+            "code_ogr": "22925",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de graduation chaussure",
+            "code_ogr": "22926",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de placement (t\u00eate-b\u00eache, escalier, ...)",
+            "code_ogr": "23032",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de tra\u00e7age",
+            "code_ogr": "23149",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de patronage",
+            "code_ogr": "23022",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normalisation de syst\u00e8me des tailles (tableau d'\u00e9volution, de mesures, ...)",
+            "code_ogr": "22216",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Nomenclature du v\u00eatement",
+            "code_ogr": "22215",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques morphologiques f\u00e9minines",
+            "code_ogr": "21690",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques morphologiques masculines",
+            "code_ogr": "21691",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques morphologiques de l'enfant",
+            "code_ogr": "21688",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des textiles extensibles",
+            "code_ogr": "21662",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de dessin",
+            "code_ogr": "22888",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes r\u00e9dactionnelles",
+            "code_ogr": "22235",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise sur informatique \u00e0 partir d'un patron de base d'un article, la d\u00e9clinaison taille par taille et cr\u00e9e un sch\u00e9ma de placement pour la coupe selon les imp\u00e9ratifs de production (optimisation de la mati\u00e8re, qualit\u00e9, d\u00e9lais, ...).\nPeut cr\u00e9er un patron par modification d'un mod\u00e8le existant.\nPeut r\u00e9aliser une gradation manuelle par report de valeurs proportionnelles.\nPeut cr\u00e9er une fiche technique (dessin, explication de montage, ...) en vue de l'industrialisation de l'article.\n",
+    "intitule": "Patronnage - gradation",
+    "code_ogr": "258",
+    "code_rome": "H2412",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1207",
+            "libelle_rome_cible": "Retouches en habillement"
+        },
+        {
+            "code_rome_cible": "E1205",
+            "libelle_rome_cible": "R\u00e9alisation de contenus multim\u00e9dias"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ]
+}

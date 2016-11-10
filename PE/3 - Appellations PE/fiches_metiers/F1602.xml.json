@@ -1,0 +1,466 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Chef d'\u00e9quipe \u00e9lectricien",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe \u00e9lectricien",
+            "code_ogr": "12448"
+        },
+        {
+            "libelle_court": "Electricien / Electricienne b\u00e2timent tertiaire",
+            "priorisation": "1",
+            "libelle": "Electricien / Electricienne b\u00e2timent tertiaire",
+            "code_ogr": "14614"
+        },
+        {
+            "libelle_court": "Electricien / Electricienne de chantier",
+            "priorisation": "1",
+            "libelle": "Electricien / Electricienne de chantier",
+            "code_ogr": "14617"
+        },
+        {
+            "libelle_court": "Electricien / Electricienne d'\u00e9quipement",
+            "priorisation": "1",
+            "libelle": "Electricien / Electricienne d'\u00e9quipement",
+            "code_ogr": "14631"
+        },
+        {
+            "libelle_court": "Electricien / Electricienne d'\u00e9quipement domestique",
+            "priorisation": "1",
+            "libelle": "Electricien / Electricienne d'\u00e9quipement domestique",
+            "code_ogr": "14632"
+        },
+        {
+            "libelle_court": "Electricien / Electricienne du b\u00e2timent",
+            "priorisation": "1",
+            "libelle": "Electricien / Electricienne du b\u00e2timent",
+            "code_ogr": "14635"
+        },
+        {
+            "libelle_court": "Electricien / Electricienne photovolta\u00efque",
+            "priorisation": "1",
+            "libelle": "Electricien / Electricienne photovolta\u00efque",
+            "code_ogr": "38135"
+        },
+        {
+            "libelle_court": "Electricien / Electricienne tertiaire",
+            "priorisation": "1",
+            "libelle": "Electricien / Electricienne tertiaire",
+            "code_ogr": "14643"
+        },
+        {
+            "libelle_court": "Electrotechnicien / Electrotechnicienne d'installation",
+            "priorisation": "1",
+            "libelle": "Electrotechnicien / Electrotechnicienne d'installation",
+            "code_ogr": "14681"
+        },
+        {
+            "libelle_court": "Enseigniste",
+            "priorisation": "1",
+            "libelle": "Enseigniste",
+            "code_ogr": "14855"
+        },
+        {
+            "libelle_court": "Monteur \u00e9lectricien / Monteuse \u00e9lectricienne",
+            "priorisation": "1",
+            "libelle": "Monteur \u00e9lectricien / Monteuse \u00e9lectricienne",
+            "code_ogr": "16801"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne de pose de compteurs \u00e9lectriques",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de pose de compteurs \u00e9lectriques",
+            "code_ogr": "38897"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "R\u00e9aliser des saign\u00e9es ou des supports (percement de murs, scellements, ...) pour le passage de c\u00e2bles",
+            "code_ogr": "2759",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser et poser des chemins de c\u00e2bles et des conduits \u00e9lectriques en apparent ou en encastr\u00e9",
+            "code_ogr": "2766",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Positionner et c\u00e2bler une armoire ou un tableau de distribution \u00e9lectrique de locaux domestiques ou tertiaires et raccorder aux \u00e9quipements",
+            "code_ogr": "2536",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Positionner et \u00e9quiper une armoire \u00e9lectrique industrielle",
+            "code_ogr": "2537",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Fixer et raccorder des \u00e9quipements basse tension (interrupteurs, prises de courant, ...)",
+            "code_ogr": "1991",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Raccorder des c\u00e2bles d'\u00e9quipements \u00e9lectriques industriels aux machines, points d'\u00e9clairage ou prises de courant",
+            "code_ogr": "2743",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mettre sous tension l'installation \u00e9lectrique et effectuer des contr\u00f4les",
+            "code_ogr": "2358",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1212",
+            "libelle_rome_cible": "Vente en d\u00e9coration et \u00e9quipement du foyer"
+        },
+        {
+            "code_rome_cible": "F1605",
+            "libelle_rome_cible": "Montage de r\u00e9seaux \u00e9lectriques et t\u00e9l\u00e9coms"
+        },
+        {
+            "code_rome_cible": "H2602",
+            "libelle_rome_cible": "C\u00e2blage \u00e9lectrique et \u00e9lectrom\u00e9canique"
+        },
+        {
+            "code_rome_cible": "I1309",
+            "libelle_rome_cible": "Maintenance \u00e9lectrique"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un CAP/BEP en \u00e9lectricit\u00e9.\nUn dipl\u00f4me de niveau Bac professionnel \u00e0 Bac+2 (BTS/DUT) peut \u00eatre demand\u00e9 selon le secteur (domotique, \u00e9lectrotechnique, automatisme, ...) et pour les postes d'encadrement d'\u00e9quipe.\nUne habilitation aux risques d'origine \u00e9lectrique est exig\u00e9e.\nUn Certificat d'Aptitude \u00e0 la Conduite En S\u00e9curit\u00e9 -CACES- conditionn\u00e9 par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement peut \u00eatre requis.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser des interventions n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation \u00e9lectrique, travaux hors tension (B0, B0V, B1 B1V, H0, ...)",
+            "code_ogr": "8481",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation \u00e9lectrique, travaux sous tension (B1T, BN, BR, H1T, ...)",
+            "code_ogr": "8482",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 372- 9 (Engins de manutention (chariot \u00e9l\u00e9vateur))",
+            "code_ogr": "10102",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 386 (Plates-formes \u00e9l\u00e9vatrices mobiles de personnes)",
+            "code_ogr": "10120",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Diagnostiquer une panne sur une installation \u00e9lectrique et r\u00e9parer les \u00e9l\u00e9ments d\u00e9fectueux",
+            "code_ogr": "4732",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Fabriquer des supports et des armoires \u00e9lectriques",
+            "code_ogr": "5925",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des travaux simples de ma\u00e7onnerie",
+            "code_ogr": "5103",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Installer et raccorder des \u00e9quipements \u00e9lectriques tr\u00e8s basse tension (t\u00e9l\u00e9phonie, informatique, alarme incendie, ...)",
+            "code_ogr": "6202",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser la pose de la partie \u00e9lectrique des installations photovolta\u00efques",
+            "code_ogr": "38141",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier l'avancement des travaux et la conformit\u00e9 des r\u00e9alisations",
+            "code_ogr": "10179",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe ou diriger une structure",
+            "code_ogr": "4326",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce sur des chantiers (neuf, r\u00e9habilitation) au sein d'entreprises du b\u00e2timent ou d'entreprises artisanales parfois en contact avec des clients. Elle peut impliquer des d\u00e9placements et un \u00e9loignement du domicile de plusieurs jours.\nL'activit\u00e9 peut s'exercer les fins de semaine et \u00eatre soumise \u00e0 des astreintes.\nLe port d'\u00e9quipements de protection (chaussures de s\u00e9curit\u00e9, gants, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan, de sch\u00e9ma",
+            "code_ogr": "20956",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils de mesure \u00e9lectrique (multim\u00e8tre, ...)",
+            "code_ogr": "21156",
+            "position_item": "2",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise",
+            "code_ogr": "23867",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise artisanale",
+            "code_ogr": "23870",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent domestique",
+            "code_ogr": "23415",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent industriel",
+            "code_ogr": "23417",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent second oeuvre",
+            "code_ogr": "23418",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent tertiaire",
+            "code_ogr": "23419",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Construction navale",
+            "code_ogr": "23453",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ev\u00e8nementiel",
+            "code_ogr": "23487",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Spectacle",
+            "code_ogr": "23638",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Electricit\u00e9 du domaine des VDI (Voix, Donn\u00e9es, Images)",
+            "code_ogr": "21827",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en automatisme",
+            "code_ogr": "21931",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Domotique",
+            "code_ogr": "21788",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en \u00e9lectronique",
+            "code_ogr": "21863",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9canique g\u00e9n\u00e9rale",
+            "code_ogr": "21882",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles et consignes de s\u00e9curit\u00e9",
+            "code_ogr": "22656",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9 du travail sous tension",
+            "code_ogr": "22625",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de soudure",
+            "code_ogr": "23128",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en ma\u00e7onnerie",
+            "code_ogr": "21879",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes qualit\u00e9",
+            "code_ogr": "22233",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise des travaux d'installation et de mise en service des \u00e9quipements \u00e9lectriques dans des b\u00e2timents \u00e0 usage domestique, tertiaire et industriel selon les r\u00e8gles de s\u00e9curit\u00e9.\nPeut c\u00e2bler et raccorder des installations tr\u00e8s basse tension (t\u00e9l\u00e9phonie, informatique, alarmes, ...).\nPeut effectuer des travaux de d\u00e9pannage et de maintenance.\n",
+    "intitule": "\u00c9lectricit\u00e9 b\u00e2timent",
+    "code_ogr": "162",
+    "code_rome": "F1602",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1407",
+            "libelle_rome_cible": "Relation technico-commerciale"
+        },
+        {
+            "code_rome_cible": "F1202",
+            "libelle_rome_cible": "Direction de chantier du BTP"
+        },
+        {
+            "code_rome_cible": "I1306",
+            "libelle_rome_cible": "Installation et maintenance en froid, conditionnement d'air"
+        },
+        {
+            "code_rome_cible": "I1307",
+            "libelle_rome_cible": "Installation et maintenance t\u00e9l\u00e9coms et courants faibles"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        },
+        {
+            "code_rome_cible": "L1504",
+            "libelle_rome_cible": "\u00c9clairage spectacle"
+        }
+    ]
+}

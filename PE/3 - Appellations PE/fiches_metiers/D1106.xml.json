@@ -1,0 +1,761 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Epicier / Epici\u00e8re",
+            "priorisation": "1",
+            "libelle": "Epicier / Epici\u00e8re",
+            "code_ogr": "14863"
+        },
+        {
+            "libelle_court": "Marchand / Marchande de fruits et l\u00e9gumes",
+            "priorisation": "1",
+            "libelle": "Marchand / Marchande de fruits et l\u00e9gumes",
+            "code_ogr": "16388"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse de fruits et l\u00e9gumes",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse de fruits et l\u00e9gumes",
+            "code_ogr": "20525"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse de primeurs",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse de primeurs",
+            "code_ogr": "20530"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en alimentation g\u00e9n\u00e9rale",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en alimentation g\u00e9n\u00e9rale",
+            "code_ogr": "20540"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en boucherie",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en boucherie",
+            "code_ogr": "20558"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en boucherie-charcuterie",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en boucherie-charcuterie",
+            "code_ogr": "20559"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en boulangerie-p\u00e2tisserie",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en boulangerie-p\u00e2tisserie",
+            "code_ogr": "20560"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en charcuterie",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en charcuterie",
+            "code_ogr": "20564"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en chocolaterie",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en chocolaterie",
+            "code_ogr": "20567"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en confiserie",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en confiserie",
+            "code_ogr": "20568"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en cr\u00e8merie",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en cr\u00e8merie",
+            "code_ogr": "20570"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en \u00e9picerie",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en \u00e9picerie",
+            "code_ogr": "20576"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en \u00e9picerie fine",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en \u00e9picerie fine",
+            "code_ogr": "20577"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en poissonnerie",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en poissonnerie",
+            "code_ogr": "20612"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en produits biologiques",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en produits biologiques",
+            "code_ogr": "38776"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en produits di\u00e9t\u00e9tiques",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en produits di\u00e9t\u00e9tiques",
+            "code_ogr": "20622"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en produits frais",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en produits frais",
+            "code_ogr": "20623"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en r\u00f4tisserie",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en r\u00f4tisserie",
+            "code_ogr": "20627"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse en vins et spiritueux",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse en vins et spiritueux",
+            "code_ogr": "20635"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse rayon fromages",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse rayon fromages",
+            "code_ogr": "20645"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse rayon traiteur",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse rayon traiteur",
+            "code_ogr": "20646"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Effectuer le stockage et le rangement des marchandises en r\u00e9serve et mettre en place les produits sur le lieu de vente",
+            "code_ogr": "1561",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accueillir le client, identifier ses besoins et le conseiller sur les produits et services",
+            "code_ogr": "3496",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler l'\u00e9tat et la conservation des produits p\u00e9rissables et retirer les produits impropres \u00e0 la vente",
+            "code_ogr": "1171",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner le support de suivi de tra\u00e7abilit\u00e9 des marchandises (dates de livraison, relev\u00e9s des temp\u00e9ratures, num\u00e9ros de lot, ...)",
+            "code_ogr": "3032",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien du magasin, du plan de travail et du mat\u00e9riel",
+            "code_ogr": "1592",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1107",
+            "libelle_rome_cible": "Vente en gros de produits frais"
+        },
+        {
+            "code_rome_cible": "D1505",
+            "libelle_rome_cible": "Personnel de caisse"
+        },
+        {
+            "code_rome_cible": "D1507",
+            "libelle_rome_cible": "Mise en rayon libre-service"
+        },
+        {
+            "code_rome_cible": "G1603",
+            "libelle_rome_cible": "Personnel polyvalent en restauration"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac (professionnel, ...) dans les secteurs de la vente, du commerce et de la distribution.\nDes formations sp\u00e9cifiques dans le secteur des m\u00e9tiers de bouche (boulangerie, p\u00e2tisserie, boucherie, poissonnerie, ...) peuvent \u00eatre demand\u00e9es.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans la vente sans dipl\u00f4me particulier.\nLa ma\u00eetrise d'un logiciel de gestion de stocks peut \u00eatre demand\u00e9e.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Effectuer la vente de produits alimentaires :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Boucherie",
+            "code_ogr": "5272",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Boulangerie",
+            "code_ogr": "5273",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Charcuterie",
+            "code_ogr": "5274",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chocolats, confiserie",
+            "code_ogr": "5275",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "4",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Epicerie sal\u00e9e",
+            "code_ogr": "5276",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "5",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Epicerie sucr\u00e9e",
+            "code_ogr": "5277",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "6",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Fromagerie, cr\u00e8merie",
+            "code_ogr": "5278",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "7",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Fruits et l\u00e9gumes",
+            "code_ogr": "5279",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "8",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "P\u00e2tisserie",
+            "code_ogr": "5280",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "9",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Poissonnerie",
+            "code_ogr": "5281",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "10",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Produits biologiques",
+            "code_ogr": "5282",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "11",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Produits di\u00e9t\u00e9tiques",
+            "code_ogr": "5283",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "12",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Produits exotiques",
+            "code_ogr": "5284",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "13",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Produits traiteurs et r\u00f4tisserie",
+            "code_ogr": "5285",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "14",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Vins et spiritueux",
+            "code_ogr": "5286",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "15",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la coupe de produits frais (charcuterie, fromages, ...) et r\u00e9aliser la mise en rayon, le dressage de plats, ...",
+            "code_ogr": "5120",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser l'emballage de produits frais (entiers, en tranches, ...) pour le rayon libre-service ou pour des commandes (petits fours, buffet, ...)",
+            "code_ogr": "9221",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der \u00e0 la cuisson de produits alimentaires",
+            "code_ogr": "8127",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer des poissons, des crustac\u00e9s et des coquillages (\u00e9vidage, filets, \u00e9caillage, ...) et les disposer sur le banc de glace",
+            "code_ogr": "7936",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer des sandwichs, des salades (assemblage, emballage, ...)",
+            "code_ogr": "7946",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les op\u00e9rations d'encaissement",
+            "code_ogr": "3546",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des livraisons de commandes aupr\u00e8s des clients",
+            "code_ogr": "3531",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der \u00e0 l'inventaire des produits",
+            "code_ogr": "8151",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la gestion comptable et administrative d'une structure",
+            "code_ogr": "3533",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9ceptionner les marchandises, les produits et contr\u00f4ler la conformit\u00e9 de la livraison",
+            "code_ogr": "3591",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier le fonds de caisse \u00e0 la prise de poste et effectuer le comptage \u00e0 la fermeture de la caisse",
+            "code_ogr": "3453",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de magasins de d\u00e9tail en alimentation g\u00e9n\u00e9rale ou sp\u00e9cialis\u00e9e (cave, \u00e9picerie fine, confiserie,...), d'entreprises artisanales (fromagerie, boucherie, boulangerie, ...), de grandes et moyennes surfaces, sur les march\u00e9s, ... en contact avec les clients, en relation avec diff\u00e9rents intervenants (chef de rayon, responsables de magasin, fournisseurs, ...).\nElle varie selon la taille de la structure et le type de produit vendu (pains, poissons, vins, ...).\nElle peut s'exercer en horaires d\u00e9cal\u00e9s, les fins de semaine, jours f\u00e9ri\u00e9s.\nL'activit\u00e9 peut s'effectuer \u00e0 l'ext\u00e9rieur et impliquer le port de charges.\nLe port d'une tenue professionnelle (blouse, gants, bottes, ...) peut \u00eatre requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Argumentation commerciale",
+            "code_ogr": "20786",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion de stocks",
+            "code_ogr": "21259",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils de lecture optique de codes-barres (pistolet, flasheur, ...)",
+            "code_ogr": "21155",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'engins de manutention non motoris\u00e9s (transpalette, diable, ...)",
+            "code_ogr": "21414",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de trancheuse",
+            "code_ogr": "21402",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Dressage de plateaux de fruits de mer",
+            "code_ogr": "20862",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chiffrage/calcul de co\u00fbt",
+            "code_ogr": "20813",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "2",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Boutique, commerce de d\u00e9tail",
+            "code_ogr": "23725",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise artisanale",
+            "code_ogr": "23870",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Hypermarch\u00e9 (2500 m2 et +)",
+            "code_ogr": "23967",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Magasin populaire",
+            "code_ogr": "23998",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "March\u00e9, foire exposition",
+            "code_ogr": "24005",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sup\u00e9rette (120 \u00e0 400m2)",
+            "code_ogr": "24115",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Supermarch\u00e9 (400 \u00e0 2500m2)",
+            "code_ogr": "24116",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Commerce de gros",
+            "code_ogr": "23444",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Commerce/grande distribution",
+            "code_ogr": "23445",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Discount",
+            "code_ogr": "23462",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Cha\u00eene du froid",
+            "code_ogr": "21701",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Conditions de stockage de produits alimentaires",
+            "code_ogr": "21742",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de vente",
+            "code_ogr": "23168",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de gestion de stocks",
+            "code_ogr": "22609",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaire",
+            "code_ogr": "22649",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Types de pain",
+            "code_ogr": "23321",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Typologie des pi\u00e8ces de viande",
+            "code_ogr": "23353",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Types de produits de charcuterie",
+            "code_ogr": "23328",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Vari\u00e9t\u00e9s de poissons",
+            "code_ogr": "23363",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Vari\u00e9t\u00e9s de fruits et l\u00e9gumes",
+            "code_ogr": "23362",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des fromages",
+            "code_ogr": "21598",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Types de lait (ch\u00e8vre, brebis, vache)",
+            "code_ogr": "23316",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des vins",
+            "code_ogr": "21672",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Types de c\u00e9pages (amp\u00e9lographie)",
+            "code_ogr": "23310",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'emballage et de conditionnement",
+            "code_ogr": "23192",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modes de cuisson des aliments",
+            "code_ogr": "22196",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'encaissement",
+            "code_ogr": "22454",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise la vente de produits alimentaires (frais et hors frais) selon la r\u00e9glementation du commerce, les r\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaires et les objectifs commerciaux de l'enseigne, de l'entreprise.\nPeut effectuer la pr\u00e9paration (cuisson, coupe, r\u00e9alisation de plateaux, ...) de produits frais.\n",
+    "intitule": "Vente en alimentation",
+    "code_ogr": "85",
+    "code_rome": "D1106",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1101",
+            "libelle_rome_cible": "Boucherie"
+        },
+        {
+            "code_rome_cible": "D1102",
+            "libelle_rome_cible": "Boulangerie - viennoiserie"
+        },
+        {
+            "code_rome_cible": "D1103",
+            "libelle_rome_cible": "Charcuterie - traiteur"
+        },
+        {
+            "code_rome_cible": "D1104",
+            "libelle_rome_cible": "P\u00e2tisserie, confiserie, chocolaterie et glacerie"
+        },
+        {
+            "code_rome_cible": "D1105",
+            "libelle_rome_cible": "Poissonnerie"
+        },
+        {
+            "code_rome_cible": "D1502",
+            "libelle_rome_cible": "Management/gestion de rayon produits alimentaires"
+        }
+    ]
+}

@@ -1,0 +1,358 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Infirmier / Infirmi\u00e8re de m\u00e9decine du travail",
+            "priorisation": "1",
+            "libelle": "Infirmier / Infirmi\u00e8re de m\u00e9decine du travail",
+            "code_ogr": "15539"
+        },
+        {
+            "libelle_court": "Infirmier / Infirmi\u00e8re de pr\u00e9vention",
+            "priorisation": "1",
+            "libelle": "Infirmier / Infirmi\u00e8re de pr\u00e9vention",
+            "code_ogr": "15540"
+        },
+        {
+            "libelle_court": "Infirmier / Infirmi\u00e8re de sant\u00e9 au travail",
+            "priorisation": "1",
+            "libelle": "Infirmier / Infirmi\u00e8re de sant\u00e9 au travail",
+            "code_ogr": "15541"
+        },
+        {
+            "libelle_court": "Infirmier / Infirmi\u00e8re de sant\u00e9 pr\u00e9ventive",
+            "priorisation": "1",
+            "libelle": "Infirmier / Infirmi\u00e8re de sant\u00e9 pr\u00e9ventive",
+            "code_ogr": "15542"
+        },
+        {
+            "libelle_court": "Infirmier / Infirmi\u00e8re d'entreprise",
+            "priorisation": "1",
+            "libelle": "Infirmier / Infirmi\u00e8re d'entreprise",
+            "code_ogr": "15546"
+        },
+        {
+            "libelle_court": "Infirmier / Infirmi\u00e8re scolaire",
+            "priorisation": "1",
+            "libelle": "Infirmier / Infirmi\u00e8re scolaire",
+            "code_ogr": "15556"
+        },
+        {
+            "libelle_court": "Infirmier(\u00e8re) sp\u00e9cialis\u00e9(e) en sant\u00e9 scolaire",
+            "priorisation": "1",
+            "libelle": "Infirmier sp\u00e9cialis\u00e9 / Infirmi\u00e8re sp\u00e9cialis\u00e9e en sant\u00e9 scolaire",
+            "code_ogr": "15558"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Etablir le nombre de visites m\u00e9dicales, le type d'actions de pr\u00e9vention selon le public (\u00e9l\u00e8ves, salari\u00e9s, ...)",
+            "code_ogr": "1867",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Planifier les visites m\u00e9dicales selon les priorit\u00e9s r\u00e9glementaires et organiser la r\u00e9ception du public",
+            "code_ogr": "2517",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser les tests de contr\u00f4le/d\u00e9pistage, actualiser le dossier de sant\u00e9 de la personne et transmettre les donn\u00e9es au m\u00e9decin de pr\u00e9vention",
+            "code_ogr": "2876",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les soins infirmiers ou organiser la prise en charge ext\u00e9rieure de la personne (appel services d'urgence, contact famille, ...)",
+            "code_ogr": "1674",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9tecter les difficult\u00e9s, les situations \u00e0 risques (maltraitance, harc\u00e8lement, ...) et proposer un accompagnement \u00e0 la personne ou contacter les services comp\u00e9tents ...",
+            "code_ogr": "1374",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "5",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Concevoir et mettre en place les actions de pr\u00e9vention et d'\u00e9ducation \u00e0 la sant\u00e9",
+            "code_ogr": "880",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ranger et nettoyer la salle de soin/examen, le mat\u00e9riel et proc\u00e9der \u00e0 l'\u00e9vacuation, la destruction des d\u00e9chets",
+            "code_ogr": "2745",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1405",
+            "libelle_rome_cible": "Conseil en information m\u00e9dicale"
+        },
+        {
+            "code_rome_cible": "J1506",
+            "libelle_rome_cible": "Soins infirmiers g\u00e9n\u00e9ralistes"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec le Dipl\u00f4me d'Etat -DE- d'infirmier.\nDes formations compl\u00e9mentaires (Dipl\u00f4me Inter Universitaire de Sant\u00e9 au Travail -DIUST-, ...) peuvent \u00eatre requises.\nDes vaccinations pr\u00e9vues par le Code de Sant\u00e9 Publique sont exig\u00e9es.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Mener des actions :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Analyse de postes de travail",
+            "code_ogr": "7330",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9alisation d'enqu\u00eates (\u00e9pid\u00e9miologiques, alimentaires, ...)",
+            "code_ogr": "7335",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Intervention en cellule de crise/\u00e9coute",
+            "code_ogr": "7339",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mise en place d'un Projet d'Accueil Individualis\u00e9 -PAI-",
+            "code_ogr": "7340",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Relev\u00e9 de mesures",
+            "code_ogr": "7346",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier des facteurs de risques sanitaires ou environnementaux pour les personnes, les biens ou \u00e9quipements et informer les services concern\u00e9s",
+            "code_ogr": "6109",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Communiquer des informations techniques, r\u00e9glementaires ou relatives \u00e0 des situations individuelles \u00e0 des comit\u00e9s consultatifs sp\u00e9cialis\u00e9s, au personnel enseignant et m\u00e9dical",
+            "code_ogr": "3920",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Informer des salari\u00e9s sur les risques d'accidents, de maladies professionnelles et les conseiller sur des gestes pr\u00e9ventifs (\u00e9quipement de s\u00e9curit\u00e9, postures de travail, ...)",
+            "code_ogr": "6150",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener des actions de formation au sein d'un organisme",
+            "code_ogr": "7395",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'\u00e9tablissements scolaires (primaire, secondaire, ...) ou d'entreprises en contact avec les \u00e9l\u00e8ves, les salari\u00e9s et en relation avec diff\u00e9rents intervenants (m\u00e9decins, personnel \u00e9ducatif, chefs d'entreprise, repr\u00e9sentants du personnel, ...).\nElle varie selon le lieu d'exercice (\u00e9tablissements scolaires, entreprises, centre de m\u00e9decine du travail, ...) et les publics (scolaires, salari\u00e9s, ...).\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de sonom\u00e8tre, dosim\u00e8tre, ...",
+            "code_ogr": "21379",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Centre de m\u00e9decine du travail",
+            "code_ogr": "23773",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise",
+            "code_ogr": "23867",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement scolaire",
+            "code_ogr": "23924",
+            "code_type_section_env": "1"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Classification des maladies professionnelles",
+            "code_ogr": "21719",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en droit du travail",
+            "code_ogr": "21853",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et d'asepsie",
+            "code_ogr": "22646",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques p\u00e9dagogiques",
+            "code_ogr": "23253",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Di\u00e9t\u00e9tique",
+            "code_ogr": "21781",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Protocoles de soins d'urgence",
+            "code_ogr": "22504",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ergonomie",
+            "code_ogr": "21935",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Hygi\u00e8ne industrielle",
+            "code_ogr": "22040",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "L\u00e9gislation sociale",
+            "code_ogr": "22086",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise le suivi sanitaire de divers publics (scolaires, salari\u00e9s, ...) et m\u00e8ne des actions de d\u00e9pistage et d'\u00e9ducation \u00e0 la sant\u00e9 selon la r\u00e9glementation sociale et les orientations de Sant\u00e9 Publique.\n",
+    "intitule": "Soins infirmiers sp\u00e9cialis\u00e9s en pr\u00e9vention",
+    "code_ogr": "361",
+    "code_rome": "J1505",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "J1502",
+            "libelle_rome_cible": "Coordination de services m\u00e9dicaux ou param\u00e9dicaux"
+        },
+        {
+            "code_rome_cible": "J1503",
+            "libelle_rome_cible": "Soins infirmiers sp\u00e9cialis\u00e9s en anesth\u00e9sie"
+        },
+        {
+            "code_rome_cible": "J1504",
+            "libelle_rome_cible": "Soins infirmiers sp\u00e9cialis\u00e9s en bloc op\u00e9ratoire"
+        },
+        {
+            "code_rome_cible": "J1507",
+            "libelle_rome_cible": "Soins infirmiers sp\u00e9cialis\u00e9s en pu\u00e9riculture"
+        },
+        {
+            "code_rome_cible": "K1103",
+            "libelle_rome_cible": "D\u00e9veloppement personnel et bien-\u00eatre de la personne"
+        },
+        {
+            "code_rome_cible": "K1403",
+            "libelle_rome_cible": "Management de structure de sant\u00e9, sociale ou p\u00e9nitentiaire"
+        }
+    ]
+}

@@ -1,0 +1,937 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Chef de produits design",
+            "priorisation": "1",
+            "libelle": "Chef de produits design",
+            "code_ogr": "12229"
+        },
+        {
+            "libelle_court": "Chef de projet design",
+            "priorisation": "1",
+            "libelle": "Chef de projet design",
+            "code_ogr": "12237"
+        },
+        {
+            "libelle_court": "Concepteur designer / Conceptrice designeuse",
+            "priorisation": "1",
+            "libelle": "Concepteur designer / Conceptrice designeuse",
+            "code_ogr": "12822"
+        },
+        {
+            "libelle_court": "Designer",
+            "priorisation": "1",
+            "libelle": "Designer",
+            "code_ogr": "13991"
+        },
+        {
+            "libelle_court": "Designer / Designeuse automobile",
+            "priorisation": "1",
+            "libelle": "Designer / Designeuse automobile",
+            "code_ogr": "13992"
+        },
+        {
+            "libelle_court": "Designer / Designeuse ergonome",
+            "priorisation": "1",
+            "libelle": "Designer / Designeuse ergonome",
+            "code_ogr": "13998"
+        },
+        {
+            "libelle_court": "Designer / Designeuse junior",
+            "priorisation": "1",
+            "libelle": "Designer / Designeuse junior",
+            "code_ogr": "14001"
+        },
+        {
+            "libelle_court": "Designer / Designeuse maquettiste",
+            "priorisation": "1",
+            "libelle": "Designer / Designeuse maquettiste",
+            "code_ogr": "14003"
+        },
+        {
+            "libelle_court": "Designer / Designeuse mobilier",
+            "priorisation": "1",
+            "libelle": "Designer / Designeuse mobilier",
+            "code_ogr": "14004"
+        },
+        {
+            "libelle_court": "Designer / Designeuse produit",
+            "priorisation": "1",
+            "libelle": "Designer / Designeuse produit",
+            "code_ogr": "14006"
+        },
+        {
+            "libelle_court": "Designer  packaging",
+            "priorisation": "1",
+            "libelle": "Designer  packaging",
+            "code_ogr": "14005"
+        },
+        {
+            "libelle_court": "Designer cr\u00e9ateur / Designeuse cr\u00e9atrice",
+            "priorisation": "1",
+            "libelle": "Designer cr\u00e9ateur / Designeuse cr\u00e9atrice",
+            "code_ogr": "13993"
+        },
+        {
+            "libelle_court": "Designer industriel / Designeuse industrielle",
+            "priorisation": "1",
+            "libelle": "Designer industriel / Designeuse industrielle",
+            "code_ogr": "14000"
+        },
+        {
+            "libelle_court": "Designer manager",
+            "priorisation": "1",
+            "libelle": "Designer manager",
+            "code_ogr": "14002"
+        },
+        {
+            "libelle_court": "Designer-chef / Designeuse-chef de projet",
+            "priorisation": "1",
+            "libelle": "Designer-chef / Designeuse-chef de projet",
+            "code_ogr": "14008"
+        },
+        {
+            "libelle_court": "Dessinateur / Dessinatrice en art de la table",
+            "priorisation": "1",
+            "libelle": "Dessinateur / Dessinatrice en art de la table",
+            "code_ogr": "14048"
+        },
+        {
+            "libelle_court": "Directeur / Directrice artistique en design produit",
+            "priorisation": "1",
+            "libelle": "Directeur / Directrice artistique en design produit",
+            "code_ogr": "14190"
+        },
+        {
+            "libelle_court": "Directeur / Directrice de cr\u00e9ation designer",
+            "priorisation": "1",
+            "libelle": "Directeur / Directrice de cr\u00e9ation designer",
+            "code_ogr": "14248"
+        },
+        {
+            "libelle_court": "Roughman / Roughwoman en design",
+            "priorisation": "1",
+            "libelle": "Roughman / Roughwoman en design",
+            "code_ogr": "19290"
+        },
+        {
+            "libelle_court": "Styliste transport",
+            "priorisation": "1",
+            "libelle": "Styliste transport",
+            "code_ogr": "19551"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Collecter des informations sur les tendances, styles, besoins de nouveaux produits et services pour une client\u00e8le cible",
+            "code_ogr": "830",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9finir le concept, la th\u00e9matique du produit",
+            "code_ogr": "1283",
+            "code_type_activite": "2",
+            "riasec_majeur": "A",
+            "position_item": "2",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etudier la fonctionnalit\u00e9 du produit, les contraintes du projet et op\u00e9rer des choix techniques, esth\u00e9tiques, \u00e9conomiques",
+            "code_ogr": "1923",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Dessiner des avant-projets (roughs, croquis) \u00e0 partir du concept, des th\u00e8mes d\u00e9finis",
+            "code_ogr": "1363",
+            "code_type_activite": "2",
+            "riasec_majeur": "A",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des plans apr\u00e8s \u00e9tude des options retenues lors de la pr\u00e9sentation des avant-projets",
+            "code_ogr": "1929",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9lectionner les mati\u00e8res ou mat\u00e9riaux des projets",
+            "code_ogr": "3179",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9senter les maquettes, prototypes au client ou au commanditaire et s\u00e9lectionner le projet d\u00e9finitif avec le client",
+            "code_ogr": "2661",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Evaluer la conformit\u00e9 artistique et technique des mod\u00e8les/prototypes.",
+            "code_ogr": "1938",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "8",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Expliciter \u00e0 divers intervenants les nouveaux produits et services lors de leur lancement ou de leur commercialisation",
+            "code_ogr": "1970",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "9",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "B1805",
+            "libelle_rome_cible": "Stylisme"
+        },
+        {
+            "code_rome_cible": "E1205",
+            "libelle_rome_cible": "R\u00e9alisation de contenus multim\u00e9dias"
+        },
+        {
+            "code_rome_cible": "F1102",
+            "libelle_rome_cible": "Conception - am\u00e9nagement d'espaces int\u00e9rieurs"
+        },
+        {
+            "code_rome_cible": "H1203",
+            "libelle_rome_cible": "Conception et dessin produits m\u00e9caniques"
+        },
+        {
+            "code_rome_cible": "H2209",
+            "libelle_rome_cible": "Intervention technique en ameublement et bois"
+        },
+        {
+            "code_rome_cible": "M1702",
+            "libelle_rome_cible": "Analyse de tendance"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/ m\u00e9tier est accessible avec un dipl\u00f4me de niveau Bac+2 (DUT, L2, ...) \u00e0 Master (Master recherche, dipl\u00f4me d'\u00e9cole sup\u00e9rieure des arts appliqu\u00e9s, dipl\u00f4me d'ing\u00e9nieur, ...) en arts appliqu\u00e9s, cr\u00e9ation industrielle, arts et techniques, design industriel, ...\nIl est \u00e9galement accessible avec une formation technique (\u00e9b\u00e9nisterie, orf\u00e8vrerie, lunetterie, ...) sur pr\u00e9sentation d'un book ou de cr\u00e9ations.\nLa pratique d'une ou plusieurs langues \u00e9trang\u00e8res peut \u00eatre requise.\nLa ma\u00eetrise de l'outil informatique (palette graphique, logiciel de Conception et de Dessin Assist\u00e9s par Ordinateur -CAO/DAO-, images de synth\u00e8se, ...) est exig\u00e9e.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Intervenir dans un domaine :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Alimentation",
+            "code_ogr": "6388",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ameublement, mobilier de jardin, agencement",
+            "code_ogr": "6394",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Art de la table, ustensiles et accessoires (cuisine, salle de bain, ...)",
+            "code_ogr": "6405",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chimie, cosm\u00e9tique, pharmacie",
+            "code_ogr": "6431",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Equipement de collectivit\u00e9 (mobilier urbain, jeux ext\u00e9rieurs, ...)",
+            "code_ogr": "6474",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Equipement industriel, professionnel (m\u00e9dical, ...)",
+            "code_ogr": "6478",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Equipements domestiques (\u00e9lectrom\u00e9nager, luminaire, ...)",
+            "code_ogr": "6484",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Equipements de loisirs, jeux, jouets",
+            "code_ogr": "6482",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "8",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Equipements sportifs",
+            "code_ogr": "6488",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Equipements audiovisuels (TV, cam\u00e9scope, lecteur DVD, ...)",
+            "code_ogr": "6481",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "10",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "T\u00e9l\u00e9phonie, informatique, \u00e9lectronique de pointe",
+            "code_ogr": "6681",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "11",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Transport a\u00e9rien et maritime",
+            "code_ogr": "6687",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "12",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Transport terrestre (automobile, deux roues, ...)",
+            "code_ogr": "6691",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "13",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9finir et concevoir des :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ev\u00e9nements",
+            "code_ogr": "4503",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Services (bornes interactives, ...)",
+            "code_ogr": "4504",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Syst\u00e8mes (signal\u00e9tique lumineuse d'\u00e9quipement, ...)",
+            "code_ogr": "4505",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Utiliser des logiciels :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "3DS MAX",
+            "code_ogr": "10069",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Alias studio tools",
+            "code_ogr": "10070",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Autocad",
+            "code_ogr": "10072",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Catia",
+            "code_ogr": "10073",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Dreamweaver",
+            "code_ogr": "10075",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Illustrator",
+            "code_ogr": "10080",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "InDesign",
+            "code_ogr": "10081",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "LightWave, Maya",
+            "code_ogr": "10083",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Photoshop",
+            "code_ogr": "10085",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Power point",
+            "code_ogr": "10086",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "10",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Quark Express",
+            "code_ogr": "10088",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "11",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Rhinoc\u00e9ros 3D",
+            "code_ogr": "10089",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "12",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des travaux :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Dessins artistiques",
+            "code_ogr": "9116",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Maquettes, Prototypes",
+            "code_ogr": "9117",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Concevoir l'emballage et le conditionnement d'un produit, d'une gamme de produits selon les contraintes logistiques",
+            "code_ogr": "4022",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cr\u00e9er une identit\u00e9 visuelle de la marque ou du produit et \u00e9laborer une charte graphique",
+            "code_ogr": "4423",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cr\u00e9er une ambiance sensorielle autour d'un produit, d'une gamme de produits",
+            "code_ogr": "4421",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Organiser et mettre en oeuvre des actions de d\u00e9veloppement et de suivi de projet",
+            "code_ogr": "7703",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe ou diriger une structure",
+            "code_ogr": "4326",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer le budget du projet et d\u00e9cider des orientations budg\u00e9taires",
+            "code_ogr": "5627",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la gestion comptable et administrative d'une structure",
+            "code_ogr": "3533",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de bureaux de design int\u00e9gr\u00e9s (entreprises industrielles, ...), d'agences de design ou en ind\u00e9pendant, en relation avec diff\u00e9rents intervenants (service marketing, recherche et d\u00e9veloppement, ergonomes, ...).\nElle peut impliquer des d\u00e9placements et un \u00e9loignement du domicile de plusieurs jours (salons professionnels, contacts fournisseurs, site de production, ...).\nLa r\u00e9mun\u00e9ration est constitu\u00e9e d'honoraires, de droits de diffusion, de droits d'auteur (activit\u00e9 ind\u00e9pendante) ou d'un fixe (activit\u00e9 salari\u00e9e).\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Harmonisation des couleurs",
+            "code_ogr": "20911",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sens des volumes",
+            "code_ogr": "21094",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chiffrage/calcul de co\u00fbt",
+            "code_ogr": "20813",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Publication Assist\u00e9e par Ordinateur -PAO-",
+            "code_ogr": "21264",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Conception et de Dessin Assist\u00e9s par Ordinateur -CAO/DAO-",
+            "code_ogr": "21249",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de palette graphique",
+            "code_ogr": "21348",
+            "position_item": "6",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de centre d'usinage/prototypage rapide",
+            "code_ogr": "21177",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Agence de design",
+            "code_ogr": "23687",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Bureau de design int\u00e9gr\u00e9",
+            "code_ogr": "23733",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en droit de la propri\u00e9t\u00e9 intellectuelle",
+            "code_ogr": "21852",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Rough/dessin d'expression",
+            "code_ogr": "22677",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes environnementales",
+            "code_ogr": "22230",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Eco conception",
+            "code_ogr": "21819",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en sociologie",
+            "code_ogr": "21918",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ergonomie",
+            "code_ogr": "21935",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de marketing",
+            "code_ogr": "22970",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Dessin industriel",
+            "code_ogr": "21777",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Conduite de projet",
+            "code_ogr": "21746",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Histoire de l'art et des styles",
+            "code_ogr": "22023",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Propri\u00e9t\u00e9s des m\u00e9taux",
+            "code_ogr": "22493",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des mat\u00e9riaux composites",
+            "code_ogr": "21605",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des bois et d\u00e9riv\u00e9s du bois",
+            "code_ogr": "21560",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des cuirs et peaux",
+            "code_ogr": "21569",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques et propri\u00e9t\u00e9s du verre",
+            "code_ogr": "21686",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques de la c\u00e9ramique",
+            "code_ogr": "21547",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Habitat et architecture",
+            "code_ogr": "22017",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des tissus et mati\u00e8res textiles",
+            "code_ogr": "21665",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sc\u00e9nographie",
+            "code_ogr": "22679",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9thodes de mod\u00e9lisation informatique",
+            "code_ogr": "22134",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'animation de l'image",
+            "code_ogr": "22771",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en menuiserie",
+            "code_ogr": "21885",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de modelage",
+            "code_ogr": "22987",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de moulage",
+            "code_ogr": "23005",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Packaging primaire (bouteille, flacon, ...)",
+            "code_ogr": "22269",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Packaging secondaire (boite, \u00e9tui, ...)",
+            "code_ogr": "22270",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Graphisme",
+            "code_ogr": "22011",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en acoustique",
+            "code_ogr": "21836",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en olfactologie",
+            "code_ogr": "21894",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques commerciales",
+            "code_ogr": "23012",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de management",
+            "code_ogr": "22956",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Notions de strat\u00e9gie internationale",
+            "code_ogr": "22237",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nCon\u00e7oit ou am\u00e9liore l'esth\u00e9tique (forme, mati\u00e8res, couleurs) et la fonctionnalit\u00e9 de produits (mobilier, objets utilitaires, audiovisuels, ...) selon l'image de l'entreprise, le contexte socioculturel, les contraintes (\u00e9conomiques, de production,...).\nRespecte les normes de s\u00e9curit\u00e9, d'environnement et le droit de la propri\u00e9t\u00e9 industrielle et artistique.\nPeut se sp\u00e9cialiser dans le design d'un ou plusieurs produits (ameublement, art de la table, automobile, ...), de services (bornes interactives ...), d'emballages ou effectuer l'identit\u00e9 visuelle du produit ou de l'entreprise.\nPeut r\u00e9aliser la mod\u00e9lisation et les prototypes du produit et participer au suivi de la fabrication du projet.\nPeut coordonner une \u00e9quipe, diriger un service ou une structure.\n",
+    "intitule": "Design industriel",
+    "code_ogr": "215",
+    "code_rome": "H1204",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "K2105",
+            "libelle_rome_cible": "Enseignement artistique"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ]
+}

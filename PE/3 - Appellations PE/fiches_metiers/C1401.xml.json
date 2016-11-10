@@ -1,0 +1,362 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente d'accueil de prestations sociales",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'accueil de prestations sociales",
+            "code_ogr": "38443"
+        },
+        {
+            "libelle_court": "Agent / Agente technique de banque",
+            "priorisation": "1",
+            "libelle": "Agent / Agente technique de banque",
+            "code_ogr": "10762"
+        },
+        {
+            "libelle_court": "Agent(e) technique r\u00e9gimes retraite compl\u00e9ment pr\u00e9voyance",
+            "priorisation": "1",
+            "libelle": "Agent / Agente technique des r\u00e9gimes de retraite compl\u00e9mentaire et de pr\u00e9voyance",
+            "code_ogr": "10781"
+        },
+        {
+            "libelle_court": "Agent administratif/Agente administrative back-office march\u00e9",
+            "priorisation": "1",
+            "libelle": "Agent administratif / Agente administrative back-office march\u00e9",
+            "code_ogr": "10350"
+        },
+        {
+            "libelle_court": "Agent administratif / Agente administrative d'assurances",
+            "priorisation": "1",
+            "libelle": "Agent administratif / Agente administrative d'assurances",
+            "code_ogr": "10351"
+        },
+        {
+            "libelle_court": "Agent administratif / Agente administrative de banque",
+            "priorisation": "1",
+            "libelle": "Agent administratif / Agente administrative de banque",
+            "code_ogr": "10352"
+        },
+        {
+            "libelle_court": "Agent(e) administratif(ive) des op\u00e9rations bancaires",
+            "priorisation": "1",
+            "libelle": "Agent administratif / Agente administrative des op\u00e9rations bancaires",
+            "code_ogr": "10353"
+        },
+        {
+            "libelle_court": "Agent(e) administratif(ve) middle-office march\u00e9",
+            "priorisation": "1",
+            "libelle": "Agent administratif / Agente administrative middle-office march\u00e9",
+            "code_ogr": "10354"
+        },
+        {
+            "libelle_court": "Aide-r\u00e9dacteur / Aide-r\u00e9dactrice d'assurances",
+            "priorisation": "1",
+            "libelle": "Aide-r\u00e9dacteur / Aide-r\u00e9dactrice d'assurances",
+            "code_ogr": "10889"
+        },
+        {
+            "libelle_court": "Assistant(e) administratif(ve) d'assurances",
+            "priorisation": "1",
+            "libelle": "Assistant administratif / Assistante administrative d'assurances",
+            "code_ogr": "11184"
+        },
+        {
+            "libelle_court": "Employ\u00e9 central / Employ\u00e9e centrale ch\u00e8que",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 central / Employ\u00e9e centrale ch\u00e8que",
+            "code_ogr": "14752"
+        },
+        {
+            "libelle_court": "Technicien/Technicienne de gestion \u00e9lectronique de documents",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de gestion \u00e9lectronique de documents -GED-",
+            "code_ogr": "19775"
+        },
+        {
+            "libelle_court": "Technicien(ne) administratif(ve) de banque",
+            "priorisation": "1",
+            "libelle": "Technicien administratif / Technicienne administrative de banque",
+            "code_ogr": "19647"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Effectuer l'accueil t\u00e9l\u00e9phonique et la r\u00e9ception des clients et les renseigner ou les orienter",
+            "code_ogr": "1543",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der \u00e0 l'enregistrement, au tri, \u00e0 l'affranchissement du courrier",
+            "code_ogr": "3587",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Enregistrer et contr\u00f4ler les pi\u00e8ces constitutives de dossiers administratifs (relev\u00e9 de situation, pi\u00e8ce d'identit\u00e9, fichier Banque de France, ...)",
+            "code_ogr": "1799",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la v\u00e9rification et le suivi des dossiers des clients/prospects/assur\u00e9s",
+            "code_ogr": "1541",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Codifier et saisir les donn\u00e9es clients (enregistrement de ch\u00e8ques, ordres de bourse, ...) et mettre \u00e0 jour les tableaux de suivi",
+            "code_ogr": "824",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer les attestations fiscales, \u00e9ch\u00e9anciers de cotisations, relev\u00e9s boursiers, relev\u00e9s de situation des clients, ... et les documents de suivi de l'activit\u00e9",
+            "code_ogr": "1744",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1408",
+            "libelle_rome_cible": "T\u00e9l\u00e9conseil et t\u00e9l\u00e9vente"
+        },
+        {
+            "code_rome_cible": "M1602",
+            "libelle_rome_cible": "Op\u00e9rations administratives"
+        },
+        {
+            "code_rome_cible": "M1607",
+            "libelle_rome_cible": "Secr\u00e9tariat"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau Bac (professionnel, ...) \u00e0 Bac+2 (BTS, DUT, ...) en banque, assurance, gestion, comptabilit\u00e9.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans le secteur sans dipl\u00f4me particulier.\nLa ma\u00eetrise de l'outil informatique (tableur, traitement de texte, ...) et des outils de communication (\u00e9changes de donn\u00e9es informatis\u00e9es, Internet, intranet, ...) est indispensable.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser une activit\u00e9 n\u00e9cessitant :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "La certification AMF ou une \u00e9valuation des savoirs d\u00e9finie par l'Autorit\u00e9 des March\u00e9s Financiers",
+            "code_ogr": "38306",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Concevoir et r\u00e9diger des courriers, rapports, notes, ...",
+            "code_ogr": "3508",
+            "code_type_activite": "3",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer des devis de contrats d'assurances et proc\u00e9der \u00e0 leur gestion (appel \u00e0 cotisation, contr\u00f4le des paiements, ...)",
+            "code_ogr": "5577",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Enregistrer des ouvertures de comptes bancaires ou en suivre la gestion",
+            "code_ogr": "5682",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations de change de devises et leur comptabilisation",
+            "code_ogr": "8572",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des actions de prospection t\u00e9l\u00e9phonique",
+            "code_ogr": "8215",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de banques, de soci\u00e9t\u00e9s d'assurances, de mutuelles, de caisses de retraite, de centres d'appels ou de plates-formes t\u00e9l\u00e9phoniques en contact avec les clients.\nElle peut s'exercer le samedi.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Veille documentaire",
+            "code_ogr": "21486",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Caisse d'assurance maladie",
+            "code_ogr": "23752",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caisse de retraite et de pr\u00e9voyance",
+            "code_ogr": "23753",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Compagnie d'assurances/mutuelle",
+            "code_ogr": "23822",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement bancaire et financier",
+            "code_ogr": "23914",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisme de protection sociale",
+            "code_ogr": "24020",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Plate-forme t\u00e9l\u00e9phonique",
+            "code_ogr": "24040",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 d'investissement",
+            "code_ogr": "24102",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Assurance",
+            "code_ogr": "23408",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Banque",
+            "code_ogr": "23412",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Modalit\u00e9s d'accueil",
+            "code_ogr": "22161",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes de la relation client",
+            "code_ogr": "22323",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de secr\u00e9tariat",
+            "code_ogr": "23115",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des produits d'assurances",
+            "code_ogr": "21641",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'administration de compte bancaire",
+            "code_ogr": "22380",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques commerciales",
+            "code_ogr": "23012",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise le suivi administratif de dossiers, la saisie ou la v\u00e9rification d'op\u00e9rations bancaires (ordres de bourse, remises de ch\u00e8que, ...) ou d'assurance (saisie des contrats, mise \u00e0 jour de cotisation, ...), selon la r\u00e9glementation de l'assurance ou la r\u00e9glementation bancaire.\nPeut effectuer la gestion de contrats d'assurances (appel \u00e0 cotisation, ...).\nPeut r\u00e9aliser des op\u00e9rations commerciales (d\u00e9marchage t\u00e9l\u00e9phonique, ...).\n",
+    "intitule": "Gestion en banque et assurance",
+    "code_ogr": "75",
+    "code_rome": "C1401",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "C1102",
+            "libelle_rome_cible": "Conseil client\u00e8le en assurances"
+        },
+        {
+            "code_rome_cible": "C1109",
+            "libelle_rome_cible": "R\u00e9daction et gestion en assurances"
+        },
+        {
+            "code_rome_cible": "C1201",
+            "libelle_rome_cible": "Accueil et services bancaires"
+        },
+        {
+            "code_rome_cible": "C1206",
+            "libelle_rome_cible": "Gestion de client\u00e8le bancaire"
+        },
+        {
+            "code_rome_cible": "C1303",
+            "libelle_rome_cible": "Gestion de portefeuilles sur les march\u00e9s financiers"
+        },
+        {
+            "code_rome_cible": "M1605",
+            "libelle_rome_cible": "Assistanat technique et administratif"
+        }
+    ]
+}

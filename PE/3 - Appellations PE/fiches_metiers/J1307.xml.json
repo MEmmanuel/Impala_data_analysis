@@ -1,0 +1,295 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Aide-pr\u00e9parateur / Aide-pr\u00e9paratrice en pharmacie",
+            "priorisation": "1",
+            "libelle": "Aide-pr\u00e9parateur / Aide-pr\u00e9paratrice en pharmacie",
+            "code_ogr": "10888"
+        },
+        {
+            "libelle_court": "Pr\u00e9parateur / Pr\u00e9paratrice en pharmacie",
+            "priorisation": "1",
+            "libelle": "Pr\u00e9parateur / Pr\u00e9paratrice en pharmacie",
+            "code_ogr": "18027"
+        },
+        {
+            "libelle_court": "Pr\u00e9parateur / Pr\u00e9paratrice en pharmacie d'officine",
+            "priorisation": "1",
+            "libelle": "Pr\u00e9parateur / Pr\u00e9paratrice en pharmacie d'officine",
+            "code_ogr": "18028"
+        },
+        {
+            "libelle_court": "Pr\u00e9parateur / Pr\u00e9paratrice en pharmacie hospitali\u00e8re",
+            "priorisation": "1",
+            "libelle": "Pr\u00e9parateur / Pr\u00e9paratrice en pharmacie hospitali\u00e8re",
+            "code_ogr": "18029"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier la demande (pr\u00e9paration pharmaceutique, d\u00e9livrance de m\u00e9dicaments, de mat\u00e9riel, ...) du service (unit\u00e9 de soins, ...) ou du client/patient",
+            "code_ogr": "2035",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser la pr\u00e9paration (s\u00e9lection des produits, pes\u00e9e, m\u00e9lange, ...) et proc\u00e9der \u00e0 la mise en forme pharmaceutique (pommade, collyre, g\u00e9lule, ...)",
+            "code_ogr": "2777",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Consigner les donn\u00e9es de fabrication avec la date, le num\u00e9ro d'identification, la composition, conditionner et \u00e9tiqueter la pr\u00e9paration pharmaceutique",
+            "code_ogr": "977",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier le dossier de la personne , d\u00e9livrer les m\u00e9dicaments et l'informer sur les modalit\u00e9s de prescription",
+            "code_ogr": "3442",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Actualiser l'ordonnancier, le registre des stup\u00e9fiants, ...",
+            "code_ogr": "600",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks de produits, identifier les besoins en approvisionnement et transmettre la commande \u00e0 l'interlocuteur concern\u00e9",
+            "code_ogr": "3616",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9ceptionner et ranger les produits selon le mode de stockage la date de p\u00e9remption, ... ou leur pr\u00e9sentation en magasin",
+            "code_ogr": "2914",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier le fonctionnement des appareils et informer le service maintenance, le responsable en cas de dysfonctionnement",
+            "code_ogr": "3626",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "8",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1214",
+            "libelle_rome_cible": "Vente en habillement et accessoires de la personne"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec le Brevet Professionnel -BP- de pr\u00e9parateur en pharmacie.\nLe dipl\u00f4me de pr\u00e9parateur en pharmacie hospitali\u00e8re est obligatoire pour exercer en \u00e9tablissement hospitalier.\nDes vaccinations pr\u00e9vues par le Code de Sant\u00e9 Publique sont exig\u00e9es.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Effectuer le suivi m\u00e9dico-administratif du dossier du patient",
+            "code_ogr": "3542",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Informer le personnel soignant sur des produits pharmaceutiques (recommandations d'usage, nouveaut\u00e9s, produits de substitution, ...)",
+            "code_ogr": "6166",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9sinfecter, d\u00e9contaminer, ranger le poste de travail et le mat\u00e9riel et proc\u00e9der \u00e0 l'\u00e9vacuation, \u00e0 la destruction des d\u00e9chets",
+            "code_ogr": "3568",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conseiller et informer des clients sur des produits et effectuer la vente",
+            "code_ogr": "4139",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'officines en contact avec les clients ou au sein de Pharmacies \u00e0 Usage Interne -PUI- d'\u00e9tablissements de soins (h\u00f4pital, clinique, ...) et en relation avec diff\u00e9rents intervenants (pharmaciens, m\u00e9decins prescripteurs, personnels de soins, cadres de sant\u00e9, fournisseurs, ...).\nElle peut s'exercer les fins de semaine, jours f\u00e9ri\u00e9s, de nuit et \u00eatre soumise \u00e0 des astreintes ou des gardes.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils de st\u00e9rilisation",
+            "code_ogr": "21161",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Argumentation commerciale",
+            "code_ogr": "20786",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Organisation humanitaire",
+            "code_ogr": "24014",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pharmacie",
+            "code_ogr": "24034",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pharmacie \u00e0 Usage Interne d'\u00e9tablissement de soins",
+            "code_ogr": "24035",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9partiteur pharmaceutique",
+            "code_ogr": "24048",
+            "code_type_section_env": "1"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Guide des Bonnes Pratiques de Pr\u00e9paration Officinale -G.B.P.O-",
+            "code_ogr": "22015",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Bonnes Pratiques de Pharmacie Hospitali\u00e8re -B.P.P.H-",
+            "code_ogr": "21533",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation des m\u00e9dicaments \u00e0 statut particulier (stup\u00e9fiants, substances toxiques, ...)",
+            "code_ogr": "22546",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modalit\u00e9s de stockage des produits pharmaceutiques",
+            "code_ogr": "22176",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de bio nettoyage",
+            "code_ogr": "22384",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9d\u00e9s de st\u00e9rilisation",
+            "code_ogr": "22361",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et d'asepsie",
+            "code_ogr": "22646",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Hom\u00e9opathie",
+            "code_ogr": "22033",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en phytoth\u00e9rapie",
+            "code_ogr": "21903",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de vente",
+            "code_ogr": "23168",
+            "position_item": "3",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise des pr\u00e9parations pharmaceutiques et d\u00e9livre des produits (m\u00e9dicaments, dispositifs m\u00e9dicaux st\u00e9riles, ...) selon la prescription m\u00e9dicale ou la demande individuelle.\nPeut conseiller et vendre des articles de parapharmacie.\n",
+    "intitule": "Pr\u00e9paration en pharmacie",
+    "code_ogr": "344",
+    "code_rome": "J1307",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1405",
+            "libelle_rome_cible": "Conseil en information m\u00e9dicale"
+        },
+        {
+            "code_rome_cible": "J1502",
+            "libelle_rome_cible": "Coordination de services m\u00e9dicaux ou param\u00e9dicaux"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ]
+}

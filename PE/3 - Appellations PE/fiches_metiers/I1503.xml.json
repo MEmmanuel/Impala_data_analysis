@@ -1,0 +1,665 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente d'assainissement radioactif",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'assainissement radioactif",
+            "code_ogr": "10389"
+        },
+        {
+            "libelle_court": "Agent/Agente de d\u00e9contamination en Nucl\u00e9aire, Radio -NRBC-",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de d\u00e9contamination en Nucl\u00e9aire, Radiologique, Bact\u00e9riologique, Chimique -NRBC-",
+            "code_ogr": "10433"
+        },
+        {
+            "libelle_court": "Agent / Agente de logistique nucl\u00e9aire",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de logistique nucl\u00e9aire",
+            "code_ogr": "10477"
+        },
+        {
+            "libelle_court": "Agent / Agente de servitude nucl\u00e9aire",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de servitude nucl\u00e9aire",
+            "code_ogr": "10607"
+        },
+        {
+            "libelle_court": "Agent/Agente de traitement d\u00e9polluant en -NRBC-",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de traitement d\u00e9polluant en Nucl\u00e9aire Radiologique, Bact\u00e9riologique, Chimique -NRBC-",
+            "code_ogr": "10631"
+        },
+        {
+            "libelle_court": "Agent(e) intervention et assainissement en milieu RBC",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'intervention et d'assainissement en milieu radioactif bact\u00e9riologique et chimique",
+            "code_ogr": "10721"
+        },
+        {
+            "libelle_court": "Chef de groupe de d\u00e9contamination nucl\u00e9aire",
+            "priorisation": "1",
+            "libelle": "Chef de groupe de d\u00e9contamination nucl\u00e9aire",
+            "code_ogr": "12158"
+        },
+        {
+            "libelle_court": "D\u00e9contamineur/D\u00e9contamineuse d'atelier en -NRBC-",
+            "priorisation": "1",
+            "libelle": "D\u00e9contamineur / D\u00e9contamineuse d'atelier en Nucl\u00e9aire, Radiologique, Bact\u00e9riologique, Chimique -NRBC-",
+            "code_ogr": "13900"
+        },
+        {
+            "libelle_court": "D\u00e9contamineur/D\u00e9contamineuse sur chantier -NRBC-",
+            "priorisation": "1",
+            "libelle": "D\u00e9contamineur / D\u00e9contamineuse sur chantier en Nucl\u00e9aire, Radiologique, Bact\u00e9riologique, Chimique -NRBC-",
+            "code_ogr": "13901"
+        },
+        {
+            "libelle_court": "D\u00e9floqueur / D\u00e9floqueuse d'amiante",
+            "priorisation": "1",
+            "libelle": "D\u00e9floqueur / D\u00e9floqueuse d'amiante",
+            "code_ogr": "13917"
+        },
+        {
+            "libelle_court": "D\u00e9samianteur / D\u00e9samianteuse",
+            "priorisation": "1",
+            "libelle": "D\u00e9samianteur / D\u00e9samianteuse",
+            "code_ogr": "13990"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur/Op\u00e9ratrice en d\u00e9fense -NBC-",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice en d\u00e9fense Nucl\u00e9aire, Biologique et Chimique -NBC-",
+            "code_ogr": "17199"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice en d\u00e9pollution pyrotechnique",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice en d\u00e9pollution pyrotechnique",
+            "code_ogr": "38335"
+        },
+        {
+            "libelle_court": "Responsable d'\u00e9quipe de logistique nucl\u00e9aire",
+            "priorisation": "1",
+            "libelle": "Responsable d'\u00e9quipe de logistique nucl\u00e9aire",
+            "code_ogr": "18913"
+        },
+        {
+            "libelle_court": "Sapeur(se)-pompier(\u00e8re) cellule intervention chimique radio",
+            "priorisation": "1",
+            "libelle": "Sapeur-pompier / Sapeuse-pompi\u00e8re de cellule d'intervention chimique et radiologique",
+            "code_ogr": "19310"
+        },
+        {
+            "libelle_court": "Sp\u00e9cialiste en d\u00e9fense Nucl\u00e9aire, Biologique et Chimique NBC",
+            "priorisation": "1",
+            "libelle": "Sp\u00e9cialiste en d\u00e9fense Nucl\u00e9aire, Biologique et Chimique -NBC-",
+            "code_ogr": "19506"
+        },
+        {
+            "libelle_court": "Technicien/Technicienne d'assainissement en -NRBC-",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne d'assainissement Nucl\u00e9aire, Radiologique, Bact\u00e9riologique, Chimique -NRBC-",
+            "code_ogr": "19713"
+        },
+        {
+            "libelle_court": "Technicien/Technicienne en d\u00e9contamination en -NRBC-",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en d\u00e9contamination Nucl\u00e9aire, Radiologique, Bact\u00e9riologique, Chimique -NRBC-",
+            "code_ogr": "20052"
+        },
+        {
+            "libelle_court": "Technicien/Technicienne en d\u00e9pollution -NRBC-",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en d\u00e9pollution Nucl\u00e9aire, Radiologique, Bact\u00e9riologique, Chimique -NRBC-",
+            "code_ogr": "20053"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne en risques technologiques",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en risques technologiques",
+            "code_ogr": "20119"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Effectuer la pr\u00e9paration logistique des mat\u00e9riels et des \u00e9quipements d'intervention",
+            "code_ogr": "1531",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Relever les mesures et d\u00e9tecter les atteintes ou d\u00e9passement de seuil de contamination, de toxicit\u00e9 ou de pollution",
+            "code_ogr": "3006",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pratiquer la d\u00e9contamination \u00e0 l'aide d'\u00e9quipements ou d'installations d'assainissement et r\u00e9aliser les finitions (nettoyage, r\u00e9curage, ...)",
+            "code_ogr": "2554",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9cup\u00e9rer et reconditionner les agents pollueurs et mat\u00e9riaux contamin\u00e9s, limiter les risques de propagation de pollution ou d'accident et assister des personnes en zone contamin\u00e9e",
+            "code_ogr": "2971",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la conformit\u00e9 de fonctionnement des \u00e9quipements et du mat\u00e9riel d'exploitation",
+            "code_ogr": "1019",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien et la maintenance des \u00e9quipements d'exploitation d'un site et des \u00e9quipements de d\u00e9contamination, de protection, ...",
+            "code_ogr": "1603",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac+2 (BTS/DUT) dans le secteur technique de l'entreprise (BTP, radioprotection, chimie, assainissement, ...).\nUne habilitation ou une certification li\u00e9e \u00e0 la nature du contaminant (rayon ionisant, amiante, \u00e9l\u00e9ment chimique, bact\u00e9riologique, ...) est obligatoire.\nUne aptitude m\u00e9dicale renouvelable p\u00e9riodiquement et des vaccinations (leptospirose, h\u00e9patite, ...) pr\u00e9vues par le Code de Sant\u00e9 Publique sont exig\u00e9es.\nUn ou plusieurs Certificat(s) d'Aptitude \u00e0 la Conduite En S\u00e9curit\u00e9 -CACES- conditionn\u00e9(s) par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement peu(vent)t \u00eatre requis.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Intervenir dans un milieu polluant et nocif :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Amiante",
+            "code_ogr": "6761",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bact\u00e9riologique",
+            "code_ogr": "6762",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chimique",
+            "code_ogr": "6763",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nucl\u00e9aire, Radiologique",
+            "code_ogr": "6764",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des interventions n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9vention des risques PR 1",
+            "code_ogr": "8490",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9vention des risques PR 2",
+            "code_ogr": "8491",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Qualit\u00e9, S\u00fbret\u00e9, Prestataires -QSP-",
+            "code_ogr": "8492",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9pollution pyrotechnique",
+            "code_ogr": "38322",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation Nucl\u00e9aire HN 2",
+            "code_ogr": "8485",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation Nucl\u00e9aire HN1",
+            "code_ogr": "8486",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation \u00e9lectrique, travaux hors tension (B0, B0V, B1 B1V, H0, ...)",
+            "code_ogr": "8481",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation \u00e9lectrique, travaux sous tension (B1T, BN, BR, H1T, ...)",
+            "code_ogr": "8482",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Soudure",
+            "code_ogr": "8499",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 318 (ponts roulants)",
+            "code_ogr": "10100",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 372- 9 (Engins de manutention (chariot \u00e9l\u00e9vateur))",
+            "code_ogr": "10102",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 372-1 (Tracteur et petits engins de chantiers mobiles)",
+            "code_ogr": "10104",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 386 (Plates-formes \u00e9l\u00e9vatrices mobiles de personnes)",
+            "code_ogr": "10120",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-2 (Chariots tracteurs et \u00e0 plateau porteur de capacit\u00e9 inf\u00e9rieure \u00e0 6 000 kg)",
+            "code_ogr": "10123",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-3 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 inf\u00e9rieure ou \u00e9gale \u00e0 6000 kg)",
+            "code_ogr": "10124",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9limiter et signaliser le p\u00e9rim\u00e8tre de s\u00e9curit\u00e9 d'une zone contamin\u00e9e",
+            "code_ogr": "4589",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier des produits et renseigner des \u00e9tiquettes, ...",
+            "code_ogr": "6114",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9terminer les zones et les conditions de stockage d'agents pollueurs ou de mat\u00e9riaux pollu\u00e9s",
+            "code_ogr": "4682",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser le montage et la mise en place de protections collectives (\u00e9cran, sas, paroi, ...)",
+            "code_ogr": "9194",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ex\u00e9cuter la pose/d\u00e9pose d'\u00e9chafaudage ou de calorifuge, ...",
+            "code_ogr": "5881",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des op\u00e9rations de d\u00e9montage et de d\u00e9pose d'\u00e9quipements, de mat\u00e9riels et de mat\u00e9riaux contamin\u00e9s",
+            "code_ogr": "4941",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der \u00e0 la gestion de la cha\u00eene du linge contamin\u00e9, des \u00e9quipements de nettoyage et des effluents",
+            "code_ogr": "8178",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises industrielles, de centrales nucl\u00e9aires, de soci\u00e9t\u00e9s de services, de services de secours, des arm\u00e9es, ... en relation avec diff\u00e9rents intervenants (production, exploitation, maintenance, transport, clients, institutionnels, pompiers, s\u00e9curit\u00e9, ...). Elle peut impliquer des d\u00e9placements.\nElle varie selon les modes et lieux d'intervention (en atelier, sur zone, ...), le type de contaminant (bact\u00e9riologique, chimique, nucl\u00e9aire, radiologique).\nElle peut s'exercer par roulement, les fins de semaine, jours f\u00e9ri\u00e9s, de nuit et \u00eatre soumise \u00e0 des astreintes.\nElle peut s'effectuer en hauteur, en zone \u00e0 atmosph\u00e8re contr\u00f4l\u00e9e et impliquer le port de charges.\nLe port d'\u00e9quipements de protection (combinaison, scaphandre, masque \u00e0 adduction d'air, gants...) et l'utilisation d'Equipements de Protection Collective -EPC- (sas et douche de d\u00e9contamination, ...) sont obligatoires.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de codes et symboles",
+            "code_ogr": "20935",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de contr\u00f4le et mesure",
+            "code_ogr": "21322",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de nettoyage",
+            "code_ogr": "21330",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de d\u00e9contamination",
+            "code_ogr": "21324",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de pompage",
+            "code_ogr": "21331",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etalonnage d'appareil de mesure",
+            "code_ogr": "20888",
+            "position_item": "6",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Montage d'\u00e9chafaudage",
+            "code_ogr": "21009",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Centrale nucl\u00e9aire",
+            "code_ogr": "23762",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement/organisme de recherche",
+            "code_ogr": "23925",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Service d'incendie et de secours",
+            "code_ogr": "24067",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de collecte et de traitement des d\u00e9chets",
+            "code_ogr": "24080",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent et Travaux Publics -BTP-",
+            "code_ogr": "23420",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Construction navale",
+            "code_ogr": "23453",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation en Hygi\u00e8ne, S\u00e9curit\u00e9, Environnement -HSE-",
+            "code_ogr": "22567",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9thodes d'assainissement radioactif, chimique et bact\u00e9riologique",
+            "code_ogr": "22126",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Radioprotection",
+            "code_ogr": "22519",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Propret\u00e9 nucl\u00e9aire",
+            "code_ogr": "22489",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electrom\u00e9canique",
+            "code_ogr": "21832",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9trologie",
+            "code_ogr": "22153",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation du transport de mati\u00e8res et produits dangereux",
+            "code_ogr": "22564",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de confinement",
+            "code_ogr": "22846",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de calorifugeage",
+            "code_ogr": "22822",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de d\u00e9mant\u00e8lement",
+            "code_ogr": "22882",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "G\u00e9nie civil",
+            "code_ogr": "21972",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise des op\u00e9rations techniques d'assainissement, de d\u00e9contamination ou de maintenance en milieu nucl\u00e9aire, bact\u00e9riologique ou chimique.\nMet en oeuvre des \u00e9quipements, installations et proc\u00e9dures de d\u00e9placements d'\u00e9l\u00e9ments polluants et nocifs selon des r\u00e8gles de s\u00e9curit\u00e9 et sanitaires strictes.\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "Intervention en milieux et produits nocifs",
+    "code_ogr": "324",
+    "code_rome": "I1503",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "F1103",
+            "libelle_rome_cible": "Contr\u00f4le et diagnostic technique du b\u00e2timent"
+        },
+        {
+            "code_rome_cible": "H1303",
+            "libelle_rome_cible": "Intervention technique en Hygi\u00e8ne S\u00e9curit\u00e9 Environnement -HSE- industriel"
+        },
+        {
+            "code_rome_cible": "I1304",
+            "libelle_rome_cible": "Installation et maintenance d'\u00e9quipements industriels et d'exploitation"
+        },
+        {
+            "code_rome_cible": "K1705",
+            "libelle_rome_cible": "S\u00e9curit\u00e9 civile et secours"
+        }
+    ]
+}

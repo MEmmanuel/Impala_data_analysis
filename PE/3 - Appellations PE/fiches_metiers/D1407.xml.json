@@ -1,0 +1,629 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Attach\u00e9 technico-commercial / Attach\u00e9e technico-commerciale",
+            "priorisation": "1",
+            "libelle": "Attach\u00e9 technico-commercial / Attach\u00e9e technico-commerciale",
+            "code_ogr": "11402"
+        },
+        {
+            "libelle_court": "Cadre technico-commercial / technico-commerciale",
+            "priorisation": "1",
+            "libelle": "Cadre technico-commercial / technico-commerciale",
+            "code_ogr": "11636"
+        },
+        {
+            "libelle_court": "Courtier / Courti\u00e8re en vins",
+            "priorisation": "1",
+            "libelle": "Courtier / Courti\u00e8re en vins",
+            "code_ogr": "13805"
+        },
+        {
+            "libelle_court": "Ing\u00e9nieur commercial / Ing\u00e9nieure commerciale",
+            "priorisation": "1",
+            "libelle": "Ing\u00e9nieur commercial / Ing\u00e9nieure commerciale",
+            "code_ogr": "15614"
+        },
+        {
+            "libelle_court": "Ing\u00e9nieur(e) technico-commercial(e)",
+            "priorisation": "1",
+            "libelle": "Ing\u00e9nieur technico-commercial / Ing\u00e9nieure technico-commerciale",
+            "code_ogr": "15898"
+        },
+        {
+            "libelle_court": "Ing\u00e9nieur(e) technico-commercial(e) en informatique",
+            "priorisation": "1",
+            "libelle": "Ing\u00e9nieur technico-commercial / Ing\u00e9nieure technico-commerciale en informatique",
+            "code_ogr": "15900"
+        },
+        {
+            "libelle_court": "N\u00e9gociant / N\u00e9gociante en bois",
+            "priorisation": "1",
+            "libelle": "N\u00e9gociant / N\u00e9gociante en bois",
+            "code_ogr": "16958"
+        },
+        {
+            "libelle_court": "Responsable technico-commercial / technico-commerciale",
+            "priorisation": "1",
+            "libelle": "Responsable technico-commercial / technico-commerciale",
+            "code_ogr": "19198"
+        },
+        {
+            "libelle_court": "Technico-commercial / Technico-commerciale",
+            "priorisation": "1",
+            "libelle": "Technico-commercial / Technico-commerciale",
+            "code_ogr": "20291"
+        },
+        {
+            "libelle_court": "Technico-commercial(e) deviseur(se)",
+            "priorisation": "1",
+            "libelle": "Technico-commercial deviseur / Technico-commerciale deviseuse",
+            "code_ogr": "38816"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "D\u00e9finir le plan d'action commercial et \u00e9tablir le plan de tourn\u00e9e (ciblage, interlocuteurs, pr\u00e9paration de dossiers techniques, ...)",
+            "code_ogr": "1285",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Concevoir l'\u00e9tude de faisabilit\u00e9 technique (chiffrage, relev\u00e9 de mesures, ...) de la demande du client et \u00e9tablir le devis",
+            "code_ogr": "911",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "N\u00e9gocier avec le client les modalit\u00e9s du contrat de vente",
+            "code_ogr": "3566",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier les conditions de r\u00e9alisation du contrat de vente",
+            "code_ogr": "3464",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "4",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre la r\u00e9alisation et proposer des solutions au client",
+            "code_ogr": "3250",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et analyser les r\u00e9sultats des ventes et proposer des ajustements",
+            "code_ogr": "3211",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "6",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Communiquer les besoins d'\u00e9volution aux services de l'entreprise",
+            "code_ogr": "849",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "C1102",
+            "libelle_rome_cible": "Conseil client\u00e8le en assurances"
+        },
+        {
+            "code_rome_cible": "C1504",
+            "libelle_rome_cible": "Transaction immobili\u00e8re"
+        },
+        {
+            "code_rome_cible": "D1402",
+            "libelle_rome_cible": "Relation commerciale grands comptes et entreprises"
+        },
+        {
+            "code_rome_cible": "H1102",
+            "libelle_rome_cible": "Management et ing\u00e9nierie d'affaires"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau Bac +2 (BTS, DUT, ...) \u00e0 Master (Master professionnel, dipl\u00f4me d'ing\u00e9nieur, ...) dans un secteur technique, scientifique ou industriel compl\u00e9t\u00e9 par une formation commerciale.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans un secteur technique (\u00e9lectricit\u00e9, b\u00e2timent, ...) sans dipl\u00f4me particulier.\nLa pratique d'une langue \u00e9trang\u00e8re, en particulier l'anglais, peut \u00eatre requise.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Intervenir aupr\u00e8s d'une client\u00e8le de :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Collectivit\u00e9s/Administration",
+            "code_ogr": "6338",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Comit\u00e9s d'entreprises",
+            "code_ogr": "6339",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Entreprises",
+            "code_ogr": "6340",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "3",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Grande distribution",
+            "code_ogr": "6341",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "4",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Grands comptes",
+            "code_ogr": "6342",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "5",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Groupes, Grandes entreprises",
+            "code_ogr": "6343",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "6",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Revendeurs",
+            "code_ogr": "6347",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "7",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Petites et Moyennes Entreprises -PME/PMI-",
+            "code_ogr": "6345",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "8",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Participer \u00e0 la d\u00e9finition de la strat\u00e9gie commerciale et marketing de l'entreprise",
+            "code_ogr": "7770",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer un cahier des charges d'appel d'offres et analyser la r\u00e9ponse \u00e0 des appels d'offres",
+            "code_ogr": "5651",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Informer, mettre en place des actions de formation aupr\u00e8s des salari\u00e9s de l'entreprise, des clients lors du lancement de nouveaux produits",
+            "code_ogr": "6171",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener les actions de gestion de ressources humaines (recrutement, formation, ...)",
+            "code_ogr": "3563",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener des actions commerciales lors de manifestations \u00e9v\u00e8nementielles",
+            "code_ogr": "3562",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises commerciales, industrielles ou de soci\u00e9t\u00e9s de services en relation avec les diff\u00e9rents services (production, marketing, \u00e9tudes, ...) et en contact avec la client\u00e8le.\nElle varie selon le secteur (fabrication et distribution de produits industriels, d'\u00e9quipements, ...) et la taille de l'entreprise (PME/PMI, groupe industriel, ...).\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Elaboration de devis",
+            "code_ogr": "20868",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "2",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise commerciale",
+            "code_ogr": "23871",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "A\u00e9ronautique, spatial",
+            "code_ogr": "23391",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Agriculture",
+            "code_ogr": "23394",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Alimentaire",
+            "code_ogr": "23395",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Armement",
+            "code_ogr": "23404",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Automobile",
+            "code_ogr": "23410",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent et Travaux Publics -BTP-",
+            "code_ogr": "23420",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Bois, ameublement",
+            "code_ogr": "23424",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chimie",
+            "code_ogr": "23436",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chimie fine",
+            "code_ogr": "23437",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Combustibles",
+            "code_ogr": "23442",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Commerce/vente",
+            "code_ogr": "23446",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electricit\u00e9",
+            "code_ogr": "23474",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electrom\u00e9nager",
+            "code_ogr": "23476",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electronique",
+            "code_ogr": "23477",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Energie, nucl\u00e9aire, fluide",
+            "code_ogr": "23480",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ferroviaire",
+            "code_ogr": "23498",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Habillement, cuir, textile",
+            "code_ogr": "23515",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie cosm\u00e9tique",
+            "code_ogr": "23530",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie du papier, carton",
+            "code_ogr": "23531",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie graphique",
+            "code_ogr": "23532",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Information et communication",
+            "code_ogr": "23534",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Informatique et t\u00e9l\u00e9communications",
+            "code_ogr": "23535",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Machinisme",
+            "code_ogr": "23544",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9canique, travail des m\u00e9taux",
+            "code_ogr": "23552",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9tallurgie, sid\u00e9rurgie",
+            "code_ogr": "23558",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Nautisme",
+            "code_ogr": "23567",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Optique, optronique",
+            "code_ogr": "23568",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Parachimie",
+            "code_ogr": "23573",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "P\u00e9trochimie",
+            "code_ogr": "23582",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Plasturgie, caoutchouc, composites",
+            "code_ogr": "23585",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "S\u00e9curit\u00e9, hygi\u00e8ne, environnement",
+            "code_ogr": "23631",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sport et loisirs",
+            "code_ogr": "23640",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Tourisme",
+            "code_ogr": "23652",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Transport/logistique",
+            "code_ogr": "23659",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Verre, mat\u00e9riaux de construction",
+            "code_ogr": "23673",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Droit commercial",
+            "code_ogr": "21794",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisation de la cha\u00eene logistique",
+            "code_ogr": "22249",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Typologie des clients/consommateurs",
+            "code_ogr": "23348",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques commerciales",
+            "code_ogr": "23012",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'appel d'offres",
+            "code_ogr": "22381",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques p\u00e9dagogiques",
+            "code_ogr": "23253",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion des Ressources Humaines",
+            "code_ogr": "21872",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'animation d'\u00e9quipe",
+            "code_ogr": "22774",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nProspecte une client\u00e8le de professionnels, propose des solutions techniques selon les besoins, imp\u00e9ratifs du client et n\u00e9gocie les conditions commerciales de la vente.\nPeut coordonner une \u00e9quipe commerciale et animer un r\u00e9seau de commerciaux.\n",
+    "intitule": "Relation technico-commerciale",
+    "code_ogr": "108",
+    "code_rome": "D1407",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1405",
+            "libelle_rome_cible": "Conseil en information m\u00e9dicale"
+        },
+        {
+            "code_rome_cible": "D1406",
+            "libelle_rome_cible": "Management en force de vente"
+        }
+    ]
+}

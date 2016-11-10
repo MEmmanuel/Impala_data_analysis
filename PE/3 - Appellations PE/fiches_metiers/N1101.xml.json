@@ -1,0 +1,735 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente cariste de livraison ferroviaire",
+            "priorisation": "1",
+            "libelle": "Agent / Agente cariste de livraison ferroviaire",
+            "code_ogr": "10357"
+        },
+        {
+            "libelle_court": "Cariste",
+            "priorisation": "1",
+            "libelle": "Cariste",
+            "code_ogr": "11679"
+        },
+        {
+            "libelle_court": "Cariste agent / agente de magasinage",
+            "priorisation": "1",
+            "libelle": "Cariste agent / agente de magasinage",
+            "code_ogr": "11680"
+        },
+        {
+            "libelle_court": "Cariste agent / agente de quai",
+            "priorisation": "1",
+            "libelle": "Cariste agent / agente de quai",
+            "code_ogr": "11681"
+        },
+        {
+            "libelle_court": "Cariste bobinier / bobini\u00e8re",
+            "priorisation": "1",
+            "libelle": "Cariste bobinier / bobini\u00e8re",
+            "code_ogr": "11682"
+        },
+        {
+            "libelle_court": "Cariste chargeur/d\u00e9chargeur / chargeuse/d\u00e9chargeuse",
+            "priorisation": "1",
+            "libelle": "Cariste chargeur/d\u00e9chargeur / chargeuse/d\u00e9chargeuse",
+            "code_ogr": "11683"
+        },
+        {
+            "libelle_court": "Cariste d'entrep\u00f4t",
+            "priorisation": "1",
+            "libelle": "Cariste d'entrep\u00f4t",
+            "code_ogr": "11684"
+        },
+        {
+            "libelle_court": "Cariste en pr\u00e9paration logistique",
+            "priorisation": "1",
+            "libelle": "Cariste en pr\u00e9paration logistique",
+            "code_ogr": "11685"
+        },
+        {
+            "libelle_court": "Cariste manutentionnaire",
+            "priorisation": "1",
+            "libelle": "Cariste manutentionnaire",
+            "code_ogr": "11686"
+        },
+        {
+            "libelle_court": "Cariste pointeur / pointeuse",
+            "priorisation": "1",
+            "libelle": "Cariste pointeur / pointeuse",
+            "code_ogr": "11687"
+        },
+        {
+            "libelle_court": "Cariste r\u00e9ceptionnaire",
+            "priorisation": "1",
+            "libelle": "Cariste r\u00e9ceptionnaire",
+            "code_ogr": "11688"
+        },
+        {
+            "libelle_court": "Cariste secteur industrie",
+            "priorisation": "1",
+            "libelle": "Cariste secteur industrie",
+            "code_ogr": "11689"
+        },
+        {
+            "libelle_court": "Chef cariste",
+            "priorisation": "1",
+            "libelle": "Chef cariste",
+            "code_ogr": "12007"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de chariot \u00e9l\u00e9vateur de l'arm\u00e9e",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de chariot \u00e9l\u00e9vateur de l'arm\u00e9e",
+            "code_ogr": "12918"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de nacelle",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de nacelle",
+            "code_ogr": "38979"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice d'engins de d\u00e9placement des charges",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice d'engins de d\u00e9placement des charges",
+            "code_ogr": "13240"
+        },
+        {
+            "libelle_court": "Conducteur(trice) engins manut motoris\u00e9 \u00e0 conducteur port\u00e9",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice d'engins de manutention motoris\u00e9 \u00e0 conducteur port\u00e9",
+            "code_ogr": "13250"
+        },
+        {
+            "libelle_court": "Tractoriste logistique",
+            "priorisation": "1",
+            "libelle": "Tractoriste logistique",
+            "code_ogr": "20406"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "S\u00e9lectionner et pr\u00e9parer l'engin de manutention, selon les caract\u00e9ristiques des produits et les conditions de d\u00e9placement",
+            "code_ogr": "3143",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Charger/d\u00e9charger les marchandises selon les imp\u00e9ratifs d'enl\u00e8vement, de livraison",
+            "code_ogr": "816",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le rangement des produits en zones de stockage",
+            "code_ogr": "3538",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Livrer les charges entre les diff\u00e9rents postes du site (cha\u00eene de production, zone de \u00ab picking \u00bb, ...)",
+            "code_ogr": "1794",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports de suivi de d\u00e9placements des charges et transmettre au service concern\u00e9",
+            "code_ogr": "3056",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier l'\u00e9tat des charges, identifier les anomalies et les transmettre au service concern\u00e9",
+            "code_ogr": "3482",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler l'\u00e9tat des pi\u00e8ces, des \u00e9quipements et effectuer la maintenance de premier niveau",
+            "code_ogr": "3516",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "A1101",
+            "libelle_rome_cible": "Conduite d'engins agricoles et forestiers"
+        },
+        {
+            "code_rome_cible": "N1103",
+            "libelle_rome_cible": "Magasinage et pr\u00e9paration de commandes"
+        },
+        {
+            "code_rome_cible": "N1104",
+            "libelle_rome_cible": "Manoeuvre et conduite d'engins lourds de manutention"
+        },
+        {
+            "code_rome_cible": "N2203",
+            "libelle_rome_cible": "Exploitation des pistes a\u00e9roportuaires"
+        },
+        {
+            "code_rome_cible": "N3203",
+            "libelle_rome_cible": "Manutention portuaire"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle.\nUn CAP/BEP en transport, logistique, ... peut en faciliter l'acc\u00e8s.\nUn ou plusieurs Certificat(s) d'Aptitude \u00e0 la Conduite en S\u00e9curit\u00e9 -CACES- conditionn\u00e9(s) par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement est (sont) exig\u00e9(s).\nLa pratique de l'outil informatique (utilisation de syst\u00e8me informatique fixe ou embarqu\u00e9, logiciel de gestion de stocks, ...) peut \u00eatre demand\u00e9e.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-1 (Transpalettes \u00e0 conducteur port\u00e9 et pr\u00e9parateurs de commandes au sol)",
+            "code_ogr": "10122",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-2 (Chariots tracteurs et \u00e0 plateau porteur de capacit\u00e9 inf\u00e9rieure \u00e0 6 000 kg)",
+            "code_ogr": "10123",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-3 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 inf\u00e9rieure ou \u00e9gale \u00e0 6000 kg)",
+            "code_ogr": "10124",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-4 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 sup\u00e9rieure \u00e0 6000 kg)",
+            "code_ogr": "10125",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-5 (Chariots \u00e9l\u00e9vateurs \u00e0 m\u00e2t r\u00e9tractable)",
+            "code_ogr": "10126",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-6 (D\u00e9placement, chargement, transfert de chariots sans activit\u00e9 de production (maintenance, d\u00e9monstration, essais)",
+            "code_ogr": "10127",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 386 (Plates-formes \u00e9l\u00e9vatrices mobiles de personnes)",
+            "code_ogr": "10120",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9placer des charges au moyen d'un engin :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chariot \u00e0 poste de conduite \u00e9levable \u00e0 mat r\u00e9tractable",
+            "code_ogr": "4610",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chariot \u00e9quip\u00e9 de porte-charges (\u00e9perons, pinces, ...)",
+            "code_ogr": "4612",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chariot bi ou tri-directionnel \u00e0 prise lat\u00e9rale",
+            "code_ogr": "4611",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chariot-\u00e9l\u00e9vateur \u00e0 conduite frontale",
+            "code_ogr": "4614",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chariot-\u00e9l\u00e9vateur \u00e0 conduite lat\u00e9rale",
+            "code_ogr": "4615",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nacelle \u00e9l\u00e9vatrice",
+            "code_ogr": "4617",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Transpalette \u00e9lectrique \u00e0 conducteur port\u00e9",
+            "code_ogr": "4620",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations logistiques sp\u00e9cifiques :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Approvisionnement d'une ligne de production",
+            "code_ogr": "8890",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conditionnement/re-conditionnement/emballage",
+            "code_ogr": "8891",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Inventaire",
+            "code_ogr": "8892",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9l\u00e8vement d'\u00e9chantillons",
+            "code_ogr": "8893",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9paration de commande (pr\u00e9l\u00e8vement de produits)",
+            "code_ogr": "8894",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tenue de stock",
+            "code_ogr": "8895",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9ceptionner et contr\u00f4ler des produits (quantit\u00e9, conformit\u00e9, \u00e9tat, ...)",
+            "code_ogr": "9425",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Charger/d\u00e9charger des marchandises, manuellement ou \u00e0 l'aide de mat\u00e9riel de manutention non motoris\u00e9, selon les types de produits (vrac, volumineux, lourd, ...)",
+            "code_ogr": "3869",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Intervenir dans le cadre d'actions sp\u00e9cifiques des arm\u00e9es (soutien et appui aux forces, ...)",
+            "code_ogr": "6349",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accueillir les nouveaux salari\u00e9s et favoriser leur int\u00e9gration dans la structure",
+            "code_ogr": "3638",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entrep\u00f4ts, de plates-formes logistiques, de magasins d'entreposage, de zones de fret, de gares ferroviaires, routi\u00e8res ou a\u00e9roportuaires, d'usines de production, d'entreprises de grande distribution, ...\nElle peut s'exercer en horaires d\u00e9cal\u00e9s, par roulement, les fins de semaine, jours f\u00e9ri\u00e9s ou de nuit.\nL'activit\u00e9 peut s'effectuer en environnement bruyant, en zone frigorifique ou \u00e0 temp\u00e9rature \u00e9lev\u00e9e (fonte de m\u00e9taux) et impliquer le port de charges.\nLe port d'\u00e9quipements de protection (chaussures de s\u00e9curit\u00e9, gants, casque, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Appr\u00e9ciation de charge (poids, volume, centre de gravit\u00e9, ...)",
+            "code_ogr": "20769",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de syst\u00e8me informatique (embarqu\u00e9 ou fixe)",
+            "code_ogr": "21390",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils de lecture optique de codes-barres (pistolet, flasheur, ...)",
+            "code_ogr": "21155",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion de stocks",
+            "code_ogr": "21259",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'engins de manutention non motoris\u00e9s (transpalette, diable, ...)",
+            "code_ogr": "21414",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "A\u00e9roport",
+            "code_ogr": "23682",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Boutique, commerce de d\u00e9tail",
+            "code_ogr": "23725",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise",
+            "code_ogr": "23867",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise artisanale",
+            "code_ogr": "23870",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de forage/extraction",
+            "code_ogr": "23877",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de transport/messagerie/groupage",
+            "code_ogr": "23900",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise publique/\u00e9tablissement public",
+            "code_ogr": "23912",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie manufacturi\u00e8re",
+            "code_ogr": "23969",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Plate-forme logistique",
+            "code_ogr": "24039",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Site de transit (gare, zone de fret, ...)",
+            "code_ogr": "24072",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Site portuaire",
+            "code_ogr": "24076",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Administration / Services de l'Etat",
+            "code_ogr": "23388",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Agriculture",
+            "code_ogr": "23394",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Aquaculture",
+            "code_ogr": "23399",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent et Travaux Publics -BTP-",
+            "code_ogr": "23420",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Commerce/grande distribution",
+            "code_ogr": "23445",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Finance",
+            "code_ogr": "23501",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tellerie",
+            "code_ogr": "23519",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Immobilier",
+            "code_ogr": "23523",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "P\u00eache",
+            "code_ogr": "23577",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Production et distribution d'\u00e9lectricit\u00e9, de gaz et d'eau",
+            "code_ogr": "23598",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9parations automobile et d'articles domestiques",
+            "code_ogr": "23616",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Restauration",
+            "code_ogr": "23622",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sant\u00e9 et action sociale",
+            "code_ogr": "23625",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Transport/logistique",
+            "code_ogr": "23659",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "En ext\u00e9rieur",
+            "code_ogr": "23378",
+            "code_type_section_env": "3"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "En zone frigorifique",
+            "code_ogr": "23385",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles et consignes de s\u00e9curit\u00e9",
+            "code_ogr": "22656",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisation d'un site d'entreposage (plan de circulation, ...)",
+            "code_ogr": "22253",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes d'\u00e9quilibrage des charges",
+            "code_ogr": "22329",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'entretien d'engins de manutention",
+            "code_ogr": "22459",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de gestion de stocks",
+            "code_ogr": "22609",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nConduit un engin de manutention \u00e0 conducteur port\u00e9 (chariot-\u00e9l\u00e9vateur, gerbeur, ...) dans le cadre d'op\u00e9rations de d\u00e9placement, chargement/d\u00e9chargement, stockage/d\u00e9stockage, approvisionnement, enl\u00e8vement de charges (marchandises, produits, mat\u00e9riel, ...), selon les proc\u00e9dures qualit\u00e9, les r\u00e8gles de s\u00e9curit\u00e9 et les imp\u00e9ratifs de d\u00e9lais.\nPeut effectuer d'autres op\u00e9rations li\u00e9es au fonctionnement d'un entrep\u00f4t (r\u00e9ception et contr\u00f4le des produits, tenue de stocks, pr\u00e9paration de commandes, inventaire, ...) ou d'un site de production ou de distribution (conditionnement, ...).\nPeut animer une \u00e9quipe d'op\u00e9rateurs (int\u00e9rimaires, stagiaires, ...).\n",
+    "intitule": "Conduite d'engins de d\u00e9placement des charges",
+    "code_ogr": "500",
+    "code_rome": "N1101",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "F1301",
+            "libelle_rome_cible": "Conduite de grue"
+        },
+        {
+            "code_rome_cible": "F1302",
+            "libelle_rome_cible": "Conduite d'engins de terrassement et de carri\u00e8re"
+        },
+        {
+            "code_rome_cible": "K2110",
+            "libelle_rome_cible": "Formation en conduite de v\u00e9hicules"
+        },
+        {
+            "code_rome_cible": "N1303",
+            "libelle_rome_cible": "Intervention technique d'exploitation logistique"
+        }
+    ]
+}

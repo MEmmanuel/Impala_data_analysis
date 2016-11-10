@@ -1,0 +1,483 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente de restauration rapide",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de restauration rapide",
+            "code_ogr": "10594"
+        },
+        {
+            "libelle_court": "Commis / Commise de self",
+            "priorisation": "1",
+            "libelle": "Commis / Commise de self",
+            "code_ogr": "12762"
+        },
+        {
+            "libelle_court": "Employ\u00e9 / Employ\u00e9e de caf\u00e9t\u00e9ria",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 / Employ\u00e9e de caf\u00e9t\u00e9ria",
+            "code_ogr": "14759"
+        },
+        {
+            "libelle_court": "Employ\u00e9 / Employ\u00e9e de cantine",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 / Employ\u00e9e de cantine",
+            "code_ogr": "14760"
+        },
+        {
+            "libelle_court": "Employ\u00e9 / Employ\u00e9e de friterie",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 / Employ\u00e9e de friterie",
+            "code_ogr": "14765"
+        },
+        {
+            "libelle_court": "Employ\u00e9 / Employ\u00e9e de restauration collective",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 / Employ\u00e9e de restauration collective",
+            "code_ogr": "14786"
+        },
+        {
+            "libelle_court": "Employ\u00e9 / Employ\u00e9e de snack-bar",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 / Employ\u00e9e de snack-bar",
+            "code_ogr": "14788"
+        },
+        {
+            "libelle_court": "Employ\u00e9 polyvalent / Employ\u00e9e polyvalente de restaurant",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 polyvalent / Employ\u00e9e polyvalente de restaurant",
+            "code_ogr": "14812"
+        },
+        {
+            "libelle_court": "Employ\u00e9 polyvalent / Employ\u00e9e polyvalente de restauration",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 polyvalent / Employ\u00e9e polyvalente de restauration",
+            "code_ogr": "14813"
+        },
+        {
+            "libelle_court": "Equipier(\u00e8re) polyvalent(e) de restauration rapide",
+            "priorisation": "1",
+            "libelle": "Equipier polyvalent / Equipi\u00e8re polyvalente de restauration rapide",
+            "code_ogr": "14875"
+        },
+        {
+            "libelle_court": "Pr\u00e9parateur(trice) livreur(se) en restauration rapide",
+            "priorisation": "1",
+            "libelle": "Pr\u00e9parateur livreur / Pr\u00e9paratrice livreuse en restauration rapide",
+            "code_ogr": "18031"
+        },
+        {
+            "libelle_court": "Pr\u00e9parateur(trice)-vendeur(se) en restauration rapide",
+            "priorisation": "1",
+            "libelle": "Pr\u00e9parateur-vendeur / Pr\u00e9paratrice vendeuse en restauration rapide",
+            "code_ogr": "38417"
+        },
+        {
+            "libelle_court": "Pr\u00e9parateur(trice)-vendeur(se) de plats \u00e0 emporter",
+            "priorisation": "1",
+            "libelle": "Pr\u00e9parateur-vendeur / Pr\u00e9paratrice-vendeuse de plats \u00e0 emporter",
+            "code_ogr": "18044"
+        },
+        {
+            "libelle_court": "Pr\u00e9parateur-vendeur / Pr\u00e9paratrice-vendeuse de sandwichs",
+            "priorisation": "1",
+            "libelle": "Pr\u00e9parateur-vendeur / Pr\u00e9paratrice-vendeuse de sandwichs",
+            "code_ogr": "18045"
+        },
+        {
+            "libelle_court": "Pr\u00e9parateur-vendeur / Pr\u00e9paratrice-vendeuse en point chaud",
+            "priorisation": "1",
+            "libelle": "Pr\u00e9parateur-vendeur / Pr\u00e9paratrice-vendeuse en point chaud",
+            "code_ogr": "18046"
+        },
+        {
+            "libelle_court": "Pr\u00e9parateur(trice)-vendeur(se) en terminal de cuisson",
+            "priorisation": "1",
+            "libelle": "Pr\u00e9parateur-vendeur / Pr\u00e9paratrice-vendeuse en terminal de cuisson",
+            "code_ogr": "18047"
+        },
+        {
+            "libelle_court": "Steward / H\u00f4tesse de train",
+            "priorisation": "1",
+            "libelle": "Steward / H\u00f4tesse de train",
+            "code_ogr": "19529"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse de glaces",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse de glaces",
+            "code_ogr": "20526"
+        },
+        {
+            "libelle_court": "Vendeur / Vendeuse de sandwichs",
+            "priorisation": "1",
+            "libelle": "Vendeur / Vendeuse de sandwichs",
+            "code_ogr": "20533"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Renseigner le client sur la composition des produits (salades, sandwichs, ...) et enregistrer sa commande",
+            "code_ogr": "3020",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la pr\u00e9paration de plats simples (salades, assiette de crudit\u00e9s, de fromages, desserts, ...)",
+            "code_ogr": "3536",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cuire ou r\u00e9chauffer des aliments et r\u00e9aliser l'assemblage, la finition de sandwichs, hamburgers, ...",
+            "code_ogr": "1217",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Organiser la pr\u00e9sentation des produits, des plats chauds ou froids en vitrine, pour le buffet et effectuer l'approvisionnement en cours de service",
+            "code_ogr": "2460",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Remettre la commande au client (service \u00e0 l'assiette, emballage \u00e0 emporter, plateau, ...)",
+            "code_ogr": "3595",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "5",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les op\u00e9rations d'encaissement",
+            "code_ogr": "3546",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Emballer les pr\u00e9parations, les produits, les \u00e9tiqueter (dates de fabrication, DLC) et les ranger en chambre froide, en r\u00e9serve, ...",
+            "code_ogr": "1777",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien de la salle, du mat\u00e9riel et des \u00e9quipements de la cuisine",
+            "code_ogr": "1584",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1106",
+            "libelle_rome_cible": "Vente en alimentation"
+        },
+        {
+            "code_rome_cible": "G1604",
+            "libelle_rome_cible": "Fabrication de cr\u00eapes ou pizzas"
+        },
+        {
+            "code_rome_cible": "G1702",
+            "libelle_rome_cible": "Personnel du hall"
+        },
+        {
+            "code_rome_cible": "G1801",
+            "libelle_rome_cible": "Caf\u00e9, bar brasserie"
+        },
+        {
+            "code_rome_cible": "G1803",
+            "libelle_rome_cible": "Service en restauration"
+        },
+        {
+            "code_rome_cible": "J1301",
+            "libelle_rome_cible": "Personnel polyvalent des services hospitaliers"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle.\nUn CAP d'agent polyvalent de restauration peut en faciliter l'acc\u00e8s.\nLes recrutements peuvent \u00eatre ouverts sur contrats de travail saisonniers ou de tr\u00e8s courte dur\u00e9e (extra).\n",
+    "activite_specifique": [
+        {
+            "libelle": "Pr\u00e9parer et/ou r\u00e9chauffer des :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Boissons chaudes",
+            "code_ogr": "7968",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pains",
+            "code_ogr": "7969",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Produits traiteurs (pizzas, quiches, ...)",
+            "code_ogr": "7970",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Salades",
+            "code_ogr": "7971",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sandwichs",
+            "code_ogr": "7972",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Viennoiseries",
+            "code_ogr": "7973",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le service des plats \u00e0 table, \u00e0 l'assiette",
+            "code_ogr": "5354",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9ceptionner et contr\u00f4ler des marchandises et effectuer le stockage en chambre froide, en r\u00e9serve, ...",
+            "code_ogr": "9423",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Planifier la production de sandwichs, pains, ... selon les flux de vente pr\u00e9visionnels",
+            "code_ogr": "7835",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la plonge",
+            "code_ogr": "3535",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des livraisons de commandes aupr\u00e8s des clients",
+            "code_ogr": "3531",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'\u00e9tablissements de restauration rapide, de caf\u00e9t\u00e9rias, de restaurants d'entreprise ou de collectivit\u00e9, en contact avec les clients et diff\u00e9rents intervenants (managers, responsable d'\u00e9tablissement de restauration, ...).\nElle peut s'exercer en horaires fractionn\u00e9s, en soir\u00e9e, les fins de semaine, jours f\u00e9ri\u00e9s et \u00eatre soumise \u00e0 des pics d'activit\u00e9 (\u00abcoup de feu\u00bb).\nLe port d'un uniforme est requis.\nLa connaissance des normes d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaires (Hazard Analysis Critical Control Point -HACCP-) est requise.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de fiches techniques de cuisine",
+            "code_ogr": "20944",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de four \u00e0 commandes num\u00e9riques",
+            "code_ogr": "21214",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Comptage",
+            "code_ogr": "20820",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de nettoyage",
+            "code_ogr": "21330",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Dressage de plats",
+            "code_ogr": "20863",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de machine de plonge automatis\u00e9e",
+            "code_ogr": "21297",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Plonge manuelle",
+            "code_ogr": "21026",
+            "position_item": "2",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement de restauration mobile (bateau de croisi\u00e8re, train, ...)",
+            "code_ogr": "23917",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement de restauration rapide",
+            "code_ogr": "23918",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Point chaud, terminal de cuisson",
+            "code_ogr": "24041",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Restaurant de collectivit\u00e9",
+            "code_ogr": "24054",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en extra",
+            "code_ogr": "38056",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaire Hazard Analysis Critical Control Point -HACCP-",
+            "code_ogr": "22650",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modes de cuisson des aliments",
+            "code_ogr": "22196",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'encaissement",
+            "code_ogr": "22454",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Cha\u00eene du froid",
+            "code_ogr": "21701",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modes de conservation des produits alimentaires",
+            "code_ogr": "22195",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Conditions de fermentation de la p\u00e2te (\u00e0 pain, \u00e0 viennoiserie)",
+            "code_ogr": "21741",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nPr\u00e9pare et assemble des produits (pain, viennoiseries), des plats simples chauds ou froids (sandwichs, salades, glaces, ...) et en effectue la vente selon les r\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaires et la charte qualit\u00e9 de l'\u00e9tablissement.\nPeut servir les plats \u00e0 table.\n",
+    "intitule": "Personnel polyvalent en restauration",
+    "code_ogr": "200",
+    "code_rome": "G1603",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "G1401",
+            "libelle_rome_cible": "Assistance de direction d'h\u00f4tel-restaurant"
+        },
+        {
+            "code_rome_cible": "G1602",
+            "libelle_rome_cible": "Personnel de cuisine"
+        }
+    ]
+}

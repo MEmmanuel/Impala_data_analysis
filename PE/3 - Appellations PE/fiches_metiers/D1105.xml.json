@@ -1,0 +1,444 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Ecailler / Ecaill\u00e8re en poissonnerie",
+            "priorisation": "1",
+            "libelle": "Ecailler / Ecaill\u00e8re en poissonnerie",
+            "code_ogr": "14548"
+        },
+        {
+            "libelle_court": "Employ\u00e9 / Employ\u00e9e de mar\u00e9e",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 / Employ\u00e9e de mar\u00e9e",
+            "code_ogr": "14773"
+        },
+        {
+            "libelle_court": "Employ\u00e9 / Employ\u00e9e en poissonnerie",
+            "priorisation": "1",
+            "libelle": "Employ\u00e9 / Employ\u00e9e en poissonnerie",
+            "code_ogr": "14803"
+        },
+        {
+            "libelle_court": "Fileteur / Fileteuse",
+            "priorisation": "1",
+            "libelle": "Fileteur / Fileteuse",
+            "code_ogr": "15080"
+        },
+        {
+            "libelle_court": "Mareyeur / Mareyeuse",
+            "priorisation": "1",
+            "libelle": "Mareyeur / Mareyeuse",
+            "code_ogr": "16391"
+        },
+        {
+            "libelle_court": "Poissonnier / Poissonni\u00e8re",
+            "priorisation": "1",
+            "libelle": "Poissonnier / Poissonni\u00e8re",
+            "code_ogr": "17862"
+        },
+        {
+            "libelle_court": "Poissonnier-traiteur / Poissonni\u00e8re-traiteuse",
+            "priorisation": "1",
+            "libelle": "Poissonnier-traiteur / Poissonni\u00e8re-traiteuse",
+            "code_ogr": "17863"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "R\u00e9ceptionner, contr\u00f4ler les marchandises et les stocker en chambre froide, en r\u00e9serve, ...",
+            "code_ogr": "3592",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Trier les poissons et effectuer leur pr\u00e9paration (nettoyage, \u00e9t\u00eatage, \u00e9caillage, tranchage, filetage, ...)",
+            "code_ogr": "3384",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'ouverture, la cuisson des coquillages (hu\u00eetres, moules, ...) et des crustac\u00e9s (bulots, langoustines, ...)",
+            "code_ogr": "1685",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mettre en place/rafra\u00eechir l'\u00e9tal (glace, d\u00e9coration, ...), disposer les poissons, crustac\u00e9s et coquillages et afficher les prix",
+            "code_ogr": "2349",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner le client sur les produits (zone de p\u00eache, conseils de pr\u00e9paration, ...)",
+            "code_ogr": "3022",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conditionner les produits selon leurs caract\u00e9ristiques, les commandes et le mode de transport",
+            "code_ogr": "3509",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer et maintenir en \u00e9tat de propret\u00e9 et d'hygi\u00e8ne le plan de travail, les outils et les locaux",
+            "code_ogr": "2409",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1106",
+            "libelle_rome_cible": "Vente en alimentation"
+        },
+        {
+            "code_rome_cible": "D1107",
+            "libelle_rome_cible": "Vente en gros de produits frais"
+        },
+        {
+            "code_rome_cible": "G1605",
+            "libelle_rome_cible": "Plonge en restauration"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec CAP/ BEP en poissonnerie, mareyage ou alimentation.\nIl est \u00e9galement accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations de transformation de produits pour :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conserverie",
+            "code_ogr": "8824",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Plats cuisin\u00e9s \u00e0 base de poisson",
+            "code_ogr": "8825",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Saurisserie (produits fum\u00e9s, sal\u00e9s ou s\u00e9ch\u00e9s)",
+            "code_ogr": "8826",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des ventes de produits de la mer",
+            "code_ogr": "5107",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Enregistrer des commandes de produits de la mer et organiser les exp\u00e9ditions (grandes surfaces, poissonniers, ...)",
+            "code_ogr": "5681",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la gestion comptable et administrative d'une structure",
+            "code_ogr": "3533",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Former des employ\u00e9s aux techniques du m\u00e9tier",
+            "code_ogr": "4764",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9lectionner les produits de la p\u00eache aupr\u00e8s d'un \u00e9levage, d'une centrale d'achat, \u00e0 la cri\u00e9e, ... et d\u00e9finir les conditions d'achat (prix, quantit\u00e9s, ...)",
+            "code_ogr": "3187",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de poissonneries traditionnelles, d'entreprises industrielles (conserveries, entreprises de salaison, ...), aux rayons mar\u00e9e de grandes et moyennes surfaces, sur des march\u00e9s, en contact avec les clients, en relation avec les fournisseurs, le responsable du rayon et les services d'hygi\u00e8ne.\nElle peut s'exercer les fins de semaine, jours f\u00e9ri\u00e9s, de nuit (t\u00f4t le matin).\nL'activit\u00e9 s'effectue en environnement humide et peut impliquer le port de charges.\nLe port d'\u00e9quipement de protection (tablier, chaussures de s\u00e9curit\u00e9, ...) peut \u00eatre requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Chiffrage/calcul de co\u00fbt",
+            "code_ogr": "20813",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils de d\u00e9coupe",
+            "code_ogr": "21468",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pelage de poissons",
+            "code_ogr": "21018",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Dressage de plateaux de fruits de mer",
+            "code_ogr": "20862",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Appr\u00e9ciation sensorielle de fra\u00eecheur (visuelle, olfactive, tactile, ...)",
+            "code_ogr": "20776",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de nettoyage",
+            "code_ogr": "21330",
+            "position_item": "6",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise alimentaire",
+            "code_ogr": "23868",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise aquacole",
+            "code_ogr": "23869",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de mareyage",
+            "code_ogr": "23883",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Hypermarch\u00e9 (2500 m2 et +)",
+            "code_ogr": "23967",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "March\u00e9, foire exposition",
+            "code_ogr": "24005",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Poissonnerie",
+            "code_ogr": "23587",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Supermarch\u00e9 (400 \u00e0 2500m2)",
+            "code_ogr": "24116",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaire",
+            "code_ogr": "22649",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Vari\u00e9t\u00e9s de poissons",
+            "code_ogr": "23363",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Vari\u00e9t\u00e9s de crustac\u00e9s",
+            "code_ogr": "23361",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Vari\u00e9t\u00e9s de coquillages",
+            "code_ogr": "23360",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Types d'\u00e9levage des produits de la mer",
+            "code_ogr": "23342",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modes de conservation des produits alimentaires",
+            "code_ogr": "22195",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Cha\u00eene du froid",
+            "code_ogr": "21701",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Typologie des clients/consommateurs",
+            "code_ogr": "23348",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'entretien d'un vivier",
+            "code_ogr": "23201",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Cartographie des zones de p\u00eache",
+            "code_ogr": "21697",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modes de cuisson des aliments",
+            "code_ogr": "22196",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en production culinaire",
+            "code_ogr": "21907",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de vente",
+            "code_ogr": "23168",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'encaissement",
+            "code_ogr": "22454",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de gestion de stocks",
+            "code_ogr": "22609",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise la pr\u00e9paration de poissons, crustac\u00e9s et coquillages selon les r\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaires et la r\u00e9glementation du commerce.\nPeut effectuer la vente de produits de la mer aupr\u00e8s de particuliers, de professionnels (grandes surfaces, industrie alimentaire, ....) et r\u00e9aliser des op\u00e9rations de transformation de poissons (salaisons, conserves, plats traiteur, ...).\nPeut g\u00e9rer un commerce de d\u00e9tail alimentaire (poissonnerie, ...).\n",
+    "intitule": "Poissonnerie",
+    "code_ogr": "84",
+    "code_rome": "D1105",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1402",
+            "libelle_rome_cible": "Relation commerciale grands comptes et entreprises"
+        },
+        {
+            "code_rome_cible": "D1502",
+            "libelle_rome_cible": "Management/gestion de rayon produits alimentaires"
+        },
+        {
+            "code_rome_cible": "G1602",
+            "libelle_rome_cible": "Personnel de cuisine"
+        },
+        {
+            "code_rome_cible": "K2109",
+            "libelle_rome_cible": "Enseignement technique et professionnel"
+        }
+    ]
+}

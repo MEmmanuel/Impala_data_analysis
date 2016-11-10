@@ -1,0 +1,406 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Conseiller / Conseill\u00e8re en d\u00e9veloppement de patrimoine",
+            "priorisation": "1",
+            "libelle": "Conseiller / Conseill\u00e8re en d\u00e9veloppement de patrimoine",
+            "code_ogr": "13413"
+        },
+        {
+            "libelle_court": "Conseiller / Conseill\u00e8re en gestion de capitaux",
+            "priorisation": "1",
+            "libelle": "Conseiller / Conseill\u00e8re en gestion de capitaux",
+            "code_ogr": "13427"
+        },
+        {
+            "libelle_court": "Conseiller / Conseill\u00e8re en gestion de fortune",
+            "priorisation": "1",
+            "libelle": "Conseiller / Conseill\u00e8re en gestion de fortune",
+            "code_ogr": "13428"
+        },
+        {
+            "libelle_court": "Conseiller / Conseill\u00e8re en gestion de patrimoine financier",
+            "priorisation": "1",
+            "libelle": "Conseiller / Conseill\u00e8re en gestion de patrimoine financier",
+            "code_ogr": "13429"
+        },
+        {
+            "libelle_court": "Conseiller / Conseill\u00e8re en investissements financiers",
+            "priorisation": "1",
+            "libelle": "Conseiller / Conseill\u00e8re en investissements financiers",
+            "code_ogr": "13437"
+        },
+        {
+            "libelle_court": "Conseiller / Conseill\u00e8re en investissements priv\u00e9s",
+            "priorisation": "1",
+            "libelle": "Conseiller / Conseill\u00e8re en investissements priv\u00e9s",
+            "code_ogr": "13438"
+        },
+        {
+            "libelle_court": "Conseiller / Conseill\u00e8re en patrimoine financier",
+            "priorisation": "1",
+            "libelle": "Conseiller / Conseill\u00e8re en patrimoine financier",
+            "code_ogr": "13446"
+        },
+        {
+            "libelle_court": "Conseiller / Conseill\u00e8re gestion banque priv\u00e9e",
+            "priorisation": "1",
+            "libelle": "Conseiller / Conseill\u00e8re gestion banque priv\u00e9e",
+            "code_ogr": "13462"
+        },
+        {
+            "libelle_court": "Gestionnaire de fortune",
+            "priorisation": "1",
+            "libelle": "Gestionnaire de fortune",
+            "code_ogr": "15332"
+        },
+        {
+            "libelle_court": "Gestionnaire de patrimoine financier",
+            "priorisation": "1",
+            "libelle": "Gestionnaire de patrimoine financier",
+            "code_ogr": "15340"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Consulter les fichiers clients en pr\u00e9paration des entretiens programm\u00e9s",
+            "code_ogr": "999",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Analyser la situation financi\u00e8re du client et r\u00e9aliser un bilan de sa structure patrimoniale (assurance vie, valeurs mobili\u00e8res, ...)",
+            "code_ogr": "641",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9finir avec le client ses objectifs (constitution d'une \u00e9pargne, d\u00e9fiscalisation, ...) selon ses besoins (r\u00e9gime matrimonial, succession, ...)",
+            "code_ogr": "1249",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir une \u00e9tude patrimoniale, proposer les cadres juridiques, fiscaux et les produits adapt\u00e9s (assurance vie, portefeuille boursier, ...)",
+            "code_ogr": "1906",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9terminer une strat\u00e9gie financi\u00e8re (achat de titres, assurance vie, immobilier, ...) et orienter si besoin le client vers un avocat, un notaire ou un g\u00e9rant de portefeuille",
+            "code_ogr": "1454",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir ou v\u00e9rifier les documents justificatifs de placement, les rapports de rentabilit\u00e9 des produits financiers contract\u00e9s et les adresser au client",
+            "code_ogr": "1901",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et mettre \u00e0 jour les dossiers clients \u00e0 chaque \u00e9v\u00e8nement (cession de biens, succession, divorce, ...)",
+            "code_ogr": "3231",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "C1302",
+            "libelle_rome_cible": "Gestion back et middle-office march\u00e9s financiers"
+        },
+        {
+            "code_rome_cible": "M1704",
+            "libelle_rome_cible": "Management relation client\u00e8le"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un Master (M1, Master professionnel, ...) en banque, finance, assurance, sciences \u00e9conomiques, gestion du patrimoine, compl\u00e9t\u00e9 par une exp\u00e9rience professionnelle dans le domaine de la banque ou de l'assurance.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser une activit\u00e9 n\u00e9cessitant :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "La certification AMF ou une \u00e9valuation des savoirs d\u00e9finie par l'Autorit\u00e9 des March\u00e9s Financiers",
+            "code_ogr": "38306",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des campagnes de promotion de produits financiers aupr\u00e8s de client\u00e8les cibl\u00e9es",
+            "code_ogr": "8537",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9velopper un portefeuille de clients/prospects",
+            "code_ogr": "3529",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer une veille des comptes d\u00e9biteurs et mettre en oeuvre une solution adapt\u00e9e",
+            "code_ogr": "5566",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Appliquer des mandats de gestion (administration de tout ou partie du patrimoine, ...) choisis par les clients",
+            "code_ogr": "3769",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Animer des actions de formation aupr\u00e8s de collaborateurs",
+            "code_ogr": "3502",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Diriger un service, une structure",
+            "code_ogr": "3530",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'\u00e9tablissements financiers (banques, soci\u00e9t\u00e9s de gestion de patrimoine,...), parfois en relation avec diff\u00e9rents intervenants (notaires, avocats, agents immobiliers, ...) et en contact avec les clients.\nElle varie selon le secteur (banque priv\u00e9e, gestion de patrimoine, ...).\nLa r\u00e9mun\u00e9ration est constitu\u00e9e d'un fixe parfois associ\u00e9 \u00e0 des primes (performances, ...) ou d'honoraires (professions lib\u00e9rales, ...).\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Calculs financiers",
+            "code_ogr": "20811",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels financiers",
+            "code_ogr": "21273",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Analyse de risques financiers",
+            "code_ogr": "20754",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Argumentation commerciale",
+            "code_ogr": "20786",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de conseil et gestion de patrimoine",
+            "code_ogr": "24082",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 d'investissement",
+            "code_ogr": "24102",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Banque de r\u00e9seau",
+            "code_ogr": "23413",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Banque priv\u00e9e",
+            "code_ogr": "23414",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Droit civil",
+            "code_ogr": "21793",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Droit du patrimoine professionnel",
+            "code_ogr": "21806",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation bancaire",
+            "code_ogr": "22529",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Comptabilit\u00e9 g\u00e9n\u00e9rale",
+            "code_ogr": "21738",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Economie des march\u00e9s financiers",
+            "code_ogr": "21823",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Fiscalit\u00e9",
+            "code_ogr": "21947",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Typologie des facteurs de risques financiers",
+            "code_ogr": "23351",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes de la relation client",
+            "code_ogr": "22323",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des produits financiers",
+            "code_ogr": "21645",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Analyse statistique",
+            "code_ogr": "22721",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en marketing",
+            "code_ogr": "21880",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques p\u00e9dagogiques",
+            "code_ogr": "23253",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestion comptable et administrative",
+            "code_ogr": "21995",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nConseil et guide une client\u00e8le de particuliers/personnes physiques dans le choix d'investissements/placements pour constituer ou optimiser leur patrimoine financier selon la r\u00e9glementation bancaire et financi\u00e8re.\nPeut mettre en oeuvre des mandats de gestion.\nPeut diriger une structure.\n",
+    "intitule": "Conseil en gestion de patrimoine financier",
+    "code_ogr": "69",
+    "code_rome": "C1205",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "C1103",
+            "libelle_rome_cible": "Courtage en assurances"
+        },
+        {
+            "code_rome_cible": "C1105",
+            "libelle_rome_cible": "\u00c9tudes actuarielles en assurances"
+        },
+        {
+            "code_rome_cible": "C1207",
+            "libelle_rome_cible": "Management en exploitation bancaire"
+        },
+        {
+            "code_rome_cible": "C1301",
+            "libelle_rome_cible": "Front office march\u00e9s financiers"
+        },
+        {
+            "code_rome_cible": "C1303",
+            "libelle_rome_cible": "Gestion de portefeuilles sur les march\u00e9s financiers"
+        },
+        {
+            "code_rome_cible": "C1501",
+            "libelle_rome_cible": "G\u00e9rance immobili\u00e8re"
+        }
+    ]
+}

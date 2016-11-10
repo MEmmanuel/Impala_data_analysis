@@ -1,0 +1,820 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente de maintenance en climatisation",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de maintenance en climatisation",
+            "code_ogr": "10491"
+        },
+        {
+            "libelle_court": "Agent / Agente de maintenance en conditionnement d'air",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de maintenance en conditionnement d'air",
+            "code_ogr": "10492"
+        },
+        {
+            "libelle_court": "Agent / Agente de maintenance en g\u00e9nie climatique",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de maintenance en g\u00e9nie climatique",
+            "code_ogr": "10496"
+        },
+        {
+            "libelle_court": "Agent(e) d'encadrement de maintenance froid et climatisation",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'encadrement de maintenance en froid et climatisation",
+            "code_ogr": "10649"
+        },
+        {
+            "libelle_court": "Agent/Agente d'encadrement en froid et conditionnement d'air",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'encadrement en froid et conditionnement d'air",
+            "code_ogr": "10651"
+        },
+        {
+            "libelle_court": "Agent(e) technicien(ne) en froid et climatisation",
+            "priorisation": "1",
+            "libelle": "Agent technicien / Agente technicienne en froid et climatisation",
+            "code_ogr": "10758"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe de maintenance en froid et climatisation",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe de maintenance en froid et climatisation",
+            "code_ogr": "12417"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice d'installations frigorifiques",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice d'installations frigorifiques",
+            "code_ogr": "13287"
+        },
+        {
+            "libelle_court": "D\u00e9panneur(se) en installations de froid et climatisation",
+            "priorisation": "1",
+            "libelle": "D\u00e9panneur / D\u00e9panneuse en installations de froid et climatisation",
+            "code_ogr": "13973"
+        },
+        {
+            "libelle_court": "Frigoriste",
+            "priorisation": "1",
+            "libelle": "Frigoriste",
+            "code_ogr": "15167"
+        },
+        {
+            "libelle_court": "Frigoriste maritime",
+            "priorisation": "1",
+            "libelle": "Frigoriste maritime",
+            "code_ogr": "15168"
+        },
+        {
+            "libelle_court": "M\u00e9canicien(ne) maintenance syst\u00e8me climatique, frigorifique",
+            "priorisation": "1",
+            "libelle": "M\u00e9canicien / M\u00e9canicienne de maintenance des syst\u00e8mes climatiques et frigorifiques",
+            "code_ogr": "16474"
+        },
+        {
+            "libelle_court": "Monteur / Monteuse en conditionnement d'air",
+            "priorisation": "1",
+            "libelle": "Monteur / Monteuse en conditionnement d'air",
+            "code_ogr": "16813"
+        },
+        {
+            "libelle_court": "Monteur / Monteuse en gaines de ventilation",
+            "priorisation": "1",
+            "libelle": "Monteur / Monteuse en gaines de ventilation",
+            "code_ogr": "16822"
+        },
+        {
+            "libelle_court": "Monteur(se)-d\u00e9panneur(se) en installations climatiques",
+            "priorisation": "1",
+            "libelle": "Monteur-d\u00e9panneur / Monteuse-d\u00e9panneuse en installations climatiques",
+            "code_ogr": "16884"
+        },
+        {
+            "libelle_court": "Monteur(se)-d\u00e9panneur(se) installations, froid climatisation",
+            "priorisation": "1",
+            "libelle": "Monteur-d\u00e9panneur / Monteuse-d\u00e9panneuse en installations de froid et climatisation",
+            "code_ogr": "16885"
+        },
+        {
+            "libelle_court": "Monteur-d\u00e9panneur / Monteuse-d\u00e9panneuse frigoriste",
+            "priorisation": "1",
+            "libelle": "Monteur-d\u00e9panneur / Monteuse-d\u00e9panneuse frigoriste",
+            "code_ogr": "16886"
+        },
+        {
+            "libelle_court": "Monteur-frigoriste / Monteuse-frigoriste",
+            "priorisation": "1",
+            "libelle": "Monteur-frigoriste / Monteuse-frigoriste",
+            "code_ogr": "16889"
+        },
+        {
+            "libelle_court": "Technicien(ne) de maintenance de syst\u00e8me de filtration d'air",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de maintenance de syst\u00e8me de filtration d'air",
+            "code_ogr": "38161"
+        },
+        {
+            "libelle_court": "Technicien(ne) intervention \u00e9quipement cuisine professionnel",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne d'intervention en \u00e9quipements de cuisines professionnelles",
+            "code_ogr": "20009"
+        },
+        {
+            "libelle_court": "Technicien(ne) intervention froid commercial climatisation",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne d'intervention en froid commercial et climatisation",
+            "code_ogr": "20010"
+        },
+        {
+            "libelle_court": "Technicien(ne) d'intervention en froid et climatisation",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne d'intervention en froid et climatisation",
+            "code_ogr": "20011"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne d'intervention en froid industriel",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne d'intervention en froid industriel",
+            "code_ogr": "20012"
+        },
+        {
+            "libelle_court": "Technicien(ne) intervention maintenance conditionnement air",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne d'intervention et de maintenance en conditionnement d'air",
+            "code_ogr": "20014"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne en froid et climatisation",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en froid et climatisation",
+            "code_ogr": "20067"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne frigoriste",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne frigoriste",
+            "code_ogr": "20151"
+        },
+        {
+            "libelle_court": "Technicien/Technicienne Service Apr\u00e8s-Vente en climatisation",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne Service Apr\u00e8s-Vente -SAV- en climatisation",
+            "code_ogr": "20256"
+        },
+        {
+            "libelle_court": "Technicien(ne) sup\u00e9rieur(e) maintenance exploit climatique",
+            "priorisation": "1",
+            "libelle": "Technicien sup\u00e9rieur / Technicienne sup\u00e9rieure de maintenance en exploitation climatique",
+            "code_ogr": "20264"
+        },
+        {
+            "libelle_court": "Technicien(ne)-cuisiniste en cuisines professionnelles",
+            "priorisation": "1",
+            "libelle": "Technicien-cuisiniste / Technicienne-cuisiniste en cuisines professionnelles",
+            "code_ogr": "20287"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier les phases d'intervention (mise en service, maintenance, ...) \u00e0 partir du dossier technique, de l'historique des interventions, ...",
+            "code_ogr": "2147",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Positionner et fixer les groupes, condenseurs, tubes, c\u00e2bles \u00e9lectriques, ... de l'installation frigorifique, de conditionnement d'air, ...",
+            "code_ogr": "2539",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Dimensionner, poser les tuyauteries et effectuer le branchement des r\u00e9seaux (fluides frigorig\u00e8nes, eau, air, ...)",
+            "code_ogr": "1471",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier la conformit\u00e9 de l'installation, contr\u00f4ler l'\u00e9tanch\u00e9it\u00e9 et d\u00e9terminer la charge de fluide frigorig\u00e8ne, tirer au vide l'installation et charger le circuit",
+            "code_ogr": "3404",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mettre en service l'installation, ajuster les r\u00e9glages (param\u00e8tres de fonctionnement, de r\u00e9gulation, temp\u00e9ratures, pressions, ...)",
+            "code_ogr": "2353",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9tecter les dysfonctionnements et d\u00e9terminer les op\u00e9rations de remise en \u00e9tat de l'installation par l'appoint de fluide, ajustement des cycles, \u00e9change standard, r\u00e9paration, ...",
+            "code_ogr": "1379",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports de suivi d'intervention et transmettre les informations au service concern\u00e9",
+            "code_ogr": "3063",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "F1602",
+            "libelle_rome_cible": "\u00c9lectricit\u00e9 b\u00e2timent"
+        },
+        {
+            "code_rome_cible": "F1603",
+            "libelle_rome_cible": "Installation d'\u00e9quipements sanitaires et thermiques"
+        },
+        {
+            "code_rome_cible": "I1308",
+            "libelle_rome_cible": "Maintenance d'installation de chauffage"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac+2 (BTS, DUT) dans les secteurs du froid, de la climatisation, du g\u00e9nie thermique, de l'\u00e9lectrotechnique, ...\nUn ou plusieurs Certificat(s) d'Aptitude \u00e0 la Conduite En S\u00e9curit\u00e9 -CACES- conditionn\u00e9(s) par une visite m\u00e9dicale d'aptitude \u00e0 renouveler p\u00e9riodiquement peu(ven)t \u00eatre requis.\nDes habilitations sp\u00e9cifiques (\u00e9lectrique, gaz, ...) sont requises.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser des interventions n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Attestation d'aptitude \u00e0 la manipulation des fluides frigorig\u00e8nes",
+            "code_ogr": "38682",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation \u00e9lectrique, travaux hors tension (B0, B0V, B1 B1V, H0, ...)",
+            "code_ogr": "8481",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation \u00e9lectrique, travaux sous tension (B1T, BN, BR, H1T, ...)",
+            "code_ogr": "8482",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation gaz (PGN, PGP, ...)",
+            "code_ogr": "8483",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Soudure Gaz",
+            "code_ogr": "8500",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-1 (Transpalettes \u00e0 conducteur port\u00e9 et pr\u00e9parateurs de commandes au sol)",
+            "code_ogr": "10122",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-3 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 inf\u00e9rieure ou \u00e9gale \u00e0 6000 kg)",
+            "code_ogr": "10124",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-4 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 sup\u00e9rieure \u00e0 6000 kg)",
+            "code_ogr": "10125",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-5 (Chariots \u00e9l\u00e9vateurs \u00e0 m\u00e2t r\u00e9tractable)",
+            "code_ogr": "10126",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 318 (ponts roulants)",
+            "code_ogr": "10100",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller le fonctionnement d'une installation, d'un parc d'installations frigorifiques ou de conditionnement d'air par :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Gestion Technique Centralis\u00e9e -GTC-",
+            "code_ogr": "9910",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Gestion Technique du B\u00e2timent -GTB-",
+            "code_ogr": "9911",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "T\u00e9l\u00e9surveillance",
+            "code_ogr": "9912",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tourn\u00e9es de surveillance",
+            "code_ogr": "9913",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des op\u00e9rations de d\u00e9pannage sur :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chauffage collectif",
+            "code_ogr": "4942",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chauffage individuel",
+            "code_ogr": "4943",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Installations de type r\u00e9versible (pompe \u00e0 chaleur, ...)",
+            "code_ogr": "4944",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Installations thermiques industrielles",
+            "code_ogr": "4945",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Installer, mettre en service ou entretenir des \u00e9quipements de cuisines professionnelles (cuissons, laverie, \u00e9l\u00e9ments \u00e9lectrom\u00e9caniques, ...)",
+            "code_ogr": "6219",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9terminer des \u00e9l\u00e9ments d'\u00e9quipements frigorifiques ou de conditionnement d'air (puissance, implantation, ...)",
+            "code_ogr": "4646",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Installer, v\u00e9rifier et remettre en \u00e9tat des syst\u00e8mes de filtration d'air",
+            "code_ogr": "38175",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir des sch\u00e9mas d'installation \u00e9lectrique, fluidique, ...",
+            "code_ogr": "5812",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Evaluer des co\u00fbts et d\u00e9lais de remise en \u00e9tat et \u00e9tablir un devis d'intervention",
+            "code_ogr": "5868",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Fa\u00e7onner et mettre en place des ch\u00e2ssis supports d'\u00e9l\u00e9ments (groupe, condenseurs, \u00e9changeurs, ...)",
+            "code_ogr": "5991",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir des documents \u00e0 valeur l\u00e9gale constituant la preuve de conformit\u00e9 \u00e0 la r\u00e9glementation d'une installation",
+            "code_ogr": "5801",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Former \u00e0 l'utilisation d'\u00e9quipements frigorifiques ou de conditionnement d'air",
+            "code_ogr": "6019",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises d'installation et de maintenance d'\u00e9quipements en froid, en conditionnement d'air ou au sein de service de montage, de Service Apr\u00e8s-Vente de constructeurs. Elle peut impliquer des d\u00e9placements.\nElle varie selon les secteurs (froid commercial, froid industriel, conditionnement d'air, ...) et les lieux d'intervention (grandes surfaces, laboratoires de transformation alimentaire, entrep\u00f4ts frigorifiques, usines de production industrielle, ...).\nL'activit\u00e9 peut s'exercer les fins de semaine et \u00eatre soumise \u00e0 des astreintes et \u00e0 des variations saisonni\u00e8res.\nLe port d'\u00e9quipements de protection (gants, chaussures de s\u00e9curit\u00e9, ...) est exig\u00e9.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan, de sch\u00e9ma",
+            "code_ogr": "20956",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Brasage",
+            "code_ogr": "20797",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soudage",
+            "code_ogr": "21100",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Collage \u00e0 chaud",
+            "code_ogr": "20816",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils de mesure \u00e9lectrique (multim\u00e8tre, ...)",
+            "code_ogr": "21156",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils de mesure sp\u00e9cifique (Manifold, vacuom\u00e8tre, ...)",
+            "code_ogr": "21157",
+            "position_item": "6",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de machine de transfert de fluides frigorig\u00e8nes",
+            "code_ogr": "21298",
+            "position_item": "7",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils de contr\u00f4le de programmation (PC, console, ...)",
+            "code_ogr": "21153",
+            "position_item": "8",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Gestion de Maintenance Assist\u00e9e par Ordinateur -GMAO-",
+            "code_ogr": "21256",
+            "position_item": "9",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chiffrage/calcul de co\u00fbt",
+            "code_ogr": "20813",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Administration / Services de l'Etat",
+            "code_ogr": "23388",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Alimentaire",
+            "code_ogr": "23395",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Cuisines professionnelles",
+            "code_ogr": "23456",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Energie, nucl\u00e9aire, fluide",
+            "code_ogr": "23480",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Froid commercial",
+            "code_ogr": "23503",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Froid et conditionnement d'air",
+            "code_ogr": "23504",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Froid industriel",
+            "code_ogr": "23505",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "P\u00e9trochimie",
+            "code_ogr": "23582",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Thermique",
+            "code_ogr": "23282",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Hydraulique",
+            "code_ogr": "22035",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "A\u00e9raulique",
+            "code_ogr": "21494",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9gulation et instrumentation",
+            "code_ogr": "22661",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Plomberie",
+            "code_ogr": "22299",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9canique",
+            "code_ogr": "22098",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electricit\u00e9",
+            "code_ogr": "21825",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electrom\u00e9canique",
+            "code_ogr": "21832",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en \u00e9lectronique",
+            "code_ogr": "21863",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en automatisme",
+            "code_ogr": "21931",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sp\u00e9cificit\u00e9s des fluides frigorig\u00e8nes",
+            "code_ogr": "22710",
+            "position_item": "11",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9canique des fluides",
+            "code_ogr": "22101",
+            "position_item": "12",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9",
+            "code_ogr": "22621",
+            "position_item": "13",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Domotique",
+            "code_ogr": "21788",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nEffectue l'installation, la mise en service et la maintenance d'installations frigorifiques (froid commercial, froid industriel, ...) ou d'\u00e9quipements de conditionnement d'air et de climatisation (\u00e0 d\u00e9tente directe, \u00e0 circuits secondaires de refroidissement, centralis\u00e9, ...), selon les r\u00e8gles de s\u00e9curit\u00e9 et la r\u00e9glementation.\nPeut intervenir sur des installations de cuisines professionnelles.\nPeut effectuer des op\u00e9rations de d\u00e9pannage sur des installations de chauffage.\n",
+    "intitule": "Installation et maintenance en froid, conditionnement d'air",
+    "code_ogr": "315",
+    "code_rome": "I1306",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1402",
+            "libelle_rome_cible": "Relation commerciale grands comptes et entreprises"
+        },
+        {
+            "code_rome_cible": "D1403",
+            "libelle_rome_cible": "Relation commerciale aupr\u00e8s de particuliers"
+        },
+        {
+            "code_rome_cible": "D1407",
+            "libelle_rome_cible": "Relation technico-commerciale"
+        },
+        {
+            "code_rome_cible": "H1301",
+            "libelle_rome_cible": "Inspection de conformit\u00e9"
+        },
+        {
+            "code_rome_cible": "I1102",
+            "libelle_rome_cible": "Management et ing\u00e9nierie de maintenance industrielle"
+        },
+        {
+            "code_rome_cible": "K2109",
+            "libelle_rome_cible": "Enseignement technique et professionnel"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ]
+}

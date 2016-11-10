@@ -1,0 +1,706 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Applicateur / Applicatrice en tannerie-m\u00e9gisserie",
+            "priorisation": "1",
+            "libelle": "Applicateur / Applicatrice en tannerie-m\u00e9gisserie",
+            "code_ogr": "11090"
+        },
+        {
+            "libelle_court": "Bichonneur / Bichonneuse cuir",
+            "priorisation": "1",
+            "libelle": "Bichonneur / Bichonneuse cuir",
+            "code_ogr": "11509"
+        },
+        {
+            "libelle_court": "Denteleur(se) en ind du cuir et autres mat\u00e9riaux souples",
+            "priorisation": "1",
+            "libelle": "Denteleur / Denteleuse en industrie du cuir et autres mat\u00e9riaux souples",
+            "code_ogr": "13958"
+        },
+        {
+            "libelle_court": "Dresseur / Dresseuse en ganterie",
+            "priorisation": "1",
+            "libelle": "Dresseur / Dresseuse en ganterie",
+            "code_ogr": "14533"
+        },
+        {
+            "libelle_court": "Gaufreur / Gaufreuse cuir",
+            "priorisation": "1",
+            "libelle": "Gaufreur / Gaufreuse cuir",
+            "code_ogr": "15241"
+        },
+        {
+            "libelle_court": "Gutteur(se) industrie du cuir et autres mat\u00e9riaux souples",
+            "priorisation": "1",
+            "libelle": "Gutteur / Gutteuse en industrie du cuir et autres mat\u00e9riaux souples",
+            "code_ogr": "15458"
+        },
+        {
+            "libelle_court": "Habilleur / Habilleuse cuir",
+            "priorisation": "1",
+            "libelle": "Habilleur / Habilleuse cuir",
+            "code_ogr": "15463"
+        },
+        {
+            "libelle_court": "Habilleur / Habilleuse en ind cuir, peau, mat\u00e9riaux associ\u00e9s",
+            "priorisation": "1",
+            "libelle": "Habilleur / Habilleuse en industrie des cuirs, peaux et mat\u00e9riaux associ\u00e9s",
+            "code_ogr": "15464"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur(trice) finition articles cuir et mat\u00e9riaux souples",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de finition sur articles en cuir et autres mat\u00e9riaux souples",
+            "code_ogr": "17101"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur(trice) pr\u00e9paration ind cuir, mat\u00e9riaux souples",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de pr\u00e9paration en industrie du cuir et autres mat\u00e9riaux souples",
+            "code_ogr": "17142"
+        },
+        {
+            "libelle_court": "Pareur(se) en industrie du cuir et autres mat\u00e9riaux souples",
+            "priorisation": "1",
+            "libelle": "Pareur / Pareuse en industrie du cuir et autres mat\u00e9riaux souples",
+            "code_ogr": "17561"
+        },
+        {
+            "libelle_court": "Pistoleteur / Pistoleteuse en tannerie-m\u00e9gisserie",
+            "priorisation": "1",
+            "libelle": "Pistoleteur / Pistoleteuse en tannerie-m\u00e9gisserie",
+            "code_ogr": "17804"
+        },
+        {
+            "libelle_court": "Rembordeur(se) en ind du cuir et autres mat\u00e9riaux souples",
+            "priorisation": "1",
+            "libelle": "Rembordeur / Rembordeuse en industrie du cuir et autres mat\u00e9riaux souples",
+            "code_ogr": "18503"
+        },
+        {
+            "libelle_court": "R\u00e9parateur(trice)-habilleur(se) en chaussures",
+            "priorisation": "1",
+            "libelle": "R\u00e9parateur - habilleur / R\u00e9paratrice - habilleuse en chaussures",
+            "code_ogr": "18513"
+        },
+        {
+            "libelle_court": "Retoucheur / Retoucheuse chaussures",
+            "priorisation": "1",
+            "libelle": "Retoucheur / Retoucheuse chaussures",
+            "code_ogr": "19240"
+        },
+        {
+            "libelle_court": "Vernisseur / Vernisseuse chaussures",
+            "priorisation": "1",
+            "libelle": "Vernisseur / Vernisseuse chaussures",
+            "code_ogr": "20659"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "D\u00e9terminer les interventions de pr\u00e9paration ou de finition selon les mat\u00e9riaux (peaux, cuir, ...), produits (sac, chaussure, ...) et d\u00e9fauts rep\u00e9r\u00e9s",
+            "code_ogr": "1430",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations de pr\u00e9paration du cuir en vue du montage/assemblage de l'article",
+            "code_ogr": "2757",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer, embellir et prot\u00e9ger l'article fini",
+            "code_ogr": "2426",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la conformit\u00e9 des r\u00e9alisations, proc\u00e9der aux rectifications et \u00e9vacuer les non-conformes",
+            "code_ogr": "1037",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les op\u00e9rations de conditionnement/habillage d'articles et les ranger dans les zones de stockage",
+            "code_ogr": "1632",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1507",
+            "libelle_rome_cible": "Mise en rayon libre-service"
+        },
+        {
+            "code_rome_cible": "H2415",
+            "libelle_rome_cible": "Contr\u00f4le en industrie du cuir et du textile"
+        },
+        {
+            "code_rome_cible": "H2909",
+            "libelle_rome_cible": "Montage-assemblage m\u00e9canique"
+        },
+        {
+            "code_rome_cible": "H3302",
+            "libelle_rome_cible": "Op\u00e9rations manuelles d'assemblage, tri ou emballage"
+        },
+        {
+            "code_rome_cible": "N1103",
+            "libelle_rome_cible": "Magasinage et pr\u00e9paration de commandes"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec une exp\u00e9rience professionnelle dans le secteur des cuirs et peaux (assemblage, montage, transformation ou finition) sans dipl\u00f4me particulier.\nUn CAP en confection chaussures ou maroquinerie en facilite l'acc\u00e8s.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser la pr\u00e9paration de pi\u00e8ces par :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9coupe d\u00e9corative (ajour, dentelage, ...)",
+            "code_ogr": "9172",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Gaufrage",
+            "code_ogr": "9173",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Parage (biseau, rembord, ...)",
+            "code_ogr": "9174",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Refente",
+            "code_ogr": "9175",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Rembordage, rempliage",
+            "code_ogr": "9176",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations de parach\u00e8vement ou de finition :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pose d'oeillets, rivetage, agrafage",
+            "code_ogr": "8718",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Marquage, la\u00e7age",
+            "code_ogr": "8709",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9fection de couture",
+            "code_ogr": "8720",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Teinture, coloration, fixation de couleur",
+            "code_ogr": "8726",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Vernissage",
+            "code_ogr": "8727",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Lustrage, lissage, bichonnage",
+            "code_ogr": "8708",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Repassage, mise en forme, ...",
+            "code_ogr": "8722",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Astiquage de tranches, coloration de couture",
+            "code_ogr": "8695",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Filetage",
+            "code_ogr": "8705",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Broderie",
+            "code_ogr": "8696",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "10",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations de finition sur des :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Articles de gainerie",
+            "code_ogr": "8635",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Articles de petite maroquinerie (portefeuilles, ceintures, ...)",
+            "code_ogr": "8639",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Articles de sellerie g\u00e9n\u00e9rale (b\u00e2ches, stores, tentes, ...)",
+            "code_ogr": "8640",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bagages, sacs",
+            "code_ogr": "8633",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chaussures",
+            "code_ogr": "8634",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Gants",
+            "code_ogr": "8636",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00eatements",
+            "code_ogr": "8641",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9finir les donn\u00e9es de programmation de machines \u00e0 partir de fiches techniques",
+            "code_ogr": "4535",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Evaluer la faisabilit\u00e9 technique et \u00e9conomique de la remise en conformit\u00e9 d'un produit",
+            "code_ogr": "5871",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la maintenance pr\u00e9ventive/curative de premier niveau des \u00e9quipements",
+            "code_ogr": "3534",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'industries ou de manufactures de fabrication d'articles en cuir et autres mat\u00e9riaux souples (chaussures, maroquinerie, ...) ou de transformation des peaux (tanneries, m\u00e9gisseries, ...).\nElle peut s'exercer par roulement et le samedi.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Rep\u00e9rage d'anomalie, de d\u00e9faut de fabrication",
+            "code_ogr": "21085",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Appr\u00e9ciation visuelle (sym\u00e9trie, couleur, ...)",
+            "code_ogr": "20779",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Application de produits au pinceau",
+            "code_ogr": "20759",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de machine \u00e0 refendre",
+            "code_ogr": "21288",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de machine \u00e0 parer",
+            "code_ogr": "21286",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de presse \u00e0 gaufrer",
+            "code_ogr": "21365",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'emporte-pi\u00e8ce",
+            "code_ogr": "21410",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Couture manuelle",
+            "code_ogr": "20832",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Application de produits au pistolet",
+            "code_ogr": "20760",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de presse \u00e0 repasser",
+            "code_ogr": "21366",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de forme \u00e0 repasser (main chaude, ...)",
+            "code_ogr": "21210",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de griffe",
+            "code_ogr": "21220",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de fer \u00e0 fileter",
+            "code_ogr": "21205",
+            "position_item": "6",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de brodeuse",
+            "code_ogr": "21169",
+            "position_item": "7",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de machine \u00e0 coudre \u00e0 canon",
+            "code_ogr": "21280",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chiffrage/calcul de co\u00fbt",
+            "code_ogr": "20813",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de documents techniques",
+            "code_ogr": "20939",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de fabrication/r\u00e9paration d'articles en cuir",
+            "code_ogr": "23876",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chaussure",
+            "code_ogr": "23435",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ganterie",
+            "code_ogr": "23507",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Maroquinerie",
+            "code_ogr": "23550",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sellerie",
+            "code_ogr": "23632",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Tannerie, m\u00e9gisserie",
+            "code_ogr": "23646",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des cuirs et peaux",
+            "code_ogr": "21569",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes qualit\u00e9",
+            "code_ogr": "22233",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9",
+            "code_ogr": "22621",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des colles",
+            "code_ogr": "21566",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des produits d'entretien textile",
+            "code_ogr": "21644",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de nettoyage/d\u00e9capage",
+            "code_ogr": "22419",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de pliage",
+            "code_ogr": "23034",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'emballage et de conditionnement",
+            "code_ogr": "23192",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de collage",
+            "code_ogr": "22837",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des teintures",
+            "code_ogr": "21659",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des cuirs exotiques (crocodile, autruche, ...)",
+            "code_ogr": "21570",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des textiles enduits",
+            "code_ogr": "21661",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des tissus et mati\u00e8res textiles",
+            "code_ogr": "21665",
+            "position_item": "3",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise des op\u00e9rations de pr\u00e9paration de pi\u00e8ces avant montage/assemblage, de finition sur des articles en cuir ou autres mat\u00e9riaux souples (peaux, chaussures, maroquinerie, gants, ...) manuellement ou \u00e0 l'aide de machines (pareuse, ...), selon les r\u00e8gles de s\u00e9curit\u00e9 et les imp\u00e9ratifs de production (qualit\u00e9, d\u00e9lais, ...).\nPeut effectuer des op\u00e9rations de r\u00e9paration sur les articles ou les conditionner. Peut r\u00e9aliser la maintenance de premier niveau des machines/\u00e9quipements.\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "Pr\u00e9paration et finition d'articles en cuir et mat\u00e9riaux souples",
+    "code_ogr": "260",
+    "code_rome": "H2414",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1205",
+            "libelle_rome_cible": "Nettoyage d'articles textiles ou cuirs"
+        },
+        {
+            "code_rome_cible": "D1214",
+            "libelle_rome_cible": "Vente en habillement et accessoires de la personne"
+        },
+        {
+            "code_rome_cible": "H2401",
+            "libelle_rome_cible": "Assemblage - montage d'articles en cuirs, peaux"
+        },
+        {
+            "code_rome_cible": "H2505",
+            "libelle_rome_cible": "Encadrement d'\u00e9quipe ou d'atelier en mat\u00e9riaux souples"
+        },
+        {
+            "code_rome_cible": "H2604",
+            "libelle_rome_cible": "Montage de produits \u00e9lectriques et \u00e9lectroniques"
+        }
+    ]
+}

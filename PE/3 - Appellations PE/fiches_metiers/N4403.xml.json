@@ -1,0 +1,341 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Accrocheur / Accrocheuse de wagons du r\u00e9seau ferr\u00e9",
+            "priorisation": "1",
+            "libelle": "Accrocheur / Accrocheuse de wagons du r\u00e9seau ferr\u00e9",
+            "code_ogr": "10234"
+        },
+        {
+            "libelle_court": "Accrocheur / Accrocheuse manutentionnaire du r\u00e9seau ferr\u00e9",
+            "priorisation": "1",
+            "libelle": "Accrocheur / Accrocheuse manutentionnaire du r\u00e9seau ferr\u00e9",
+            "code_ogr": "10236"
+        },
+        {
+            "libelle_court": "Agent / Agente de desserte du r\u00e9seau ferr\u00e9",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de desserte du r\u00e9seau ferr\u00e9",
+            "code_ogr": "10437"
+        },
+        {
+            "libelle_court": "Agent / Agente de manoeuvre du r\u00e9seau ferr\u00e9",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de manoeuvre du r\u00e9seau ferr\u00e9",
+            "code_ogr": "10521"
+        },
+        {
+            "libelle_court": "Agent / Agente d'exploitation du r\u00e9seau ferr\u00e9",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'exploitation du r\u00e9seau ferr\u00e9",
+            "code_ogr": "10709"
+        },
+        {
+            "libelle_court": "Chef op\u00e9rateur / op\u00e9ratrice des manoeuvres du r\u00e9seau ferr\u00e9",
+            "priorisation": "1",
+            "libelle": "Chef op\u00e9rateur / op\u00e9ratrice des manoeuvres du r\u00e9seau ferr\u00e9",
+            "code_ogr": "12585"
+        },
+        {
+            "libelle_court": "Garde barri\u00e8re",
+            "priorisation": "1",
+            "libelle": "Garde barri\u00e8re",
+            "code_ogr": "15193"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice de branchement du r\u00e9seau ferr\u00e9",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de branchement du r\u00e9seau ferr\u00e9",
+            "code_ogr": "17064"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice de manoeuvre du r\u00e9seau ferr\u00e9",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de manoeuvre du r\u00e9seau ferr\u00e9",
+            "code_ogr": "17119"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice de production du r\u00e9seau ferr\u00e9",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de production du r\u00e9seau ferr\u00e9",
+            "code_ogr": "17150"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice fret du r\u00e9seau ferr\u00e9",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice fret du r\u00e9seau ferr\u00e9",
+            "code_ogr": "17231"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice triage du r\u00e9seau ferr\u00e9",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice triage du r\u00e9seau ferr\u00e9",
+            "code_ogr": "17346"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Constituer une rame de wagons et la mettre \u00e0 quai ou sur desserte",
+            "code_ogr": "995",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier et corriger le fonctionnement des \u00e9quipements de s\u00e9curit\u00e9 (freinage, signalisation, transmetteur, ...) et de confort (climatisation/chauffage, \u00e9tiquetage, ...)",
+            "code_ogr": "3392",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler les mouvements de trains sur p\u00e9rim\u00e8tre restreint (autorisation de d\u00e9part, contr\u00f4le du \u00abd\u00e9fil\u00e9\u00bb, aiguillage, ...) \u00e0 partir des signaux",
+            "code_ogr": "1135",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier les dysfonctionnements sur la zone d'intervention lors d'avarie, de retard, signaler les anomalies et mettre en oeuvre les mesures d'urgence",
+            "code_ogr": "2116",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien de premier niveau des \u00e9quipements et du mat\u00e9riel du r\u00e9seau ferr\u00e9 (aiguillage, r\u00e9servoirs, purges, ...)",
+            "code_ogr": "1587",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "F1702",
+            "libelle_rome_cible": "Construction de routes et voies"
+        },
+        {
+            "code_rome_cible": "F1704",
+            "libelle_rome_cible": "Pr\u00e9paration du gros oeuvre et des travaux publics"
+        },
+        {
+            "code_rome_cible": "N1105",
+            "libelle_rome_cible": "Manutention manuelle de charges"
+        },
+        {
+            "code_rome_cible": "N2203",
+            "libelle_rome_cible": "Exploitation des pistes a\u00e9roportuaires"
+        },
+        {
+            "code_rome_cible": "N3203",
+            "libelle_rome_cible": "Manutention portuaire"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un niveau CAP/BEP \u00e0 Bac professionnel en m\u00e9canique, \u00e9lectricit\u00e9, ...\nIl est \u00e9galement accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Effectuer des op\u00e9rations de :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Aiguillage manuel sur voies",
+            "code_ogr": "4912",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rification chargement/d\u00e9chargement",
+            "code_ogr": "4920",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyage et pes\u00e9e des wagons",
+            "code_ogr": "4917",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conduire une rame (vide ou de fret) n\u00e9cessitant une habilitation pour conduite motrice",
+            "code_ogr": "4112",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des manoeuvres d'ouverture/fermeture de passage \u00e0 niveaux",
+            "code_ogr": "4898",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein des unit\u00e9s op\u00e9rationnelles (gare, station, terminus, ...) d'entreprises de transport ferroviaire ou d'entreprises industrielles en contact avec le personnel d'exploitation (chefs de manoeuvre, conducteurs, m\u00e9caniciens, personnels de circulation, ...).\nElle peut s'exercer en horaires d\u00e9cal\u00e9s, par roulement, les fins de semaine, jours f\u00e9ri\u00e9s ou de nuit.\nL'activit\u00e9 peut s'exercer sur voies ferr\u00e9es (chantier, triage, d\u00e9p\u00f4t, zone d'aiguillage, ...), sur quais (desserte, enceinte de gare, ...), en milieu souterrain (m\u00e9tro), en environnement bruyant et implique la manipulation de charges lourdes (accrochage/d\u00e9crochage de wagons).\nLe port d'\u00e9quipements de protection (casque, gants, chaussures de s\u00e9curit\u00e9, gilet fluorescent, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Manipulation de tableau de contr\u00f4le (aiguillages, mouvement des trains, ...)",
+            "code_ogr": "20976",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils de radiocommunication",
+            "code_ogr": "21472",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Manoeuvre de wagons",
+            "code_ogr": "20986",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de documents techniques",
+            "code_ogr": "20939",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Interpr\u00e9tation de signaux",
+            "code_ogr": "20924",
+            "position_item": "5",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de transport ferroviaire",
+            "code_ogr": "23891",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "En ext\u00e9rieur",
+            "code_ogr": "23378",
+            "code_type_section_env": "3"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "En sous-sol",
+            "code_ogr": "23382",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des wagons",
+            "code_ogr": "21675",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation du transport de mati\u00e8res et produits dangereux",
+            "code_ogr": "22564",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'entretien de premier niveau des \u00e9quipements et mat\u00e9riels",
+            "code_ogr": "22458",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de branchement/d\u00e9branchement de mat\u00e9riel ferroviaire",
+            "code_ogr": "22385",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Code de circulation ferroviaire",
+            "code_ogr": "21725",
+            "position_item": "6",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise des op\u00e9rations de formation de trains par des manoeuvres d'attelage/d\u00e9telage, tri de wagons, aiguillage au sol, exploitation du mat\u00e9riel, ... en fonction du plan de transport marchandises ou voyageurs et selon les imp\u00e9ratifs de service (s\u00e9curit\u00e9, d\u00e9lais).\nPeut acheminer une rame dans un p\u00e9rim\u00e8tre limit\u00e9.\nPeut coordonner l'activit\u00e9 de plusieurs salari\u00e9s.\n",
+    "intitule": "Manoeuvre du r\u00e9seau ferr\u00e9",
+    "code_ogr": "536",
+    "code_rome": "N4403",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "N1101",
+            "libelle_rome_cible": "Conduite d'engins de d\u00e9placement des charges"
+        },
+        {
+            "code_rome_cible": "N1104",
+            "libelle_rome_cible": "Manoeuvre et conduite d'engins lourds de manutention"
+        },
+        {
+            "code_rome_cible": "N4101",
+            "libelle_rome_cible": "Conduite de transport de marchandises sur longue distance"
+        },
+        {
+            "code_rome_cible": "N4103",
+            "libelle_rome_cible": "Conduite de transport en commun sur route"
+        }
+    ]
+}

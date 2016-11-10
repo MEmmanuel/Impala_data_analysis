@@ -1,0 +1,553 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente de maintenance des b\u00e2timents",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de maintenance des b\u00e2timents",
+            "code_ogr": "10489"
+        },
+        {
+            "libelle_court": "Agent / Agente d'entretien de casernement",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'entretien de casernement",
+            "code_ogr": "10663"
+        },
+        {
+            "libelle_court": "Agent/Agente d'entretien des b\u00e2timents et espaces collectifs",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'entretien des b\u00e2timents et espaces collectifs",
+            "code_ogr": "10671"
+        },
+        {
+            "libelle_court": "Agent / Agente d'entretien des collectivit\u00e9s",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'entretien des collectivit\u00e9s",
+            "code_ogr": "10672"
+        },
+        {
+            "libelle_court": "Agent/Agente d'entretien des installations d'infrastructures",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'entretien des installations d'infrastructures",
+            "code_ogr": "10674"
+        },
+        {
+            "libelle_court": "Agent / Agente d'entretien du b\u00e2timent",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'entretien du b\u00e2timent",
+            "code_ogr": "10679"
+        },
+        {
+            "libelle_court": "Agent / Agente d'entretien travaux \u00e0 domicile",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'entretien travaux \u00e0 domicile",
+            "code_ogr": "38086"
+        },
+        {
+            "libelle_court": "Agent(e) entretien maintenance polyvalent(e) en collectivit\u00e9",
+            "priorisation": "1",
+            "libelle": "Agent d'entretien maintenance polyvalent / Agente d'entretien maintenance polyvalente en collectivit\u00e9",
+            "code_ogr": "10684"
+        },
+        {
+            "libelle_court": "Factotum",
+            "priorisation": "1",
+            "libelle": "Factotum",
+            "code_ogr": "15058"
+        },
+        {
+            "libelle_court": "Installateur(trice) v\u00e9rificateur(trice) d'extincteurs",
+            "priorisation": "1",
+            "libelle": "Installateur v\u00e9rificateur / Installatrice v\u00e9rificatrice d'extincteurs",
+            "code_ogr": "38143"
+        },
+        {
+            "libelle_court": "Ouvrier(\u00e8re) polyvalent(e) d'entretien des b\u00e2timents",
+            "priorisation": "1",
+            "libelle": "Ouvrier polyvalent / Ouvri\u00e8re polyvalente d'entretien des b\u00e2timents",
+            "code_ogr": "17477"
+        },
+        {
+            "libelle_court": "Personnel de l'entretien des installations du b\u00e2timent",
+            "priorisation": "1",
+            "libelle": "Personnel de l'entretien des installations du b\u00e2timent",
+            "code_ogr": "17671"
+        },
+        {
+            "libelle_court": "Technicien(ne) d'entretien et de maintenance du b\u00e2timent",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne d'entretien et de maintenance du b\u00e2timent",
+            "code_ogr": "19937"
+        },
+        {
+            "libelle_court": "Technicien polyvalent / Technicienne polyvalente du b\u00e2timent",
+            "priorisation": "1",
+            "libelle": "Technicien polyvalent / Technicienne polyvalente du b\u00e2timent",
+            "code_ogr": "20217"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Diagnostiquer une panne sur une installation (\u00e9clairage, chauffage, sanitaires, ...)",
+            "code_ogr": "1466",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Entretenir et d\u00e9panner une installation \u00e9lectrique (\u00e9clairage, ventilation, interphone, ...)",
+            "code_ogr": "1813",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9parer ou remplacer les poign\u00e9es, vitres, rails, ... de portes, fen\u00eatres, ...",
+            "code_ogr": "3076",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier et entretenir l'installation sanitaire, de chauffage central et de production d'eau chaude",
+            "code_ogr": "3394",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer les supports (mur, boiserie, ...) et appliquer les couches de peinture interm\u00e9diaires et de finition",
+            "code_ogr": "2631",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Entretenir les espaces verts et ext\u00e9rieurs",
+            "code_ogr": "1817",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "I1201",
+            "libelle_rome_cible": "Entretien d'affichage et mobilier urbain"
+        },
+        {
+            "code_rome_cible": "K2204",
+            "libelle_rome_cible": "Nettoyage de locaux"
+        },
+        {
+            "code_rome_cible": "K2501",
+            "libelle_rome_cible": "Gardiennage de locaux"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un CAP/BEP dans des sp\u00e9cialit\u00e9s du b\u00e2timent second oeuvre (peinture, plomberie, \u00e9lectricit\u00e9,...).\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans un ou plusieurs corps d'\u00e9tat sans dipl\u00f4me particulier.\nLa formation Pr\u00e9vention et Secours Civiques de niveau 1 -PSC1- peut \u00eatre demand\u00e9e.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Effectuer l'entretien de :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "B\u00e2timents communaux",
+            "code_ogr": "5391",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablissements de s\u00e9jour ou de sant\u00e9",
+            "code_ogr": "5392",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablissements scolaires",
+            "code_ogr": "5393",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Locaux d'entreprise",
+            "code_ogr": "5394",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Logements",
+            "code_ogr": "5395",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Stades, \u00e9quipements sportifs",
+            "code_ogr": "5396",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Voiries",
+            "code_ogr": "5397",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la pose et les raccords de papier peint et de moquette",
+            "code_ogr": "5178",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9poser, poser ou remettre en \u00e9tat un rev\u00eatement de sol ou mural (carrelage, fa\u00efence, parquet, lambris, plinthes, ...)",
+            "code_ogr": "4628",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Appliquer de la peinture au sol (all\u00e9es, passages prot\u00e9g\u00e9s, surfaces sportives, ...)",
+            "code_ogr": "3767",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Implanter ou changer des \u00e9l\u00e9ments de s\u00e9curit\u00e9 ou de signalisation (blocs de secours, sprinklers, balisage, ...)",
+            "code_ogr": "6144",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Installer et entretenir des appareils extincteurs d'incendie chez des clients",
+            "code_ogr": "38144",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien de premier niveau et le nettoyage du v\u00e9hicule",
+            "code_ogr": "3545",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Modifier ou r\u00e9parer des \u00e9l\u00e9ments ma\u00e7onn\u00e9s existants",
+            "code_ogr": "7581",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9monter/monter des \u00e9l\u00e9ments mobiliers, \u00e9quipements sportifs, cloisons, faux-plafonds, ...",
+            "code_ogr": "4605",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Accrocher des \u00e9l\u00e9ments en hauteur (guirlandes, filets anti-pigeons, banderoles, ...)",
+            "code_ogr": "3645",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de collectivit\u00e9s, d'entreprises, de soci\u00e9t\u00e9s de services ou aupr\u00e8s de particuliers.\nElle peut s'exercer les fins de semaine, jours f\u00e9ri\u00e9s, de nuit et \u00eatre soumise \u00e0 des astreintes.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan",
+            "code_ogr": "20946",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan, de sch\u00e9ma",
+            "code_ogr": "20956",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils de mesure \u00e9lectrique (multim\u00e8tre, ...)",
+            "code_ogr": "21156",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils de taille (s\u00e9cateur, tron\u00e7onneuse, ...)",
+            "code_ogr": "21473",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'engins de tonte (autotract\u00e9/autoport\u00e9)",
+            "code_ogr": "21415",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ragr\u00e9age",
+            "code_ogr": "21066",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Accueil collectif de mineurs (ACM)",
+            "code_ogr": "23780",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise",
+            "code_ogr": "23867",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tel",
+            "code_ogr": "23957",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "H\u00f4tellerie de plein air",
+            "code_ogr": "23965",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9sidence de tourisme",
+            "code_ogr": "24051",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de service d'aide \u00e0 domicile",
+            "code_ogr": "24091",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Village vacances",
+            "code_ogr": "24128",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Administration / Services de l'Etat",
+            "code_ogr": "23388",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Au domicile de particulier",
+            "code_ogr": "23375",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en \u00e9lectricit\u00e9",
+            "code_ogr": "21859",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en plomberie",
+            "code_ogr": "21904",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en menuiserie",
+            "code_ogr": "21885",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9",
+            "code_ogr": "22621",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des enduits",
+            "code_ogr": "21574",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des peintures",
+            "code_ogr": "21632",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de soudure",
+            "code_ogr": "23128",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de pose des rev\u00eatements souples",
+            "code_ogr": "23049",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de calcul de surfaces",
+            "code_ogr": "22593",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de pose de carreaux",
+            "code_ogr": "23042",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation s\u00e9curit\u00e9 incendie",
+            "code_ogr": "22580",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nEffectue la maintenance et l'entretien des locaux et espaces \u00e0 usage collectif (locaux communaux, \u00e9tablissements hospitaliers, maisons de retraite, immeubles, \u00e9coles, locaux d'entreprises,...) selon les r\u00e8gles de s\u00e9curit\u00e9. Peut g\u00e9rer les approvisionnements d'outils et de consommables.\n",
+    "intitule": "Maintenance des b\u00e2timents et des locaux",
+    "code_ogr": "309",
+    "code_rome": "I1203",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "A1203",
+            "libelle_rome_cible": "Entretien des espaces verts"
+        },
+        {
+            "code_rome_cible": "F1602",
+            "libelle_rome_cible": "\u00c9lectricit\u00e9 b\u00e2timent"
+        },
+        {
+            "code_rome_cible": "F1603",
+            "libelle_rome_cible": "Installation d'\u00e9quipements sanitaires et thermiques"
+        },
+        {
+            "code_rome_cible": "F1606",
+            "libelle_rome_cible": "Peinture en b\u00e2timent"
+        },
+        {
+            "code_rome_cible": "I1309",
+            "libelle_rome_cible": "Maintenance \u00e9lectrique"
+        }
+    ]
+}

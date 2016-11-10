@@ -1,0 +1,785 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Marbrier / Marbri\u00e8re d'art",
+            "priorisation": "1",
+            "libelle": "Marbrier / Marbri\u00e8re d'art",
+            "code_ogr": "16385"
+        },
+        {
+            "libelle_court": "Marqueteur / Marqueteuse de pierres dures",
+            "priorisation": "1",
+            "libelle": "Marqueteur / Marqueteuse de pierres dures",
+            "code_ogr": "16416"
+        },
+        {
+            "libelle_court": "Mosa\u00efste d'art",
+            "priorisation": "1",
+            "libelle": "Mosa\u00efste d'art",
+            "code_ogr": "16901"
+        },
+        {
+            "libelle_court": "Ravaleur / Ravaleuse de pierre de taille",
+            "priorisation": "1",
+            "libelle": "Ravaleur / Ravaleuse de pierre de taille",
+            "code_ogr": "18291"
+        },
+        {
+            "libelle_court": "Sculpteur / Sculptrice ornemaniste sur pierre",
+            "priorisation": "1",
+            "libelle": "Sculpteur / Sculptrice ornemaniste sur pierre",
+            "code_ogr": "19339"
+        },
+        {
+            "libelle_court": "Tailleur / Tailleuse de pierre",
+            "priorisation": "1",
+            "libelle": "Tailleur / Tailleuse de pierre",
+            "code_ogr": "19619"
+        },
+        {
+            "libelle_court": "Tailleur(se) de pierre restaurateur(trice)",
+            "priorisation": "1",
+            "libelle": "Tailleur de pierre restaurateur / Tailleuse de pierre restauratrice",
+            "code_ogr": "19620"
+        },
+        {
+            "libelle_court": "Tailleur(se) de pierre-fontainier(\u00e8re)",
+            "priorisation": "1",
+            "libelle": "Tailleur de pierre-fontainier / Tailleuse de pierre-fontaini\u00e8re",
+            "code_ogr": "19621"
+        },
+        {
+            "libelle_court": "Tailleur de pierre-marbrier / Tailleuse de pierre-marbri\u00e8re",
+            "priorisation": "1",
+            "libelle": "Tailleur de pierre-marbrier / Tailleuse de pierre-marbri\u00e8re",
+            "code_ogr": "19622"
+        },
+        {
+            "libelle_court": "Tailleur moellonneur / Tailleuse moellonneuse",
+            "priorisation": "1",
+            "libelle": "Tailleur moellonneur / Tailleuse moellonneuse",
+            "code_ogr": "19626"
+        },
+        {
+            "libelle_court": "Tailleur-polisseur / Tailleuse-polisseuse de roches",
+            "priorisation": "1",
+            "libelle": "Tailleur-polisseur / Tailleuse-polisseuse de roches",
+            "code_ogr": "19629"
+        },
+        {
+            "libelle_court": "Tourneur / Tourneuse sur pierre",
+            "priorisation": "1",
+            "libelle": "Tourneur / Tourneuse sur pierre",
+            "code_ogr": "20379"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Informer le client sur les d\u00e9lais, les co\u00fbts de l'\u00e9l\u00e9ment \u00e0 fa\u00e7onner apr\u00e8s identification des contraintes de r\u00e9alisation",
+            "code_ogr": "2142",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9lectionner les blocs de pierre selon les caract\u00e9ristiques de l'objet \u00e0 tailler",
+            "code_ogr": "3159",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser les dessins de la pi\u00e8ce ou de l'ensemble (parements de fen\u00eatre, mosa\u00efque, ...)",
+            "code_ogr": "2826",
+            "code_type_activite": "2",
+            "riasec_majeur": "A",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9terminer le positionnement des pierres, tracer les plans et reporter les rep\u00e8res de taille sur le bloc de pierre",
+            "code_ogr": "1416",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser les gabarits (bois, ...) des pi\u00e8ces \u00e0 fa\u00e7onner",
+            "code_ogr": "2833",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tailler la pi\u00e8ce ou les \u00e9l\u00e9ments de l'ensemble",
+            "code_ogr": "2316",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser le polissage, la gravure, sur les pierres ou l'ensemble r\u00e9alis\u00e9",
+            "code_ogr": "2847",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Appareiller, monter et jointer les pierres taill\u00e9es, les rev\u00eatements de pierre sur le chantier",
+            "code_ogr": "694",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "B1101",
+            "libelle_rome_cible": "Cr\u00e9ation en arts plastiques"
+        },
+        {
+            "code_rome_cible": "B1201",
+            "libelle_rome_cible": "R\u00e9alisation d'objets d\u00e9coratifs et utilitaires en c\u00e9ramique et mat\u00e9riaux de synth\u00e8se"
+        },
+        {
+            "code_rome_cible": "B1303",
+            "libelle_rome_cible": "Gravure - ciselure"
+        },
+        {
+            "code_rome_cible": "F1202",
+            "libelle_rome_cible": "Direction de chantier du BTP"
+        },
+        {
+            "code_rome_cible": "F1608",
+            "libelle_rome_cible": "Pose de rev\u00eatements rigides"
+        },
+        {
+            "code_rome_cible": "F1611",
+            "libelle_rome_cible": "R\u00e9alisation et restauration de fa\u00e7ades"
+        },
+        {
+            "code_rome_cible": "H2208",
+            "libelle_rome_cible": "R\u00e9alisation d'ouvrages d\u00e9coratifs en bois"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP \u00e0 Bac+2 (DEUST) en taille de pierre, pierres ornementales, ...\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans le secteur de la taille et de la d\u00e9coration en pierre sans dipl\u00f4me particulier.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser la taille de pierre en :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ardoise",
+            "code_ogr": "8779",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Calcaire",
+            "code_ogr": "8780",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Gr\u00e8s",
+            "code_ogr": "8782",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Granit",
+            "code_ogr": "8781",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Marbre",
+            "code_ogr": "8783",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations de traitement de surface par :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Lustrage",
+            "code_ogr": "8793",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Patine",
+            "code_ogr": "8794",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Polissage m\u00e9canique",
+            "code_ogr": "8797",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Polissage manuel",
+            "code_ogr": "8796",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Projection de produits de protection (anti-gel\u00e9e, ...)",
+            "code_ogr": "8800",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ravalement",
+            "code_ogr": "8801",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Vernissage",
+            "code_ogr": "8803",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations de d\u00e9coration par :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Dorure, peinture",
+            "code_ogr": "8579",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Gravure",
+            "code_ogr": "8581",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Incrustation de mat\u00e9riaux sur marbre ou pierre",
+            "code_ogr": "8582",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sculpture d'\u00e9l\u00e9ments cintr\u00e9s et arrondis",
+            "code_ogr": "8585",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sculpture de moulures",
+            "code_ogr": "8584",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations de montage ou de pose :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Montage \u00e0 joints secs",
+            "code_ogr": "8679",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Montage au mortier",
+            "code_ogr": "8680",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Montage au sol, aux murs en int\u00e9rieur",
+            "code_ogr": "8681",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Montage de mosa\u00efque (sur support bois, sur mur, ...)",
+            "code_ogr": "8682",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Montage en fa\u00e7ade",
+            "code_ogr": "8683",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pose de chemin\u00e9es",
+            "code_ogr": "8684",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pose de monuments fun\u00e9raires",
+            "code_ogr": "8685",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer des interventions sur chantiers :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etaiement d'ouvrages en pierre",
+            "code_ogr": "7933",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Montage d'\u00e9chafaudage",
+            "code_ogr": "7934",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mettre en forme des :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chemin\u00e9es",
+            "code_ogr": "7436",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "El\u00e9ments d'agencement int\u00e9rieur (colonnes, tablettes, \u00e9viers, ...)",
+            "code_ogr": "7437",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "El\u00e9ments de construction b\u00e2timent ext\u00e9rieur (encadrement de fen\u00eatres, pav\u00e9s, ...)",
+            "code_ogr": "7438",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "El\u00e9ments de construction b\u00e2timent int\u00e9rieur (escalier, dallage, ...)",
+            "code_ogr": "7439",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "El\u00e9ments de d\u00e9cor de spectacle",
+            "code_ogr": "7440",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Statuaires / fontaines",
+            "code_ogr": "7441",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cadrans solaires",
+            "code_ogr": "7435",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9biter des blocs de pierre (en tranches, ...)",
+            "code_ogr": "4432",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Transmettre les techniques du m\u00e9tier ou mener des actions de sensibilisation au m\u00e9tier",
+            "code_ogr": "10026",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe ou diriger une structure",
+            "code_ogr": "4326",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises du b\u00e2timent, de taille de pierre, du fun\u00e9raire, d'\u00e9tablissements publics, ...\nL'activit\u00e9 s'exerce en atelier, en ext\u00e9rieur, au domicile des clients et parfois en hauteur.\nElle implique la manipulation d'outils coupants, vibrants et \u00e0 chocs.\nLe port d'\u00e9quipements de protection (chaussures de s\u00e9curit\u00e9, lunettes, protections auditives, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Calcul dimensionnel (surface, volume, ...)",
+            "code_ogr": "20808",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan de taille",
+            "code_ogr": "20950",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chiffrage/calcul de co\u00fbt",
+            "code_ogr": "20813",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Prise d'empreinte d'ouvrage",
+            "code_ogr": "21064",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Conception et de Dessin Assist\u00e9s par Ordinateur -CAO/DAO-",
+            "code_ogr": "21249",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outillages \u00e9lectroportatifs (scie \u00e9lectrique, ponceuse, ...)",
+            "code_ogr": "21464",
+            "position_item": "6",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Tra\u00e7age \u00e0 main lev\u00e9e",
+            "code_ogr": "21116",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de machines \u00e0 commandes num\u00e9riques",
+            "code_ogr": "21309",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "D\u00e9coupe de mosa\u00efque (fa\u00efence, p\u00e2te de verre, pierre, ...)",
+            "code_ogr": "20845",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de taille de pierres",
+            "code_ogr": "23886",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise publique/\u00e9tablissement public",
+            "code_ogr": "23912",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent et Travaux Publics -BTP-",
+            "code_ogr": "23420",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Service fun\u00e9raire",
+            "code_ogr": "23635",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des pierres (porosit\u00e9, ...)",
+            "code_ogr": "21635",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Histoire de l'art et des styles",
+            "code_ogr": "22023",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Styles architecturaux",
+            "code_ogr": "22728",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de calepinage",
+            "code_ogr": "22821",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de taille de pierre",
+            "code_ogr": "23132",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles et consignes de s\u00e9curit\u00e9",
+            "code_ogr": "22656",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de restauration d'ouvrages d'art",
+            "code_ogr": "23103",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Dessin de d\u00e9tail",
+            "code_ogr": "21775",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de sculpture",
+            "code_ogr": "23109",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de gravure manuelle",
+            "code_ogr": "22934",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de pose de pierres",
+            "code_ogr": "23045",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gnomonique",
+            "code_ogr": "22009",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'animation d'\u00e9quipe",
+            "code_ogr": "22774",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nTaille et ornemente, dans le cadre de travaux neufs ou de r\u00e9novation, des \u00e9l\u00e9ments de construction ext\u00e9rieure (parements de fen\u00eatres, pav\u00e9s, escaliers, ...), int\u00e9rieure (chemin\u00e9es, ...) ou de d\u00e9coration (corniches, fontaines, bancs, ...) en min\u00e9raux naturels (gr\u00e8s, granit, calcaire, ardoise ...) selon les r\u00e8gles de s\u00e9curit\u00e9.\nPeut sculpter et graver, poser les \u00e9l\u00e9ments fa\u00e7onn\u00e9s sur les chantiers et effectuer des travaux de protection ou restauration de la pierre.\nPeut coordonner une \u00e9quipe ou diriger une structure.\n",
+    "intitule": "Taille et d\u00e9coration de pierres",
+    "code_ogr": "172",
+    "code_rome": "F1612",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "K1203",
+            "libelle_rome_cible": "Encadrement technique en insertion professionnelle"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ]
+}

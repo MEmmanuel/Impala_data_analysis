@@ -1,0 +1,835 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Assistant territorial/Assistante territoriale d'enseignement",
+            "priorisation": "1",
+            "libelle": "Assistant territorial / Assistante territoriale d'enseignement",
+            "code_ogr": "11353"
+        },
+        {
+            "libelle_court": "Charg\u00e9 / Charg\u00e9e d'enseignement g\u00e9n\u00e9ral du second degr\u00e9",
+            "priorisation": "1",
+            "libelle": "Charg\u00e9 / Charg\u00e9e d'enseignement g\u00e9n\u00e9ral du second degr\u00e9",
+            "code_ogr": "11881"
+        },
+        {
+            "libelle_court": "Enseignant(e) correcteur(trice) de mati\u00e8res g\u00e9n\u00e9rales",
+            "priorisation": "1",
+            "libelle": "Enseignant correcteur / Enseignante correctrice de mati\u00e8res g\u00e9n\u00e9rales",
+            "code_ogr": "14850"
+        },
+        {
+            "libelle_court": "Lecteur(trice) langue \u00e9trang\u00e8re dans l'enseignement second",
+            "priorisation": "1",
+            "libelle": "Lecteur / Lectrice de langue \u00e9trang\u00e8re dans l'enseignement secondaire",
+            "code_ogr": "16174"
+        },
+        {
+            "libelle_court": "Ma\u00eetre(sse) \u00e9tablissement enseignement priv\u00e9 contrat 2 degr\u00e9",
+            "priorisation": "1",
+            "libelle": "Ma\u00eetre / Ma\u00eetresse des \u00e9tablissements d'enseignement priv\u00e9 sous contrat du second degr\u00e9",
+            "code_ogr": "16312"
+        },
+        {
+            "libelle_court": "Ma\u00eetre(sse) contractuel(le) \u00e9tabl priv\u00e9 enseignement g\u00e9n\u00e9ral",
+            "priorisation": "1",
+            "libelle": "Ma\u00eetre contractuel / Ma\u00eetresse contractuelle des \u00e9tablissements priv\u00e9s sous contrat en enseignement g\u00e9n\u00e9ral",
+            "code_ogr": "16296"
+        },
+        {
+            "libelle_court": "Moniteur(trice) maison familiale rurale en enseignt g\u00e9n\u00e9ral",
+            "priorisation": "1",
+            "libelle": "Moniteur / Monitrice en maison familiale rurale en enseignement g\u00e9n\u00e9ral",
+            "code_ogr": "16743"
+        },
+        {
+            "libelle_court": "Professeur / Professeure \u00e0 domicile",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure \u00e0 domicile",
+            "code_ogr": "18109"
+        },
+        {
+            "libelle_court": "Professeur / Professeure d'allemand",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure d'allemand",
+            "code_ogr": "38349"
+        },
+        {
+            "libelle_court": "Professeur / Professeure d'anglais",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure d'anglais",
+            "code_ogr": "38348"
+        },
+        {
+            "libelle_court": "Professeur / Professeure d'arabe",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure d'arabe",
+            "code_ogr": "38350"
+        },
+        {
+            "libelle_court": "Professeur / Professeure d'arts appliqu\u00e9s",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure d'arts appliqu\u00e9s",
+            "code_ogr": "38164"
+        },
+        {
+            "libelle_court": "Professeur / Professeure d'arts plastiques",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure d'arts plastiques",
+            "code_ogr": "18112"
+        },
+        {
+            "libelle_court": "Professeur / Professeure de chinois",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure de chinois",
+            "code_ogr": "38353"
+        },
+        {
+            "libelle_court": "Professeur / Professeure de fran\u00e7ais",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure de fran\u00e7ais",
+            "code_ogr": "38345"
+        },
+        {
+            "libelle_court": "Professeur/Professeure de Fran\u00e7ais Langue Etrang\u00e8re -FLE-",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure de Fran\u00e7ais Langue Etrang\u00e8re -FLE-",
+            "code_ogr": "18122"
+        },
+        {
+            "libelle_court": "Professeur / Professeure de langue r\u00e9gionale",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure de langue r\u00e9gionale",
+            "code_ogr": "38744"
+        },
+        {
+            "libelle_court": "Professeur / Professeure de langues des coll\u00e8ges",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure de langues des coll\u00e8ges",
+            "code_ogr": "18126"
+        },
+        {
+            "libelle_court": "Professeur / Professeure de langues vivantes",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure de langues vivantes",
+            "code_ogr": "18127"
+        },
+        {
+            "libelle_court": "Professeur / Professeure de math\u00e9matiques",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure de math\u00e9matiques",
+            "code_ogr": "38344"
+        },
+        {
+            "libelle_court": "Professeur / Professeure de mati\u00e8res g\u00e9n\u00e9rales",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure de mati\u00e8res g\u00e9n\u00e9rales",
+            "code_ogr": "18131"
+        },
+        {
+            "libelle_court": "Professeur / Professeure de mati\u00e8res litt\u00e9raires",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure de mati\u00e8res litt\u00e9raires",
+            "code_ogr": "18132"
+        },
+        {
+            "libelle_court": "Professeur / Professeure de mati\u00e8res scientifiques",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure de mati\u00e8res scientifiques",
+            "code_ogr": "18133"
+        },
+        {
+            "libelle_court": "Professeur / Professeure de philosophie",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure de philosophie",
+            "code_ogr": "38346"
+        },
+        {
+            "libelle_court": "Professeur / Professeure de physique, chimie, biologie",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure de physique, chimie, biologie",
+            "code_ogr": "38356"
+        },
+        {
+            "libelle_court": "Professeur / Professeure de portugais",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure de portugais",
+            "code_ogr": "38354"
+        },
+        {
+            "libelle_court": "Professeur / Professeure de sciences \u00e9conomiques et sociales",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure de sciences \u00e9conomiques et sociales",
+            "code_ogr": "38355"
+        },
+        {
+            "libelle_court": "Professeur / Professeure d'\u00e9ducation culturelle",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure d'\u00e9ducation culturelle",
+            "code_ogr": "18148"
+        },
+        {
+            "libelle_court": "Professeur / Professeure d'\u00e9ducation musicale",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure d'\u00e9ducation musicale",
+            "code_ogr": "18149"
+        },
+        {
+            "libelle_court": "Professeur/Professeure d'\u00e9ducation physique et sportive EPS",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure d'\u00e9ducation physique et sportive -EPS-",
+            "code_ogr": "18150"
+        },
+        {
+            "libelle_court": "Professeur/Professeure d'enseignement g\u00e9n\u00e9ral de lyc\u00e9e PEGL",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure d'enseignement g\u00e9n\u00e9ral de lyc\u00e9e -PEGL-",
+            "code_ogr": "18152"
+        },
+        {
+            "libelle_court": "Professeur/Professeure d'enseignement g\u00e9n\u00e9ral des coll\u00e8ges",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure d'enseignement g\u00e9n\u00e9ral des coll\u00e8ges -PEGC-",
+            "code_ogr": "18153"
+        },
+        {
+            "libelle_court": "Professeur(e) enseignement g\u00e9n\u00e9ral centre formation apprenti",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure d'enseignement g\u00e9n\u00e9ral en centre de formation d'apprentis",
+            "code_ogr": "18154"
+        },
+        {
+            "libelle_court": "Professeur(e) enseignement g\u00e9n\u00e9ral d\u00e9ficients sensoriels",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure d'enseignement g\u00e9n\u00e9ral pour d\u00e9ficients sensoriels",
+            "code_ogr": "18155"
+        },
+        {
+            "libelle_court": "Professeur/Professeure INJS-et-INJA enseignement g\u00e9n\u00e9ral",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure des instituts nationaux de jeunes sourds -INJS- et de jeunes aveugles -INJA- en enseignement g\u00e9n\u00e9ral",
+            "code_ogr": "18162"
+        },
+        {
+            "libelle_court": "Professeur / Professeure d'espagnol",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure d'espagnol",
+            "code_ogr": "38352"
+        },
+        {
+            "libelle_court": "Professeur / Professeure d'histoire g\u00e9ographie",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure d'histoire g\u00e9ographie",
+            "code_ogr": "38347"
+        },
+        {
+            "libelle_court": "Professeur / Professeure d'italien",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure d'italien",
+            "code_ogr": "38351"
+        },
+        {
+            "libelle_court": "Professeur / Professeure du second degr\u00e9 \u00e0 domicile",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure du second degr\u00e9 \u00e0 domicile",
+            "code_ogr": "18167"
+        },
+        {
+            "libelle_court": "Professeur / Professeure en langue des signes",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure en langue des signes",
+            "code_ogr": "18172"
+        },
+        {
+            "libelle_court": "Professeur / Professeure en soutien scolaire",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure en soutien scolaire",
+            "code_ogr": "18173"
+        },
+        {
+            "libelle_court": "Professeur/Professeure titulaire en zone de remplacement",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure titulaire en zone de remplacement -TZR-",
+            "code_ogr": "18181"
+        },
+        {
+            "libelle_court": "Professeur(e) sp\u00e9cialis\u00e9(e) de l'enseignement g\u00e9n\u00e9ral",
+            "priorisation": "1",
+            "libelle": "Professeur sp\u00e9cialis\u00e9 / Professeure sp\u00e9cialis\u00e9e de l'enseignement g\u00e9n\u00e9ral",
+            "code_ogr": "18174"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Pr\u00e9parer les cours et \u00e9tablir la progression p\u00e9dagogique",
+            "code_ogr": "2614",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Enseigner une ou plusieurs mati\u00e8res",
+            "code_ogr": "1809",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Concevoir les exercices, les travaux pratiques des \u00e9l\u00e8ves et \u00e9valuer leurs connaissances (\u00e9preuves, examens, devoirs, ...)",
+            "code_ogr": "904",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et conseiller les \u00e9l\u00e8ves dans l'organisation du travail personnel",
+            "code_ogr": "3213",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports d'\u00e9valuation scolaire et informer les proviseurs, coll\u00e8gues, parents, lors de conseils de classe, rencontres parents/professeurs, ...",
+            "code_ogr": "3065",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et mettre \u00e0 jour l'information p\u00e9dagogique, r\u00e9glementaire, professionnelle, technique, ...",
+            "code_ogr": "3239",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller le comportement des \u00e9l\u00e8ves et contr\u00f4ler l'application du r\u00e8glement int\u00e9rieur, des consignes de s\u00e9curit\u00e9, des r\u00e8gles de vie collective",
+            "code_ogr": "3313",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "K2104",
+            "libelle_rome_cible": "\u00c9ducation et surveillance au sein d'\u00e9tablissements d'enseignement"
+        },
+        {
+            "code_rome_cible": "K2106",
+            "libelle_rome_cible": "Enseignement des \u00e9coles"
+        },
+        {
+            "code_rome_cible": "K2108",
+            "libelle_rome_cible": "Enseignement sup\u00e9rieur"
+        },
+        {
+            "code_rome_cible": "K2109",
+            "libelle_rome_cible": "Enseignement technique et professionnel"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau Bac + 5 (Master ou \u00e9quivalent) dans la mati\u00e8re d'enseignement souhait\u00e9e et la r\u00e9ussite des concours CAPES, CAPEPS, CAPLP2 pour \u00eatre professeur certifi\u00e9, CAFEP pour travailler dans le priv\u00e9, Agr\u00e9gation.\nIl est \u00e9galement accessible sur titre, dipl\u00f4me d'Etat ou dipl\u00f4me des \u00e9coles d'art (DNAT, DNSEP, DSAA, ...) compl\u00e9t\u00e9 par une exp\u00e9rience professionnelle dans le m\u00eame secteur.\nLe brevet de secourisme et le Brevet National de S\u00e9curit\u00e9 et de Sauvetage Aquatique -BNSSA- sont obligatoires pour \u00eatre professeur d'Education Physique et Sportive.\nLe 2CA-SH -certificat compl\u00e9mentaire pour les enseignements adapt\u00e9s et la scolarisation des \u00e9l\u00e8ves en situation de handicap- ou le CAEGADV -Certificat d'Aptitude \u00e0 l'Enseignement G\u00e9n\u00e9ral aupr\u00e8s des Aveugles et D\u00e9ficients Visuels- est requis pour l'enseignement sp\u00e9cialis\u00e9.\nLe CAPEJS d\u00e9livr\u00e9 par le minist\u00e8re charg\u00e9 des affaires sociales est requis pour l'enseignement aupr\u00e8s des jeunes sourds.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Enseigner une discipline :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Arts plastiques, Arts appliqu\u00e9s",
+            "code_ogr": "5702",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Droit, \u00e9conomie et social",
+            "code_ogr": "5713",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Education civique",
+            "code_ogr": "5715",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Education musicale",
+            "code_ogr": "5716",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Education physique et sportive",
+            "code_ogr": "5717",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Fran\u00e7ais",
+            "code_ogr": "5719",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Histoire, g\u00e9ographie",
+            "code_ogr": "5723",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Informatique",
+            "code_ogr": "5726",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "8",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Langue des signes, braille",
+            "code_ogr": "5727",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Langues anciennes",
+            "code_ogr": "5729",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "10",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Langues \u00e9trang\u00e8res",
+            "code_ogr": "5730",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "11",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Langues r\u00e9gionales",
+            "code_ogr": "38756",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "12",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Math\u00e9matiques",
+            "code_ogr": "5734",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "13",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Philosophie",
+            "code_ogr": "5738",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "14",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Physique, chimie, biologie",
+            "code_ogr": "5741",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "15",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Intervenir aupr\u00e8s d'un type de public :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "El\u00e8ves en r\u00e9\u00e9ducation",
+            "code_ogr": "6304",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Enfants en difficult\u00e9s importantes du langage ou du comportement",
+            "code_ogr": "6308",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Enfants handicap\u00e9s (troubles auditifs, visuels, moteurs)",
+            "code_ogr": "6310",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Jeunes en difficult\u00e9 souffrant d'un retard mental l\u00e9ger ou moyen",
+            "code_ogr": "6314",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Jeunes en difficult\u00e9s familiale et sociale",
+            "code_ogr": "6315",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Intervenir dans un cadre de formation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "A distance",
+            "code_ogr": "6375",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Collectif",
+            "code_ogr": "6376",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "En face \u00e0 face",
+            "code_ogr": "6378",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Individualis\u00e9e",
+            "code_ogr": "6379",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Int\u00e9gr\u00e9e",
+            "code_ogr": "6380",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Concevoir et proposer des outils p\u00e9dagogiques et \u00e9ducatifs (mat\u00e9riel p\u00e9dagogique, logiciel \u00e9ducatif, sujet d'examen, ...)",
+            "code_ogr": "4007",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer et organiser la mise en place d'\u00e9v\u00e8nement p\u00e9dagogique (concours de dessin, sorties \u00e9ducatives, s\u00e9jours linguistiques, ...)",
+            "code_ogr": "7965",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Participer \u00e0 l'\u00e9laboration du projet p\u00e9dagogique de l'\u00e9tablissement",
+            "code_ogr": "7778",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Animer des activit\u00e9s culturelles, \u00e9ducatives, sportives aupr\u00e8s d'enfants ou adolescents",
+            "code_ogr": "3725",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer et coordonner des conseils de classe, des conseils de professeurs, des rencontres parents-professeurs, des examens, ...",
+            "code_ogr": "7954",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Animer des stages de formation professionnelle continue",
+            "code_ogr": "3748",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'\u00e9tablissements d'enseignement du secondaire, en contact avec diff\u00e9rents intervenants (parents, personnel \u00e9ducatif, m\u00e9dical, social, administratif, ...).\nElle varie selon la structure (lyc\u00e9e, coll\u00e8ge, domicile du b\u00e9n\u00e9ficiaire, ...) et les disciplines d'enseignement.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Association",
+            "code_ogr": "23706",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Centre de formation des apprentis",
+            "code_ogr": "23770",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement d'enseignement sp\u00e9cialis\u00e9",
+            "code_ogr": "23920",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement scolaire",
+            "code_ogr": "23924",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lyc\u00e9e d'enseignement professionnel, technologique",
+            "code_ogr": "23994",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Administration / Services de l'Etat",
+            "code_ogr": "23388",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Education/Enseignement",
+            "code_ogr": "24839",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Enseignement priv\u00e9 hors contrat",
+            "code_ogr": "23483",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Enseignement priv\u00e9 sous contrat",
+            "code_ogr": "23484",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Au domicile de particulier",
+            "code_ogr": "23375",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Programme de l'Education Nationale",
+            "code_ogr": "22487",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques p\u00e9dagogiques",
+            "code_ogr": "23253",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ing\u00e9nierie p\u00e9dagogique",
+            "code_ogr": "22052",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'animation de groupe",
+            "code_ogr": "22770",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Braille",
+            "code_ogr": "21536",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Langue des signes",
+            "code_ogr": "22065",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Outils de la formation \u00e0 distance",
+            "code_ogr": "22267",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nEnseigne aux \u00e9l\u00e8ves des disciplines g\u00e9n\u00e9rales ou d\u00e9livre des actions de formation selon les programmes d'enseignement nationaux.\nPeut coordonner une \u00e9quipe p\u00e9dagogique.\n",
+    "intitule": "Enseignement g\u00e9n\u00e9ral du second degr\u00e9",
+    "code_ogr": "410",
+    "code_rome": "K2107",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "K1104",
+            "libelle_rome_cible": "Psychologie"
+        },
+        {
+            "code_rome_cible": "K1403",
+            "libelle_rome_cible": "Management de structure de sant\u00e9, sociale ou p\u00e9nitentiaire"
+        },
+        {
+            "code_rome_cible": "K1601",
+            "libelle_rome_cible": "Gestion de l'information et de la documentation"
+        },
+        {
+            "code_rome_cible": "K2102",
+            "libelle_rome_cible": "Coordination p\u00e9dagogique"
+        },
+        {
+            "code_rome_cible": "K2103",
+            "libelle_rome_cible": "Direction d'\u00e9tablissement et d'enseignement"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        },
+        {
+            "code_rome_cible": "K2112",
+            "libelle_rome_cible": "Orientation scolaire et professionnelle"
+        }
+    ]
+}

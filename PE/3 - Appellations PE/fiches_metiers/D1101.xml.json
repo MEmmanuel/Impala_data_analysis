@@ -1,0 +1,587 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Aide-boucher / Aide-bouch\u00e8re",
+            "priorisation": "1",
+            "libelle": "Aide-boucher / Aide-bouch\u00e8re",
+            "code_ogr": "10867"
+        },
+        {
+            "libelle_court": "Boucher / Bouch\u00e8re",
+            "priorisation": "1",
+            "libelle": "Boucher / Bouch\u00e8re",
+            "code_ogr": "11564"
+        },
+        {
+            "libelle_court": "Boucher / Bouch\u00e8re chevalin",
+            "priorisation": "1",
+            "libelle": "Boucher / Bouch\u00e8re chevalin",
+            "code_ogr": "11565"
+        },
+        {
+            "libelle_court": "Boucher / Bouch\u00e8re hippophagique",
+            "priorisation": "1",
+            "libelle": "Boucher / Bouch\u00e8re hippophagique",
+            "code_ogr": "11567"
+        },
+        {
+            "libelle_court": "Boucher d\u00e9sosseur / Bouch\u00e8re d\u00e9sosseuse",
+            "priorisation": "1",
+            "libelle": "Boucher d\u00e9sosseur / Bouch\u00e8re d\u00e9sosseuse",
+            "code_ogr": "11566"
+        },
+        {
+            "libelle_court": "Boucher-charcutier / Bouch\u00e8re-charcuti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Boucher-charcutier / Bouch\u00e8re-charcuti\u00e8re",
+            "code_ogr": "11569"
+        },
+        {
+            "libelle_court": "Boucher-traiteur / Bouch\u00e8re-traiteuse",
+            "priorisation": "1",
+            "libelle": "Boucher-traiteur / Bouch\u00e8re-traiteuse",
+            "code_ogr": "11570"
+        },
+        {
+            "libelle_court": "Boucher-tripier / Bouch\u00e8re-tripi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Boucher-tripier / Bouch\u00e8re-tripi\u00e8re",
+            "code_ogr": "11571"
+        },
+        {
+            "libelle_court": "Boucher-volailler / Bouch\u00e8re-volaill\u00e8re",
+            "priorisation": "1",
+            "libelle": "Boucher-volailler / Bouch\u00e8re-volaill\u00e8re",
+            "code_ogr": "11572"
+        },
+        {
+            "libelle_court": "Chef boucher / bouch\u00e8re",
+            "priorisation": "1",
+            "libelle": "Chef boucher / bouch\u00e8re",
+            "code_ogr": "12005"
+        },
+        {
+            "libelle_court": "Ouvrier boucher / Ouvri\u00e8re bouch\u00e8re",
+            "priorisation": "1",
+            "libelle": "Ouvrier boucher / Ouvri\u00e8re bouch\u00e8re",
+            "code_ogr": "17406"
+        },
+        {
+            "libelle_court": "Second boucher / Seconde bouch\u00e8re",
+            "priorisation": "1",
+            "libelle": "Second boucher / Seconde bouch\u00e8re",
+            "code_ogr": "19351"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "R\u00e9ceptionner les carcasses, les pi\u00e8ces de viande et contr\u00f4ler les produits",
+            "code_ogr": "2921",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9couper les carcasses, les pi\u00e8ces de viande et les pr\u00e9parer (d\u00e9sossage, parage, ...)",
+            "code_ogr": "3521",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9partir les morceaux selon leur classification (viande de 1\u00e8re, 2\u00e8me ou 3\u00e8me cat\u00e9gorie, ...) et leur nature (\u00e0 braiser, \u00e0 griller, ...)",
+            "code_ogr": "3082",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9tailler, trancher ou hacher des pi\u00e8ces de viande et r\u00e9aliser des r\u00f4tis, paupiettes, merguez, saucisses, ...",
+            "code_ogr": "1366",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conditionner des pi\u00e8ces de viande, des sp\u00e9cialit\u00e9s bouch\u00e8res (barquettes, papier alimentaire, ...) et les disposer en vitrine",
+            "code_ogr": "918",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Prendre la commande du client et le renseigner sur la provenance de la viande et le mode de cuisson, ...",
+            "code_ogr": "2031",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "6",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer et maintenir en \u00e9tat de propret\u00e9 et d'hygi\u00e8ne le plan de travail, les outils et les locaux",
+            "code_ogr": "2409",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1106",
+            "libelle_rome_cible": "Vente en alimentation"
+        },
+        {
+            "code_rome_cible": "D1107",
+            "libelle_rome_cible": "Vente en gros de produits frais"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac (Bac Professionnel, Brevet Professionnel, Brevet de ma\u00eetrise) en boucherie.\nIl est \u00e9galement accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle pour le poste d'aide-boucher.\n",
+    "activite_specifique": [
+        {
+            "libelle": "D\u00e9couper, d\u00e9sosser, parer des viandes :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Agneau",
+            "code_ogr": "4475",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Boeuf",
+            "code_ogr": "4476",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cheval",
+            "code_ogr": "4477",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Gibiers, viandes exotiques, ...",
+            "code_ogr": "4478",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Lapins",
+            "code_ogr": "4479",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mouton",
+            "code_ogr": "4480",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Porc",
+            "code_ogr": "4481",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Veau",
+            "code_ogr": "4482",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Volailles",
+            "code_ogr": "4483",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer/cuisiner un type de produits :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Plats cuisin\u00e9s (gratins, choucroute, ...)",
+            "code_ogr": "8027",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Produits de charcuterie (salaisons, p\u00e2t\u00e9s, boudins, ...)",
+            "code_ogr": "8030",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Produits de r\u00f4tisserie",
+            "code_ogr": "8031",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Produits tripiers blancs (pieds, oreilles, t\u00eate de veau, ...)",
+            "code_ogr": "8034",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Produits tripiers rouges (foie, rognons, langue, cervelle, ...)",
+            "code_ogr": "8035",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sp\u00e9cialit\u00e9s bouch\u00e8res (morceaux de viandes farcis, viandes marin\u00e9es, brochettes, saucisserie, ...)",
+            "code_ogr": "8037",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Viandes",
+            "code_ogr": "8038",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9lectionner des b\u00eates enti\u00e8res, carcasses, morceaux aupr\u00e8s d'un producteur ou d'un interm\u00e9diaire et d\u00e9finir les conditions d'achat",
+            "code_ogr": "9642",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Vider et nettoyer des b\u00eates (volailles, lapins, gibiers, ...)",
+            "code_ogr": "10199",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les op\u00e9rations de vente de produits",
+            "code_ogr": "5412",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la gestion comptable et administrative d'une structure",
+            "code_ogr": "3533",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Former des employ\u00e9s aux techniques du m\u00e9tier",
+            "code_ogr": "4764",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de boucheries, de boucheries-charcuteries, aux rayons boucherie de grandes et moyennes surfaces, sur les march\u00e9s, en contact avec les clients, en relation avec les fournisseurs, le responsable de rayon et diff\u00e9rents services (livraisons, services v\u00e9t\u00e9rinaires, services d'hygi\u00e8ne).\nElle varie selon la structure (entreprise artisanale, hypermarch\u00e9, ...).\nElle peut s'exercer les fins de semaine.\nL'activit\u00e9 s'effectue en laboratoire, en magasin et peut impliquer le port de charges et la station debout prolong\u00e9e.\nLe port d'\u00e9quipement de protection (tablier, chaussures de s\u00e9curit\u00e9, ...) peut \u00eatre requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de machine de d\u00e9coupe de viande",
+            "code_ogr": "21295",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ficelage des viandes",
+            "code_ogr": "20900",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de nettoyage",
+            "code_ogr": "21330",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chiffrage/calcul de co\u00fbt",
+            "code_ogr": "20813",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion comptable",
+            "code_ogr": "21252",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Boucherie",
+            "code_ogr": "23721",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Boucherie-charcuterie",
+            "code_ogr": "23722",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Hypermarch\u00e9 (2500 m2 et +)",
+            "code_ogr": "23967",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "March\u00e9, foire exposition",
+            "code_ogr": "24005",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Supermarch\u00e9 (400 \u00e0 2500m2)",
+            "code_ogr": "24116",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Cha\u00eene du froid",
+            "code_ogr": "21701",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Typologie des pi\u00e8ces de viande",
+            "code_ogr": "23353",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Conditions de stockage de produits alimentaires",
+            "code_ogr": "21742",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaire",
+            "code_ogr": "22649",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Anatomie animale",
+            "code_ogr": "21506",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Tra\u00e7abilit\u00e9 des produits",
+            "code_ogr": "23289",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de d\u00e9sossage",
+            "code_ogr": "22886",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de parage des viandes",
+            "code_ogr": "23019",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'embossage",
+            "code_ogr": "23193",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de d\u00e9coupe des viandes",
+            "code_ogr": "22878",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en production culinaire",
+            "code_ogr": "21907",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de vente",
+            "code_ogr": "23168",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'encaissement",
+            "code_ogr": "22454",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de gestion de stocks",
+            "code_ogr": "22609",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise les op\u00e9rations de pr\u00e9paration de viandes et de sp\u00e9cialit\u00e9s bouch\u00e8res selon les r\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaires.\nPeut effectuer la vente de produits de boucherie.\nPeut g\u00e9rer un commerce de d\u00e9tail alimentaire (boucherie, boucherie-charcuterie, ...).\n",
+    "intitule": "Boucherie",
+    "code_ogr": "80",
+    "code_rome": "D1101",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1103",
+            "libelle_rome_cible": "Charcuterie - traiteur"
+        },
+        {
+            "code_rome_cible": "D1301",
+            "libelle_rome_cible": "Management de magasin de d\u00e9tail"
+        },
+        {
+            "code_rome_cible": "D1402",
+            "libelle_rome_cible": "Relation commerciale grands comptes et entreprises"
+        },
+        {
+            "code_rome_cible": "D1502",
+            "libelle_rome_cible": "Management/gestion de rayon produits alimentaires"
+        },
+        {
+            "code_rome_cible": "K2109",
+            "libelle_rome_cible": "Enseignement technique et professionnel"
+        }
+    ]
+}

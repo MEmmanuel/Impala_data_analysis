@@ -1,0 +1,554 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Alpiniste du b\u00e2timent",
+            "priorisation": "1",
+            "libelle": "Alpiniste du b\u00e2timent",
+            "code_ogr": "10924"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe cordiste",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe cordiste",
+            "code_ogr": "12401"
+        },
+        {
+            "libelle_court": "Cordiste",
+            "priorisation": "1",
+            "libelle": "Cordiste",
+            "code_ogr": "13728"
+        },
+        {
+            "libelle_court": "Cordiste nacelliste",
+            "priorisation": "1",
+            "libelle": "Cordiste nacelliste",
+            "code_ogr": "13729"
+        },
+        {
+            "libelle_court": "Ouvrier / Ouvri\u00e8re cordiste",
+            "priorisation": "1",
+            "libelle": "Ouvrier / Ouvri\u00e8re cordiste",
+            "code_ogr": "17414"
+        },
+        {
+            "libelle_court": "Sp\u00e9cialiste des travaux acrobatiques du b\u00e2timent",
+            "priorisation": "1",
+            "libelle": "Sp\u00e9cialiste des travaux acrobatiques du b\u00e2timent",
+            "code_ogr": "19503"
+        },
+        {
+            "libelle_court": "Sp\u00e9cialiste des travaux en hauteur du b\u00e2timent",
+            "priorisation": "1",
+            "libelle": "Sp\u00e9cialiste des travaux en hauteur du b\u00e2timent",
+            "code_ogr": "19504"
+        },
+        {
+            "libelle_court": "Sp\u00e9cialiste des travaux sur cordes du b\u00e2timent",
+            "priorisation": "1",
+            "libelle": "Sp\u00e9cialiste des travaux sur cordes du b\u00e2timent",
+            "code_ogr": "19505"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne cordiste",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne cordiste",
+            "code_ogr": "19703"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne de travaux d'acc\u00e8s difficile",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de travaux d'acc\u00e8s difficile",
+            "code_ogr": "19930"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Contr\u00f4ler l'\u00e9tat et la conformit\u00e9 du mat\u00e9riel d'intervention",
+            "code_ogr": "1170",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Implanter et s\u00e9curiser le chantier par l'installation d'\u00e9chafaudages, de gardes de corps anti-chutes, de lignes de vie, et des stocks de mat\u00e9riaux",
+            "code_ogr": "2179",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer ou traiter les fa\u00e7ades de b\u00e2timents et les \u00e9l\u00e9ments de structure en hauteur (silos, charpentes, ...)",
+            "code_ogr": "2424",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler l'\u00e9tat du b\u00e2ti (pr\u00e9sence d'infiltrations, de fissures, ...) et identifier les anomalies",
+            "code_ogr": "1165",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les op\u00e9rations de r\u00e9fection d'enveloppe de b\u00e2timent, d'ouvrage d'art (restructuration, fissure, \u00e9paufrure, ...) en acc\u00e8s difficile et p\u00e9rilleux",
+            "code_ogr": "1646",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Poser et installer des \u00e9quipements \u00e9lectriques, de t\u00e9l\u00e9communication, de protection, des enseignes, ...",
+            "code_ogr": "2526",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "F1502",
+            "libelle_rome_cible": "Montage de structures m\u00e9talliques"
+        },
+        {
+            "code_rome_cible": "F1611",
+            "libelle_rome_cible": "R\u00e9alisation et restauration de fa\u00e7ades"
+        },
+        {
+            "code_rome_cible": "G1204",
+            "libelle_rome_cible": "\u00c9ducation en activit\u00e9s sportives"
+        },
+        {
+            "code_rome_cible": "K2202",
+            "libelle_rome_cible": "Lavage de vitres"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec une pratique de l'escalade ou de l'alpinisme sans dipl\u00f4me particulier.\nUne formation en travail sur corde ou un certificat d'aptitude au travail sur corde en facilite l'acc\u00e8s.\nDes formations compl\u00e9mentaires dans le secteur du b\u00e2timent (ma\u00e7onnerie, peinture, ...) ou des habilitations sp\u00e9cifiques (\u00e9lectrique, soudure, ...) peuvent \u00eatre exig\u00e9es selon la nature des interventions.\nLa formation Pr\u00e9vention et Secours Civiques de niveau 1 -PSC1- peut \u00eatre requise.\nUn Certificat d'Aptitude \u00e0 la Conduite en S\u00e9curit\u00e9 -CACES- conditionn\u00e9 par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement peut \u00eatre exig\u00e9 pour l'utilisation de nacelles.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Effectuer une intervention :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etanch\u00e9it\u00e9 et imperm\u00e9abilisation (zingage, bardage, ...)",
+            "code_ogr": "5511",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Inspection et contr\u00f4le d'ouvrage (photographique, vid\u00e9o, ...)",
+            "code_ogr": "5512",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Lavage de vitrages",
+            "code_ogr": "5513",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer une pose :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D'\u00e9quipements de communication (antennes, ...)",
+            "code_ogr": "5561",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D'enseignes, paratonnerres, \u00e9quipements \u00e9lectriques (c\u00e2bles, ...)",
+            "code_ogr": "5560",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "De charpentes, structures m\u00e9talliques, tuyauteries, vitrages",
+            "code_ogr": "5556",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "De d\u00e9corations, fresques murales",
+            "code_ogr": "5557",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "De filets (protection, pare grav\u00e2t, ...), b\u00e2ches",
+            "code_ogr": "5558",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "De protections anti-pigeon (picot, c\u00f4nes, ...)",
+            "code_ogr": "5559",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des interventions n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9vention des risques PR 1",
+            "code_ogr": "8490",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9vention des risques PR 2",
+            "code_ogr": "8491",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Qualit\u00e9, S\u00fbret\u00e9, Prestataires -QSP-",
+            "code_ogr": "8492",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation Nucl\u00e9aire HN 2",
+            "code_ogr": "8485",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation Nucl\u00e9aire HN1",
+            "code_ogr": "8486",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation \u00e9lectrique, travaux hors tension (B0, B0V, B1 B1V, H0, ...)",
+            "code_ogr": "8481",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation \u00e9lectrique, travaux sous tension (B1T, BN, BR, H1T, ...)",
+            "code_ogr": "8482",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Certificat d'Aptitude au Travail Sur Corde -CATSC-",
+            "code_ogr": "8473",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4le Non Destructif -CND-",
+            "code_ogr": "8478",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9vention et Secours Civiques de niveau 1 -PSC1-",
+            "code_ogr": "8467",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "10",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 386 (Plates-formes \u00e9l\u00e9vatrices mobiles de personnes)",
+            "code_ogr": "10120",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports de suivi d'activit\u00e9 et transmettre les informations au service concern\u00e9",
+            "code_ogr": "3600",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Monter les structures porteuses (\u00e9chafaudage, \u00e9taiement, plate-forme, ...)",
+            "code_ogr": "3564",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des traitements pr\u00e9ventifs ou correctifs de b\u00e2timents et d'ouvrages (anti-corrosion, protection des bois, ...)",
+            "code_ogr": "9106",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conseiller et prescrire des solutions techniques pr\u00e9ventives ou correctives (s\u00e9curit\u00e9 des acc\u00e8s, protection)",
+            "code_ogr": "4141",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Organiser des interventions et contr\u00f4ler la conformit\u00e9 de r\u00e9alisation (s\u00e9curit\u00e9, d\u00e9lais, ...) d'un chantier",
+            "code_ogr": "7674",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de soci\u00e9t\u00e9s de services, parfois en contact avec les clients.\nElle varie selon le lieu et le type d'intervention (pose de charpentes, pose d'enseignes, ...).\nElle peut \u00eatre soumise \u00e0 des astreintes.\nElle s'effectue dans le vide, en grande hauteur et peut impliquer le port de charges.\nLe port d'\u00e9quipements de protection (gants, harnais, ...) est exig\u00e9.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outillages \u00e9lectroportatifs (scie \u00e9lectrique, ponceuse, ...)",
+            "code_ogr": "21464",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de nettoyage",
+            "code_ogr": "21330",
+            "position_item": "2",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise",
+            "code_ogr": "23867",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent et Travaux Publics -BTP-",
+            "code_ogr": "23420",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Energie, nucl\u00e9aire, fluide",
+            "code_ogr": "23480",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ev\u00e8nementiel",
+            "code_ogr": "23487",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Informatique et t\u00e9l\u00e9communications",
+            "code_ogr": "23535",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Maintenance",
+            "code_ogr": "23545",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Patrimoine culturel et historique",
+            "code_ogr": "23576",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Propret\u00e9, nettoyage",
+            "code_ogr": "23602",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Transport/logistique",
+            "code_ogr": "23659",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "En grande hauteur",
+            "code_ogr": "23379",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9",
+            "code_ogr": "22621",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'alpinisme",
+            "code_ogr": "22763",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de ma\u00e7onnerie",
+            "code_ogr": "22953",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de peinture",
+            "code_ogr": "23024",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de soudure",
+            "code_ogr": "23128",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de forage",
+            "code_ogr": "22912",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes de la construction",
+            "code_ogr": "22220",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise des interventions techniques en grande hauteur et d'acc\u00e8s difficile. Ex\u00e9cute les op\u00e9rations de nettoyage, de maintenance, de r\u00e9fection ou de protection ext\u00e9rieurs de b\u00e2timents, de monuments et d'ouvrages de g\u00e9nie civil, \u00e0 l'aide de cordes, nacelles, selon les r\u00e8gles de s\u00e9curit\u00e9.\nPeut encadrer une \u00e9quipe.\n",
+    "intitule": "Intervention en grande hauteur",
+    "code_ogr": "322",
+    "code_rome": "I1501",
+    "mobilites_si_evolution": []
+}

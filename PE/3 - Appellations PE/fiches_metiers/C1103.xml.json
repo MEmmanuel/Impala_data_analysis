@@ -1,0 +1,385 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent g\u00e9n\u00e9ral / Agente g\u00e9n\u00e9rale d'assurances",
+            "priorisation": "1",
+            "libelle": "Agent g\u00e9n\u00e9ral / Agente g\u00e9n\u00e9rale d'assurances",
+            "code_ogr": "10740"
+        },
+        {
+            "libelle_court": "Courtier / Courti\u00e8re en assurances",
+            "priorisation": "1",
+            "libelle": "Courtier / Courti\u00e8re en assurances",
+            "code_ogr": "13804"
+        },
+        {
+            "libelle_court": "Mandataire en assurances",
+            "priorisation": "1",
+            "libelle": "Mandataire en assurances",
+            "code_ogr": "38150"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Mettre en oeuvre des actions commerciales selon la strat\u00e9gie du cabinet ou de la compagnie d'assurances",
+            "code_ogr": "2321",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etudier la nature, le niveau de risque de sinistre et \u00e9valuer les biens mobiliers et immobiliers du client",
+            "code_ogr": "1924",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir une proposition de contrat (garanties, primes, ...) et informer le client sur les clauses sp\u00e9cifiques",
+            "code_ogr": "1907",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier la conformit\u00e9 d'une d\u00e9claration de sinistre, \u00e9valuer le montant des pertes en mat\u00e9riels, locaux, chiffre d'affaires, ... et les responsabilit\u00e9s des parties",
+            "code_ogr": "3415",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Actualiser les contrats selon l'\u00e9volution de la situation de la client\u00e8le et mettre \u00e0 jour les dossiers clients",
+            "code_ogr": "595",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Apporter un appui commercial et technique \u00e0 des collaborateurs (traitement de dossiers complexes, litigieux, ...)",
+            "code_ogr": "713",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "6",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "C1107",
+            "libelle_rome_cible": "Indemnisations en assurances"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau Bac+2 (BTS, DUT, ...) compl\u00e9t\u00e9 par une exp\u00e9rience professionnelle dans le secteur de l'assurance ou dans le secteur commercial appliqu\u00e9 au domaine de l'assurance.\nUne exp\u00e9rience professionnelle dans le management d'\u00e9quipe ou la direction d'une structure (directeur de magasin, ...) peut \u00eatre exig\u00e9e.\n",
+    "activite_specifique": [
+        {
+            "libelle": "D\u00e9velopper un portefeuille de clients pour un type de couverture de risques :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Epargne, assurance vie",
+            "code_ogr": "4703",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9assurance",
+            "code_ogr": "4704",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Retraite",
+            "code_ogr": "4705",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Risques financiers",
+            "code_ogr": "4706",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "4",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Risques industriels (chimiques, ...)",
+            "code_ogr": "4707",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "5",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sant\u00e9, pr\u00e9voyance",
+            "code_ogr": "4708",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "6",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Catastrophes naturelles",
+            "code_ogr": "4702",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "7",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser une activit\u00e9 n\u00e9cessitant :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "La certification AMF ou une \u00e9valuation des savoirs d\u00e9finie par l'Autorit\u00e9 des March\u00e9s Financiers",
+            "code_ogr": "38306",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9finir et arr\u00eater les modalit\u00e9s de collaboration avec des compagnies d'assurances",
+            "code_ogr": "4502",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Organiser les expertises de sinistres et \u00e9tablir les comptes rendus",
+            "code_ogr": "7756",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner la gestion des sinistres et proc\u00e9der \u00e0 l'indemnisation des clients",
+            "code_ogr": "4320",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Promouvoir des produits financiers aupr\u00e8s d'une client\u00e8le de particuliers, de professionnels ou d'entreprises",
+            "code_ogr": "8183",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et d\u00e9velopper un r\u00e9seau d'apporteurs d'affaires (notaires, avocats, ...)",
+            "code_ogr": "9707",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser le suivi comptable et financier du cabinet (recouvrement de cotisations, indemnisations de sinistres, ...)",
+            "code_ogr": "9214",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe ou diriger une structure",
+            "code_ogr": "4326",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de cabinets de courtage en assurances, de cabinets d'assurances, en contact avec diff\u00e9rents interlocuteurs (financiers, compagnies d'assurances, experts comptables, notaires, ...).\nL'activit\u00e9 implique des d\u00e9placements (visites de sites, ...).\nElle varie selon la taille et le type de structure (cabinet de courtage, d'assurances, ...) et le type de mandatement (par une compagnie d'assurances, par un client, ...).\nLa r\u00e9mun\u00e9ration peut \u00eatre constitu\u00e9e de commissions vers\u00e9es par les compagnies d'assurances ou d'honoraires (activit\u00e9 ind\u00e9pendante).\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion de base de donn\u00e9es",
+            "code_ogr": "21254",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Expertise de biens",
+            "code_ogr": "20897",
+            "position_item": "2",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Cabinet de courtage en assurances",
+            "code_ogr": "23740",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Compagnie d'assurances/mutuelle",
+            "code_ogr": "23822",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Droit des assurances",
+            "code_ogr": "21803",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Droit commercial",
+            "code_ogr": "21794",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Comptabilit\u00e9 g\u00e9n\u00e9rale",
+            "code_ogr": "21738",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation en Hygi\u00e8ne, S\u00e9curit\u00e9, Environnement -HSE-",
+            "code_ogr": "22567",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Typologie des risques environnementaux et sanitaires",
+            "code_ogr": "23356",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques actuarielles",
+            "code_ogr": "22753",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de gestion de contentieux",
+            "code_ogr": "22409",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes de la relation client",
+            "code_ogr": "22323",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9thodes d'analyse de risques",
+            "code_ogr": "22118",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques commerciales",
+            "code_ogr": "23012",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en comptabilit\u00e9",
+            "code_ogr": "21845",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nAccompagne une client\u00e8le (particuliers, professionnels, entreprises, ...) dans le choix et le suivi de produits ou de services d'assurances (assurance Incendie, Accidents, Risques Divers -IARD-, assurance vie, ...), selon la r\u00e9glementation de l'assurance et la strat\u00e9gie commerciale du cabinet ou de la compagnie mandante.\nD\u00e9veloppe et fid\u00e9lise une client\u00e8le de professionnels (artisans, commer\u00e7ants, ...) ou de particuliers.\nPeut assurer la gestion de sinistres (d\u00e9claration, encaissement, suivi, ...) jusqu'au r\u00e8glement.\nPeut assurer la gestion d'une ou plusieurs structures (agence ou cabinet).\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "Courtage en assurances",
+    "code_ogr": "57",
+    "code_rome": "C1103",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "C1101",
+            "libelle_rome_cible": "Conception - d\u00e9veloppement produits d'assurances"
+        },
+        {
+            "code_rome_cible": "C1104",
+            "libelle_rome_cible": "Direction d'exploitation en assurances"
+        },
+        {
+            "code_rome_cible": "C1108",
+            "libelle_rome_cible": "Management de groupe et de service en assurances"
+        }
+    ]
+}

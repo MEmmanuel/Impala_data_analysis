@@ -1,0 +1,423 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Caissier / Caissi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Caissier / Caissi\u00e8re",
+            "code_ogr": "11640"
+        },
+        {
+            "libelle_court": "Caissier / Caissi\u00e8re de parking",
+            "priorisation": "1",
+            "libelle": "Caissier / Caissi\u00e8re de parking",
+            "code_ogr": "11643"
+        },
+        {
+            "libelle_court": "Caissier / Caissi\u00e8re de station-service",
+            "priorisation": "1",
+            "libelle": "Caissier / Caissi\u00e8re de station-service",
+            "code_ogr": "11644"
+        },
+        {
+            "libelle_court": "Caissier / Caissi\u00e8re en libre-service",
+            "priorisation": "1",
+            "libelle": "Caissier / Caissi\u00e8re en libre-service",
+            "code_ogr": "11645"
+        },
+        {
+            "libelle_court": "Caissier / Caissi\u00e8re en restauration",
+            "priorisation": "1",
+            "libelle": "Caissier / Caissi\u00e8re en restauration",
+            "code_ogr": "38575"
+        },
+        {
+            "libelle_court": "Caissier / Caissi\u00e8re pompiste",
+            "priorisation": "1",
+            "libelle": "Caissier / Caissi\u00e8re pompiste",
+            "code_ogr": "11646"
+        },
+        {
+            "libelle_court": "Caissier / Caissi\u00e8re roller",
+            "priorisation": "1",
+            "libelle": "Caissier / Caissi\u00e8re roller",
+            "code_ogr": "11647"
+        },
+        {
+            "libelle_court": "Caissier / Caissi\u00e8re spectacle",
+            "priorisation": "1",
+            "libelle": "Caissier / Caissi\u00e8re spectacle",
+            "code_ogr": "11648"
+        },
+        {
+            "libelle_court": "H\u00f4te / H\u00f4tesse de caisse",
+            "priorisation": "1",
+            "libelle": "H\u00f4te / H\u00f4tesse de caisse",
+            "code_ogr": "15487"
+        },
+        {
+            "libelle_court": "H\u00f4te / H\u00f4tesse de caisse services clients",
+            "priorisation": "1",
+            "libelle": "H\u00f4te / H\u00f4tesse de caisse services clients",
+            "code_ogr": "38655"
+        },
+        {
+            "libelle_court": "P\u00e9ager / P\u00e9ag\u00e8re",
+            "priorisation": "1",
+            "libelle": "P\u00e9ager / P\u00e9ag\u00e8re",
+            "code_ogr": "17598"
+        },
+        {
+            "libelle_court": "P\u00e9agiste",
+            "priorisation": "1",
+            "libelle": "P\u00e9agiste",
+            "code_ogr": "17599"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Accueillir le client et enregistrer la vente d'articles (lecture de codes-barres, saisie des prix, ...)",
+            "code_ogr": "563",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Enlever/d\u00e9sactiver les antivols des articles",
+            "code_ogr": "1798",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les op\u00e9rations d'encaissement",
+            "code_ogr": "3546",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner le client sur les services compl\u00e9mentaires \u00e0 la vente (remise, livraison, cr\u00e9dit gratuit, carte de fid\u00e9lit\u00e9, ...)",
+            "code_ogr": "3598",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "4",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Recueillir les remarques des clients (accueil, prix, temps d'attente, ...) et les transmettre (responsable de caisses, ...)",
+            "code_ogr": "2968",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "5",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier le fonds de caisse \u00e0 la prise de poste et effectuer le comptage \u00e0 la fermeture de la caisse",
+            "code_ogr": "3453",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1507",
+            "libelle_rome_cible": "Mise en rayon libre-service"
+        },
+        {
+            "code_rome_cible": "M1601",
+            "libelle_rome_cible": "Accueil et renseignements"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac (g\u00e9n\u00e9ral, professionnel, ...) dans les secteurs de la vente et de la distribution.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans ces secteurs sans dipl\u00f4me particulier.\nLes recrutements peuvent \u00eatre ouverts sur contrats de travail saisonniers ou \u00e0 dur\u00e9e d\u00e9termin\u00e9e.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Effectuer la mise en rayon et le r\u00e9assort des produits, des articles en magasin",
+            "code_ogr": "5163",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9server des places et \u00e9diter des billets (spectacle, \u00e9v\u00e8nements sportifs, ...)",
+            "code_ogr": "9604",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9ceptionner les marchandises, les produits et contr\u00f4ler la conformit\u00e9 de la livraison",
+            "code_ogr": "3591",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9senter au client les modalit\u00e9s de cr\u00e9dit \u00e0 la consommation et constituer le dossier de financement",
+            "code_ogr": "38641",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le service de carburant \u00e0 la pompe",
+            "code_ogr": "5351",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier les conditions de livraison du carburant (niveau de cuve, transvasement, ...)",
+            "code_ogr": "10192",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien de premier niveau et le nettoyage du v\u00e9hicule",
+            "code_ogr": "3545",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de grandes surfaces (alimentaires, sp\u00e9cialis\u00e9es, de bricolage), de magasins (textile, musique, ...), de billetteries (th\u00e9\u00e2tre, cin\u00e9ma, ...), de lieux de p\u00e9age (parking, autoroute, ...), de stations-service, en contact avec la client\u00e8le et diff\u00e9rents intervenants (responsable de caisses, directeur de magasin, ...).\nElle varie selon la taille de la structure et le degr\u00e9 d'informatisation des caisses.\nElle peut s'exercer en horaires fractionn\u00e9s, les fins de semaine, jours f\u00e9ri\u00e9s ou de nuit.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de caisse enregistreuse",
+            "code_ogr": "21171",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de caisse informatis\u00e9e",
+            "code_ogr": "21172",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de r\u00e9servation",
+            "code_ogr": "21265",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion de stocks",
+            "code_ogr": "21259",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outillages manuels (cl\u00e9, pince, scie, ...)",
+            "code_ogr": "21465",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Billetterie spectacle (cin\u00e9ma, th\u00e9\u00e2tre, ...)",
+            "code_ogr": "23720",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Boutique, commerce de d\u00e9tail",
+            "code_ogr": "23725",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Grand magasin",
+            "code_ogr": "23949",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Grande et Moyenne Surface -GMS-",
+            "code_ogr": "23951",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Grande Surface de Bricolage -GSB-",
+            "code_ogr": "23953",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Grande Surface Sp\u00e9cialis\u00e9e -GSS-",
+            "code_ogr": "23954",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Parc de stationnement",
+            "code_ogr": "24030",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 d'autoroute",
+            "code_ogr": "24078",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 gestionnaire de pont \u00e0 p\u00e9age",
+            "code_ogr": "24103",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Station-service",
+            "code_ogr": "24108",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Commerce de gros",
+            "code_ogr": "23444",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Commerce/grande distribution",
+            "code_ogr": "23445",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Loisirs",
+            "code_ogr": "23543",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Spectacle",
+            "code_ogr": "23638",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Transport/logistique",
+            "code_ogr": "23659",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'encaissement",
+            "code_ogr": "22454",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de secours",
+            "code_ogr": "22433",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles et consignes de s\u00e9curit\u00e9",
+            "code_ogr": "22656",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation des produits inflammables",
+            "code_ogr": "22552",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9canique automobile",
+            "code_ogr": "21881",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise l'enregistrement des ventes et l'encaissement de produits, d'articles (v\u00eatements, alimentation, carburant, ...) ou de services (p\u00e9ages d'autoroute, parking, ...).\nPeut effectuer le r\u00e9assort des produits en magasin.\n",
+    "intitule": "Personnel de caisse",
+    "code_ogr": "114",
+    "code_rome": "D1505",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1106",
+            "libelle_rome_cible": "Vente en alimentation"
+        },
+        {
+            "code_rome_cible": "D1210",
+            "libelle_rome_cible": "Vente en animalerie"
+        },
+        {
+            "code_rome_cible": "D1211",
+            "libelle_rome_cible": "Vente en articles de sport et loisirs"
+        },
+        {
+            "code_rome_cible": "D1212",
+            "libelle_rome_cible": "Vente en d\u00e9coration et \u00e9quipement du foyer"
+        },
+        {
+            "code_rome_cible": "D1214",
+            "libelle_rome_cible": "Vente en habillement et accessoires de la personne"
+        },
+        {
+            "code_rome_cible": "D1508",
+            "libelle_rome_cible": "Encadrement du personnel de caisses"
+        }
+    ]
+}

@@ -1,0 +1,638 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Gypsier / Gypsi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Gypsier / Gypsi\u00e8re",
+            "code_ogr": "15461"
+        },
+        {
+            "libelle_court": "Pl\u00e2trier / Pl\u00e2tri\u00e8re",
+            "priorisation": "1",
+            "libelle": "Pl\u00e2trier / Pl\u00e2tri\u00e8re",
+            "code_ogr": "17828"
+        },
+        {
+            "libelle_court": "Pl\u00e2trier staffeur / Pl\u00e2tri\u00e8re staffeuse",
+            "priorisation": "1",
+            "libelle": "Pl\u00e2trier staffeur / Pl\u00e2tri\u00e8re staffeuse",
+            "code_ogr": "17829"
+        },
+        {
+            "libelle_court": "Staffeur / Staffeuse",
+            "priorisation": "1",
+            "libelle": "Staffeur / Staffeuse",
+            "code_ogr": "19516"
+        },
+        {
+            "libelle_court": "Staffeur / Staffeuse ornemaniste",
+            "priorisation": "1",
+            "libelle": "Staffeur / Staffeuse ornemaniste",
+            "code_ogr": "19517"
+        },
+        {
+            "libelle_court": "Stucateur / Stucateuse",
+            "priorisation": "1",
+            "libelle": "Stucateur / Stucateuse",
+            "code_ogr": "19539"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "D\u00e9terminer les caract\u00e9ristiques de l'ouvrage et les techniques de mise en oeuvre",
+            "code_ogr": "1423",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9lectionner les mat\u00e9riaux et constituer le stock de mati\u00e8res premi\u00e8res et consommables",
+            "code_ogr": "3174",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tracer les plans, croquis de l'ouvrage en staff, stuc, ... ou d\u00e9terminer l'implantation des cloisons \u00e0 partir du plan de construction",
+            "code_ogr": "3365",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Poncer, enduire les supports et poser les appuis de fixation (corni\u00e8res, rails, ...)",
+            "code_ogr": "735",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer le pl\u00e2tre, le staff ou le stuc et le mettre en forme par coulage, moulage, projection et lissage",
+            "code_ogr": "2604",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Poser les \u00e9l\u00e9ments de d\u00e9coration, r\u00e9aliser les joints et la finition",
+            "code_ogr": "2530",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1212",
+            "libelle_rome_cible": "Vente en d\u00e9coration et \u00e9quipement du foyer"
+        },
+        {
+            "code_rome_cible": "D1213",
+            "libelle_rome_cible": "Vente en gros de mat\u00e9riel et \u00e9quipement"
+        },
+        {
+            "code_rome_cible": "F1604",
+            "libelle_rome_cible": "Montage d'agencements"
+        },
+        {
+            "code_rome_cible": "F1606",
+            "libelle_rome_cible": "Peinture en b\u00e2timent"
+        },
+        {
+            "code_rome_cible": "L1503",
+            "libelle_rome_cible": "D\u00e9cor et accessoires spectacle"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible \u00e0 partir d'un CAP (pl\u00e2trier staffeur, pl\u00e2trier plaquiste, ...).\nUn dipl\u00f4me de niveau Bac (Bac professionnel Am\u00e9nagement finition, ...) ou un Brevet des M\u00e9tiers d'Art (BMA volumes option staff et mat\u00e9riaux associ\u00e9s, ...) peut \u00eatre demand\u00e9.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Intervenir sur des oeuvres/ouvrages sp\u00e9cifiques :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Monuments historiques",
+            "code_ogr": "7114",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Neuf",
+            "code_ogr": "7115",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9novation",
+            "code_ogr": "7116",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des ouvrages ou rev\u00eatements d'ouvrages en :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Briques de pl\u00e2tre",
+            "code_ogr": "8958",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Carreaux et plaques de pl\u00e2tre",
+            "code_ogr": "8959",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chaux (grasse, ...)",
+            "code_ogr": "8960",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Enduits ext\u00e9rieurs",
+            "code_ogr": "8961",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mat\u00e9riaux orientaux (tadelak, ...)",
+            "code_ogr": "8962",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pl\u00e2tre en poudre",
+            "code_ogr": "8963",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Staff",
+            "code_ogr": "8964",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Stuc",
+            "code_ogr": "8965",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des ouvrages :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Plafonds",
+            "code_ogr": "8981",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chemin\u00e9es",
+            "code_ogr": "8968",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "El\u00e9ments courbes, cintr\u00e9s",
+            "code_ogr": "8969",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ornements architecturaux, corniches, moulures de style, ...",
+            "code_ogr": "8979",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Monter et poser des \u00e9l\u00e9ments :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cache-gaines, conduits",
+            "code_ogr": "7603",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cloisons amovibles",
+            "code_ogr": "7604",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cloisons fixes (carreaux de pl\u00e2tre, briques de pl\u00e2tre, ...)",
+            "code_ogr": "7605",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Isolations phoniques",
+            "code_ogr": "7606",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Isolations thermiques et anti feu",
+            "code_ogr": "7607",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9corer des ouvrages par :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Gravure, incision",
+            "code_ogr": "4447",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sculpture",
+            "code_ogr": "4455",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Peinture d\u00e9corative",
+            "code_ogr": "4451",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Patine, lustrage, cirage",
+            "code_ogr": "4449",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser les moules en pl\u00e2tre, \u00e9lastom\u00e8re, feuillet\u00e9,... des pi\u00e8ces \u00e0 fa\u00e7onner",
+            "code_ogr": "9229",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Concevoir de nouveaux mod\u00e8les ou dessiner de nouveaux motifs",
+            "code_ogr": "3930",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Transmettre les techniques du m\u00e9tier ou mener des actions de sensibilisation au m\u00e9tier",
+            "code_ogr": "10026",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe ou diriger une structure",
+            "code_ogr": "4326",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises du BTP, d'entreprises artisanales, d'\u00e9tablissements publics ou du patrimoine, en relation avec de nombreux intervenants (architecte, architecte d'int\u00e9rieur, professionnels du second oeuvre b\u00e2timent, ...).\nL'activit\u00e9 s'effectue en atelier, en ext\u00e9rieur, au domicile des clients, parfois en hauteur et de nuit (galeries commerciales, ...).\nLe port d'\u00e9quipements de protection (masque, lunettes, ...) peut \u00eatre requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan",
+            "code_ogr": "20946",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Conception et de Dessin Assist\u00e9s par Ordinateur -CAO/DAO-",
+            "code_ogr": "21249",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils manuels (truelle, taloche, pelle ...)",
+            "code_ogr": "21478",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de machines \u00e0 projeter",
+            "code_ogr": "21312",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Prise d'empreinte d'ouvrage",
+            "code_ogr": "21064",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Montage d'\u00e9chafaudage",
+            "code_ogr": "21009",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Tra\u00e7age \u00e0 main lev\u00e9e",
+            "code_ogr": "21116",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise artisanale",
+            "code_ogr": "23870",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise publique/\u00e9tablissement public",
+            "code_ogr": "23912",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Agencement, d\u00e9coration int\u00e9rieure",
+            "code_ogr": "23393",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent et Travaux Publics -BTP-",
+            "code_ogr": "23420",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Construction navale",
+            "code_ogr": "23453",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Spectacle",
+            "code_ogr": "23638",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles et consignes de s\u00e9curit\u00e9",
+            "code_ogr": "22656",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de duplication de forme",
+            "code_ogr": "22902",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Propri\u00e9t\u00e9s du pl\u00e2tre (isolation, porosit\u00e9, duret\u00e9, ...)",
+            "code_ogr": "22498",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Dessin de d\u00e9tail",
+            "code_ogr": "21775",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Dessin d'ensemble",
+            "code_ogr": "21776",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes de la construction",
+            "code_ogr": "22220",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "G\u00e9om\u00e9trie",
+            "code_ogr": "21986",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Histoire de l'art et des styles",
+            "code_ogr": "22023",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Styles architecturaux",
+            "code_ogr": "22728",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes de conservation pr\u00e9ventive",
+            "code_ogr": "22312",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de restauration d'ouvrages d'art",
+            "code_ogr": "23103",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des armatures",
+            "code_ogr": "21557",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9d\u00e9s de fixation m\u00e9canique",
+            "code_ogr": "22350",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des mat\u00e9riaux composites",
+            "code_ogr": "21605",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise des \u00e9l\u00e9ments de d\u00e9coration int\u00e9rieure ou ext\u00e9rieure (corniches, rosaces, colonnes, ...) en pl\u00e2tre liquide, staff, stuc, chaux, ...sur des constructions neuves ou en r\u00e9novation.\nPeut monter des cloisons, poser des \u00e9l\u00e9ments d'isolation et effectuer des travaux de restauration.\nPeut coordonner une \u00e9quipe, diriger un service ou une structure.\n",
+    "intitule": "Application et d\u00e9coration en pl\u00e2tre, stuc et staff",
+    "code_ogr": "161",
+    "code_rome": "F1601",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1403",
+            "libelle_rome_cible": "Relation commerciale aupr\u00e8s de particuliers"
+        },
+        {
+            "code_rome_cible": "H2908",
+            "libelle_rome_cible": "Modelage de mat\u00e9riaux non m\u00e9talliques"
+        },
+        {
+            "code_rome_cible": "H3203",
+            "libelle_rome_cible": "Fabrication de pi\u00e8ces en mat\u00e9riaux composites"
+        }
+    ]
+}

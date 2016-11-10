@@ -1,0 +1,403 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Aide-soignant / Aide-soignante",
+            "priorisation": "1",
+            "libelle": "Aide-soignant / Aide-soignante",
+            "code_ogr": "10891"
+        },
+        {
+            "libelle_court": "Aide-soignant / Aide-soignante \u00e0 domicile",
+            "priorisation": "1",
+            "libelle": "Aide-soignant / Aide-soignante \u00e0 domicile",
+            "code_ogr": "10892"
+        },
+        {
+            "libelle_court": "Aide-soignant / Aide-soignante en g\u00e9riatrie",
+            "priorisation": "1",
+            "libelle": "Aide-soignant / Aide-soignante en g\u00e9riatrie",
+            "code_ogr": "10893"
+        },
+        {
+            "libelle_court": "Aide-soignant / Aide-soignante en pu\u00e9riculture",
+            "priorisation": "1",
+            "libelle": "Aide-soignant / Aide-soignante en pu\u00e9riculture",
+            "code_ogr": "10894"
+        },
+        {
+            "libelle_court": "Aide-soignant hospitalier / Aide-soignante hospitali\u00e8re",
+            "priorisation": "1",
+            "libelle": "Aide-soignant hospitalier / Aide-soignante hospitali\u00e8re",
+            "code_ogr": "10895"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Informer le patient/r\u00e9sident sur les modalit\u00e9s de s\u00e9jour dans le service (installation en chambre, horaires de visite, ...), le mode d'intervention \u00e0 domicile",
+            "code_ogr": "2211",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller l'\u00e9tat g\u00e9n\u00e9ral du patient/r\u00e9sident, lui distribuer les m\u00e9dicaments et informer l'infirmier des manifestations anormales ou des risques de chutes, escarres, ...",
+            "code_ogr": "3350",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mesurer les param\u00e8tres vitaux du patient/r\u00e9sident, contr\u00f4ler les dispositifs et appareillages m\u00e9dicaux et transmettre les informations \u00e0 l'infirmier",
+            "code_ogr": "2302",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les soins d'hygi\u00e8ne corporelle, de confort et de pr\u00e9vention du patient/r\u00e9sident",
+            "code_ogr": "1673",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Aider la personne dans les gestes de la vie quotidienne et rep\u00e9rer les modifications d'\u00e9tat",
+            "code_ogr": "3501",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Distribuer les repas et collations au patient/r\u00e9sident selon les besoins ou la prescription m\u00e9dicale",
+            "code_ogr": "1488",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "6",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports de suivi d'activit\u00e9 et \u00e9changer des informations avec l'\u00e9quipe",
+            "code_ogr": "3051",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9ceptionner et distribuer le linge propre et proc\u00e9der au tri du linge sale du service, du patient/r\u00e9sident",
+            "code_ogr": "2912",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer, d\u00e9sinfecter le mat\u00e9riel, les instruments et \u00e9vacuer les d\u00e9chets",
+            "code_ogr": "2425",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "K1301",
+            "libelle_rome_cible": "Accompagnement m\u00e9dicosocial"
+        },
+        {
+            "code_rome_cible": "K1302",
+            "libelle_rome_cible": "Assistance aupr\u00e8s d'adultes"
+        },
+        {
+            "code_rome_cible": "K2601",
+            "libelle_rome_cible": "Conduite d'op\u00e9rations fun\u00e9raires"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec le Dipl\u00f4me d'Etat d'Aide-soignant -DEAS-.\nDes formations compl\u00e9mentaires (prise en charge de la personne \u00e2g\u00e9e d\u00e9mente, accompagnement de fin de vie, ...) peuvent \u00eatre requises.\nLe permis B peut \u00eatre exig\u00e9 pour l'intervention \u00e0 domicile.\nDes vaccinations pr\u00e9vues par le Code de Sant\u00e9 Publique sont exig\u00e9es.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Intervenir dans un domaine :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "G\u00e9riatrie",
+            "code_ogr": "6509",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Psychiatrie",
+            "code_ogr": "6629",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Soins palliatifs",
+            "code_ogr": "6670",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "3",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "P\u00e9diatrie",
+            "code_ogr": "6603",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "M\u00e9decine",
+            "code_ogr": "6570",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chirurgie",
+            "code_ogr": "6432",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer un patient avant une intervention m\u00e9dicale ou chirurgicale et assister l'infirmier lors de la r\u00e9alisation de soins",
+            "code_ogr": "8023",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Informer les patients/r\u00e9sidents des possibilit\u00e9s d'activit\u00e9s ludiques ou les accompagner dans la r\u00e9alisation de ces activit\u00e9s",
+            "code_ogr": "6169",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser ou participer \u00e0 la r\u00e9alisation de soins mortuaires",
+            "code_ogr": "9263",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer, d\u00e9sinfecter et ranger la chambre et l'installation sanitaire",
+            "code_ogr": "3569",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les op\u00e9rations de st\u00e9rilisation (tri, conditionnement, r\u00e9partition dans les appareils, ...) et actualiser les supports de suivi (date, num\u00e9ro de lot, ...)",
+            "code_ogr": "5410",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'h\u00f4pitaux, cliniques, maisons de retraite, ...ou au domicile de patients en lien avec l'\u00e9quipe de soins (infirmiers, agents de service hospitalier, m\u00e9decins, ...).\nL'activit\u00e9 peut s'exercer en horaires d\u00e9cal\u00e9s, les fins de semaine, jours f\u00e9ri\u00e9s, de nuit, et \u00eatre soumise \u00e0 des astreintes ou des gardes en milieu hospitalier.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Manipulation d'\u00e9quipement (lit m\u00e9dicalis\u00e9, l\u00e8ve malade, ...)",
+            "code_ogr": "20978",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Identification des signes et du degr\u00e9 de la douleur",
+            "code_ogr": "20916",
+            "position_item": "2",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement m\u00e9dical (h\u00f4pital, clinique, ...)",
+            "code_ogr": "23922",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9sidence de personnes \u00e2g\u00e9es",
+            "code_ogr": "24050",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Service de Soins Infirmiers \u00e0 domicile -SSIAD-",
+            "code_ogr": "23634",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Au domicile de particulier",
+            "code_ogr": "23375",
+            "code_type_section_env": "3"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail de nuit",
+            "code_ogr": "38055",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Technique de manipulation de patient",
+            "code_ogr": "22748",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Nursing",
+            "code_ogr": "22238",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et d'asepsie",
+            "code_ogr": "22646",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en di\u00e9t\u00e9tique",
+            "code_ogr": "21849",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de retraitement des d\u00e9chets",
+            "code_ogr": "22430",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Protocoles de lutte contre les infections nosocomiales",
+            "code_ogr": "22501",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pathologies psychiatriques",
+            "code_ogr": "22279",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pathologies du vieillissement",
+            "code_ogr": "22277",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pathologies de l'enfant",
+            "code_ogr": "22274",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Protocoles de soins pr\u00e9 et post-op\u00e9ratoires",
+            "code_ogr": "22505",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de nettoyage et de d\u00e9sinfection",
+            "code_ogr": "22418",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de conditionnement de mat\u00e9riel m\u00e9dicochirurgical",
+            "code_ogr": "22386",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nSurveille l'\u00e9tat de sant\u00e9 des patients, les accompagne dans les gestes de la vie quotidienne et r\u00e9alise des soins d'hygi\u00e8ne, de confort selon la pr\u00e9conisation m\u00e9dicale et les consignes du personnel soignant.\n",
+    "intitule": "Soins d'hygi\u00e8ne, de confort du patient",
+    "code_ogr": "357",
+    "code_rome": "J1501",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "J1304",
+            "libelle_rome_cible": "Aide en pu\u00e9riculture"
+        },
+        {
+            "code_rome_cible": "J1505",
+            "libelle_rome_cible": "Soins infirmiers sp\u00e9cialis\u00e9s en pr\u00e9vention"
+        },
+        {
+            "code_rome_cible": "J1506",
+            "libelle_rome_cible": "Soins infirmiers g\u00e9n\u00e9ralistes"
+        }
+    ]
+}

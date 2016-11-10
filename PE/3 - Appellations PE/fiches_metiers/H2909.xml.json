@@ -1,0 +1,619 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente d'assemblage m\u00e9canique",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'assemblage m\u00e9canique",
+            "code_ogr": "10390"
+        },
+        {
+            "libelle_court": "Agent/Agente de fabrication en montage-assemblage m\u00e9canique",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de fabrication en montage-assemblage m\u00e9canique",
+            "code_ogr": "10451"
+        },
+        {
+            "libelle_court": "Agent / Agente de montage m\u00e9canique",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de montage m\u00e9canique",
+            "code_ogr": "10533"
+        },
+        {
+            "libelle_court": "Agent / Agente de montage-assemblage m\u00e9canique",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de montage-assemblage m\u00e9canique",
+            "code_ogr": "10535"
+        },
+        {
+            "libelle_court": "Agent / Agente de production de montage-assemblage m\u00e9canique",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de production de montage-assemblage m\u00e9canique",
+            "code_ogr": "10561"
+        },
+        {
+            "libelle_court": "Aide-m\u00e9canicien(ne) en montage-assemblage m\u00e9canique",
+            "priorisation": "1",
+            "libelle": "Aide-m\u00e9canicien / Aide-m\u00e9canicienne en montage-assemblage m\u00e9canique",
+            "code_ogr": "10881"
+        },
+        {
+            "libelle_court": "Aide-monteur / Aide-monteuse en montage-assemblage m\u00e9canique",
+            "priorisation": "1",
+            "libelle": "Aide-monteur / Aide-monteuse en montage-assemblage m\u00e9canique",
+            "code_ogr": "10882"
+        },
+        {
+            "libelle_court": "Aide-soudeur / Aide-soudeuse en montage-assemblage m\u00e9canique",
+            "priorisation": "1",
+            "libelle": "Aide-soudeur / Aide-soudeuse en montage-assemblage m\u00e9canique",
+            "code_ogr": "10896"
+        },
+        {
+            "libelle_court": "Assembleur monteur / Assembleuse monteuse",
+            "priorisation": "1",
+            "libelle": "Assembleur monteur / Assembleuse monteuse",
+            "code_ogr": "11175"
+        },
+        {
+            "libelle_court": "Etancheur / Etancheuse en montage-assemblage m\u00e9canique",
+            "priorisation": "1",
+            "libelle": "Etancheur / Etancheuse en montage-assemblage m\u00e9canique",
+            "code_ogr": "14912"
+        },
+        {
+            "libelle_court": "Monteur / Monteuse d'assemblage m\u00e9canique de pr\u00e9cision",
+            "priorisation": "1",
+            "libelle": "Monteur / Monteuse d'assemblage m\u00e9canique de pr\u00e9cision",
+            "code_ogr": "16764"
+        },
+        {
+            "libelle_court": "Monteur / Monteuse de pi\u00e8ces",
+            "priorisation": "1",
+            "libelle": "Monteur / Monteuse de pi\u00e8ces",
+            "code_ogr": "16791"
+        },
+        {
+            "libelle_court": "Monteur / Monteuse en grappe en cire perdue",
+            "priorisation": "1",
+            "libelle": "Monteur / Monteuse en grappe en cire perdue",
+            "code_ogr": "16823"
+        },
+        {
+            "libelle_court": "Monteur / Monteuse en ligne de fabrication automobile",
+            "priorisation": "1",
+            "libelle": "Monteur / Monteuse en ligne de fabrication automobile",
+            "code_ogr": "16829"
+        },
+        {
+            "libelle_court": "Monteur / Monteuse en lunetterie",
+            "priorisation": "1",
+            "libelle": "Monteur / Monteuse en lunetterie",
+            "code_ogr": "16831"
+        },
+        {
+            "libelle_court": "Monteur / Monteuse sur cha\u00eene d'assemblage",
+            "priorisation": "1",
+            "libelle": "Monteur / Monteuse sur cha\u00eene d'assemblage",
+            "code_ogr": "16863"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice d'assemblage m\u00e9canique",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice d'assemblage m\u00e9canique",
+            "code_ogr": "17062"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur(trice) de montage en montage-assemblage m\u00e9canique",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de montage en montage-assemblage m\u00e9canique",
+            "code_ogr": "17124"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice de montage-assemblage m\u00e9canique",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de montage-assemblage m\u00e9canique",
+            "code_ogr": "17122"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur(trice) de prod en montage-assemblage m\u00e9canique",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de production en montage-assemblage m\u00e9canique",
+            "code_ogr": "17154"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice sur ligne de montage m\u00e9canique",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice sur ligne de montage m\u00e9canique",
+            "code_ogr": "17284"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur(trice) polyvalent(e) montage-assemblage m\u00e9canique",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur polyvalent / Op\u00e9ratrice polyvalente montage-assemblage m\u00e9canique",
+            "code_ogr": "17252"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur(trice) qualifi\u00e9(e) de montage de v\u00e9hicules",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur qualifi\u00e9 / Op\u00e9ratrice qualifi\u00e9e de montage de v\u00e9hicules",
+            "code_ogr": "17262"
+        },
+        {
+            "libelle_court": "Ouvrier / Ouvri\u00e8re de montage en assemblage m\u00e9canique",
+            "priorisation": "1",
+            "libelle": "Ouvrier / Ouvri\u00e8re de montage en assemblage m\u00e9canique",
+            "code_ogr": "17447"
+        },
+        {
+            "libelle_court": "Ouvrier / Ouvri\u00e8re de montage en construction automobile",
+            "priorisation": "1",
+            "libelle": "Ouvrier / Ouvri\u00e8re de montage en construction automobile",
+            "code_ogr": "17448"
+        },
+        {
+            "libelle_court": "Ouvrier / Ouvri\u00e8re de montage m\u00e9canique en a\u00e9ronautique",
+            "priorisation": "1",
+            "libelle": "Ouvrier / Ouvri\u00e8re de montage m\u00e9canique en a\u00e9ronautique",
+            "code_ogr": "17450"
+        },
+        {
+            "libelle_court": "Retoucheur(se) \u00e9lectricit\u00e9 en construction automobile",
+            "priorisation": "1",
+            "libelle": "Retoucheur / Retoucheuse \u00e9lectricit\u00e9 en construction automobile",
+            "code_ogr": "19242"
+        },
+        {
+            "libelle_court": "Retoucheur(se) sur t\u00f4les nues en construction automobile",
+            "priorisation": "1",
+            "libelle": "Retoucheur / Retoucheuse sur t\u00f4les nues en construction automobile",
+            "code_ogr": "19250"
+        },
+        {
+            "libelle_court": "Retoucheur(se) sellier(\u00e8re) en construction automobile",
+            "priorisation": "1",
+            "libelle": "Retoucheur sellier / Retoucheuse selli\u00e8re en construction automobile",
+            "code_ogr": "19248"
+        },
+        {
+            "libelle_court": "Rhabilleur / Rhabilleuse en horlogerie",
+            "priorisation": "1",
+            "libelle": "Rhabilleur / Rhabilleuse en horlogerie",
+            "code_ogr": "19258"
+        },
+        {
+            "libelle_court": "Rhabilleur / Rhabilleuse en lunetterie",
+            "priorisation": "1",
+            "libelle": "Rhabilleur / Rhabilleuse en lunetterie",
+            "code_ogr": "19259"
+        },
+        {
+            "libelle_court": "Soudeur / Soudeuse en lunetterie",
+            "priorisation": "1",
+            "libelle": "Soudeur / Soudeuse en lunetterie",
+            "code_ogr": "19464"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier les op\u00e9rations de montage, assemblage, retouche et contr\u00f4ler l'approvisionnement et les outillages du poste de travail",
+            "code_ogr": "2138",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier, positionner et fixer les pi\u00e8ces et les \u00e9l\u00e9ments de l'assemblage (b\u00e2tis, grappes, gabarits, structures, ...)",
+            "code_ogr": "2176",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Alimenter l'\u00e9quipement m\u00e9canis\u00e9 et surveiller l'assemblage et le montage m\u00e9canique des pi\u00e8ces et des \u00e9l\u00e9ments",
+            "code_ogr": "620",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier le montage/assemblage (aspect, parall\u00e9lisme, jeu, maintien, fonctionnement, ...) et proc\u00e9der aux ajustements, retouches",
+            "code_ogr": "3455",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la qualit\u00e9, rep\u00e9rer par marquage et isoler les non-conformit\u00e9s",
+            "code_ogr": "1059",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports qualit\u00e9 et de suivi de production/r\u00e9alisation (incidents, interventions, ...)",
+            "code_ogr": "3068",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "H2604",
+            "libelle_rome_cible": "Montage de produits \u00e9lectriques et \u00e9lectroniques"
+        },
+        {
+            "code_rome_cible": "H2905",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de formage et d\u00e9coupage des mat\u00e9riaux"
+        },
+        {
+            "code_rome_cible": "H2906",
+            "libelle_rome_cible": "Conduite d'installation automatis\u00e9e ou robotis\u00e9e de fabrication m\u00e9canique"
+        },
+        {
+            "code_rome_cible": "H3301",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de conditionnement"
+        },
+        {
+            "code_rome_cible": "H3302",
+            "libelle_rome_cible": "Op\u00e9rations manuelles d'assemblage, tri ou emballage"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un CAP/BEP en m\u00e9canique ou travail des m\u00e9taux.\nIl est \u00e9galement accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle.\nUn ou plusieurs Certificat(s) d'Aptitude \u00e0 la Conduite En S\u00e9curit\u00e9 -CACES- conditionn\u00e9(s) par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement peu(ven)t \u00eatre requis\n",
+    "activite_specifique": [
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-1 (Transpalettes \u00e0 conducteur port\u00e9 et pr\u00e9parateurs de commandes au sol)",
+            "code_ogr": "10122",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-3 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 inf\u00e9rieure ou \u00e9gale \u00e0 6000 kg)",
+            "code_ogr": "10124",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 318 (ponts roulants)",
+            "code_ogr": "10100",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser un montage/assemblage manuel de pr\u00e9cision (petite chaudronnerie, micro-m\u00e9canique, optique, ...)",
+            "code_ogr": "9314",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der aux r\u00e9glages (param\u00e9trage, r\u00e9initialisation, ...) d'un \u00e9quipement de production automatis\u00e9e",
+            "code_ogr": "8176",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer une op\u00e9ration manuelle d'usinage ou de finition de pi\u00e8ces (per\u00e7age, arasage, \u00e9bavurage, pon\u00e7age, ...)",
+            "code_ogr": "5555",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Injecter un mat\u00e9riau (mousse, isolant, r\u00e9sine, colle, ...) lors du montage/assemblage",
+            "code_ogr": "6172",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der \u00e0 des op\u00e9rations de c\u00e2blage \u00e9lectrique",
+            "code_ogr": "8116",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des retouches ou des reprises de finitions de surfaces (t\u00f4le, peinture, ...)",
+            "code_ogr": "9088",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des op\u00e9rations de protection (masquage, emballage, ...) et d'exp\u00e9dition de pi\u00e8ces",
+            "code_ogr": "4981",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises industrielles en relation avec diff\u00e9rents services (maintenance, m\u00e9thodes, qualit\u00e9, ...).\nElle varie selon le secteur (a\u00e9ronautique, automobile, ...), l'organisation (\u00eelots, lignes, ...), le type d'\u00e9quipements (manuels, conventionnels, num\u00e9riques) et le type de produits fabriqu\u00e9s.\nElle peut s'exercer par roulement, les fins de semaine, jours f\u00e9ri\u00e9s ou de nuit.\nLe port d'Equipements de Protection Individuelle -EPI- (chaussures de s\u00e9curit\u00e9, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de documents techniques",
+            "code_ogr": "20939",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outillages manuels (cl\u00e9, pince, scie, ...)",
+            "code_ogr": "21465",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outillages \u00e9lectroportatifs (scie \u00e9lectrique, ponceuse, ...)",
+            "code_ogr": "21464",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils de mesure dimensionnelle",
+            "code_ogr": "21452",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareil optique",
+            "code_ogr": "21150",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise d'insertion",
+            "code_ogr": "23906",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "A\u00e9ronautique, spatial",
+            "code_ogr": "23391",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Alimentaire",
+            "code_ogr": "23395",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Armement",
+            "code_ogr": "23404",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Automobile",
+            "code_ogr": "23410",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chimie",
+            "code_ogr": "23436",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Construction navale",
+            "code_ogr": "23453",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Eco-industrie",
+            "code_ogr": "23469",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electricit\u00e9",
+            "code_ogr": "23474",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electrom\u00e9nager",
+            "code_ogr": "23476",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electronique",
+            "code_ogr": "23477",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Energie, nucl\u00e9aire, fluide",
+            "code_ogr": "23480",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ferroviaire",
+            "code_ogr": "23498",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Machinisme",
+            "code_ogr": "23544",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9canique, travail des m\u00e9taux",
+            "code_ogr": "23552",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9tallurgie, sid\u00e9rurgie",
+            "code_ogr": "23558",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Nautisme",
+            "code_ogr": "23567",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "P\u00e9trochimie",
+            "code_ogr": "23582",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Plasturgie, caoutchouc, composites",
+            "code_ogr": "23585",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sport et loisirs",
+            "code_ogr": "23640",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Transport/logistique",
+            "code_ogr": "23659",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Verre, mat\u00e9riaux de construction",
+            "code_ogr": "23673",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9",
+            "code_ogr": "22621",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes qualit\u00e9",
+            "code_ogr": "22233",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9canique g\u00e9n\u00e9rale",
+            "code_ogr": "21882",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'emballage et de conditionnement",
+            "code_ogr": "23192",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise des op\u00e9rations de montage d'\u00e9l\u00e9ments, pi\u00e8ces, composants d'ensembles m\u00e9caniques au moyen d'outils et de machines, selon les r\u00e8gles de s\u00e9curit\u00e9 et les imp\u00e9ratifs de production (d\u00e9lai, qualit\u00e9).\n",
+    "intitule": "Montage-assemblage m\u00e9canique",
+    "code_ogr": "286",
+    "code_rome": "H2909",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "H1506",
+            "libelle_rome_cible": "Intervention technique qualit\u00e9 en m\u00e9canique et travail des m\u00e9taux"
+        },
+        {
+            "code_rome_cible": "H2503",
+            "libelle_rome_cible": "Pilotage d'unit\u00e9 \u00e9l\u00e9mentaire de production m\u00e9canique ou de travail des m\u00e9taux"
+        },
+        {
+            "code_rome_cible": "H2901",
+            "libelle_rome_cible": "Ajustement et montage de fabrication"
+        },
+        {
+            "code_rome_cible": "H3403",
+            "libelle_rome_cible": "Conduite de traitement thermique"
+        },
+        {
+            "code_rome_cible": "N1101",
+            "libelle_rome_cible": "Conduite d'engins de d\u00e9placement des charges"
+        }
+    ]
+}

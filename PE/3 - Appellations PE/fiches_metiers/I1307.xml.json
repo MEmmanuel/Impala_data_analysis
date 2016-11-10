@@ -1,0 +1,826 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent(e) de maintenance en syst\u00e8mes d'alarme et de s\u00e9curit\u00e9",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de maintenance en syst\u00e8mes d'alarme et de s\u00e9curit\u00e9",
+            "code_ogr": "10500"
+        },
+        {
+            "libelle_court": "Agent / Agente technique en t\u00e9l\u00e9communications",
+            "priorisation": "1",
+            "libelle": "Agent / Agente technique en t\u00e9l\u00e9communications",
+            "code_ogr": "10791"
+        },
+        {
+            "libelle_court": "Agent(e) technique en t\u00e9l\u00e9communications courants faibles",
+            "priorisation": "1",
+            "libelle": "Agent / Agente technique en t\u00e9l\u00e9communications courants faibles",
+            "code_ogr": "10792"
+        },
+        {
+            "libelle_court": "Aide monteur(se) installations en t\u00e9l\u00e9com courants faibles",
+            "priorisation": "1",
+            "libelle": "Aide monteur / monteuse d'installations en t\u00e9l\u00e9communications et courants faibles",
+            "code_ogr": "10858"
+        },
+        {
+            "libelle_court": "Antenniste",
+            "priorisation": "1",
+            "libelle": "Antenniste",
+            "code_ogr": "11075"
+        },
+        {
+            "libelle_court": "Electronicien / Electronicienne radio\u00e9lectricit\u00e9",
+            "priorisation": "1",
+            "libelle": "Electronicien / Electronicienne radio\u00e9lectricit\u00e9",
+            "code_ogr": "14675"
+        },
+        {
+            "libelle_court": "Installateur(trice) syst\u00e8mes s\u00e9curit\u00e9 alarme d\u00e9tect incendie",
+            "priorisation": "1",
+            "libelle": "Installateur / Installatrice de syst\u00e8mes de s\u00e9curit\u00e9, alarme et d\u00e9tection incendie",
+            "code_ogr": "16003"
+        },
+        {
+            "libelle_court": "Installateur / Installatrice en t\u00e9l\u00e9communications",
+            "priorisation": "1",
+            "libelle": "Installateur / Installatrice en t\u00e9l\u00e9communications",
+            "code_ogr": "16005"
+        },
+        {
+            "libelle_court": "Monteur / Monteuse installation t\u00e9l\u00e9com et courants faibles",
+            "priorisation": "1",
+            "libelle": "Monteur / Monteuse d'installation en t\u00e9l\u00e9communications et courants faibles",
+            "code_ogr": "16798"
+        },
+        {
+            "libelle_court": "Monteur / Monteuse en paraboles et antennes",
+            "priorisation": "1",
+            "libelle": "Monteur / Monteuse en paraboles et antennes",
+            "code_ogr": "16835"
+        },
+        {
+            "libelle_court": "Monteur-installateur / Monteuse-installatrice d'alarmes",
+            "priorisation": "1",
+            "libelle": "Monteur-installateur / Monteuse-installatrice d'alarmes",
+            "code_ogr": "16890"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne de d\u00e9ploiement t\u00e9l\u00e9com",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de d\u00e9ploiement t\u00e9l\u00e9com",
+            "code_ogr": "19745"
+        },
+        {
+            "libelle_court": "Technicien(ne) de maintenance r\u00e9seaux c\u00e2bl\u00e9s fibre optique",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de maintenance de r\u00e9seaux c\u00e2bl\u00e9s de communication en fibre optique",
+            "code_ogr": "38729"
+        },
+        {
+            "libelle_court": "Technicien/Technicienne de maintenance des syst\u00e8mes d'alarme",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de maintenance des syst\u00e8mes d'alarme",
+            "code_ogr": "19828"
+        },
+        {
+            "libelle_court": "Technicien(ne) maintenance syst\u00e8mes alarme t\u00e9l\u00e9surveillance",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de maintenance des syst\u00e8mes d'alarme et de t\u00e9l\u00e9surveillance",
+            "code_ogr": "19829"
+        },
+        {
+            "libelle_court": "Technicien(ne) maintenance installations vid\u00e9o-surveillance",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de maintenance en installations de vid\u00e9o-surveillance",
+            "code_ogr": "19843"
+        },
+        {
+            "libelle_court": "Technicien(ne) maintenance en syst\u00e8mes alarme et s\u00e9curit\u00e9",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de maintenance en syst\u00e8mes d'alarme et de s\u00e9curit\u00e9",
+            "code_ogr": "19865"
+        },
+        {
+            "libelle_court": "Technicien/Technicienne de maintenance en t\u00e9l\u00e9communications",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de maintenance en t\u00e9l\u00e9communications",
+            "code_ogr": "19866"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne de maintenance en t\u00e9l\u00e9phonie",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de maintenance en t\u00e9l\u00e9phonie",
+            "code_ogr": "19867"
+        },
+        {
+            "libelle_court": "Technicien(ne) de maintenance s\u00e9curit\u00e9 alarme incendie",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de maintenance s\u00e9curit\u00e9 alarme incendie",
+            "code_ogr": "19874"
+        },
+        {
+            "libelle_court": "Technicien(ne) d'essais et de contr\u00f4le en t\u00e9l\u00e9communications",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne d'essais et de contr\u00f4le en t\u00e9l\u00e9communications",
+            "code_ogr": "19956"
+        },
+        {
+            "libelle_court": "Technicien(ne) d'installation de centrales t\u00e9l\u00e9phoniques",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne d'installation de centrales t\u00e9l\u00e9phoniques",
+            "code_ogr": "19992"
+        },
+        {
+            "libelle_court": "Technicien(ne) installation r\u00e9seaux c\u00e2bl\u00e9s fibre optique",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne d'installation de r\u00e9seaux c\u00e2bl\u00e9s de communication en fibre optique",
+            "code_ogr": "38728"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne d'installation en courants faibles",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne d'installation en courants faibles",
+            "code_ogr": "19998"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne d'installation en domotique",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne d'installation en domotique",
+            "code_ogr": "19999"
+        },
+        {
+            "libelle_court": "Technicien/Technicienne d'installation en t\u00e9l\u00e9communications",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne d'installation en t\u00e9l\u00e9communications",
+            "code_ogr": "20000"
+        },
+        {
+            "libelle_court": "Technicien(ne) d'installation en t\u00e9l\u00e9com courants faibles",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne d'installation en t\u00e9l\u00e9communications courants faibles",
+            "code_ogr": "20001"
+        },
+        {
+            "libelle_court": "Technicien(ne) d'installation en t\u00e9l\u00e9communications et radio",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne d'installation en t\u00e9l\u00e9communications et radio",
+            "code_ogr": "20002"
+        },
+        {
+            "libelle_court": "Technicien(ne) en installations de surveillance intrusion",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en installations de surveillance intrusion",
+            "code_ogr": "20079"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne en radiocommunication",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en radiocommunication",
+            "code_ogr": "20108"
+        },
+        {
+            "libelle_court": "Technicien(ne) en radiocommunication courants faibles",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en radiocommunication courants faibles",
+            "code_ogr": "20109"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne en t\u00e9l\u00e9communications",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en t\u00e9l\u00e9communications",
+            "code_ogr": "20128"
+        },
+        {
+            "libelle_court": "Technicien(ne) en t\u00e9l\u00e9communications et r\u00e9seaux d'entreprise",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en t\u00e9l\u00e9communications et r\u00e9seaux d'entreprise",
+            "code_ogr": "20129"
+        },
+        {
+            "libelle_court": "Technicien(ne) installation int\u00e9gration en t\u00e9l\u00e9com",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne installation int\u00e9gration en t\u00e9l\u00e9communications et r\u00e9seaux d'entreprise",
+            "code_ogr": "20172"
+        },
+        {
+            "libelle_court": "Technicien(ne) r\u00e9seaux et t\u00e9l\u00e9communications d'entreprise",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne r\u00e9seaux et t\u00e9l\u00e9communications d'entreprise",
+            "code_ogr": "20242"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne s\u00e9curit\u00e9-alarme",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne s\u00e9curit\u00e9-alarme",
+            "code_ogr": "20251"
+        },
+        {
+            "libelle_court": "Technicien(ne) expert(e) installation t\u00e9l\u00e9com",
+            "priorisation": "1",
+            "libelle": "Technicien expert / Technicienne experte en installation int\u00e9gration en t\u00e9l\u00e9communications et r\u00e9seaux d'entreprise",
+            "code_ogr": "20140"
+        },
+        {
+            "libelle_court": "Technicien(ne) sp\u00e9cialis\u00e9(e) installation t\u00e9l\u00e9communications",
+            "priorisation": "1",
+            "libelle": "Technicien sp\u00e9cialis\u00e9 / Technicienne sp\u00e9cialis\u00e9e en installation et int\u00e9gration en t\u00e9l\u00e9communications et r\u00e9seaux d'entreprise",
+            "code_ogr": "20261"
+        },
+        {
+            "libelle_court": "Technicien(ne) sp\u00e9cialis\u00e9(e) t\u00e9l\u00e9com et r\u00e9seaux d'entreprise",
+            "priorisation": "1",
+            "libelle": "Technicien sp\u00e9cialis\u00e9 / Technicienne sp\u00e9cialis\u00e9e en t\u00e9l\u00e9communications et r\u00e9seaux d'entreprise",
+            "code_ogr": "20262"
+        },
+        {
+            "libelle_court": "Testeur / Testeuse en t\u00e9l\u00e9communications",
+            "priorisation": "1",
+            "libelle": "Testeur / Testeuse en t\u00e9l\u00e9communications",
+            "code_ogr": "20313"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier les phases d'intervention \u00e0 partir des informations du diagnostic help desk, de la hot line, des dossiers constructeur",
+            "code_ogr": "2149",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Poser les bo\u00eetes de raccordements (r\u00e9partiteurs, prises, ...) et les connecter sur les c\u00e2bles existants",
+            "code_ogr": "2529",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier les mat\u00e9riels \u00e0 int\u00e9grer \u00e0 partir du cahier des charges, des notices techniques, ... et assembler les \u00e9l\u00e9ments de l'\u00e9quipement",
+            "code_ogr": "2126",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Installer l'\u00e9quipement sur le site et le connecter aux r\u00e9seaux ext\u00e9rieurs",
+            "code_ogr": "2246",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Configurer ou param\u00e9trer l'\u00e9quipement de t\u00e9l\u00e9communication, de courants faibles et effectuer les essais fonctionnels",
+            "code_ogr": "929",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier la conformit\u00e9 de l'installation sur site, help desk, hot line, ... par rapport \u00e0 la commande",
+            "code_ogr": "3405",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Remettre les syst\u00e8mes en \u00e9tat de fonctionnement par \u00e9change standard ou r\u00e9fection d'ensemble ou de sous-ensemble",
+            "code_ogr": "3009",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports de suivi d'intervention et transmettre les informations au service concern\u00e9",
+            "code_ogr": "3063",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "8",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "F1605",
+            "libelle_rome_cible": "Montage de r\u00e9seaux \u00e9lectriques et t\u00e9l\u00e9coms"
+        },
+        {
+            "code_rome_cible": "I1401",
+            "libelle_rome_cible": "Maintenance informatique et bureautique"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un Bac professionnel ou un Bac+2 (BTS/DUT) en t\u00e9l\u00e9communication, r\u00e9seaux, informatique, \u00e9lectronique, \u00e9lectrotechnique.\nIl est \u00e9galement accessible avec un CAP/BEP dans les m\u00eames secteurs, compl\u00e9t\u00e9 par une exp\u00e9rience professionnelle.\nUne habilitation aux risques d'origine \u00e9lectrique est exig\u00e9e.\nLa pratique de l'anglais (vocabulaire technique) peut \u00eatre demand\u00e9e.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Intervenir sur un type d'installation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Domotique",
+            "code_ogr": "7249",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Equipement de sonorisation",
+            "code_ogr": "7250",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Equipements et r\u00e9seaux informatiques",
+            "code_ogr": "7251",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveillance-intrusion d'une habitation",
+            "code_ogr": "7253",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveillance-intrusion de locaux professionnels",
+            "code_ogr": "7252",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Syst\u00e8mes de s\u00e9curit\u00e9-incendie",
+            "code_ogr": "7254",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "T\u00e9l\u00e9phonie analogique",
+            "code_ogr": "7255",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "T\u00e9l\u00e9phonie num\u00e9rique",
+            "code_ogr": "7256",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "T\u00e9l\u00e9phonie sans fils",
+            "code_ogr": "7257",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Intervenir sur des r\u00e9seaux :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Asymtric Digital Subscriber Line -ADSL-",
+            "code_ogr": "7129",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Digital Subscriber Line -DSL-",
+            "code_ogr": "7130",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Digital System for Mobile Communications -DECT-",
+            "code_ogr": "7131",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Local Area Network -LAN-",
+            "code_ogr": "7132",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Private Automatic Branch eXchange -PABX-",
+            "code_ogr": "7133",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9seau de fibre optique Fiber To The Home - FTTH",
+            "code_ogr": "38683",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Voies-Donn\u00e9es-Images -VDI-",
+            "code_ogr": "7134",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Wide Area Network -WAN-",
+            "code_ogr": "7135",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des interventions n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation \u00e9lectrique, travaux hors tension (B0, B0V, B1 B1V, H0, ...)",
+            "code_ogr": "8481",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation \u00e9lectrique, travaux sous tension (B1T, BN, BR, H1T, ...)",
+            "code_ogr": "8482",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Assurer une assistance \u00e0 distance aux utilisateurs d'\u00e9quipements",
+            "code_ogr": "3851",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mettre \u00e0 jour et faire \u00e9voluer les \u00e9quipements de t\u00e9l\u00e9communication ou de courants faibles",
+            "code_ogr": "7430",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conseiller un client sur le choix d'un \u00e9quipement de t\u00e9l\u00e9communication ou de courants faibles",
+            "code_ogr": "4158",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Evaluer des co\u00fbts et d\u00e9lais de remise en \u00e9tat et \u00e9tablir un devis d'intervention",
+            "code_ogr": "5868",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de soci\u00e9t\u00e9s d'installateurs-int\u00e9grateurs, d'assembleurs, de services de maintenance d'entreprises, de constructeurs de mat\u00e9riels, de revendeurs, ... en relation avec les clients et diff\u00e9rents services (administratif, comptabilit\u00e9, ...). Elle peut impliquer des d\u00e9placements.\nElle varie selon le type d'intervention (assistance hot line, help desk, int\u00e9gration en atelier, sur plate-forme, d\u00e9ploiement sur sites clients, ...).\nL'activit\u00e9 peut s'exercer les fins de semaine, jours f\u00e9ri\u00e9s et \u00eatre soumise \u00e0 des astreintes.\nElle peut s'effectuer \u00e0 l'ext\u00e9rieur, parfois en hauteur et impliquer le port de charges.\nLe port d'\u00e9quipements de protection (chaussures de s\u00e9curit\u00e9, gants, ...) peut \u00eatre requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan, de sch\u00e9ma",
+            "code_ogr": "20956",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils de mesure \u00e9lectrique (multim\u00e8tre, ...)",
+            "code_ogr": "21156",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils de mesure optique (r\u00e9flectom\u00e8tre, wattm\u00e8tre optique, ...)",
+            "code_ogr": "38701",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'analyseur de protocole de r\u00e9seaux",
+            "code_ogr": "21131",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'analyseur de protocole de t\u00e9l\u00e9communication",
+            "code_ogr": "21132",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de soudeuse \u00e0 fibres optiques",
+            "code_ogr": "38700",
+            "position_item": "6",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion d'appels t\u00e9l\u00e9phoniques",
+            "code_ogr": "21253",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciel de t\u00e9l\u00e9traitement",
+            "code_ogr": "21236",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chiffrage/calcul de co\u00fbt",
+            "code_ogr": "20813",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de Services Num\u00e9riques - ESN",
+            "code_ogr": "24095",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Fabricant assembleur",
+            "code_ogr": "23934",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Installateur-int\u00e9grateur courants faibles",
+            "code_ogr": "23973",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur de r\u00e9seaux c\u00e2bl\u00e9s de communications \u00e9lectroniques",
+            "code_ogr": "38678",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Administration / Services de l'Etat",
+            "code_ogr": "23388",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Informatique et t\u00e9l\u00e9communications",
+            "code_ogr": "23535",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Protocoles et normes t\u00e9l\u00e9coms",
+            "code_ogr": "22509",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Protocoles IP",
+            "code_ogr": "22510",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Architecture d'un r\u00e9seau t\u00e9l\u00e9phonique commut\u00e9",
+            "code_ogr": "21514",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisation d'une baie de brassage",
+            "code_ogr": "22254",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electricit\u00e9",
+            "code_ogr": "21825",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electronique",
+            "code_ogr": "21833",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Informatique",
+            "code_ogr": "22045",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Micro-informatique",
+            "code_ogr": "22157",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des MOdulateurs DEModulateurs -MODEM-",
+            "code_ogr": "21621",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Technologies radiofr\u00e9quences (\u00e9quipements, supports, protocoles)",
+            "code_ogr": "23269",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Technologie des fibres optiques",
+            "code_ogr": "23259",
+            "position_item": "11",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Traitement du son",
+            "code_ogr": "23293",
+            "position_item": "12",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nEffectue l'entretien, le d\u00e9pannage, l'assemblage et l'installation d'\u00e9quipements de t\u00e9l\u00e9communication ou de technologie des courants faibles (alarme anti-intrusion, alarme incendie, contr\u00f4le d'acc\u00e8s, interphone, surveillance vid\u00e9o, ...), selon les r\u00e8gles de s\u00e9curit\u00e9 et la r\u00e9glementation. Intervient sur les mat\u00e9riels (centraux t\u00e9l\u00e9phoniques, ...), les logiciels de configuration ou sur les r\u00e9seaux de communication.\nPeut conseiller, former et assister les utilisateurs, sur site, par t\u00e9l\u00e9maintenance ou t\u00e9l\u00e9assistance.\n",
+    "intitule": "Installation et maintenance t\u00e9l\u00e9coms et courants faibles",
+    "code_ogr": "316",
+    "code_rome": "I1307",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1402",
+            "libelle_rome_cible": "Relation commerciale grands comptes et entreprises"
+        },
+        {
+            "code_rome_cible": "D1407",
+            "libelle_rome_cible": "Relation technico-commerciale"
+        },
+        {
+            "code_rome_cible": "H1101",
+            "libelle_rome_cible": "Assistance et support technique client"
+        },
+        {
+            "code_rome_cible": "H1202",
+            "libelle_rome_cible": "Conception et dessin de produits \u00e9lectriques et \u00e9lectroniques"
+        },
+        {
+            "code_rome_cible": "H1209",
+            "libelle_rome_cible": "Intervention technique en \u00e9tudes et d\u00e9veloppement \u00e9lectronique"
+        },
+        {
+            "code_rome_cible": "I1402",
+            "libelle_rome_cible": "R\u00e9paration de biens \u00e9lectrodomestiques"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        },
+        {
+            "code_rome_cible": "M1801",
+            "libelle_rome_cible": "Administration de syst\u00e8mes d'information"
+        },
+        {
+            "code_rome_cible": "M1802",
+            "libelle_rome_cible": "Expertise et support en syst\u00e8mes d'information"
+        },
+        {
+            "code_rome_cible": "M1804",
+            "libelle_rome_cible": "\u00c9tudes et d\u00e9veloppement de r\u00e9seaux de t\u00e9l\u00e9coms"
+        },
+        {
+            "code_rome_cible": "M1810",
+            "libelle_rome_cible": "Production et exploitation de syst\u00e8mes d'information"
+        }
+    ]
+}

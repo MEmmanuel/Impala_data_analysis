@@ -1,0 +1,377 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente de back-office",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de back-office",
+            "code_ogr": "10393"
+        },
+        {
+            "libelle_court": "Agent / Agente de middle-office",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de middle-office",
+            "code_ogr": "10528"
+        },
+        {
+            "libelle_court": "Charg\u00e9 / Charg\u00e9e de back-office",
+            "priorisation": "1",
+            "libelle": "Charg\u00e9 / Charg\u00e9e de back-office",
+            "code_ogr": "11765"
+        },
+        {
+            "libelle_court": "Expert / Experte back-office",
+            "priorisation": "1",
+            "libelle": "Expert / Experte back-office",
+            "code_ogr": "14933"
+        },
+        {
+            "libelle_court": "Expert / Experte middle-office",
+            "priorisation": "1",
+            "libelle": "Expert / Experte middle-office",
+            "code_ogr": "14954"
+        },
+        {
+            "libelle_court": "Gestionnaire de middle-office",
+            "priorisation": "1",
+            "libelle": "Gestionnaire de middle-office",
+            "code_ogr": "15335"
+        },
+        {
+            "libelle_court": "Gestionnaire des op\u00e9rations sur les march\u00e9s financiers",
+            "priorisation": "1",
+            "libelle": "Gestionnaire des op\u00e9rations sur les march\u00e9s financiers",
+            "code_ogr": "15357"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice back-office",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice back-office",
+            "code_ogr": "17048"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice middle-office",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice middle-office",
+            "code_ogr": "17241"
+        },
+        {
+            "libelle_court": "Responsable de back-office",
+            "priorisation": "1",
+            "libelle": "Responsable de back-office",
+            "code_ogr": "18660"
+        },
+        {
+            "libelle_court": "Responsable de middle-office",
+            "priorisation": "1",
+            "libelle": "Responsable de middle-office",
+            "code_ogr": "18792"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Param\u00e9trer les outils de gestion des op\u00e9rations de march\u00e9 (cession, confirmation, r\u00e8glement/livraison, ...) apr\u00e8s mise \u00e0 jour des r\u00e9f\u00e9rentiels (valeurs, portefeuille, \u00e9metteur, ...)",
+            "code_ogr": "2489",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9terminer les r\u00e9sultats quotidiens par produit, ligne de produits (titres, taux, ...) et \u00e9tablir les courbes d'\u00e9volution",
+            "code_ogr": "1446",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier les enregistrements comptables des op\u00e9rations de march\u00e9 et corriger les \u00e9carts par rapport aux \u00e9tats des op\u00e9rateurs/n\u00e9gociateurs",
+            "code_ogr": "3467",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Valoriser les portefeuilles d'actifs financiers en continu",
+            "code_ogr": "3388",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la gestion des r\u00e8glements/livraisons (message de paiement, contr\u00f4le de d\u00e9nouement, ...) et des \u00e9v\u00e8nements sur titres (paiement de coupon/dividende, ...)",
+            "code_ogr": "1513",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler le respect des limites des sommes engag\u00e9es par les op\u00e9rateurs financiers et prendre les mesures correctives",
+            "code_ogr": "1110",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir les rapports p\u00e9riodiques de gestion, de performance, ...",
+            "code_ogr": "1894",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "7",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "C1205",
+            "libelle_rome_cible": "Conseil en gestion de patrimoine financier"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un Master (M1, Master professionnel, grandes \u00e9coles, ...) en finance ou gestion.\nIl est \u00e9galement accessible avec un dipl\u00f4me de niveau Bac+2 (BTS, DUT, ...) en commerce, gestion ou banque compl\u00e9t\u00e9 par une exp\u00e9rience professionnelle dans le secteur financier.\nLa pratique de l'anglais peut \u00eatre exig\u00e9e.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser une activit\u00e9 n\u00e9cessitant :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "La certification AMF ou une \u00e9valuation des savoirs d\u00e9finie par l'Autorit\u00e9 des March\u00e9s Financiers",
+            "code_ogr": "38306",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9terminer et mettre en place les proc\u00e9dures de traitement des op\u00e9rations de march\u00e9 (confirmation des ordres pass\u00e9s, r\u00e8glement/livraison des produits, ...)",
+            "code_ogr": "4654",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler la conformit\u00e9 de traitement des op\u00e9rations boursi\u00e8res (proc\u00e9dures de l'autorit\u00e9 des march\u00e9s financiers, ...) et appliquer des mesures correctives",
+            "code_ogr": "4209",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre les relations commerciales avec les clients donneurs d'ordre, actionnaires, ...",
+            "code_ogr": "9734",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir les d\u00e9clarations l\u00e9gales (titres et cr\u00e9ances n\u00e9gociables \u00e0 la Banque de France, op\u00e9rations r\u00e9alis\u00e9es au Tr\u00e9sor Public, ...)",
+            "code_ogr": "5831",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser le suivi qualit\u00e9 des proc\u00e9dures de traitement des op\u00e9rations de march\u00e9 (d\u00e9lai, taux d'erreur, ...)",
+            "code_ogr": "9218",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de soci\u00e9t\u00e9s de bourse, de soci\u00e9t\u00e9s d'investissement, de banques, en relation avec diff\u00e9rents interlocuteurs (traders, n\u00e9gociateurs, ...). Elle peut impliquer des d\u00e9placements internationaux.\nElle varie selon le secteur (titres, produits d\u00e9riv\u00e9s, ...).\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Analyse d'indicateurs financiers",
+            "code_ogr": "20756",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Calculs financiers",
+            "code_ogr": "20811",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Argumentation commerciale",
+            "code_ogr": "20786",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement bancaire et financier",
+            "code_ogr": "23914",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de bourse",
+            "code_ogr": "24079",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de conseil et gestion de patrimoine",
+            "code_ogr": "24082",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 d'investissement",
+            "code_ogr": "24102",
+            "code_type_section_env": "1"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Ratios de contr\u00f4le",
+            "code_ogr": "22522",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Typologie des syst\u00e8mes de r\u00e8glement",
+            "code_ogr": "23358",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Economie des march\u00e9s financiers",
+            "code_ogr": "21823",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Comptabilit\u00e9 g\u00e9n\u00e9rale",
+            "code_ogr": "21738",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Loi de s\u00e9curit\u00e9 financi\u00e8re",
+            "code_ogr": "22089",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9thodes de valorisation",
+            "code_ogr": "22114",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des produits financiers",
+            "code_ogr": "21645",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Analyse statistique",
+            "code_ogr": "22721",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Processus de traitement des op\u00e9rations sur titres",
+            "code_ogr": "22481",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation des march\u00e9s financiers",
+            "code_ogr": "22545",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Fiscalit\u00e9",
+            "code_ogr": "21947",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nOrganise le suivi, le contr\u00f4le et l'enregistrement des op\u00e9rations r\u00e9alis\u00e9es sur les march\u00e9s financiers (de change, de titres, ...) selon les proc\u00e9dures qualit\u00e9 de l'\u00e9tablissement d'appartenance et les r\u00e9glementations bancaires et financi\u00e8res.\nPeut d\u00e9finir les proc\u00e9dures de traitement des op\u00e9rations de march\u00e9. Peut r\u00e9aliser le suivi qualit\u00e9 des proc\u00e9dures administratives.\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "Gestion back et middle-office march\u00e9s financiers",
+    "code_ogr": "73",
+    "code_rome": "C1302",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "C1207",
+            "libelle_rome_cible": "Management en exploitation bancaire"
+        },
+        {
+            "code_rome_cible": "K1903",
+            "libelle_rome_cible": "D\u00e9fense et conseil juridique"
+        },
+        {
+            "code_rome_cible": "M1201",
+            "libelle_rome_cible": "Analyse et ing\u00e9nierie financi\u00e8re"
+        },
+        {
+            "code_rome_cible": "M1202",
+            "libelle_rome_cible": "Audit et contr\u00f4le comptables et financiers"
+        },
+        {
+            "code_rome_cible": "M1204",
+            "libelle_rome_cible": "Contr\u00f4le de gestion"
+        }
+    ]
+}

@@ -1,0 +1,641 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent(e) manoeuvre, conduite d'engins lourds de manutention",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de manoeuvre et de conduite d'engins lourds de manutention",
+            "code_ogr": "10522"
+        },
+        {
+            "libelle_court": "Chef de cellule grue et portique de l'arm\u00e9e",
+            "priorisation": "1",
+            "libelle": "Chef de cellule grue et portique de l'arm\u00e9e",
+            "code_ogr": "12083"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice d'auto-grue",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice d'auto-grue",
+            "code_ogr": "12876"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de grue mobile",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de grue mobile",
+            "code_ogr": "12963"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de grue sur porteur",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de grue sur porteur",
+            "code_ogr": "12966"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de pont roulant",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de pont roulant",
+            "code_ogr": "13137"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de portique",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de portique",
+            "code_ogr": "13138"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice d'engins lourds de manutention",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice d'engins lourds de manutention",
+            "code_ogr": "13257"
+        },
+        {
+            "libelle_court": "Eclusier / Eclusi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Eclusier / Eclusi\u00e8re",
+            "code_ogr": "14560"
+        },
+        {
+            "libelle_court": "Eclusier-barragiste / Eclusi\u00e8re-barragiste",
+            "priorisation": "1",
+            "libelle": "Eclusier-barragiste / Eclusi\u00e8re-barragiste",
+            "code_ogr": "14561"
+        },
+        {
+            "libelle_court": "Pontier / Ponti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Pontier / Ponti\u00e8re",
+            "code_ogr": "17884"
+        },
+        {
+            "libelle_court": "Pontier \u00e9clusier r\u00e9gulateur / Ponti\u00e8re \u00e9clusi\u00e8re r\u00e9gulatrice",
+            "priorisation": "1",
+            "libelle": "Pontier \u00e9clusier r\u00e9gulateur / Ponti\u00e8re \u00e9clusi\u00e8re r\u00e9gulatrice",
+            "code_ogr": "17885"
+        },
+        {
+            "libelle_court": "Pontier \u00e9lingueur / Ponti\u00e8re \u00e9lingueuse",
+            "priorisation": "1",
+            "libelle": "Pontier \u00e9lingueur / Ponti\u00e8re \u00e9lingueuse",
+            "code_ogr": "17886"
+        },
+        {
+            "libelle_court": "Pontonnier / Pontonni\u00e8re",
+            "priorisation": "1",
+            "libelle": "Pontonnier / Pontonni\u00e8re",
+            "code_ogr": "17887"
+        },
+        {
+            "libelle_court": "Portiqueur / Portiqueuse",
+            "priorisation": "1",
+            "libelle": "Portiqueur / Portiqueuse",
+            "code_ogr": "17899"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Contr\u00f4ler l'\u00e9tat, le fonctionnement de l'engin et le positionner en fonction des manoeuvres",
+            "code_ogr": "1633",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser les op\u00e9rations de levage et de d\u00e9placement des charges selon les indications des \u00e9quipes au sol",
+            "code_ogr": "2852",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mettre en s\u00e9curit\u00e9 l'engin de manutention et les \u00e9quipements",
+            "code_ogr": "2713",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien de premier niveau de l'engin et des \u00e9quipements",
+            "code_ogr": "3544",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "F1301",
+            "libelle_rome_cible": "Conduite de grue"
+        },
+        {
+            "code_rome_cible": "F1706",
+            "libelle_rome_cible": "Pr\u00e9fabrication en b\u00e9ton industriel"
+        },
+        {
+            "code_rome_cible": "N1101",
+            "libelle_rome_cible": "Conduite d'engins de d\u00e9placement des charges"
+        },
+        {
+            "code_rome_cible": "N3202",
+            "libelle_rome_cible": "Exploitation du transport fluvial"
+        },
+        {
+            "code_rome_cible": "N3203",
+            "libelle_rome_cible": "Manutention portuaire"
+        },
+        {
+            "code_rome_cible": "N4402",
+            "libelle_rome_cible": "Exploitation et manoeuvre des remont\u00e9es m\u00e9caniques"
+        },
+        {
+            "code_rome_cible": "N4403",
+            "libelle_rome_cible": "Manoeuvre du r\u00e9seau ferr\u00e9"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible \u00e0 partir d'un CAP/BEP en \u00e9lectrotechnique, \u00e9lectrom\u00e9canique, maintenance industrielle.\nIl est \u00e9galement accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle.\nUn ou plusieurs Certificat(s) d'Aptitude \u00e0 la Conduite en S\u00e9curit\u00e9 -CACES- conditionn\u00e9(s) par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement est (sont) exig\u00e9(s) pour la conduite d'engins motoris\u00e9s (pont roulant, grue mobile, ...).\nDes habilitations sp\u00e9cifiques (certificats de formation ADR) peuvent \u00eatre requises selon les produits transport\u00e9s (produits p\u00e9troliers, radioactifs, ...) d\u00e9finis par un code ONU.\nLes permis poids lourds C, C1, CE, C1E (pr\u00e9c\u00e9demment C ou EC) compl\u00e9t\u00e9s par la Formation Initiale Minimale Obligatoire -FIMO- peuvent \u00eatre demand\u00e9s. Un renouvellement p\u00e9riodique de la FIMO par la Formation Continue Obligatoire -FCO- est exig\u00e9.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "FIMO option marchandises",
+            "code_ogr": "10131",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "FCO option marchandises",
+            "code_ogr": "10130",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Certificat de formation ADR - Formation de base (mati\u00e8res ou liquides dangereux)",
+            "code_ogr": "10129",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 318 (ponts roulants)",
+            "code_ogr": "10100",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 383 (Grues mobiles)",
+            "code_ogr": "10114",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 386 (Plates-formes \u00e9l\u00e9vatrices mobiles de personnes)",
+            "code_ogr": "10120",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389 (Chariots automoteurs de manutention \u00e0 conducteur port\u00e9)",
+            "code_ogr": "10121",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Lever des charges n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Certificat de formation ADR - Citerne",
+            "code_ogr": "7305",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Certificat de formation ADR - Citerne \u00e9tendue",
+            "code_ogr": "38926",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Certificat de formation ADR - Citerne gaz",
+            "code_ogr": "7306",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Certificat de formation ADR - Sp\u00e9cialisation classe 1 (explosible)",
+            "code_ogr": "7307",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Certificat de formation ADR - Sp\u00e9cialisation classe 7 (mati\u00e8res radioactives)",
+            "code_ogr": "38927",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Certificat de formation ADR - Sp\u00e9cialisation GPL",
+            "code_ogr": "7308",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Certificat de formation ADR - Sp\u00e9cialisation produits p\u00e9troliers",
+            "code_ogr": "7309",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Lever des masses :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bateaux",
+            "code_ogr": "7310",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "C\u00e9r\u00e9ales",
+            "code_ogr": "7311",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conteneurs",
+            "code_ogr": "7312",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Grumes",
+            "code_ogr": "7313",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "M\u00e9tal en fusion",
+            "code_ogr": "7315",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mati\u00e8res dangereuses",
+            "code_ogr": "7314",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Produits pond\u00e9reux (minerai, charbon, ...)",
+            "code_ogr": "7316",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Actualiser un carnet de bord d'engin (registre d'entretien, interventions, dysfonctionnements, ...)",
+            "code_ogr": "3668",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer le mat\u00e9riel de manutention (ridoirs, plots, godets, pinces, ...)",
+            "code_ogr": "7980",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports de suivi d'activit\u00e9 et transmettre les informations au service concern\u00e9",
+            "code_ogr": "3600",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Actionner et manoeuvrer des \u00e9quipements :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ecluse",
+            "code_ogr": "3655",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Grue de quai",
+            "code_ogr": "3656",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Passerelle",
+            "code_ogr": "3657",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pont-mobile",
+            "code_ogr": "3658",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Portique",
+            "code_ogr": "3659",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce sur des zones de fret (gare, plate-forme logistique, terminal portuaire, ...) pour des entreprises industrielles (sid\u00e9rurgie, ...) ou de services (location de mat\u00e9riel, ...), des chantiers navals (construction, r\u00e9paration, ...).\nElle varie selon le lieu d'exercice (quai, chantier naval, site industriel, ...) et le type de charges manipul\u00e9es (conteneurs, voitures, grumes, pond\u00e9reux, ...).\nElle peut s'exercer les fins de semaine, jours f\u00e9ri\u00e9s ou de nuit.\nL'activit\u00e9 peut s'effectuer au sol (t\u00e9l\u00e9commande) ou en cabine situ\u00e9e \u00e0 hauteur variable.\nLe port d'\u00e9quipements de protection (chaussures de s\u00e9curit\u00e9, gants, casques, gilet fluorescent, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'an\u00e9mom\u00e8tre",
+            "code_ogr": "21133",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils de radiocommunication",
+            "code_ogr": "21472",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de console de visualisation et de r\u00e9gulation",
+            "code_ogr": "21190",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de forage/extraction",
+            "code_ogr": "23877",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de levage, manutention",
+            "code_ogr": "23878",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de location de mat\u00e9riels",
+            "code_ogr": "23880",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de transport multi-modal (fret maritime, fluvial, ferroviaire, ...)",
+            "code_ogr": "23897",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise publique/\u00e9tablissement public",
+            "code_ogr": "23912",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie manufacturi\u00e8re",
+            "code_ogr": "23969",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Agriculture",
+            "code_ogr": "23394",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent et Travaux Publics -BTP-",
+            "code_ogr": "23420",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Commerce/grande distribution",
+            "code_ogr": "23445",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Immobilier",
+            "code_ogr": "23523",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "P\u00eache",
+            "code_ogr": "23577",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sylviculture",
+            "code_ogr": "23645",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Transport/logistique",
+            "code_ogr": "23659",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles et consignes de s\u00e9curit\u00e9",
+            "code_ogr": "22656",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des engins de levage",
+            "code_ogr": "21576",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9canique g\u00e9n\u00e9rale",
+            "code_ogr": "21882",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en hydraulique",
+            "code_ogr": "21875",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en \u00e9lectricit\u00e9",
+            "code_ogr": "21859",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principe d'inertie des masses d'\u00e9quilibrage des charges",
+            "code_ogr": "22310",
+            "position_item": "6",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise des manoeuvres ou la conduite d'engins lourds de manutention (portique, pont roulant, ...) en vue du chargement/d\u00e9chargement, transbordement, levage, positionnement de masses de toutes natures (conteneurs, mati\u00e8res dangereuses, machines, bateaux, ...), selon les r\u00e8gles de s\u00e9curit\u00e9 des biens et des personnes.\nPeut manoeuvrer des \u00e9quipements sp\u00e9cifiques (\u00e9cluses, ponts mobiles, ...).\n",
+    "intitule": "Manoeuvre et conduite d'engins lourds de manutention",
+    "code_ogr": "503",
+    "code_rome": "N1104",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "A1101",
+            "libelle_rome_cible": "Conduite d'engins agricoles et forestiers"
+        },
+        {
+            "code_rome_cible": "F1302",
+            "libelle_rome_cible": "Conduite d'engins de terrassement et de carri\u00e8re"
+        },
+        {
+            "code_rome_cible": "K2110",
+            "libelle_rome_cible": "Formation en conduite de v\u00e9hicules"
+        }
+    ]
+}

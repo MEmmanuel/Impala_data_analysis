@@ -1,0 +1,397 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent(e) d'approvisionnement de distributeurs automatiques",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'approvisionnement de distributeurs automatiques",
+            "code_ogr": "10385"
+        },
+        {
+            "libelle_court": "Agent / Agente de maintenance d'appareils de distribution",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de maintenance d'appareils de distribution",
+            "code_ogr": "10481"
+        },
+        {
+            "libelle_court": "Agent / Agente de maintenance de distributeurs automatiques",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de maintenance de distributeurs automatiques",
+            "code_ogr": "10483"
+        },
+        {
+            "libelle_court": "Agent / Agente de maintenance en mon\u00e9tique",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de maintenance en mon\u00e9tique",
+            "code_ogr": "10499"
+        },
+        {
+            "libelle_court": "Agent/Agente maintenance -SAV- de distributeurs automatiques",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de maintenance -SAV- de distributeurs automatiques",
+            "code_ogr": "10502"
+        },
+        {
+            "libelle_court": "Agent / Agente d'intervention en distribution automatique",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'intervention en distribution automatique",
+            "code_ogr": "10720"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe de maintenance de distributeurs automatiques",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe de maintenance de distributeurs automatiques",
+            "code_ogr": "12416"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe de maintenance de Machines \u00e0 Sous - MAS",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe de maintenance de Machines \u00e0 Sous - MAS",
+            "code_ogr": "38333"
+        },
+        {
+            "libelle_court": "Dabiste",
+            "priorisation": "1",
+            "libelle": "Dabiste",
+            "code_ogr": "38328"
+        },
+        {
+            "libelle_court": "Technicien(ne) de maintenance de distributeurs automatiques",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de maintenance de distributeurs automatiques",
+            "code_ogr": "19812"
+        },
+        {
+            "libelle_court": "Technicien(ne) de maintenance de Machines \u00e0 Sous - MAS",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de maintenance de Machines \u00e0 Sous - MAS",
+            "code_ogr": "38334"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Installer les distributeurs automatiques sur le site d'exploitation \u00e0 partir des notices constructeurs et proc\u00e9der \u00e0 leurs raccordements \u00e9lectriques, hydrauliques",
+            "code_ogr": "2248",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Configurer les appareils ou param\u00e9trer les dosages, les quantit\u00e9s, les syst\u00e8mes de paiement et effectuer les essais fonctionnels de mise en service",
+            "code_ogr": "928",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Approvisionner les distributeurs en produits (boissons, confiseries, journaux, timbres postaux, ...) ou en consommables (papier, ...)",
+            "code_ogr": "743",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la maintenance pr\u00e9ventive/curative de premier niveau des \u00e9quipements",
+            "code_ogr": "3534",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Diagnostiquer les dysfonctionnements des distributeurs sur site ou en atelier et les remettre en \u00e9tat par \u00e9change de pi\u00e8ces, d'organes, ...",
+            "code_ogr": "1462",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports de suivi d'intervention et transmettre les informations au service concern\u00e9",
+            "code_ogr": "3063",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un CAP/ BEP en \u00e9lectricit\u00e9, m\u00e9canique ou maintenance de syst\u00e8mes m\u00e9caniques automatis\u00e9s.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Effectuer l'approvisionnement ou la maintenance de :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Distributeur de billets (banque, train, ...)",
+            "code_ogr": "5326",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Distributeur de boissons",
+            "code_ogr": "5327",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Distributeur de denr\u00e9es alimentaires (sandwich, confiserie, ...)",
+            "code_ogr": "5328",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Distributeur de produits divers (journaux, cassettes vid\u00e9o, ...)",
+            "code_ogr": "5329",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Distributeur de tickets de stationnement",
+            "code_ogr": "5330",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Machines \u00e0 sous",
+            "code_ogr": "5331",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Installer un syst\u00e8me de paiement par carte ou cl\u00e9 sur un distributeur non \u00e9quip\u00e9",
+            "code_ogr": "6217",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Organiser des tourn\u00e9es de visite (planning, ...)",
+            "code_ogr": "7693",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conseiller des clients ou des consommateurs pour une utilisation optimale des distributeurs automatiques et effectuer des d\u00e9monstrations",
+            "code_ogr": "4131",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ramasser les fonds d'un distributeur automatique",
+            "code_ogr": "8210",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Collecter des donn\u00e9es statistiques de fonctionnement d'un distributeur automatique (fr\u00e9quence d'utilisation, historique des pannes, ...)",
+            "code_ogr": "3877",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises de distribution automatique, de soci\u00e9t\u00e9s de services en relation avec diff\u00e9rents intervenants (clients, consommateurs, ...). Elle implique des d\u00e9placements.\nElle varie selon le type d'intervention (installation, maintenance, approvisionnement, ...).\nElle peut s'exercer les fins de semaine, jours f\u00e9ri\u00e9s et \u00eatre soumise \u00e0 des astreintes.\nElle s'effectue sur le site d'exploitation (entreprise, parking, hall de gare, ...) ou en atelier.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan, de sch\u00e9ma",
+            "code_ogr": "20956",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils de mesure \u00e9lectrique (multim\u00e8tre, ...)",
+            "code_ogr": "21156",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciel de d\u00e9tection de panne",
+            "code_ogr": "21226",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion de stocks",
+            "code_ogr": "21259",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Casino",
+            "code_ogr": "23754",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement de jeux",
+            "code_ogr": "23915",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en \u00e9lectronique",
+            "code_ogr": "21863",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en \u00e9lectricit\u00e9",
+            "code_ogr": "21859",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en automatisme",
+            "code_ogr": "21931",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9canique g\u00e9n\u00e9rale",
+            "code_ogr": "21882",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaire",
+            "code_ogr": "22649",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de rotation des produits alimentaires",
+            "code_ogr": "22618",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de nettoyage et de d\u00e9sinfection",
+            "code_ogr": "22418",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "8",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nEffectue l'installation, la mise en service ou la maintenance (entretien, d\u00e9pannage, approvisionnement en produits, ...) de distributeurs automatiques (produits alimentaires, journaux, tickets, billets de train, ...), selon les r\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9.\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "Installation et maintenance de distributeurs automatiques",
+    "code_ogr": "312",
+    "code_rome": "I1303",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "I1305",
+            "libelle_rome_cible": "Installation et maintenance \u00e9lectronique"
+        },
+        {
+            "code_rome_cible": "I1307",
+            "libelle_rome_cible": "Installation et maintenance t\u00e9l\u00e9coms et courants faibles"
+        },
+        {
+            "code_rome_cible": "I1309",
+            "libelle_rome_cible": "Maintenance \u00e9lectrique"
+        },
+        {
+            "code_rome_cible": "I1401",
+            "libelle_rome_cible": "Maintenance informatique et bureautique"
+        }
+    ]
+}

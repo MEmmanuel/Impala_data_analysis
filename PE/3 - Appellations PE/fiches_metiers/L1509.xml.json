@@ -1,0 +1,550 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Assistant / Assistante de r\u00e9gie",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante de r\u00e9gie",
+            "code_ogr": "11250"
+        },
+        {
+            "libelle_court": "Directeur / Directrice technique cin\u00e9ma",
+            "priorisation": "1",
+            "libelle": "Directeur / Directrice technique cin\u00e9ma",
+            "code_ogr": "14478"
+        },
+        {
+            "libelle_court": "Directeur / Directrice technique spectacle vivant",
+            "priorisation": "1",
+            "libelle": "Directeur / Directrice technique spectacle vivant",
+            "code_ogr": "14485"
+        },
+        {
+            "libelle_court": "R\u00e9gisseur / R\u00e9gisseuse de plateau",
+            "priorisation": "1",
+            "libelle": "R\u00e9gisseur / R\u00e9gisseuse de plateau",
+            "code_ogr": "18404"
+        },
+        {
+            "libelle_court": "R\u00e9gisseur / R\u00e9gisseuse de production",
+            "priorisation": "1",
+            "libelle": "R\u00e9gisseur / R\u00e9gisseuse de production",
+            "code_ogr": "38395"
+        },
+        {
+            "libelle_court": "R\u00e9gisseur / R\u00e9gisseuse de salle",
+            "priorisation": "1",
+            "libelle": "R\u00e9gisseur / R\u00e9gisseuse de salle",
+            "code_ogr": "18406"
+        },
+        {
+            "libelle_court": "R\u00e9gisseur / R\u00e9gisseuse de studio d'enregistrement",
+            "priorisation": "1",
+            "libelle": "R\u00e9gisseur / R\u00e9gisseuse de studio d'enregistrement",
+            "code_ogr": "38667"
+        },
+        {
+            "libelle_court": "R\u00e9gisseur / R\u00e9gisseuse de tourn\u00e9e",
+            "priorisation": "1",
+            "libelle": "R\u00e9gisseur / R\u00e9gisseuse de tourn\u00e9e",
+            "code_ogr": "18408"
+        },
+        {
+            "libelle_court": "R\u00e9gisseur g\u00e9n\u00e9ral / R\u00e9gisseuse g\u00e9n\u00e9rale",
+            "priorisation": "1",
+            "libelle": "R\u00e9gisseur g\u00e9n\u00e9ral / R\u00e9gisseuse g\u00e9n\u00e9rale",
+            "code_ogr": "18423"
+        },
+        {
+            "libelle_court": "Responsable de la logistique cin\u00e9ma",
+            "priorisation": "1",
+            "libelle": "Responsable de la logistique cin\u00e9ma",
+            "code_ogr": "18744"
+        },
+        {
+            "libelle_court": "Responsable de la logistique de spectacles",
+            "priorisation": "1",
+            "libelle": "Responsable de la logistique de spectacles",
+            "code_ogr": "18745"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Etudier le projet de tournage, de repr\u00e9sentation et d\u00e9finir les conditions de r\u00e9alisation (lieux, logistique, comp\u00e9tences, ...) et les moyens techniques, artistiques, ...",
+            "code_ogr": "1925",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Superviser l'acheminement et l'installation de la logistique et de la signal\u00e9tique sur le lieu d'un spectacle ou d'un tournage",
+            "code_ogr": "3622",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler le d\u00e9roulement du tournage, de la repr\u00e9sentation, l'application des r\u00e8gles de s\u00e9curit\u00e9 et intervenir en cas de dysfonctionnement",
+            "code_ogr": "1096",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le suivi administratif (contrat de travail, d\u00e9claration d'accident de travail, d'absence, ...) et financier (note de frais, ...) du projet",
+            "code_ogr": "3539",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Recruter le personnel technique, artistique, administratif selon les besoins et constituer des \u00e9quipes",
+            "code_ogr": "2951",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "L1503",
+            "libelle_rome_cible": "D\u00e9cor et accessoires spectacle"
+        },
+        {
+            "code_rome_cible": "L1504",
+            "libelle_rome_cible": "\u00c9clairage spectacle"
+        },
+        {
+            "code_rome_cible": "L1508",
+            "libelle_rome_cible": "Prise de son et sonorisation"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau BAC \u00e0 Master dans les sp\u00e9cialit\u00e9s techniques du spectacle (son, lumi\u00e8re, machinerie, ...).\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans ces secteurs sans dipl\u00f4me particulier.\nDes habilitations sp\u00e9cifiques (habilitation aux risques d'origine \u00e9lectrique, Certificat(s) d'Aptitude \u00e0 la Conduite en S\u00e9curit\u00e9 -CACES-, ...) peuvent \u00eatre demand\u00e9es.\nLa ma\u00eetrise de l'outil informatique (logiciels de Dessin Assist\u00e9 par Ordinateur -DAO-, tableur, ...) et des technologies de l'information et de la communication (intranet, internet, ...) peut \u00eatre requise.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 386 (Plates-formes \u00e9l\u00e9vatrices mobiles de personnes)",
+            "code_ogr": "10120",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-1 (Transpalettes \u00e0 conducteur port\u00e9 et pr\u00e9parateurs de commandes au sol)",
+            "code_ogr": "10122",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-2 (Chariots tracteurs et \u00e0 plateau porteur de capacit\u00e9 inf\u00e9rieure \u00e0 6 000 kg)",
+            "code_ogr": "10123",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-3 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 inf\u00e9rieure ou \u00e9gale \u00e0 6000 kg)",
+            "code_ogr": "10124",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-6 (D\u00e9placement, chargement, transfert de chariots sans activit\u00e9 de production (maintenance, d\u00e9monstration, essais)",
+            "code_ogr": "10127",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES grues cin\u00e9ma",
+            "code_ogr": "10099",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des interventions n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation \u00e9lectrique, travaux hors tension (B0, B0V, B1 B1V, H0, ...)",
+            "code_ogr": "8481",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habilitation \u00e9lectrique, travaux sous tension (B1T, BN, BR, H1T, ...)",
+            "code_ogr": "8482",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Service de S\u00e9curit\u00e9 Incendie et d'Assistance \u00e0 Personnes -SSIAP1-",
+            "code_ogr": "8495",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Charger/d\u00e9charger le mat\u00e9riel au moyen de nacelles",
+            "code_ogr": "3870",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des rep\u00e9rages d'ext\u00e9rieurs, d'int\u00e9rieurs et demander des autorisations de tournage, de repr\u00e9sentation (festival, ...) aupr\u00e8s de services publics ou de particuliers",
+            "code_ogr": "5063",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Solliciter un appui logistique (s\u00e9curit\u00e9, \u00e9lectricit\u00e9, ...) aupr\u00e8s des services concern\u00e9s selon les besoins d'un spectacle, d'un tournage",
+            "code_ogr": "9677",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9terminer les besoins d'acquisition en mat\u00e9riel technique (achat, location)",
+            "code_ogr": "4666",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier le lieu d'un spectacle et \u00e9tablir le plan de salle",
+            "code_ogr": "6129",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Adapter les fiches techniques d'un spectacle, d'un tournage selon le lieu d'exploitation, les moyens techniques et financiers",
+            "code_ogr": "3673",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'implantation d'\u00e9l\u00e9ments de d\u00e9cor et de mat\u00e9riel technique d'\u00e9clairage, de sonorisation, sur le lieu de tournage, de spectacle",
+            "code_ogr": "5417",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller l'approvisionnement des pellicules et superviser l'envoi des rushes au laboratoire de postproduction",
+            "code_ogr": "9893",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce pour des soci\u00e9t\u00e9s de production, des compagnies, ... sur des lieux de spectacle, de tournage en relation avec des \u00e9quipes artistiques, techniques et administratives. Elle peut impliquer des d\u00e9placements (tournages, tourn\u00e9es, ...) et un \u00e9loignement du domicile de plusieurs jours.\nL'activit\u00e9 est soumise au rythme de la programmation des spectacles, au plan de travail des tournages.\nL'activit\u00e9 peut s'effectuer \u00e0 l'ext\u00e9rieur.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan de travail, de plan de tournage",
+            "code_ogr": "20951",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan de salle",
+            "code_ogr": "20948",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'engins de manutention non motoris\u00e9s (transpalette, diable, ...)",
+            "code_ogr": "21414",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Conception et de Dessin Assist\u00e9s par Ordinateur -CAO/DAO-",
+            "code_ogr": "21249",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de fiche technique",
+            "code_ogr": "20943",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9alisation de noeud d'accrochage",
+            "code_ogr": "21068",
+            "position_item": "2",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Cirque",
+            "code_ogr": "23805",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Compagnie artistique (th\u00e9\u00e2tre, danse, arts de la rue, ...)",
+            "code_ogr": "23821",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise d'\u00e9dition phonographique",
+            "code_ogr": "23905",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Parc de loisirs",
+            "code_ogr": "24029",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Salle de spectacles",
+            "code_ogr": "24059",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de post-production cin\u00e9matographique",
+            "code_ogr": "24085",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de production audiovisuelle, cin\u00e9matographique",
+            "code_ogr": "24086",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de production de spectacles",
+            "code_ogr": "24087",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Cin\u00e9ma",
+            "code_ogr": "23441",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Radio",
+            "code_ogr": "23606",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Spectacle vivant",
+            "code_ogr": "23639",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "T\u00e9l\u00e9vision",
+            "code_ogr": "23648",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "En ext\u00e9rieur",
+            "code_ogr": "23378",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Types de produits audiovisuels/cin\u00e9matographiques (film, reportage, ...)",
+            "code_ogr": "23327",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "L\u00e9gislation sociale",
+            "code_ogr": "22086",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des mat\u00e9riels de prise de vues",
+            "code_ogr": "21611",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des mat\u00e9riels d'\u00e9clairage",
+            "code_ogr": "21612",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des mat\u00e9riels son",
+            "code_ogr": "21613",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation s\u00e9curit\u00e9 incendie",
+            "code_ogr": "22580",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes de s\u00e9curit\u00e9 des espaces et des \u00e9tablissements recevant du public",
+            "code_ogr": "22222",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestion comptable et administrative",
+            "code_ogr": "21995",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de montage/d\u00e9montage de d\u00e9cors",
+            "code_ogr": "23004",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'accrochage",
+            "code_ogr": "22760",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "3",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nMet en place et supervise l'organisation logistique et technique de spectacles (concerts, pi\u00e8ces de th\u00e9\u00e2tre, ...), de tournages ou d'enregistrements (\u00e9missions t\u00e9l\u00e9vis\u00e9es, longs-m\u00e9trages, documentaires, films publicitaires, maquettes, ...) selon la r\u00e9glementation s\u00e9curit\u00e9 et les imp\u00e9ratifs de production.\nCoordonne les activit\u00e9s de diff\u00e9rents services techniques.\nPeut participer \u00e0 l'implantation d'\u00e9l\u00e9ments de d\u00e9cor et de mat\u00e9riel technique.\n",
+    "intitule": "R\u00e9gie g\u00e9n\u00e9rale",
+    "code_ogr": "455",
+    "code_rome": "L1509",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "L1301",
+            "libelle_rome_cible": "Mise en sc\u00e8ne de spectacles vivants"
+        },
+        {
+            "code_rome_cible": "L1302",
+            "libelle_rome_cible": "Production et administration spectacle, cin\u00e9ma et audiovisuel"
+        },
+        {
+            "code_rome_cible": "L1304",
+            "libelle_rome_cible": "R\u00e9alisation cin\u00e9matographique et audiovisuelle"
+        }
+    ]
+}

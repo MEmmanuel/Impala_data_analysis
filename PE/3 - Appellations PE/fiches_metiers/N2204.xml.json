@@ -1,0 +1,447 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente de trafic a\u00e9rien",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de trafic a\u00e9rien",
+            "code_ogr": "10627"
+        },
+        {
+            "libelle_court": "Agent / Agente d'op\u00e9rations a\u00e9riennes",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'op\u00e9rations a\u00e9riennes",
+            "code_ogr": "10726"
+        },
+        {
+            "libelle_court": "Agent / Agente d'op\u00e9rations a\u00e9riennes de l'arm\u00e9e",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'op\u00e9rations a\u00e9riennes de l'arm\u00e9e",
+            "code_ogr": "10725"
+        },
+        {
+            "libelle_court": "Agent / Agente d'op\u00e9rations fret a\u00e9rien",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'op\u00e9rations fret a\u00e9rien",
+            "code_ogr": "10728"
+        },
+        {
+            "libelle_court": "Agent / Agente technique de pr\u00e9paration des vols",
+            "priorisation": "1",
+            "libelle": "Agent / Agente technique de pr\u00e9paration des vols",
+            "code_ogr": "10776"
+        },
+        {
+            "libelle_court": "Chef avion",
+            "priorisation": "1",
+            "libelle": "Chef avion",
+            "code_ogr": "12003"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe drones",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe drones",
+            "code_ogr": "12446"
+        },
+        {
+            "libelle_court": "Coordinateur / Coordinatrice des op\u00e9rations de fret a\u00e9rien",
+            "priorisation": "1",
+            "libelle": "Coordinateur / Coordinatrice des op\u00e9rations de fret a\u00e9rien",
+            "code_ogr": "13687"
+        },
+        {
+            "libelle_court": "Coordonnateur / Coordonnatrice armement catering",
+            "priorisation": "1",
+            "libelle": "Coordonnateur / Coordonnatrice armement catering",
+            "code_ogr": "13698"
+        },
+        {
+            "libelle_court": "Coordonnateur / Coordonnatrice avion",
+            "priorisation": "1",
+            "libelle": "Coordonnateur / Coordonnatrice avion",
+            "code_ogr": "13699"
+        },
+        {
+            "libelle_court": "Coordonnateur / Coordonnatrice de piste a\u00e9roport",
+            "priorisation": "1",
+            "libelle": "Coordonnateur / Coordonnatrice de piste a\u00e9roport",
+            "code_ogr": "13703"
+        },
+        {
+            "libelle_court": "Coordonnateur / Coordonnatrice handling",
+            "priorisation": "1",
+            "libelle": "Coordonnateur / Coordonnatrice handling",
+            "code_ogr": "13717"
+        },
+        {
+            "libelle_court": "Responsable de pr\u00e9paration de vol",
+            "priorisation": "1",
+            "libelle": "Responsable de pr\u00e9paration de vol",
+            "code_ogr": "18811"
+        },
+        {
+            "libelle_court": "Responsable d'exploitation de piste a\u00e9roport",
+            "priorisation": "1",
+            "libelle": "Responsable d'exploitation de piste a\u00e9roport",
+            "code_ogr": "18979"
+        },
+        {
+            "libelle_court": "Responsable d'exploitation des vols",
+            "priorisation": "1",
+            "libelle": "Responsable d'exploitation des vols",
+            "code_ogr": "18987"
+        },
+        {
+            "libelle_court": "Superviseur / Superviseuse des op\u00e9rations a\u00e9riennes",
+            "priorisation": "1",
+            "libelle": "Superviseur / Superviseuse des op\u00e9rations a\u00e9riennes",
+            "code_ogr": "19562"
+        },
+        {
+            "libelle_court": "Superviseur / Superviseuse des op\u00e9rations de fret a\u00e9rien",
+            "priorisation": "1",
+            "libelle": "Superviseur / Superviseuse des op\u00e9rations de fret a\u00e9rien",
+            "code_ogr": "19563"
+        },
+        {
+            "libelle_court": "Superviseur / Superviseuse trafic a\u00e9rien",
+            "priorisation": "1",
+            "libelle": "Superviseur / Superviseuse trafic a\u00e9rien",
+            "code_ogr": "19572"
+        },
+        {
+            "libelle_court": "Technicien coordinateur / Technicienne coordinatrice avion",
+            "priorisation": "1",
+            "libelle": "Technicien coordinateur / Technicienne coordinatrice avion",
+            "code_ogr": "19702"
+        },
+        {
+            "libelle_court": "Technicien pr\u00e9parateur / Technicienne pr\u00e9paratrice de vol",
+            "priorisation": "1",
+            "libelle": "Technicien pr\u00e9parateur / Technicienne pr\u00e9paratrice de vol",
+            "code_ogr": "20221"
+        },
+        {
+            "libelle_court": "Technicien superviseur / Technicienne superviseuse de vol",
+            "priorisation": "1",
+            "libelle": "Technicien superviseur / Technicienne superviseuse de vol",
+            "code_ogr": "20271"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Collecter les donn\u00e9es techniques de vol ou d'escale et organiser la r\u00e9partition du chargement de l'appareil",
+            "code_ogr": "840",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Constituer le dossier de vol (plan de vol, de chargement, devis de masse, ...) et le pr\u00e9senter au service de l'Aviation Civile, au commandant de bord, ...",
+            "code_ogr": "991",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Planifier les interventions des \u00e9quipes de piste et la mise \u00e0 disposition du mat\u00e9riel et des \u00e9quipements pour la touch\u00e9e (temps d'immobilisation au sol)",
+            "code_ogr": "2514",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Transmettre aux personnels de piste, d'\u00e9quipage, d'escale, ... les informations techniques de d\u00e9roulement de la touch\u00e9e (chargement, embarquement/d\u00e9barquement, parkings, horaires, ...)",
+            "code_ogr": "3372",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner et contr\u00f4ler les op\u00e9rations d'escale et mettre en oeuvre des mesures correctives en cas de retard, d'avarie technique, ...",
+            "code_ogr": "1181",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "5",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler l'application des proc\u00e9dures et r\u00e8gles d'hygi\u00e8ne, s\u00e9curit\u00e9, qualit\u00e9 et environnement",
+            "code_ogr": "3514",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports de suivi de vol et identifier les dysfonctionnements",
+            "code_ogr": "3060",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "N1303",
+            "libelle_rome_cible": "Intervention technique d'exploitation logistique"
+        },
+        {
+            "code_rome_cible": "N2101",
+            "libelle_rome_cible": "Navigation commerciale a\u00e9rienne"
+        },
+        {
+            "code_rome_cible": "N4203",
+            "libelle_rome_cible": "Intervention technique d'exploitation des transports routiers de marchandises"
+        },
+        {
+            "code_rome_cible": "N4204",
+            "libelle_rome_cible": "Intervention technique d'exploitation des transports routiers de personnes"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau Bac \u00e0 Bac+2 (BTS, DUT, L2) scientifique ou professionnel, compl\u00e9t\u00e9 par une exp\u00e9rience professionnelle en exploitation a\u00e9roportuaire.\nSon acc\u00e8s dans les \u00e9tablissements de la fonction publique et de l'arm\u00e9e s'effectue sur concours \u00e0 partir d'un Bac (g\u00e9n\u00e9ral, technologique, ...).\nUn casier judiciaire exempt de toute mention contradictoire est obligatoire.\nLa pratique de l'anglais (vocabulaire technique) est exig\u00e9e.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Organiser des op\u00e9rations dans un domaine :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Armement h\u00f4telier (catering)",
+            "code_ogr": "7682",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordination de piste",
+            "code_ogr": "7683",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9paration technique des vols",
+            "code_ogr": "7684",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner et v\u00e9rifier l'ex\u00e9cution d'op\u00e9rations de chargement de fret (produits frais, animaux, mati\u00e8res dangereuses, ...)",
+            "code_ogr": "4318",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier la conformit\u00e9 d'op\u00e9rations d'avitaillement en carburant",
+            "code_ogr": "10169",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de compagnies a\u00e9riennes, de gestionnaires d'a\u00e9roport ou de soci\u00e9t\u00e9s d'assistance a\u00e9roportuaire, de l'arm\u00e9e, ... en contact avec de multiples intervenants (agents de piste, avitailleurs avion, autorit\u00e9s a\u00e9roportuaires, personnel navigant, personnel d'escale, ...).\nElle varie selon les structures, l'organisation de l'escale (transit, ...) et la fonction (pr\u00e9paration des vols, coordination des op\u00e9rations \u00e0 la touch\u00e9e de l'appareil, ...).\nElle peut s'exercer en horaires d\u00e9cal\u00e9s, par roulement, les fins de semaine, jours f\u00e9ri\u00e9s ou de nuit.\nL'activit\u00e9 peut s'effectuer \u00e0 l'ext\u00e9rieur et en environnement bruyant pour la coordination de piste.\nLe port d'\u00e9quipements de protection (gants, protections anti-bruit, gilet fluorescent, ...) est requis pour l'intervention sur piste.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels a\u00e9ronautiques",
+            "code_ogr": "21246",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de bulletin m\u00e9t\u00e9orologique",
+            "code_ogr": "20929",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils de radiocommunication",
+            "code_ogr": "21472",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pratique de l'anglais technique",
+            "code_ogr": "21046",
+            "position_item": "4",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "A\u00e9rodrome",
+            "code_ogr": "23681",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Compagnie a\u00e9rienne",
+            "code_ogr": "23819",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise publique/\u00e9tablissement public",
+            "code_ogr": "23912",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 d'assistance a\u00e9roportuaire",
+            "code_ogr": "24077",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation du transport a\u00e9rien",
+            "code_ogr": "22562",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00fbret\u00e9 a\u00e9roportuaire",
+            "code_ogr": "22638",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Fonctionnement et caract\u00e9ristiques des a\u00e9roports (nationaux et internationaux)",
+            "code_ogr": "21962",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sp\u00e9cificit\u00e9s des mat\u00e9riels et \u00e9quipements a\u00e9roportuaires",
+            "code_ogr": "22712",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'\u00e9laboration de plan de chargement d'engins (devis de masse, de centrage, ...)",
+            "code_ogr": "23188",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Terminologie a\u00e9ronautique (IATA, alphabet a\u00e9ronautique, ...)",
+            "code_ogr": "23272",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques techniques des a\u00e9ronefs",
+            "code_ogr": "21693",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de chargement des mati\u00e8res dangereuses",
+            "code_ogr": "22594",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Code de l'aviation civile",
+            "code_ogr": "21726",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'avitaillement carburant",
+            "code_ogr": "22383",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'animation d'\u00e9quipe",
+            "code_ogr": "22774",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nCoordonne et contr\u00f4le tout ou partie des op\u00e9rations d'escale d'un a\u00e9ronef, sur le plan technique (devis de masse et de centrage, plan de chargement, ...), op\u00e9rationnel (chargement/d\u00e9chargement bagages, fret, armement h\u00f4telier, avitaillement carburant, embarquement passagers, ...) et organisationnel (intervenants de la piste, de l'escale, du contr\u00f4le de navigation, ...), selon la r\u00e9glementation a\u00e9ronautique et a\u00e9roportuaire, dans un objectif de qualit\u00e9 (service, co\u00fbt, d\u00e9lais).\nPeut pr\u00e9parer et organiser l'ensemble des \u00e9l\u00e9ments concernant un vol et son chargement (m\u00e9t\u00e9o, plan de vol, plan de chargement,...) ou superviser l'ensemble des interventions sur piste.\nPeut animer une ou plusieurs \u00e9quipes.\n",
+    "intitule": "Pr\u00e9paration des vols",
+    "code_ogr": "515",
+    "code_rome": "N2204",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        },
+        {
+            "code_rome_cible": "N1302",
+            "libelle_rome_cible": "Direction de site logistique"
+        },
+        {
+            "code_rome_cible": "N2205",
+            "libelle_rome_cible": "Direction d'escale et exploitation a\u00e9roportuaire"
+        }
+    ]
+}

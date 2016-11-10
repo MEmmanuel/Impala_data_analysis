@@ -1,0 +1,441 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Chef de groupe livraison air de l'arm\u00e9e",
+            "priorisation": "1",
+            "libelle": "Chef de groupe livraison air de l'arm\u00e9e",
+            "code_ogr": "12167"
+        },
+        {
+            "libelle_court": "Chef de peloton livraison air arm\u00e9e",
+            "priorisation": "1",
+            "libelle": "Chef de peloton livraison air arm\u00e9e",
+            "code_ogr": "12206"
+        },
+        {
+            "libelle_court": "Chef d'escale a\u00e9rienne",
+            "priorisation": "1",
+            "libelle": "Chef d'escale a\u00e9rienne",
+            "code_ogr": "12500"
+        },
+        {
+            "libelle_court": "Chef d'escale a\u00e9roportuaire",
+            "priorisation": "1",
+            "libelle": "Chef d'escale a\u00e9roportuaire",
+            "code_ogr": "12501"
+        },
+        {
+            "libelle_court": "Chef d'escale fret a\u00e9rien",
+            "priorisation": "1",
+            "libelle": "Chef d'escale fret a\u00e9rien",
+            "code_ogr": "12502"
+        },
+        {
+            "libelle_court": "Directeur / Directrice d'a\u00e9rodrome",
+            "priorisation": "1",
+            "libelle": "Directeur / Directrice d'a\u00e9rodrome",
+            "code_ogr": "14203"
+        },
+        {
+            "libelle_court": "Directeur(trice) des op\u00e9rations d'exploitation a\u00e9roportuaire",
+            "priorisation": "1",
+            "libelle": "Directeur / Directrice des op\u00e9rations d'exploitation a\u00e9roportuaire",
+            "code_ogr": "14370"
+        },
+        {
+            "libelle_court": "Directeur / Directrice d'exploitation a\u00e9roportuaire",
+            "priorisation": "1",
+            "libelle": "Directeur / Directrice d'exploitation a\u00e9roportuaire",
+            "code_ogr": "14410"
+        },
+        {
+            "libelle_court": "Officier / Offici\u00e8re commissaire de l'air de l'arm\u00e9e",
+            "priorisation": "1",
+            "libelle": "Officier / Offici\u00e8re commissaire de l'air de l'arm\u00e9e",
+            "code_ogr": "17016"
+        },
+        {
+            "libelle_court": "Responsable des op\u00e9rations d'exploitation a\u00e9roportuaire",
+            "priorisation": "1",
+            "libelle": "Responsable des op\u00e9rations d'exploitation a\u00e9roportuaire",
+            "code_ogr": "18930"
+        },
+        {
+            "libelle_court": "Responsable d'exploitation a\u00e9roportuaire",
+            "priorisation": "1",
+            "libelle": "Responsable d'exploitation a\u00e9roportuaire",
+            "code_ogr": "18973"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Planifier l'activit\u00e9 des \u00e9quipes selon le programme de vol, les escales et mettre en place les mesures correctives en cas de retard, de surr\u00e9servation, d'annulation, ...",
+            "code_ogr": "2509",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner ou superviser les interventions aux diff\u00e9rentes \u00e9tapes des vols (escale, filtrage, piste, maintenance, ...) et contr\u00f4ler l'application des consignes de s\u00e9curit\u00e9",
+            "code_ogr": "1203",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "N\u00e9gocier les contrats commerciaux avec les compagnies a\u00e9riennes, soci\u00e9t\u00e9s d'assistance a\u00e9roportuaire, ... ou les sous-traitants et en contr\u00f4ler la r\u00e9alisation",
+            "code_ogr": "2393",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner les \u00e9changes d'information entre les intervenants de l'escale (sous-traitants, personnel d'exploitation, ...)",
+            "code_ogr": "1199",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9finir et suivre le budget d'une structure",
+            "code_ogr": "3524",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et analyser les donn\u00e9es d'activit\u00e9 du service ou de la structure et proposer des axes d'\u00e9volution",
+            "code_ogr": "3608",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier et mettre en place des actions de gestion de ressources humaines",
+            "code_ogr": "3560",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "G1403",
+            "libelle_rome_cible": "Gestion de structure de loisirs ou d'h\u00e9bergement touristique"
+        },
+        {
+            "code_rome_cible": "N1302",
+            "libelle_rome_cible": "Direction de site logistique"
+        },
+        {
+            "code_rome_cible": "N4201",
+            "libelle_rome_cible": "Direction d'exploitation des transports routiers de marchandises"
+        },
+        {
+            "code_rome_cible": "N4202",
+            "libelle_rome_cible": "Direction d'exploitation des transports routiers de personnes"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible \u00e0 partir d'un dipl\u00f4me de niveau Bac+2 (BTS, DUT, ...) en transport a\u00e9rien, logistique, tourisme, commerce, compl\u00e9t\u00e9 par une exp\u00e9rience professionnelle dans le secteur a\u00e9roportuaire.\nSon acc\u00e8s dans les \u00e9tablissements de la fonction publique (Direction G\u00e9n\u00e9rale de l'Aviation Civile -DGAC-) s'effectue sur concours avec un Bac scientifique ou professionnel.\nUn casier judiciaire exempt de toute mention contradictoire est obligatoire.\nLa pratique de l'anglais peut \u00eatre exig\u00e9e.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Coordonner les activit\u00e9s d'un site a\u00e9roportuaire de :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cat\u00e9gorie A - services \u00e0 grande distance assur\u00e9s normalement en toute circonstance",
+            "code_ogr": "4334",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cat\u00e9gorie B - Services \u00e0 moyenne distance assur\u00e9s normalement en toute circonstance et certains services \u00e0 grande distance ne comportant pas d'\u00e9tape longue au d\u00e9part de ces a\u00e9rodromes",
+            "code_ogr": "4335",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cat\u00e9gorie C - Services \u00e0 courte distance et services moyenne et longue distance ne comportant que des \u00e9tapes courtes au d\u00e9part de ces a\u00e9rodromes",
+            "code_ogr": "4336",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cat\u00e9gorie D - Formation a\u00e9ronautique, sports a\u00e9riens, tourisme et certains services courte distance",
+            "code_ogr": "4337",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cat\u00e9gorie E - Destin\u00e9s aux giravions et aux a\u00e9ronefs \u00e0 d\u00e9collage vertical ou oblique",
+            "code_ogr": "4338",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "5",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir des solutions en cas de situation d\u00e9grad\u00e9e avec la client\u00e8le (remboursement, \u00e9mission de nouveaux billets, h\u00e9bergement, ...)",
+            "code_ogr": "5813",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Organiser et mettre en place des partenariats avec les services de l'a\u00e9roport (commerces, sous-traitants, ...) et les intervenants externes (voyagistes, association de riverains, ...)",
+            "code_ogr": "7706",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Concevoir et mettre en place des enqu\u00eates qualit\u00e9 et en superviser la diffusion",
+            "code_ogr": "4001",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner les activit\u00e9s d'un ou plusieurs a\u00e9rodromes de transport de fret",
+            "code_ogr": "4333",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Superviser le suivi d'exploitation d'un parc d'\u00e9quipements (pistes, a\u00e9rogares, ...) et programmer la maintenance et l'acquisition de mat\u00e9riel",
+            "code_ogr": "9780",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Superviser des op\u00e9rations de contr\u00f4le a\u00e9rien",
+            "code_ogr": "9750",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce en a\u00e9roports, en a\u00e9rodromes au sein de compagnies a\u00e9riennes, de gestionnaires d'a\u00e9rodromes, de soci\u00e9t\u00e9s d'assistance a\u00e9roportuaire, en relation avec les \u00e9quipes d'exploitation (escale, passage, piste, ...), les intervenants externes (clients, autorit\u00e9s a\u00e9roportuaires, contr\u00f4le de navigation a\u00e9rienne, douanes, ...).\nElle varie selon le type d'entreprise (compagnie a\u00e9rienne, gestionnaire d'a\u00e9rodrome, ...), la taille de la structure (cat\u00e9gorie d'a\u00e9rodrome, nombre de vols de l'escale, ...) et le type d'exploitation (passagers, fret, vols \u00e0 la demande, ...).\nElle peut s'exercer en horaires d\u00e9cal\u00e9s, les fins de semaine, jours f\u00e9ri\u00e9s, de nuit et \u00eatre soumise \u00e0 des astreintes.\nLe port d'\u00e9quipements de protection (gilet fluorescent, casque antibruit, ...) peut \u00eatre requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pratique de l'anglais technique",
+            "code_ogr": "21046",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de suivi de vol ou d'enregistrement de bagages",
+            "code_ogr": "21384",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de navigation (GPS, VHF, radar, ...)",
+            "code_ogr": "21329",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de syst\u00e8me de suivi de trafic a\u00e9rien",
+            "code_ogr": "21387",
+            "position_item": "2",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "A\u00e9rodrome",
+            "code_ogr": "23681",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "A\u00e9roport",
+            "code_ogr": "23682",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Compagnie a\u00e9rienne",
+            "code_ogr": "23819",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise publique/\u00e9tablissement public",
+            "code_ogr": "23912",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 d'assistance a\u00e9roportuaire",
+            "code_ogr": "24077",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Code de l'aviation civile",
+            "code_ogr": "21726",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00fbret\u00e9 a\u00e9roportuaire",
+            "code_ogr": "22638",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques techniques des a\u00e9ronefs",
+            "code_ogr": "21693",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestion comptable et administrative",
+            "code_ogr": "21995",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "L\u00e9gislation sociale",
+            "code_ogr": "22086",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de pr\u00e9vention et de gestion de conflits",
+            "code_ogr": "23058",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestion des Ressources Humaines",
+            "code_ogr": "22000",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation du transport a\u00e9rien",
+            "code_ogr": "22562",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation du transport de mati\u00e8res et produits dangereux",
+            "code_ogr": "22564",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nOrganise et supervise l'activit\u00e9 d'un site a\u00e9roportuaire ou d'une escale a\u00e9rienne sur le plan technique (maintenance, avitaillement, fret, ...), commercial (assistance en escale des passagers, enregistrement, ...), humaine (gestion des \u00e9quipes d'escale, sous-traitants, ...) et financier (suivi d'activit\u00e9, ...), selon les r\u00e8gles de s\u00fbret\u00e9 et de s\u00e9curit\u00e9 a\u00e9roportuaires et a\u00e9ronautiques et les objectifs d'optimisation et de d\u00e9veloppement \u00e9conomique (qualit\u00e9, co\u00fbt, d\u00e9lais).\nDirige tout ou partie des \u00e9quipes (techniciens d'exploitation, personnel administratif et commercial, ...).\n",
+    "intitule": "Direction d'escale et exploitation a\u00e9roportuaire",
+    "code_ogr": "516",
+    "code_rome": "N2205",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        },
+        {
+            "code_rome_cible": "M1302",
+            "libelle_rome_cible": "Direction de petite ou moyenne entreprise"
+        },
+        {
+            "code_rome_cible": "M1402",
+            "libelle_rome_cible": "Conseil en organisation et management d'entreprise"
+        },
+        {
+            "code_rome_cible": "M1503",
+            "libelle_rome_cible": "Management des ressources humaines"
+        }
+    ]
+}

@@ -1,0 +1,488 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Accrocheur / Accrocheuse",
+            "priorisation": "1",
+            "libelle": "Accrocheur / Accrocheuse",
+            "code_ogr": "10233"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe foreur / foreuse",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe foreur / foreuse",
+            "code_ogr": "12474"
+        },
+        {
+            "libelle_court": "Electricien / Electricienne de sonde en mat\u00e9riel de forage",
+            "priorisation": "1",
+            "libelle": "Electricien / Electricienne de sonde en mat\u00e9riel de forage",
+            "code_ogr": "14627"
+        },
+        {
+            "libelle_court": "Foreur / Foreuse",
+            "priorisation": "1",
+            "libelle": "Foreur / Foreuse",
+            "code_ogr": "15110"
+        },
+        {
+            "libelle_court": "Foreur / Foreuse chef de poste",
+            "priorisation": "1",
+            "libelle": "Foreur / Foreuse chef de poste",
+            "code_ogr": "15111"
+        },
+        {
+            "libelle_court": "Foreur / Foreuse d'eau",
+            "priorisation": "1",
+            "libelle": "Foreur / Foreuse d'eau",
+            "code_ogr": "15113"
+        },
+        {
+            "libelle_court": "Foreur / Foreuse gaz",
+            "priorisation": "1",
+            "libelle": "Foreur / Foreuse gaz",
+            "code_ogr": "15114"
+        },
+        {
+            "libelle_court": "Foreur / Foreuse p\u00e9trole",
+            "priorisation": "1",
+            "libelle": "Foreur / Foreuse p\u00e9trole",
+            "code_ogr": "15115"
+        },
+        {
+            "libelle_court": "Homme / Femme de plancher",
+            "priorisation": "1",
+            "libelle": "Homme / Femme de plancher",
+            "code_ogr": "15472"
+        },
+        {
+            "libelle_court": "Ouvrier / Ouvri\u00e8re de forage",
+            "priorisation": "1",
+            "libelle": "Ouvrier / Ouvri\u00e8re de forage",
+            "code_ogr": "17439"
+        },
+        {
+            "libelle_court": "Ouvrier / Ouvri\u00e8re de plancher",
+            "priorisation": "1",
+            "libelle": "Ouvrier / Ouvri\u00e8re de plancher",
+            "code_ogr": "17452"
+        },
+        {
+            "libelle_court": "Poseur / Poseuse de sonde",
+            "priorisation": "1",
+            "libelle": "Poseur / Poseuse de sonde",
+            "code_ogr": "17935"
+        },
+        {
+            "libelle_court": "Puisatier / Puisati\u00e8re",
+            "priorisation": "1",
+            "libelle": "Puisatier / Puisati\u00e8re",
+            "code_ogr": "18246"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne de forage",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de forage",
+            "code_ogr": "19772"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne des boues",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne des boues",
+            "code_ogr": "19944"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne des fluides de forage",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne des fluides de forage",
+            "code_ogr": "19946"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Installer la structure de forage (derrick, m\u00e2t, tr\u00e9pan, trains de tiges, ...) selon le plan d'implantation",
+            "code_ogr": "2240",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier \u00e0 la prise de poste l'\u00e9tat du mat\u00e9riel, l'alimentation \u00e9lectrique, le planning de production et r\u00e9aliser l'avant-trou",
+            "code_ogr": "1644",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les pr\u00e9l\u00e8vements d'\u00e9chantillons de roches et pr\u00e9parer les boues selon formulation",
+            "code_ogr": "1657",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Forer le sol par sections successives verticales ou dirig\u00e9es (horizontales, obliques)",
+            "code_ogr": "1996",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Lubrifier et refroidir le tr\u00e9pan et nettoyer le puits par injection de boue",
+            "code_ogr": "2280",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Consolider et \u00e9tanch\u00e9ifier les parois du puits de forage par tubage (casing) et cimentation",
+            "code_ogr": "983",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller les param\u00e8tres de forage et de pompage et d\u00e9tecter les anomalies et dysfonctionnements (pression, vitesse, d\u00e9bit, ...)",
+            "code_ogr": "3343",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "F1402",
+            "libelle_rome_cible": "Extraction solide"
+        },
+        {
+            "code_rome_cible": "F1704",
+            "libelle_rome_cible": "Pr\u00e9paration du gros oeuvre et des travaux publics"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un CAP/BEP en extraction.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans ce secteur sans dipl\u00f4me particulier.\nDes formations compl\u00e9mentaires sur la pr\u00e9vention et les risques inh\u00e9rents aux \u00e9ruptions peuvent \u00eatre requises.\nLa formation Pr\u00e9vention et Secours Civiques de niveau 1 -PSC1- est requise.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Effectuer des forages d'extraction de :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Eau",
+            "code_ogr": "4885",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Gaz",
+            "code_ogr": "4886",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "P\u00e9trole",
+            "code_ogr": "4887",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des forages d'extraction :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Maritime (off-shore)",
+            "code_ogr": "4883",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Terrestre (on-shore)",
+            "code_ogr": "4884",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations d'extraction maritime (off-shore) \u00e0 partir de :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Navire \u00e0 positionnement dynamique",
+            "code_ogr": "8863",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Plate-forme auto-\u00e9l\u00e9vatrice",
+            "code_ogr": "8864",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Plate-forme semi-submersible",
+            "code_ogr": "8865",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier la pression d'un puits existant ou d\u00e9terminer la taille et le potentiel d'un puits \u00e0 creuser",
+            "code_ogr": "10175",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Analyser des donn\u00e9es et estimer le volume des r\u00e9serves p\u00e9troli\u00e8res d'un emplacement donn\u00e9",
+            "code_ogr": "3706",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des relev\u00e9s de sondage et d\u00e9terminer la densit\u00e9 du sous-sol rocheux, la pr\u00e9sence d'eau, d'huile, de gaz, ...",
+            "code_ogr": "5053",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier le fonctionnement d'\u00e9quipements m\u00e9caniques et \u00e9lectriques",
+            "code_ogr": "10180",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce sur des chantiers d'extraction terrestres, maritimes de produits liquides ou gazeux au sein d'entreprises de forage, de compagnies p\u00e9troli\u00e8res ou gazi\u00e8res. Elle peut impliquer un \u00e9loignement du domicile de plusieurs jours ou mois.\nElle peut s'exercer par roulement, les fins de semaine, jours f\u00e9ri\u00e9s, de nuit et \u00eatre soumise \u00e0 des astreintes.\nElle peut s'effectuer en hauteur, en sous-sol et impliquer le port de charges.\nLe port d'\u00e9quipements de protection (chaussures de s\u00e9curit\u00e9, gants, casque de chantier, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Guidage d'engins (\u00e0 la voix, au sifflet, aux gestes conventionnels)",
+            "code_ogr": "20908",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan de forage",
+            "code_ogr": "20947",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Calcul de quantit\u00e9",
+            "code_ogr": "20805",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Prise de mesures",
+            "code_ogr": "21061",
+            "position_item": "4",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Compagnie p\u00e9troli\u00e8re/gazi\u00e8re",
+            "code_ogr": "23825",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de forage/extraction",
+            "code_ogr": "23877",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "En sous-sol",
+            "code_ogr": "23382",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles et consignes de s\u00e9curit\u00e9",
+            "code_ogr": "22656",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modalit\u00e9s de mise en s\u00e9curit\u00e9 du puits",
+            "code_ogr": "22169",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des boues",
+            "code_ogr": "21562",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de forage",
+            "code_ogr": "22912",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques du mat\u00e9riel de forage",
+            "code_ogr": "21677",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'injection de mortier",
+            "code_ogr": "23227",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de filtration",
+            "code_ogr": "22909",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en g\u00e9otechnique",
+            "code_ogr": "21869",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en hydrologie",
+            "code_ogr": "21876",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9canique g\u00e9n\u00e9rale",
+            "code_ogr": "21882",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'\u00e9lingage",
+            "code_ogr": "23191",
+            "position_item": "11",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de sondage carott\u00e9",
+            "code_ogr": "23125",
+            "position_item": "12",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en \u00e9lectricit\u00e9",
+            "code_ogr": "21859",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nEffectue la mise en oeuvre des installations de forage et r\u00e9alise les op\u00e9rations d'extraction et de pompage de produits liquides (eau, p\u00e9trole, ...) ou gazeux issus du sous-sol selon les r\u00e8gles de s\u00e9curit\u00e9. Peut manipuler des machines sp\u00e9ciales lors de forage en grande profondeur. Peut intervenir dans un environnement terrestre (on-shore) ou maritime (off-shore).\n",
+    "intitule": "Extraction liquide et gazeuse",
+    "code_ogr": "156",
+    "code_rome": "F1401",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "F1701",
+            "libelle_rome_cible": "Construction en b\u00e9ton"
+        },
+        {
+            "code_rome_cible": "F1705",
+            "libelle_rome_cible": "Pose de canalisations"
+        },
+        {
+            "code_rome_cible": "H2701",
+            "libelle_rome_cible": "Pilotage d'installation \u00e9nerg\u00e9tique et p\u00e9trochimique"
+        }
+    ]
+}

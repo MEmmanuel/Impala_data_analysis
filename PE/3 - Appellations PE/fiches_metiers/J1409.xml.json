@@ -1,0 +1,334 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "P\u00e9dicure podologue posturopodiste",
+            "priorisation": "1",
+            "libelle": "P\u00e9dicure podologue posturopodiste",
+            "code_ogr": "17603"
+        },
+        {
+            "libelle_court": "P\u00e9dicure-podologue",
+            "priorisation": "1",
+            "libelle": "P\u00e9dicure-podologue",
+            "code_ogr": "17605"
+        },
+        {
+            "libelle_court": "Podologue",
+            "priorisation": "1",
+            "libelle": "Podologue",
+            "code_ogr": "17854"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier la demande du patient (soins, prescription d'orth\u00e8ses, ...) et cr\u00e9er ou compl\u00e9ter le dossier (coordonn\u00e9es, informations socio administratives, ...)",
+            "code_ogr": "2044",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Prendre en compte les ant\u00e9c\u00e9dents m\u00e9dicaux, les habitudes de chaussage, ... l'examiner et \u00e9valuer le traitement (p\u00e9dicurie, podologie)",
+            "code_ogr": "797",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "2",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Soigner les affections p\u00e9dicurales, conseiller au patient un type de chaussures, des soins de pr\u00e9vention ou l'orienter vers un praticien",
+            "code_ogr": "3203",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der \u00e0 l'examen podologique, \u00e0 la prise d'empreinte du patient et d\u00e9terminer la correction ou la compensation n\u00e9cessaire",
+            "code_ogr": "2701",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9senter les caract\u00e9ristiques de l'appareillage plantaire, les conditions de prise en charge par la S\u00e9curit\u00e9 Sociale, la mutuelle et arr\u00eater le choix avec le patient",
+            "code_ogr": "2655",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Fabriquer l'appareillage plantaire (semelles, \u00e9l\u00e9ments d'orthonyxie, d'orthoplastie, ...) et proc\u00e9der \u00e0 l'essayage avec le patient",
+            "code_ogr": "1978",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser le bilan de fin d'intervention (type d'appareillage, progr\u00e8s, pr\u00e9conisations, ...) et transmettre les informations au m\u00e9decin prescripteur",
+            "code_ogr": "2790",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "7",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les documents m\u00e9dico-administratifs et effectuer les op\u00e9rations relatives au r\u00e8glement",
+            "code_ogr": "3599",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "8",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec le Dipl\u00f4me d'Etat de p\u00e9dicure podologue.\nDes formations compl\u00e9mentaires (posturologie clinique, podologie du sport, ...) peuvent \u00eatre requises.\nDes vaccinations pr\u00e9vues par le Code de Sant\u00e9 Publique sont exig\u00e9es.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Intervenir aupr\u00e8s d'un type de public :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Adultes",
+            "code_ogr": "6298",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Enfants",
+            "code_ogr": "6306",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Patients hospitalis\u00e9s (soins post-op\u00e9ratoires)",
+            "code_ogr": "6318",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Personnes \u00e2g\u00e9es",
+            "code_ogr": "6324",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sportifs",
+            "code_ogr": "6333",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der \u00e0 l'analyse du syst\u00e8me postural et des troubles de l'\u00e9quilibre orthostatique d'un patient et mettre en place les corrections",
+            "code_ogr": "8135",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer le suivi administratif et comptable d'une structure",
+            "code_ogr": "3540",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mener des actions de formation au sein d'un organisme",
+            "code_ogr": "7395",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce en cabinet ou au sein d'\u00e9tablissements de soins (h\u00f4pital, clinique, ...) en contact avec les patients et en relation avec diff\u00e9rents intervenants (m\u00e9decins, infirmiers, kin\u00e9sith\u00e9rapeutes, ...).\nL'activit\u00e9 peut s'effectuer en atelier (fabrication d'appareillages plantaires, ...).\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de plate-forme de stabilom\u00e9trie",
+            "code_ogr": "21356",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Cabinet m\u00e9dical",
+            "code_ogr": "23750",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement m\u00e9dical (h\u00f4pital, clinique, ...)",
+            "code_ogr": "23922",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Au domicile de particulier",
+            "code_ogr": "23375",
+            "code_type_section_env": "3"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en biom\u00e9canique",
+            "code_ogr": "21843",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en dermatologie",
+            "code_ogr": "21847",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en diab\u00e9tologie",
+            "code_ogr": "21848",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en rhumatologie",
+            "code_ogr": "21914",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Grille de codification S\u00e9curit\u00e9 Sociale",
+            "code_ogr": "22012",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et d'asepsie",
+            "code_ogr": "22646",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9d\u00e9s de formage",
+            "code_ogr": "22351",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de thermosoudage",
+            "code_ogr": "23140",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de r\u00e9flexologie plantaire",
+            "code_ogr": "23088",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Posturologie",
+            "code_ogr": "22309",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes d'\u00e9quilibre orthostatique",
+            "code_ogr": "22225",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nEffectue les soins d'hygi\u00e8ne et d'entretien du pied, con\u00e7oit et r\u00e9alise des appareillages (orth\u00e8ses plantaires orthop\u00e9diques, orthoplasties, ...) selon la pr\u00e9conisation m\u00e9dicale ou la demande individuelle des personnes pour le traitement des troubles des appuis plantaires.\nPeut diriger un cabinet.\n",
+    "intitule": "P\u00e9dicurie et podologie",
+    "code_ogr": "353",
+    "code_rome": "J1409",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1405",
+            "libelle_rome_cible": "Conseil en information m\u00e9dicale"
+        },
+        {
+            "code_rome_cible": "J1411",
+            "libelle_rome_cible": "Proth\u00e8ses et orth\u00e8ses"
+        },
+        {
+            "code_rome_cible": "J1502",
+            "libelle_rome_cible": "Coordination de services m\u00e9dicaux ou param\u00e9dicaux"
+        }
+    ]
+}

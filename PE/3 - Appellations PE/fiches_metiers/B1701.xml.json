@@ -1,0 +1,557 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Naturaliste-taxidermiste",
+            "priorisation": "1",
+            "libelle": "Naturaliste-taxidermiste",
+            "code_ogr": "16953"
+        },
+        {
+            "libelle_court": "Ost\u00e9ologue",
+            "priorisation": "1",
+            "libelle": "Ost\u00e9ologue",
+            "code_ogr": "17373"
+        },
+        {
+            "libelle_court": "Poseur(se) d\u00e9corateur(trice) en conservation animale",
+            "priorisation": "1",
+            "libelle": "Poseur d\u00e9corateur / Poseuse d\u00e9coratrice en conservation animale",
+            "code_ogr": "17944"
+        },
+        {
+            "libelle_court": "Pr\u00e9parateur / Pr\u00e9paratrice en ost\u00e9ologie-moulage",
+            "priorisation": "1",
+            "libelle": "Pr\u00e9parateur / Pr\u00e9paratrice en ost\u00e9ologie-moulage",
+            "code_ogr": "18026"
+        },
+        {
+            "libelle_court": "Pr\u00e9parateur(trice) gestionnaire de collection en taxidermie",
+            "priorisation": "1",
+            "libelle": "Pr\u00e9parateur / Pr\u00e9paratrice gestionnaire de collection en taxidermie",
+            "code_ogr": "18030"
+        },
+        {
+            "libelle_court": "Restaurateur / Restauratrice de collections zoologiques",
+            "priorisation": "1",
+            "libelle": "Restaurateur / Restauratrice de collections zoologiques",
+            "code_ogr": "19218"
+        },
+        {
+            "libelle_court": "Taxidermiste",
+            "priorisation": "1",
+            "libelle": "Taxidermiste",
+            "code_ogr": "19645"
+        },
+        {
+            "libelle_court": "Taxidermiste restaurateur / restauratrice",
+            "priorisation": "1",
+            "libelle": "Taxidermiste restaurateur / restauratrice",
+            "code_ogr": "19646"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne en ost\u00e9ologie-moulage",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en ost\u00e9ologie-moulage",
+            "code_ogr": "20102"
+        },
+        {
+            "libelle_court": "Technicien taxidermiste / Technicienne taxidermiste",
+            "priorisation": "1",
+            "libelle": "Technicien taxidermiste / Technicienne taxidermiste",
+            "code_ogr": "20281"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "R\u00e9ceptionner les pi\u00e8ces animales, v\u00e9rifier la faisabilit\u00e9 de la naturalisation (\u00e9tat g\u00e9n\u00e9ral et sanitaire du sp\u00e9cimen, conformit\u00e9 des documents administratifs, ...) et conseiller le client",
+            "code_ogr": "2926",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etiqueter et entreposer les pi\u00e8ces animales et les peaux dans les zones de stockage pour conservation",
+            "code_ogr": "1911",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9pouiller l'animal (d\u00e9pe\u00e7age, \u00e9visc\u00e9ration, d\u00e9charnage, ...) et \u00e9vacuer les d\u00e9chets pour \u00e9quarrissage",
+            "code_ogr": "1361",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les op\u00e9rations de nettoyage et de traitement des peaux, squelettes, bois, cornes selon les esp\u00e8ces (mammif\u00e8res, oiseaux, ...)",
+            "code_ogr": "1638",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser le mannequin (structure m\u00e9tallique, sculpture, moulage de la forme, ...) et le r\u00e9ajuster aux mesures de l'animal",
+            "code_ogr": "2804",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Habiller le mannequin (positionnement et tension de la peau, couture, ...)",
+            "code_ogr": "2008",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser les finitions (pose des accessoires, lustrage du pelage, ...)",
+            "code_ogr": "2832",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Construire le support de pr\u00e9sentation (socle, vitrine) et fixer l'animal",
+            "code_ogr": "996",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "L1503",
+            "libelle_rome_cible": "D\u00e9cor et accessoires spectacle"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP \u00e0 Licence en taxidermie, chimie, biologie animale, tannerie,.... compl\u00e9t\u00e9 par une formation aux techniques de naturalisation.\nDes vaccinations sp\u00e9cifiques (antirabiques, antit\u00e9taniques ...) et la tenue \u00e0 jour de leur validit\u00e9 sont obligatoires.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Effectuer la naturalisation, la reconstitution d'esp\u00e8ces animales ou v\u00e9g\u00e9tales :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Insectes",
+            "code_ogr": "5165",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mollusques",
+            "code_ogr": "5166",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Poissons",
+            "code_ogr": "5169",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Petits mammif\u00e8res",
+            "code_ogr": "5168",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Gros mammif\u00e8res",
+            "code_ogr": "5164",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Oiseaux",
+            "code_ogr": "5167",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Reptiles",
+            "code_ogr": "5170",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9g\u00e9taux",
+            "code_ogr": "5171",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des prises d'empreintes et/ou moulages d'animaux pour naturalisation ou reconstitution (crustac\u00e9s, invert\u00e9br\u00e9s, cr\u00e2ne de gros mammif\u00e8res, ...)",
+            "code_ogr": "9065",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des montages ost\u00e9ologiques \u00e0 but p\u00e9dagogique ou scientifique (pal\u00e9ontologie, ...)",
+            "code_ogr": "8521",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Inventorier des animaux naturalis\u00e9s (nature des esp\u00e8ces, \u00e9tat, ...) et alimenter une base de donn\u00e9es (r\u00e9seaux de partenaires, historique des interventions, ...)",
+            "code_ogr": "7283",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9senter des sp\u00e9cimens naturalis\u00e9s ou expliquer des techniques de taxidermie au public",
+            "code_ogr": "8041",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Restaurer des animaux naturalis\u00e9s (teinte, pelage, reconstitution, ...)",
+            "code_ogr": "9605",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser un montage, un d\u00e9cor repr\u00e9sentant un animal dans son environnement naturel",
+            "code_ogr": "9313",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner des documents relatifs aux obligations l\u00e9gales (demande de CITES, autorisation de naturalisation, ...)",
+            "code_ogr": "9546",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises artisanales, de mus\u00e9es en relation avec diff\u00e9rents services, parfois en contact avec des clients et de multiples intervenants (fournisseurs, organismes administratifs, Services V\u00e9t\u00e9rinaires, Office National de la Chasse, Direction des Mus\u00e9es de France).\nL'activit\u00e9 peut s'effectuer en atelier, en laboratoire, \u00e0 l'ext\u00e9rieur et impliquer le port de charges.\nLe port d'\u00e9quipements de protection (blouse, gants, masque, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Couture manuelle",
+            "code_ogr": "20832",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de traitement d'images",
+            "code_ogr": "21269",
+            "position_item": "2",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Boutique, commerce de d\u00e9tail",
+            "code_ogr": "23725",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise artisanale",
+            "code_ogr": "23870",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisme culturel, du patrimoine",
+            "code_ogr": "24016",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Zoologie",
+            "code_ogr": "23372",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Anatomie animale",
+            "code_ogr": "21506",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pathologies animales",
+            "code_ogr": "22271",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation des espaces et esp\u00e8ces prot\u00e9g\u00e9s",
+            "code_ogr": "22542",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation sanitaire",
+            "code_ogr": "22579",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chimie",
+            "code_ogr": "21706",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de nettoyage et de d\u00e9sinfection",
+            "code_ogr": "22418",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de tannage",
+            "code_ogr": "23134",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de picklage",
+            "code_ogr": "23028",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de moulage",
+            "code_ogr": "23005",
+            "position_item": "11",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de soudure",
+            "code_ogr": "23128",
+            "position_item": "12",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de sculpture",
+            "code_ogr": "23109",
+            "position_item": "13",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de peinture",
+            "code_ogr": "23024",
+            "position_item": "14",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en menuiserie",
+            "code_ogr": "21885",
+            "position_item": "15",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Postures animales",
+            "code_ogr": "22308",
+            "position_item": "16",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de d\u00e9contamination",
+            "code_ogr": "22400",
+            "position_item": "17",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des esp\u00e8ces animales contemporaines",
+            "code_ogr": "21583",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des esp\u00e8ces animales pal\u00e9ontologiques",
+            "code_ogr": "21584",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de dessiccation (d\u00e9shydratation, lyophilisation)",
+            "code_ogr": "22887",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de taxidermie souple",
+            "code_ogr": "23135",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des mat\u00e9riaux composites",
+            "code_ogr": "21605",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Anatomie humaine",
+            "code_ogr": "21507",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Classification des esp\u00e8ces animales",
+            "code_ogr": "21717",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9thodes de classement et d'archivage",
+            "code_ogr": "22127",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de restauration",
+            "code_ogr": "23102",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sc\u00e9nographie",
+            "code_ogr": "22679",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nReconstitue des sp\u00e9cimens d'esp\u00e8ces animales, contemporaines ou pal\u00e9ontologiques et leur milieu naturel dans un objectif scientifique, p\u00e9dagogique et esth\u00e9tique selon les r\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9, et la r\u00e9glementation (environnement, protection des esp\u00e8ces, ...).\nPeut r\u00e9aliser des montages ost\u00e9ologiques, des moulages, des prises d'empreintes (crustac\u00e9s, invert\u00e9br\u00e9s, cr\u00e2nes de gros mammif\u00e8res,...).\nPeut inventorier une collection d'animaux naturalis\u00e9s et exposer des naturalisations.\nPeut diriger une structure.\n",
+    "intitule": "Conservation et reconstitution d'esp\u00e8ces animales",
+    "code_ogr": "48",
+    "code_rome": "B1701",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "B1101",
+            "libelle_rome_cible": "Cr\u00e9ation en arts plastiques"
+        }
+    ]
+}

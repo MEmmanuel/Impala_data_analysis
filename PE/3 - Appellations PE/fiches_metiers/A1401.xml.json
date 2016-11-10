@@ -1,0 +1,411 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Aide agricole en arboriculture",
+            "priorisation": "1",
+            "libelle": "Aide agricole en arboriculture",
+            "code_ogr": "10806"
+        },
+        {
+            "libelle_court": "Aide agricole en production fruiti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Aide agricole en production fruiti\u00e8re",
+            "code_ogr": "10810"
+        },
+        {
+            "libelle_court": "Aide agricole en viticulture",
+            "priorisation": "1",
+            "libelle": "Aide agricole en viticulture",
+            "code_ogr": "10814"
+        },
+        {
+            "libelle_court": "Aide arboricole",
+            "priorisation": "1",
+            "libelle": "Aide arboricole",
+            "code_ogr": "10815"
+        },
+        {
+            "libelle_court": "Aide viticole",
+            "priorisation": "1",
+            "libelle": "Aide viticole",
+            "code_ogr": "10862"
+        },
+        {
+            "libelle_court": "Aide-arboriculteur / Aide-arboricultrice",
+            "priorisation": "1",
+            "libelle": "Aide-arboriculteur / Aide-arboricultrice",
+            "code_ogr": "10864"
+        },
+        {
+            "libelle_court": "Aide-p\u00e9pini\u00e9riste",
+            "priorisation": "1",
+            "libelle": "Aide-p\u00e9pini\u00e9riste",
+            "code_ogr": "10886"
+        },
+        {
+            "libelle_court": "Aide-viticulteur / Aide-viticultrice",
+            "priorisation": "1",
+            "libelle": "Aide-viticulteur / Aide-viticultrice",
+            "code_ogr": "10900"
+        },
+        {
+            "libelle_court": "Cueilleur / Cueilleuse de cerises",
+            "priorisation": "1",
+            "libelle": "Cueilleur / Cueilleuse de cerises",
+            "code_ogr": "13853"
+        },
+        {
+            "libelle_court": "Cueilleur / Cueilleuse de fruits",
+            "priorisation": "1",
+            "libelle": "Cueilleur / Cueilleuse de fruits",
+            "code_ogr": "13855"
+        },
+        {
+            "libelle_court": "Cueilleur / Cueilleuse de p\u00eaches",
+            "priorisation": "1",
+            "libelle": "Cueilleur / Cueilleuse de p\u00eaches",
+            "code_ogr": "13856"
+        },
+        {
+            "libelle_court": "Cueilleur / Cueilleuse de poires",
+            "priorisation": "1",
+            "libelle": "Cueilleur / Cueilleuse de poires",
+            "code_ogr": "13857"
+        },
+        {
+            "libelle_court": "Cueilleur / Cueilleuse de pommes",
+            "priorisation": "1",
+            "libelle": "Cueilleur / Cueilleuse de pommes",
+            "code_ogr": "13858"
+        },
+        {
+            "libelle_court": "Planteur / Planteuse de bananes",
+            "priorisation": "1",
+            "libelle": "Planteur / Planteuse de bananes",
+            "code_ogr": "17817"
+        },
+        {
+            "libelle_court": "Porteur / Porteuse de hottes",
+            "priorisation": "1",
+            "libelle": "Porteur / Porteuse de hottes",
+            "code_ogr": "17892"
+        },
+        {
+            "libelle_court": "Vendangeur / Vendangeuse",
+            "priorisation": "1",
+            "libelle": "Vendangeur / Vendangeuse",
+            "code_ogr": "20510"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Identifier le lieu d'intervention (rang, parcelle, ...) et rep\u00e9rer les produits \u00e0 ramasser selon les consignes",
+            "code_ogr": "2061",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser les travaux d'entretien des plantations (\u00e9claircissage, \u00e9bourgeonnage, palissage, ...)",
+            "code_ogr": "2878",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9lectionner, ramasser et r\u00e9colter des produits agricoles",
+            "code_ogr": "3196",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conditionner les produits selon leurs caract\u00e9ristiques, les commandes et le mode de transport",
+            "code_ogr": "3509",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser le nettoyage du mat\u00e9riel de r\u00e9colte et l'entretien des \u00e9quipements ou installations",
+            "code_ogr": "2805",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "A1402",
+            "libelle_rome_cible": "Aide agricole de production l\u00e9gumi\u00e8re ou v\u00e9g\u00e9tale"
+        },
+        {
+            "code_rome_cible": "H3302",
+            "libelle_rome_cible": "Op\u00e9rations manuelles d'assemblage, tri ou emballage"
+        },
+        {
+            "code_rome_cible": "N1105",
+            "libelle_rome_cible": "Manutention manuelle de charges"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle.\nLes recrutements peuvent \u00eatre ouverts sur contrats de travail saisonniers.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser la r\u00e9colte de :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Abricots",
+            "code_ogr": "38521",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Agrumes (oranges, citrons, ...)",
+            "code_ogr": "38522",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cerises",
+            "code_ogr": "38523",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Figues",
+            "code_ogr": "38524",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Fraises",
+            "code_ogr": "38525",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Kiwis",
+            "code_ogr": "38526",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Melons",
+            "code_ogr": "38527",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Olives",
+            "code_ogr": "38528",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "P\u00eaches",
+            "code_ogr": "38529",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Poires",
+            "code_ogr": "38530",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "10",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pommes",
+            "code_ogr": "38531",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "11",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Raisins",
+            "code_ogr": "38532",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "12",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Trier, calibrer les produits r\u00e9colt\u00e9s et les pr\u00e9parer aux op\u00e9rations de conditionnement (mise en tas, effeuillage, s\u00e9chage, ...)",
+            "code_ogr": "10060",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Participer \u00e0 l'installation du mat\u00e9riel de plantation (films plastiques, filets, clips de maintien, ...)",
+            "code_ogr": "7779",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Rep\u00e9rer la pr\u00e9sence d'esp\u00e8ces nuisibles et constater la nature et l'\u00e9tendue des d\u00e9g\u00e2ts",
+            "code_ogr": "2232",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Conditionner des produits (\u00e9tiquetage, emballage) et pr\u00e9parer les commandes",
+            "code_ogr": "4047",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'exploitations de production fruiti\u00e8re, de plantations, de p\u00e9pini\u00e8res, ... en relation avec le chef d'exploitation.\nElle varie selon le type de produit (fruits \u00e0 p\u00e9pins, raisin de table, raisin \u00e0 vin, ...), l'\u00e9tape d'intervention (\u00e9claircissage, plissage, \u00e9pamprage, ...).\nUne possibilit\u00e9 d'h\u00e9bergement et de restauration peut \u00eatre offerte aux salari\u00e9s saisonniers.\nL'activit\u00e9 peut s'exercer en horaires d\u00e9cal\u00e9s, les fins de semaine, jours f\u00e9ri\u00e9s et est soumise \u00e0 des variations saisonni\u00e8res.\nLa r\u00e9mun\u00e9ration peut s'effectuer \u00e0 la t\u00e2che (au kilogramme de raisin cueilli, ...).\nL'activit\u00e9 s'effectue \u00e0 l'ext\u00e9rieur ou sous serres et peut impliquer le port de charges.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils manuels agricoles",
+            "code_ogr": "21479",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Eclaircissage",
+            "code_ogr": "20865",
+            "position_item": "2",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Exploitation arboricole",
+            "code_ogr": "23930",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Exploitation viticole / vinicole",
+            "code_ogr": "23933",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "P\u00e9pini\u00e8re",
+            "code_ogr": "24033",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Logement assur\u00e9 par l'employeur",
+            "code_ogr": "38126",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9",
+            "code_ogr": "22648",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'emballage et de conditionnement",
+            "code_ogr": "23192",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes qualit\u00e9",
+            "code_ogr": "22233",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Gestes et postures de manutention",
+            "code_ogr": "21992",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pathologies v\u00e9g\u00e9tales",
+            "code_ogr": "22280",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise des op\u00e9rations simples manuelles d'entretien de cultures, de r\u00e9colte de fruits et de vendange selon les r\u00e8gles d'hygi\u00e8ne, les normes environnementales et les imp\u00e9ratifs de production (rendement, d\u00e9lai, ...).\nPeut r\u00e9aliser des op\u00e9rations de conditionnement des produits.\n",
+    "intitule": "Aide agricole de production fruiti\u00e8re ou viticole",
+    "code_ogr": "15",
+    "code_rome": "A1401",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "A1414",
+            "libelle_rome_cible": "Horticulture et mara\u00eechage"
+        },
+        {
+            "code_rome_cible": "A1416",
+            "libelle_rome_cible": "Polyculture, \u00e9levage"
+        }
+    ]
+}

@@ -1,0 +1,561 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Aide peintre",
+            "priorisation": "1",
+            "libelle": "Aide peintre",
+            "code_ogr": "38415"
+        },
+        {
+            "libelle_court": "Applicateur / Applicatrice de r\u00e9sines de synth\u00e8se",
+            "priorisation": "1",
+            "libelle": "Applicateur / Applicatrice de r\u00e9sines de synth\u00e8se",
+            "code_ogr": "11083"
+        },
+        {
+            "libelle_court": "Applicateur / Applicatrice d'enduits",
+            "priorisation": "1",
+            "libelle": "Applicateur / Applicatrice d'enduits",
+            "code_ogr": "11085"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe peinture",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe peinture",
+            "code_ogr": "12483"
+        },
+        {
+            "libelle_court": "Peintre d\u00e9corateur / d\u00e9coratrice",
+            "priorisation": "1",
+            "libelle": "Peintre d\u00e9corateur / d\u00e9coratrice",
+            "code_ogr": "17617"
+        },
+        {
+            "libelle_court": "Peintre d'int\u00e9rieur",
+            "priorisation": "1",
+            "libelle": "Peintre d'int\u00e9rieur",
+            "code_ogr": "17618"
+        },
+        {
+            "libelle_court": "Peintre en b\u00e2timent",
+            "priorisation": "1",
+            "libelle": "Peintre en b\u00e2timent",
+            "code_ogr": "17619"
+        },
+        {
+            "libelle_court": "Peintre en lettres",
+            "priorisation": "1",
+            "libelle": "Peintre en lettres",
+            "code_ogr": "17624"
+        },
+        {
+            "libelle_court": "Peintre enduiseur / enduiseuse",
+            "priorisation": "1",
+            "libelle": "Peintre enduiseur / enduiseuse",
+            "code_ogr": "17629"
+        },
+        {
+            "libelle_court": "Peintre finisseur / finisseuse",
+            "priorisation": "1",
+            "libelle": "Peintre finisseur / finisseuse",
+            "code_ogr": "17630"
+        },
+        {
+            "libelle_court": "Peintre pl\u00e2trier / pl\u00e2tri\u00e8re",
+            "priorisation": "1",
+            "libelle": "Peintre pl\u00e2trier / pl\u00e2tri\u00e8re",
+            "code_ogr": "17638"
+        },
+        {
+            "libelle_court": "Peintre ragr\u00e9eur / ragr\u00e9euse",
+            "priorisation": "1",
+            "libelle": "Peintre ragr\u00e9eur / ragr\u00e9euse",
+            "code_ogr": "17640"
+        },
+        {
+            "libelle_court": "Peintre tapissier / tapissi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Peintre tapissier / tapissi\u00e8re",
+            "code_ogr": "17647"
+        },
+        {
+            "libelle_court": "Peintre vitrier / vitri\u00e8re",
+            "priorisation": "1",
+            "libelle": "Peintre vitrier / vitri\u00e8re",
+            "code_ogr": "17649"
+        },
+        {
+            "libelle_court": "Poseur / Poseuse de papiers peints",
+            "priorisation": "1",
+            "libelle": "Poseur / Poseuse de papiers peints",
+            "code_ogr": "17926"
+        },
+        {
+            "libelle_court": "Poseur / Poseuse de plafonds tendus",
+            "priorisation": "1",
+            "libelle": "Poseur / Poseuse de plafonds tendus",
+            "code_ogr": "17929"
+        },
+        {
+            "libelle_court": "Poseur / Poseuse de tissu tendu",
+            "priorisation": "1",
+            "libelle": "Poseur / Poseuse de tissu tendu",
+            "code_ogr": "17937"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Implanter et s\u00e9curiser le chantier par l'installation d'\u00e9chafaudages, de gardes de corps anti-chutes, de lignes de vie, et des stocks de mat\u00e9riaux",
+            "code_ogr": "2179",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier la nature du support (ma\u00e7onn\u00e9, pl\u00e2tre, bois, m\u00e9taux, plastiques, ...) et v\u00e9rifier son \u00e9tat (d\u00e9fauts, d\u00e9t\u00e9rioration, ...)",
+            "code_ogr": "2051",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer le support \u00e0 rev\u00eatir et appliquer des enduits, appr\u00eats, ...",
+            "code_ogr": "2607",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer la peinture",
+            "code_ogr": "3580",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Appliquer les couches primaires, interm\u00e9diaires et de finition",
+            "code_ogr": "695",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer et coller un rev\u00eatement mural",
+            "code_ogr": "3579",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1212",
+            "libelle_rome_cible": "Vente en d\u00e9coration et \u00e9quipement du foyer"
+        },
+        {
+            "code_rome_cible": "F1601",
+            "libelle_rome_cible": "Application et d\u00e9coration en pl\u00e2tre, stuc et staff"
+        },
+        {
+            "code_rome_cible": "F1609",
+            "libelle_rome_cible": "Pose de rev\u00eatements souples"
+        },
+        {
+            "code_rome_cible": "F1611",
+            "libelle_rome_cible": "R\u00e9alisation et restauration de fa\u00e7ades"
+        },
+        {
+            "code_rome_cible": "I1203",
+            "libelle_rome_cible": "Maintenance des b\u00e2timents et des locaux"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un CAP/BEP en peinture du b\u00e2timent.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans ce secteur sans dipl\u00f4me particulier.\nUn dipl\u00f4me de niveau Bac (Bac professionnel, Brevet Professionnel) peut \u00eatre demand\u00e9 pour les postes d'encadrement d'\u00e9quipe.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 386 (Plates-formes \u00e9l\u00e9vatrices mobiles de personnes)",
+            "code_ogr": "10120",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des enduits :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "A base de stuc",
+            "code_ogr": "8375",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "A l'\u00e9ponge",
+            "code_ogr": "8376",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "De cuvelage",
+            "code_ogr": "8377",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "De jointoiement",
+            "code_ogr": "8378",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "De parement",
+            "code_ogr": "8379",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des applications de peintures :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Badigeon",
+            "code_ogr": "8250",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Frise",
+            "code_ogr": "8251",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Laque tendue",
+            "code_ogr": "8252",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Patine",
+            "code_ogr": "8253",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Peinture \u00e0 l'essuy\u00e9",
+            "code_ogr": "8254",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Poser des \u00e9l\u00e9ments pr\u00e9fabriqu\u00e9s en stuc, en staff, ...",
+            "code_ogr": "7859",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des effets d\u00e9coratifs et des ornementations (faux marbre, trompe-l'oeil, ...)",
+            "code_ogr": "8370",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Remplacer un \u00e9l\u00e9ment vitr\u00e9",
+            "code_ogr": "9539",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9poser et reposer des \u00e9l\u00e9ments sanitaires (lavabo, baignoire, \u00e9vier, ...) et des appareils \u00e9lectriques simples",
+            "code_ogr": "4624",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9couper et poser du carrelage",
+            "code_ogr": "4473",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Appliquer de la r\u00e9sine de synth\u00e8se",
+            "code_ogr": "3768",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Poser un rev\u00eatement souple (linol\u00e9um, moquette, dalles plastiques, ...)",
+            "code_ogr": "7888",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Poser l'isolant phonique ou thermique",
+            "code_ogr": "3577",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir un devis et apporter un conseil technique au client",
+            "code_ogr": "5843",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce sur des chantiers (neuf, r\u00e9habilitation) au sein d'entreprises du b\u00e2timent, d'entreprises artisanales parfois en contact avec des clients.\nElle peut s'exercer en hauteur.\nLe port d'\u00e9quipements de protection (chaussures de s\u00e9curit\u00e9, gants, harnais, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Ragr\u00e9age",
+            "code_ogr": "21066",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outillages \u00e9lectroportatifs (scie \u00e9lectrique, ponceuse, ...)",
+            "code_ogr": "21464",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Montage d'\u00e9chafaudage",
+            "code_ogr": "21009",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Application de produits au pochoir",
+            "code_ogr": "20761",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "D\u00e9coupe du verre",
+            "code_ogr": "20846",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "D\u00e9coupe de carrelage",
+            "code_ogr": "20842",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chiffrage/calcul de co\u00fbt",
+            "code_ogr": "20813",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise",
+            "code_ogr": "23867",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise artisanale",
+            "code_ogr": "23870",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent et Travaux Publics -BTP-",
+            "code_ogr": "23420",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent second oeuvre",
+            "code_ogr": "23418",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles et consignes de s\u00e9curit\u00e9",
+            "code_ogr": "22656",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des enduits",
+            "code_ogr": "21574",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'application d'enduit",
+            "code_ogr": "22780",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des peintures",
+            "code_ogr": "21632",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de peinture \u00e0 la brosse",
+            "code_ogr": "23025",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de peinture \u00e0 la taloche",
+            "code_ogr": "23026",
+            "position_item": "6",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise les finitions et embellissements des surfaces par application de peinture, r\u00e9sine, vernis, apr\u00e8s pr\u00e9paration manuelle ou m\u00e9canique des supports. Pose des rev\u00eatements muraux (papiers peints, tissus...).\nPeut poser des rev\u00eatements de sol (moquette, linol\u00e9um, ...), des vitres, ...\n",
+    "intitule": "Peinture en b\u00e2timent",
+    "code_ogr": "166",
+    "code_rome": "F1606",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "B1806",
+            "libelle_rome_cible": "Tapisserie - d\u00e9coration en ameublement"
+        },
+        {
+            "code_rome_cible": "F1202",
+            "libelle_rome_cible": "Direction de chantier du BTP"
+        },
+        {
+            "code_rome_cible": "F1604",
+            "libelle_rome_cible": "Montage d'agencements"
+        },
+        {
+            "code_rome_cible": "F1608",
+            "libelle_rome_cible": "Pose de rev\u00eatements rigides"
+        },
+        {
+            "code_rome_cible": "I1201",
+            "libelle_rome_cible": "Entretien d'affichage et mobilier urbain"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ]
+}

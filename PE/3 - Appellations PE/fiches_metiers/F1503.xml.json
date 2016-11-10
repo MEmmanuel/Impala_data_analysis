@@ -1,0 +1,681 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Aide charpentier / charpenti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Aide charpentier / charpenti\u00e8re",
+            "code_ogr": "38496"
+        },
+        {
+            "libelle_court": "Charpentier / Charpenti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Charpentier / Charpenti\u00e8re",
+            "code_ogr": "11952"
+        },
+        {
+            "libelle_court": "Charpentier / Charpenti\u00e8re bois en construction navale",
+            "priorisation": "1",
+            "libelle": "Charpentier / Charpenti\u00e8re bois en construction navale",
+            "code_ogr": "11953"
+        },
+        {
+            "libelle_court": "Charpentier / Charpenti\u00e8re de marine",
+            "priorisation": "1",
+            "libelle": "Charpentier / Charpenti\u00e8re de marine",
+            "code_ogr": "11955"
+        },
+        {
+            "libelle_court": "Charpentier / Charpenti\u00e8re de restauration",
+            "priorisation": "1",
+            "libelle": "Charpentier / Charpenti\u00e8re de restauration",
+            "code_ogr": "11956"
+        },
+        {
+            "libelle_court": "Charpentier escali\u00e9teur / Charpenti\u00e8re escali\u00e9teuse",
+            "priorisation": "1",
+            "libelle": "Charpentier escali\u00e9teur / Charpenti\u00e8re escali\u00e9teuse",
+            "code_ogr": "11957"
+        },
+        {
+            "libelle_court": "Charpentier naval / Charpenti\u00e8re navale sur ossature bois",
+            "priorisation": "1",
+            "libelle": "Charpentier naval / Charpenti\u00e8re navale sur ossature bois",
+            "code_ogr": "11964"
+        },
+        {
+            "libelle_court": "Traceur / Traceuse de charpentes en bois",
+            "priorisation": "1",
+            "libelle": "Traceur / Traceuse de charpentes en bois",
+            "code_ogr": "20393"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "D\u00e9terminer les contraintes techniques, \u00e9conomiques et juridiques et \u00e9tablir les co\u00fbts et les plans de la structure \u00e0 oeuvrer",
+            "code_ogr": "1427",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9lectionner le bois et constituer le stock de mati\u00e8res premi\u00e8res et de consommables",
+            "code_ogr": "3148",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tracer au sol l'ensemble de la structure en fonction de la fiche technique et reporter les rep\u00e8res de coupe et d'assemblage sur les pi\u00e8ces",
+            "code_ogr": "3362",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9biter et usiner (mortaisage, per\u00e7age, rabotage, ...) les arbal\u00e9triers, pannes, marches, membrures, ...",
+            "code_ogr": "1222",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer un essai d'assemblage en atelier et ajuster (dimensions, pon\u00e7age ...) chaque pi\u00e8ce",
+            "code_ogr": "1693",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Appliquer les produits de traitement et d'\u00e9tanch\u00e9it\u00e9 sur les pi\u00e8ces ou l'ensemble r\u00e9alis\u00e9",
+            "code_ogr": "2845",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Monter/assembler les pi\u00e8ces de la structure sur le chantier, en contr\u00f4ler la r\u00e9alisation et ajuster",
+            "code_ogr": "2386",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "F1501",
+            "libelle_rome_cible": "Montage de structures et de charpentes bois"
+        },
+        {
+            "code_rome_cible": "H2201",
+            "libelle_rome_cible": "Assemblage d'ouvrages en bois"
+        },
+        {
+            "code_rome_cible": "H2202",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de fabrication de l'ameublement et du bois"
+        },
+        {
+            "code_rome_cible": "H2206",
+            "libelle_rome_cible": "R\u00e9alisation de menuiserie bois et tonnellerie"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac+2 (BTS) en construction bois, charpente bois, construction bois et habitat, ...\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations de finition :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Traitement insecticide, fongicide",
+            "code_ogr": "8625",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Teinture, lasure, peinture",
+            "code_ogr": "8624",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Vernissage",
+            "code_ogr": "8626",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etanch\u00e9it\u00e9",
+            "code_ogr": "8618",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des ouvrages, ossatures bois :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Am\u00e9nagement et mobilier urbain",
+            "code_ogr": "8986",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "B\u00e2timents d'habitation et de service",
+            "code_ogr": "8987",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "B\u00e2timents industriels (hangars agricoles, ...)",
+            "code_ogr": "8988",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coques de bateaux",
+            "code_ogr": "8989",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Couvertures bois",
+            "code_ogr": "8990",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "El\u00e9ments de nautisme (barre, safran, coffres \u00e0 batteries, ...)",
+            "code_ogr": "8991",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Maisons \u00e0 ossature bois, chalets",
+            "code_ogr": "8992",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Menuiseries ext\u00e9rieures (lucarnes, fa\u00e7ades menuis\u00e9es, ...)",
+            "code_ogr": "8993",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Menuiseries int\u00e9rieures (parquets, escaliers, sous -pentes, ...)",
+            "code_ogr": "8994",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ponts et passerelles",
+            "code_ogr": "8995",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "10",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des pi\u00e8ces (gabarits, charpentes, coques, ...) en :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Aluminium",
+            "code_ogr": "8997",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bois et d\u00e9riv\u00e9s (panneaux de particules, agglom\u00e9r\u00e9s, latt\u00e9, ...)",
+            "code_ogr": "8998",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mat\u00e9riaux synth\u00e9tiques et composites (PVC, r\u00e9sines, plastique, ...)",
+            "code_ogr": "8999",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Poser/fixer des \u00e9l\u00e9ments :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Couverture (tuiles, ardoises, ...)",
+            "code_ogr": "7889",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "El\u00e9ments d'isolation",
+            "code_ogr": "7890",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Vitrages",
+            "code_ogr": "7891",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Zinguerie",
+            "code_ogr": "7892",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations sur les bateaux :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etanch\u00e9it\u00e9 (calfatage, lattes de bois, application, masticage, ...)",
+            "code_ogr": "8911",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mise en place et r\u00e9glages d'\u00e9quipements techniques de pont, de manoeuvre, de s\u00e9curit\u00e9 (m\u00e2ts, gr\u00e9ement, appareil \u00e0 gouverner, ...)",
+            "code_ogr": "8912",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Montage d'accastillage",
+            "code_ogr": "8913",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pose d'\u00e9quipements techniques de r\u00e9seaux (motorisation, \u00e9lectricit\u00e9, hydraulique, ...)",
+            "code_ogr": "8914",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Stratification de renforts et pose d'isolants",
+            "code_ogr": "8915",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 318 (ponts roulants)",
+            "code_ogr": "10100",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Concevoir des structures (charpente, ossature, escalier, ...) \u00e0 partir de plans et de contraintes techniques",
+            "code_ogr": "3988",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Transmettre les techniques du m\u00e9tier ou mener des actions de sensibilisation au m\u00e9tier",
+            "code_ogr": "10026",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe ou diriger une structure",
+            "code_ogr": "4326",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises du b\u00e2timent, de chantiers navals, d'\u00e9tablissements publics, de collectivit\u00e9s territoriales, des arm\u00e9es, en contact avec des clients et diff\u00e9rents intervenants (architecte, autres corps d'\u00e9tat du b\u00e2timent gros oeuvre, ...). Elle peut impliquer des d\u00e9placements (pose sur site, chantier embarqu\u00e9...).\nElle s'exerce en atelier, sur chantier, en hauteur, en environnement poussi\u00e9reux et implique la manutention de charges et l'utilisation d'outils coupants.\nLe port d'\u00e9quipements de protection (harnais, chaussures de s\u00e9curit\u00e9, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Calcul de m\u00e9tr\u00e9",
+            "code_ogr": "20804",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Equerrage",
+            "code_ogr": "20884",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils manuels (limes, scie, rabot, ciseaux \u00e0 bois, ...)",
+            "code_ogr": "21477",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de machines \u00e0 commandes num\u00e9riques",
+            "code_ogr": "21309",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Conception et de Dessin Assist\u00e9s par Ordinateur -CAO/DAO-",
+            "code_ogr": "21249",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de pistolet de projection",
+            "code_ogr": "21352",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "B\u00e2timent et Travaux Publics -BTP-",
+            "code_ogr": "23420",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Construction navale",
+            "code_ogr": "23453",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "G\u00e9om\u00e9trie",
+            "code_ogr": "21986",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Dessin industriel",
+            "code_ogr": "21777",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des bois et d\u00e9riv\u00e9s du bois",
+            "code_ogr": "21560",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des bois exotiques (essence, densit\u00e9, ...)",
+            "code_ogr": "21561",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes de la construction",
+            "code_ogr": "22220",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de chevillage",
+            "code_ogr": "22829",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de s\u00e9curit\u00e9 sur chantier",
+            "code_ogr": "22435",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Triangulation",
+            "code_ogr": "23302",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de montage et d'assemblage (vissage, clouage, boulonnage, rivetage...)",
+            "code_ogr": "22997",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de cintrage",
+            "code_ogr": "22831",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de construction navale",
+            "code_ogr": "22851",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de soudure",
+            "code_ogr": "23128",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de stratification",
+            "code_ogr": "23130",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Calcul de port\u00e9e",
+            "code_ogr": "21540",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Calcul de r\u00e9sistance aux efforts et charges",
+            "code_ogr": "21541",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nDessine les plans, usine et assemble les structures de constructions en bois (charpentes, coques de bateaux, ossatures de maisons en bois, ...) manuellement ou \u00e0 l'aide de machines \u00e0 bois selon les r\u00e8gles de s\u00e9curit\u00e9.\nPeut effectuer la mise en place et le montage final des structures r\u00e9alis\u00e9es sur site.\nPeut coordonner une \u00e9quipe et diriger une structure.\n",
+    "intitule": "R\u00e9alisation - installation d'ossatures bois",
+    "code_ogr": "160",
+    "code_rome": "F1503",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1402",
+            "libelle_rome_cible": "Relation commerciale grands comptes et entreprises"
+        },
+        {
+            "code_rome_cible": "D1407",
+            "libelle_rome_cible": "Relation technico-commerciale"
+        },
+        {
+            "code_rome_cible": "H2204",
+            "libelle_rome_cible": "Encadrement des industries de l'ameublement et du bois"
+        },
+        {
+            "code_rome_cible": "H2207",
+            "libelle_rome_cible": "R\u00e9alisation de meubles en bois"
+        },
+        {
+            "code_rome_cible": "H2209",
+            "libelle_rome_cible": "Intervention technique en ameublement et bois"
+        },
+        {
+            "code_rome_cible": "K1203",
+            "libelle_rome_cible": "Encadrement technique en insertion professionnelle"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ]
+}

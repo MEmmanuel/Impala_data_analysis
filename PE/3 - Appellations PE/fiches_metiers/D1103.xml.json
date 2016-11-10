@@ -1,0 +1,570 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Aide-charcutier / Aide-charcuti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Aide-charcutier / Aide-charcuti\u00e8re",
+            "code_ogr": "10869"
+        },
+        {
+            "libelle_court": "Charcutier / Charcuti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Charcutier / Charcuti\u00e8re",
+            "code_ogr": "11741"
+        },
+        {
+            "libelle_court": "Charcutier-traiteur / Charcuti\u00e8re-traiteuse",
+            "priorisation": "1",
+            "libelle": "Charcutier-traiteur / Charcuti\u00e8re-traiteuse",
+            "code_ogr": "11742"
+        },
+        {
+            "libelle_court": "Chef charcutier-traiteur / charcuti\u00e8re-traiteuse",
+            "priorisation": "1",
+            "libelle": "Chef charcutier-traiteur / charcuti\u00e8re-traiteuse",
+            "code_ogr": "12009"
+        },
+        {
+            "libelle_court": "Chef de fabrication en charcuterie",
+            "priorisation": "1",
+            "libelle": "Chef de fabrication en charcuterie",
+            "code_ogr": "12142"
+        },
+        {
+            "libelle_court": "Chef de laboratoire en charcuterie",
+            "priorisation": "1",
+            "libelle": "Chef de laboratoire en charcuterie",
+            "code_ogr": "12179"
+        },
+        {
+            "libelle_court": "Ouvrier charcutier / Ouvri\u00e8re charcuti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Ouvrier charcutier / Ouvri\u00e8re charcuti\u00e8re",
+            "code_ogr": "17413"
+        },
+        {
+            "libelle_court": "R\u00f4tisseur / R\u00f4tisseuse",
+            "priorisation": "1",
+            "libelle": "R\u00f4tisseur / R\u00f4tisseuse",
+            "code_ogr": "19288"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Planifier la production selon les commandes de clients, les produits en stock et la saisonnalit\u00e9",
+            "code_ogr": "3576",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'\u00e9pluchage et le lavage des l\u00e9gumes et des fruits",
+            "code_ogr": "1530",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la salaison, le fumage, la cuisson des viandes, \u00e9laborer des produits de charcuterie, des plats traiteurs, et les stocker en chambre froide, ...",
+            "code_ogr": "1539",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la d\u00e9coration des plats, le conditionnement des produits de charcuterie, des plats traiteurs et les disposer en vitrine",
+            "code_ogr": "1509",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Prendre la commande du client et le renseigner sur les produits de charcuterie les plats traiteur, ...",
+            "code_ogr": "2032",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "5",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer et maintenir en \u00e9tat de propret\u00e9 et d'hygi\u00e8ne le plan de travail, les outils et les locaux",
+            "code_ogr": "2409",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1101",
+            "libelle_rome_cible": "Boucherie"
+        },
+        {
+            "code_rome_cible": "D1106",
+            "libelle_rome_cible": "Vente en alimentation"
+        },
+        {
+            "code_rome_cible": "D1107",
+            "libelle_rome_cible": "Vente en gros de produits frais"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac (Bac professionnel, Brevet Professionnel) en charcuterie, traiteur, alimentation.\nIl est \u00e9galement accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle pour le poste d'aide-charcutier.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser des pr\u00e9parations culinaires \u00e0 partir de :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Agneau",
+            "code_ogr": "9024",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Boeuf",
+            "code_ogr": "9025",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Gibier, viande chevaline, bison, ...",
+            "code_ogr": "9026",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Lapin",
+            "code_ogr": "9027",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mouton",
+            "code_ogr": "9028",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Porc",
+            "code_ogr": "9029",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Veau",
+            "code_ogr": "9030",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Volaille",
+            "code_ogr": "9031",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer/cuisiner un type de produits :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Plats cuisin\u00e9s (gratins, choucroute, ...)",
+            "code_ogr": "8027",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parations sucr\u00e9es (tartes sucr\u00e9es, entremets, ...)",
+            "code_ogr": "8029",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Produits de charcuterie (salaisons, p\u00e2t\u00e9s, boudins, ...)",
+            "code_ogr": "8030",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Produits traiteurs sal\u00e9s (petits fours, entr\u00e9es froides, chaudes, ...)",
+            "code_ogr": "8033",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9couper les carcasses, les pi\u00e8ces de viande et les pr\u00e9parer (d\u00e9sossage, parage, ...)",
+            "code_ogr": "3521",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les op\u00e9rations de vente de produits",
+            "code_ogr": "5412",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Concevoir et proposer une prestation traiteur",
+            "code_ogr": "4008",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9ceptionner, contr\u00f4ler les marchandises et les stocker en chambre froide, en r\u00e9serve, ...",
+            "code_ogr": "3592",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la gestion comptable et administrative d'une structure",
+            "code_ogr": "3533",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Former des employ\u00e9s aux techniques du m\u00e9tier",
+            "code_ogr": "4764",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de charcuteries, de traiteurs, de boucheries-charcuteries traditionnelles ou industrielles, aux rayons charcuterie/traiteur de grandes et moyennes surfaces, sur les march\u00e9s, parfois en contact avec les clients, en relation avec les fournisseurs, le responsable de rayon et diff\u00e9rents services (livraisons, services v\u00e9t\u00e9rinaires, services d'hygi\u00e8ne).\nElle varie selon la structure (entreprise artisanale, hypermarch\u00e9, ...).\nElle peut s'exercer les fins de semaine.\nL'activit\u00e9 s'effectue en laboratoire, en magasin et peut impliquer le port de charges et la station debout prolong\u00e9e.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de machine de d\u00e9coupe de viande",
+            "code_ogr": "21295",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de nettoyage",
+            "code_ogr": "21330",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Mise en conserve",
+            "code_ogr": "20999",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chiffrage/calcul de co\u00fbt",
+            "code_ogr": "20813",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion comptable",
+            "code_ogr": "21252",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Boucherie-charcuterie",
+            "code_ogr": "23722",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Charcuterie",
+            "code_ogr": "23432",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise alimentaire",
+            "code_ogr": "23868",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Hypermarch\u00e9 (2500 m2 et +)",
+            "code_ogr": "23967",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "March\u00e9, foire exposition",
+            "code_ogr": "24005",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Supermarch\u00e9 (400 \u00e0 2500m2)",
+            "code_ogr": "24116",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Traiteur",
+            "code_ogr": "24119",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaire",
+            "code_ogr": "22649",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Tra\u00e7abilit\u00e9 des produits",
+            "code_ogr": "23289",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Typologie des pi\u00e8ces de viande",
+            "code_ogr": "23353",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Cha\u00eene du froid",
+            "code_ogr": "21701",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modes de conservation des produits alimentaires",
+            "code_ogr": "22195",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de fabrication de produits de charcuterie",
+            "code_ogr": "22405",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'embossage",
+            "code_ogr": "23193",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de fumage",
+            "code_ogr": "22915",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de salaison",
+            "code_ogr": "23107",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en production culinaire",
+            "code_ogr": "21907",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Modes de cuisson des aliments",
+            "code_ogr": "22196",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en p\u00e2tisserie",
+            "code_ogr": "21900",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Vari\u00e9t\u00e9s de viandes",
+            "code_ogr": "23364",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de d\u00e9coupe des viandes",
+            "code_ogr": "22878",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de vente",
+            "code_ogr": "23168",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'encaissement",
+            "code_ogr": "22454",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Conditions de stockage de produits alimentaires",
+            "code_ogr": "21742",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de gestion de stocks",
+            "code_ogr": "22609",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nPr\u00e9pare et r\u00e9alise des produits de charcuterie et des produits traiteurs (entr\u00e9es froides, entr\u00e9es chaudes, plats cuisin\u00e9s) selon les r\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaires.\nPeut effectuer la vente de produits de charcuterie et de produits traiteurs.\nPeut g\u00e9rer un commerce de d\u00e9tail alimentaire (charcuterie, boucherie-charcuterie, ...).\n",
+    "intitule": "Charcuterie - traiteur",
+    "code_ogr": "82",
+    "code_rome": "D1103",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1301",
+            "libelle_rome_cible": "Management de magasin de d\u00e9tail"
+        },
+        {
+            "code_rome_cible": "D1402",
+            "libelle_rome_cible": "Relation commerciale grands comptes et entreprises"
+        },
+        {
+            "code_rome_cible": "D1502",
+            "libelle_rome_cible": "Management/gestion de rayon produits alimentaires"
+        },
+        {
+            "code_rome_cible": "E1107",
+            "libelle_rome_cible": "Organisation d'\u00e9v\u00e8nementiel"
+        },
+        {
+            "code_rome_cible": "G1602",
+            "libelle_rome_cible": "Personnel de cuisine"
+        },
+        {
+            "code_rome_cible": "K2109",
+            "libelle_rome_cible": "Enseignement technique et professionnel"
+        }
+    ]
+}

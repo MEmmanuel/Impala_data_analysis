@@ -1,0 +1,508 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Aide-boulanger / Aide-boulang\u00e8re",
+            "priorisation": "1",
+            "libelle": "Aide-boulanger / Aide-boulang\u00e8re",
+            "code_ogr": "10868"
+        },
+        {
+            "libelle_court": "Boulanger / Boulang\u00e8re",
+            "priorisation": "1",
+            "libelle": "Boulanger / Boulang\u00e8re",
+            "code_ogr": "11573"
+        },
+        {
+            "libelle_court": "Boulanger-p\u00e2tissier / Boulang\u00e8re-p\u00e2tissi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Boulanger-p\u00e2tissier / Boulang\u00e8re-p\u00e2tissi\u00e8re",
+            "code_ogr": "11574"
+        },
+        {
+            "libelle_court": "Boulanger-p\u00e2tissier-traiteur/Boulang\u00e8re-p\u00e2tissi\u00e8re-traiteuse",
+            "priorisation": "1",
+            "libelle": "Boulanger-p\u00e2tissier-traiteur / Boulang\u00e8re-p\u00e2tissi\u00e8re-traiteuse",
+            "code_ogr": "11575"
+        },
+        {
+            "libelle_court": "Boulanger-traiteur / Boulang\u00e8re-traiteuse",
+            "priorisation": "1",
+            "libelle": "Boulanger-traiteur / Boulang\u00e8re-traiteuse",
+            "code_ogr": "11576"
+        },
+        {
+            "libelle_court": "Boulanger-viennoisier / Boulang\u00e8re-viennoisi\u00e8re",
+            "priorisation": "1",
+            "libelle": "Boulanger-viennoisier / Boulang\u00e8re-viennoisi\u00e8re",
+            "code_ogr": "38444"
+        },
+        {
+            "libelle_court": "Chef boulanger / boulang\u00e8re",
+            "priorisation": "1",
+            "libelle": "Chef boulanger / boulang\u00e8re",
+            "code_ogr": "12006"
+        },
+        {
+            "libelle_court": "Ouvrier boulanger / Ouvri\u00e8re boulang\u00e8re",
+            "priorisation": "1",
+            "libelle": "Ouvrier boulanger / Ouvri\u00e8re boulang\u00e8re",
+            "code_ogr": "17407"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "S\u00e9lectionner et doser les ingr\u00e9dients (farine, levure, additifs, ...) pour la r\u00e9alisation des p\u00e2tes \u00e0 pain ou \u00e0 viennoiserie, les m\u00e9langer et effectuer le p\u00e9trissage, l'abaisse",
+            "code_ogr": "2295",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Diviser la masse de p\u00e2te en p\u00e2tons, les bouler et en effectuer la tourne ou le fa\u00e7onnage et surveiller les \u00e9tapes de fermentation",
+            "code_ogr": "1489",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Confectionner les viennoiseries (d\u00e9coupe, garniture, dorage, ...)",
+            "code_ogr": "925",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der \u00e0 la cuisson/pr\u00e9-cuisson des p\u00e2tons, des pi\u00e8ces de viennoiseries et d\u00e9fourner les pains, les viennoiseries",
+            "code_ogr": "2681",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la d\u00e9coration des produits (p\u00e9pites de chocolat, graines de s\u00e9same, sucre, nappage, ...) apr\u00e8s refroidissement",
+            "code_ogr": "1510",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Nettoyer et maintenir en \u00e9tat de propret\u00e9 et d'hygi\u00e8ne le plan de travail, les outils et les locaux",
+            "code_ogr": "2409",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "D1107",
+            "libelle_rome_cible": "Vente en gros de produits frais"
+        },
+        {
+            "code_rome_cible": "G1604",
+            "libelle_rome_cible": "Fabrication de cr\u00eapes ou pizzas"
+        },
+        {
+            "code_rome_cible": "H2102",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de production alimentaire"
+        },
+        {
+            "code_rome_cible": "H3303",
+            "libelle_rome_cible": "Pr\u00e9paration de mati\u00e8res et produits industriels (broyage, m\u00e9lange, ...)"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/ BEP \u00e0 Bac (Bac professionnel, Brevet Professionnel) en boulangerie.\nIl est \u00e9galement accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle pour le poste d'aide-boulanger.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Confectionner des produits alimentaires :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Confiseries",
+            "code_ogr": "4116",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Glaces, sorbets",
+            "code_ogr": "4117",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "P\u00e2tisseries",
+            "code_ogr": "4119",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pains sp\u00e9ciaux (sp\u00e9cialit\u00e9s r\u00e9gionales, pain \u00e0 l'ancienne, ...)",
+            "code_ogr": "4118",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Plats traiteur (pizzas, quiches, sandwichs, ...)",
+            "code_ogr": "4121",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sandwichs",
+            "code_ogr": "4124",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chocolats",
+            "code_ogr": "4115",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Planifier la production selon les commandes de clients, les produits en stock et la saisonnalit\u00e9",
+            "code_ogr": "3576",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la conservation de la p\u00e2te et le conditionnement des produits de boulangerie et de viennoiserie (barquettes, sachets, ...)",
+            "code_ogr": "5119",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Disposer les produits de boulangerie, de viennoiserie en vitrine, sur des pr\u00e9sentoirs",
+            "code_ogr": "4806",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les clients sur les produits et effectuer la vente",
+            "code_ogr": "9543",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre l'\u00e9tat des stocks, identifier les besoins en approvisionnement et \u00e9tablir les commandes",
+            "code_ogr": "3617",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9ceptionner les marchandises, les produits et contr\u00f4ler la conformit\u00e9 de la livraison",
+            "code_ogr": "3591",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des tourn\u00e9es de vente de produits de boulangerie et de viennoiserie",
+            "code_ogr": "5087",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la gestion comptable et administrative d'une structure",
+            "code_ogr": "3533",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Former des employ\u00e9s aux techniques du m\u00e9tier",
+            "code_ogr": "4764",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de boulangeries, de p\u00e2tisseries traditionnelles ou industrielles, aux rayons boulangerie-p\u00e2tisserie de grandes et moyennes surfaces, parfois en contact avec les clients et en relation avec les fournisseurs, le responsable du rayon et les services d'hygi\u00e8ne.\nElle varie selon la structure (entreprise artisanale, hypermarch\u00e9, ...) et le degr\u00e9 d'industrialisation et d'automatisation des proc\u00e9d\u00e9s de fabrication.\nElle peut s'exercer les fins de semaine, jours f\u00e9ri\u00e9s et souvent de nuit (t\u00f4t le matin).\nL'activit\u00e9 s'effectue en laboratoire et peut impliquer le port de charges et la station debout prolong\u00e9e.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Calcul de quantit\u00e9",
+            "code_ogr": "20805",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Conversion d'unit\u00e9s de mesure",
+            "code_ogr": "20830",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Tourage de p\u00e2te",
+            "code_ogr": "21115",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "P\u00e9trissage manuel",
+            "code_ogr": "21023",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de p\u00e9trin m\u00e9canique",
+            "code_ogr": "21350",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de nettoyage",
+            "code_ogr": "21330",
+            "position_item": "6",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de four \u00e0 bois",
+            "code_ogr": "21213",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de trancheuse",
+            "code_ogr": "21402",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'appareils d'emballage/conditionnement",
+            "code_ogr": "21163",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion de stocks",
+            "code_ogr": "21259",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion comptable",
+            "code_ogr": "21252",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Boulangerie",
+            "code_ogr": "23723",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Hypermarch\u00e9 (2500 m2 et +)",
+            "code_ogr": "23967",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "P\u00e2tisserie",
+            "code_ogr": "24032",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Supermarch\u00e9 (400 \u00e0 2500m2)",
+            "code_ogr": "24116",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Boulangerie, p\u00e2tisserie industrielle",
+            "code_ogr": "23427",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des farines",
+            "code_ogr": "21586",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures de fabrication de produits de boulangerie",
+            "code_ogr": "22404",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaire",
+            "code_ogr": "22649",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Conditions de surg\u00e9lation",
+            "code_ogr": "21744",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Cha\u00eene du froid",
+            "code_ogr": "21701",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de vente",
+            "code_ogr": "23168",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9dures d'encaissement",
+            "code_ogr": "22454",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de gestion de stocks",
+            "code_ogr": "22609",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nPr\u00e9pare et r\u00e9alise des produits de boulangerie et de viennoiserie selon les r\u00e8gles d'hygi\u00e8ne et de s\u00e9curit\u00e9 alimentaires.\nPeut effectuer la vente de produits de boulangerie, viennoiserie.\nPeut g\u00e9rer un commerce de d\u00e9tail alimentaire (boulangerie, boulangerie-p\u00e2tisserie, ...).\n",
+    "intitule": "Boulangerie - viennoiserie",
+    "code_ogr": "81",
+    "code_rome": "D1102",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1104",
+            "libelle_rome_cible": "P\u00e2tisserie, confiserie, chocolaterie et glacerie"
+        },
+        {
+            "code_rome_cible": "D1301",
+            "libelle_rome_cible": "Management de magasin de d\u00e9tail"
+        },
+        {
+            "code_rome_cible": "D1402",
+            "libelle_rome_cible": "Relation commerciale grands comptes et entreprises"
+        },
+        {
+            "code_rome_cible": "D1502",
+            "libelle_rome_cible": "Management/gestion de rayon produits alimentaires"
+        },
+        {
+            "code_rome_cible": "K2109",
+            "libelle_rome_cible": "Enseignement technique et professionnel"
+        }
+    ]
+}

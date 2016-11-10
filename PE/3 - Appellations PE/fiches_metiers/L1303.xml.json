@@ -1,0 +1,423 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente artistique",
+            "priorisation": "1",
+            "libelle": "Agent / Agente artistique",
+            "code_ogr": "10356"
+        },
+        {
+            "libelle_court": "Agent / Agente d'artiste",
+            "priorisation": "1",
+            "libelle": "Agent / Agente d'artiste",
+            "code_ogr": "10387"
+        },
+        {
+            "libelle_court": "Agent / Agente de mannequin",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de mannequin",
+            "code_ogr": "10520"
+        },
+        {
+            "libelle_court": "Agent / Agente de promotion des artistes",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de promotion des artistes",
+            "code_ogr": "10568"
+        },
+        {
+            "libelle_court": "Agent / Agente de sportif",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de sportif",
+            "code_ogr": "10609"
+        },
+        {
+            "libelle_court": "Agent / Agente litt\u00e9raire",
+            "priorisation": "1",
+            "libelle": "Agent / Agente litt\u00e9raire",
+            "code_ogr": "10746"
+        },
+        {
+            "libelle_court": "Assistant / Assistante de la distribution artistique",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante de la distribution artistique",
+            "code_ogr": "38464"
+        },
+        {
+            "libelle_court": "Booker / Bookeuse",
+            "priorisation": "1",
+            "libelle": "Booker / Bookeuse",
+            "code_ogr": "11556"
+        },
+        {
+            "libelle_court": "Charg\u00e9 / Charg\u00e9e de diffusion de spectacles",
+            "priorisation": "1",
+            "libelle": "Charg\u00e9 / Charg\u00e9e de diffusion de spectacles",
+            "code_ogr": "11795"
+        },
+        {
+            "libelle_court": "Chef de file figuration",
+            "priorisation": "1",
+            "libelle": "Chef de file figuration",
+            "code_ogr": "38465"
+        },
+        {
+            "libelle_court": "Directeur / Directrice de casting",
+            "priorisation": "1",
+            "libelle": "Directeur / Directrice de casting",
+            "code_ogr": "14218"
+        },
+        {
+            "libelle_court": "Impr\u00e9sario",
+            "priorisation": "1",
+            "libelle": "Impr\u00e9sario",
+            "code_ogr": "15518"
+        },
+        {
+            "libelle_court": "Manager / Manageuse d'artiste",
+            "priorisation": "1",
+            "libelle": "Manager / Manageuse d'artiste",
+            "code_ogr": "16331"
+        },
+        {
+            "libelle_court": "Music manager",
+            "priorisation": "1",
+            "libelle": "Music manager",
+            "code_ogr": "16934"
+        },
+        {
+            "libelle_court": "Repr\u00e9sentant / Repr\u00e9sentante litt\u00e9raire",
+            "priorisation": "1",
+            "libelle": "Repr\u00e9sentant / Repr\u00e9sentante litt\u00e9raire",
+            "code_ogr": "18557"
+        },
+        {
+            "libelle_court": "Tourneur / Tourneuse spectacle",
+            "priorisation": "1",
+            "libelle": "Tourneur / Tourneuse spectacle",
+            "code_ogr": "20376"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Rep\u00e9rer le physique, les talents, les aptitudes lors d'\u00e9v\u00e8nements et dans l'environnement relationnel, professionnel",
+            "code_ogr": "3089",
+            "code_type_activite": "2",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cerner la personnalit\u00e9 de l'artiste, du mannequin, du sportif et d\u00e9finir ses objectifs de carri\u00e8re",
+            "code_ogr": "788",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier et s\u00e9lectionner les projets, les propositions (tournages, d\u00e9fil\u00e9s, scenarii, tourn\u00e9es, ...) et les soumettre \u00e0 l'appr\u00e9ciation de l'artiste, du mannequin, du sportif",
+            "code_ogr": "2027",
+            "code_type_activite": "2",
+            "riasec_majeur": "A",
+            "position_item": "3",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Promouvoir l'artiste, le mannequin et le sportif aupr\u00e8s de directeurs de casting, organisateurs de spectacles, \u00e9diteurs, sponsors, ...",
+            "code_ogr": "2727",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "4",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "N\u00e9gocier les termes des contrats pour le compte de l'int\u00e9ress\u00e9",
+            "code_ogr": "2396",
+            "code_type_activite": "2",
+            "riasec_majeur": "E",
+            "position_item": "5",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier les conditions d'ex\u00e9cution des contrats et le paiement des cachets, des droits, des prestations r\u00e9alis\u00e9es",
+            "code_ogr": "3465",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec une exp\u00e9rience professionnelle dans le management de carri\u00e8res artistiques.\nLa connaissance approfondie d'un secteur (mode, musique, cin\u00e9ma, sport, litt\u00e9rature, ...) et de la r\u00e9glementation (droit de la propri\u00e9t\u00e9 artistique et litt\u00e9raire, droit du sport, droit commercial, ...) est requise.\nUne autorisation d'exercer (licence annuelle d'agent) d\u00e9livr\u00e9e par le minist\u00e8re comp\u00e9tent (Minist\u00e8re du travail, Minist\u00e8re de la jeunesse et des sports, ...) peut \u00eatre exig\u00e9e.\nLa pratique d'une ou plusieurs langues \u00e9trang\u00e8res, en particulier l'anglais, peut \u00eatre requise.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Conseiller un artiste, un mannequin, un sportif, ... sur :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "l'image (style, look, ...)",
+            "code_ogr": "4151",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "l'actualit\u00e9 (participation \u00e0 des interviews, \u00e9missions, ...)",
+            "code_ogr": "4149",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "2",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "la communication (attitudes, discours, ...)",
+            "code_ogr": "4150",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "3",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etudier les books, CV, maquettes, manuscrits, ... d'artistes, de mannequins, ... d\u00e9butants ou inconnus et les conseiller",
+            "code_ogr": "5863",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Auditionner les artistes et distribuer les r\u00f4les selon les indications d'un r\u00e9alisateur, d'un metteur en sc\u00e8ne, d'un chor\u00e9graphe",
+            "code_ogr": "3506",
+            "code_type_activite": "3",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9velopper la diffusion de spectacles et effectuer le suivi des contrats de vente",
+            "code_ogr": "38865",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Planifier des dates de spectacle, de tourn\u00e9e et r\u00e9aliser les op\u00e9rations de communication",
+            "code_ogr": "7820",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Programmer les rendez-vous m\u00e9diatiques pour un artiste, un mannequin, un sportif selon son actualit\u00e9, ses projets, ... et l'y accompagner",
+            "code_ogr": "8181",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer les outils de communication (dossiers de presse, argumentaire, discours, ...) pour un artiste, un mannequin, un sportif, ...",
+            "code_ogr": "5632",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'agences (artistiques, de mannequins, litt\u00e9raires, ...), de soci\u00e9t\u00e9s de production de spectacles, d'\u00e9diteurs phonographiques ou en ind\u00e9pendant, ... pour le compte d'artistes (com\u00e9diens, \u00e9crivains, musiciens, ...), de mannequins, de sportifs en contact avec diff\u00e9rents intervenants (producteurs, directeurs de casting, \u00e9diteurs, sponsors, ...).\nLa r\u00e9mun\u00e9ration est g\u00e9n\u00e9ralement constitu\u00e9e d'un pourcentage sur les cachets ou les commissions per\u00e7us par les artistes (com\u00e9diens, \u00e9crivains, musiciens, ...), les mannequins, les sportifs. Pour les charg\u00e9s de diffusion de spectacles, elle est g\u00e9n\u00e9ralement constitu\u00e9e d'un fixe avec int\u00e9ressement aux ventes.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Argumentation commerciale",
+            "code_ogr": "20786",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de Publication Assist\u00e9e par Ordinateur -PAO-",
+            "code_ogr": "21264",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Agence artistique",
+            "code_ogr": "23683",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Agence de castings",
+            "code_ogr": "23685",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Agence de mannequins",
+            "code_ogr": "23689",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Agence litt\u00e9raire",
+            "code_ogr": "23699",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Club sportif",
+            "code_ogr": "23807",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise d'\u00e9dition phonographique",
+            "code_ogr": "23905",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de production de spectacles",
+            "code_ogr": "24087",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arts plastiques",
+            "code_ogr": "23407",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Audiovisuel",
+            "code_ogr": "23409",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Cin\u00e9ma",
+            "code_ogr": "23441",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Mode",
+            "code_ogr": "23562",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Spectacle vivant",
+            "code_ogr": "23639",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sport et loisirs",
+            "code_ogr": "23640",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Droit commercial",
+            "code_ogr": "21794",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Droit de la propri\u00e9t\u00e9 intellectuelle",
+            "code_ogr": "21797",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques commerciales",
+            "code_ogr": "23012",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de communication",
+            "code_ogr": "22840",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes r\u00e9dactionnelles",
+            "code_ogr": "22235",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nG\u00e8re et d\u00e9veloppe la carri\u00e8re d'artistes (com\u00e9diens, \u00e9crivains, musiciens, ...), de mannequins, de sportifs, ... selon la r\u00e9glementation (droit de la propri\u00e9t\u00e9 artistique et litt\u00e9raire, droit du sport, ...), les objectifs et les orientations professionnels.\nPeut conseiller un artiste (com\u00e9dien, \u00e9crivain, musicien, ...), un mannequin, un sportif, ... sur son image.\nPeut r\u00e9aliser des auditions et des castings d'artistes pour un spectacle, un film, ...\nPeut g\u00e9rer la diffusion de spectacles (danse, musique, th\u00e9\u00e2tre, arts de la rue et de la piste, ...).\n",
+    "intitule": "Promotion d'artistes et de spectacles",
+    "code_ogr": "444",
+    "code_rome": "L1303",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "E1103",
+            "libelle_rome_cible": "Communication"
+        },
+        {
+            "code_rome_cible": "L1302",
+            "libelle_rome_cible": "Production et administration spectacle, cin\u00e9ma et audiovisuel"
+        }
+    ]
+}

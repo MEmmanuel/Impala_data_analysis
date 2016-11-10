@@ -1,0 +1,690 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Bosco de la navigation maritime",
+            "priorisation": "1",
+            "libelle": "Bosco de la navigation maritime",
+            "code_ogr": "11560"
+        },
+        {
+            "libelle_court": "Equipier / Equipi\u00e8re de plaisance professionnelle",
+            "priorisation": "1",
+            "libelle": "Equipier / Equipi\u00e8re de plaisance professionnelle",
+            "code_ogr": "14872"
+        },
+        {
+            "libelle_court": "Lamaneur / Lamaneuse",
+            "priorisation": "1",
+            "libelle": "Lamaneur / Lamaneuse",
+            "code_ogr": "16146"
+        },
+        {
+            "libelle_court": "Ma\u00eetre / Ma\u00eetresse d'\u00e9quipage",
+            "priorisation": "1",
+            "libelle": "Ma\u00eetre / Ma\u00eetresse d'\u00e9quipage",
+            "code_ogr": "16309"
+        },
+        {
+            "libelle_court": "Ma\u00eetre / Ma\u00eetresse machine de la marine",
+            "priorisation": "1",
+            "libelle": "Ma\u00eetre / Ma\u00eetresse machine de la marine",
+            "code_ogr": "16317"
+        },
+        {
+            "libelle_court": "Manoeuvrier / Manoeuvri\u00e8re de la marine nationale",
+            "priorisation": "1",
+            "libelle": "Manoeuvrier / Manoeuvri\u00e8re de la marine nationale",
+            "code_ogr": "16358"
+        },
+        {
+            "libelle_court": "Marin de la marine marchande",
+            "priorisation": "1",
+            "libelle": "Marin de la marine marchande",
+            "code_ogr": "16398"
+        },
+        {
+            "libelle_court": "Marin de la navigation maritime",
+            "priorisation": "1",
+            "libelle": "Marin de la navigation maritime",
+            "code_ogr": "16400"
+        },
+        {
+            "libelle_court": "Marin de la plaisance professionnelle",
+            "priorisation": "1",
+            "libelle": "Marin de la plaisance professionnelle",
+            "code_ogr": "16401"
+        },
+        {
+            "libelle_court": "Matelot de la marine marchande",
+            "priorisation": "1",
+            "libelle": "Matelot de la marine marchande",
+            "code_ogr": "16426"
+        },
+        {
+            "libelle_court": "Matelot de la navigation maritime",
+            "priorisation": "1",
+            "libelle": "Matelot de la navigation maritime",
+            "code_ogr": "16428"
+        },
+        {
+            "libelle_court": "Matelot op\u00e9rations et navigation de la marine nationale",
+            "priorisation": "1",
+            "libelle": "Matelot op\u00e9rations et navigation de la marine nationale",
+            "code_ogr": "38519"
+        },
+        {
+            "libelle_court": "Matelot polyvalent / polyvalente navigation maritime",
+            "priorisation": "1",
+            "libelle": "Matelot polyvalent / polyvalente navigation maritime",
+            "code_ogr": "16433"
+        },
+        {
+            "libelle_court": "Matelot pont de la marine nationale",
+            "priorisation": "1",
+            "libelle": "Matelot pont de la marine nationale",
+            "code_ogr": "38520"
+        },
+        {
+            "libelle_court": "Mousse de la navigation maritime",
+            "priorisation": "1",
+            "libelle": "Mousse de la navigation maritime",
+            "code_ogr": "16932"
+        },
+        {
+            "libelle_court": "Navigateur(trice) timonier(\u00e8re) de la marine nationale",
+            "priorisation": "1",
+            "libelle": "Navigateur timonier / Navigatrice timoni\u00e8re de la marine nationale",
+            "code_ogr": "16955"
+        },
+        {
+            "libelle_court": "Premier matelot de la navigation maritime",
+            "priorisation": "1",
+            "libelle": "Premier matelot de la navigation maritime",
+            "code_ogr": "17977"
+        },
+        {
+            "libelle_court": "Quartier-ma\u00eetre de la navigation maritime",
+            "priorisation": "1",
+            "libelle": "Quartier-ma\u00eetre de la navigation maritime",
+            "code_ogr": "18261"
+        },
+        {
+            "libelle_court": "Second ma\u00eetre / Seconde ma\u00eetresse de la navigation maritime",
+            "priorisation": "1",
+            "libelle": "Second ma\u00eetre / Seconde ma\u00eetresse de la navigation maritime",
+            "code_ogr": "19359"
+        },
+        {
+            "libelle_court": "Timonier / Timoni\u00e8re de la navigation maritime",
+            "priorisation": "1",
+            "libelle": "Timonier / Timoni\u00e8re de la navigation maritime",
+            "code_ogr": "20328"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Pr\u00e9parer et actionner les \u00e9quipements du navire (ancres, c\u00e2bles, cordages et gr\u00e9ement...) lors des manoeuvres d'appareillage ou d'accostage",
+            "code_ogr": "2573",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Manoeuvrer des \u00e9quipements embarqu\u00e9s (grue de navire, ...), des \u00e9quipements de transbordement des passagers ou de sauvetage",
+            "code_ogr": "1625",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Surveiller la route maritime et identifier les obstacles \u00e9ventuels sur le trajet",
+            "code_ogr": "3308",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations de chargement/d\u00e9chargement de navires et effectuer le rangement et la s\u00e9curisation de la cargaison",
+            "code_ogr": "2755",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Assurer l'entretien du navire, des apparaux (c\u00e2bles, cordages, treuils, ...) ou de la salle des machines",
+            "code_ogr": "779",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "V\u00e9rifier la conformit\u00e9 des \u00e9quipements de s\u00e9curit\u00e9 (mat\u00e9riel de manutention, de sauvetage) et effectuer leur maintenance",
+            "code_ogr": "3410",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "A1415",
+            "libelle_rome_cible": "Equipage de la p\u00eache"
+        },
+        {
+            "code_rome_cible": "N3103",
+            "libelle_rome_cible": "Navigation fluviale"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un CAP/BEP (CAP maritime de matelot polyvalent, Brevet d'Etudes Professionnelles -BEPM- marin du commerce, BEPM machines marines, BEPM m\u00e9canicien, ...).\nDes habilitations ou permis maritimes sp\u00e9cifiques (Certificat d'Initiation Nautique -CIN-, le Permis de Conduire les Moteurs Marins -PCMM-, ...) peuvent \u00eatre requis.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser une navigation maritime :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Au cabotage",
+            "code_ogr": "9372",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Convoyage d'un navire de plaisance \u00e0 moteur",
+            "code_ogr": "9374",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Convoyage d'un navire de plaisance \u00e0 voile",
+            "code_ogr": "9375",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Grande plaisance",
+            "code_ogr": "9376",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Plaisance professionnelle",
+            "code_ogr": "9377",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Au long cours",
+            "code_ogr": "9373",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Naviguer sur un navire sp\u00e9cifique :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Navire \u00e0 Utilisation Collective -NUC-",
+            "code_ogr": "7621",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Yacht de plaisance \u00e0 moteur",
+            "code_ogr": "7622",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Yacht de plaisance \u00e0 voile",
+            "code_ogr": "7623",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer une navigation n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Certificat d'Initiation Nautique -CIN-",
+            "code_ogr": "5532",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Certificat de formation de base \u00e0 la s\u00e9curit\u00e9",
+            "code_ogr": "5530",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Brevet d'aptitude \u00e0 l'exploitation des canots de secours rapides",
+            "code_ogr": "5527",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Attestation de formation \u00e0 la s\u00e9curit\u00e9 des navires rouliers \u00e0 passagers",
+            "code_ogr": "5523",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Brevet de Capitaine 200 Voile",
+            "code_ogr": "5528",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mention de Capitaine de yacht",
+            "code_ogr": "5534",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Permis c\u00f4tier",
+            "code_ogr": "5535",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Carte mer",
+            "code_ogr": "5529",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Permis hauturier",
+            "code_ogr": "5537",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Proc\u00e9der au lancement, au contr\u00f4le de la maintenance d'appareils :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Production et distribution \u00e9lectriques, hydrauliques",
+            "code_ogr": "8169",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Propulsion \u00e0 moteur",
+            "code_ogr": "8170",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Propulsion \u00e0 vapeur",
+            "code_ogr": "8171",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Syst\u00e8mes automatis\u00e9s froid et climatisation",
+            "code_ogr": "8172",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Intervenir dans le cadre d'actions/missions des arm\u00e9es :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sauvegarde maritime (lutte contre les pollutions, assistance, actions de l'Etat en mer, ...)",
+            "code_ogr": "6351",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Soutien aux forces de la D\u00e9fense",
+            "code_ogr": "6353",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9fense",
+            "code_ogr": "6350",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pratiquer des op\u00e9rations de lamanage lors de manoeuvres de navires dans un port (appareillage, accostage)",
+            "code_ogr": "7898",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Participer aux op\u00e9rations de navigation maritime et mettre \u00e0 jour les cartes et documents nautiques",
+            "code_ogr": "7786",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la maintenance pr\u00e9ventive/curative de premier niveau des \u00e9quipements",
+            "code_ogr": "3534",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises de transport maritime de marchandises, de passagers, d'activit\u00e9s maritimes sp\u00e9cialis\u00e9es, d'activit\u00e9s portuaires, de soci\u00e9t\u00e9s d'assistance en mer, de l'arm\u00e9e, d'entreprises de lamanage, en relation avec une \u00e9quipe souvent internationale et parfois en contact avec des passagers.\nElle varie selon le type de navire (porte-conteneur, p\u00e9trolier, bateau de croisi\u00e8re, ...) et de navigation (cabotage, plaisance professionnelle, au long cours, ...).\nElle peut s'exercer en quart (4 heures suivies de 8 heures de repos) pour le service pont, les fins de semaine, de nuit et impliquer un \u00e9loignement du domicile de plusieurs jours ou mois.\nL'activit\u00e9 peut s'effectuer au service pont ou machine de navires, en environnement restreint, bruyant.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Manipulation d'embarcation et radeau de sauvetage et de mat\u00e9riel de manoeuvre",
+            "code_ogr": "20977",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de carte marine",
+            "code_ogr": "20932",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de mat\u00e9riel de navigation (GPS, VHF, radar, ...)",
+            "code_ogr": "21329",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise d'activit\u00e9s maritimes/portuaires",
+            "code_ogr": "23872",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de transport maritime de marchandises",
+            "code_ogr": "23895",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise de transport maritime de personnes",
+            "code_ogr": "23896",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Activit\u00e9s maritimes sp\u00e9cialis\u00e9es (recherche, avitaillement off shore,...)",
+            "code_ogr": "23387",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Douanes",
+            "code_ogr": "23466",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Secours et assistance \u00e0 personnes",
+            "code_ogr": "23629",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Droit maritime",
+            "code_ogr": "21812",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9 maritime",
+            "code_ogr": "22635",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de navigation",
+            "code_ogr": "23011",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de matelotage",
+            "code_ogr": "22973",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de secourisme/sauvetage",
+            "code_ogr": "23114",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de gr\u00e9ement, m\u00e2tage",
+            "code_ogr": "22935",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'arrimage",
+            "code_ogr": "22785",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9t\u00e9orologie",
+            "code_ogr": "21887",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'amarrage/d\u00e9samarrage",
+            "code_ogr": "22764",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de d\u00e9halage",
+            "code_ogr": "22881",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de barre",
+            "code_ogr": "22591",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Anglais maritime",
+            "code_ogr": "21508",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de tenue de quart",
+            "code_ogr": "22640",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nSurveille, manoeuvre et entretient les \u00e9quipements (de bord ou d'exploitation des machines,...) et la cargaison de navires au cours de travers\u00e9es maritimes, selon la r\u00e9glementation du transport maritime, les r\u00e8gles de s\u00e9curit\u00e9 des biens et des personnes et les imp\u00e9ratifs de service.\nPeut effectuer des convoyages de navires, des louages, des transports de passagers (pratique charter et grande plaisance).\nPeut effectuer des op\u00e9rations de lamanage.\nPeut coordonner l'activit\u00e9 d'une \u00e9quipe.\n",
+    "intitule": "Equipage de la navigation maritime",
+    "code_ogr": "518",
+    "code_rome": "N3102",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "D1204",
+            "libelle_rome_cible": "Location de v\u00e9hicules ou de mat\u00e9riel de loisirs"
+        },
+        {
+            "code_rome_cible": "D1404",
+            "libelle_rome_cible": "Relation commerciale en vente de v\u00e9hicules"
+        },
+        {
+            "code_rome_cible": "I1601",
+            "libelle_rome_cible": "Installation et maintenance en nautisme"
+        },
+        {
+            "code_rome_cible": "I1605",
+            "libelle_rome_cible": "M\u00e9canique de marine"
+        },
+        {
+            "code_rome_cible": "K2110",
+            "libelle_rome_cible": "Formation en conduite de v\u00e9hicules"
+        },
+        {
+            "code_rome_cible": "N3101",
+            "libelle_rome_cible": "Encadrement de la navigation maritime"
+        }
+    ]
+}

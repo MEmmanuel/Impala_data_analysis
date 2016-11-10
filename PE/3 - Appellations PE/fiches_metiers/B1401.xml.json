@@ -1,0 +1,586 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Canneur / Canneuse de chaises",
+            "priorisation": "1",
+            "libelle": "Canneur / Canneuse de chaises",
+            "code_ogr": "11663"
+        },
+        {
+            "libelle_court": "Canneur rempailleur / Canneuse rempailleuse",
+            "priorisation": "1",
+            "libelle": "Canneur rempailleur / Canneuse rempailleuse",
+            "code_ogr": "11664"
+        },
+        {
+            "libelle_court": "Rempailleur / Rempailleuse de chaises",
+            "priorisation": "1",
+            "libelle": "Rempailleur / Rempailleuse de chaises",
+            "code_ogr": "18509"
+        },
+        {
+            "libelle_court": "Rotinier / Rotini\u00e8re",
+            "priorisation": "1",
+            "libelle": "Rotinier / Rotini\u00e8re",
+            "code_ogr": "19287"
+        },
+        {
+            "libelle_court": "Vannier / Vanni\u00e8re",
+            "priorisation": "1",
+            "libelle": "Vannier / Vanni\u00e8re",
+            "code_ogr": "20504"
+        },
+        {
+            "libelle_court": "Vannier osi\u00e9riculteur / Vanni\u00e8re osi\u00e9ricultrice",
+            "priorisation": "1",
+            "libelle": "Vannier osi\u00e9riculteur / Vanni\u00e8re osi\u00e9ricultrice",
+            "code_ogr": "20505"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "S\u00e9lectionner et trier la mati\u00e8re premi\u00e8re (osier, rotin, paille, ...) et approvisionner l'atelier",
+            "code_ogr": "3145",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Assouplir le mat\u00e9riau (mouillage, trempage, \u00e9tuvage, ...), le couper \u00e0 dimension et lui donner forme",
+            "code_ogr": "773",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Constituer le fond, assembler ou entrelacer les mat\u00e9riaux et contr\u00f4ler l'aspect de l'article (droiture, serrage, dimensions, ...)",
+            "code_ogr": "993",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Arr\u00eater l'ouvrage par rabattage des tiges d'osier, le serrage des lignes torsad\u00e9es, ..., ins\u00e9rer les \u00e9l\u00e9ments de renforts et effectuer les op\u00e9rations de pon\u00e7age, vernis, ...",
+            "code_ogr": "749",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Emballer le produit et enregistrer la vente",
+            "code_ogr": "1776",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9finir avec le client les caract\u00e9ristiques de l'ouvrage \u00e0 r\u00e9aliser et l'informer sur les conditions de r\u00e9alisation",
+            "code_ogr": "1245",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "6",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "G1202",
+            "libelle_rome_cible": "Animation d'activit\u00e9s culturelles ou ludiques"
+        },
+        {
+            "code_rome_cible": "K1203",
+            "libelle_rome_cible": "Encadrement technique en insertion professionnelle"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un CAP, un Brevet Professionnel Agricole -BPA- en osi\u00e9riculture et vannerie.\nIl est \u00e9galement accessible avec une exp\u00e9rience professionnelle dans le secteur sans dipl\u00f4me particulier.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser des ouvrages :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ameublement (chaise, fauteuil, table, literie, ...)",
+            "code_ogr": "8966",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Objets d\u00e9coratifs et objets d'art (encadrement de miroir, luminaire, ...)",
+            "code_ogr": "8978",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Objets de jardins (claustra, ...)",
+            "code_ogr": "8976",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ouvrages agricoles (corbeilles de ramassage de l\u00e9gumes, fruits, nasses de p\u00eache, ...)",
+            "code_ogr": "8980",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Vannerie \u00e0 usage professionnel (corbeille de boulanger, panier \u00e0 bouteilles, malles de spectacle, ...)",
+            "code_ogr": "8984",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Vannerie traditionnelle (paniers, corbeilles, ...)",
+            "code_ogr": "8985",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Assembler les diff\u00e9rentes pi\u00e8ces d'un ouvrage (chaise, meuble, ...) par :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Clouage, agrafage, vissage",
+            "code_ogr": "3826",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Collage",
+            "code_ogr": "3827",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Tourillonnage",
+            "code_ogr": "3829",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ligaturage",
+            "code_ogr": "3828",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des op\u00e9rations sur mat\u00e9riau vivant :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Culture",
+            "code_ogr": "5032",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9colte, d\u00e9corticage",
+            "code_ogr": "5033",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Architecture v\u00e9g\u00e9tale d\u00e9corative ou utilitaire (tressage de l'osier)",
+            "code_ogr": "5031",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9biter et usiner des pi\u00e8ces de rotin ou de bois",
+            "code_ogr": "4435",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9parer ou restaurer un article",
+            "code_ogr": "9593",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Concevoir de nouveaux mod\u00e8les (cr\u00e9ation de collection, commandes sp\u00e9ciales, ...) et pr\u00e9senter les \u00e9chantillons et illustrations d'ouvrages aux clients",
+            "code_ogr": "3928",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer des couleurs (nuancier, ...) et effectuer la teinture des mat\u00e9riaux (osier, paille, rotin, ...)",
+            "code_ogr": "7921",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9lectionner des mati\u00e8res premi\u00e8res, produits aupr\u00e8s de producteurs/fournisseurs et n\u00e9gocier les conditions d'achat",
+            "code_ogr": "9654",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Transmettre les techniques du m\u00e9tier ou mener des actions de sensibilisation au m\u00e9tier",
+            "code_ogr": "10026",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la gestion comptable et administrative d'une structure",
+            "code_ogr": "3533",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprises artisanales, de coop\u00e9ratives de production, d'organismes culturels et du patrimoine, en contact avec des clients et diff\u00e9rents intervenants (\u00e9b\u00e9niste, architecte d'int\u00e9rieur, paysagiste, ...).\nL'activit\u00e9 s'exerce en atelier, parfois \u00e0 l'ext\u00e9rieur.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Chiffrage/calcul de co\u00fbt",
+            "code_ogr": "20813",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Argumentation commerciale",
+            "code_ogr": "20786",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Couture manuelle",
+            "code_ogr": "20832",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de scie stationnaire",
+            "code_ogr": "21378",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de chantourneuse",
+            "code_ogr": "21178",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de toupie",
+            "code_ogr": "21398",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Application de produits au pinceau",
+            "code_ogr": "20759",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Mise en bain de cuve",
+            "code_ogr": "20998",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Application de produits au pistolet",
+            "code_ogr": "20760",
+            "position_item": "3",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Coop\u00e9rative agricole",
+            "code_ogr": "23833",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise artisanale",
+            "code_ogr": "23870",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisme culturel, du patrimoine",
+            "code_ogr": "24016",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Travail en ind\u00e9pendant",
+            "code_ogr": "24844",
+            "code_type_section_env": "3"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des fibres v\u00e9g\u00e9tales",
+            "code_ogr": "21593",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des brins v\u00e9g\u00e9taux",
+            "code_ogr": "21563",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des lianes v\u00e9g\u00e9tales (rotin, cl\u00e9matite...)",
+            "code_ogr": "21601",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Caract\u00e9ristiques des bois et d\u00e9riv\u00e9s du bois",
+            "code_ogr": "21560",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de cintrage",
+            "code_ogr": "22831",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de tressage",
+            "code_ogr": "23165",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de nouage",
+            "code_ogr": "23014",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Proc\u00e9d\u00e9s de tissage",
+            "code_ogr": "22362",
+            "position_item": "8",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de piq\u00fbre machine",
+            "code_ogr": "23029",
+            "position_item": "9",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de cannage",
+            "code_ogr": "22823",
+            "position_item": "10",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de formage \u00e0 chaud",
+            "code_ogr": "22913",
+            "position_item": "11",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de formage \u00e0 froid",
+            "code_ogr": "22914",
+            "position_item": "12",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9sistance Des Mat\u00e9riaux -RDM-",
+            "code_ogr": "22670",
+            "position_item": "13",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de pliage",
+            "code_ogr": "23034",
+            "position_item": "14",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Agronomie",
+            "code_ogr": "21499",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Biologie v\u00e9g\u00e9tale",
+            "code_ogr": "21530",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Principes de conservation pr\u00e9ventive",
+            "code_ogr": "22312",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de restauration",
+            "code_ogr": "23102",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de dessin",
+            "code_ogr": "22888",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de teinture chimique",
+            "code_ogr": "23136",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nFa\u00e7onne \u00e0 la main, au d\u00e9tail ou en petite s\u00e9rie, des pi\u00e8ces et ouvrages d\u00e9coratifs ou utilitaires (assises de si\u00e8ge, paniers, corbeilles de boulanger, objets d'ameublement, ...) \u00e0 base de fibres, brins et lianes v\u00e9g\u00e9taux (paille, osier, rotin, ...).\nPeut cr\u00e9er de nouveaux mod\u00e8les, usiner le rotin ou le bois, r\u00e9aliser des architectures v\u00e9g\u00e9tales d\u00e9coratives ou utilitaires et cultiver l'osier.\nPeut mener des actions de formation ou de sensibilisation \u00e0 la profession.\nPeut diriger une structure.\n",
+    "intitule": "R\u00e9alisation d'objets en lianes, fibres et brins v\u00e9g\u00e9taux",
+    "code_ogr": "41",
+    "code_rome": "B1401",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "A1414",
+            "libelle_rome_cible": "Horticulture et mara\u00eechage"
+        },
+        {
+            "code_rome_cible": "B1501",
+            "libelle_rome_cible": "Fabrication et r\u00e9paration d'instruments de musique"
+        },
+        {
+            "code_rome_cible": "H2208",
+            "libelle_rome_cible": "R\u00e9alisation d'ouvrages d\u00e9coratifs en bois"
+        },
+        {
+            "code_rome_cible": "K2111",
+            "libelle_rome_cible": "Formation professionnelle"
+        }
+    ]
+}

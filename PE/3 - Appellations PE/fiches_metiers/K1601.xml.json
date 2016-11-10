@@ -1,0 +1,871 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente de biblioth\u00e8que",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de biblioth\u00e8que",
+            "code_ogr": "10394"
+        },
+        {
+            "libelle_court": "Aide documentaliste",
+            "priorisation": "1",
+            "libelle": "Aide documentaliste",
+            "code_ogr": "10843"
+        },
+        {
+            "libelle_court": "Archiviste",
+            "priorisation": "1",
+            "libelle": "Archiviste",
+            "code_ogr": "11133"
+        },
+        {
+            "libelle_court": "Archiviste pal\u00e9ographe",
+            "priorisation": "1",
+            "libelle": "Archiviste pal\u00e9ographe",
+            "code_ogr": "11134"
+        },
+        {
+            "libelle_court": "Archiviste-documentaliste",
+            "priorisation": "1",
+            "libelle": "Archiviste-documentaliste",
+            "code_ogr": "11135"
+        },
+        {
+            "libelle_court": "Assistant / Assistante archiviste",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante archiviste",
+            "code_ogr": "11189"
+        },
+        {
+            "libelle_court": "Assistant / Assistante de conservation de biblioth\u00e8que",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante de conservation de biblioth\u00e8que",
+            "code_ogr": "11223"
+        },
+        {
+            "libelle_court": "Assistant / Assistante documentaliste",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante documentaliste",
+            "code_ogr": "11275"
+        },
+        {
+            "libelle_court": "Assistant / Assistante ludoth\u00e9caire",
+            "priorisation": "1",
+            "libelle": "Assistant / Assistante ludoth\u00e9caire",
+            "code_ogr": "11296"
+        },
+        {
+            "libelle_court": "Attach\u00e9 / Attach\u00e9e de conservation des archives",
+            "priorisation": "1",
+            "libelle": "Attach\u00e9 / Attach\u00e9e de conservation des archives",
+            "code_ogr": "11393"
+        },
+        {
+            "libelle_court": "Biblioth\u00e9caire",
+            "priorisation": "1",
+            "libelle": "Biblioth\u00e9caire",
+            "code_ogr": "11506"
+        },
+        {
+            "libelle_court": "Biblioth\u00e9caire documentaliste",
+            "priorisation": "1",
+            "libelle": "Biblioth\u00e9caire documentaliste",
+            "code_ogr": "11507"
+        },
+        {
+            "libelle_court": "Biblioth\u00e9conomiste",
+            "priorisation": "1",
+            "libelle": "Biblioth\u00e9conomiste",
+            "code_ogr": "11508"
+        },
+        {
+            "libelle_court": "Charg\u00e9 / Charg\u00e9e de recherche d'information",
+            "priorisation": "1",
+            "libelle": "Charg\u00e9 / Charg\u00e9e de recherche d'information",
+            "code_ogr": "11857"
+        },
+        {
+            "libelle_court": "Charg\u00e9 / Charg\u00e9e de veille documentaire",
+            "priorisation": "1",
+            "libelle": "Charg\u00e9 / Charg\u00e9e de veille documentaire",
+            "code_ogr": "11874"
+        },
+        {
+            "libelle_court": "Charg\u00e9 / Charg\u00e9e des ressources documentaires",
+            "priorisation": "1",
+            "libelle": "Charg\u00e9 / Charg\u00e9e des ressources documentaires",
+            "code_ogr": "11889"
+        },
+        {
+            "libelle_court": "Charg\u00e9 / Charg\u00e9e d'\u00e9tudes documentaires",
+            "priorisation": "1",
+            "libelle": "Charg\u00e9 / Charg\u00e9e d'\u00e9tudes documentaires",
+            "code_ogr": "11901"
+        },
+        {
+            "libelle_court": "Conservateur / Conservatrice d'archives",
+            "priorisation": "1",
+            "libelle": "Conservateur / Conservatrice d'archives",
+            "code_ogr": "13505"
+        },
+        {
+            "libelle_court": "Cyber documentaliste",
+            "priorisation": "1",
+            "libelle": "Cyber documentaliste",
+            "code_ogr": "13878"
+        },
+        {
+            "libelle_court": "Directeur / Directrice de biblioth\u00e8que",
+            "priorisation": "1",
+            "libelle": "Directeur / Directrice de biblioth\u00e8que",
+            "code_ogr": "14211"
+        },
+        {
+            "libelle_court": "Directeur / Directrice de centre documentaire",
+            "priorisation": "1",
+            "libelle": "Directeur / Directrice de centre documentaire",
+            "code_ogr": "14228"
+        },
+        {
+            "libelle_court": "Directeur / Directrice de m\u00e9diath\u00e8que",
+            "priorisation": "1",
+            "libelle": "Directeur / Directrice de m\u00e9diath\u00e8que",
+            "code_ogr": "14295"
+        },
+        {
+            "libelle_court": "Directeur / Directrice des ressources documentaires",
+            "priorisation": "1",
+            "libelle": "Directeur / Directrice des ressources documentaires",
+            "code_ogr": "14374"
+        },
+        {
+            "libelle_court": "Discoth\u00e9caire",
+            "priorisation": "1",
+            "libelle": "Discoth\u00e9caire",
+            "code_ogr": "14493"
+        },
+        {
+            "libelle_court": "Documentaliste",
+            "priorisation": "1",
+            "libelle": "Documentaliste",
+            "code_ogr": "14511"
+        },
+        {
+            "libelle_court": "Documentaliste archiviste",
+            "priorisation": "1",
+            "libelle": "Documentaliste archiviste",
+            "code_ogr": "14512"
+        },
+        {
+            "libelle_court": "Documentaliste biblioth\u00e9caire",
+            "priorisation": "1",
+            "libelle": "Documentaliste biblioth\u00e9caire",
+            "code_ogr": "14513"
+        },
+        {
+            "libelle_court": "Documentaliste juridique",
+            "priorisation": "1",
+            "libelle": "Documentaliste juridique",
+            "code_ogr": "14514"
+        },
+        {
+            "libelle_court": "Documentaliste scientifique",
+            "priorisation": "1",
+            "libelle": "Documentaliste scientifique",
+            "code_ogr": "14515"
+        },
+        {
+            "libelle_court": "Gestionnaire de bases de donn\u00e9es et ressources documentaires",
+            "priorisation": "1",
+            "libelle": "Gestionnaire de bases de donn\u00e9es et de ressources documentaires",
+            "code_ogr": "15323"
+        },
+        {
+            "libelle_court": "Gestionnaire de documents d'entreprise",
+            "priorisation": "1",
+            "libelle": "Gestionnaire de documents d'entreprise",
+            "code_ogr": "15329"
+        },
+        {
+            "libelle_court": "Gestionnaire en documentation",
+            "priorisation": "1",
+            "libelle": "Gestionnaire en documentation",
+            "code_ogr": "15364"
+        },
+        {
+            "libelle_court": "Iconographe",
+            "priorisation": "1",
+            "libelle": "Iconographe",
+            "code_ogr": "15507"
+        },
+        {
+            "libelle_court": "Ing\u00e9nieur / Ing\u00e9nieure documentaire",
+            "priorisation": "1",
+            "libelle": "Ing\u00e9nieur / Ing\u00e9nieure documentaire",
+            "code_ogr": "15722"
+        },
+        {
+            "libelle_court": "Ing\u00e9nieur / Ing\u00e9nieure en biblioth\u00e9conomie",
+            "priorisation": "1",
+            "libelle": "Ing\u00e9nieur / Ing\u00e9nieure en biblioth\u00e9conomie",
+            "code_ogr": "15745"
+        },
+        {
+            "libelle_court": "Ludoth\u00e9caire",
+            "priorisation": "1",
+            "libelle": "Ludoth\u00e9caire",
+            "code_ogr": "16228"
+        },
+        {
+            "libelle_court": "M\u00e9diath\u00e9caire",
+            "priorisation": "1",
+            "libelle": "M\u00e9diath\u00e9caire",
+            "code_ogr": "16609"
+        },
+        {
+            "libelle_court": "Net surfeur / Net surfeuse",
+            "priorisation": "1",
+            "libelle": "Net surfeur / Net surfeuse",
+            "code_ogr": "16970"
+        },
+        {
+            "libelle_court": "Professeur / Professeure documentaliste",
+            "priorisation": "1",
+            "libelle": "Professeur / Professeure documentaliste",
+            "code_ogr": "18166"
+        },
+        {
+            "libelle_court": "Record manager",
+            "priorisation": "1",
+            "libelle": "Record manager",
+            "code_ogr": "18335"
+        },
+        {
+            "libelle_court": "Responsable de ludoth\u00e8que",
+            "priorisation": "1",
+            "libelle": "Responsable de ludoth\u00e8que",
+            "code_ogr": "38584"
+        },
+        {
+            "libelle_court": "Responsable de phototh\u00e8que",
+            "priorisation": "1",
+            "libelle": "Responsable de phototh\u00e8que",
+            "code_ogr": "18803"
+        },
+        {
+            "libelle_court": "Responsable des archives",
+            "priorisation": "1",
+            "libelle": "Responsable des archives",
+            "code_ogr": "18922"
+        },
+        {
+            "libelle_court": "Responsable des ressources documentaires",
+            "priorisation": "1",
+            "libelle": "Responsable des ressources documentaires",
+            "code_ogr": "18941"
+        },
+        {
+            "libelle_court": "Responsable du service documentation",
+            "priorisation": "1",
+            "libelle": "Responsable du service documentation",
+            "code_ogr": "19025"
+        },
+        {
+            "libelle_court": "Veilleur / Veilleuse documentaire",
+            "priorisation": "1",
+            "libelle": "Veilleur / Veilleuse documentaire",
+            "code_ogr": "20508"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Accueillir le public et le renseigner sur l'utilisation de supports et outils documentaires",
+            "code_ogr": "583",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Identifier et rechercher les informations documentaires, les s\u00e9lectionner et les mettre \u00e0 disposition",
+            "code_ogr": "2025",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "2",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Classer et actualiser les documents, les informations et fonds documentaires",
+            "code_ogr": "819",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser la protection et l'identification des documents et en contr\u00f4ler l'\u00e9tat de conservation",
+            "code_ogr": "2780",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Exploiter un syst\u00e8me de gestion documentaire (mise \u00e0 disposition, \u00e9change, classement, ...)",
+            "code_ogr": "1975",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer et diffuser les documents, produits documentaires (synth\u00e8se, catalogue, notes, revue de presse, site web, ...)",
+            "code_ogr": "1701",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "6",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les acquisitions, les collectes de documents, d'informations documentaires et la constitution de fonds documentaires",
+            "code_ogr": "1612",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Enregistrer et suivre les pr\u00eats, emprunts (inscriptions, sorties, retours) des documents",
+            "code_ogr": "5686",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "8",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "E1101",
+            "libelle_rome_cible": "Animation de site multim\u00e9dia"
+        },
+        {
+            "code_rome_cible": "G1202",
+            "libelle_rome_cible": "Animation d'activit\u00e9s culturelles ou ludiques"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible \u00e0 partir d'un dipl\u00f4me de niveau Bac +2 (L2, BTS, ...) en sciences de l'information.\nIl est \u00e9galement accessible avec un Master dans un secteur sp\u00e9cifique (sciences, histoire, \u00e9conomie, droit, ...) accompagn\u00e9 de formations aux techniques de gestion documentaire ou aux archives.\nLa ma\u00eetrise des technologies de l'information (acc\u00e8s, stockage, num\u00e9risation, diffusion, ...) est requise.\n",
+    "activite_specifique": [
+        {
+            "libelle": "Intervenir sur des supports documentaires :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Archives anciennes",
+            "code_ogr": "7136",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Archives interm\u00e9diaires, courantes",
+            "code_ogr": "7137",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Disques, cassettes (audio, vid\u00e9o)",
+            "code_ogr": "7138",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Livres anciens, manuscrits, incunables",
+            "code_ogr": "7139",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Livres, p\u00e9riodiques, presse",
+            "code_ogr": "7140",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Microfiches, microfilms",
+            "code_ogr": "7141",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Multim\u00e9dia, CD Rom, DVD, Internet, banque de donn\u00e9es num\u00e9riques",
+            "code_ogr": "7142",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Traiter des informations dans un domaine :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Culturel (art, litt\u00e9rature, musique, cin\u00e9ma, th\u00e9\u00e2tre, ...)",
+            "code_ogr": "9988",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Economie",
+            "code_ogr": "9989",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Histoire, g\u00e9ographie",
+            "code_ogr": "9992",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "3",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Jeunesse",
+            "code_ogr": "9993",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "M\u00e9decine",
+            "code_ogr": "9994",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "M\u00e9dias",
+            "code_ogr": "9995",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Professionnel (fiscal, juridique, commercial, contractuel, ...)",
+            "code_ogr": "9999",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Religion",
+            "code_ogr": "10000",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sciences",
+            "code_ogr": "10001",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Sciences sociales, ressources humaines",
+            "code_ogr": "10002",
+            "code_type_activite": "1",
+            "riasec_majeur": "S",
+            "position_item": "10",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Technique, technologie",
+            "code_ogr": "10005",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "11",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des r\u00e9parations de remise en \u00e9tat et de restauration de documents",
+            "code_ogr": "5056",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Reproduire et enregistrer des documents sous forme de microfilms, donn\u00e9es num\u00e9riques, ...",
+            "code_ogr": "9603",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Administrer le contenu d'un site Web",
+            "code_ogr": "3683",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Animer des expositions, rencontres, \u00e9v\u00e8nements culturels (litt\u00e9raires, artistiques, scientifiques, ...)",
+            "code_ogr": "3731",
+            "code_type_activite": "1",
+            "riasec_majeur": "A",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "G\u00e9rer une ludoth\u00e8que ou un espace culturel et mettre \u00e0 disposition du public des jeux et des jouets",
+            "code_ogr": "38599",
+            "code_type_activite": "3",
+            "riasec_majeur": "S",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9finir les r\u00e8gles de gestion et solutions de conservation de documents (acc\u00e8s, diffusion, consultation, mise \u00e0 disposition, \u00e9limination, ...)",
+            "code_ogr": "4552",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "e",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "S\u00e9lectionner des fournisseurs/prestataires, n\u00e9gocier les conditions du contrat et contr\u00f4ler la r\u00e9alisation de l'intervention, des produits, ...",
+            "code_ogr": "3606",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9finir et suivre la politique documentaire et de d\u00e9veloppement des fonds et des collections (acquisition, valorisation, ...) et de partenariats",
+            "code_ogr": "4522",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "riasec_mineur": "a",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Mettre \u00e0 jour les donn\u00e9es du budget, de fonctionnement, d'activit\u00e9s (fr\u00e9quentation, acquisition, bilan, ...) du service, de la structure",
+            "code_ogr": "7433",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe ou diriger une structure",
+            "code_ogr": "4326",
+            "code_type_activite": "1",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein de collectivit\u00e9s territoriales, d'entreprises, de services de l'Etat, ... en contact avec le public et les services de l'entreprise.\nElle varie selon le domaine d'intervention (biblioth\u00e8que, ludoth\u00e8que, archives, ...), le type de structure (entreprise, collectivit\u00e9, ...) et le type de support (papier, num\u00e9rique).\nElle peut s'exercer en horaires d\u00e9cal\u00e9s, les fins de semaine.\nL'activit\u00e9 peut impliquer le port de charges.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outils bureautiques (traitement de texte, tableur,...)",
+            "code_ogr": "21467",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion documentaire",
+            "code_ogr": "21260",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels d'\u00e9dition multim\u00e9dia",
+            "code_ogr": "21271",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Lecture publique",
+            "code_ogr": "20961",
+            "position_item": "1",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Agence de publicit\u00e9",
+            "code_ogr": "23692",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Association",
+            "code_ogr": "23706",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Biblioth\u00e8que, centre de documentation",
+            "code_ogr": "23719",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise",
+            "code_ogr": "23867",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise publique/\u00e9tablissement public",
+            "code_ogr": "23912",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement/organisme de recherche",
+            "code_ogr": "23925",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisme culturel, du patrimoine",
+            "code_ogr": "24016",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Administration / Services de l'Etat",
+            "code_ogr": "23388",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Droit de la propri\u00e9t\u00e9 intellectuelle",
+            "code_ogr": "21797",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9thodes de classement et d'archivage",
+            "code_ogr": "22127",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes r\u00e9dactionnelles",
+            "code_ogr": "22235",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de communication",
+            "code_ogr": "22840",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'inventaire",
+            "code_ogr": "23233",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Biblioth\u00e9conomie",
+            "code_ogr": "21526",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de conservation de documents",
+            "code_ogr": "22847",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de restauration",
+            "code_ogr": "23102",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques de micro filmage, de num\u00e9risation",
+            "code_ogr": "22982",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'animation de groupe",
+            "code_ogr": "22770",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques commerciales",
+            "code_ogr": "23012",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Bibliom\u00e9trie",
+            "code_ogr": "21525",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en gestion comptable et administrative",
+            "code_ogr": "21871",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nRecherche et g\u00e8re des sources et des informations documentaires selon les besoins de sa structure. Met \u00e0 disposition un fonds documentaire physique et num\u00e9rique (documents \u00e9crits, enregistr\u00e9s) et en facilite l'acc\u00e8s \u00e0 diff\u00e9rents publics (particuliers, professionnels, chercheurs, ...).\nPeut constituer et g\u00e9rer un fonds de jeux et de jouets destin\u00e9s \u00e0 des publics divers (enfants, adultes, personnes \u00e2g\u00e9es, ...).\nPeut r\u00e9aliser l'acquisition et la valorisation de documents.\nPeut diriger une \u00e9quipe, un service et animer un r\u00e9seau de biblioth\u00e8ques.\n",
+    "intitule": "Gestion de l'information et de la documentation",
+    "code_ogr": "389",
+    "code_rome": "K1601",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "E1103",
+            "libelle_rome_cible": "Communication"
+        },
+        {
+            "code_rome_cible": "E1106",
+            "libelle_rome_cible": "Journalisme et information m\u00e9dia"
+        },
+        {
+            "code_rome_cible": "K1206",
+            "libelle_rome_cible": "Intervention socioculturelle"
+        },
+        {
+            "code_rome_cible": "K1602",
+            "libelle_rome_cible": "Gestion de patrimoine culturel"
+        },
+        {
+            "code_rome_cible": "K2401",
+            "libelle_rome_cible": "Recherche en sciences de l'homme et de la soci\u00e9t\u00e9"
+        },
+        {
+            "code_rome_cible": "M1702",
+            "libelle_rome_cible": "Analyse de tendance"
+        }
+    ]
+}

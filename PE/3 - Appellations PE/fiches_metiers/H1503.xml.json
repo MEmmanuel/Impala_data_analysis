@@ -1,0 +1,831 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente de laboratoire d'analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de laboratoire d'analyse industrielle",
+            "code_ogr": "10467"
+        },
+        {
+            "libelle_court": "Aide de laboratoire d'analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Aide de laboratoire d'analyse industrielle",
+            "code_ogr": "10828"
+        },
+        {
+            "libelle_court": "Aide-biochimiste d'analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Aide-biochimiste d'analyse industrielle",
+            "code_ogr": "10865"
+        },
+        {
+            "libelle_court": "Aide-biologiste d'analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Aide-biologiste d'analyse industrielle",
+            "code_ogr": "10866"
+        },
+        {
+            "libelle_court": "Aide-chimiste d'analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Aide-chimiste d'analyse industrielle",
+            "code_ogr": "10870"
+        },
+        {
+            "libelle_court": "Aide-physicien / Aide-physicienne d'analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Aide-physicien / Aide-physicienne d'analyse industrielle",
+            "code_ogr": "10887"
+        },
+        {
+            "libelle_court": "Analyste biologie/microbiologie en industrie",
+            "priorisation": "1",
+            "libelle": "Analyste biologie/microbiologie en industrie",
+            "code_ogr": "10931"
+        },
+        {
+            "libelle_court": "Analyste de laboratoire en industrie pharmaceutique",
+            "priorisation": "1",
+            "libelle": "Analyste de laboratoire en industrie pharmaceutique",
+            "code_ogr": "10939"
+        },
+        {
+            "libelle_court": "Analyste physicochimiste en industrie",
+            "priorisation": "1",
+            "libelle": "Analyste physicochimiste en industrie",
+            "code_ogr": "10953"
+        },
+        {
+            "libelle_court": "Analyste radioactivit\u00e9 en industrie",
+            "priorisation": "1",
+            "libelle": "Analyste radioactivit\u00e9 en industrie",
+            "code_ogr": "10955"
+        },
+        {
+            "libelle_court": "Biochimiste en laboratoire d'analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Biochimiste en laboratoire d'analyse industrielle",
+            "code_ogr": "11517"
+        },
+        {
+            "libelle_court": "Biochimiste en laboratoire de contr\u00f4le en industrie",
+            "priorisation": "1",
+            "libelle": "Biochimiste en laboratoire de contr\u00f4le en industrie",
+            "code_ogr": "11518"
+        },
+        {
+            "libelle_court": "Biologiste de contr\u00f4le fabrication en industrie",
+            "priorisation": "1",
+            "libelle": "Biologiste de contr\u00f4le fabrication en industrie",
+            "code_ogr": "11523"
+        },
+        {
+            "libelle_court": "Charg\u00e9 / Charg\u00e9e d'analyses physico-chimiques de laboratoire",
+            "priorisation": "1",
+            "libelle": "Charg\u00e9 / Charg\u00e9e d'analyses physico-chimiques de laboratoire",
+            "code_ogr": "11762"
+        },
+        {
+            "libelle_court": "Chimiste en laboratoire d'analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Chimiste en laboratoire d'analyse industrielle",
+            "code_ogr": "12621"
+        },
+        {
+            "libelle_court": "Chimiste en laboratoire de contr\u00f4le en industrie",
+            "priorisation": "1",
+            "libelle": "Chimiste en laboratoire de contr\u00f4le en industrie",
+            "code_ogr": "12622"
+        },
+        {
+            "libelle_court": "Laborantin / Laborantine chimie environnement en industrie",
+            "priorisation": "1",
+            "libelle": "Laborantin / Laborantine chimie environnement en industrie",
+            "code_ogr": "16142"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice d'analyse de laboratoire",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice d'analyse de laboratoire",
+            "code_ogr": "17058"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice de laboratoire d'analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de laboratoire d'analyse industrielle",
+            "code_ogr": "17106"
+        },
+        {
+            "libelle_court": "Pr\u00e9leveur / Pr\u00e9leveuse d'eau",
+            "priorisation": "1",
+            "libelle": "Pr\u00e9leveur / Pr\u00e9leveuse d'eau",
+            "code_ogr": "17968"
+        },
+        {
+            "libelle_court": "Pr\u00e9leveur / Pr\u00e9leveuse en laboratoire d'analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Pr\u00e9leveur / Pr\u00e9leveuse en laboratoire d'analyse industrielle",
+            "code_ogr": "17969"
+        },
+        {
+            "libelle_court": "Pr\u00e9parateur(trice) de laboratoire d'analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Pr\u00e9parateur / Pr\u00e9paratrice de laboratoire d'analyse industrielle",
+            "code_ogr": "17997"
+        },
+        {
+            "libelle_court": "Surveillant / Surveillante de la pollution de l'air",
+            "priorisation": "1",
+            "libelle": "Surveillant / Surveillante de la pollution de l'air",
+            "code_ogr": "19589"
+        },
+        {
+            "libelle_court": "Technicien(ne) analyse-contr\u00f4le en industrie chimique",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne analyse-contr\u00f4le en industrie chimique",
+            "code_ogr": "19653"
+        },
+        {
+            "libelle_court": "Technicien(ne) bact\u00e9riologiste laboratoire contr\u00f4le en ind",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne bact\u00e9riologiste en laboratoire de contr\u00f4le en industrie",
+            "code_ogr": "19668"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne biochimiste d'analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne biochimiste d'analyse industrielle",
+            "code_ogr": "19671"
+        },
+        {
+            "libelle_court": "Technicien(ne) biochimiste en laboratoire de contr\u00f4le en ind",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne biochimiste en laboratoire de contr\u00f4le en industrie",
+            "code_ogr": "19672"
+        },
+        {
+            "libelle_court": "Technicien(ne) biologiste laboratoire d'analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne biologiste en laboratoire d'analyse industrielle",
+            "code_ogr": "19673"
+        },
+        {
+            "libelle_court": "Technicien(ne) biologiste en laboratoire de contr\u00f4le en ind",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne biologiste en laboratoire de contr\u00f4le en industrie",
+            "code_ogr": "19674"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne chimie environnement en industrie",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne chimie environnement en industrie",
+            "code_ogr": "19687"
+        },
+        {
+            "libelle_court": "Technicien(ne) chimiste laboratoire analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne chimiste en laboratoire d'analyse industrielle",
+            "code_ogr": "19688"
+        },
+        {
+            "libelle_court": "Technicien(ne) chimiste en laboratoire de contr\u00f4le en ind",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne chimiste en laboratoire de contr\u00f4le en industrie",
+            "code_ogr": "19689"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne d'analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne d'analyse industrielle",
+            "code_ogr": "19711"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne d'analyses chimiques en industries",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne d'analyses chimiques en industries",
+            "code_ogr": "19712"
+        },
+        {
+            "libelle_court": "Technicien(ne) de contr\u00f4le en biotechnologie en industrie",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de contr\u00f4le en biotechnologie en industrie",
+            "code_ogr": "19727"
+        },
+        {
+            "libelle_court": "Technicien(ne) de contr\u00f4le en micro-biologie en industrie",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de contr\u00f4le en micro-biologie en industrie",
+            "code_ogr": "19732"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne de contr\u00f4le pyrotechnique",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de contr\u00f4le pyrotechnique",
+            "code_ogr": "19738"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne de la qualit\u00e9 de l'eau",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de la qualit\u00e9 de l'eau",
+            "code_ogr": "19783"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne de laboratoire d'analyse des eaux",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de laboratoire d'analyse des eaux",
+            "code_ogr": "19788"
+        },
+        {
+            "libelle_court": "Technicien(ne) de laboratoire d'analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de laboratoire d'analyse industrielle",
+            "code_ogr": "19789"
+        },
+        {
+            "libelle_court": "Technicien(ne) labo de contr\u00f4le en \u00e9nergie/p\u00e9trochimie",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de laboratoire de contr\u00f4le en \u00e9nergie/p\u00e9trochimie",
+            "code_ogr": "19790"
+        },
+        {
+            "libelle_court": "Technicien(ne) de laboratoire de contr\u00f4le en ind alimentaire",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de laboratoire de contr\u00f4le en industrie alimentaire",
+            "code_ogr": "19791"
+        },
+        {
+            "libelle_court": "Technicien(ne) de laboratoire de contr\u00f4le en ind chimique",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de laboratoire de contr\u00f4le en industrie chimique",
+            "code_ogr": "19792"
+        },
+        {
+            "libelle_court": "Technicien(ne) de laboratoire de contr\u00f4le en ind papeti\u00e8re",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de laboratoire de contr\u00f4le en industrie papeti\u00e8re",
+            "code_ogr": "19793"
+        },
+        {
+            "libelle_court": "Technicien(ne) de labo de contr\u00f4le en ind pharmaceutique",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de laboratoire de contr\u00f4le en industrie pharmaceutique",
+            "code_ogr": "19794"
+        },
+        {
+            "libelle_court": "Technicien(ne) labo de contr\u00f4le en m\u00e9tallurgie/sid\u00e9rurgie",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de laboratoire de contr\u00f4le en m\u00e9tallurgie/sid\u00e9rurgie",
+            "code_ogr": "19795"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne de mesure de la qualit\u00e9 de l'eau",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne de mesure de la qualit\u00e9 de l'eau",
+            "code_ogr": "19878"
+        },
+        {
+            "libelle_court": "Technicien(ne) de biotechnologie en laboratoire analyse ind",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en biotechnologie en laboratoire d'analyse industrielle",
+            "code_ogr": "20042"
+        },
+        {
+            "libelle_court": "Technicien(ne) micro-biologie en labo analyse industrielle",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en micro-biologie en laboratoire d'analyse industrielle",
+            "code_ogr": "20094"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne en pyrom\u00e9trie",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne en pyrom\u00e9trie",
+            "code_ogr": "38386"
+        },
+        {
+            "libelle_court": "Technicien(ne) laboratoire en mat\u00e9riaux de construction",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne laboratoire en mat\u00e9riaux de construction",
+            "code_ogr": "20177"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne qualit\u00e9 en industrie alimentaire",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne qualit\u00e9 en industrie alimentaire",
+            "code_ogr": "20228"
+        },
+        {
+            "libelle_court": "Technicien / Technicienne sanitaire des eaux",
+            "priorisation": "1",
+            "libelle": "Technicien / Technicienne sanitaire des eaux",
+            "code_ogr": "20248"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Pr\u00e9parer les produits et les appareils de mesures et d'analyses et contr\u00f4ler leur conformit\u00e9 d'\u00e9talonnage et de fonctionnement",
+            "code_ogr": "2627",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9ceptionner les \u00e9chantillons ou effectuer les pr\u00e9l\u00e8vements de mati\u00e8res, de produits",
+            "code_ogr": "2924",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer les mesures et analyses, relever les donn\u00e9es et les transmettre",
+            "code_ogr": "1627",
+            "code_type_activite": "2",
+            "riasec_majeur": "I",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler l'application des proc\u00e9dures et r\u00e8gles d'hygi\u00e8ne, s\u00e9curit\u00e9, qualit\u00e9 et environnement",
+            "code_ogr": "3514",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Consigner les r\u00e9sultats de mesures et d'analyses et renseigner les supports de suivi",
+            "code_ogr": "981",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer l'entretien et la maintenance de premier niveau d'\u00e9quipements de laboratoire",
+            "code_ogr": "1595",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "riasec_mineur": "i",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "H1210",
+            "libelle_rome_cible": "Intervention technique en \u00e9tudes, recherche et d\u00e9veloppement"
+        },
+        {
+            "code_rome_cible": "H1506",
+            "libelle_rome_cible": "Intervention technique qualit\u00e9 en m\u00e9canique et travail des m\u00e9taux"
+        },
+        {
+            "code_rome_cible": "J1302",
+            "libelle_rome_cible": "Analyses m\u00e9dicales"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau Bac+2 (BTS, DUT, L2) dans un secteur technique (m\u00e9tallurgie, ...) ou scientifique (chimie, biologie, physique, ...).\nIl est \u00e9galement accessible avec un Bac (professionnel, scientifique) dans les m\u00eames secteurs, compl\u00e9t\u00e9 par une exp\u00e9rience professionnelle.\nDes habilitations sp\u00e9cifiques (radiochimique, ...) ou des vaccinations particuli\u00e8res (h\u00e9patite, leptospirose, ...) peuvent \u00eatre requises selon la nature des analyses effectu\u00e9es.\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser des analyses en  :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Acoustique",
+            "code_ogr": "8226",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bact\u00e9riologie",
+            "code_ogr": "8227",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "2",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Biochimie",
+            "code_ogr": "8228",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Biologie, microbiologie",
+            "code_ogr": "8229",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chimie",
+            "code_ogr": "8230",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chromatographie",
+            "code_ogr": "8231",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "M\u00e9tallurgie, m\u00e9taux",
+            "code_ogr": "8232",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "7",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Physico-chimie",
+            "code_ogr": "8233",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "8",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Physique, physique nucl\u00e9aire",
+            "code_ogr": "8234",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "9",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Radiochimie, dosim\u00e9trie et m\u00e9trologie des rayonnements",
+            "code_ogr": "8235",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "10",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Thermique",
+            "code_ogr": "8236",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "11",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des analyses d'effluents liquides, gazeux et contr\u00f4ler la conformit\u00e9 des r\u00e9sultats",
+            "code_ogr": "4852",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des bilans p\u00e9riodiques des analyses r\u00e9alis\u00e9es",
+            "code_ogr": "8276",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des \u00e9chantillons de nouveaux produits, relever des r\u00e9actions et modifier des compositions",
+            "code_ogr": "8369",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "s",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Elaborer des protocoles d'analyses",
+            "code_ogr": "5586",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9senter et expliciter des \u00e9volutions de protocoles d'analyses, de proc\u00e9dures qualit\u00e9",
+            "code_ogr": "8048",
+            "code_type_activite": "1",
+            "riasec_majeur": "I",
+            "position_item": "1",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etablir un diagnostic de pannes d'appareils et instruments de laboratoire et planifier des op\u00e9rations de maintenance",
+            "code_ogr": "5846",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Suivre et mettre \u00e0 jour l'information technique, \u00e9conomique, r\u00e8glementaire, ...",
+            "code_ogr": "3611",
+            "code_type_activite": "3",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9finir des besoins en approvisionnement et effectuer des commandes",
+            "code_ogr": "4485",
+            "code_type_activite": "1",
+            "riasec_majeur": "C",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce en laboratoire au sein d'entreprises industrielles, d'organismes de recherche, de contr\u00f4le, de collectivit\u00e9s territoriales, de services de l'Etat, ... en relation avec diff\u00e9rents services et intervenants (production, exploitation, qualit\u00e9, clients, fournisseurs, ...).\nElle varie selon le secteur (chimie, alimentaire, ...).\nElle peut s'exercer par roulement, les fins de semaine, jours f\u00e9ri\u00e9s et \u00eatre soumise \u00e0 des astreintes.\nElle peut s'effectuer en zone \u00e0 atmosph\u00e8re contr\u00f4l\u00e9e.\nLe port d'Equipements de Protection Individuelle -EPI- (gants, masque, blouse, ...) est exig\u00e9.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion de base de donn\u00e9es",
+            "code_ogr": "21254",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciels de gestion documentaire",
+            "code_ogr": "21260",
+            "position_item": "2",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Collectivit\u00e9 territoriale",
+            "code_ogr": "23808",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Etablissement/organisme de recherche",
+            "code_ogr": "23925",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Laboratoire d'analyses",
+            "code_ogr": "23984",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Organisme de contr\u00f4le et de certification",
+            "code_ogr": "24017",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Administration / Services de l'Etat",
+            "code_ogr": "23388",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Agriculture",
+            "code_ogr": "23394",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Alimentaire",
+            "code_ogr": "23395",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arm\u00e9e",
+            "code_ogr": "23401",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chimie",
+            "code_ogr": "23436",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chimie fine",
+            "code_ogr": "23437",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Eco-industrie",
+            "code_ogr": "23469",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Energie, nucl\u00e9aire, fluide",
+            "code_ogr": "23480",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Environnement",
+            "code_ogr": "23485",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie cosm\u00e9tique",
+            "code_ogr": "23530",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Industrie du papier, carton",
+            "code_ogr": "23531",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9tallurgie, sid\u00e9rurgie",
+            "code_ogr": "23558",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Parachimie",
+            "code_ogr": "23573",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "P\u00e9trochimie",
+            "code_ogr": "23582",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Plasturgie, caoutchouc, composites",
+            "code_ogr": "23585",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Verre, mat\u00e9riaux de construction",
+            "code_ogr": "23673",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "Normes qualit\u00e9",
+            "code_ogr": "22233",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Bonnes Pratiques de Laboratoire -BPL-",
+            "code_ogr": "21532",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation en Hygi\u00e8ne, S\u00e9curit\u00e9, Environnement -HSE-",
+            "code_ogr": "22567",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'analyse physico-chimique (chromatographie, spectrom\u00e9trie, ...)",
+            "code_ogr": "22766",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9trologie",
+            "code_ogr": "22153",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Mesures physiques",
+            "code_ogr": "22108",
+            "position_item": "6",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9gulation et instrumentation",
+            "code_ogr": "22661",
+            "position_item": "7",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes environnementales",
+            "code_ogr": "22230",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e9glementation sanitaire",
+            "code_ogr": "22579",
+            "position_item": "2",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise des mesures et des analyses de conformit\u00e9 (normes, taux, ...) sur la qualit\u00e9 biologique, chimique ou physique, de mati\u00e8res ou de produits, au moyen de mat\u00e9riel de laboratoire, selon un protocole de contr\u00f4le et les r\u00e8gles d'hygi\u00e8ne, s\u00e9curit\u00e9, environnement.\n",
+    "intitule": "Intervention technique en laboratoire d'analyse industrielle",
+    "code_ogr": "231",
+    "code_rome": "H1503",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "H1206",
+            "libelle_rome_cible": "Management et ing\u00e9nierie \u00e9tudes, recherche et d\u00e9veloppement industriel"
+        },
+        {
+            "code_rome_cible": "H1303",
+            "libelle_rome_cible": "Intervention technique en Hygi\u00e8ne S\u00e9curit\u00e9 Environnement -HSE- industriel"
+        },
+        {
+            "code_rome_cible": "H1404",
+            "libelle_rome_cible": "Intervention technique en m\u00e9thodes et industrialisation"
+        },
+        {
+            "code_rome_cible": "H1501",
+            "libelle_rome_cible": "Direction de laboratoire d'analyse industrielle"
+        },
+        {
+            "code_rome_cible": "H1502",
+            "libelle_rome_cible": "Management et ing\u00e9nierie qualit\u00e9 industrielle"
+        }
+    ]
+}

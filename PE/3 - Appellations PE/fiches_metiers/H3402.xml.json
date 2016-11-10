@@ -1,0 +1,906 @@
+{
+    "appelations": [
+        {
+            "libelle_court": "Agent / Agente de traitement de surface",
+            "priorisation": "1",
+            "libelle": "Agent / Agente de traitement de surface",
+            "code_ogr": "10628"
+        },
+        {
+            "libelle_court": "Anodiseur industriel / Anodiseuse industrielle",
+            "priorisation": "1",
+            "libelle": "Anodiseur industriel / Anodiseuse industrielle",
+            "code_ogr": "11074"
+        },
+        {
+            "libelle_court": "Argenteur industriel / Argenteuse industrielle",
+            "priorisation": "1",
+            "libelle": "Argenteur industriel / Argenteuse industrielle",
+            "code_ogr": "11137"
+        },
+        {
+            "libelle_court": "Cadmieur industriel / Cadmieuse industrielle",
+            "priorisation": "1",
+            "libelle": "Cadmieur industriel / Cadmieuse industrielle",
+            "code_ogr": "11623"
+        },
+        {
+            "libelle_court": "Caoutchouteur industriel / Caoutchoutrice industrielle",
+            "priorisation": "1",
+            "libelle": "Caoutchouteur industriel / Caoutchoutrice industrielle",
+            "code_ogr": "11666"
+        },
+        {
+            "libelle_court": "Chef d'\u00e9quipe galvanisation",
+            "priorisation": "1",
+            "libelle": "Chef d'\u00e9quipe galvanisation",
+            "code_ogr": "12475"
+        },
+        {
+            "libelle_court": "Chromeur industriel / Chromeuse industrielle",
+            "priorisation": "1",
+            "libelle": "Chromeur industriel / Chromeuse industrielle",
+            "code_ogr": "12635"
+        },
+        {
+            "libelle_court": "Conducteur / Conductrice de bain de traitement de surface",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice de bain de traitement de surface",
+            "code_ogr": "12879"
+        },
+        {
+            "libelle_court": "Conducteur(trice) d'installation de traitement de surface",
+            "priorisation": "1",
+            "libelle": "Conducteur / Conductrice d'installation de traitement de surface",
+            "code_ogr": "13280"
+        },
+        {
+            "libelle_court": "Cuivreur industriel / Cuivreuse industrielle",
+            "priorisation": "1",
+            "libelle": "Cuivreur industriel / Cuivreuse industrielle",
+            "code_ogr": "13870"
+        },
+        {
+            "libelle_court": "D\u00e9capeur industriel / D\u00e9capeuse industrielle",
+            "priorisation": "1",
+            "libelle": "D\u00e9capeur industriel / D\u00e9capeuse industrielle",
+            "code_ogr": "13896"
+        },
+        {
+            "libelle_court": "D\u00e9graisseur industriel / D\u00e9graisseuse industrielle",
+            "priorisation": "1",
+            "libelle": "D\u00e9graisseur industriel / D\u00e9graisseuse industrielle",
+            "code_ogr": "13920"
+        },
+        {
+            "libelle_court": "Doreur / Doreuse au rhodium",
+            "priorisation": "1",
+            "libelle": "Doreur / Doreuse au rhodium",
+            "code_ogr": "14520"
+        },
+        {
+            "libelle_court": "Doreur / Doreuse sur m\u00e9taux",
+            "priorisation": "1",
+            "libelle": "Doreur / Doreuse sur m\u00e9taux",
+            "code_ogr": "14523"
+        },
+        {
+            "libelle_court": "Electroplaste",
+            "priorisation": "1",
+            "libelle": "Electroplaste",
+            "code_ogr": "14678"
+        },
+        {
+            "libelle_court": "Emailleur industriel / Emailleuse industrielle",
+            "priorisation": "1",
+            "libelle": "Emailleur industriel / Emailleuse industrielle",
+            "code_ogr": "14737"
+        },
+        {
+            "libelle_court": "Etameur industriel / Etameuse industrielle",
+            "priorisation": "1",
+            "libelle": "Etameur industriel / Etameuse industrielle",
+            "code_ogr": "14907"
+        },
+        {
+            "libelle_court": "Etameur-galvaniseur / Etameuse-galvaniseuse",
+            "priorisation": "1",
+            "libelle": "Etameur-galvaniseur / Etameuse-galvaniseuse",
+            "code_ogr": "14908"
+        },
+        {
+            "libelle_court": "Galvaniseur industriel / Galvaniseuse industrielle",
+            "priorisation": "1",
+            "libelle": "Galvaniseur industriel / Galvaniseuse industrielle",
+            "code_ogr": "15181"
+        },
+        {
+            "libelle_court": "Galvanoplaste industriel / industrielle",
+            "priorisation": "1",
+            "libelle": "Galvanoplaste industriel / industrielle",
+            "code_ogr": "15182"
+        },
+        {
+            "libelle_court": "Galvanoplaste sur m\u00e9taux et substrat",
+            "priorisation": "1",
+            "libelle": "Galvanoplaste sur m\u00e9taux et substrat",
+            "code_ogr": "15183"
+        },
+        {
+            "libelle_court": "Mastiqueur industriel / Mastiqueuse industrielle",
+            "priorisation": "1",
+            "libelle": "Mastiqueur industriel / Mastiqueuse industrielle",
+            "code_ogr": "16422"
+        },
+        {
+            "libelle_court": "M\u00e9talliseur / M\u00e9talliseuse au pistolet industriel",
+            "priorisation": "1",
+            "libelle": "M\u00e9talliseur / M\u00e9talliseuse au pistolet industriel",
+            "code_ogr": "16641"
+        },
+        {
+            "libelle_court": "M\u00e9talliseur / M\u00e9talliseuse au plasma",
+            "priorisation": "1",
+            "libelle": "M\u00e9talliseur / M\u00e9talliseuse au plasma",
+            "code_ogr": "16642"
+        },
+        {
+            "libelle_court": "Metteur / Metteuse au bain industriel",
+            "priorisation": "1",
+            "libelle": "Metteur / Metteuse au bain industriel",
+            "code_ogr": "16663"
+        },
+        {
+            "libelle_court": "Nickeleur industriel / Nickeleuse industrielle",
+            "priorisation": "1",
+            "libelle": "Nickeleur industriel / Nickeleuse industrielle",
+            "code_ogr": "16990"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice de ligne de galvanisation",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de ligne de galvanisation",
+            "code_ogr": "17111"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice de ligne de traitement de surface",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice de ligne de traitement de surface",
+            "code_ogr": "17112"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur / Op\u00e9ratrice galvanoplaste",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur / Op\u00e9ratrice galvanoplaste",
+            "code_ogr": "17232"
+        },
+        {
+            "libelle_court": "Op\u00e9rateur(trice) d\u00e9capeur(se) industriel(le)",
+            "priorisation": "1",
+            "libelle": "Op\u00e9rateur d\u00e9capeur industriel / Op\u00e9ratrice d\u00e9capeuse industrielle",
+            "code_ogr": "17177"
+        },
+        {
+            "libelle_court": "Ouvrier / Ouvri\u00e8re en m\u00e9tallisation",
+            "priorisation": "1",
+            "libelle": "Ouvrier / Ouvri\u00e8re en m\u00e9tallisation",
+            "code_ogr": "17492"
+        },
+        {
+            "libelle_court": "Phosphateur industriel / Phosphateuse industrielle",
+            "priorisation": "1",
+            "libelle": "Phosphateur industriel / Phosphateuse industrielle",
+            "code_ogr": "17696"
+        },
+        {
+            "libelle_court": "Plastifieur industriel / Plastifieuse industrielle",
+            "priorisation": "1",
+            "libelle": "Plastifieur industriel / Plastifieuse industrielle",
+            "code_ogr": "17824"
+        },
+        {
+            "libelle_court": "Plombeur industriel / Plombeuse industrielle",
+            "priorisation": "1",
+            "libelle": "Plombeur industriel / Plombeuse industrielle",
+            "code_ogr": "17836"
+        },
+        {
+            "libelle_court": "Rhodieur industriel / Rhodieuse industrielle",
+            "priorisation": "1",
+            "libelle": "Rhodieur industriel / Rhodieuse industrielle",
+            "code_ogr": "19260"
+        },
+        {
+            "libelle_court": "Zingueur industriel / Zingueuse industrielle",
+            "priorisation": "1",
+            "libelle": "Zingueur industriel / Zingueuse industrielle",
+            "code_ogr": "20739"
+        }
+    ],
+    "activites_de_base": [
+        {
+            "libelle": "Contr\u00f4ler les pi\u00e8ces et l'aptitude au traitement (forme, \u00e9tat, dimension, ...), pr\u00e9parer les \u00e9quipements (lignes, bains, ...) et les supports (passoire, tonneau, ...)",
+            "code_ogr": "1140",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "riasec_mineur": "c",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Pr\u00e9parer les pi\u00e8ces (nettoyage, protection, masquage, ...), les positionner ou les fixer",
+            "code_ogr": "2625",
+            "code_type_activite": "2",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9gler ou contr\u00f4ler les \u00e9quipements, les bains ou les produits de traitement (fluidit\u00e9, temp\u00e9rature, ...)",
+            "code_ogr": "2993",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "3",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer et surveiller les traitements, les mises aux bains (d\u00e9graissage, d\u00e9capage, application, passivation, ...)",
+            "code_ogr": "1507",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "4",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Contr\u00f4ler le traitement des surfaces (aspect, d\u00e9p\u00f4t, ...) et effectuer des ajustements",
+            "code_ogr": "1115",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "5",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Renseigner les supports qualit\u00e9 et de suivi de production/r\u00e9alisation (incidents, interventions, ...)",
+            "code_ogr": "3068",
+            "code_type_activite": "2",
+            "riasec_majeur": "C",
+            "position_item": "6",
+            "riasec_mineur": "r",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer la maintenance pr\u00e9ventive/curative de premier niveau des \u00e9quipements",
+            "code_ogr": "3534",
+            "code_type_activite": "3",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "mobilites_proches": [
+        {
+            "code_rome_cible": "H2904",
+            "libelle_rome_cible": "Conduite d'\u00e9quipement de d\u00e9formation des m\u00e9taux"
+        },
+        {
+            "code_rome_cible": "H2906",
+            "libelle_rome_cible": "Conduite d'installation automatis\u00e9e ou robotis\u00e9e de fabrication m\u00e9canique"
+        },
+        {
+            "code_rome_cible": "H2907",
+            "libelle_rome_cible": "Conduite d'installation de production des m\u00e9taux"
+        },
+        {
+            "code_rome_cible": "H3203",
+            "libelle_rome_cible": "Fabrication de pi\u00e8ces en mat\u00e9riaux composites"
+        },
+        {
+            "code_rome_cible": "H3401",
+            "libelle_rome_cible": "Conduite de traitement d'abrasion de surface"
+        },
+        {
+            "code_rome_cible": "H3403",
+            "libelle_rome_cible": "Conduite de traitement thermique"
+        },
+        {
+            "code_rome_cible": "H3404",
+            "libelle_rome_cible": "Peinture industrielle"
+        }
+    ],
+    "acces_emploi_metier": "\nCet emploi/m\u00e9tier est accessible avec un dipl\u00f4me de niveau CAP/BEP \u00e0 Bac (professionnel, technologique) en traitement de surface, m\u00e9canique.\nIl est \u00e9galement accessible sans dipl\u00f4me ni exp\u00e9rience professionnelle.\nUn ou plusieurs Certificat(s) d'Aptitude \u00e0 la Conduite En S\u00e9curit\u00e9 -CACES- conditionn\u00e9(s) par une aptitude m\u00e9dicale \u00e0 renouveler p\u00e9riodiquement peu(ven)t \u00eatre exig\u00e9(s).\n",
+    "activite_specifique": [
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations de traitement de surface par :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Anodisation",
+            "code_ogr": "8784",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bain \u00e9lectrolytique",
+            "code_ogr": "8788",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bain d'acide",
+            "code_ogr": "8786",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Bain de gaz r\u00e9actif",
+            "code_ogr": "8787",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Chromatation",
+            "code_ogr": "8790",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9p\u00f4t sous vide",
+            "code_ogr": "8791",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "6",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Galvanoplastie",
+            "code_ogr": "8792",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "7",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Phosphatation",
+            "code_ogr": "8795",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "8",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Projection",
+            "code_ogr": "8799",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "9",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ultrasons",
+            "code_ogr": "8802",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "10",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations sur un \u00e9quipement sp\u00e9cifique :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cha\u00eene automatique, semi-automatique de traitement",
+            "code_ogr": "8933",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Cuve, bain",
+            "code_ogr": "8934",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Equipement sous vide",
+            "code_ogr": "8937",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Etuve, four",
+            "code_ogr": "8938",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Ligne, train de laminage \u00e0 froid",
+            "code_ogr": "8941",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "5",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Traiter des mat\u00e9riaux :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "M\u00e9taux ferreux (acier, fonte, ...)",
+            "code_ogr": "10008",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "M\u00e9taux non ferreux",
+            "code_ogr": "10009",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Min\u00e9raux, verre, c\u00e9ramique",
+            "code_ogr": "10011",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Plastique, caoutchouc, composites",
+            "code_ogr": "10012",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "D\u00e9poser un rev\u00eatement :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "M\u00e9tallique (nickel, cuivre, ...)",
+            "code_ogr": "4626",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Non m\u00e9tallique",
+            "code_ogr": "4627",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "R\u00e9aliser des op\u00e9rations de traitement sur un produit :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "De haute pr\u00e9cision",
+            "code_ogr": "8811",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Fabriqu\u00e9 en continu (feuillard, bande)",
+            "code_ogr": "8812",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Microm\u00e9canique",
+            "code_ogr": "8813",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Volumineux, lourd, de grande taille",
+            "code_ogr": "8814",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "4",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Utiliser un engin n\u00e9cessitant une habilitation :",
+            "code_ogr": "0",
+            "code_type_activite": "0",
+            "position_item": "0",
+            "code_type_item_activite": "0",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 318 (ponts roulants)",
+            "code_ogr": "10100",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-1 (Transpalettes \u00e0 conducteur port\u00e9 et pr\u00e9parateurs de commandes au sol)",
+            "code_ogr": "10122",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "2",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "CACES R 389-3 (Chariots \u00e9l\u00e9vateurs en porte-\u00e0-faux de capacit\u00e9 inf\u00e9rieure ou \u00e9gale \u00e0 6000 kg)",
+            "code_ogr": "10124",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "3",
+            "code_type_item_activite": "1",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des travaux de finition, parach\u00e8vement ou retouche de pi\u00e8ces",
+            "code_ogr": "5095",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Effectuer des emballages, conditionnements et exp\u00e9ditions de pi\u00e8ces",
+            "code_ogr": "4872",
+            "code_type_activite": "1",
+            "riasec_majeur": "R",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        },
+        {
+            "libelle": "Coordonner l'activit\u00e9 d'une \u00e9quipe",
+            "code_ogr": "3517",
+            "code_type_activite": "3",
+            "riasec_majeur": "E",
+            "position_item": "1",
+            "code_type_item_activite": "2",
+            "priorisation": "1"
+        }
+    ],
+    "condition_exercice_activite": "\nL'activit\u00e9 de cet emploi/m\u00e9tier s'exerce au sein d'entreprise industrielle, de chantier naval en relation avec diff\u00e9rents services (maintenance, m\u00e9thodes, qualit\u00e9, ...).\nElle varie selon le secteur (a\u00e9ronautique, automobile, ...), l'organisation (\u00eelots, lignes), le type d'\u00e9quipements, d'installations(salle de commande, ...) et de produits fabriqu\u00e9s.\nElle peut s'exercer par roulement, les fins de semaine, jours f\u00e9ri\u00e9s ou de nuit.\nLe port d'Equipements de Protection Individuelle -EPI- (gants, masque, lunettes de protection, ...) est requis.\n",
+    "savoir_action": [
+        {
+            "priorisation": "1",
+            "libelle": "Lecture de plan",
+            "code_ogr": "20946",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'instrument de mesure",
+            "code_ogr": "21436",
+            "position_item": "2",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outillages manuels (cl\u00e9, pince, scie, ...)",
+            "code_ogr": "21465",
+            "position_item": "3",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation d'outillages \u00e9lectroportatifs (scie \u00e9lectrique, ponceuse, ...)",
+            "code_ogr": "21464",
+            "position_item": "4",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de pistolet de projection",
+            "code_ogr": "21352",
+            "position_item": "5",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Pilotage en salle de commande",
+            "code_ogr": "21024",
+            "position_item": "1",
+            "code_type_competence": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Utilisation de logiciel de supervision",
+            "code_ogr": "21235",
+            "position_item": "2",
+            "code_type_competence": "2"
+        }
+    ],
+    "parse_appellation": 1,
+    "environnement_travail": [
+        {
+            "priorisation": "1",
+            "libelle": "Entreprise industrielle",
+            "code_ogr": "23909",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Soci\u00e9t\u00e9 de services",
+            "code_ogr": "24093",
+            "code_type_section_env": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "A\u00e9ronautique, spatial",
+            "code_ogr": "23391",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Armement",
+            "code_ogr": "23404",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Arts de la table",
+            "code_ogr": "23406",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Automobile",
+            "code_ogr": "23410",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Chaudronnerie, tuyauterie",
+            "code_ogr": "23433",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Construction navale",
+            "code_ogr": "23453",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electricit\u00e9",
+            "code_ogr": "23474",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electrom\u00e9nager",
+            "code_ogr": "23476",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Electronique",
+            "code_ogr": "23477",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Energie, nucl\u00e9aire, fluide",
+            "code_ogr": "23480",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Ferroviaire",
+            "code_ogr": "23498",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Fonderie, forge",
+            "code_ogr": "23502",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Machinisme",
+            "code_ogr": "23544",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9canique, travail des m\u00e9taux",
+            "code_ogr": "23552",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9dical",
+            "code_ogr": "23554",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "M\u00e9tallurgie, sid\u00e9rurgie",
+            "code_ogr": "23558",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Microm\u00e9canique",
+            "code_ogr": "23561",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Nautisme",
+            "code_ogr": "23567",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Plasturgie, caoutchouc, composites",
+            "code_ogr": "23585",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Sport et loisirs",
+            "code_ogr": "23640",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Structures m\u00e9talliques",
+            "code_ogr": "23641",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Transport/logistique",
+            "code_ogr": "23659",
+            "code_type_section_env": "2"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Verre, mat\u00e9riaux de construction",
+            "code_ogr": "23673",
+            "code_type_section_env": "2"
+        }
+    ],
+    "savoir_theorique_et_proceduraux": [
+        {
+            "priorisation": "1",
+            "libelle": "R\u00e8gles de s\u00e9curit\u00e9",
+            "code_ogr": "22621",
+            "position_item": "1",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Normes environnementales",
+            "code_ogr": "22230",
+            "position_item": "2",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en chimie",
+            "code_ogr": "21844",
+            "position_item": "3",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "El\u00e9ments de base en m\u00e9tallurgie",
+            "code_ogr": "21886",
+            "position_item": "4",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Physique",
+            "code_ogr": "22292",
+            "position_item": "5",
+            "code_type_competence": "1"
+        },
+        {
+            "priorisation": "1",
+            "libelle": "Techniques d'emballage et de conditionnement",
+            "code_ogr": "23192",
+            "position_item": "1",
+            "code_type_competence": "1"
+        }
+    ],
+    "definition": "\nR\u00e9alise des traitements de surface de protection \u00e0 l'usure, \u00e0 la corrosion et/ou de d\u00e9coration par d\u00e9p\u00f4t \u00e9lectrochimique sur des pi\u00e8ces et produits neufs ou us\u00e9s. Intervient selon les r\u00e8gles de s\u00e9curit\u00e9 et les imp\u00e9ratifs de r\u00e9alisation (d\u00e9lais, qualit\u00e9, ...).\nPeut coordonner une \u00e9quipe.\n",
+    "intitule": "Conduite de traitement par d\u00e9p\u00f4t de surface",
+    "code_ogr": "301",
+    "code_rome": "H3402",
+    "mobilites_si_evolution": [
+        {
+            "code_rome_cible": "H2503",
+            "libelle_rome_cible": "Pilotage d'unit\u00e9 \u00e9l\u00e9mentaire de production m\u00e9canique ou de travail des m\u00e9taux"
+        }
+    ]
+}
