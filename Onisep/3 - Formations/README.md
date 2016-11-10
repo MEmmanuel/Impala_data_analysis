@@ -56,8 +56,3 @@ Le dossier '4 - Metier niveau diplome' contient :
 -----> le script 'Metier niveau diplome.ipynb' calcule le niveau d'étude de chaque métier en fonction des exemples de formations requises.
 Pas forcément utile vu que le niveau est en fait déjà indiqué dans les fiches métiers.
 
-Le dossier '5 - tags' contient notamment :
------> le script 'tag_test.ipynb': donne les métiers avec le plus de tags donnés en arguments
-
-Le dossier '6 - Onisep ROME clean' contient :
------> L'association Onisep/Code ROME complétée à la main
